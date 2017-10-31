@@ -136,6 +136,7 @@
 - [DarkCaverns](https://github.com/PeteyCodes/DarkCaverns) - A basic roguelike built in C
 - [elogind](https://github.com/elogind/elogind) - The systemd project's "logind", extracted to a standalone package
 - [rogue](https://github.com/wadsworj/rogue) - A Rogue/Net Hack clone built in C with the NCurses library. Code to follow rogue tutorial that I have been posting on YoutTube.
+- [linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [allegro5](https://github.com/liballeg/allegro5) - The official Allegro 5 git repository. Pull requests welcome!
 - [MOTHBALLED-graphviz](https://github.com/ellson/MOTHBALLED-graphviz) - Moved to https://gitlab.com/graphviz/graphviz
@@ -510,6 +511,8 @@
 
 ## Common Lisp 
 
+- [cl-99-problems](https://github.com/bbatsov/cl-99-problems) - Solutions to the 99 Lisp problems in Common Lisp
+- [sly](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE
 - [pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [cepl-youtube-examples](https://github.com/stacksmith/cepl-youtube-examples) - Updated code and descriptions for cbaggers cepl videos
 - [urn](https://github.com/SquidDev/urn) - Yet another Lisp variant which compiles to Lua
@@ -554,6 +557,15 @@
 
 ## Emacs Lisp 
 
+- [find-file-in-project](https://github.com/technomancy/find-file-in-project) - Quick access to project files in Emacs
+- [ruby-end.el](https://github.com/rejeep/ruby-end.el) - Emacs minor mode for automatic insertion of end blocks for Ruby
+- [browse-kill-ring](https://github.com/browse-kill-ring/browse-kill-ring) - For when 'C-y M-y M-y M-y' gets you down
+- [company-flx](https://github.com/PythonNut/company-flx) - :city_sunset: Flx fuzzy matching for company
+- [ahk-mode](https://github.com/bbatsov/ahk-mode) - Autothotkey major mode for emacs
+- [rubocop-emacs](https://github.com/bbatsov/rubocop-emacs) - An Emacs interface for RuboCop
+- [helm-projectile](https://github.com/bbatsov/helm-projectile) - Helm UI for Projectile
+- [super-save](https://github.com/bbatsov/super-save) - Save Emacs buffers when they lose focus
+- [dotfiles](https://github.com/Ambrevar/dotfiles) - 
 - [helm-make](https://github.com/abo-abo/helm-make) - Select a Makefile target with helm.
 - [auto-shell-command](https://github.com/ongaeshi/auto-shell-command) - Run the shell command asynchronously that you specified when you save the file.
 - [dotfiles](https://github.com/dvc94ch/dotfiles) - My dotfiles
@@ -1478,6 +1490,7 @@
 
 ## JavaScript 
 
+- [gorilla-repl](https://github.com/JonyEpsilon/gorilla-repl) - A rich REPL for Clojure in the notebook style.
 - [livedown](https://github.com/shime/livedown) - Live Markdown previews for your favorite editor.
 - [BOOLR](https://github.com/GGBRW/BOOLR) - A digital logic simulator
 - [biwascheme](https://github.com/biwascheme/biwascheme) - Scheme interpreter written in JavaScript
@@ -1798,6 +1811,9 @@
 
 ## Others 
 
+- [clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
+- [rails-style-guide](https://github.com/bbatsov/rails-style-guide) - A community-driven Ruby on Rails 4 style guide
+- [ruby-style-guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide
 - [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 150 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, and Terminator)
 - [magit-cheatsheet](https://github.com/mtdavidson/magit-cheatsheet) - 
 - [ideas](https://github.com/hasky-mode/ideas) - An alternative Emacs mode for Haskell (so far, I collect here ideas and links)
@@ -2603,7 +2619,6 @@
 - [exercism.io](https://github.com/exercism/exercism.io) - Quickly ramp up in new programming languages.
 - [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - 《计算机程序的构造和解释》公开课中文化项目。
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
-- [linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for GitLab REST API
 - [github-preview](https://github.com/kei-s/github-preview) - Instant Preview for GitHub's README formats
 - [vagrant-hostmanager](https://github.com/devopsgroup-io/vagrant-hostmanager) - :pencil: A Vagrant plugin that manages hosts files within a multi-machine environment.
