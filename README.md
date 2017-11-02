@@ -53,6 +53,7 @@
   - [R](#r)
   - [Rascal](#rascal)
   - [Ring](#ring)
+  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -325,7 +326,7 @@
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [Computator.NET](https://github.com/PawelTroka/Computator.NET) - Computator.NET is a special kind of numerical software that is fast and easy to use but not worse than others feature-wise. It's features include:  - Real and complex functions charts   - Real and complex calculator   - Real functions numerical calculations including different methods   - Over 107 Elementary functions   - Over 141 Special functions   - Over 21 Matrix functions and operations   - Scripting language with power to easy computations including matrices   - You can declare your own custom functions with scripting language
 - [choco](https://github.com/chocolatey/choco) - Chocolatey CLI
-- [GVFS](https://github.com/Microsoft/GVFS) - Git Virtual File System
+- [GVFS](https://github.com/Microsoft/GVFS) - Git Virtual File System: Git at Enterprise Scale
 - [self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
 - [SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 - [OrgClockTray](https://github.com/schmendrik/OrgClockTray) - Display your org-mode clock time in a tray icon in Windows' Taskbar
@@ -441,6 +442,7 @@
 
 ## CSS 
 
+- [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.
 - [nix-pills](https://github.com/NixOS/nix-pills) - 
 - [spacemacs-gitbook](https://github.com/practicalli/spacemacs-gitbook) - Content for the book - Clojure Development with Spacemacs
 - [orgpress](https://github.com/jcouyang/orgpress) - modern emacs static blog generator
@@ -459,7 +461,7 @@
 - [arc-firefox-theme](https://github.com/horst3180/arc-firefox-theme) - Arc Firefox Theme
 - [cayman-theme](https://github.com/jasonlong/cayman-theme) - A responsive theme for GitHub Pages
 - [PythonBooks](https://github.com/revolunet/PythonBooks) - Directory of free Python ebooks
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Iconic font aggregator, collection, and patcher: 38 patched fonts (85k+ variations). Includes popular glyph collections such as Font Awesome & fonts such as Hack
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Iconic font aggregator, collection, and patcher: 39 patched fonts (87k+ variations). Includes popular glyph collections such as Font Awesome & fonts such as Hack
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [Flex](https://github.com/alexandrevicenzi/Flex) - The minimalist Pelican theme.
 - [hubpress.io](https://github.com/HubPress/hubpress.io) - A web application to build your blog on GitHub
@@ -557,6 +559,10 @@
 
 ## Emacs Lisp 
 
+- [mw-thesaurus.el](https://github.com/agzam/mw-thesaurus.el) - Merriam-Webster Thesaurus in Emacs
+- [debpaste.el](https://github.com/alezost/debpaste.el) - Emacs client for http://paste.debian.net/
+- [persp-fr](https://github.com/rocher/persp-fr) - Show perspective list in the GUI window frame
+- [dynamic-ruler](https://github.com/rocher/dynamic-ruler) - Emacs package to show a dynamic ruler that can be freely moved around the buffer, for measuring and positioning text.
 - [find-file-in-project](https://github.com/technomancy/find-file-in-project) - Quick access to project files in Emacs
 - [ruby-end.el](https://github.com/rejeep/ruby-end.el) - Emacs minor mode for automatic insertion of end blocks for Ruby
 - [browse-kill-ring](https://github.com/browse-kill-ring/browse-kill-ring) - For when 'C-y M-y M-y M-y' gets you down
@@ -1339,7 +1345,7 @@
 
 ## Go 
 
-- [httpparse](https://github.com/clearthesky/httpparse) - Capture and parse http traffics
+- [httpparse](https://github.com/hsiafan/httpparse) - Capture and parse http traffics
 - [blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
 - [goorgeous](https://github.com/chaseadamsio/goorgeous) - A go org syntax parser to html
 - [dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
@@ -1391,6 +1397,8 @@
 
 ## HTML 
 
+- [githunt](https://github.com/kamranahmedse/githunt) - Chrome Extension - Replace your new tab with trending Github repositories
+- [json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [ensime.github.io](https://github.com/ensime/ensime.github.io) - ENSIME Documentation
 - [emacs-modified-windows](https://github.com/vigou3/emacs-modified-windows) - Emacs Modified for Windows
 - [emacs4developers](https://github.com/pierre-lecocq/emacs4developers) - A document to help developers to use Emacs as a developer
@@ -1490,6 +1498,20 @@
 
 ## JavaScript 
 
+- [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
+- [showthedocs](https://github.com/idank/showthedocs) - 
+- [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
+- [upnext](https://github.com/ptgamr/upnext) - Chrome Extension for streaming music from SoundCloud & YouTube
+- [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
+- [chrome-fast-tab-switcher](https://github.com/BinaryMuse/chrome-fast-tab-switcher) - :keyboard: React-based extension to quickly switch to other open Chrome tabs with just your keyboard
+- [github-repo-size](https://github.com/harshjv/github-repo-size) - 🚀 Chrome extension to display repository size on GitHub
+- [GayHub](https://github.com/jawil/GayHub) - An awesome chrome extension for github :octocat:
+- [stylebot](https://github.com/ankit/stylebot) - Change the appearance of websites instantly.   Preview and install styles created by users for your favorite websites
+- [toggl-button](https://github.com/toggl/toggl-button) - Toggl Button extension for Chrome and Firefox
+- [dirac](https://github.com/binaryage/dirac) - A Chrome DevTools fork for ClojureScript developers
+- [web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
+- [simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的 Chrome extension
+- [github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
 - [gorilla-repl](https://github.com/JonyEpsilon/gorilla-repl) - A rich REPL for Clojure in the notebook style.
 - [livedown](https://github.com/shime/livedown) - Live Markdown previews for your favorite editor.
 - [BOOLR](https://github.com/GGBRW/BOOLR) - A digital logic simulator
@@ -1775,6 +1797,7 @@
 
 ## Makefile 
 
+- [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
 - [proprietary_vendor_samsung](https://github.com/TheMuppets/proprietary_vendor_samsung) - 
 - [packages](https://github.com/openwrt/packages) - Packages Repository
 - [xlogin](https://github.com/joukewitteveen/xlogin) - Automatic X login service for systemd
@@ -1811,6 +1834,8 @@
 
 ## Others 
 
+- [vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
+- [Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - :computer: Introduction to Linux commands and Shell scripting
 - [clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [rails-style-guide](https://github.com/bbatsov/rails-style-guide) - A community-driven Ruby on Rails 4 style guide
 - [ruby-style-guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide
@@ -1973,6 +1998,7 @@
 
 ## Perl 
 
+- [Perl_intro](https://github.com/learnbyexample/Perl_intro) - :dromedary_camel: Introductory course for Perl 5 through examples, geared towards VLSI engineers
 - [Graph-Easy](https://github.com/ironcamel/Graph-Easy) - Convert or render graphs (as ASCII, HTML, SVG or via Graphviz)
 - [hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
 - [backuppc](https://github.com/backuppc/backuppc) - BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
@@ -2019,6 +2045,8 @@
 
 ## Python 
 
+- [Python_Basics](https://github.com/learnbyexample/Python_Basics) - :snake: Syntax, working with Shell commands, Files, Text Processing, and more...
+- [HackPrincetonF16](https://github.com/anantdgoel/HackPrincetonF16) - Chrome extension to flag fake news on Facebook
 - [OSCP](https://github.com/ihack4falafel/OSCP) - Collection of things made during my OSCP journey
 - [uncaptcha](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
 - [scripts](https://github.com/weechat/scripts) - Official scripts for WeeChat.
@@ -2598,6 +2626,10 @@
 
 - [ring](https://github.com/ring-lang/ring) - The Ring Programming Language
 
+## Roff 
+
+- [retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities
+
 ## Ruby 
 
 - [hacking-material-books](https://github.com/r00t-3xp10it/hacking-material-books) - collection of articles/books about programing
@@ -2744,6 +2776,9 @@
 
 ## Shell 
 
+- [command_help](https://github.com/learnbyexample/command_help) - :information_source: Extract help text from builtin commands and man pages
+- [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more
+- [kodi-cli](https://github.com/nawar/kodi-cli) - Kodi/XBMC bash script to send Kodi commands from the command line
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [docker-emacsen](https://github.com/larsbrinkhoff/docker-emacsen) - Multiple versions of Emacs in a Docker image
 - [dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files and scripts for various Unix-like systems, mostly for text-based command-line applications and interfaces.
@@ -2768,7 +2803,7 @@
 - [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
 - [ganeti-instance-guix](https://github.com/mbakke/ganeti-instance-guix) - 
 - [vulhub](https://github.com/vulhub/vulhub) - Docker-Compose file for vulnerability environment
-- [hosts](https://github.com/sy618/hosts) - 
+- [hosts](https://github.com/sy618/hosts) - 已停更
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
 - [kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Perl / PHP / Python / Ruby
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
