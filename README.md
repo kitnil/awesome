@@ -83,6 +83,7 @@
 
 ## AutoHotkey 
 
+- [ewow](https://github.com/zk-phi/ewow) - use Emacs command (almost) everywhere
 - [dual](https://github.com/lydell/dual) - Dual is an AutoHotkey script that lets you define dual-role modifier keys easily.
 
 ## Awk 
@@ -99,6 +100,7 @@
 
 ## C 
 
+- [core](https://github.com/dovecot/core) - Dovecot mail server
 - [qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored.
 - [weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [emacs-16.56](https://github.com/larsbrinkhoff/emacs-16.56) - Build and run Emacs like it's 1985
@@ -120,7 +122,6 @@
 - [oscp](https://github.com/ferreirasc/oscp) - oscp study
 - [Punity](https://github.com/martincohen/Punity) - A tiny game engine in C.
 - [firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
-- [rathena](https://github.com/rathena/rathena) - rAthena is an open-source cross-platform MMORPG server.
 - [libmypaint](https://github.com/mypaint/libmypaint) - libmypaint, a.k.a. "brushlib", is a library for making brushstrokes which is used by MyPaint and other projects.
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [mathc](https://github.com/ferreiradaselva/mathc) - Pure C math library for 2D and 3D game programming
@@ -334,16 +335,18 @@
 
 ## C++ 
 
+- [par2cmdline](https://github.com/Parchive/par2cmdline) - fork of the original par2cmdline CVS repo
 - [ewig](https://github.com/arximboldi/ewig) - The eternal text editor — Didactic Ersatz Emacs to show immutable data-structures and the single-atom architecture
 - [xkeymacs](https://github.com/fujieda/xkeymacs) - 
 - [variant](https://github.com/mapbox/variant) - C++11/C++14 Variant
 - [tiled](https://github.com/bjorn/tiled) - A generic tile map editor
-- [cosmos](https://github.com/OpenGenus/cosmos) - [Show :heart: love by 🌟] Your personal library of every algorithm and data structure code that you will ever encounter
+- [cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter
 - [GamePlay](https://github.com/gameplay3d/GamePlay) - Open-source, cross-platform, C++ game engine for creating 2D/3D games.
 - [spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine
 - [Torque2D](https://github.com/GarageGames/Torque2D) - MIT Licensed Open Source version of Torque 2D game engine from GarageGames
 - [Torque3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames
 - [rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [rathena](https://github.com/rathena/rathena) - rAthena is an open-source cross-platform MMORPG server.
 - [audacious-plugins](https://github.com/audacious-media-player/audacious-plugins) - Plugins for Audacious music player
 - [ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
 - [MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
@@ -559,6 +562,31 @@
 
 ## Emacs Lisp 
 
+- [zombie](https://github.com/zk-phi/zombie) - [Emacs] major mode for editing ZOMBIE programs
+- [scratch-palette](https://github.com/zk-phi/scratch-palette) - [emacs] add notes on each files
+- [phi-rectangle](https://github.com/zk-phi/phi-rectangle) - [emacs] another rectangle-mark command
+- [scad-preview](https://github.com/zk-phi/scad-preview) - [Emacs] Preview SCAD models in real-time in Emacs
+- [cedit](https://github.com/zk-phi/cedit) - [emacs] [experimental] paredit-like commands for C-like languages
+- [key-combo-web](https://github.com/zk-phi/key-combo-web) - [Emacs] per-language key(-combo) bindings for web-mode
+- [electric-align](https://github.com/zk-phi/electric-align) - [Emacs] Insert a certain amout of spaces at once to easily align columns
+- [jaword](https://github.com/zk-phi/jaword) - [emacs] minor-mode for handling Japanese words better
+- [scratch-pop](https://github.com/zk-phi/scratch-pop) - [emacs] popup scratch buffer
+- [rpn-calc](https://github.com/zk-phi/rpn-calc) - [emacs] quick RPN calculator for hackers
+- [phi-grep](https://github.com/zk-phi/phi-grep) - [Emacs] interactively-editable recursive grep implementation in elisp
+- [electric-spacing](https://github.com/zk-phi/electric-spacing) - [Emacs] insert spaces automatically between user-defined patterns
+- [include-anywhere](https://github.com/zk-phi/include-anywhere) - [Emacs] include from anywhere
+- [highlight-stages](https://github.com/zk-phi/highlight-stages) - [emacs] highlight staged (quasi-quoted) expressions
+- [git-context-switch](https://github.com/zk-phi/git-context-switch) - [git] context switch for git
+- [git-complete](https://github.com/zk-phi/git-complete) - [Emacs] Yet another completion engine powered by "git grep"
+- [key-chord](https://github.com/zk-phi/key-chord) - zk-phi's fork of key-chord with `safety-interval'
+- [togetherly](https://github.com/zk-phi/togetherly) - [Emacs] allow multiple clients to edit a single file on-line
+- [phi-search](https://github.com/zk-phi/phi-search) - [emacs] another incremental search command, compatible with “multiple-cursors”
+- [emacs-config](https://github.com/alezost/emacs-config) - My .emacs
+- [emms-player-simple-mpv](https://github.com/momomo5717/emms-player-simple-mpv) - An extension of emms-player-simple.el for mpv JSON IPC
+- [lentic](https://github.com/phillord/lentic) - Create views of the same content in two Emacs buffers
+- [emacs-load-relative](https://github.com/rocky/emacs-load-relative) - Relative loads for Emacs Lisp files. Adds functions __FILE__ and  load-relative and require-relative.
+- [m-buffer-el](https://github.com/phillord/m-buffer-el) - List Oriented Buffer Operations for Emacs
+- [helm-commandlinefu](https://github.com/xuchunyang/helm-commandlinefu) - Search and browse snippets on Commandlinefu.com within Emacs
 - [mw-thesaurus.el](https://github.com/agzam/mw-thesaurus.el) - Merriam-Webster Thesaurus in Emacs
 - [debpaste.el](https://github.com/alezost/debpaste.el) - Emacs client for http://paste.debian.net/
 - [persp-fr](https://github.com/rocher/persp-fr) - Show perspective list in the GUI window frame
@@ -1488,7 +1516,7 @@
 - [libretorrent](https://github.com/proninyaroslav/libretorrent) - Free as in Freedom torrent client for Android
 - [WebCamViewer](https://github.com/Volcanoscar/WebCamViewer) - With this fast, simple and modern Android application you can quickly create a list of all your favorite webcams.
 - [sms-backup-plus](https://github.com/jberkel/sms-backup-plus) - Backup Android SMS, MMS and call log to Gmail / Gcal / IMAP
-- [OpenLinkWith](https://github.com/tasomaniac/OpenLinkWith) - Open the current webpage you have in another app!
+- [OpenLinkWith](https://github.com/tasomaniac/OpenLinkWith) - Open the current webpage you have in another app. Magic!
 - [vrapper](https://github.com/vrapper/vrapper) - Vim-like editing in Eclipse
 - [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition
 - [Pydev](https://github.com/fabioz/Pydev) - Python IDE for Eclipse
@@ -1498,6 +1526,7 @@
 
 ## JavaScript 
 
+- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Extension that deletes cookies as soon as the tab closes.
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
 - [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -1573,7 +1602,7 @@
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [feather](https://github.com/colebemis/feather) - Simply beautiful open source icons
 - [wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples
-- [live-tour-lab](https://github.com/livetourlab/live-tour-lab) - :heart::heart::heart: Framework for creating Live Tours. Add React VR components. :heart::heart::heart:
+- [live-tour-lab](https://github.com/SpectivOfficial/live-tour-lab) - :heart::heart::heart: Framework for creating Live Tours. Add React VR components. :heart::heart::heart:
 - [anime](https://github.com/juliangarnier/anime) - JavaScript Animation Engine
 - [kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
@@ -1626,7 +1655,7 @@
 - [min-vid](https://github.com/meandavejustice/min-vid) - Popout video player in Firefox
 - [gnome-shell-extension-stealmyfocus](https://github.com/v-dimitrov/gnome-shell-extension-stealmyfocus) - Shell Extension that let window that demand attention to steal focus
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips
-- [gnome-shell-extension-redshift](https://github.com/benzea/gnome-shell-extension-redshift) - A redshift extension for gnome-shell
+- [gnome-shell-extension-redshift](https://github.com/benzea/gnome-shell-extension-redshift) - A redshift extension for gnome-shell – Obsolete with GNOME 3.26! Use the buildin nightlight feature instead!
 - [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [Ghost](https://github.com/TryGhost/Ghost) - The platform for professional publishers
 - [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
@@ -1720,7 +1749,7 @@
 - [github-markdown-outline-extension](https://github.com/dbkaplun/github-markdown-outline-extension) - Displays a clickable outline of all topic headers for markdown documents on Github
 - [github-highlight-selected](https://github.com/Nuclides/github-highlight-selected) - Chrome extension for highlighting selected word in GitHub source view like Sublime Text.
 - [github-email-extractor](https://github.com/prabhakar267/github-email-extractor) - :sunglasses: Chrome extension to fetch the email ID of a user even if they haven't made it public on their GitHub profile
-- [github-ast-viewer](https://github.com/lukehorvat/github-ast-viewer) - An open-source Google Chrome extension for viewing the abstract syntax tree (AST) of code on GitHub.
+- [github-ast-viewer](https://github.com/lukehorvat/github-ast-viewer) - Google Chrome extension for viewing the abstract syntax tree (AST) of code on GitHub.
 - [categoric](https://github.com/ozlerhakan/categoric) - :art: [Chrome Extension] Categorizing your mixed GitHub notifications per repository.
 - [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete) - :octocat: Add instant search capabilities to GitHub's search bar
 - [refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
@@ -1816,6 +1845,7 @@
 
 ## Nix 
 
+- [hnix](https://github.com/jwiegley/hnix) - A Haskell re-implementation of the Nix expression language
 - [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - mozilla related nixpkgs (extends nixos/nixpkgs repo)
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
@@ -1912,7 +1942,7 @@
 - [davdroid](https://github.com/bitfireAT/davdroid) - DAVdroid – CalDAV/CardDAV synchronization for Android 4+ devices
 - [freebsd-ports](https://github.com/freebsd/freebsd-ports) - FreeBSD ports tree (read-only mirror)
 - [lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
-- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git - a work in progress!
+- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [my-git](https://github.com/xirong/my-git) - Individual collecting material of learning git（有关 git 的学习资料）
 - [git-style-guide](https://github.com/agis/git-style-guide) - A Git Style Guide
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -1938,7 +1968,7 @@
 - [readable-licenses](https://github.com/nevir/readable-licenses) - Make your open source license text more pleasant to read.
 - [GitHubExtIns](https://github.com/diegocr/GitHubExtIns) - Install Browser Extensions straight from GitHub Repositories.
 - [rst-cheatsheet](https://github.com/ralsina/rst-cheatsheet) - A two-page cheatsheet for restructured text
-- [Begin-Latex-in-minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) - :bowtie: Brief Intro to LaTeX for beginners that helps you use LaTeX with ease. Comments and Contributions are welcomed :thumbsup:
+- [Begin-Latex-in-minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) - 📜 Brief Intro to LaTeX for beginners that helps you use LaTeX with ease. Comments and Contributions are welcomed :thumbsup:
 - [dotaliases](https://github.com/algotech/dotaliases) - Helpful bash aliases!
 - [refcard-org-mode](https://github.com/fniessen/refcard-org-mode) - Org mode syntax reference card
 - [LogicAndCodingGames](https://github.com/dargaCode/LogicAndCodingGames) - (Resource List) - Programming-related games I'd like to try
@@ -1965,7 +1995,7 @@
 - [moc](https://github.com/sagitter/moc) - moc - free
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [systemd-user-units](https://github.com/pablox-cl/systemd-user-units) - A collection of systemd units
-- [base16](https://github.com/chriskempson/base16) - Syntax highlighting for hackers
+- [base16](https://github.com/chriskempson/base16) - An architecture for building themes
 - [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that *could* go in the head of your document
 
 ## PHP 
@@ -2045,6 +2075,8 @@
 
 ## Python 
 
+- [Zope](https://github.com/zopefoundation/Zope) - Zope is an open-source web application server.
+- [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
 - [Python_Basics](https://github.com/learnbyexample/Python_Basics) - :snake: Syntax, working with Shell commands, Files, Text Processing, and more...
 - [HackPrincetonF16](https://github.com/anantdgoel/HackPrincetonF16) - Chrome extension to flag fake news on Facebook
 - [OSCP](https://github.com/ihack4falafel/OSCP) - Collection of things made during my OSCP journey
@@ -2479,7 +2511,7 @@
 - [python-console-snake](https://github.com/tancredi/python-console-snake) - Lightweight snake game running in the console
 - [PyDark](https://github.com/SirFroweey/PyDark) - PyDark is a 2D and Online Multiplayer video game framework written on-top of Python and PyGame.
 - [thbattle](https://github.com/feisuzhu/thbattle) - A Sanguosha board game clone, based on Touhou Project
-- [the-tale](https://github.com/Tiendil/the-tale) - Сказка - Zero Player Game и песочница
+- [the-tale](https://github.com/the-tale/the-tale) - Основной репозиторий проекта: сайт и логика игры
 - [Dungeon-World](https://github.com/Sagelt/Dungeon-World) - A tabletop roleplaying game.
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [PyGame-Learning-Environment](https://github.com/ntasfi/PyGame-Learning-Environment) - PyGame Learning Environment (PLE) -- Reinforcement Learning Environment in Python.
@@ -2712,6 +2744,8 @@
 
 ## Rust 
 
+- [ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
+- [userscan](https://github.com/flyingcircusio/userscan) - Scans files for Nix store references and registers them with the Nix garbage collector.
 - [rodio](https://github.com/tomaka/rodio) - Rust audio playback library
 - [ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs
 - [racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
@@ -2740,6 +2774,7 @@
 
 ## Scheme 
 
+- [my-guix](https://github.com/Millak/my-guix) - local guix packages
 - [cyclone](https://github.com/justinethier/cyclone) - :cyclone: A brand-new compiler that allows practical application development using R7RS Scheme.
 - [gerbil](https://github.com/vyzo/gerbil) - Gerbil Scheme
 - [picrin](https://github.com/picrin-scheme/picrin) - lightweight scheme interpreter
@@ -2940,6 +2975,7 @@
 
 ## TeX 
 
+- [guix-notes](https://github.com/pjotrp/guix-notes) - This repo has moved to https://gitlab.com/pjotrp/guix-notes Notes on Guix
 - [sicp-ru](https://github.com/alexott/sicp-ru) - Source code for Russian translation of SICP
 - [micromanual](https://github.com/jaseemabid/micromanual) - A neatly typeset version of John McCarthy's classic paper
 - [markdown-mode-guide](https://github.com/jrblevin/markdown-mode-guide) - Guide to Markdown Mode for Emacs
