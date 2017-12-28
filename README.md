@@ -51,6 +51,7 @@
   - [Perl](#perl)
   - [PostScript](#postscript)
   - [PowerShell](#powershell)
+  - [Puppet](#puppet)
   - [Python](#python)
   - [QML](#qml)
   - [R](#r)
@@ -106,6 +107,7 @@
 
 ## C 
 
+- [check](https://github.com/libcheck/check) - A unit testing framework for C
 - [freegish](https://github.com/freegish/freegish) - A free version of the game Gish
 - [openwrt](https://github.com/openwrt/openwrt) - Linux distribution for embedded devices
 - [nginx-push-stream-module](https://github.com/wandenberg/nginx-push-stream-module) - A pure stream http push technology for your Nginx setup. Comet made easy and really scalable.
@@ -363,6 +365,7 @@
 
 ## C++ 
 
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer) - Support c++ code for a short computer graphics course
 - [teeworlds](https://github.com/teeworlds/teeworlds) - A retro multiplayer shooter
 - [godot-cpp](https://github.com/GodotNativeTools/godot-cpp) - C++ bindings for the Godot script API
 - [alephone](https://github.com/Aleph-One-Marathon/alephone) - Aleph One is the open source continuation of Bungie’s Marathon 2 game engine.
@@ -593,6 +596,11 @@
 
 ## Common Lisp 
 
+- [perfectstorm](https://github.com/lispgames/perfectstorm) - Perfectstorm is a real time strategy game study written in Common Lisp
+- [option-9](https://github.com/psilord/option-9) - A Shoot'em Up Game Written in Common Lisp
+- [common-worm](https://github.com/zkat/common-worm) - A simple, hackish version of the classic snake game, written in Common Lisp
+- [starwar](https://github.com/xzpeter/starwar) - A game written in Common Lisp, using lispbuilder-sdl
+- [sorcery-es](https://github.com/flotfacetieux/sorcery-es) - 
 - [acl2](https://github.com/acl2/acl2) - ACL2 System and Books as Maintained by the Community
 - [stumpwm-contrib](https://github.com/stumpwm/stumpwm-contrib) - Extension Modules for StumpWM
 - [asdf](https://github.com/fare/asdf) - Another System Definition Facility, de facto standard build system for CL (mirrored from Common-Lisp.net)
@@ -647,6 +655,18 @@
 
 ## Emacs Lisp 
 
+- [hungry-delete](https://github.com/nflath/hungry-delete) - Enables hungry deletion in all modes.
+- [flycheck-haskell](https://github.com/flycheck/flycheck-haskell) - Improved Haskell support for Flycheck
+- [no-emoji](https://github.com/ecraven/no-emoji) - Show :emoji-name: instead of emoji characters in Emacs
+- [ipython-shell-send-el](https://github.com/jackkamm/ipython-shell-send-el) - Send magic to ipython with emacs
+- [helm-selected](https://github.com/takaxp/helm-selected) - A helm extension for selected.el
+- [go-fill-struct](https://github.com/s-kostyaev/go-fill-struct) - Fill golang struct in emacs
+- [exwm-surf](https://github.com/ecraven/exwm-surf) - Interface for Surf under exwm
+- [eldoc-overlay](https://github.com/stardiviner/eldoc-overlay) - display eldoc doc with contextual documentation overlay for easy to look.
+- [helm-system-packages](https://github.com/emacs-helm/helm-system-packages) - A Helm interface to the package manager of your operating system
+- [disable-mouse](https://github.com/purcell/disable-mouse) - Disable the mouse in Emacs
+- [emacs-easy-jekyll](https://github.com/masasam/emacs-easy-jekyll) - Emacs major mode for managing jekyll blogs
+- [helm-c-yasnippet](https://github.com/emacs-jp/helm-c-yasnippet) - Helm source for yasnippet
 - [django-mode](https://github.com/myfreeweb/django-mode) - Django mode and snippets for Emacs
 - [project-explorer](https://github.com/sabof/project-explorer) - A project explorer sidebar
 - [helm-gitignore](https://github.com/jupl/helm-gitignore) - Helm interface for generating .gitignore files
@@ -1630,6 +1650,7 @@
 
 ## HTML 
 
+- [lispgames.github.io](https://github.com/lispgames/lispgames.github.io) - 
 - [emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
 - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon
 - [githunt](https://github.com/kamranahmedse/githunt) - Chrome Extension - Replace your new tab with trending Github repositories
@@ -1660,6 +1681,8 @@
 
 ## Haskell 
 
+- [c2hs](https://github.com/haskell/c2hs) - c2hs is a pre-processor for Haskell FFI bindings to C libraries
+- [brick](https://github.com/jtdaugherty/brick) - A declarative terminal UI programming library written in Haskell
 - [nix-deploy](https://github.com/awakesecurity/nix-deploy) - Deploy software or an entire NixOS system configuration to another NixOS system
 - [Allure](https://github.com/AllureOfTheStars/Allure) - Allure of the Stars is a near-future Sci-Fi roguelike and tactical squad game written in Haskell
 - [LambdaHack](https://github.com/LambdaHack/LambdaHack) - Haskell game engine library for roguelike dungeon crawlers; try out the browser version at
@@ -1706,6 +1729,7 @@
 
 ## Java 
 
+- [ISeeU](https://github.com/s4kibs4mi/ISeeU) - ISeeU is an android application which turn android device into a ip camera.
 - [stendhal](https://github.com/arianne/stendhal) - Stendhal is a fun friendly and free multiplayer online adventure game with an old school feel.
 - [jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) - A complete 3D game development suite written purely in Java.
 - [Silence](https://github.com/SilenceIM/Silence) - A fork of Signal with only SMS/MMS encryption.
@@ -2112,6 +2136,8 @@
 
 ## Others 
 
+- [itpol](https://github.com/lfit/itpol) - Useful IT policies
+- [lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 - [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers
 - [magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
@@ -2348,8 +2374,14 @@
 
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 
+## Puppet 
+
+- [puppet-bimsb-guix](https://github.com/BIMSBbioinfo/puppet-bimsb-guix) - Puppet module for deploying Guix
+
 ## Python 
 
+- [buildinfo.debian.net](https://github.com/lamby/buildinfo.debian.net) - Proof-of-concept .buildinfo server
+- [pypi2nix](https://github.com/garbas/pypi2nix) - Generate Nix expressions for Python package
 - [pss](https://github.com/eliben/pss) - pss is a power-tool for searching inside source code files.
 - [fofix](https://github.com/fofix/fofix) - Frets on Fire X: a fork of Frets on Fire with many added features and capabilities
 - [errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
@@ -3095,6 +3127,9 @@
 
 ## Scheme 
 
+- [monad-egg](https://github.com/dleslie/monad-egg) - Monads for scheme
+- [govuk-guix](https://github.com/gds-attic/govuk-guix) - Package, service and system definitions using GNU Guix for software and systems related to GOV.UK. Personal project.
+- [Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine
 - [chibi-scheme](https://github.com/ashinn/chibi-scheme) - Official chibi-scheme repository
 - [ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
 - [guile-pastebin](https://github.com/kristoferbuffington/guile-pastebin) - A Pastebin type service written in guile
@@ -3141,6 +3176,7 @@
 
 ## Shell 
 
+- [debian-guix](https://github.com/detrout/debian-guix) - Debian packaging recipe for Guix package manager
 - [nix-bash-completions](https://github.com/hedning/nix-bash-completions) - Bash completion for the Nix command line tools
 - [tcpdive](https://github.com/fastos/tcpdive) - A TCP performance profiling tool.
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
@@ -3179,7 +3215,7 @@
 - [ganeti-instance-guix](https://github.com/mbakke/ganeti-instance-guix) - 
 - [vulhub](https://github.com/vulhub/vulhub) - Docker-Compose file for vulnerability environment
 - [hosts](https://github.com/sy618/hosts) - 已停更
-- [kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Perl / PHP / Python / Ruby
+- [kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [ghwd](https://github.com/zeke/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [ubuntu-configuration](https://github.com/goq/ubuntu-configuration) - Configuration of Debian based OS, such as: Ubuntu, Mint, and Elementary OS
