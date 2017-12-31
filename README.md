@@ -107,6 +107,7 @@
 
 ## C 
 
+- [nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
 - [check](https://github.com/libcheck/check) - A unit testing framework for C
 - [freegish](https://github.com/freegish/freegish) - A free version of the game Gish
 - [openwrt](https://github.com/openwrt/openwrt) - Linux distribution for embedded devices
@@ -297,7 +298,6 @@
 - [UrbanTerror4](https://github.com/FrozenSand/UrbanTerror4) - Official bug tracker for the game Urban Terror 4.x - www.urbanterror.info
 - [nudoku](https://github.com/jubalh/nudoku) - ncurses based sudoku game
 - [PunchAndKick](https://github.com/lc-soft/PunchAndKick) - A simple 2D Fighting Game.
-- [ugtrain](https://github.com/ugtrain/ugtrain) - The Universal Elite Game Trainer for CLI (Linux game trainer research project)
 - [cave-story-md](https://github.com/andwn/cave-story-md) - A fan port of Cave Story for the Sega Mega Drive
 - [AsteroidsCocos2D-x](https://github.com/clawoo/AsteroidsCocos2D-x) - An Asteroids game implemented in Cocos2D-x
 - [quetoo](https://github.com/jdolan/quetoo) - A Free, standalone first person shooter video game based on id Tech2.
@@ -391,7 +391,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 7.2.5.24742, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 7.3.2.25549, 3.3.5 = 3.3.5a.12340)
 - [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -472,6 +472,7 @@
 - [newsbeuter](https://github.com/akrennmair/newsbeuter) - Newsbeuter is an open-source RSS/Atom feed reader for text terminals.
 - [apt](https://github.com/Debian/apt) - Mirror of the apt git respository
 - [options_parser](https://github.com/zuoyan/options_parser) - A dynamic options parser in C++11, processing command line arguments/flags
+- [ugtrain](https://github.com/ugtrain/ugtrain) - The Universal Elite Game Trainer for CLI (Linux game trainer research project)
 - [falltergeist](https://github.com/falltergeist/falltergeist) - Opensource crossplatform Fallout 2™ game engine writen in C++ and SDL. Current version: 0.3.0
 - [MathForGameDevelopers](https://github.com/BSVino/MathForGameDevelopers) - Sample code for my YouTube series.
 - [openrw](https://github.com/rwengine/openrw) - OpenRW "Open ReWrite" is an un-official open source recreation of the classic Grand Theft Auto III game executable
@@ -655,6 +656,11 @@
 
 ## Emacs Lisp 
 
+- [texfrag](https://github.com/TobiasZawada/texfrag) - Emacs package for previewing LaTeX fragments such as in doxygen comments.
+- [shx-for-emacs](https://github.com/riscy/shx-for-emacs) - An Emacs shell-mode (and comint-mode) extension that enables displaying small plots and graphics and lets users write shell commands in Emacs Lisp.
+- [default-text-scale](https://github.com/purcell/default-text-scale) - Easily adjust the font size in all Emacs frames
+- [Butler](https://github.com/AshtonKem/Butler) - Jenkins/Hudson plugin for Emacs
+- [emacs-constants](https://github.com/fedeinthemix/emacs-constants) - 
 - [hungry-delete](https://github.com/nflath/hungry-delete) - Enables hungry deletion in all modes.
 - [flycheck-haskell](https://github.com/flycheck/flycheck-haskell) - Improved Haskell support for Flycheck
 - [no-emoji](https://github.com/ecraven/no-emoji) - Show :emoji-name: instead of emoji characters in Emacs
@@ -1577,7 +1583,7 @@
 - [evil-tmux-navigator](https://github.com/keith/evil-tmux-navigator) - Seamlessly navigate Emacs and tmux splits
 - [helm](https://github.com/emacs-helm/helm) - Emacs incremental completion and selection narrowing framework
 - [emacs-helm-gtags](https://github.com/syohex/emacs-helm-gtags) - GNU GLOBAL helm interface
-- [prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 24 distribution that should make your experience with Emacs both more pleasant and more powerful.
+- [prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 24.4+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
 - [emacs-jedi](https://github.com/tkf/emacs-jedi) - Python auto-completion for Emacs
@@ -1588,7 +1594,6 @@
 ## Erlang 
 
 - [ejabberd](https://github.com/processone/ejabberd) - Robust, ubiquitous and massively scalable Jabber / XMPP Instant Messaging platform
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## GLSL 
 
@@ -1786,7 +1791,6 @@
 - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Extension that deletes cookies as soon as the tab closes.
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
-- [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
 - [upnext](https://github.com/ptgamr/upnext) - Chrome Extension for streaming music from SoundCloud & YouTube
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [chrome-fast-tab-switcher](https://github.com/BinaryMuse/chrome-fast-tab-switcher) - :keyboard: React-based extension to quickly switch to other open Chrome tabs with just your keyboard
@@ -2425,6 +2429,7 @@
 - [Zope](https://github.com/zopefoundation/Zope) - Zope is an open-source web application server.
 - [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
 - [Python_Basics](https://github.com/learnbyexample/Python_Basics) - :snake: Syntax, working with Shell commands, Files, Text Processing, and more...
+- [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
 - [HackPrincetonF16](https://github.com/anantdgoel/HackPrincetonF16) - Chrome extension to flag fake news on Facebook
 - [OSCP](https://github.com/ihack4falafel/OSCP) - Collection of things made during my OSCP journey
 - [uncaptcha](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
@@ -2452,6 +2457,7 @@
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images or animate interesting algorithms in mathematics with Python: www.pywonderland.com :whale:
 - [doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+- [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
 - [GithubCloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations.
 - [pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
@@ -3026,7 +3032,6 @@
 - [sonic-pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone
 - [puppet-lint](https://github.com/rodjek/puppet-lint) - Check that your Puppet manifests conform to the style guide
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [exercism.io](https://github.com/exercism/exercism.io) - Quickly ramp up in new programming languages.
 - [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - 《计算机程序的构造和解释》公开课中文化项目。
@@ -3109,6 +3114,7 @@
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 - [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [tfs](https://github.com/redox-os/tfs) - Next Generation File System
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [dotakiller](https://github.com/Gexon/dotakiller) - dotakiler
 - [rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption.
 - [hematite](https://github.com/PistonDevelopers/hematite) - A simple Minecraft written in Rust with the Piston game engine
