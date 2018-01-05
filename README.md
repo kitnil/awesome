@@ -65,7 +65,6 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
-  - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
@@ -86,6 +85,7 @@
 ## Assembly 
 
 - [mammon.github.com](https://github.com/mammon/mammon.github.com) - Papers on reverse engineering and assembly language programming
+- [mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
 - [cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 
@@ -108,6 +108,7 @@
 
 ## C 
 
+- [godot_headers](https://github.com/GodotNativeTools/godot_headers) - Headers for the Godot API supplied by the GDNative module.
 - [glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs) - The Vulkan API Specification and related tools
 - [rdesktop](https://github.com/rdesktop/rdesktop) - rdesktop is an open source UNIX client for connecting to Windows Remote Desktop Services, capably of natively speaking Remote Desktop Protocol (RDP) in order to present the user's Windows desktop. rdesktop is known to work with Windows server version ranging from NT 4 terminal server to Windows 2012 R2.
@@ -672,6 +673,20 @@
 
 ## Emacs Lisp 
 
+- [helm-autoload-commands](https://github.com/emacs-helm/helm-autoload-commands) - Load library and command in runtime.
+- [helm-slime](https://github.com/emacs-helm/helm-slime) - A helm for SLIME.
+- [helm-navi](https://github.com/emacs-helm/helm-navi) - Navigate headings and keywords provided by navi-mode and outshine using Helm
+- [helm-elscreen](https://github.com/emacs-helm/helm-elscreen) - Helm interface to elscreen
+- [helm-addressbook](https://github.com/emacs-helm/helm-addressbook) - Helm interface to manage contacts with https://github.com/thierryvolpiatto/addressbook-bookmark
+- [addressbook-bookmark](https://github.com/thierryvolpiatto/addressbook-bookmark) - An addressbook for emacs based on bookmark.el
+- [helm-w3m](https://github.com/emacs-helm/helm-w3m) - helm interface for w3m bookmarks
+- [helm-ls-hg](https://github.com/emacs-helm/helm-ls-hg) - helm extensions for listing files in hg project.
+- [elpa-mirror](https://github.com/redguardtoo/elpa-mirror) - Create local emacs package repository. 15 seconds to install 115 packages.
+- [ryo-modal](https://github.com/Kungsgeten/ryo-modal) - Roll your own modal mode
+- [ghub](https://github.com/magit/ghub) - Minuscule client library for the Github API
+- [interactive-align](https://github.com/mkcms/interactive-align) - Interactive align-regexp command in emacs
+- [helm-emms](https://github.com/emacs-helm/helm-emms) - Helm interface to EMMS
+- [isearch-dabbrev](https://github.com/Dewdrops/isearch-dabbrev) - Use dabbrev-expand within isearch
 - [gdscript-mode](https://github.com/brenttaylor/gdscript-mode) - An Emacs major mode for GDScript
 - [godot-gdscript.el](https://github.com/francogarcia/godot-gdscript.el) - Major mode for editing Godot Engine GDScript files with Emacs.
 - [texfrag](https://github.com/TobiasZawada/texfrag) - Emacs package for previewing LaTeX fragments such as in doxygen comments.
@@ -1716,6 +1731,7 @@
 
 ## Haskell 
 
+- [codeworld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell
 - [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch) - Huge list of  videos, talks, courses for Haskell programming language.
 - [c2hs](https://github.com/haskell/c2hs) - c2hs is a pre-processor for Haskell FFI bindings to C libraries
 - [brick](https://github.com/jtdaugherty/brick) - A declarative terminal UI programming library written in Haskell
@@ -2439,7 +2455,7 @@
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
 - [flatpak-docs](https://github.com/flatpak/flatpak-docs) - Flatpak documentation
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2017
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2018
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation
 - [davdroid](https://github.com/bitfireAT/davdroid) - DAVdroid – CalDAV/CardDAV synchronization for Android 4+ devices
@@ -2565,7 +2581,7 @@
 - [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.
 - [Expose](https://github.com/Jack000/Expose) - A simple static site generator for photoessays
 - [gitolite](https://github.com/sitaramc/gitolite) - Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
-- [bmo](https://github.com/mozilla-bteam/bmo) - bugzilla.mozilla.org source
+- [bmo](https://github.com/mozilla-bteam/bmo) - bugzilla.mozilla.org source - report issues here: https://bugzilla.mozilla.org/new-bug#bugzilla.mozilla.org
 - [webmin](https://github.com/webmin/webmin) - Webmin source code
 - [p5-Sisimai](https://github.com/sisimai/p5-Sisimai) - Mail Analyzing Interface for email bounce: A Perl module to parse RFC5322 bounce mails and generating structured data as JSON from parsed results. Formerly known as bounceHammer 4: an error mail analyzer.
 - [mailgraph](https://github.com/schweikert/mailgraph) - Mail plotting script
@@ -3395,6 +3411,7 @@
 
 ## Shell 
 
+- [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - :star2: Awesome (free) web apps that work without login
 - [debian-guix](https://github.com/detrout/debian-guix) - Debian packaging recipe for Guix package manager
 - [nix-bash-completions](https://github.com/hedning/nix-bash-completions) - Bash completion for the Nix command line tools
@@ -3504,7 +3521,7 @@
 - [git-subtree](https://github.com/apenwarr/git-subtree) - An experimental alternative to the git-submodule command.  Merges and splits subtrees from your project into subprojects and back.
 - [byobu](https://github.com/dustinkirkland/byobu) - git mirror of upstream bzr at http://launchpad.net/byobu
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
-- [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️ A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX, IRIX and Windows (Cygwin/MSYS2/MinGW/Windows 10 Linux subsystem)
+- [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️ A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX, IRIX , FreeMint, and Windows (Cygwin/MSYS2/MinGW/Windows 10 Linux subsystem)
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
@@ -3573,10 +3590,6 @@
 ## Standard ML 
 
 - [sml-redprl](https://github.com/RedPRL/sml-redprl) - Decisively Smash the Formalist Clique!—The People's Refinement Logic
-
-## Swift 
-
-- [mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 
 ## TeX 
 
