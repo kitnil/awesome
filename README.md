@@ -108,6 +108,7 @@
 
 ## C 
 
+- [fvwm](https://github.com/fvwmorg/fvwm) - Official FVWM repository
 - [godot_headers](https://github.com/GodotNativeTools/godot_headers) - Headers for the Godot API supplied by the GDNative module.
 - [glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs) - The Vulkan API Specification and related tools
@@ -231,7 +232,6 @@
 - [hwinfo](https://github.com/openSUSE/hwinfo) - Hardware information tool
 - [gnome-todo](https://github.com/GNOME/gnome-todo) - Task manager for GNOME
 - [xonotic](https://github.com/xonotic/xonotic) - Mirror of https://gitlab.com/xonotic - Xonotic (superproject containing tools to download other repositories and assets)
-- [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy) - A tool for securing communications between a client and a DNS resolver
 - [amanda](https://github.com/zmanda/amanda) - Amanda Network Backup
 - [scrypt](https://github.com/Tarsnap/scrypt) - The scrypt key derivation function was originally developed for use in the Tarsnap online backup system and is designed to be far more secure against hardware brute-force attacks than alternative functions such as PBKDF2 or bcrypt.
 - [burp](https://github.com/grke/burp) - burp - backup and restore program
@@ -673,6 +673,9 @@
 
 ## Emacs Lisp 
 
+- [org-agenda-ng](https://github.com/alphapapa/org-agenda-ng) - 
+- [citeproc-orgref](https://github.com/andras-simonyi/citeproc-orgref) - Render org-ref bibliographic references in CSL styles using citeproc-el.
+- [citeproc-el](https://github.com/andras-simonyi/citeproc-el) - A  CSL 1.01 Citation Processor for Emacs.
 - [helm-autoload-commands](https://github.com/emacs-helm/helm-autoload-commands) - Load library and command in runtime.
 - [helm-slime](https://github.com/emacs-helm/helm-slime) - A helm for SLIME.
 - [helm-navi](https://github.com/emacs-helm/helm-navi) - Navigate headings and keywords provided by navi-mode and outshine using Helm
@@ -737,7 +740,7 @@
 - [epkg](https://github.com/emacscollective/epkg) - Browse the Emacsmirror package database
 - [code-library](https://github.com/lujun9972/code-library) - use org-mode to manage code snippets
 - [emoji-recall.el](https://github.com/lujun9972/emoji-recall.el) - 
-- [hydra-integrations](https://github.com/jojojames/hydra-integrations) - 
+- [matcha](https://github.com/jojojames/matcha) - 
 - [smart-jump](https://github.com/jojojames/smart-jump) - 
 - [git-undo-el](https://github.com/jwiegley/git-undo-el) - A command for Emacs to regress or "undo" a region back through its Git history
 - [ox-epub](https://github.com/ofosos/ox-epub) - Org mode epub export
@@ -1731,6 +1734,7 @@
 
 ## Haskell 
 
+- [kitten](https://github.com/evincarofautumn/kitten) - A statically typed concatenative programming language.
 - [codeworld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell
 - [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch) - Huge list of  videos, talks, courses for Haskell programming language.
 - [c2hs](https://github.com/haskell/c2hs) - c2hs is a pre-processor for Haskell FFI bindings to C libraries
@@ -2237,7 +2241,7 @@
 - [awesome-product-design](https://github.com/teoga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 - [You-Dont-Know-X](https://github.com/ythecombinator/You-Dont-Know-X) - 🙈 curated list of inspiring resources which show you don't know that much about something you thought you knew.
 - [awesome-testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources
-- [awesome-craft](https://github.com/chasegiunta/awesome-craft) - A collection of awesome Craft CMS plugins, articles, resources and shiny things.
+- [awesome](https://github.com/craftcms/awesome) - A collection of awesome Craft CMS plugins, articles, resources and shiny things.
 - [awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [awesome-microbit](https://github.com/carlosperate/awesome-microbit) - A curated list of BBC micro:bit resources.
 - [awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of free as in freedom software.
