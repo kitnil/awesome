@@ -110,6 +110,8 @@
 
 ## C 
 
+- [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
+- [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 - [skynet](https://github.com/cloudwu/skynet) - A lightweight online game framework
 - [rpm](https://github.com/rpm-software-management/rpm) - 
 - [xash3d](https://github.com/FWGS/xash3d) - Xash3D FWGS Engine. Fork of Xash3D. Development version in "0.19.x" branch. Stable in "master" branch.
@@ -136,7 +138,7 @@
 - [nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
 - [check](https://github.com/libcheck/check) - A unit testing framework for C
 - [freegish](https://github.com/freegish/freegish) - A free version of the game Gish
-- [openwrt](https://github.com/openwrt/openwrt) - The main repository of the OpenWrt distribution
+- [openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
 - [nginx-push-stream-module](https://github.com/wandenberg/nginx-push-stream-module) - A pure stream http push technology for your Nginx setup. Comet made easy and really scalable.
 - [clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 - [siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
@@ -392,6 +394,10 @@
 
 ## C++ 
 
+- [ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a mod of Teeworlds
+- [citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
+- [vnote](https://github.com/tamlok/vnote) - A Vim-inspired note-taking application, especially for Markdown.
+- [House3D](https://github.com/facebookresearch/House3D) - a Realistic and Rich 3D Environment
 - [EtherealLegends](https://github.com/Soverance/EtherealLegends) - Ethereal Legends - An Indie Action RPG built with Unreal Engine 4 for Steam, PS4, and Xbox One.
 - [Lazonyx](https://github.com/t3dw/Lazonyx) - An arcade-style 2D pixel-art platformer built in Godot
 - [kNet](https://github.com/juj/kNet) - 
@@ -538,7 +544,7 @@
 - [apt](https://github.com/Debian/apt) - Mirror of the apt git respository
 - [options_parser](https://github.com/zuoyan/options_parser) - A dynamic options parser in C++11, processing command line arguments/flags
 - [ugtrain](https://github.com/ugtrain/ugtrain) - The Universal Elite Game Trainer for CLI (Linux game trainer research project)
-- [falltergeist](https://github.com/falltergeist/falltergeist) - Opensource crossplatform Fallout 2™ game engine writen in C++ and SDL. Current version: 0.3.0
+- [falltergeist](https://github.com/falltergeist/falltergeist) - Opensource crossplatform Fallout 2™ game engine writen in C++ and SDL.
 - [MathForGameDevelopers](https://github.com/BSVino/MathForGameDevelopers) - Sample code for my YouTube series.
 - [openrw](https://github.com/rwengine/openrw) - OpenRW "Open ReWrite" is an un-official open source recreation of the classic Grand Theft Auto III game executable
 - [pienoon](https://github.com/google/pienoon) - Multiplayer party game where you can throw pies at your friends.
@@ -633,6 +639,7 @@
 
 ## Clojure 
 
+- [closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
 - [lux](https://github.com/LuxLang/lux) - The Lux Programming Language
 - [themecreator](https://github.com/mswift42/themecreator) - http://mswift42.github.io/themecreator/ create themes for intellij, textmate, atom, emacs and vim
 - [Nightweb](https://github.com/oakes/Nightweb) - An anonymous P2P social network in Clojure
@@ -664,6 +671,8 @@
 
 ## Common Lisp 
 
+- [gb-disassembler](https://github.com/privet-kitty/gb-disassembler) - Disassembler for Nintendo Gameboy
+- [dufy](https://github.com/privet-kitty/dufy) - Color Library for Common Lisp
 - [ccl](https://github.com/Clozure/ccl) - Clozure Common Lisp
 - [perfectstorm](https://github.com/lispgames/perfectstorm) - Perfectstorm is a real time strategy game study written in Common Lisp
 - [option-9](https://github.com/psilord/option-9) - A Shoot'em Up Game Written in Common Lisp
@@ -726,6 +735,13 @@
 
 ## Emacs Lisp 
 
+- [elisp-lap](https://github.com/rocky/elisp-lap) - Let's document Emacs Lisp Bytecode (Lisp Assembly Program) instructions
+- [popup-el](https://github.com/auto-complete/popup-el) - Visual Popup Interface Library for Emacs
+- [sudoku.el](https://github.com/zevlg/sudoku.el) - Play sudoku in emacs
+- [flow-js2-mode](https://github.com/Fuco1/flow-js2-mode) - Support for flow for js2-mode
+- [parsebib](https://github.com/joostkremers/parsebib) - Elisp library for reading .bib files
+- [composer.el](https://github.com/emacs-php/composer.el) - PHP Composer interface for Emacs
+- [exordium](https://github.com/philippe-grenet/exordium) - An Emacs configuration that will make your C++ IDE jealous.
 - [anki-editor](https://github.com/louietan/anki-editor) - An Emacs package that helps you create Anki cards in Org-mode
 - [atom-one-dark-theme](https://github.com/jonathanchu/atom-one-dark-theme) - Atom One Dark - An Emacs port of the Atom One Dark theme from Atom.io.
 - [csound-mode](https://github.com/hlolli/csound-mode) - Emacs major mode for coding in Csound
@@ -1166,8 +1182,8 @@
 - [ruby-test-mode](https://github.com/r0man/ruby-test-mode) - Emacs minor mode for Behaviour and Test Driven Development in Ruby
 - [shift-number.el](https://github.com/alezost/shift-number.el) - Increase/decrease the number at point
 - [alect-themes](https://github.com/alezost/alect-themes) - Configurable color themes for GNU Emacs 24
-- [mwim.el](https://github.com/alezost/mwim.el) - Move to the beginning/end of line or code
-- [aurel](https://github.com/alezost/aurel) - Search, vote and download AUR packages from Emacs
+- [mwim.el](https://github.com/alezost/mwim.el) - Move to the beginning/end of line, code or comment
+- [aurel](https://github.com/alezost/aurel) - Search, vote for and download AUR packages from Emacs
 - [zoom](https://github.com/cyrus-and/zoom) - Fixed and automatic balanced window layout for Emacs
 - [idris-mode](https://github.com/idris-hackers/idris-mode) - Idris syntax highlighting, compiler-supported editing, interactive REPL and more things for Emacs.
 - [meghanada-emacs](https://github.com/mopemope/meghanada-emacs) - A Better Java Development Environment for Emacs
@@ -1714,6 +1730,7 @@
 
 ## Go 
 
+- [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [sshtron](https://github.com/zachlatta/sshtron) - Play Tron over SSH
 - [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
 - [chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
@@ -1771,6 +1788,7 @@
 
 ## HTML 
 
+- [data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [qubes-doc](https://github.com/QubesOS/qubes-doc) - Qubes documentation
 - [awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
@@ -1903,6 +1921,7 @@
 
 ## JavaScript 
 
+- [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [warriorjs](https://github.com/olistic/warriorjs) - Game written in JavaScript for learning JavaScript and artificial intelligence.
 - [Lepton](https://github.com/hackjutsu/Lepton) - 💻    Democratizing Code Snippets Management (macOS/Win/Linux)
 - [piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
@@ -1915,7 +1934,7 @@
 - [lean-url](https://github.com/tugh/lean-url) - Removes evil URL parameters such as Google Analytics' utm parameters
 - [contextSearch](https://github.com/odebroqueville/contextSearch) - Firefox add-on to search selected text using a context menu displaying pre-specified search engines
 - [firefoxaddons](https://github.com/Smile4ever/firefoxaddons) - Extend the functionality of Firefox with cool addons
-- [aragon-core](https://github.com/aragon/aragon-core) - Smart contracts for running Aragon Core organizations
+- [aragonOS](https://github.com/aragon/aragonOS) - Official reference implementation for aragonOS
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment. This is a very early preview, and is not suitable for general usage yet.
@@ -1930,7 +1949,7 @@
 - [Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) - 🌈  A Curated List of Checklists ✔︎✔︎
 - [awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
 - [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Algorithms, front end and behavioral content for rocking your coding interview
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Algorithms study materials, behavioral content and tips for rocking your coding interview
 - [webmacs](https://github.com/parkouss/webmacs) - webmacs - keyboard driven (emacs key bindings) browser
 - [sizzy](https://github.com/kitze/sizzy) - A tool for testing responsive websites crazy-fast
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
@@ -2178,7 +2197,7 @@
 - [livereload](https://github.com/mockko/livereload) - LiveReload applies CSS/JS changes to Safari or Chrome w/o reloading the page (and autoreloads the page when HTML changes)
 - [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - Scaffold out a Chrome extension
 - [chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome
-- [browser-extension](https://github.com/OctoLinker/browser-extension) - OctoLinker – Available on Chrome, Firefox and Opera
+- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker – Available on Chrome, Firefox and Opera
 - [react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 - [chrome-app-samples](https://github.com/GoogleChrome/chrome-app-samples) - Chrome Apps
 - [json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON/JSONP easy to read.
@@ -2720,12 +2739,14 @@
 
 ## Python 
 
+- [notifico](https://github.com/notifico/notifico) - My personal http://cia.vc replacement project. Now used by over 3000 projects.
+- [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
 - [Firefly](https://github.com/9miao/Firefly) - Distributed Game Server Framework
 - [Urho3D-Blender](https://github.com/reattiva/Urho3D-Blender) - Blender to Urho3D mesh exporter
 - [pentesting-multitool](https://github.com/ffmancera/pentesting-multitool) - Different utility scripts for pentesting and hacking.
 - [Hippocampe](https://github.com/TheHive-Project/Hippocampe) - Threat Feed Aggregation, Made Easy
-- [tensorlayer](https://github.com/tensorlayer/tensorlayer) - TensorLayer: Deep Learning and Reinforcement Learning Library for Researchers and Engineers.
+- [tensorlayer](https://github.com/tensorlayer/tensorlayer) - TensorLayer: A Versatile Deep Learning and Reinforcement Learning Library for TensorFlow
 - [python-chess](https://github.com/niklasf/python-chess) - A pure Python chess library with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing and UCI engine communication
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
@@ -2769,7 +2790,7 @@
 - [neural-style](https://github.com/anishathalye/neural-style) - Neural style in TensorFlow! :art:
 - [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-- [wifiphisher](https://github.com/wifiphisher/wifiphisher) - Automated victim-customized phishing attacks against Wi-Fi clients
+- [wifiphisher](https://github.com/wifiphisher/wifiphisher) - Rogue Access Point framework for Wi-Fi automatic association attacks and victim-customized phishing
 - [ImageScraper](https://github.com/sananth12/ImageScraper) - :scissors: High performance, multi-threaded image scraper
 - [dex](https://github.com/jceb/dex) - DesktopEntry Execution
 - [ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
@@ -3108,7 +3129,7 @@
 - [gitless](https://github.com/sdg-mit/gitless) - A version control system built on top of Git
 - [Mathics](https://github.com/mathics/Mathics) - a general-purpose computer algebra system
 - [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and europeandataportal.eu/data/en/dataset among many other sites.
-- [quokka](https://github.com/quokkaproject/quokka) - CMS (Content Management System) - Python, Flask and MongoDB
+- [quokka](https://github.com/rochacbruno/quokka) - CMS (Content Management System) - Python, Flask and MongoDB
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [BuildingMachineLearningSystemsWithPython](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) - Source Code for the book Building Machine Learning Systems with Python
 - [maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
@@ -3356,7 +3377,6 @@
 - [devtools](https://github.com/hadley/devtools) - Tools to make an R developer's life easier
 - [awesome-R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
 - [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) - Code accompanying the book "Machine Learning for Hackers"
-- [efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
 - [SuperLearner](https://github.com/ecpolley/SuperLearner) - Current version of the SuperLearner R package
 - [anytime](https://github.com/eddelbuettel/anytime) - Anything to POSIXct or Date Converter
 
@@ -3375,6 +3395,7 @@
 
 ## Ruby 
 
+- [colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [ruby-warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence.
 - [musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping to catalog, preserve and free the artifacts you need to produce music.
 - [ifme](https://github.com/julianguyen/ifme) - Open source app to share mental health experiences with loved ones
@@ -3551,6 +3572,13 @@
 
 ## Shell 
 
+- [useful-scripts](https://github.com/oldratlee/useful-scripts) - :snail: useful scripts for making developer's everyday life easier and happier
+- [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
+- [climate](https://github.com/adtac/climate) - The ultimate command line tool for Linux developers! Provides a huge number of tools for developers to automate their system.
+- [pwd.sh](https://github.com/drduh/pwd.sh) - Unix shell, GPG-based password manager
+- [git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+- [HELK](https://github.com/Cyb3rWard0g/HELK) - The Incredible HELK
+- [git-recall](https://github.com/Fakerr/git-recall) - An interactive way to peruse your git history from the terminal
 - [wallabag2_ynh](https://github.com/YunoHost-Apps/wallabag2_ynh) - Wallabag v2 package for YunoHost
 - [wikitools](https://github.com/Smile4ever/wikitools) - Wikipedia tools
 - [media-autobuild_suite](https://github.com/jb-alvarado/media-autobuild_suite) - This Windows Batchscript is for setup a compiler environment for building ffmpeg and other media tools under Windows.
@@ -3752,6 +3780,7 @@
 - [latex-docker](https://github.com/blang/latex-docker) - Docker-based latex compilation
 - [latex-homework-template](https://github.com/jdavis/latex-homework-template) - 🎓📄 The LaTeX file that I use as the base for all my homeworks in university.
 - [Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) - LaTeX-template for russian Phd thesis
+- [efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
 - [sicp](https://github.com/ieure/sicp) - Structure and Interpretation of Computer Programs, Second Edition
 - [texlive.js](https://github.com/manuels/texlive.js) - Compiling LaTeX (TeX live) in your browser
 - [acm-cheat-sheet](https://github.com/soulmachine/acm-cheat-sheet) - Acm Cheat Sheet
