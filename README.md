@@ -400,6 +400,7 @@
 
 ## C++ 
 
+- [gltut](https://github.com/paroj/gltut) - Learning Modern 3D Graphics Programming
 - [shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a mod of Teeworlds
@@ -599,6 +600,7 @@
 
 ## CSS 
 
+- [raleigh-reloaded](https://github.com/vlastavesely/raleigh-reloaded) - :computer: A GTK theme aiming to revive the classic Raleigh theme.
 - [tokumei](https://github.com/tokumeico/tokumei) - Anonymous microblogging platform | Mirror of https://gitlab.com/tokumei/tokumei
 - [haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com) - haxeflixel.com docpad source
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
@@ -743,6 +745,11 @@
 
 ## Emacs Lisp 
 
+- [info-beamer.el](https://github.com/dakra/info-beamer.el) - Interface for info-beamer
+- [tea-timer.el](https://github.com/dakra/tea-timer.el) - Simple countdown timer for Emacs
+- [org-github](https://github.com/dakra/org-github) - Sync org tasks with github issues
+- [brain-fm](https://github.com/dakra/brain-fm) - Play music from brain.fm in Emacs
+- [helm-mt](https://github.com/dfdeshom/helm-mt) - Helm bindings for managing multi-term terminals
 - [yatemplate](https://github.com/mineo/yatemplate) - Simple file templates for Emacs with YASnippet
 - [pomidor](https://github.com/TatriX/pomidor) - Pomidor is a simple and cool pomodoro technique timer.
 - [yankpad](https://github.com/Kungsgeten/yankpad) - Paste snippets from an org-mode file
@@ -2673,6 +2680,7 @@
 
 ## PHP 
 
+- [ApiGen](https://github.com/ApiGen/ApiGen) - PHP 7.1 ready Smart and Simple Documentation for your PHP project
 - [kouki](https://github.com/felixdorner/kouki) - ⓦ A beautiful and minimal theme for personal blogs
 - [YouPHPTube](https://github.com/DanielnetoDotCom/YouPHPTube) - The Best YouTube Clone Script
 - [airship](https://github.com/paragonie/airship) - Secure Content Management for the Modern Web - "The sky is only the beginning"
@@ -2856,7 +2864,7 @@
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [https-everywhere](https://github.com/EFForg/https-everywhere) - A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
-- [badgeyay](https://github.com/fossasia/badgeyay) - Visitor Badge Generator for Conferences https://badgeyay-dev.herokuapp.com
+- [badgeyay](https://github.com/fossasia/badgeyay) - Attendee Badge Generator for Conferences http://badgeyay.com
 - [AutoLocalPrivilegeEscalation](https://github.com/ngalongc/AutoLocalPrivilegeEscalation) - An automated script that download potential exploit for linux kernel from exploitdb, and compile them automatically
 - [tremc](https://github.com/louipc/tremc) - Curses interface for transmission
 - [gitzilla](https://github.com/gera/gitzilla) - Git-Bugzilla integration done right
@@ -3185,7 +3193,7 @@
 - [theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [XX-Net](https://github.com/XX-net/XX-Net) - a web proxy tool
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
-- [reddit](https://github.com/reddit/reddit) - historical code from reddit.com
+- [reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - common data analysis and machine learning tasks using python
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
