@@ -400,6 +400,7 @@
 
 ## C++ 
 
+- [gnucap](https://github.com/gnucap/gnucap) - gnucap mirror
 - [gltut](https://github.com/paroj/gltut) - Learning Modern 3D Graphics Programming
 - [shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [Gource](https://github.com/acaudwell/Gource) - software version control visualization
@@ -408,7 +409,7 @@
 - [vnote](https://github.com/tamlok/vnote) - A Vim-inspired note-taking application, especially for Markdown.
 - [House3D](https://github.com/facebookresearch/House3D) - a Realistic and Rich 3D Environment
 - [EtherealLegends](https://github.com/Soverance/EtherealLegends) - Ethereal Legends - An Indie Action RPG built with Unreal Engine 4 for Steam, PS4, and Xbox One.
-- [Lazonyx](https://github.com/t3dw/Lazonyx) - An arcade-style 2D pixel-art platformer built in Godot
+- [Lazonyx](https://github.com/ted-w-w/Lazonyx) - An arcade-style 2D pixel-art platformer built in Godot
 - [kNet](https://github.com/juj/kNet) - 
 - [lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Community-centered MMORPG shooter released as free software. (upcoming)
@@ -745,6 +746,14 @@
 
 ## Emacs Lisp 
 
+- [emacs-fasd](https://github.com/steckerhalter/emacs-fasd) - Emacs integration for the command-line productivity booster `fasd'
+- [emacs-git-attr](https://github.com/arnested/emacs-git-attr) - Expose gitattributes to emacs buffers
+- [scratch-el](https://github.com/ieure/scratch-el) - Scratch buffers for Emacs
+- [helm-orgcard](https://github.com/emacs-jp/helm-orgcard) - browse the orgcard by helm
+- [nix-update-el](https://github.com/jwiegley/nix-update-el) - An Emacs command for updating fetch declarations in place
+- [elx](https://github.com/emacscollective/elx) - Extract information from Emacs Lisp libraries
+- [clipmon](https://github.com/bburns/clipmon) - Clipboard monitor for Emacs - monitors clipboard and pastes contents on change
+- [prog-fill](https://github.com/ahungry/prog-fill) - Emacs prog-fill functionality (smartly break lines to use vertical space)
 - [info-beamer.el](https://github.com/dakra/info-beamer.el) - Interface for info-beamer
 - [tea-timer.el](https://github.com/dakra/tea-timer.el) - Simple countdown timer for Emacs
 - [org-github](https://github.com/dakra/org-github) - Sync org tasks with github issues
@@ -1035,7 +1044,6 @@
 - [emacs-import-js](https://github.com/Galooshi/emacs-import-js) - Emacs plugin for ImportJS
 - [flow-minor-mode](https://github.com/an-sh/flow-minor-mode) - Emacs minor mode for editing flowtype files.
 - [gamify-el](https://github.com/Idorobots/gamify-el) - Gamify your life for the Greater Good!
-- [dotfiles](https://github.com/azahi/dotfiles) - How do I make magic happen on my T420
 - [rats.el](https://github.com/ane/rats.el) - Manage Go tests inside Emacs
 - [orgnav](https://github.com/facetframer/orgnav) - Quickly navigate and search your emacs org trees; use this navigation to capture and organize. Built with the help of helm.
 - [system-packages](https://github.com/jabranham/system-packages) - Manage your installed packages with emacs
@@ -1556,7 +1564,6 @@
 - [cpputils-cmake](https://github.com/redguardtoo/cpputils-cmake) - Easy real time C++ syntax check and intellisense if you use CMake
 - [all-the-icons.el](https://github.com/domtronn/all-the-icons.el) - A utility package to collect various Icon Fonts and propertize them within Emacs.
 - [emacs-live](https://github.com/overtone/emacs-live) - M-x start-hacking
-- [dotfiles](https://github.com/garybernhardt/dotfiles) - ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/.
 - [smart-mode-line](https://github.com/Malabarba/smart-mode-line) - A powerful and beautiful mode-line for Emacs.
 - [guess-language.el](https://github.com/tmalsburg/guess-language.el) - Emacs mode that detects the language you're typing in. Automatically switches spell checker. Supports multiple languages per document.
 - [god-mode](https://github.com/chrisdone/god-mode) - Global minor mode for entering Emacs commands without modifier keys
@@ -1871,6 +1878,7 @@
 - [shentong](https://github.com/mthom/shentong) - A Haskell implementation of the Shen programming language.
 - [husk-scheme](https://github.com/justinethier/husk-scheme) - A practical implementation of the Scheme programming language for the Haskell Platform.
 - [scheme](https://github.com/write-you-a-scheme-v2/scheme) - Write You a Scheme
+- [dotfiles](https://github.com/azahi/dotfiles) - How do I make magic happen on my T420
 - [vado](https://github.com/chrisdone/vado) - A web browser engine written in Haskell
 - [quickcheck](https://github.com/nick8325/quickcheck) - Automatic testing of Haskell programs.
 - [liquidhaskell](https://github.com/ucsd-progsys/liquidhaskell) - Liquid Types For Haskell
@@ -2360,6 +2368,7 @@
 
 ## Others 
 
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - :bookmark: Everyday-Updated Reading List For Designing High Scalability :cherries:, High Availability :fire:, High Stability :mount_fuji: Back-End Systems - Pull Requests Are Greatly Welcome :two_men_holding_hands: I Hope You Will Find This Project Helpful :four_leaf_clover: Please Help Me Share It To More People :heart: Thank You - 谢谢 - धन्यवाद - ধন্যবাদ - Спасибо - شكرا - Merci - Gracias - Danke - ありがとう - Cảm Ơn! :bow:
 - [emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
 - [Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox source code repository
 - [donate](https://github.com/joshtronic/donate) - Just a list of Free Software, Open Source Software and other technology-related things you can contribute money to.
@@ -2525,7 +2534,7 @@
 - [awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 - [awesome-design](https://github.com/gztchan/awesome-design) - :flags: Creative Resources for Developer and Designer :)
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
-- [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [itpol](https://github.com/lfit/itpol) - Useful IT policies
@@ -2540,7 +2549,7 @@
 - [awesome-speakers](https://github.com/karlhorky/awesome-speakers) - Awesome speakers in the programming and design communities
 - [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [quicklisp-projects](https://github.com/quicklisp/quicklisp-projects) - Metadata for projects tracked by Quicklisp.
-- [moebius](https://github.com/MoonchildProductions/moebius) - UXP - Unified XUL Platform
+- [moebius](https://github.com/MoonchildProductions/moebius) - UXP - initial dev repo
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [xaml-standard](https://github.com/Microsoft/xaml-standard) - XAML Standard : a set of principles that drive XAML dialect alignment
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
@@ -2864,7 +2873,7 @@
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [https-everywhere](https://github.com/EFForg/https-everywhere) - A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
-- [badgeyay](https://github.com/fossasia/badgeyay) - Attendee Badge Generator for Conferences http://badgeyay.com
+- [badgeyay](https://github.com/fossasia/badgeyay) - Attendee Badge Generator for Conferences http://badgeyay.com Backend: http://badgeyay-api.herokuapp.com/
 - [AutoLocalPrivilegeEscalation](https://github.com/ngalongc/AutoLocalPrivilegeEscalation) - An automated script that download potential exploit for linux kernel from exploitdb, and compile them automatically
 - [tremc](https://github.com/louipc/tremc) - Curses interface for transmission
 - [gitzilla](https://github.com/gera/gitzilla) - Git-Bugzilla integration done right
@@ -3071,7 +3080,7 @@
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - 🎷  Downloads Music From The Web
 - [waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [Soundcloud-Downloader](https://github.com/013/Soundcloud-Downloader) - Download songs from SoundCloud, even if the song is not available for download
-- [READYT](https://github.com/livibetter-backup/READYT) - A CLI lover wants you to READYT
+- [READYT](https://github.com/lbarchive/READYT) - A CLI lover wants you to READYT
 - [sphinxcontrib-disqus](https://github.com/Robpol86/sphinxcontrib-disqus) - Sphinx extension that embeds Disqus comments in documents.
 - [sphinx-eldomain](https://github.com/millejoh/sphinx-eldomain) - Emacs Lisp domain -- Sphinx extension for Emacs Lisp
 - [sphinx-eldomain](https://github.com/tkf/sphinx-eldomain) - Emacs Lisp domain -- Sphinx extension for Emacs Lisp
@@ -3430,6 +3439,7 @@
 
 ## Ruby 
 
+- [cons](https://github.com/scottjad/cons) - makes consuming media so fast and easy that one might consume too much
 - [colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [ruby-warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence.
 - [musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping to catalog, preserve and free the artifacts you need to produce music.
@@ -3609,6 +3619,7 @@
 
 ## Shell 
 
+- [egpg](https://github.com/dashohoxha/egpg) - Easy GnuPG, shell scripts to make GnuPG more accessible and easier to use.
 - [scripts](https://github.com/jwiegley/scripts) - Various and sundry shell scripts used on my system
 - [useful-scripts](https://github.com/oldratlee/useful-scripts) - :snail: useful scripts for making developer's everyday life easier and happier
 - [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
@@ -3856,7 +3867,6 @@
 - [valama](https://github.com/Valama/valama) - Next generation Vala IDE
 - [nuntius-linux](https://github.com/holylobster/nuntius-linux) - Nuntius delivers notifications from your phone or tablet to your computer
 - [FeedReader](https://github.com/jangernert/FeedReader) - Modern desktop application designed to complement existing web-based RSS accounts.
-- [gitg](https://github.com/jessevdk/gitg) - A GitX clone for gtk+/GNOME (**moved to git.gnome.org**)
 - [pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 - [vala](https://github.com/GNOME/vala) - vala
 - [peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
@@ -3877,6 +3887,7 @@
 - [spacevim](https://github.com/ctjhoa/spacevim) - Spacemacs for vim
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - :two_hearts: A community-driven vim distribution inspired by spacemacs
 - [dotmatrix](https://github.com/hashrocket/dotmatrix) - Hashrocket Dot Files
+- [dotfiles](https://github.com/garybernhardt/dotfiles) - ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/.
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [tagbar](https://github.com/majutsushi/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: a Git wrapper so awesome, it should be illegal
