@@ -111,6 +111,8 @@
 
 ## C 
 
+- [urlview](https://github.com/sigpipe/urlview) - Extract URLs from a text file and allow the user to select via a menu
+- [colorout](https://github.com/jalvesaq/colorout) - Colorize R output on terminal emulators
 - [LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
 - [CLove](https://github.com/Murii/CLove) - 2D game framework that allows for rapid development written in C using Lua or Aria as scripting language.
 - [bodge-chipmunk](https://github.com/borodust/bodge-chipmunk) - Wrapper over chipmunk 2d physics library
@@ -402,6 +404,7 @@
 
 ## C++ 
 
+- [slowmoVideo](https://github.com/slowmoVideo/slowmoVideo) - Official slowmoVideo repository
 - [gnucap](https://github.com/gnucap/gnucap) - gnucap mirror
 - [gltut](https://github.com/paroj/gltut) - Learning Modern 3D Graphics Programming
 - [shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
@@ -549,7 +552,7 @@
 - [ycmd](https://github.com/Valloric/ycmd) - A code-completion & code-comprehension server
 - [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
-- [QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops. 基于Qt和FFmpeg的跨平台高性能音视频播放框架
+- [QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg(https://github.com/wang-bin/avbuild). High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops. 基于Qt和FFmpeg的跨平台高性能音视频播放框架
 - [tome2](https://github.com/tome2/tome2) - ToME 2
 - [cruft-ng](https://github.com/a-detiste/cruft-ng) - rewrite of Debian "cruft" package
 - [newsbeuter](https://github.com/akrennmair/newsbeuter) - Newsbeuter is an open-source RSS/Atom feed reader for text terminals.
@@ -2389,7 +2392,8 @@
 
 ## Others 
 
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - Scalability :cherries:, Availability :fire:, Stability :mount_fuji: Back-end Systems List - Made With :sparkling_heart:, :pizza: and :coffee:
+- [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - An updated and curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
 - [emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
 - [Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox source code repository
 - [donate](https://github.com/joshtronic/donate) - Just a list of Free Software, Open Source Software and other technology-related things you can contribute money to.
