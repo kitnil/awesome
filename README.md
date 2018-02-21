@@ -478,7 +478,7 @@
 - [gnome-mpv](https://github.com/gnome-mpv/gnome-mpv) - A simple GTK+ frontend for mpv
 - [gtkparasite](https://github.com/chipx86/gtkparasite) - A utility similar to Firebug but for GTK+ applications.
 - [gtk](https://github.com/GNOME/gtk) - Gtk+
-- [cpp-cheat](https://github.com/cirosantilli/cpp-cheat) - C and C++ minimal examples. Asserts used wherever possible. Hello worlds for cool third party libraries. Cheatsheets, tutorials and mini-projects.
+- [cpp-cheat](https://github.com/cirosantilli/cpp-cheat) - C and C++ minimal examples. Asserts used wherever possible. Hello worlds for cool third party libraries and build systems. Cheatsheets, tutorials and mini-projects.
 - [ffi](https://github.com/ffi/ffi) - Ruby FFI
 - [scribus-plugin-gettext-markdown](https://github.com/aoloe/scribus-plugin-gettext-markdown) - Text importer for loading Markdown text into Scribus files.
 - [sublime-text-imfix](https://github.com/lyfeyaj/sublime-text-imfix) - Fix Sublime Text 3 Input method problem (CJK words) under Ubuntu
@@ -528,6 +528,13 @@
 
 ## C++ 
 
+- [ELF](https://github.com/facebookresearch/ELF) - An End-To-End, Lightweight and Flexible Platform for Game Research
+- [pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
+- [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
+- [glm](https://github.com/g-truc/glm) - OpenGL Mathematics (GLM)
+- [pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
+- [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
+- [dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [psychec](https://github.com/ltcmelo/psychec) - Hindley-Milner type inference engine for C
 - [fff](https://github.com/meekrosoft/fff) - A testing micro framework for creating function test doubles
 - [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) - Source code for GamePhysicsCookbook
@@ -894,6 +901,8 @@
 
 ## Emacs Lisp 
 
+- [org-mru-clock](https://github.com/unhammer/org-mru-clock) - ⏲️ Effortlessly clock in/out of org-mode tasks, with completion and persistent history
+- [call-graph](https://github.com/beacoder/call-graph) - Library to generate call graph for cpp functions
 - [cperl-mode](https://github.com/jrockway/cperl-mode) - cperl-mode with 5.10 fixes, mx-declare support, perl6 support, etc.
 - [company-plsense](https://github.com/CeleritasCelery/company-plsense) - company backend for plsense
 - [recorder](https://github.com/tarsius/recorder) - 
@@ -2080,7 +2089,7 @@
 - [xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 - [orgstat](https://github.com/volhovm/orgstat) - Statistics visualizer for org-mode
 - [turboMaCk.github.io](https://github.com/turboMaCk/turboMaCk.github.io) - My personal website.
-- [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter written in Haskell
+- [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [corrode](https://github.com/jameysharp/corrode) - C to Rust translator
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -2135,6 +2144,7 @@
 
 ## JavaScript 
 
+- [compiler-explorer](https://github.com/mattgodbolt/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [craftscape](https://github.com/pyalot/craftscape) - WebGL GPU landscaping and erosion
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [warriorjs](https://github.com/olistic/warriorjs) - Game written in JavaScript for learning JavaScript and artificial intelligence.
@@ -2413,7 +2423,7 @@
 - [react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 - [chrome-app-samples](https://github.com/GoogleChrome/chrome-app-samples) - Chrome Apps
 - [json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON/JSONP easy to read.
-- [chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - Google Chrome extension that strips Google Analytics (UTM) tokens from URL query strings
+- [chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) tokens from URL query strings
 - [chrome-link-copy](https://github.com/ma08/chrome-link-copy) - 
 - [teleirc](https://github.com/RITlug/teleirc) - NodeJS implementation of a Telegram &lt;=&gt; IRC bridge for use with any IRC channel and Telegram group
 - [Clean-Feed-for-VK.com](https://github.com/EvgenyOrekhov/Clean-Feed-for-VK.com) - Чистые Новости для VK.com — расширение для Google Chrome, которое очищает захламлённые новости ВКонтакте от отстойных репостов ваших друзей
@@ -2532,6 +2542,7 @@
 
 ## OCaml 
 
+- [infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [bucklescript](https://github.com/BuckleScript/bucklescript) - A backend for the OCaml compiler which emits JavaScript.
 - [js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [batteries-included](https://github.com/ocaml-batteries-team/batteries-included) - Batteries Included project
@@ -2546,6 +2557,7 @@
 
 ## Others 
 
+- [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [compilers-targeting-c](https://github.com/dbohdan/compilers-targeting-c) - A list of compilers that can generate C code
 - [ProgrammingLanguage-Series](https://github.com/wxyyxc1992/ProgrammingLanguage-Series) - 编程语言语法基础与工程实践 - JavaScript / Java / Python / Rust
 - [awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
@@ -2970,6 +2982,7 @@
 
 ## Python 
 
+- [LeetCode](https://github.com/kamyu104/LeetCode) - :pencil: Python / C++ 11 Solutions of LeetCode Questions
 - [rust-python-example](https://github.com/rochacbruno/rust-python-example) - Example of using Rust to Extend Python
 - [coala-bears](https://github.com/coala/coala-bears) - Bears for coala
 - [jupyter-c-kernel](https://github.com/brendan-rius/jupyter-c-kernel) - Minimal Jupyter C kernel
@@ -4092,7 +4105,7 @@
 - [ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine
 - [vimagit](https://github.com/jreybert/vimagit) - Ease your git workflow within Vim
 - [spacevim](https://github.com/ctjhoa/spacevim) - Spacemacs for vim
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - :two_hearts: A community-driven vim distribution inspired by spacemacs
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate Vim configuration
 - [dotmatrix](https://github.com/hashrocket/dotmatrix) - Hashrocket Dot Files
 - [dotfiles](https://github.com/garybernhardt/dotfiles) - ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/.
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
