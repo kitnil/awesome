@@ -528,6 +528,7 @@
 
 ## C++ 
 
+- [OpenColorIO](https://github.com/imageworks/OpenColorIO) - A color management framework for visual effects and animation.
 - [ELF](https://github.com/facebookresearch/ELF) - An End-To-End, Lightweight and Flexible Platform for Game Research
 - [pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
@@ -804,6 +805,7 @@
 
 ## Clojure 
 
+- [flower](https://github.com/PositiveTechnologies/flower) - Flower is a Clojure (and Emacs) library for integration with Github, Gitlab, Atlassian Jira, Microsoft TFS, Microsoft Exchange and Slack. It also may be used from Java. More integrations with task trackers, repositories and messaging systems coming soon!
 - [closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
 - [lux](https://github.com/LuxLang/lux) - The Lux Programming Language
 - [themecreator](https://github.com/mswift42/themecreator) - http://mswift42.github.io/themecreator/ create themes for intellij, textmate, atom, emacs and vim
@@ -901,6 +903,71 @@
 
 ## Emacs Lisp 
 
+- [RR_webinars](https://github.com/alegrand/RR_webinars) - Series of webinars and documents on Reproducible Research
+- [emacs-dashboard-nba](https://github.com/qorrect/emacs-dashboard-nba) - NBA stats for last nights games
+- [magit-imerge](https://github.com/magit/magit-imerge) - Magit extension for git-imerge
+- [vsts-mode.el](https://github.com/jtbm37/vsts-mode.el) - Emacs mode for Visual Studio Team Services
+- [cargo.el](https://github.com/kwrooijen/cargo.el) - Emacs Minor Mode for Cargo, Rust's Package Manager.
+- [reverse-im.el](https://github.com/a13/reverse-im.el) - 
+- [distel](https://github.com/massemanet/distel) - emacs - erlang IDE
+- [auto-org-md](https://github.com/jamcha-aa/auto-org-md) - export a markdown file automatically when you save an org-mode file
+- [prolusion](https://github.com/jwintz/prolusion) - From Latin prolusio(n- ), from prolus- ‘practised beforehand’, from the verb proludere, from pro ‘before’ + ludere ‘to play’.
+- [lsp-php](https://github.com/tszg/lsp-php) - 
+- [syslog-mode](https://github.com/vapniks/syslog-mode) - Emacs major-mode for viewing log files
+- [hide-lines](https://github.com/vapniks/hide-lines) - Commands for hiding lines based on a regexp
+- [docker-nexus3](https://github.com/sonatype/docker-nexus3) - Dockerized version of Nexus Repo Manager 3
+- [emacs-company-dict](https://github.com/hlissner/emacs-company-dict) - A port of ac-source-dictionary to company-mode, plus annotation and documentation support.
+- [replique.el](https://github.com/EwenG/replique.el) - 
+- [el2org](https://github.com/tumashu/el2org) - Convert an emacs-lisp file to org file
+- [company-lsp](https://github.com/tigersoldier/company-lsp) - Company completion backend for lsp-mode
+- [lorikeem](https://github.com/CoherentLogic/lorikeem) - LorikeeM MUMPS Developer Tools for GNU Emacs
+- [spot4e](https://github.com/chiply/spot4e) - Emacs client for Spotify search and playback using helm
+- [prometheus-v1-rules-mode](https://github.com/magoyette/prometheus-v1-rules-mode) - An Emacs major mode for Prometheus rules.
+- [FG42](https://github.com/FG42/FG42) - Ultimate Emacs based IDE for true believers
+- [Debian-GNU-Linux-Profiles](https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles) - Debian GNU/Linux based Services Profiles
+- [carbon-now-sh.el](https://github.com/veelenga/carbon-now-sh.el) - Emacs to https://carbon.now.sh integration
+- [dtrt-indent](https://github.com/jscheid/dtrt-indent) - A minor mode that guesses the indentation offset originally used for creating source code files and transparently adjusts the corresponding settings in Emacs, making it more convenient to edit foreign files.
+- [discord-ipc.el](https://github.com/nitros12/discord-ipc.el) - Discord rich presence for emacs.
+- [python-x.el](https://github.com/wavexx/python-x.el) - python.el extras for interactive evaluation
+- [lispyville](https://github.com/noctuid/lispyville) - lispy + evil = lispyville
+- [ebdb](https://github.com/girzel/ebdb) - An EIEIO port of BBDB, Emacs' contact-management package
+- [yahtzee](https://github.com/drdv/yahtzee) - The Yahtzee game
+- [emacs-js](https://github.com/foretagsplatsen/emacs-js) - Emacs configuration files for editing JavaScript
+- [magic-filetype.el](https://github.com/emacs-php/magic-filetype.el) - Enhance filetype major mode
+- [conllu-mode](https://github.com/odanoburu/conllu-mode) - CoNLL-U major mode for emacs
+- [kotlin-mode](https://github.com/Emacs-Kotlin-Mode-Maintainers/kotlin-mode) - Kotlin major mode for Emacs
+- [dimmer.el](https://github.com/gonewest818/dimmer.el) - Interactively highlight which buffer is active by dimming the others.
+- [quickfix-mode](https://github.com/ulises/quickfix-mode) - A quickfix mode for emacs.
+- [elisp-lint](https://github.com/gonewest818/elisp-lint) - basic linting for Emacs Lisp
+- [flycheck-dmd-dub](https://github.com/atilaneves/flycheck-dmd-dub) - elisp to read package.json from dub and add syntax highlighting that resolves dependencies
+- [emacs-wilt](https://github.com/sixty-north/emacs-wilt) - Extension for calculating WILT metrics in emacs.
+- [glyphwiki-afdko](https://github.com/kawabata/glyphwiki-afdko) - Glyphwiki Font Generator with AFDKO
+- [helm-rg](https://github.com/cosmicexplorer/helm-rg) - ripgrep is nice
+- [elisp-def](https://github.com/Wilfred/elisp-def) - Find Emacs Lisp definitions
+- [emacs-counsel-css](https://github.com/hlissner/emacs-counsel-css) - An ivy-mode backend for css selectors (scss/less too)
+- [org-mime](https://github.com/org-mime/org-mime) - org-mime can be used to send HTML email using Org-mode HTML export.
+- [ledger-mode](https://github.com/ledger/ledger-mode) - Emacs Lisp files for interacting with the C++Ledger accounting system
+- [view-pane](https://github.com/repl-electric/view-pane) - Emacs as an instrument
+- [artbollocks-mode](https://github.com/sachac/artbollocks-mode) - Emacs mode for highlighting weasel words
+- [org-sync](https://github.com/arbox/org-sync) - Issue Tracking Synchronization for Emacs Org-mode.
+- [LSP-Symbol-Outline](https://github.com/bizzyman/LSP-Symbol-Outline) - A tree like view for symbols in Emacs using the Language Server Protocol.
+- [eredis](https://github.com/justinhj/eredis) - Automatically exported from code.google.com/p/eredis
+- [org-wc](https://github.com/tesujimath/org-wc) - Count words in org mode trees
+- [ubiquitous_bash](https://github.com/mirage335/ubiquitous_bash) - # Multiplatform structured programming and application virtualization middleware. Architecturally, a dedicated monolithic kernel for (meta)applications.
+- [bauer](https://github.com/matthewbauer/bauer) - An Emacs+Nix IDE
+- [bart-mode](https://github.com/mschuldt/bart-mode) - Display real time BART departures in Emacs!
+- [sudden-death.el](https://github.com/yewton/sudden-death.el) - 
+- [sly-repl-ansi-color](https://github.com/PuercoPop/sly-repl-ansi-color) - ansi-color support for the sly-mrepl
+- [rubik-mode](https://github.com/Kurvivor19/rubik-mode) - Rubik's cube puzzle for emacs
+- [ivy-posframe](https://github.com/tumashu/ivy-posframe) - 
+- [ibuffer-sidebar](https://github.com/jojojames/ibuffer-sidebar) - A sidebar for IBuffer
+- [emacs-gif-screencast](https://github.com/Ambrevar/emacs-gif-screencast) - One-frame-per-action GIF recording for optimal quality/size ratio
+- [cobalt.el](https://github.com/cobalt-org/cobalt.el) - Emacs interface for Cobalt.rs
+- [aurora-config-mode.el](https://github.com/bdd/aurora-config-mode.el) - Emacs Major Mode for Apache Aurora
+- [attrap](https://github.com/jyp/attrap) - ATtempt To Repair At Point (emacs flycheck extension)
+- [daemons.el](https://github.com/cbowdon/daemons.el) - An Emacs UI for managing init system services
+- [bmx-mode](https://github.com/josteink/bmx-mode) - Action-paced Windows Batch-file editing, powered by GNU Emacs!
+- [emacs-python-pytest](https://github.com/wbolster/emacs-python-pytest) - run pytest inside emacs
 - [org-mru-clock](https://github.com/unhammer/org-mru-clock) - ⏲️ Effortlessly clock in/out of org-mode tasks, with completion and persistent history
 - [call-graph](https://github.com/beacoder/call-graph) - Library to generate call graph for cpp functions
 - [cperl-mode](https://github.com/jrockway/cperl-mode) - cperl-mode with 5.10 fixes, mx-declare support, perl6 support, etc.
@@ -2044,6 +2111,7 @@
 
 ## Haskell 
 
+- [intero](https://github.com/commercialhaskell/intero) - Complete interactive development program for Haskell
 - [wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 - [kitten](https://github.com/evincarofautumn/kitten) - A statically typed concatenative programming language.
 - [codeworld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell
@@ -2982,6 +3050,7 @@
 
 ## Python 
 
+- [stgit](https://github.com/ctmarinas/stgit) - Stacked Git
 - [LeetCode](https://github.com/kamyu104/LeetCode) - :pencil: Python / C++ 11 Solutions of LeetCode Questions
 - [rust-python-example](https://github.com/rochacbruno/rust-python-example) - Example of using Rust to Extend Python
 - [coala-bears](https://github.com/coala/coala-bears) - Bears for coala
