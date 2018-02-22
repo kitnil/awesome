@@ -112,6 +112,7 @@
 
 ## C 
 
+- [zathura](https://github.com/pwmt/zathura) - a document viewer
 - [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
 - [footswitch](https://github.com/rgerganov/footswitch) - Command-line utility for PCsensor foot switch
 - [InsecureProgramming](https://github.com/deadbits/InsecureProgramming) - mirror of gera's insecure programming examples | http://community.coresecurity.com/~gera/InsecureProgramming/
@@ -528,6 +529,8 @@
 
 ## C++ 
 
+- [M.A.R.S.](https://github.com/thelaui/M.A.R.S.) - M.A.R.S. - a ridiculous shooter
+- [hyperrogue](https://github.com/zenorogue/hyperrogue) - A SDL roguelike in a non-euclidean world
 - [OpenColorIO](https://github.com/imageworks/OpenColorIO) - A color management framework for visual effects and animation.
 - [ELF](https://github.com/facebookresearch/ELF) - An End-To-End, Lightweight and Flexible Platform for Game Research
 - [pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
@@ -838,6 +841,9 @@
 
 ## Common Lisp 
 
+- [clx-xkeyboard](https://github.com/filonenko-mikhail/clx-xkeyboard) - X11 XKeyboard extension for common lisp x client (clx)
+- [quicklisp-client](https://github.com/quicklisp/quicklisp-client) - Quicklisp client.
+- [lla](https://github.com/tpapp/lla) - Lisp Linear Algebra
 - [gb-disassembler](https://github.com/privet-kitty/gb-disassembler) - Disassembler for Nintendo Gameboy
 - [dufy](https://github.com/privet-kitty/dufy) - Color Library for Common Lisp
 - [ccl](https://github.com/Clozure/ccl) - Clozure Common Lisp
@@ -903,6 +909,13 @@
 
 ## Emacs Lisp 
 
+- [erc-view-log](https://github.com/Niluge-KiWi/erc-view-log) - erc-view-log is an emacs mode for viewing ERC logs
+- [mentor](https://github.com/skangas/mentor) - GNU Emacs frontend for the rTorrent bittorrent client.
+- [github-browse-file](https://github.com/osener/github-browse-file) - View the file you're editing in Emacs on GitHub
+- [tron.el](https://github.com/killdash9/tron.el) - A tron game for emacs
+- [magit-popup](https://github.com/magit/magit-popup) - Define prefix-infix-suffix command combos
+- [language-detection.el](https://github.com/andreasjansson/language-detection.el) - Automatic programming language detection of code snippets, in Emacs Lisp
+- [color-theme-ahungry](https://github.com/ahungry/color-theme-ahungry) - Bright and bold color theme for emacs
 - [RR_webinars](https://github.com/alegrand/RR_webinars) - Series of webinars and documents on Reproducible Research
 - [emacs-dashboard-nba](https://github.com/qorrect/emacs-dashboard-nba) - NBA stats for last nights games
 - [magit-imerge](https://github.com/magit/magit-imerge) - Magit extension for git-imerge
@@ -2071,6 +2084,7 @@
 
 ## HTML 
 
+- [sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [gcovr](https://github.com/gcovr/gcovr) - generate code coverage reports with gcc/gcov
 - [ruby-hacking-guide.github.com](https://github.com/ruby-hacking-guide/ruby-hacking-guide.github.com) - Ruby Hacking Guide Translation
 - [craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
@@ -2212,6 +2226,10 @@
 
 ## JavaScript 
 
+- [conkeror](https://github.com/retroj/conkeror) - A highly customizable keyboard-oriented web browser for the XULRunner platform.
+- [config-conkeror](https://github.com/thorkill/config-conkeror) - 
+- [player-mode](https://github.com/scottjad/player-mode) - Conkeror page-mode for controlling media players
+- [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [compiler-explorer](https://github.com/mattgodbolt/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [craftscape](https://github.com/pyalot/craftscape) - WebGL GPU landscaping and erosion
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
@@ -2519,6 +2537,8 @@
 
 ## Jupyter Notebook 
 
+- [notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra) - 线性代数笔记
+- [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
 - [pyro](https://github.com/uber/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [ML-Tutorial-Experiment](https://github.com/jiqizhixin/ML-Tutorial-Experiment) - Coding the Machine Learning Tutorial for Learning to Learn
@@ -2997,6 +3017,7 @@
 
 ## Perl 
 
+- [paste.pl](https://github.com/formorer/paste.pl) - paste.debian.net implementation
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 - [plsense](https://github.com/aki2o/plsense) - Omni completion tool for Perl
@@ -3050,6 +3071,7 @@
 
 ## Python 
 
+- [bambam](https://github.com/porridge/bambam) - keyboard mashing and doodling game for babies
 - [stgit](https://github.com/ctmarinas/stgit) - Stacked Git
 - [LeetCode](https://github.com/kamyu104/LeetCode) - :pencil: Python / C++ 11 Solutions of LeetCode Questions
 - [rust-python-example](https://github.com/rochacbruno/rust-python-example) - Example of using Rust to Extend Python
@@ -3847,6 +3869,8 @@
 
 ## Scheme 
 
+- [sicp-solutions](https://github.com/dhess/sicp-solutions) - My solutions to exercises in the 2nd edition of Abelson and Sussman's SICP
+- [guile-ssh](https://github.com/artyom-poptsov/guile-ssh) - Guile-SSH is a library that provides access to the SSH protocol for GNU Guile programs.
 - [emacsy](https://github.com/shanecelis/emacsy) - An embeddable Emacs-like library for GNU Guile Scheme
 - [guile-kernel](https://github.com/jerry40/guile-kernel) - Guile kernel for Jupyter Notebook
 - [gwl-atacseq](https://github.com/UMCUGenetics/gwl-atacseq) - ATACseq pipeline using the Guix Workflow Language.
@@ -3900,6 +3924,7 @@
 
 ## Shell 
 
+- [shell-config](https://github.com/alezost/shell-config) - My shell configuration and scripts
 - [c.sh](https://github.com/eklitzke/c.sh) - Inline C/asm in Bash
 - [winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
@@ -4098,10 +4123,11 @@
 
 ## Standard ML 
 
-- [sml-redprl](https://github.com/RedPRL/sml-redprl) - Decisively Smash the Formalist Clique!—The People's Refinement Logic
+- [sml-redprl](https://github.com/RedPRL/sml-redprl) - The People's Refinement Logic
 
 ## TeX 
 
+- [guile-xcb](https://github.com/mwitmer/guile-xcb) - A guile implementation of the X protocol using xml/xcb
 - [endangered-languages](https://github.com/RichardLitt/endangered-languages) - Resources for conservation, development, and documentation of endangered, minority, and low or under-resourced human languages.
 - [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music
 - [guile-wm](https://github.com/mwitmer/guile-wm) - A Window Manager Toolkit for Guile Scheme
