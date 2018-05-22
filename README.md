@@ -119,6 +119,7 @@
 
 ## C 
 
+- [cglm](https://github.com/recp/cglm) - 📽 Optimized OpenGL/Graphics Math (glm) for C
 - [udisks](https://github.com/storaged-project/udisks) - The UDisks project provides a daemon, tools and libraries to access and manipulate disks, storage devices and technologies.
 - [inklingreader](https://github.com/roelj/inklingreader) - A GNU/Linux-friendly version of the Wacom Inkling SketchManager.
 - [pocl](https://github.com/pocl/pocl) - pocl - Portable Computing Language
@@ -247,7 +248,7 @@
 - [nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module
 - [libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
 - [tinyvm](https://github.com/jakogut/tinyvm) - TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.
-- [tinyheaders](https://github.com/RandyGaul/tinyheaders) - Collection of one-file C/C++ libraries with no dependencies, primarily used for games
+- [cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of one-file C/C++ libraries with no dependencies, primarily used for games
 - [pianobar](https://github.com/PromyLOPh/pianobar) - Console-based pandora.com player
 - [Collections-C](https://github.com/srdja/Collections-C) - A library of generic data structures.
 - [libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org websocket library
@@ -459,7 +460,7 @@
 - [nx-libs](https://github.com/ArcticaProject/nx-libs) - nx-libs
 - [checkedc](https://github.com/Microsoft/checkedc) - Checked C is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses.  This repo has a wiki for Checked C, sample code, the specification, and test code.
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
-- [obs-studio](https://github.com/obsproject/obs-studio) - OBS - Free and open source software for live streaming and screen recording
+- [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [gnome-twitch](https://github.com/vinszent/gnome-twitch) - Enjoy Twitch on your GNU/Linux desktop
@@ -960,6 +961,9 @@
 
 ## Emacs Lisp 
 
+- [exsqlaim-mode](https://github.com/ahmadnazir/exsqlaim-mode) - Emacs minor mode for supporting the use of variables inside sql queries.
+- [spacedoc](https://github.com/JAremko/spacedoc) - Spacemacs documentation tools
+- [chemacs](https://github.com/plexus/chemacs) - Emacs profile switcher
 - [mc-extras.el](https://github.com/knu/mc-extras.el) - Extra functions for multiple-cursors mode
 - [moom](https://github.com/takaxp/moom) - A Moom port to Emacs - Make your dominant hand FREE from your mouse
 - [emacs-world-time-mode](https://github.com/nicferrier/emacs-world-time-mode) - A mode showing your world time alist formatted as a list of whole days with the differing times.
@@ -1072,7 +1076,7 @@
 - [distel](https://github.com/massemanet/distel) - emacs - erlang IDE
 - [auto-org-md](https://github.com/jamcha-aa/auto-org-md) - export a markdown file automatically when you save an org-mode file
 - [prolusion](https://github.com/jwintz/prolusion) - From Latin prolusio(n- ), from prolus- ‘practised beforehand’, from the verb proludere, from pro ‘before’ + ludere ‘to play’.
-- [lsp-php](https://github.com/tszg/lsp-php) - 
+- [lsp-php](https://github.com/tszg/lsp-php) - This repository is no longer updated and is merged with the emacs-lsp/lsp-php.
 - [syslog-mode](https://github.com/vapniks/syslog-mode) - Emacs major-mode for viewing log files
 - [hide-lines](https://github.com/vapniks/hide-lines) - Commands for hiding lines based on a regexp
 - [docker-nexus3](https://github.com/sonatype/docker-nexus3) - Dockerized version of Nexus Repo Manager 3
@@ -1817,6 +1821,7 @@
 - [multifiles.el](https://github.com/magnars/multifiles.el) - Work in progress: View and edit parts of multiple files in one buffer
 - [Emacs](https://github.com/krameshkrr/Emacs) - Emacs customizations
 - [major-mode-dedication](https://github.com/tom-seddon/major-mode-dedication) - Dedicate an emacs major mode to a particular emacs window
+- [major-mode-dedication](https://github.com/tom-seddon/major-mode-dedication) - Dedicate an emacs major mode to a particular emacs window
 - [terminal-here](https://github.com/davidshepherd7/terminal-here) - An Emacs package to open an external terminal emulator in the current directory
 - [company-bibtex](https://github.com/gbgar/company-bibtex) - Emacs company-mode completion back-end for Bibtex keys.
 - [wc-mode](https://github.com/bnbeckwith/wc-mode) - Wordcount minor mode for Emacs
@@ -2398,6 +2403,7 @@
 
 ## JavaScript 
 
+- [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [nuage](https://github.com/mickael-kerjean/nuage) - A Dropbox-like interface for your existing data (with support for many backends)
 - [cors-everywhere-firefox-addon](https://github.com/spenibus/cors-everywhere-firefox-addon) - A firefox addon enabling CORS everywhere by altering http responses.
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
@@ -2906,7 +2912,7 @@
 - [shareable-links](https://github.com/vinkla/shareable-links) - A curated list of shareable social media links
 - [awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
-- [awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - Curated list of ad-free services on the Internet.
+- [awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - Curated list of ad-free alternatives to popular services on the web.
 - [awesome-product-design](https://github.com/teoga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 - [You-Dont-Know-X](https://github.com/ythecombinator/You-Dont-Know-X) - 🙈 curated list of inspiring resources which show you don't know that much about something you thought you knew.
 - [awesome-testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources
@@ -3291,6 +3297,7 @@
 
 ## Python 
 
+- [picamera](https://github.com/waveform80/picamera) - A pure Python interface to the Raspberry Pi camera module
 - [conkeror-bookmarks](https://github.com/bjornedstrom/conkeror-bookmarks) - Bookmark managing for the conkeror web browser
 - [afew](https://github.com/afewmail/afew) - an initial tagging script for notmuch mail
 - [pass-rotate](https://github.com/SirCmpwn/pass-rotate) - A tool and library for rotating your password on online services
@@ -4109,6 +4116,7 @@
 
 ## Scheme 
 
+- [guile-sparql](https://github.com/roelj/guile-sparql) - A SPARQL module for Guile Scheme.
 - [YASWEG](https://github.com/luksamuk/YASWEG) - A static website generator, written in Guile Scheme.
 - [guile-simple-zmq](https://github.com/jerry40/guile-simple-zmq) - Guile wrapper over ZeroMQ library
 - [guix-bimsb](https://github.com/BIMSBbioinfo/guix-bimsb) - Packages for GNU Guix that have not yet or will not be submitted upstream for various reasons
@@ -4223,7 +4231,7 @@
 - [.dot-org-files](https://github.com/ivoarch/.dot-org-files) - Dotfiles, Emacs + Org-mode with babel and Literate programming.
 - [portacle](https://github.com/portacle/portacle) - A portable common lisp development environment
 - [dotfiles](https://github.com/hrs/dotfiles) - Let's be honest: mostly Emacs.
-- [stackage](https://github.com/fpco/stackage) - "Stable Hackage": vetted consistent packages from Hackage
+- [stackage](https://github.com/commercialhaskell/stackage) - "Stable Hackage": vetted consistent packages from Hackage
 - [pentestpackage](https://github.com/leonteale/pentestpackage) - a package of Pentest scripts I have made or  commonly use
 - [Meterpreter_Paranoid_Mode-SSL](https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL) - Meterpreter Paranoid Mode - SSL/TLS connections
 - [opam-repository](https://github.com/ocaml/opam-repository) - Main public package repository for OPAM, the source package manager of OCaml.
