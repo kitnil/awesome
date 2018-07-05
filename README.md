@@ -61,6 +61,7 @@
   - [Python](#python)
   - [QML](#qml)
   - [R](#r)
+  - [Racket](#racket)
   - [Rascal](#rascal)
   - [Ring](#ring)
   - [Roff](#roff)
@@ -119,6 +120,11 @@
 
 ## C 
 
+- [casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
+- [firmware](https://github.com/UltimateHackingKeyboard/firmware) - The firmware of the Ultimate Hacking Keyboard
+- [libegit2](https://github.com/magit/libegit2) - Emacs bindings for libgit2
+- [libnss_homehosts](https://github.com/bAndie91/libnss_homehosts) - Linux NSS library supports ~/.hosts
+- [uberwald](https://github.com/thblt/uberwald) - A simple Lisp interpreter to teach myself about Lisps and Interpreters.
 - [cglm](https://github.com/recp/cglm) - 📽 Optimized OpenGL/Graphics Math (glm) for C
 - [udisks](https://github.com/storaged-project/udisks) - The UDisks project provides a daemon, tools and libraries to access and manipulate disks, storage devices and technologies.
 - [inklingreader](https://github.com/roelj/inklingreader) - A GNU/Linux-friendly version of the Wacom Inkling SketchManager.
@@ -155,7 +161,7 @@
 - [raptor_waf](https://github.com/CoolerVoid/raptor_waf) - Raptor - WAF - Web application firewall using DFA [ Current version ] - Beta
 - [foundation_lib](https://github.com/rampantpixels/foundation_lib) - Cross-platform public domain foundation library in C providing basic support data types and functions to write applications and games in a platform-independent fashion.
 - [glfm](https://github.com/brackeen/glfm) - OpenGL ES and input for iOS, tvOS, Android, and WebGL
-- [lvgl](https://github.com/littlevgl/lvgl) - Full-featured embedded GUI library with animation, opacity and anti-aliasing using one frame buffer
+- [lvgl](https://github.com/littlevgl/lvgl) - Graphics library to create embedded GUI with easy-to-use graphical elements, beautiful visual effects and low memory footprint. Anti-aliasing, opacity, animations using only one frame buffer.
 - [facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
 - [lambdapp](https://github.com/graphitemaster/lambdapp) - Anonymous functions in C
 - [editorconfig-core-c](https://github.com/editorconfig/editorconfig-core-c) - EditorConfig core library written in C (for use by plugins supporting EditorConfig parsing)
@@ -171,6 +177,7 @@
 - [inadyn](https://github.com/troglobit/inadyn) - Dynamic DNS client with SSL/TLS support
 - [Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x (x86 and x86_64)
 - [keylogger](https://github.com/caseyscarborough/keylogger) - A no-frills keylogger for Mac OS X.
+- [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [restful-doom](https://github.com/jeff-1amstudios/restful-doom) - HTTP+JSON API hosted inside the 1993 DOOM engine!
 - [terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
 - [OS67](https://github.com/SilverRainZ/OS67) - A unix-like toy kernel.
@@ -184,6 +191,7 @@
 - [mini-c](https://github.com/Fedjmike/mini-c) - Dr Strangehack, or: how to write a self-hosting C compiler in 10 hours
 - [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C
 - [atheme](https://github.com/atheme/atheme) - Atheme IRC Services
+- [QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, JavaScript, Python, C++, C.
 - [2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [gimp-plugin-bimp](https://github.com/alessandrofrancesconi/gimp-plugin-bimp) - BIMP. Batch Image Manipulation Plugin for GIMP.
 - [Modest](https://github.com/lexborisov/Modest) - Modest is a fast HTML renderer implemented as a pure C99 library with no outside dependencies.
@@ -264,7 +272,6 @@
 - [urlview](https://github.com/sigpipe/urlview) - Extract URLs from a text file and allow the user to select via a menu
 - [colorout](https://github.com/jalvesaq/colorout) - Colorize R output in terminal emulators
 - [LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
-- [CLove](https://github.com/Murii/CLove) - 2D game framework that allows for rapid development written in C using Lua or Aria as scripting language.
 - [bodge-chipmunk](https://github.com/borodust/bodge-chipmunk) - Wrapper over chipmunk 2d physics library
 - [mlt](https://github.com/mltframework/mlt) - MLT Multimedia Framework
 - [st](https://github.com/LukeSmithxyz/st) - Luke's fork of the suckless simple terminal (st). Some patches, fixes and bindings to make my life easier.
@@ -344,7 +351,7 @@
 - [firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [libmypaint](https://github.com/mypaint/libmypaint) - libmypaint, a.k.a. "brushlib", is a library for making brushstrokes which is used by MyPaint and other projects.
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
-- [mathc](https://github.com/ferreiradaselva/mathc) - Pure C math library for 2D and 3D programming (MATHC 2 in development on branch `mathc2`)
+- [mathc](https://github.com/ferreiradaselva/mathc) - Math library for 2D and 3D programming in pure C - MATHC 2 in development on branch `mathc2`
 - [windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) - windows-kernel-exploits   Windows平台提权漏洞集合
 - [TorProxy](https://github.com/r-a-w/TorProxy) - TorProxy is a tool which uses netfilter hooks in the linux kernel to route all network traffic through the Tor network
 - [darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
@@ -352,7 +359,6 @@
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [guile-xosd](https://github.com/alezost/guile-xosd) - Guile bindings for libxosd
 - [cower](https://github.com/falconindy/cower) - A simple AUR agent with a pretentious name.
-- [termux-packages](https://github.com/termux/termux-packages) - Android terminal and Linux environment - packages repository.
 - [stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library.
 - [Hipmunk](https://github.com/meteficha/Hipmunk) - Haskell binding for Chipmunk, 2D physics engine.
@@ -403,7 +409,7 @@
 - [Corange](https://github.com/orangeduck/Corange) - Pure C Game Engine
 - [libglvnd](https://github.com/NVIDIA/libglvnd) - The GL Vendor-Neutral Dispatch library
 - [UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
-- [playerctl](https://github.com/acrisci/playerctl) - mpris command-line controller and library for spotify, vlc, audacious, bmp, xmms2, and others.
+- [playerctl](https://github.com/acrisci/playerctl) - 🎧 mpris command-line controller and library for spotify, vlc, audacious, bmp, xmms2, and others.
 - [catimg](https://github.com/posva/catimg) - :squirrel: Insanely fast image printing in your terminal
 - [GNUSim8085](https://github.com/GNUSim8085/GNUSim8085) - A graphical simulator, assembler and debugger for the Intel 8085 microprocessor
 - [pigeonhole](https://github.com/dovecot/pigeonhole) - Pigeonhole project: Sieve support for Dovecot.
@@ -419,7 +425,7 @@
 - [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [premake-core](https://github.com/premake/premake-core) - Premake
 - [Bumblebee](https://github.com/Bumblebee-Project/Bumblebee) - Bumblebee daemon and client rewritten in C
-- [nautilus](https://github.com/GNOME/nautilus) - Nautilus
+- [nautilus](https://github.com/GNOME/nautilus) - Default file manager for GNOME
 - [tlf](https://github.com/Tlf/tlf) - TLF - a console based ham radio contest logger
 - [fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [fwupd](https://github.com/hughsie/fwupd) - A simple daemon to allow session software to update firmware
@@ -496,13 +502,12 @@
 - [obbg](https://github.com/nothings/obbg) - a block/voxel-based game
 - [simuino](https://github.com/bsaxen/simuino) - Automatically exported from code.google.com/p/simuino
 - [kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
-- [gnome-builder](https://github.com/chergert/gnome-builder) - Builder is an IDE for GNOME
 - [exploit-database](https://github.com/offensive-security/exploit-database) - The official Exploit Database repository
 - [redis](https://github.com/MicrosoftArchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of git://source.ffmpeg.org/ffmpeg.git
 - [gnome-mpv](https://github.com/gnome-mpv/gnome-mpv) - A simple GTK+ frontend for mpv
 - [gtkparasite](https://github.com/chipx86/gtkparasite) - A utility similar to Firebug but for GTK+ applications.
-- [gtk](https://github.com/GNOME/gtk) - Gtk+
+- [gtk](https://github.com/GNOME/gtk) - Multi-platform toolkit
 - [cpp-cheat](https://github.com/cirosantilli/cpp-cheat) - C and C++ minimal examples. Asserts used wherever possible. Hello worlds for cool third party libraries and build systems. Cheatsheets, tutorials and mini-projects.
 - [ffi](https://github.com/ffi/ffi) - Ruby FFI
 - [scribus-plugin-gettext-markdown](https://github.com/aoloe/scribus-plugin-gettext-markdown) - Text importer for loading Markdown text into Scribus files.
@@ -516,7 +521,6 @@
 - [toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [transmission](https://github.com/derekstavis/transmission) - A GNOME 3.14 HIG-compliant Transmission
 - [multiload-ng](https://github.com/udda/multiload-ng) - Modern graphical system monitor for any panel
-- [gnome-desktop-programming](https://github.com/chergert/gnome-desktop-programming) - A book on writing software for GNOME OS
 - [xfce4-terminal](https://github.com/xfce-mirror/xfce4-terminal) - 
 - [tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 - [mpv](https://github.com/mpv-player/mpv) - 🎥 Video player based on MPlayer/mplayer2
@@ -553,6 +557,9 @@
 
 ## C++ 
 
+- [devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
+- [TextSuggest](https://github.com/bharadwaj-raju/TextSuggest) - MOVED: https://gitlab.com/bharadwaj-raju/TextSuggest
+- [pdns](https://github.com/PowerDNS/pdns) - PowerDNS
 - [nitrogen](https://github.com/l3ib/nitrogen) - Background browser and setter for X windows.
 - [xkblayout-state](https://github.com/nonpop/xkblayout-state) - A small command-line program to get/set the current keyboard layout.
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 C++11/14/17 On the Fly
@@ -564,10 +571,11 @@
 - [gobby](https://github.com/gobby/gobby) - Gobby collaborative editor
 - [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - Nov 20 2017 -- A distributed open source search engine and spider/crawler written in C/C++ for Linux on Intel/AMD. From gigablast dot com, which has binaries for download. See the README.md file at the very bottom of this page for instructions.
 - [seeks](https://github.com/beniz/seeks) - Seeks is a decentralized p2p websearch and collaborative tool.
-- [solarus](https://github.com/solarus-games/solarus) - Action-RPG/Adventure 2D game engine
+- [solarus](https://github.com/solarus-games/solarus) - This repository was moved to GitLab: https://gitlab.com/solarus-games/solarus
 - [flare-engine](https://github.com/clintbellanger/flare-engine) - Free/Libre Action Roleplaying Engine (engine only)
 - [TinyRogue](https://github.com/marukrap/TinyRogue) - Yet another Rogue clone based on Rogue 5.4
 - [pamixer](https://github.com/cdemoulins/pamixer) - Pulseaudio command line mixer
+- [pulseeffects](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications
 - [cutter](https://github.com/radareorg/cutter) - A Qt and C++ GUI for radare2 reverse engineering framework
 - [M.A.R.S.](https://github.com/thelaui/M.A.R.S.) - M.A.R.S. - a ridiculous shooter
 - [hyperrogue](https://github.com/zenorogue/hyperrogue) - A SDL roguelike in a non-euclidean world
@@ -587,7 +595,7 @@
 - [al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) - :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/
 - [stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 - [slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
-- [milton](https://github.com/serge-rgb/milton) - A modern paint package
+- [milton](https://github.com/serge-rgb/milton) - An infinite-canvas paint program
 - [c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Live GLSL coding render for MacOS and Linux
 - [cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
@@ -595,7 +603,7 @@
 - [nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
 - [harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz OpenType text shaping engine
 - [slowmoVideo](https://github.com/slowmoVideo/slowmoVideo) - Official slowmoVideo repository
-- [gnucap](https://github.com/gnucap/gnucap) - gnucap mirror
+- [gnucap](https://github.com/gnucap/gnucap) - gnucap mirror (defunct, moved to gitlab)
 - [gltut](https://github.com/paroj/gltut) - Learning Modern 3D Graphics Programming
 - [shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [Gource](https://github.com/acaudwell/Gource) - software version control visualization
@@ -641,7 +649,7 @@
 - [Unvanquished](https://github.com/Unvanquished/Unvanquished) - An FPS/RTS hybrid game powered by the Daemon engine (a combination of ioq3 and XreaL)
 - [MuckyFoot-UrbanChaos](https://github.com/dizzy2003/MuckyFoot-UrbanChaos) - 
 - [bzflag](https://github.com/BZFlag-Dev/bzflag) - 3D multi-player tank battle game
-- [tinyrenderer](https://github.com/ssloy/tinyrenderer) - Support c++ code for a short computer graphics course
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 - [teeworlds](https://github.com/teeworlds/teeworlds) - A retro multiplayer shooter
 - [godot-cpp](https://github.com/GodotNativeTools/godot-cpp) - C++ bindings for the Godot script API
 - [alephone](https://github.com/Aleph-One-Marathon/alephone) - Aleph One is the open source continuation of Bungie’s Marathon 2 game engine.
@@ -667,7 +675,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 7.3.5.26365, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 7.3.5.26972, 3.3.5 = 3.3.5a.12340)
 - [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -735,7 +743,7 @@
 - [neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [pavucontrol-qt](https://github.com/lxqt/pavucontrol-qt) - A Pulseaudio mixer in Qt (port of pavucontrol)
 - [adwaita-qt](https://github.com/FedoraQt/adwaita-qt) - A style to bend Qt applications to look like they belong into GNOME Shell
-- [xbmc](https://github.com/xbmc/xbmc) - Kodi Main Repository - By using this code you agree with our policy and will follow the GPLv2 license as included
+- [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, Linux, macOS, iOS and Windows.
 - [nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
@@ -786,7 +794,6 @@
 - [cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD Client for Linux, Windows, macOS, Haiku
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [libdnf](https://github.com/rpm-software-management/libdnf) - Software management library.
-- [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy S devices.
 
 ## CMake 
 
@@ -798,7 +805,7 @@
 
 ## CSS 
 
-- [tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
+- [equilux-firefox](https://github.com/cj-sv/equilux-firefox) - A neutral dark balanced color scheme for Firefox based on the Equilux GTK Theme.
 - [conkeror-theme-zenburn](https://github.com/ivoarch/conkeror-theme-zenburn) - Zenburn theme for conkeror
 - [raleigh-reloaded](https://github.com/vlastavesely/raleigh-reloaded) - :computer: A GTK theme aiming to revive the classic Raleigh theme.
 - [tokumei](https://github.com/tokumeico/tokumei) - Anonymous microblogging platform | Mirror of https://gitlab.com/tokumei/tokumei
@@ -828,7 +835,6 @@
 - [cayman-theme](https://github.com/jasonlong/cayman-theme) - A responsive theme for GitHub Pages
 - [PythonBooks](https://github.com/revolunet/PythonBooks) - Directory of free Python ebooks
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [Flex](https://github.com/alexandrevicenzi/Flex) - The minimalist Pelican theme.
 - [hubpress.io](https://github.com/HubPress/hubpress.io) - A web application to build your blog on GitHub
 - [pelican-elegant](https://github.com/talha131/pelican-elegant) - A responsive, minimal, and stylish theme for Pelican
@@ -896,7 +902,7 @@
 - [quicklisp-client](https://github.com/quicklisp/quicklisp-client) - Quicklisp client.
 - [lla](https://github.com/tpapp/lla) - Lisp Linear Algebra
 - [gb-disassembler](https://github.com/privet-kitty/gb-disassembler) - Disassembler for Nintendo Gameboy
-- [dufy](https://github.com/privet-kitty/dufy) - Color Library for Common Lisp
+- [dufy](https://github.com/privet-kitty/dufy) - Color library for Common Lisp
 - [ccl](https://github.com/Clozure/ccl) - Clozure Common Lisp
 - [perfectstorm](https://github.com/lispgames/perfectstorm) - Perfectstorm is a real time strategy game study written in Common Lisp
 - [option-9](https://github.com/psilord/option-9) - A Shoot'em Up Game Written in Common Lisp
@@ -917,7 +923,7 @@
 - [cepl-youtube-examples](https://github.com/stacksmith/cepl-youtube-examples) - Updated code and descriptions for cbaggers cepl videos
 - [urn](https://github.com/SquidDev/urn) - Yet another Lisp variant which compiles to Lua
 - [varjo](https://github.com/cbaggers/varjo) - Lisp to GLSL Language Translator
-- [lisp-chat](https://github.com/ryukinix/lisp-chat) - An experimental minimal chat written in Common Lisp
+- [lisp-chat](https://github.com/ryukinix/lisp-chat) - An experimental minimal chat written in Common Lisp (server chat.lerax.me OFFLINE)
 - [snek](https://github.com/inconvergent/snek) - An experimental system for writing generative systems
 - [kommissar](https://github.com/olewhalehunter/kommissar) - browser automation library and tool in Common Lisp on Emacs
 - [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io Common Lisp client
@@ -961,6 +967,34 @@
 
 ## Emacs Lisp 
 
+- [org-emms](https://github.com/jagrg/org-emms) - Play multimedia files from org-mode
+- [evil-matchit](https://github.com/redguardtoo/evil-matchit) - Vim matchit ported into Emacs
+- [evil-fringe-mark](https://github.com/Andrew-William-Smith/evil-fringe-mark) - Display evil-mode markers in the Emacs fringe
+- [go-mode.el](https://github.com/dominikh/go-mode.el) - Emacs mode for the Go programming language
+- [use-ttf](https://github.com/jcs090218/use-ttf) - use-ttf is an Emacs package for you to use your own .ttf file as the font of Emacs across OS.
+- [sesman](https://github.com/vspinu/sesman) - Session manager for Emacs based IDEs.
+- [bicycle](https://github.com/tarsius/bicycle) - Cycle outline and code visibility
+- [org-listcruncher](https://github.com/dfeich/org-listcruncher) - Parse emacs org list contents into table
+- [org-make-toc](https://github.com/alphapapa/org-make-toc) - Automatic tables of contents for Org files
+- [imgbb.el](https://github.com/ecraven/imgbb.el) - Simple image upload client for imgbb.com
+- [exwm-edit](https://github.com/agzam/exwm-edit) - Edit mode for EXWM
+- [company-nginx](https://github.com/stardiviner/company-nginx) - Add Nginx directives keywords to company-mode keywords alist.
+- [telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
+- [signature](https://github.com/emacsmirror/signature) - Signature Survey
+- [ssh-el](https://github.com/ieure/ssh-el) - Support for remote logins using ssh in Emacs
+- [prescient.el](https://github.com/raxod502/prescient.el) - ☄️ Simple but effective sorting and filtering for Emacs.
+- [evil-goggles](https://github.com/edkolev/evil-goggles) - Display visual hint on evil edit operations
+- [helm-hunks.el](https://github.com/torgeir/helm-hunks.el) - A helm interface for git hunks - browsing, staging, unstaging and killing
+- [multi-replace](https://github.com/calancha/multi-replace) - 
+- [helm-lines.el](https://github.com/torgeir/helm-lines.el) - A helm interface for completing by lines typed elswhere in your git project.
+- [org-sidebar](https://github.com/alphapapa/org-sidebar) - A helpful sidebar for Org mode
+- [erc-image.el](https://github.com/kidd/erc-image.el) - Fetch and show received images in a ERC buffer
+- [frame-purpose.el](https://github.com/alphapapa/frame-purpose.el) - Purpose-specific frames for Emacs
+- [emake.el](https://github.com/vermiculus/emake.el) - Test Elisp without the hoops
+- [sql-completion](https://github.com/emacsmirror/sql-completion) - Completion in *SQL* for mysql
+- [db-sql-el](https://github.com/renard/db-sql-el) - Connect to SQL server using tramp syntax
+- [helm-sql-connect](https://github.com/eric-hansen/helm-sql-connect) - Integrate SQL mode with Helm
+- [format-sql.el](https://github.com/paetzke/format-sql.el) - Use format-sql to make your SQL readable in directly Emacs.
 - [exsqlaim-mode](https://github.com/ahmadnazir/exsqlaim-mode) - Emacs minor mode for supporting the use of variables inside sql queries.
 - [spacedoc](https://github.com/JAremko/spacedoc) - Spacemacs documentation tools
 - [chemacs](https://github.com/plexus/chemacs) - Emacs profile switcher
@@ -1124,7 +1158,7 @@
 - [rubik-mode](https://github.com/Kurvivor19/rubik-mode) - Rubik's cube puzzle for emacs
 - [ivy-posframe](https://github.com/tumashu/ivy-posframe) - 
 - [ibuffer-sidebar](https://github.com/jojojames/ibuffer-sidebar) - A sidebar for IBuffer
-- [emacs-gif-screencast](https://github.com/Ambrevar/emacs-gif-screencast) - One-frame-per-action GIF recording for optimal quality/size ratio
+- [emacs-gif-screencast](https://github.com/Ambrevar/emacs-gif-screencast) - [MOVED TO GITLAB] One-frame-per-action GIF recording for optimal quality/size ratio
 - [cobalt.el](https://github.com/cobalt-org/cobalt.el) - Emacs interface for Cobalt.rs
 - [aurora-config-mode.el](https://github.com/bdd/aurora-config-mode.el) - Emacs Major Mode for Apache Aurora
 - [attrap](https://github.com/jyp/attrap) - ATtempt To Repair At Point (emacs flycheck extension)
@@ -1150,7 +1184,6 @@
 - [flycheck-checkpatch](https://github.com/zpp0/flycheck-checkpatch) - Flycheck support for checkpatch.pl tool
 - [dirswitch.el](https://github.com/mickeynp/dirswitch.el) - Fish-style directory switching for Emacs
 - [messages-are-flowing](https://github.com/legoscia/messages-are-flowing) - Make it easier to send "flowed" email messages from Emacs
-- [emacs-fasd](https://github.com/steckerhalter/emacs-fasd) - Emacs integration for the command-line productivity booster `fasd'
 - [emacs-git-attr](https://github.com/arnested/emacs-git-attr) - Expose gitattributes to emacs buffers
 - [scratch-el](https://github.com/ieure/scratch-el) - Scratch buffers for Emacs
 - [helm-orgcard](https://github.com/emacs-jp/helm-orgcard) - browse the orgcard by helm
@@ -1170,7 +1203,6 @@
 - [hierarchy](https://github.com/DamienCassou/hierarchy) - Emacs library to create, query, navigate and display hierarchy structures
 - [org-wild-notifier.el](https://github.com/akhramov/org-wild-notifier.el) - Alert notifications for org-agenda
 - [feebleline](https://github.com/tautologyclub/feebleline) - Going full Luddite by removing the mode-line and using echo-area (smartly) instead.
-- [org-password-manager](https://github.com/emacsmirror/org-password-manager) - Password manager for Org Mode
 - [molecule](https://github.com/emacsmirror/molecule) - Simple wrapper for molecule
 - [mode-line-bell](https://github.com/purcell/mode-line-bell) - Flash the Emacs mode line instead of ringing the bell
 - [md4rd](https://github.com/ahungry/md4rd) - Emacs Mode for Reddit - Read Reddit from within Emacs interactively.
@@ -1184,7 +1216,7 @@
 - [parsebib](https://github.com/joostkremers/parsebib) - Elisp library for reading .bib files
 - [composer.el](https://github.com/emacs-php/composer.el) - PHP Composer interface for Emacs
 - [exordium](https://github.com/philippe-grenet/exordium) - An Emacs configuration that will make your C++ IDE jealous.
-- [anki-editor](https://github.com/louietan/anki-editor) - An Emacs package that helps you make Anki cards in Org-mode
+- [anki-editor](https://github.com/louietan/anki-editor) - Emacs minor mode for making Anki cards with Org
 - [atom-one-dark-theme](https://github.com/jonathanchu/atom-one-dark-theme) - Atom One Dark - An Emacs port of the Atom One Dark theme from Atom.io.
 - [csound-mode](https://github.com/hlolli/csound-mode) - Emacs major mode for coding in Csound
 - [aggressive-indent-mode](https://github.com/Malabarba/aggressive-indent-mode) - Emacs minor mode that keeps your code always indented. More reliable than electric-indent-mode.
@@ -1209,7 +1241,7 @@
 - [elpa-mirror](https://github.com/redguardtoo/elpa-mirror) - Create local emacs package repository. 15 seconds to install 115 packages.
 - [ryo-modal](https://github.com/Kungsgeten/ryo-modal) - Roll your own modal mode
 - [ghub](https://github.com/magit/ghub) - Minuscule client library for the Github API
-- [interactive-align](https://github.com/mkcms/interactive-align) - Interactive align-regexp command in emacs
+- [interactive-align](https://github.com/mkcms/interactive-align) - Interactively align by regular expression in emacs
 - [helm-emms](https://github.com/emacs-helm/helm-emms) - Helm interface to EMMS
 - [isearch-dabbrev](https://github.com/Dewdrops/isearch-dabbrev) - Use dabbrev-expand within isearch
 - [gdscript-mode](https://github.com/brenttaylor/gdscript-mode) - An Emacs major mode for GDScript
@@ -1252,7 +1284,6 @@
 - [emacs-flycheck-flow](https://github.com/lbolla/emacs-flycheck-flow) - 
 - [emacs-scp](https://github.com/tszg/emacs-scp) - Use scp and remote server transfer files
 - [flycheck-pos-tip](https://github.com/flycheck/flycheck-pos-tip) - Flycheck errors display in tooltip
-- [steckemacs](https://github.com/steckerhalter/steckemacs) - Org-Mode based Emacs configuration using Quelpa to install packages
 - [highlight-defined](https://github.com/Fanael/highlight-defined) - Highlight known Emacs Lisp symbols
 - [elpa-clone](https://github.com/dochang/elpa-clone) - Clone ELPA archive
 - [Function_Follow](https://github.com/aasoliz/Function_Follow) - 
@@ -1298,7 +1329,7 @@
 - [elfeed-protocol](https://github.com/fasheng/elfeed-protocol) - Provide extra protocols to make like ownCloud News/Tiny Tiny RSS/NewsBlur works with elfeed
 - [ruby-extra-highlight](https://github.com/Lindydancer/ruby-extra-highlight) - Highlight Ruby parameters in Emacs
 - [simple-paren](https://github.com/andreas-roehler/simple-paren) - Insert paired delimiters, wrap symbols in front maybe
-- [emacs-fish-completion](https://github.com/Ambrevar/emacs-fish-completion) - Fish completion for Emacs and Eshell
+- [emacs-fish-completion](https://github.com/Ambrevar/emacs-fish-completion) - [MOVED TO GITLAB]
 - [highlight-numbers](https://github.com/Fanael/highlight-numbers) - Highlight numbers in source code
 - [sidebar.el](https://github.com/sebastiencs/sidebar.el) - A customizable file explorer with git integration for emacs
 - [helm-exwm](https://github.com/emacs-helm/helm-exwm) - Helm sources and functions for browsing and switching to EXWM buffers
@@ -1385,10 +1416,10 @@
 - [browse-kill-ring](https://github.com/browse-kill-ring/browse-kill-ring) - For when 'C-y M-y M-y M-y' gets you down
 - [company-flx](https://github.com/PythonNut/company-flx) - :city_sunset: Flx fuzzy matching for company
 - [ahk-mode](https://github.com/bbatsov/ahk-mode) - Autothotkey major mode for emacs
-- [rubocop-emacs](https://github.com/bbatsov/rubocop-emacs) - An Emacs interface for RuboCop
+- [rubocop-emacs](https://github.com/rubocop-hq/rubocop-emacs) - An Emacs interface for RuboCop
 - [helm-projectile](https://github.com/bbatsov/helm-projectile) - Helm UI for Projectile
 - [super-save](https://github.com/bbatsov/super-save) - Save Emacs buffers when they lose focus
-- [dotfiles](https://github.com/Ambrevar/dotfiles) - 
+- [dotfiles](https://github.com/Ambrevar/dotfiles) - [MOVED TO GITLAB]
 - [helm-make](https://github.com/abo-abo/helm-make) - Select a Makefile target with helm.
 - [auto-shell-command](https://github.com/ongaeshi/auto-shell-command) - Run the shell command asynchronously that you specified when you save the file.
 - [dotfiles](https://github.com/dvc94ch/dotfiles) - My dotfiles
@@ -1449,7 +1480,7 @@
 - [gamify-el](https://github.com/Idorobots/gamify-el) - Gamify your life for the Greater Good!
 - [rats.el](https://github.com/ane/rats.el) - Manage Go tests inside Emacs
 - [orgnav](https://github.com/facetframer/orgnav) - Quickly navigate and search your emacs org trees; use this navigation to capture and organize. Built with the help of helm.
-- [system-packages](https://github.com/jabranham/system-packages) - Manage your installed packages with emacs
+- [system-packages](https://github.com/jabranham/system-packages) - Moved to gitlab
 - [pocket-reader.el](https://github.com/alphapapa/pocket-reader.el) - Emacs client for Pocket reading list (getpocket.com)
 - [hasky-mode](https://github.com/hasky-mode/hasky-mode) - A major mode for Haskell which provides syntax highlighting
 - [hasky-stack](https://github.com/hasky-mode/hasky-stack) - Interface to the Stack Haskell development tool
@@ -1466,16 +1497,14 @@
 - [tracker.el](https://github.com/defaultxr/tracker.el) - a music tracker/sequencer for emacs
 - [char-menu](https://github.com/mrkkrp/char-menu) - Create your own menu for fast insertion of arbitrary symbols
 - [socyl](https://github.com/nlamirault/socyl) - The emacs frontend for several search tools (ag, pt, sift, ripgrep, ...)
-- [gnu-social-mode](https://github.com/bashrc/gnu-social-mode) - Emacs mode for GNU Social
 - [ob-sagemath](https://github.com/stakemori/ob-sagemath) - org-babel integration with SageMath
-- [dotfiles](https://github.com/jgkamat/dotfiles) - The MechJay Automation System
 - [cricbuzz.el](https://github.com/lepisma/cricbuzz.el) - Live cricket scores and schedule for emacs
 - [cyphejor](https://github.com/mrkkrp/cyphejor) - Shorten major mode names using user-defined rules
 - [kill-or-bury-alive](https://github.com/mrkkrp/kill-or-bury-alive) - Precise control over buffer killing in Emacs
 - [spacemacs-journal](https://github.com/borgnix/spacemacs-journal) - spacemacs layer for org-journal.
 - [org-sticky-header](https://github.com/alphapapa/org-sticky-header) - Show off-screen Org heading at top of window
 - [pass](https://github.com/NicolasPetton/pass) - A major mode for password-store
-- [helm-pass](https://github.com/jabranham/helm-pass) - Emacs helm interface for pass, the standard unix password manager
+- [helm-pass](https://github.com/jabranham/helm-pass) - Moved to gitlab
 - [bundle-el](https://github.com/tarao/bundle-el) - An el-get wrapper
 - [ivy-erlang-complete](https://github.com/s-kostyaev/ivy-erlang-complete) - ivy-erlang-complete is context sensitive completion for erlang without connecting to erlang nodes.
 - [ede-php-autoload](https://github.com/stevenremot/ede-php-autoload) - PHP autoloading simulation for Emacs' Semantic
@@ -1503,7 +1532,6 @@
 - [eros](https://github.com/xiongtx/eros) - Evaluation Result OverlayS for Emacs Lisp.
 - [php-extras](https://github.com/arnested/php-extras) - Extra features for Emacs `php-mode'.
 - [yard-mode.el](https://github.com/pd/yard-mode.el) - Emacs minor mode for editing YARD tags
-- [helm-google](https://github.com/steckerhalter/helm-google) - Emacs Helm Interface for quick web searches (currently Searx and Google)
 - [assess](https://github.com/phillord/assess) - Test support functions for Emacs
 - [phpunit.el](https://github.com/nlamirault/phpunit.el) - Emacs mode to phpunit and test command line tool
 - [basic-theme.el](https://github.com/fgeller/basic-theme.el) - Minimal color theme for Emacs using base16 colors.
@@ -1528,8 +1556,8 @@
 - [fullframe](https://github.com/tomterl/fullframe) - Advice commands to execute fullscreen, restoring the window setup when exiting.
 - [lpy](https://github.com/abo-abo/lpy) - Minimal Python IDE for GNU Emacs
 - [pyimport](https://github.com/Wilfred/pyimport) - Manage Python imports from Emacs!
-- [quelpa-use-package](https://github.com/quelpa/quelpa-use-package) - Emacs quelpa handler for use-package
-- [Denny-s-emacs-configuration](https://github.com/DennyZhang/Denny-s-emacs-configuration) - :robot: Emacs shapes me to be a better programmer
+- [quelpa-use-package](https://github.com/quelpa/quelpa-use-package) - repo moved to framagit.org, please report issues there (see link) - Emacs quelpa handler for use-package
+- [Denny-s-emacs-configuration](https://github.com/dennyzhang/Denny-s-emacs-configuration) - :robot: Emacs shapes me to be a better programmer
 - [rogue](https://github.com/lepisma/rogue) - Personal Emacs config
 - [GitHub-Theme-for-Emacs](https://github.com/philiparvidsson/GitHub-Theme-for-Emacs) - Syntax highlighting color theme mimicking the look of GitHub's code viewer. 😍
 - [ejc-sql](https://github.com/kostafey/ejc-sql) - Emacs SQL client uses Clojure JDBC.
@@ -1633,7 +1661,6 @@
 - [writeroom-mode](https://github.com/joostkremers/writeroom-mode) - Writeroom-mode: distraction-free writing for Emacs.
 - [company-c-headers](https://github.com/randomphrase/company-c-headers) - Auto-completion for C/C++ headers using Company
 - [treemacs](https://github.com/Alexander-Miller/treemacs) - 
-- [geiser](https://github.com/jaor/geiser) - emacs and scheme talk to each other
 - [smagit](https://github.com/maio/smagit) - Standalone Magit. A Git Porcelain inside Emacs.
 - [emacs-pophint](https://github.com/aki2o/emacs-pophint) - Provide navigation like the Vimperator/KeySnail Hint Mode of Firfox
 - [helm-descbinds](https://github.com/emacs-helm/helm-descbinds) - A helm frontend for describe-bindings.
@@ -1695,7 +1722,6 @@
 - [suggest.el](https://github.com/Wilfred/suggest.el) - discover elisp functions that do what you want
 - [helpful](https://github.com/Wilfred/helpful) - A better Emacs *help* buffer
 - [insert-shebang](https://github.com/psachin/insert-shebang) - An extension to insert shebang line for GNU Emacs
-- [discover-my-major](https://github.com/steckerhalter/discover-my-major) - Discover key bindings and their meaning for the current Emacs major mode
 - [imp.el](https://github.com/netguy204/imp.el) - Impatient html mode. See your changes in the browser as you type
 - [ggg](https://github.com/kensanata/ggg) - Gmail, Gnus and GPG
 - [frames-only-mode](https://github.com/davidshepherd7/frames-only-mode) - Make emacs play nicely with tiling window managers by setting it up to use frames rather than windows
@@ -1776,7 +1802,6 @@
 - [turing-machine](https://github.com/dieggsy/turing-machine) - Single tape turing machine simulator in emacs and python, inspired by http://morphett.info/turing/turing.html
 - [emacs-oob-reboot](https://github.com/josteink/emacs-oob-reboot) - A project to revitalize Emacs by providing core-friendly changes for an improved out-of-the-box experience
 - [switch-window](https://github.com/dimitri/switch-window) - Offer a *visual* way to choose a window to switch to
-- [hexo-renderer-org](https://github.com/coldnew/hexo-renderer-org) - Hexo renderer plugin for emacs org-mode
 - [color-theme-buffer-local](https://github.com/vic/color-theme-buffer-local) - Set emacs color themes by buffer.
 - [emacs-kaolin-themes](https://github.com/ogdenwebb/emacs-kaolin-themes) - Set of eye pleasing themes for GNU Emacs.
 - [Focus](https://github.com/larstvei/Focus) - Dim the font color of text in surrounding paragraphs
@@ -1791,7 +1816,7 @@
 - [diminish.el](https://github.com/myrjola/diminish.el) - Diminished modes are minor modes with no modeline display
 - [ob-ipython](https://github.com/gregsexton/ob-ipython) - org-babel integration with Jupyter for evaluation of (Python by default) code blocks
 - [.emacs.d](https://github.com/Fuco1/.emacs.d) - My emacs config
-- [workgroups2](https://github.com/pashinin/workgroups2) - Create your workspaces in Emacs
+- [workgroups2](https://github.com/pashinin/workgroups2) - ABANDONED
 - [latex-extra](https://github.com/Malabarba/latex-extra) - A series of usability improvements for Emacs latex-mode.
 - [ac-math](https://github.com/vspinu/ac-math) - auto-complete sources for input of mathematical symbols and latex tags
 - [auctex-latexmk](https://github.com/tom-tan/auctex-latexmk) - This library adds LatexMk support to AUCTeX.
@@ -1820,7 +1845,6 @@
 - [arch-packer](https://github.com/brotzeit/arch-packer) - Arch Linux package management frontend for pacman and pacaur
 - [multifiles.el](https://github.com/magnars/multifiles.el) - Work in progress: View and edit parts of multiple files in one buffer
 - [Emacs](https://github.com/krameshkrr/Emacs) - Emacs customizations
-- [major-mode-dedication](https://github.com/tom-seddon/major-mode-dedication) - Dedicate an emacs major mode to a particular emacs window
 - [major-mode-dedication](https://github.com/tom-seddon/major-mode-dedication) - Dedicate an emacs major mode to a particular emacs window
 - [terminal-here](https://github.com/davidshepherd7/terminal-here) - An Emacs package to open an external terminal emulator in the current directory
 - [company-bibtex](https://github.com/gbgar/company-bibtex) - Emacs company-mode completion back-end for Bibtex keys.
@@ -1940,7 +1964,6 @@
 - [symon](https://github.com/zk-phi/symon) - [Emacs] tiny graphical system monitor
 - [eshell-up](https://github.com/peterwvj/eshell-up) - Quickly go to a specific parent directory in eshell
 - [git-modes](https://github.com/magit/git-modes) - Emacs major modes for various Git configuration files
-- [git-timemachine](https://github.com/pidu/git-timemachine) - Step through historic versions of git controlled file using everyone's favourite editor
 - [git-link](https://github.com/sshaw/git-link) - Emacs package to get the GitHub/Bitbucket/GitLab/... URL for a buffer location
 - [emacs-git-messenger](https://github.com/syohex/emacs-git-messenger) - Emacs Port of git-messenger.vim
 - [org-bullets](https://github.com/sabof/org-bullets) - utf-8 bullets for org-mode
@@ -1959,7 +1982,7 @@
 - [magic-latex-buffer](https://github.com/zk-phi/magic-latex-buffer) - [Emacs] magical syntax highlighting for LaTeX-mode buffers
 - [expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
 - [blog-admin](https://github.com/CodeFalling/blog-admin) - Write blog in emacs with hexo/org-page/nikola
-- [quelpa](https://github.com/quelpa/quelpa) - Build and install your Emacs Lisp packages on-the-fly directly from source
+- [quelpa](https://github.com/quelpa/quelpa) - repo moved to framagit.org, please report issues there (see link) - Build and install your Emacs Lisp packages on-the-fly directly from source
 - [dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package
 - [know-your-http-well](https://github.com/for-GET/know-your-http-well) - HTTP headers, media-types, methods, relations and status codes, all summarized and linking to their specification.
 - [mode-icons](https://github.com/ryuslash/mode-icons) - Show icons instead of mode names
@@ -2009,7 +2032,7 @@
 - [emms-player-mpv](https://github.com/dochang/emms-player-mpv) - mpv support for EMMS
 - [spacemacs-emms](https://github.com/K0HAX/spacemacs-emms) - Emms layer for Spacemacs
 - [emms](https://github.com/emacsmirror/emms) - The Emacs Multimedia System
-- [kodi-remote.el](https://github.com/spiderbit/kodi-remote.el) - Emacs Remote Control functions for Kodi
+- [kodi-remote.el](https://github.com/spiderbit/kodi-remote.el) - Emacs Remote Control for Kodi
 - [prodigy.el](https://github.com/rejeep/prodigy.el) - Manage external services from within Emacs
 - [magit-gitflow](https://github.com/jtatarik/magit-gitflow) - GitFlow plugin for magit.el
 - [nyan-mode](https://github.com/syl20bnr/nyan-mode) - Nyan Cat for Emacs! Nyanyanyanyanyanyanyanyanyan!
@@ -2118,7 +2141,7 @@
 - [eshell-git-prompt](https://github.com/xuchunyang/eshell-git-prompt) - Some Eshell prompts for Git users
 - [ohai-emacs](https://github.com/bodil/ohai-emacs) - The finest hand crafted artisanal emacs.d for your editing pleasure
 - [erc-social-graph](https://github.com/vibhavp/erc-social-graph) - Social graphs for ERC
-- [emacs-for-social-science](https://github.com/jabranham/emacs-for-social-science) - 
+- [emacs-for-social-science](https://github.com/jabranham/emacs-for-social-science) - Moved to gitlab
 - [magithub](https://github.com/vermiculus/magithub) - Magit-based interfaces to GitHub
 - [org-download](https://github.com/abo-abo/org-download) - Drag and drop images to Emacs org-mode
 - [emacs-starter-kit](https://github.com/kjhealy/emacs-starter-kit) - A drop-in starter-kit for Emacs 24, aimed at social scientists researching and writing in plain text using some combination of LaTeX, R, ESS, Git, Markdown, and Org-Mode.
@@ -2170,18 +2193,25 @@
 
 ## Go 
 
+- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter
+- [distrobuilder](https://github.com/lxc/distrobuilder) - System container image builder for LXC and LXD
+- [botbot-bot](https://github.com/BotBotMe/botbot-bot) - The IRC bot for BotBot.me
+- [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [wtf](https://github.com/senorprogrammer/wtf) - The personal information dashboard for your terminal.
+- [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [clipper](https://github.com/wincent/clipper) - Clipboard access for local and remote tmux sessions
 - [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
-- [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+- [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [concat](https://github.com/ArneVogel/concat) - Download your vods from twitch in the command line
 - [gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys 🔑
 - [experiments](https://github.com/bigwhite/experiments) - Personal code, scripts and config files for experiments
 - [c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [sshtron](https://github.com/zachlatta/sshtron) - Play Tron over SSH
-- [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
-- [chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
+- [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile
 - [httpdump](https://github.com/hsiafan/httpdump) - Capture and parse http traffics
 - [blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
@@ -2196,6 +2226,7 @@
 - [find-lf](https://github.com/schollz/find-lf) - Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND
 - [fsql](https://github.com/kshvmdn/fsql) - Search through your filesystem with SQL-esque queries.
 - [poule](https://github.com/icecrime/poule) - :chicken: A framework for GitHub automation
+- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [skopeo](https://github.com/projectatomic/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [origin](https://github.com/openshift/origin) - Enterprise Kubernetes for Developers
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -2206,12 +2237,12 @@
 - [hub](https://github.com/cpick/hub) - hub helps you win at git.
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-- [lantern](https://github.com/getlantern/lantern) - 🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴
+- [lantern](https://github.com/getlantern/lantern) - 🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴
 - [go](https://github.com/golang/go) - The Go programming language
-- [gogs](https://github.com/gogits/gogs) - Gogs is a painless self-hosted Git service.
+- [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service.
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [govatar](https://github.com/o1egl/govatar) - Avatar generator library for GO language
-- [gitbase](https://github.com/src-d/gitbase) - SQL interface to Git repositories, written in Go.
+- [gitbase](https://github.com/src-d/gitbase) - SQL interface to Git repositories, written in Go. https://docs.sourced.tech/gitbase
 - [gitql](https://github.com/cloudson/gitql) - A git query language
 - [aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
 - [MusicRepair](https://github.com/kalbhor/MusicRepair) - Fixes music metadata and adds album art.
@@ -2283,10 +2314,12 @@
 - [.emacs.d](https://github.com/sachac/.emacs.d) - Emacs configuration
 - [DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
 - [pykwiki](https://github.com/nullism/pykwiki) - PyKwiki, a static file Python MarkDown wiki rendered by Jinja2
-- [cozy](https://github.com/lesspass/cozy) - LessPass app for cozy cloud
 
 ## Haskell 
 
+- [gifcurry](https://github.com/lettier/gifcurry) - :point_right: Your open source video to GIF maker built with Haskell.
+- [agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
+- [hledger](https://github.com/simonmichael/hledger) - The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger.
 - [haskell-sdl2-examples](https://github.com/palf/haskell-sdl2-examples) - SDL2 tutorial code in Haskell
 - [texmath](https://github.com/jgm/texmath) - A Haskell library for converting LaTeX math to MathML.
 - [hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter
@@ -2321,11 +2354,11 @@
 - [orgmode-parse](https://github.com/ixmatus/orgmode-parse) - Attoparsec parser combinators for parsing org-mode structured text!
 - [DobadoBots](https://github.com/NinjaTrappeur/DobadoBots) - Videogame in which you program robots AI
 - [thank-you-stars](https://github.com/y-taka-23/thank-you-stars) - Give your dependencies stars on GitHub!
-- [org2anki](https://github.com/M42/org2anki) - An org-mode subset parser and exporter to Anki CSV (abandoned project)
+- [org2anki](https://github.com/mroman42/org2anki) - An org-mode subset parser and exporter to Anki CSV (abandoned project)
 - [Idris-dev](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
 - [fp-course](https://github.com/data61/fp-course) - Functional Programming Course
 - [purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to Javascript
-- [elm-compiler](https://github.com/elm-lang/elm-compiler) - Compiler for Elm, a functional language for reliable webapps.
+- [compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 - [gtk2hs](https://github.com/gtk2hs/gtk2hs) - GUI library for Haskell based on GTK+
 - [movie-monad](https://github.com/lettier/movie-monad) - :tv: A free and simple to use video player made with Haskell.
 - [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -2359,7 +2392,6 @@
 - [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 - [Much-Assembly-Required](https://github.com/simon987/Much-Assembly-Required) - Assembly programming game
 - [programming](https://github.com/hacktoberfest17/programming) - Code a program in a language of your choice.
-- [QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, JavaScript, Python, C++, C.
 - [jnativehook](https://github.com/kwhat/jnativehook) - Global keyboard and mouse listeners for Java.
 - [androidpn](https://github.com/dannytiehui/androidpn) - An open source project to provide push notification support for Android -- a xmpp based notification server and a client tool kit.
 - [android_packages_apps_DotExtras](https://github.com/DotOS/android_packages_apps_DotExtras) - Sacred! Keep your dirty hands off from this.
@@ -2390,12 +2422,10 @@
 - [OpenRTS](https://github.com/benoit-dumas/OpenRTS) - Real-Time Strategy game 3D engine coded in pure java
 - [DroidUPnP](https://github.com/trishika/DroidUPnP) - DroidUPnP is an upnp control point application for android.
 - [yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
-- [libretorrent](https://github.com/proninyaroslav/libretorrent) - Free as in Freedom torrent client for Android
 - [WebCamViewer](https://github.com/Volcanoscar/WebCamViewer) - With this fast, simple and modern Android application you can quickly create a list of all your favorite webcams.
 - [sms-backup-plus](https://github.com/jberkel/sms-backup-plus) - Backup Android SMS, MMS and call log to Gmail / Gcal / IMAP
 - [OpenLinkWith](https://github.com/tasomaniac/OpenLinkWith) - Open the current webpage you have in another app. Magic!
 - [vrapper](https://github.com/vrapper/vrapper) - Vim-like editing in Eclipse
-- [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition
 - [Pydev](https://github.com/fabioz/Pydev) - Python IDE for Eclipse
 - [oandbackup](https://github.com/jensstein/oandbackup) - backup manager for android
 - [mercury](https://github.com/Skarafaz/mercury) - Simple Android app that sends pre-configured commands to remote servers via SSH.
@@ -2403,12 +2433,18 @@
 
 ## JavaScript 
 
+- [etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: Really real-time collaborative document editing
+- [multitwitch](https://github.com/bhamrick/multitwitch) - Multiple twitch streams on one page
+- [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [short-memo](https://github.com/kusabashira/short-memo) - Show short message on top bar
 - [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
-- [nuage](https://github.com/mickael-kerjean/nuage) - A Dropbox-like interface for your existing data (with support for many backends)
+- [nuage](https://github.com/mickael-kerjean/nuage) - A Dropbox-like interface for your existing data: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, Google Drive
 - [cors-everywhere-firefox-addon](https://github.com/spenibus/cors-everywhere-firefox-addon) - A firefox addon enabling CORS everywhere by altering http responses.
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [js-injector](https://github.com/shahverd/js-injector) - Using this extension you will be able to inject Javascript codes into webpages, in order to customize your most visiting websites, to have a more comfortable web browsing.
+- [tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
 - [DomTerm](https://github.com/PerBothner/DomTerm) - DOM/JavaScript-based terminal-emulator/console
 - [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
 - [lispyscript](https://github.com/santoshrajan/lispyscript) - A javascript with Lispy syntax and macros
@@ -2439,7 +2475,6 @@
 - [array-explorer](https://github.com/sdras/array-explorer) - ⚡️ A resource to help figure out what JavaScript array method would be best to use at any given time
 - [eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
 - [lean-url](https://github.com/tugh/lean-url) - Removes evil URL parameters such as Google Analytics' utm parameters
-- [contextSearch](https://github.com/odebroqueville/contextSearch) - Firefox add-on to search selected text using a context menu displaying pre-specified search engines
 - [firefoxaddons](https://github.com/Smile4ever/firefoxaddons) - Extend the functionality of Firefox with cool addons
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
@@ -2477,6 +2512,7 @@
 - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Extension that deletes cookies as soon as the tab closes.
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
+- [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
 - [upnext](https://github.com/ptgamr/upnext) - Chrome Extension for streaming music from SoundCloud & YouTube
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [chrome-fast-tab-switcher](https://github.com/BinaryMuse/chrome-fast-tab-switcher) - :keyboard: React-based extension to quickly switch to other open Chrome tabs with just your keyboard
@@ -2502,6 +2538,7 @@
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket :iphone:
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor.
+- [badgeyay](https://github.com/fossasia/badgeyay) - Attendee Badge Generator for Conferences http://badgeyay.com Backend: http://badgeyay-api.herokuapp.com/
 - [livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
 - [standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
@@ -2531,7 +2568,7 @@
 - [react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
 - [JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript Code Quality Tool
 - [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.
-- [babel-standalone](https://github.com/babel/babel-standalone) - :video_game: Standalone build of Babel for use in non-Node.js environments, including browsers. Similar to the (now deprecated) babel-browser.
+- [babel-standalone](https://github.com/babel/babel-standalone) - :video_game: Now located in the Babel repo! Standalone build of Babel for use in non-Node.js environments, including browsers.
 - [react-essential-course](https://github.com/krambertech/react-essential-course) - ITVDN - React Essential course materials
 - [babel](https://github.com/babel/babel) - :tropical_fish: Babel is a compiler for writing next generation JavaScript.
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
@@ -2571,9 +2608,8 @@
 - [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript.
 - [lbry-app](https://github.com/lbryio/lbry-app) - A browser and wallet for LBRY, the decentralized, user-controlled content marketplace.
 - [emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
-- [Gnome-Global-AppMenu](https://github.com/lestcape/Gnome-Global-AppMenu) - A Gnome Shell extension to provide a global application menu.
 - [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
-- [learn-anything](https://github.com/learn-anything/learn-anything) - 🗺 Search Interactive Maps to Learn Anything
+- [learn-anything](https://github.com/learn-anything/learn-anything) - Search Interactive Maps to Learn Anything
 - [graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system
 - [codebox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
 - [weallbehave](https://github.com/WeAllJS/weallbehave) - CODE_OF_CONDUCT.md generator
@@ -2588,6 +2624,7 @@
 - [spacemacs-anki-deck](https://github.com/AdrieanKhisbe/spacemacs-anki-deck) - Basic spacemacs Anki deck generator.
 - [gnome-shell-emacsmanager](https://github.com/localvoid/gnome-shell-emacsmanager) - Gnome Shell extension to manage emacs server instances
 - [docs](https://github.com/hyperboria/docs) - Documentation for cjdns and Hyperboria
+- [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [gnome-shell-extension-sensors](https://github.com/xtranophilist/gnome-shell-extension-sensors) - Gnome shell extension: Shows CPU temperature, HDD temperature, voltage and fan RPM
 - [gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon) - Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
 - [startbootstrap-agency](https://github.com/BlackrockDigital/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
@@ -2597,7 +2634,7 @@
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [min-vid](https://github.com/meandavejustice/min-vid) - Popout video player in Firefox
 - [gnome-shell-extension-stealmyfocus](https://github.com/v-dimitrov/gnome-shell-extension-stealmyfocus) - Shell Extension that let window that demand attention to steal focus
-- [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips
+- [uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
 - [gnome-shell-extension-redshift](https://github.com/benzea/gnome-shell-extension-redshift) - DO NOT USE; GNOME NOW INCLUDES THE FEATURE ALREADY! – A redshift extension for gnome-shell – Obsolete with GNOME 3.26! Use the buildin nightlight feature instead!
 - [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [Ghost](https://github.com/TryGhost/Ghost) - The platform for professional publishers
@@ -2606,7 +2643,6 @@
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [searchfirefoxbookmarks](https://github.com/sciancio/searchfirefoxbookmarks) - A gnome-shell extension which searches the firefox bookmarks and provides results in your shell overview
 - [wikipedia-search-provider](https://github.com/awamper/wikipedia-search-provider) - GNOME Shell extension. Wikipedia Search Provider.
-- [Configurable-Menu](https://github.com/lestcape/Configurable-Menu) - This extension have not support for Cinnamon, as all extensions was forked by Clement and i don't want to work in this condition. Will be aviable from Gnome Shell Desktop.
 - [gnome-shell-extension-radio](https://github.com/hslbck/gnome-shell-extension-radio) - Gnome shell extension for listening to internet radio streams
 - [gnome3-jenkins-indicator](https://github.com/philipphoffmann/gnome3-jenkins-indicator) - Gnome 3 Shell Extension to represent the current state of all jobs of a Jenkins CI Server
 - [gnome-shell-extensions-sustmi](https://github.com/sustmi/gnome-shell-extensions-sustmi) - [DEPRECATED] The repository was split into two repositories: https://github.com/sustmi/gnome-shell-extension-historymanager-prefix-search and https://github.com/sustmi/gnome-shell-extension-windowoverlay-icons
@@ -2621,7 +2657,7 @@
 - [pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API
 - [dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
-- [hexo-renderer-org](https://github.com/CodeFalling/hexo-renderer-org) - Hexo renderer plugin for emacs org-mode
+- [hexo-renderer-org](https://github.com/coldnew/hexo-renderer-org) - Hexo renderer plugin for emacs org-mode
 - [gnome-shell-volume-mixer](https://github.com/aleho/gnome-shell-volume-mixer) - GNOME Shell Extension allowing separate configuration of pulseaudio devices
 - [randwall](https://github.com/rodakorn/randwall) - Gnome shell extension "Random Walls" for gnome 3
 - [gnome-shell-extension-super-tab-launcher](https://github.com/dsboger/gnome-shell-extension-super-tab-launcher) - A GNOME Shell extension that shows favorite app launchers in Super+Tab popup.
@@ -2646,6 +2682,7 @@
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [cuckoo](https://github.com/cuckoosandbox/cuckoo) - Cuckoo Sandbox is an automated dynamic malware analysis system
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [octotree](https://github.com/buunguyen/octotree) - Code tree for GitHub
 - [disable-webrtc-firefox](https://github.com/ChrisAntaki/disable-webrtc-firefox) - :lock: WebRTC leaks your actual IP addresses from behind your VPN, by default.
 - [sieve](https://github.com/thsmi/sieve) - Thunderbird Sieve Addon
@@ -2667,6 +2704,7 @@
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [tern](https://github.com/ternjs/tern) - A JavaScript code analyzer for deep, cross-editor language support
 - [gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
+- [lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [itsalltext](https://github.com/docwhat/itsalltext) - It's All Text! - Edit textareas in your browser with your favorite editor!
 - [gnome-shell-extension-redshift](https://github.com/tommie-lie/gnome-shell-extension-redshift) - redshift integration for GNOME Shell
 - [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview
@@ -2734,10 +2772,10 @@
 
 ## Jupyter Notebook 
 
+- [octave_kernel](https://github.com/Calysto/octave_kernel) - An Octave kernel for IPython
 - [notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra) - 线性代数笔记
 - [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
-- [pyro](https://github.com/uber/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [ML-Tutorial-Experiment](https://github.com/jiqizhixin/ML-Tutorial-Experiment) - Coding the Machine Learning Tutorial for Learning to Learn
 - [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [ox-ipynb](https://github.com/jkitchin/ox-ipynb) - org-mode exporter to Jupyter notebooks
@@ -2849,12 +2887,17 @@
 
 ## Others 
 
+- [applications](https://github.com/winepak/applications) - A collection of flatpak manifest for building Microsoft Windows applications with Wine via flatpak
+- [openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
+- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+- [gitpub](https://github.com/git-federation/gitpub) - An extension to ActivityPub for web-based Git services federation.
+- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :calendar: 准备秋招学习笔记
+- [IF_MS_BUYS_GITHUB_IMMA_OUT](https://github.com/upend/IF_MS_BUYS_GITHUB_IMMA_OUT) - GitHub has sold us out. Time to get out.
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
-- [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Interesting links & research papers related to Machine Learning applied to source code (MLonCode)
+- [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
 - [everydaylearn](https://github.com/zhongshendoushuizhao/everydaylearn) - i`m a cat ~ find fish
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
-- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理，欢迎编辑~
-- [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - 🔐 Curated List of Privacy Respecting Services and Software
+- [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) - 2018 年成為 Web 開發人員的路線圖
 - [awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources) - List of anime streaming/downloading websites.
 - [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
@@ -2882,7 +2925,7 @@
 - [Checklists](https://github.com/netbiosX/Checklists) - Pentesting checklists for various engagements
 - [awesome-livestreaming](https://github.com/osrtss/awesome-livestreaming) - A curated list of awesome live streaming technologies and products
 - [awesome-data-science-viz](https://github.com/quantmind/awesome-data-science-viz) - :boom: A curated list of data science, analysis and visualization tools
-- [courses](https://github.com/learn-anything/courses) - 📝 Interesting Courses
+- [courses](https://github.com/learn-anything/courses) - Awesome Courses
 - [awesome-contributing](https://github.com/mntnr/awesome-contributing) - Awesome contributing guides for open source development.
 - [awesome-cloud-native-tutorials](https://github.com/manifoldco/awesome-cloud-native-tutorials) - A curated list of tutorials and labs for learning cloud native concepts
 - [awesome-software-engineer-topics](https://github.com/voxsim/awesome-software-engineer-topics) - A list of useful articles and videos generated from my Instapaper archived list on Software Design, Testing, Public Speaking, etc.
@@ -2898,11 +2941,11 @@
 - [awesome-opendata-rus](https://github.com/infoculture/awesome-opendata-rus) - Opendata resources in Russian / Открытые данные на русском языке
 - [awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) - A list awesome lite websites without all the bloat
 - [awesome-pull-requests](https://github.com/stevemao/awesome-pull-requests) - How people work together (PR welcome!)
-- [awesome-irc](https://github.com/davisonio/awesome-irc) - :speech_balloon: A curated list of awesome IRC resources
+- [awesome-irc](https://github.com/davisonio/awesome-irc) - A curated list of awesome IRC resources
 - [awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps
 - [awesome-flow](https://github.com/dustinspecker/awesome-flow) - A list of awesome Flow integrations, tools, tutorials, etc.
 - [awesome-h2o](https://github.com/h2oai/awesome-h2o) - A curated list of research, applications and projects built using H2O Machine Learning
-- [awesome-engineering-managers-handbook](https://github.com/jesselpalmer/awesome-engineering-managers-handbook) - Resources for efficiently managing or leading a team of software engineers
+- [awesome-engineering-managers-handbook](https://github.com/jesselpalmer/awesome-engineering-managers-handbook) - Handbook for managing or leading a team of software engineers
 - [awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) - A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 - [awesome-bsd](https://github.com/DiscoverBSD/awesome-bsd) - A collection of awesome BSD related stuff
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - Awesome List of my own!
@@ -2942,18 +2985,18 @@
 - [awesome-webrtc](https://github.com/openrtc-io/awesome-webrtc) - A curated list of awesome WebRTC modules and resources.
 - [awesome-steam](https://github.com/scholtzm/awesome-steam) - 😎 A curated list of packages and resources regarding Steam development
 - [awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) - Curated list of everything awesome around pixel art.
-- [awesome-gists](https://github.com/vsouza/awesome-gists) - A collection of amazing gists you must see.
+- [awesome-gists](https://github.com/vsouza/awesome-gists) - A collection of amazing gists
 - [awesome-AutoIt](https://github.com/J2TEAM/awesome-AutoIt) - :star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.
 - [awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - A curated list of awesome neuroscience libraries, software and any content related to the domain.
 - [awesome-userscripts](https://github.com/brunocvcunha/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [awesome](https://github.com/shenwei356/awesome) - Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
 - [awesome-auth](https://github.com/casbin/awesome-auth) - 📊 Software and Libraries for Authentication & Authorization
 - [awesome-newsletters](https://github.com/webpro/awesome-newsletters) - The best (weekly) newsletters
-- [Awesome-Vulnerability-Research](https://github.com/sergey-pronin/Awesome-Vulnerability-Research) - 🦄 A curated list of the awesome resources about the Vulnerability Research
+- [Awesome-Vulnerability-Research](https://github.com/secruity/Awesome-Vulnerability-Research) - 🦄 A curated list of the awesome resources about the Vulnerability Research
 - [awesome-telegram-chats](https://github.com/A-gambit/awesome-telegram-chats) - 
 - [awesome-gank.io](https://github.com/ruijun/awesome-gank.io) - The repository is used to collect the awesome code of gank.io
 - [awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) - ⭐️ A curated list of companies that offer their services for free to Open Source projects
-- [awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to anime, comics, games, light novel, vocaloid
+- [awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
 - [awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
 - [awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
 - [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
@@ -3048,7 +3091,7 @@
 - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
-- [wiki](https://github.com/nix-community/wiki) - Nixos wiki
+- [wiki](https://github.com/nix-community/wiki) - Nixos wiki [maintainer=@samueldr]
 - [nix-cheatsheet](https://github.com/knedlsepp/nix-cheatsheet) - Cheatsheet for the nix toolset
 - [awesome-speakers](https://github.com/karlhorky/awesome-speakers) - Awesome speakers in the programming and design communities
 - [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
@@ -3056,28 +3099,30 @@
 - [moebius](https://github.com/MoonchildProductions/moebius) - UXP - initial dev repo
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [xaml-standard](https://github.com/Microsoft/xaml-standard) - XAML Standard : a set of principles that drive XAML dialect alignment
-- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (June 2018)
 - [state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.
 - [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [vim_shortcut_wallpaper](https://github.com/LevelbossMike/vim_shortcut_wallpaper) - A vim cheat sheet wallpaper.
 - [vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
 - [Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - :computer: Introduction to Linux commands and Shell scripting
 - [clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
-- [rails-style-guide](https://github.com/bbatsov/rails-style-guide) - A community-driven Ruby on Rails style guide
-- [ruby-style-guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide
+- [rails-style-guide](https://github.com/rubocop-hq/rails-style-guide) - A community-driven Ruby on Rails style guide
+- [ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide) - A community-driven Ruby coding style guide
 - [magit-cheatsheet](https://github.com/mtdavidson/magit-cheatsheet) - 
 - [ideas](https://github.com/hasky-mode/ideas) - An alternative Emacs mode for Haskell (so far, I collect here ideas and links)
 - [emacsism](https://github.com/ChillarAnand/emacsism) - A glimpse of divine editing experience with emacs!
 - [org-mode-workshop](https://github.com/novoid/org-mode-workshop) - Workshop for Org-mode with focus on todo-, project- and workflow-management
 - [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor) - The convertor/conversion of deep learning models for different deep learning frameworks/softwares.
-- [pwk-cheatsheet](https://github.com/sergey-pronin/pwk-cheatsheet) - Penetration Testing with Kali Linux (PWK) course and Offensive Security Certified Professional (OSCP) Cheat Sheet
+- [pwk-cheatsheet](https://github.com/secruity/pwk-cheatsheet) - Penetration Testing with Kali Linux (PWK) course and Offensive Security Certified Professional (OSCP) Cheat Sheet
 - [Cheatsheets](https://github.com/slyth11907/Cheatsheets) - Helped during my OSCP lab days.
 - [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [awesome-aws-alternatives](https://github.com/ro31337/awesome-aws-alternatives) - Awesome AWS alternatives/replacements
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 - [adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) - Block lists to prevent JavaScript miners
 - [elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
+- [void-packages](https://github.com/voidlinux/void-packages) - The XBPS source packages collection
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - :pill: Curated list of falsehoods programmers believe in.
+- [radamsa](https://github.com/aoh/radamsa) - a general-purpose fuzzer
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - Curated list of awesome open-source applications made with Node.js
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -3088,6 +3133,7 @@
 - [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [awesome-c](https://github.com/aleksandar-todorovic/awesome-c) - Continuing the development of awesome-c list on GitHub
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+- [geiser](https://github.com/jaor/geiser) - emacs and scheme talk to each other
 - [htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
@@ -3121,7 +3167,6 @@
 - [emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
 - [math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [awesome-coq](https://github.com/uhub/awesome-coq) - A curated list of awesome Coq frameworks, libraries and software.
-- [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [content](https://github.com/developer-portal/content) - Content for the Fedora Developer Portal
 - [embedded-scripting-languages](https://github.com/dbohdan/embedded-scripting-languages) - A list of embedded scripting languages
 - [open_government](https://github.com/oreillymedia/open_government) - Open Government, released as part of #PDFtribute
@@ -3174,6 +3219,7 @@
 - [shortcodes](https://github.com/getnikola/shortcodes) - Shortcodes for Nikola.
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [ansible-role-python](https://github.com/fubarhouse/ansible-role-python) - Ansible role which provisions python and pip modules using pyenv
+- [libretorrent](https://github.com/proninyaroslav/libretorrent) - Free as in Freedom torrent client for Android
 - [mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [-archived-chromium](https://github.com/chromium/-archived-chromium) - Old and archived, see https://github.com/chromium/chromium instead.
@@ -3185,6 +3231,8 @@
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
+- [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition
+- [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Development has moved to Gitlab
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [systemd-user-units](https://github.com/pablox-cl/systemd-user-units) - A collection of systemd units
 - [base16](https://github.com/chriskempson/base16) - An architecture for building themes
@@ -3192,6 +3240,7 @@
 
 ## PHP 
 
+- [rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [apache2nginx](https://github.com/mow/apache2nginx) - Converts apache rewrite rules to nginx rewrite rules
 - [Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [sonerezh](https://github.com/Sonerezh/sonerezh) - A self-hosted, web-based application to stream your music, everywhere.
@@ -3221,7 +3270,7 @@
 - [Piwigo](https://github.com/Piwigo/Piwigo) - Piwigo is a full featured open source photo gallery for the web. Star us on Github! More than 200 plugins and themes available. Translated in 50+ languages all over the world. Join us and contribute!
 - [gallery3](https://github.com/gallery/gallery3) - The simplest, most intuitive way to host your photos on your website.
 - [PhotoShow](https://github.com/thibaud-rohmer/PhotoShow) - A free web gallery in PHP with drag-n-drop support
-- [movim](https://github.com/movim/movim) - Movim - Kickass Social Network
+- [movim](https://github.com/movim/movim) - Movim - Decentralized social platform
 - [YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Your Own URL Shortener
 - [dockerised-php](https://github.com/mikechernev/dockerised-php) - Docker setup for PHP applications using PHP7-FPM and Nginx
 - [addonconverter](https://github.com/lemon-juice/addonconverter) - Add-on converter converts Firefox and Thunderbird extensions to work in SeaMonkey
@@ -3229,7 +3278,7 @@
 - [Leed](https://github.com/LeedRSS/Leed) - Leed (contraction de Light Feed) est un agrégateur RSS libre et minimaliste qui permet la consultation de flux RSS de manière rapide et non intrusive.
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
-- [glpi](https://github.com/glpi-project/glpi) - GLPI stands for Gestionnaire Libre de Parc Informatique is a Free Asset and IT Management Software package, that provides ITIL Service Desk features, licenses tracking and software auditing.
+- [glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package,ITIL Service Desk, licenses tracking and software auditing.
 - [dotplant2](https://github.com/DevGroup-ru/dotplant2) - E-Commerce CMS - Yii Framework 2 (yii2, shop)
 - [yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
 - [Legacy-planetary](https://github.com/MathHubInfo/Legacy-planetary) - Legacy: Planetary System is a math-enabled Web 3.0 information portal.
@@ -3241,9 +3290,9 @@
 
 ## Perl 
 
+- [clyrics](https://github.com/trizen/clyrics) - An extensible lyrics fetcher, with daemon support for cmus and mocp.
 - [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application for searching and streaming videos from YouTube.
 - [paste.pl](https://github.com/formorer/paste.pl) - paste.debian.net implementation
-- [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 - [plsense](https://github.com/aki2o/plsense) - Omni completion tool for Perl
 - [Colormake](https://github.com/pagekite/Colormake) - A simple wrapper around make to colorize the output.
@@ -3297,6 +3346,17 @@
 
 ## Python 
 
+- [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
+- [emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) - Emacs application framework
+- [gif-for-cli](https://github.com/google/gif-for-cli) - 
+- [udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
+- [gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
+- [scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™
+- [black](https://github.com/ambv/black) - The uncompromising Python code formatter
+- [pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
+- [mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python
+- [calysto_scheme](https://github.com/Calysto/calysto_scheme) - A Scheme kernel for Jupyter that can use Python libraries
+- [importmagic](https://github.com/alecthomas/importmagic) - A Python library for finding unresolved symbols in Python code, and the corresponding imports
 - [picamera](https://github.com/waveform80/picamera) - A pure Python interface to the Raspberry Pi camera module
 - [conkeror-bookmarks](https://github.com/bjornedstrom/conkeror-bookmarks) - Bookmark managing for the conkeror web browser
 - [afew](https://github.com/afewmail/afew) - an initial tagging script for notmuch mail
@@ -3308,8 +3368,7 @@
 - [twitchy](https://github.com/BasioMeusPuga/twitchy) - CLI streamlink wrapper for twitch.tv
 - [termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [polymorphable](https://github.com/makrohn/polymorphable) - A total conversion, orthographic game based on Clint Bellanger's FLARE
-- [pulseeffects](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications
-- [vidcutter](https://github.com/ozmartian/vidcutter) - snap package available @ snapcraft store... see below for more details...  latest release: 5.5.0
+- [vidcutter](https://github.com/ozmartian/vidcutter) - v6.0.0 released as flatpak available from Flathub (https://www.flathub.org) store... v6.0.0 release for all platforms and Linux distros coming soon! ... snap package available @ snapcraft store... see below for more details...  latest release: 5.5.0
 - [pylint](https://github.com/PyCQA/pylint) - A Python source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells
 - [ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
@@ -3334,7 +3393,7 @@
 - [Urho3D-Blender](https://github.com/reattiva/Urho3D-Blender) - Blender to Urho3D mesh exporter
 - [pentesting-multitool](https://github.com/ffmancera/pentesting-multitool) - Different utility scripts for pentesting and hacking.
 - [Hippocampe](https://github.com/TheHive-Project/Hippocampe) - Threat Feed Aggregation, Made Easy
-- [tensorlayer](https://github.com/tensorlayer/tensorlayer) - TensorLayer: A Deep Learning and Reinforcement Learning Library for Researchers and Engineers.
+- [tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning for Researchers and Engineers
 - [python-chess](https://github.com/niklasf/python-chess) - A pure Python chess library with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing and UCI engine communication
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
@@ -3367,7 +3426,7 @@
 - [golem](https://github.com/golemfactory/golem) - Golem is creating a global market for computing power.
 - [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 - [LANs.py](https://github.com/DanMcInerney/LANs.py) - Inject code and spy on wifi users
-- [paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager (Linux/Windows)
+- [paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager (Linux/Windows) -- Moved to Gnome's Gitlab
 - [MITMf](https://github.com/byt3bl33d3r/MITMf) - Framework for Man-In-The-Middle attacks
 - [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall.
 - [headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd
@@ -3382,6 +3441,7 @@
 - [dex](https://github.com/jceb/dex) - DesktopEntry Execution
 - [ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [nixops](https://github.com/NixOS/nixops) - NixOps, the NixOS-based cloud deployment tool
+- [pyro](https://github.com/uber/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [mangaki](https://github.com/mangaki/mangaki) - Site de recommandation de mangas et d'anime
 - [cpython](https://github.com/python/cpython) - The Python programming language
 - [gmailieer](https://github.com/gauteh/gmailieer) - Fast email-fetching and two-way tag synchronization between notmuch and GMail
@@ -3392,14 +3452,13 @@
 - [flycheck-pycheckers](https://github.com/msherry/flycheck-pycheckers) - Multiple syntax checker for Python in Emacs, using Flycheck
 - [CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
-- [WeatherDesk](https://github.com/bharadwaj-raju/WeatherDesk) - Change the wallpaper based on the weather
+- [WeatherDesk](https://github.com/bharadwaj-raju/WeatherDesk) - MOVED: https://gitlab.com/bharadwaj-raju/WeatherDesk
 - [wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [starless](https://github.com/rantonels/starless) - Starless is a CPU black hole raytracer in numpy suitable for both informative diagrams and decent wallpaper material.
 - [Zope](https://github.com/zopefoundation/Zope) - Zope is an open-source web application server.
 - [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
 - [Python_Basics](https://github.com/learnbyexample/Python_Basics) - :snake: Syntax, working with Shell commands, Files, Text Processing, and more...
-- [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
-- [HackPrincetonF16](https://github.com/anantdgoel/HackPrincetonF16) - Chrome extension to flag fake news on Facebook
+- [ProjectFib](https://github.com/anantdgoel/ProjectFib) - Chrome extension to flag fake news on Facebook
 - [OSCP](https://github.com/ihack4falafel/OSCP) - Collection of things made during my OSCP journey
 - [uncaptcha](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
 - [scripts](https://github.com/weechat/scripts) - Official scripts for WeeChat.
@@ -3416,9 +3475,8 @@
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [https-everywhere](https://github.com/EFForg/https-everywhere) - A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
-- [badgeyay](https://github.com/fossasia/badgeyay) - Attendee Badge Generator for Conferences http://badgeyay.com Backend: http://badgeyay-api.herokuapp.com/
 - [AutoLocalPrivilegeEscalation](https://github.com/ngalongc/AutoLocalPrivilegeEscalation) - An automated script that download potential exploit for linux kernel from exploitdb, and compile them automatically
-- [tremc](https://github.com/louipc/tremc) - Curses interface for transmission
+- [tremc](https://github.com/tremc/tremc) - Curses interface for transmission
 - [gitzilla](https://github.com/gera/gitzilla) - Git-Bugzilla integration done right
 - [sverchok](https://github.com/nortikin/sverchok) - Sverchok
 - [PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll) - Simple PyTorch Tutorials Zero to ALL!
@@ -3435,14 +3493,14 @@
 - [blockstack-core](https://github.com/blockstack/blockstack-core) - The reference implementation of Blockstack
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
 - [awx](https://github.com/ansible/awx) - AWX Project
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones Python implementations of Machine Learning models and algorithms with a focus on transparency and accessibility. Aims to cover everything from Data Mining to Deep Learning.
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones Python implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.
 - [gedit-markdown](https://github.com/jpfleury/gedit-markdown) - Support for Markdown language in gedit
 - [domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 Telegram client library
 - [uritemplate](https://github.com/python-hyper/uritemplate) - URI template parsing for Humans
 - [github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 2.7, 3.4, 3.5, and 3.6
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
 - [DotEditor](https://github.com/vincenthEE/DotEditor) - A GUI editor for dot language used in graphviz.
 - [xdot.py](https://github.com/jrfonseca/xdot.py) - Interactive viewer for graphs written in Graphviz's dot language.
@@ -3591,7 +3649,7 @@
 - [pywinery](https://github.com/ergoithz/pywinery) - Wine prefix manager
 - [weblate](https://github.com/WeblateOrg/weblate) - Web based translation tool with tight version control integration.
 - [mypaint](https://github.com/mypaint/mypaint) - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
-- [sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- NO PRs! -- everything must be submitted via https://trac.sagemath.org/
+- [sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/
 - [Cnchi](https://github.com/Antergos/Cnchi) - A modern, flexible system installer for Linux
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
@@ -3793,7 +3851,7 @@
 - [mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [hyperkitty](https://github.com/aisworld/hyperkitty) - HyperKitty provides a web interface to access GNU Mailman v3 archives
-- [jhbuild](https://github.com/GNOME/jhbuild) - JHBuild
+- [jhbuild](https://github.com/GNOME/jhbuild) - Tool to build the whole GNOME desktop from sources
 - [nbbrowserpdf](https://github.com/Anaconda-Platform/nbbrowserpdf) - LaTeX-free PDF generation from Jupyter Notebooks
 - [rcs-latexdiff](https://github.com/driquet/rcs-latexdiff) - A tool to generate a latexdiff of a file (contained in a RCS like Git, svn, Mercurial, etc.) for several version.
 - [rst2beamer](https://github.com/myint/rst2beamer) - reStructuredText to Beamer (LaTeX) converter (with Python 3 support)
@@ -3806,7 +3864,6 @@
 - [pelican-plugins](https://github.com/getpelican/pelican-plugins) - Collection of plugins for the Pelican static site generator
 - [rst2pdf](https://github.com/rst2pdf/rst2pdf) - Use a text editor.  Make a PDF.
 - [scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader
-- [lollypop](https://github.com/gnumdk/lollypop) - Lollypop
 - [social-rss](https://github.com/KonishchevDmitry/social-rss) - Allows you to receive updates from your social network accounts via RSS
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [flaskbb](https://github.com/flaskbb/flaskbb) - A classic Forum Software in Python using Flask.
@@ -3817,7 +3874,6 @@
 - [rss2email](https://github.com/tomjorquera/rss2email) - open-source tool for Windows, Mac OS and UNIX for getting news from RSS feeds in email
 - [rss2email](https://github.com/wking/rss2email) - open-source tool for Windows, Mac OS and UNIX for getting news from RSS feeds in email
 - [rss2imap](https://github.com/rcarmo/rss2imap) - An adaptation of rss2mail that uses IMAP directly
-- [feed2tweet](https://github.com/chaica/feed2tweet) - Parse rss feed and tweet new posts to Twitter
 - [anitya](https://github.com/release-monitoring/anitya) - A cross-distribution upstream release monitoring project
 - [fedmsg](https://github.com/fedora-infra/fedmsg) - Federated Messaging with ZeroMQ
 - [rss2maildir](https://github.com/edt/rss2maildir) - Download rss and send it to a local maildir
@@ -3857,9 +3913,8 @@
 - [sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
 - [coil](https://github.com/getnikola/coil) - A user-friendly CMS frontend for Nikola.
 - [tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
-- [Coherence](https://github.com/coherence-project/Coherence) - A DLNA/UPnP Media Server and Framework for the Digital Living
+- [Coherence](https://github.com/coherence-project/Coherence) - DLNA/UPnP Media Server and Framework for the Digital Living
 - [offlineimap](https://github.com/OfflineIMAP/offlineimap) - Read/sync your IMAP mailboxes
-- [mps](https://github.com/np1/mps) - Terminal based MP3 search, playback and download
 - [bups](https://github.com/emersion/bups) - Simple GUI for Bup, a very efficient backup system.
 - [repren](https://github.com/jlevy/repren) - Rename anything
 - [tvnamer](https://github.com/dbr/tvnamer) - Automatic TV episode file renamer, uses data from thetvdb.com via tvdb_api
@@ -3895,7 +3950,7 @@
 - [ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [youtube-upload](https://github.com/tokland/youtube-upload) - Upload videos to Youtube from the command line
-- [pitivi](https://github.com/GNOME/pitivi) - PiTiVi
+- [pitivi](https://github.com/GNOME/pitivi) - Free, intuitive and featureful movie editor for the Linux desktop.
 - [texturecache.py](https://github.com/MilhouseVH/texturecache.py) - Utility script to manage the XBMC texture cache
 - [ffmpy](https://github.com/Ch00k/ffmpy) - Pythonic interface for FFmpeg/FFprobe command line
 - [debops-playbooks](https://github.com/debops/debops-playbooks) - Ansible playbooks used by DebOps project
@@ -3967,6 +4022,10 @@
 - [SuperLearner](https://github.com/ecpolley/SuperLearner) - Current version of the SuperLearner R package
 - [anytime](https://github.com/eddelbuettel/anytime) - Anything to POSIXct or Date Converter
 
+## Racket 
+
+- [hackett](https://github.com/lexi-lambda/hackett) - WIP implementation of a Haskell-like Lisp in Racket
+
 ## Rascal 
 
 - [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
@@ -3982,6 +4041,7 @@
 
 ## Ruby 
 
+- [docker-emacs](https://github.com/Silex/docker-emacs) - Run Emacs in docker containers!
 - [plots2](https://github.com/publiclab/plots2) - PublicLab.org - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! :balloon:
 - [excel_to_code](https://github.com/tamc/excel_to_code) - Roughly translate some Excel spreadsheets to Ruby or C.
 - [cons](https://github.com/scottjad/cons) - makes consuming media so fast and easy that one might consume too much
@@ -4006,7 +4066,7 @@
 - [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [awesome-blockchains](https://github.com/openblockchains/awesome-blockchains) - A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized.
 - [rails](https://github.com/rails/rails) - Ruby on Rails
-- [octobox](https://github.com/octobox/octobox) - :postbox: Take back control of your GitHub Notifications
+- [octobox](https://github.com/octobox/octobox) - :postbox: The best way to manage your GitHub Notifications
 - [sonic-pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone
 - [puppet-lint](https://github.com/rodjek/puppet-lint) - Check that your Puppet manifests conform to the style guide
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -4041,7 +4101,6 @@
 - [middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
 - [guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
 - [open-build-service](https://github.com/openSUSE/open-build-service) - A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way. Release your software for a wide range of operating systems and hardware architectures.
-- [dockerfiles](https://github.com/pandrew/dockerfiles) - 
 - [dotfiles](https://github.com/Jorick/dotfiles) - config files and themes
 - [git-media](https://github.com/alebedev/git-media) - Handling large media files in Git
 - [hoosegow](https://github.com/github/hoosegow) - Ephemeral Docker jails for running untrusted Ruby code
@@ -4077,10 +4136,10 @@
 ## Rust 
 
 - [shellharden](https://github.com/anordal/shellharden) - A bash syntax highlighter that encourages (and can fix) proper quoting of variables
-- [zemeroth](https://github.com/ozkriff/zemeroth) - Zemeroth is a 2D turn-based hexagonal tactical game in Rust.
+- [zemeroth](https://github.com/ozkriff/zemeroth) - Zemeroth is a 2D turn-based tactical game in Rust.
 - [cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
-- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - A curated list of linters, code quality checkers, and other static analysis tools  for various programming languages
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [cancer](https://github.com/meh/cancer) - It's terminal.
 - [nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
@@ -4096,7 +4155,7 @@
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
-- [tfs](https://github.com/redox-os/tfs) - Next Generation File System
+- [tfs](https://github.com/redox-os/tfs) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
 - [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [dotakiller](https://github.com/Gexon/dotakiller) - dotakiler
 - [rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption.
@@ -4116,6 +4175,7 @@
 
 ## Scheme 
 
+- [sph-web-app](https://github.com/sph-mn/sph-web-app) - minimal scheme web application framework
 - [guile-sparql](https://github.com/roelj/guile-sparql) - A SPARQL module for Guile Scheme.
 - [YASWEG](https://github.com/luksamuk/YASWEG) - A static website generator, written in Guile Scheme.
 - [guile-simple-zmq](https://github.com/jerry40/guile-simple-zmq) - Guile wrapper over ZeroMQ library
@@ -4147,12 +4207,11 @@
 - [cyclone](https://github.com/justinethier/cyclone) - :cyclone: A brand-new compiler that allows practical application development using R7RS Scheme.
 - [gerbil](https://github.com/vyzo/gerbil) - Gerbil Scheme
 - [picrin](https://github.com/picrin-scheme/picrin) - lightweight scheme interpreter
-- [radamsa](https://github.com/aoh/radamsa) - a general-purpose fuzzer
 - [guix-config](https://github.com/alezost/guix-config) - My config for GuixSD
 - [config](https://github.com/alezost/config) - My "dot" (configuration) files
 - [scheme-srfis](https://github.com/TaylanUB/scheme-srfis) - R7RS SRFI implementations
 - [shepherd-config](https://github.com/alezost/shepherd-config) - My Shepherd user services
-- [gtkmm](https://github.com/GNOME/gtkmm) - gtkmm
+- [gtkmm](https://github.com/GNOME/gtkmm) - C++ bindings for GTK+
 - [guile-a-sync](https://github.com/ChrisVine/guile-a-sync) - Asynchronous event loop for guile-2.0 with await semantics
 - [guile-2d](https://github.com/davexunit/guile-2d) - 2D game programming library for GNU Guile - *OBSOLETE - try my new library named Chickadee*
 - [guile-sly](https://github.com/guildhall/guile-sly) - Functional reactive game programming in GNU Guile Scheme. (mirror)
@@ -4164,7 +4223,7 @@
 - [SICP-guile](https://github.com/zv/SICP-guile) - SICP in Guile & Emacs Lisp
 - [inc](https://github.com/namin/inc) - an incremental approach to compiler construction
 - [aisleriot](https://github.com/GNOME/aisleriot) - 
-- [artanis](https://github.com/NalaGinrut/artanis) - (Mirror repo) A fast monolithic framework of Scheme language
+- [artanis](https://github.com/NalaGinrut/artanis) - Abandoned, please visit https://gitlab.com/NalaGinrut/artanis
 - [Barliman](https://github.com/webyrd/Barliman) - Prototype smart text editor
 - [scheme-to-c](https://github.com/akeep/scheme-to-c) - A small nanopass compiler from a subset of Scheme to C.  (Developed for Clojure Conj 2013)
 - [scsh](https://github.com/scheme/scsh) - A Unix shell embedded in scheme
@@ -4179,9 +4238,13 @@
 
 ## Shell 
 
+- [trojanizer](https://github.com/r00t-3xp10it/trojanizer) - Trojanize your payload - WinRAR (SFX) automatization - under Linux distros
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+- [bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
+- [slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
+- [mangle](https://github.com/alphapapa/mangle) - Mangle man pages to show just the parts you need (suitable for aliasing to "man")
 - [ansible-vault-tools](https://github.com/building5/ansible-vault-tools) - Tools for working with ansible-vault
 - [bashinator](https://github.com/wschlich/bashinator) - Bashinator: Bash Shell Script Framework
-- [docker-emacs](https://github.com/Silex/docker-emacs) - Run Emacs in docker containers!
 - [git-archive-all.sh](https://github.com/meitar/git-archive-all.sh) - A bash shell script wrapper for git-archive that archives a git superproject and its submodules, if it has any.
 - [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
@@ -4197,7 +4260,7 @@
 - [spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre & Meltdown vulnerability/mitigation checker for Linux
 - [egpg](https://github.com/EasyGnuPG/egpg) - Easy GnuPG, shell scripts to make GnuPG more accessible and easier to use.
 - [scripts](https://github.com/jwiegley/scripts) - Various and sundry shell scripts used on my system
-- [useful-scripts](https://github.com/oldratlee/useful-scripts) - :snail: useful scripts for making developer's everyday life easier and happier
+- [useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier
 - [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
 - [pwd.sh](https://github.com/drduh/pwd.sh) - Unix shell, GPG-based password manager
@@ -4237,12 +4300,12 @@
 - [opam-repository](https://github.com/ocaml/opam-repository) - Main public package repository for OPAM, the source package manager of OCaml.
 - [uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
-- [void-packages](https://github.com/voidlinux/void-packages) - The XBPS source packages collection
 - [pass-update](https://github.com/roddhjav/pass-update) - A pass extension that provides an easy flow for updating passwords.
 - [linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [dotfiles](https://github.com/skeeto/dotfiles) - My personal dotfiles
 - [ApkGolf](https://github.com/fractalwrench/ApkGolf) - The smallest Android APK in the world
 - [discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
+- [termux-packages](https://github.com/termux/termux-packages) - Android terminal and Linux environment - packages repository.
 - [memcache-info](https://github.com/hyperia-sk/memcache-info) - Simple and efficient way to show information about Memcache.
 - [lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
 - [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
@@ -4252,7 +4315,7 @@
 - [kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
-- [ghwd](https://github.com/zeke/ghwd) - Open the github URL that matches your shell's current branch and working directory
+- [ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [ubuntu-configuration](https://github.com/goq/ubuntu-configuration) - Configuration of Debian based OS, such as: Ubuntu, Mint, and Elementary OS
 - [asp](https://github.com/falconindy/asp) - Arch Build Source Management Tool
 - [i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - i3lock script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text
@@ -4298,14 +4361,14 @@
 - [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
 - [blog](https://github.com/mattalcock/blog) - My personal blog
-- [gentoo](https://github.com/gentoo/gentoo) - The official mirror of the Gentoo ebuild repository
+- [gentoo](https://github.com/gentoo/gentoo) - The Gentoo ebuild repository mirror
 - [dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [mac-dev-setup](https://github.com/nicolashery/mac-dev-setup) - A beginner's guide to setting up a development environment on Mac OS X
 - [git-map](https://github.com/icefox/git-map) - Executes git commands in multiple Git repositories at the same time.
 - [laradock](https://github.com/laradock/laradock) - Docker PHP development environment.
 - [ftpgrab](https://github.com/ftpgrab/ftpgrab) - ⚡ Shell script to grab your files from a remote FTP server to your NAS / server / computer
 - [docker-brew-mageia](https://github.com/juanluisbaptiste/docker-brew-mageia) - Scripts and files to create Mageia official docker base images.
-- [google-group-crawler](https://github.com/icy/google-group-crawler) - Get (almost) original messages from google group archives. Your data are yours.
+- [google-group-crawler](https://github.com/icy/google-group-crawler) - Get (almost) original messages from google group archives. Your data is yours.
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [shell-ci-build](https://github.com/caarlos0/shell-ci-build) - A submodule to lint your shell projects with shellcheck in travis.ci builds
 - [tmux-cssh](https://github.com/dennishafemann/tmux-cssh) - TMUX with a "ClusterSSH"-like behaviour.
@@ -4320,11 +4383,10 @@
 - [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-- [lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [backupninja](https://github.com/lelutin/backupninja) - My sandbox on the official backupninja repository
-- [redox](https://github.com/redox-os/redox) - Redox: A Rust Operating System
+- [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [ubuntu](https://github.com/boxcutter/ubuntu) - Virtual machine templates for Ubuntu
 - [dotzsh](https://github.com/dotphiles/dotzsh) - A community driven framework for zsh
 - [docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
@@ -4369,7 +4431,7 @@
 - [git-recent](https://github.com/paulirish/git-recent) - See your latest local git branches, formatted real fancy
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [Wallhaven-Downloader](https://github.com/macearl/Wallhaven-Downloader) - A simple download Script for Wallhaven.cc
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,100+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [infinality-ultimate-fedora](https://github.com/danielrenninghoff/infinality-ultimate-fedora) - Fedora packages for infinality-ultimate-bundle by bohoomil
 - [bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes
 - [rename-xfce-workspace](https://github.com/ngeiswei/rename-xfce-workspace) - Rename the current workspace in Xfce at lightening speed
@@ -4427,52 +4489,53 @@
 
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) - Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
 - [vscode-org-mode](https://github.com/ajtoo/vscode-org-mode) - Emacs Org Mode for Visual Studio Code (In Progress, contributions are welcome)
-- [stryker](https://github.com/stryker-mutator/stryker) - The JavaScript mutation testing framework
-- [sonarwhal](https://github.com/sonarwhal/sonarwhal) - A linting tool for the web
+- [stryker](https://github.com/stryker-mutator/stryker) - Mutation testing for JavaScript and friends
+- [chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
+- [sonarwhal](https://github.com/sonarwhal/sonarwhal) - 💡 A hinting engine for the web
 - [shellshape](https://github.com/timbertson/shellshape) - tiling window manager extension for gnome-shell
 - [academic-bloggers-toolkit](https://github.com/dsifford/academic-bloggers-toolkit) - Wordpress plugin providing an all-in-one solution for effective academic blogging.
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
-- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 
 ## Vala 
 
-- [pamac](https://github.com/manjaro/pamac) - Graphical Package Manager for Manjaro Linux (based on libalpm)
+- [pamac](https://github.com/manjaro/pamac) - This repo has been archived. Our code is now hosted at
 - [finalterm](https://github.com/p-e-w/finalterm) - At last – a modern terminal emulator. THIS PROJECT IS NO LONGER BEING ACTIVELY DEVELOPED.
 - [Fragments](https://github.com/haecker-felix/Fragments) - A GTK3 BitTorrent Client
 - [ciano](https://github.com/robertsanseries/ciano) - A multimedia file converter focused on simplicity.
 - [komorebi](https://github.com/iabem97/komorebi) - A beautiful and customizable desktop manager for Linux
 - [Gradio](https://github.com/haecker-felix/Gradio) - Find and listen to internet radio stations.
 - [MarkMyWords](https://github.com/voldyman/MarkMyWords) - Markdown editor
-- [geary](https://github.com/GNOME/geary) - Geary. Send and receive email.
+- [geary](https://github.com/GNOME/geary) - Send and receive email
 - [valama](https://github.com/Valama/valama) - Next generation Vala IDE
 - [nuntius-linux](https://github.com/holylobster/nuntius-linux) - Nuntius delivers notifications from your phone or tablet to your computer
 - [FeedReader](https://github.com/jangernert/FeedReader) - Modern desktop application designed to complement existing web-based RSS accounts.
 - [pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
-- [vala](https://github.com/GNOME/vala) - vala
+- [vala](https://github.com/GNOME/vala) - Compiler for the GObject type system
 - [peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 - [gnome-pomodoro](https://github.com/codito/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique!
 - [corebird](https://github.com/baedert/corebird) - Native Gtk+ Twitter Client
 
 ## Vim script 
 
+- [vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [vim-game-code-break](https://github.com/johngrib/vim-game-code-break) - Block-breaking game in vim 8.0
 - [vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles for my Linux rice
 - [dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files and scripts for various Unix-like systems, text-based command-line applications and interfaces.
-- [vim-practice](https://github.com/oldratlee/vim-practice) - :cupid: Vim is awesome! Here is my awesome practice and study log.
+- [vim-practice](https://github.com/oldratlee/vim-practice) - 💘 Vim is awesome! Here is my awesome practice and study log.
 - [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 - [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
 - [ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine
 - [vimagit](https://github.com/jreybert/vimagit) - Ease your git workflow within Vim
 - [spacevim](https://github.com/ctjhoa/spacevim) - Spacemacs for vim
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate Vim configuration
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 - [dotmatrix](https://github.com/hashrocket/dotmatrix) - Hashrocket Dot Files
 - [dotfiles](https://github.com/garybernhardt/dotfiles) - ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/.
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [tagbar](https://github.com/majutsushi/tagbar) - Vim plugin that displays tags in a window, ordered by scope
-- [vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: a Git wrapper so awesome, it should be illegal
+- [vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
