@@ -665,6 +665,7 @@
 - [stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 - [slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
 - [milton](https://github.com/serge-rgb/milton) - An infinite-canvas paint program
+- [faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Live GLSL coding render for MacOS and Linux
 - [cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
@@ -1074,6 +1075,8 @@
 
 ## Emacs Lisp 
 
+- [easy-escape](https://github.com/cpitclaudel/easy-escape) - Improve readability of escape characters in ELisp regular expressions
+- [xr](https://github.com/mattiase/xr) - 
 - [synosaurus](https://github.com/hpdeifel/synosaurus) - An extensible thesaurus mode for emacs
 - [kdeconnect.el](https://github.com/dakra/kdeconnect.el) - KDE Connect client for Emacs
 - [reverse-android](https://github.com/nelhage/reverse-android) - Reverse-engineering tools for Android applications
@@ -1670,7 +1673,7 @@
 - [build-status](https://github.com/sshaw/build-status) - Emacs minor mode that monitors and shows a buffer's build status in the mode line.
 - [cycle-themes.el](https://github.com/toroidal-code/cycle-themes.el) - Because switching between your themes shouldn't be so damn hard
 - [emacs-promise](https://github.com/chuntaro/emacs-promise) - Promises/A+ for Emacs
-- [company-ghci](https://github.com/orimh/company-ghci) - A company backend for haskell
+- [company-ghci](https://github.com/horellana/company-ghci) - A company backend for haskell
 - [ghub-plus](https://github.com/vermiculus/ghub-plus) - Wrappers for GitHub API resources built on ghub
 - [salt-mode](https://github.com/glynnforrest/salt-mode) - Emacs major mode for Salt States
 - [docker-compose-mode](https://github.com/meqif/docker-compose-mode) - Major mode for editing docker-compose files
@@ -2037,7 +2040,7 @@
 - [coffee-mode](https://github.com/defunkt/coffee-mode) - Emacs Major Mode for CoffeeScript
 - [pyenv-mode](https://github.com/proofit404/pyenv-mode) - Integrate pyenv with python-mode.
 - [linum-relative](https://github.com/coldnew/linum-relative) - display relative line number in the left margin in emacs
-- [nlinum-relative](https://github.com/CodeFalling/nlinum-relative) - Emacs relative line number besed on nlinum-mode
+- [nlinum-relative](https://github.com/dangxuandev/nlinum-relative) - Emacs relative line number besed on nlinum-mode
 - [web-beautify](https://github.com/yasuyk/web-beautify) - Format HTML, CSS and JavaScript/JSON by js-beautify
 - [html2org.el](https://github.com/lujun9972/html2org.el) - Convert html to org format text
 - [arch-packer](https://github.com/brotzeit/arch-packer) - Arch Linux package management frontend for pacman and pacaur
@@ -2179,7 +2182,7 @@
 - [PG](https://github.com/ProofGeneral/PG) - This repo is the new home of Proof General
 - [magic-latex-buffer](https://github.com/zk-phi/magic-latex-buffer) - [Emacs] magical syntax highlighting for LaTeX-mode buffers
 - [expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
-- [blog-admin](https://github.com/CodeFalling/blog-admin) - Write blog in emacs with hexo/org-page/nikola
+- [blog-admin](https://github.com/dangxuandev/blog-admin) - Write blog in emacs with hexo/org-page/nikola
 - [quelpa](https://github.com/quelpa/quelpa) - repo moved to framagit.org, please report issues there (see link) - Build and install your Emacs Lisp packages on-the-fly directly from source
 - [dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package
 - [know-your-http-well](https://github.com/for-GET/know-your-http-well) - HTTP headers, media-types, methods, relations and status codes, all summarized and linking to their specification.
@@ -2387,6 +2390,8 @@
 
 ## Go 
 
+- [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
+- [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [gist-fs](https://github.com/ueokande/gist-fs) - Gist as file system
 - [license](https://github.com/nishanths/license) - Generate license files
@@ -2725,6 +2730,7 @@
 
 ## JavaScript 
 
+- [simple-json-datasource](https://github.com/grafana/simple-json-datasource) - Datasource that sends generic http requests to give url
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - a javascript spreadsheet for web
 - [BrowserQuest](https://github.com/mozilla/BrowserQuest) - A HTML5/JavaScript multiplayer game experiment
@@ -2810,7 +2816,6 @@
 - [player-mode](https://github.com/scottjad/player-mode) - Conkeror page-mode for controlling media players
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [compiler-explorer](https://github.com/mattgodbolt/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [craftscape](https://github.com/pyalot/craftscape) - WebGL GPU landscaping and erosion
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
@@ -2851,7 +2856,7 @@
 - [starmark](https://github.com/ryanmcdermott/starmark) - :octocat: Turn your GitHub stars into Chrome bookmarks
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [debugger.html](https://github.com/devtools-html/debugger.html) - The Firefox debugger that works anywhere  :boom:
-- [commitlint](https://github.com/marionebl/commitlint) - 📓 Lint commit messages
+- [commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [Cinnamon](https://github.com/linuxmint/Cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
@@ -3264,6 +3269,8 @@
 
 ## Others 
 
+- [nginx-cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet) - A quick reference to common server configurations from serving static files to using in congruency with Node.js applications.
+- [nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) - This notes describes how to improve Nginx performance, security and other important things.
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - :fire: This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
 - [awesome-rofi](https://github.com/cjbassi/awesome-rofi) - A curated list of awesome rofi (and dmenu) applications
@@ -3769,6 +3776,7 @@
 
 ## Python 
 
+- [elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [pyftpdlib](https://github.com/giampaolo/pyftpdlib) - Extremely fast and scalable Python FTP server library
 - [jwcrypto](https://github.com/latchset/jwcrypto) - Implements JWK,JWS,JWE specifications using python-cryptography
@@ -4168,7 +4176,7 @@
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️
 - [python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [lbry](https://github.com/lbryio/lbry) - A fully decentralized network for distributing data
+- [lbry](https://github.com/lbryio/lbry) - A decentralized marketplace for digital content
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 - [tsoding-tools](https://github.com/tsoding/tsoding-tools) - Just a bunch of scripts I use for my streams
 - [meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -4673,6 +4681,7 @@
 
 ## Rust 
 
+- [rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [recover-youtube-videos](https://github.com/cjbassi/recover-youtube-videos) - A cli app that helps you recover privated and deleted videos from your YouTube playlists
 - [genact](https://github.com/svenstaro/genact) - :cyclone: A nonsense activity generator
 - [rust-simple-game-dev-tutorial](https://github.com/sunjay/rust-simple-game-dev-tutorial) - Rust game development tutorial with specs ECS and SDL2
@@ -4685,7 +4694,7 @@
 - [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
-- [zemeroth](https://github.com/ozkriff/zemeroth) - Zemeroth is a 2D turn-based tactical game in Rust.
+- [zemeroth](https://github.com/ozkriff/zemeroth) - Zemeroth is a 2D turn-based tactical game in Rust
 - [cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
