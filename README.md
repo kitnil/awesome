@@ -125,6 +125,7 @@
 
 ## C 
 
+- [guacamole-server](https://github.com/glyptodon/guacamole-server) - The Guacamole project is now Apache Guacamole (http://guacamole.apache.org/). This repository has been repurposed as the base for the Apache Guacamole packages built for Glyptodon Enterprise.
 - [klipper](https://github.com/KevinOConnor/klipper) - Klipper is a 3d-printer firmware
 - [ministrace](https://github.com/nelhage/ministrace) - A minimal toy implementation of strace(1)
 - [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
@@ -875,6 +876,7 @@
 
 ## CSS 
 
+- [pol](https://github.com/taroved/pol) - RSS generator website
 - [FirefoxQuantumScrollbar](https://github.com/catcat520/FirefoxQuantumScrollbar) - 
 - [readline-cheat-sheet](https://github.com/kablamo/readline-cheat-sheet) - A mobile friendly cheat sheet for the GNU Readline library
 - [css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
@@ -1060,6 +1062,7 @@
 
 ## Dockerfile 
 
+- [pandorabox.io](https://github.com/pandorabox-io/pandorabox.io) - Pandorabox minetest server config
 - [docker-grafana-graphite](https://github.com/kamon-io/docker-grafana-graphite) - Docker image with StatsD, Graphite, Grafana 2 and a Kamon Dashboard
 - [lisp-images](https://github.com/fisxoj/lisp-images) - Docker images for common lisp development
 - [docker-emacs](https://github.com/Silex/docker-emacs) - Run Emacs in docker containers!
@@ -2396,6 +2399,8 @@
 
 ## Go 
 
+- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+- [watchtower](https://github.com/v2tec/watchtower) - Automatically update running Docker containers
 - [beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [fathom](https://github.com/usefathom/fathom) - Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.
 - [gitin](https://github.com/isacikgoz/gitin) - commit/branch/workdir explorer for git
@@ -2550,6 +2555,7 @@
 
 ## HTML 
 
+- [railsgirls.github.io](https://github.com/railsgirls/railsgirls.github.io) - Rails Girls Guides
 - [EverOrg](https://github.com/aladine/EverOrg) - Evernote to Org mode migration tool
 - [unpackaged.el](https://github.com/alphapapa/unpackaged.el) - A collection of useful Emacs Lisp code that isn't substantial enough to be packaged
 - [emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook) - An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.
@@ -2684,6 +2690,7 @@
 
 ## Java 
 
+- [guacamole-client](https://github.com/glyptodon/guacamole-client) - The Guacamole project is now Apache Guacamole (http://guacamole.apache.org/). This repository has been repurposed as the base for the Apache Guacamole packages built for Glyptodon Enterprise.
 - [Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
 - [search-guard](https://github.com/floragunncom/search-guard) - Search Guard is an Open Source Elasticsearch plugin that offers encryption, authentication, and authorisation.
@@ -2752,6 +2759,9 @@
 
 ## JavaScript 
 
+- [GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
+- [webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
+- [Poffer](https://github.com/Zhouzi/Poffer) - Automate sharing Pocket links to Twitter through Buffer.
 - [git-history](https://github.com/pomber/git-history) - Quickly browse the history of any GitHub file
 - [statsd](https://github.com/etsy/statsd) - Daemon for easy but powerful stats aggregation
 - [influxdb-ui](https://github.com/danesparza/influxdb-ui) - :racehorse: A simple UI for InfluxDB
@@ -3306,6 +3316,11 @@
 
 ## Others 
 
+- [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
+- [go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
+- [awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
+- [awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
 - [ansible-role-nginx](https://github.com/jdauphant/ansible-role-nginx) - Ansible role to install and manage nginx configuration
 - [ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
@@ -3694,6 +3709,7 @@
 
 ## PHP 
 
+- [oneye](https://github.com/oneye/oneye) - 
 - [alltube](https://github.com/Rudloff/alltube) - HTML GUI for youtube-dl
 - [MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence Platform (formely known as Malware Information Sharing Platform)
 - [poweradmin](https://github.com/poweradmin/poweradmin) - A web-based control panel for PowerDNS
@@ -3819,6 +3835,13 @@
 
 ## Python 
 
+- [platform](https://github.com/syncloud/platform) - Run popular services on your device with one click
+- [django-th](https://github.com/push-things/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
+- [SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE) - Mirror of OFFICIAL SiCKRAGE
+- [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
+- [LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) - This project isn't finished yet. Goal is to create a SickBeard, CouchPotato, Headphones-like application for ebooks. Headphones is used as a base, so there are still a lot of references to it.
+- [healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django
+- [feedmixer](https://github.com/cristoper/feedmixer) - A micro web service to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON)
 - [clusterfuzz](https://github.com/google/clusterfuzz) - All your bug are belong to us.
 - [micawber](https://github.com/coleifer/micawber) - a small library for extracting rich content from urls
 - [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - Chainer Chemistry: A Library for Deep Learning in Biology and Chemistry
@@ -4649,6 +4672,7 @@
 
 ## Ruby 
 
+- [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [cookbook-elasticsearch](https://github.com/elastic/cookbook-elasticsearch) - Chef cookbook for Elasticsearch
 - [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch) - Ansible playbook for Elasticsearch
 - [robe](https://github.com/dgutov/robe) - Code navigation, documentation lookup and completion for Ruby
@@ -4872,6 +4896,9 @@
 
 ## Shell 
 
+- [bashful](https://github.com/plytophogy/bashful) - A collection of modules to simplify writing bash scripts.
+- [docker-cloudflare](https://github.com/joshuaavalon/docker-cloudflare) - Cloudflare DDNS minimal docker.
+- [ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [udevil](https://github.com/IgnorantGuru/udevil) - Mount without password
