@@ -377,7 +377,7 @@
 - [tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
 - [kiss_sdl](https://github.com/actsl/kiss_sdl) - Simple generic GUI widget toolkit for SDL2
-- [emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm intergration
+- [emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
 - [wget2](https://github.com/rockdaboot/wget2) - This is a mirror repository. Hack Wget2 at https://gitlab.com/gnuwget/wget2
 - [guile-curl](https://github.com/spk121/guile-curl) - A language binding for the CURL network client library for the Guile version of the Scheme language
 - [librep](https://github.com/SawfishWM/librep) - fast, lightweight, versatile lisp environment
@@ -608,6 +608,8 @@
 
 ## C++ 
 
+- [immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++
+- [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest UI framework for all platform -- 5k lines code
 - [freeminer](https://github.com/freeminer/freeminer) - Freeminer is an open source sandbox game inspired by Minecraft.
 - [NoahGameFrame](https://github.com/ketoo/NoahGameFrame) - A fast, scalable, distributed game server engine/framework for C++, include actor library, network library,can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.
@@ -876,6 +878,7 @@
 
 ## CSS 
 
+- [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [pol](https://github.com/taroved/pol) - RSS generator website
 - [FirefoxQuantumScrollbar](https://github.com/catcat520/FirefoxQuantumScrollbar) - 
 - [readline-cheat-sheet](https://github.com/kablamo/readline-cheat-sheet) - A mobile friendly cheat sheet for the GNU Readline library
@@ -932,6 +935,7 @@
 
 ## Clojure 
 
+- [riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [stream2es](https://github.com/elastic/stream2es) - Stream data into ES (Wikipedia, Twitter, stdin, or other ESes)
 - [spacetools](https://github.com/JAremko/spacetools) - Spacemacs age tool box
 - [clojupyter](https://github.com/clojupyter/clojupyter) - a Jupyter kernel for Clojure
@@ -1062,6 +1066,7 @@
 
 ## Dockerfile 
 
+- [distro-test-containers](https://github.com/ansible/distro-test-containers) - Distribution specific containers for Ansible integration testing.
 - [pandorabox.io](https://github.com/pandorabox-io/pandorabox.io) - Pandorabox minetest server config
 - [docker-grafana-graphite](https://github.com/kamon-io/docker-grafana-graphite) - Docker image with StatsD, Graphite, Grafana 2 and a Kamon Dashboard
 - [lisp-images](https://github.com/fisxoj/lisp-images) - Docker images for common lisp development
@@ -1082,6 +1087,7 @@
 
 ## Emacs Lisp 
 
+- [dired-git-info](https://github.com/clemera/dired-git-info) - Show git info in dired
 - [dashboard-project-status](https://github.com/functionreturnfunction/dashboard-project-status) - Display the status of a git project in emacs-dashboard
 - [org-sql](https://github.com/ndwarshuis/org-sql) - SQL backend for Emacs Org-Mode
 - [easy-escape](https://github.com/cpitclaudel/easy-escape) - Improve readability of escape characters in ELisp regular expressions
@@ -1714,7 +1720,7 @@
 - [cricbuzz.el](https://github.com/lepisma/cricbuzz.el) - Live cricket scores and schedule for emacs
 - [cyphejor](https://github.com/mrkkrp/cyphejor) - Shorten major mode names using user-defined rules
 - [kill-or-bury-alive](https://github.com/mrkkrp/kill-or-bury-alive) - Precise control over buffer killing in Emacs
-- [spacemacs-journal](https://github.com/borgnix/spacemacs-journal) - spacemacs layer for org-journal.
+- [spacemacs-journal](https://github.com/ruibinx/spacemacs-journal) - spacemacs layer for org-journal.
 - [org-sticky-header](https://github.com/alphapapa/org-sticky-header) - Show off-screen Org heading at top of window
 - [pass](https://github.com/NicolasPetton/pass) - A major mode for password-store
 - [helm-pass](https://github.com/jabranham/helm-pass) - Moved to gitlab
@@ -2399,6 +2405,8 @@
 
 ## Go 
 
+- [beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
+- [elasticsearch_exporter](https://github.com/justwatchcom/elasticsearch_exporter) - Elasticsearch stats exporter for Prometheus
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [watchtower](https://github.com/v2tec/watchtower) - Automatically update running Docker containers
 - [beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
@@ -2528,6 +2536,7 @@
 - [gitbase](https://github.com/src-d/gitbase) - SQL interface to Git repositories, written in Go. https://docs.sourced.tech/gitbase
 - [gitql](https://github.com/cloudson/gitql) - A git query language
 - [aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
+- [ftpgrab](https://github.com/ftpgrab/ftpgrab) - ⚡ Grab your files periodically from a remote FTP server easily
 - [MusicRepair](https://github.com/kalbhor/MusicRepair) - Fixes music metadata and adds album art.
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
@@ -2759,11 +2768,12 @@
 
 ## JavaScript 
 
+- [instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
 - [webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [Poffer](https://github.com/Zhouzi/Poffer) - Automate sharing Pocket links to Twitter through Buffer.
 - [git-history](https://github.com/pomber/git-history) - Quickly browse the history of any GitHub file
-- [statsd](https://github.com/etsy/statsd) - Daemon for easy but powerful stats aggregation
+- [statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [influxdb-ui](https://github.com/danesparza/influxdb-ui) - :racehorse: A simple UI for InfluxDB
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [vega](https://github.com/vega/vega) - A visualization grammar.
@@ -2839,7 +2849,7 @@
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [short-memo](https://github.com/kusabashira/short-memo) - Show short message on top bar
 - [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
-- [filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A web client for FTP, SFTP, WebDAV, Git, S3, Minio, LDAP (WIP)....
+- [filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A web client for FTP, SFTP, WebDAV, Git, S3, Minio, LDAP, Caldav, Carddav
 - [cors-everywhere-firefox-addon](https://github.com/spenibus/cors-everywhere-firefox-addon) - A firefox addon enabling CORS everywhere by altering http responses.
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
@@ -3316,6 +3326,8 @@
 
 ## Others 
 
+- [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
+- [google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 - [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
 - [go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
@@ -3749,7 +3761,7 @@
 - [deployer](https://github.com/deployphp/deployer) - A deployment tool written in PHP with support for popular frameworks out of the box
 - [testlink-code](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - TestLink Open Source Test & Requirement Management System
 - [roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
-- [Piwigo](https://github.com/Piwigo/Piwigo) - Piwigo is a full featured open source photo gallery for the web. Star us on Github! More than 200 plugins and themes available. Translated in 50+ languages all over the world. Join us and contribute!
+- [Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 - [gallery3](https://github.com/gallery/gallery3) - The simplest, most intuitive way to host your photos on your website.
 - [PhotoShow](https://github.com/thibaud-rohmer/PhotoShow) - A free web gallery in PHP with drag-n-drop support
 - [movim](https://github.com/movim/movim) - Movim - Decentralized social platform
@@ -3835,6 +3847,9 @@
 
 ## Python 
 
+- [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
+- [ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) - Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
+- [mazer](https://github.com/ansible/mazer) - Experimental Ansible Galaxy Content Manager
 - [platform](https://github.com/syncloud/platform) - Run popular services on your device with one click
 - [django-th](https://github.com/push-things/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
 - [SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE) - Mirror of OFFICIAL SiCKRAGE
@@ -3923,7 +3938,7 @@
 - [remarshal](https://github.com/dbohdan/remarshal) - Convert between TOML, YAML and JSON
 - [deduplicated](https://github.com/eduardoklosowski/deduplicated) - Check duplicated files
 - [camelot](https://github.com/socialcopsdev/camelot) - Camelot: PDF Table Extraction for Humans
-- [boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 220+ constructs, recipes, and snippets extending (and relying on nothing but) the Python standard library.  Nothing like Michael Bolton.
+- [boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 230+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) - 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 - [dbxfs](https://github.com/rianhunter/dbxfs) - User-space file system for Dropbox
 - [networkx](https://github.com/networkx/networkx) - Official NetworkX source code repository.
@@ -3989,7 +4004,7 @@
 - [twitchy](https://github.com/BasioMeusPuga/twitchy) - CLI streamlink wrapper for twitch.tv
 - [termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [polymorphable](https://github.com/makrohn/polymorphable) - A total conversion, orthographic game based on Clint Bellanger's FLARE
-- [vidcutter](https://github.com/ozmartian/vidcutter) - LATEST RELEASE: 6.0.0 - flatpak @ https://flathub.org/apps/details/com.ozmartians.VidCutter - snap @ https://snapcraft.io/vidcutter - see https://github.com/ozmartian/vidcutter/releases for more details...
+- [vidcutter](https://github.com/ozmartian/vidcutter) - Been busy guys, will be reviewing and integrating pull requests shortly. Thanks to all contributors!               LATEST RELEASE: 6.0.0 - flatpak @ https://flathub.org/apps/details/com.ozmartians.VidCutter - snap @ https://snapcraft.io/vidcutter - see https://github.com/ozmartian/vidcutter/releases for more details...
 - [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 - [ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
@@ -4608,7 +4623,7 @@
 - [dj-static](https://github.com/heroku-python/dj-static) - Serve production static files with Django.
 - [python-livereload](https://github.com/lepture/python-livereload) - livereload server in python
 - [django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
-- [requests](https://github.com/requests/requests) - Python HTTP Requests for Humans™ ✨🍰✨
+- [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™ ✨🍰✨
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -4849,7 +4864,7 @@
 - [guile-kernel](https://github.com/jerry40/guile-kernel) - GNU Guile Scheme kernel for Jupyter Notebook
 - [gwl-atacseq](https://github.com/UMCUGenetics/gwl-atacseq) - ATACseq pipeline using the Guix Workflow Language.
 - [lalr-scm](https://github.com/schemeway/lalr-scm) - An Efficient LALR(1) Parser Generator for Scheme
-- [allegro-egg](https://github.com/dleslie/allegro-egg) - 
+- [allegro-egg](https://github.com/dleslie/allegro-egg) - Allegro 5 bindings for Chicken Scheme
 - [monad-egg](https://github.com/dleslie/monad-egg) - Monads for scheme
 - [govuk-guix](https://github.com/alphagov/govuk-guix) - Package, service and system definitions using GNU Guix for software and systems related to GOV.UK. Personal project.
 - [Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine
@@ -5066,7 +5081,6 @@
 - [dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [mac-dev-setup](https://github.com/nicolashery/mac-dev-setup) - A beginner's guide to setting up a development environment on Mac OS X
 - [git-map](https://github.com/icefox/git-map) - Executes git commands in multiple Git repositories at the same time.
-- [ftpgrab](https://github.com/ftpgrab/ftpgrab) - ⚡ Shell script to grab your files from a remote FTP server to your NAS / server / computer
 - [docker-brew-mageia](https://github.com/juanluisbaptiste/docker-brew-mageia) - Scripts and files to create Mageia official docker base images.
 - [rst-cheatsheet](https://github.com/ralsina/rst-cheatsheet) - A two-page cheatsheet for restructured text
 - [google-group-crawler](https://github.com/icy/google-group-crawler) - Get (almost) original messages from google group archives. Your data is yours.
