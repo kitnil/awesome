@@ -63,6 +63,7 @@
   - [Pony](#pony)
   - [PostScript](#postscript)
   - [Puppet](#puppet)
+  - [PureScript](#purescript)
   - [Python](#python)
   - [QML](#qml)
   - [R](#r)
@@ -78,6 +79,7 @@
   - [Smarty](#smarty)
   - [Solidity](#solidity)
   - [Standard ML](#standard-ml)
+  - [Tcl](#tcl)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
@@ -132,6 +134,8 @@
 
 ## C 
 
+- [stag](https://github.com/seenaburns/stag) - Streaming bar graphs. For stats and stuff.
+- [mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [mle](https://github.com/adsr/mle) - A flexible terminal-based text editor (C)
 - [megatools](https://github.com/megous/megatools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
 - [dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
@@ -636,6 +640,9 @@
 
 ## C++ 
 
+- [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) - Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings. You can use it for characters in computer games, in animated cartoons, or in any other project that requires animating mouths based on existing recordings.
+- [clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
+- [argh](https://github.com/adishavit/argh) - Argh! A minimalist argument handler.
 - [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Commandline Task Management
 - [fltrdr](https://github.com/octobanana/fltrdr) - A TUI text reader for the terminal.
 - [TextBoxes](https://github.com/MhLiao/TextBoxes) - TextBoxes: A Fast Text Detector with a Single Deep Neural Network
@@ -1164,7 +1171,6 @@
 ## DIGITAL Command Language 
 
 - [blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files
-- [repo](https://github.com/FZUG/repo) - Fedora 中文社区软件源
 - [repo](https://github.com/FZUG/repo) - Fedora 中文社区软件源
 
 ## Dart 
@@ -2518,6 +2524,50 @@
 
 ## Go 
 
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (POSIX/Bash/mksh)
+- [dosxvpn](https://github.com/dan-v/dosxvpn) - Easily deploy your own personal VPN server with DNS adblocking running on DigitalOcean
+- [perfops-cli](https://github.com/ProspectOne/perfops-cli) - A simple command line tool to interact with hundreds of servers around the world.
+- [jiq](https://github.com/fiatjaf/jiq) - jid on jq
+- [scmpuff](https://github.com/mroth/scmpuff) - :1234: add numbered shortcuts to common git commands
+- [pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
+- [yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
+- [sentences](https://github.com/neurosnap/sentences) - A multilingual command line sentence tokenizer in Golang
+- [trdsql](https://github.com/noborus/trdsql) - A tool that can execute SQL queries on CSV, LTSV and JSON.
+- [nirvana](https://github.com/caicloud/nirvana) - Golang Restful API Framework for Productivity
+- [gosh](https://github.com/vladimirvivien/gosh) - Gosh -  a pluggable framework for building command shell programs
+- [gkill](https://github.com/heppu/gkill) - Interactice process killer for Linux and macOS
+- [define](https://github.com/Rican7/define) - A command-line dictionary (thesaurus) app, with access to multiple sources, written in Go.
+- [mirrorbits](https://github.com/etix/mirrorbits) - Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
+- [stegify](https://github.com/DimitarPetrov/stegify) - Go tool for LSB steganography, capable of hiding any file within an image.
+- [audit](https://github.com/genuinetools/audit) - For auditing what collaborators, hooks, and deploy keys you have added on all your GitHub repositories.
+- [goexpect](https://github.com/google/goexpect) - Expect for Go
+- [bpfd](https://github.com/genuinetools/bpfd) - Framework for running BPF programs with rules on Linux as a daemon. Container aware.
+- [vultr](https://github.com/JamesClonk/vultr) - :penguin: Vultr CLI and API client library
+- [enry](https://github.com/src-d/enry) - A faster file programming language detector
+- [pick](https://github.com/bndw/pick) - A secure and easy-to-use CLI password manager for macOS and Linux
+- [anon](https://github.com/intenthq/anon) - A UNIX Command To Anonymise Data
+- [cinf](https://github.com/mhausenblas/cinf) - Command line tool to view namespaces and cgroups, useful for low-level container prodding
+- [shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
+- [corgi](https://github.com/DrakeW/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
+- [kt](https://github.com/fgeller/kt) - Kafka command line tool
+- [pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
+- [gscript](https://github.com/gen0cide/gscript) - framework to rapidly implement custom droppers for all three major operating systems
+- [certigo](https://github.com/square/certigo) - A utility to examine and validate certificates in a variety of formats
+- [flaggy](https://github.com/integrii/flaggy) - Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies.
+- [bitrise](https://github.com/bitrise-io/bitrise) - Bitrise runner CLI - run your automations on your Mac or Linux machine -
+- [machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
+- [mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications
+- [aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
+- [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
+- [diagram](https://github.com/esimov/diagram) - CLI app to convert ascii arts into hand drawn diagrams.
+- [todoist](https://github.com/sachaos/todoist) - Todoist CLI Client. I ❤️ Todoist and CLI.
+- [dbxcli](https://github.com/dropbox/dbxcli) - A command line client for Dropbox built using the Go SDK
+- [hostess](https://github.com/cbednarski/hostess) - An idempotent command-line utility for managing your /etc/hosts file.
+- [jplot](https://github.com/rs/jplot) - iTerm2 expvar/JSON monitoring tool
+- [scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+- [bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
+- [spinner](https://github.com/briandowns/spinner) - Go (golang) package for providing a terminal spinner/progress indicator with options.
+- [captain](https://github.com/harbur/captain) - Captain - Convert your Git workflow to Docker :whale: containers
 - [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 - [weather](https://github.com/genuinetools/weather) - Weather via the command line.
 - [ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
@@ -2861,6 +2911,7 @@
 
 ## Java 
 
+- [progressbar](https://github.com/ctongfei/progressbar) - Terminal-based progress bar for Java/JVM
 - [turbo-editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android. All is licensed under the GPLv3 license.
 - [PDFLayoutTextStripper](https://github.com/JonathanLink/PDFLayoutTextStripper) - Converts a pdf file into a text file while keeping the layout of the original pdf. Useful to extract the content from a table in a pdf file for instance. This is a subclass of PDFTextStripper class (from the Apache PDFBox library).
 - [bt](https://github.com/atomashpolskiy/bt) - Java BitTorrent library with DHT, magnet links, encryption and more
@@ -2935,6 +2986,24 @@
 
 ## JavaScript 
 
+- [singlespotify](https://github.com/kabirvirji/singlespotify) - 🎵 Create Spotify playlists based on one artist through the command line
+- [splash-cli](https://github.com/splash-cli/splash-cli) - 📸 Beautiful wallpapers from Unsplash 🖼️🛠️
+- [travis-watch](https://github.com/juliangruber/travis-watch) - Stream live travis test results of the current commit to your terminal!
+- [add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
+- [prettier-eslint-cli](https://github.com/prettier/prettier-eslint-cli) - CLI for prettier-eslint
+- [world-cup-2018-cli-dashboard](https://github.com/cedricblondeau/world-cup-2018-cli-dashboard) - ⚽🏆A World Cup 2018 CLI dashboard – Watch matches in your terminal
+- [yaspeller](https://github.com/hcodes/yaspeller) - Search tool typos in the text, files and websites
+- [isogram](https://github.com/shinnn/isogram) - Generate Google Analytics tracking code with any isogrammic parameters you like
+- [webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
+- [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML to JS/JSON and vise versa, or parse XML to Nimn rapidly without C/C++ based libraries and no callback
+- [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - :flags: Manage your GitHub labels from the command line!
+- [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - :newspaper: CLI to browse Hacker News
+- [tget](https://github.com/jeffjose/tget) - tget is wget for torrents
+- [sympact](https://github.com/simonepri/sympact) - 🔥 Simple stupid CPU/MEM "Profiler" for your JS code.
+- [graphqlviz](https://github.com/sheerun/graphqlviz) - GraphQL Server schema visualizer
+- [cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
+- [project-explorer](https://github.com/sdras/project-explorer) - 🎋A CLI tool to create an annotated tree visualization of any project
+- [ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow
 - [life-commit](https://github.com/ByronHsu/life-commit) - 🏃📆  Life as a git. Commit on your life.
 - [clean-mark](https://github.com/croqaz/clean-mark) - Convert an article into a clean text
 - [node-html-to-text](https://github.com/werk85/node-html-to-text) - Advanced html to text converter
@@ -3202,7 +3271,6 @@
 - [lbry-desktop](https://github.com/lbryio/lbry-desktop) - A browser and wallet for LBRY, the decentralized, user-controlled content marketplace.
 - [emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
 - [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
-- [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system
 - [codebox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
@@ -3407,6 +3475,7 @@
 
 ## LiveScript 
 
+- [ramda-cli](https://github.com/raine/ramda-cli) - :ram: A CLI tool for processing data with functional pipelines
 - [eslisp](https://github.com/anko/eslisp) - un-opinionated S-expression syntax and macro system for JavaScript
 
 ## Logos 
@@ -3495,6 +3564,7 @@
 
 ## OCaml 
 
+- [jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml
 - [wanderers](https://github.com/a-nikolaev/wanderers) - An open world adventure and dungeon crawling game
 - [revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 - [hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
@@ -3518,6 +3588,9 @@
 
 ## Others 
 
+- [bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right!
+- [curriculum](https://github.com/HackYourFuture/curriculum) - Overview of the HackYourFuture program.
+- [awesome-toolkits](https://github.com/reyronald/awesome-toolkits) - A curated list of open source, high-quality, popular and well maintained "zero-configuration" (#0CJS) toolkits
 - [russian_news_corpus](https://github.com/maxoodf/russian_news_corpus) - Russian mass media stemmed texts corpus / Корпус лемматизированных (морфологически нормализованных) текстов российских СМИ
 - [portabletext](https://github.com/portabletext/portabletext) - Portable Text is a JSON based rich text specification for modern content editing platforms.
 - [You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
@@ -3928,6 +4001,11 @@
 
 ## PHP 
 
+- [getopt-php](https://github.com/getopt-php/getopt-php) - A PHP library for command-line argument processing
+- [phpmnd](https://github.com/povils/phpmnd) - PHP Magic Number Detector
+- [certificationy-cli](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications
+- [icingaweb2](https://github.com/Icinga/icingaweb2) - A lightweight and extensible web interface to keep an eye on your environment. Analyse problems and act on them.
+- [pixeler](https://github.com/lastguest/pixeler) - CLI image renderer
 - [pdf-to-text](https://github.com/spatie/pdf-to-text) - Extract text from a pdf
 - [drupal-console](https://github.com/hechoendrupal/drupal-console) - The Drupal CLI. A tool to generate boilerplate code, interact with and debug Drupal.
 - [cli-menu](https://github.com/php-school/cli-menu) - 🖥  Build beautiful PHP CLI menus. Simple yet Powerful. Expressive DSL.
@@ -4062,8 +4140,40 @@
 
 - [puppet-bimsb-guix](https://github.com/BIMSBbioinfo/puppet-bimsb-guix) - Puppet module for deploying Guix
 
+## PureScript 
+
+- [transity](https://github.com/feramhq/transity) - Keep track of your 💵, 🕘, 🐖, 🐄, 🍻 on your command line
+
 ## Python 
 
+- [spotify-cli-linux](https://github.com/pwittchen/spotify-cli-linux) - 🎶 A command line interface to Spotify on Linux
+- [frick](https://github.com/iGio90/frick) - frick - aka the first debugger built on top of frida
+- [pushbullet-cli](https://github.com/GustavoKatel/pushbullet-cli) - Access Pushbullet from the command line
+- [pick](https://github.com/wong2/pick) - create curses based interactive selection list in the terminal
+- [PyInquirer](https://github.com/CITGuru/PyInquirer) - A Python module for common interactive command line user interfaces
+- [drive-cli](https://github.com/nurdtechie98/drive-cli) - A command line interface for accessing google drive
+- [csvdedupe](https://github.com/dedupeio/csvdedupe) - :id: Command line tool for deduplicating CSV files
+- [google-music-scripts](https://github.com/thebigmunch/google-music-scripts) - A CLI utility for interacting with Google Music. https://google-music-scripts.readthedocs.io/
+- [git-archive-all](https://github.com/Kentzo/git-archive-all) - A python script wrapper for git-archive that archives a git superproject and its submodules, if it has any. Takes into account .gitattributes
+- [zdict](https://github.com/zdict/zdict) - The last online dictionary framework you need. (?)
+- [papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
+- [grow](https://github.com/grow/grow) - A fresh, declarative, file-based microsite generator for rapid, high-quality website production.
+- [rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
+- [gandi.cli](https://github.com/Gandi/gandi.cli) - command line interface to Gandi.net products using the public API
+- [cleo](https://github.com/sdispater/cleo) - Cleo allows you to create beautiful and testable command-line interfaces.
+- [pipx](https://github.com/pipxproject/pipx) - execute binaries from Python packages in isolated environments
+- [hues](https://github.com/prashnts/hues) - Colored terminal text made easy for Python and happiness.
+- [whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
+- [topydo](https://github.com/bram85/topydo) - A powerful todo list application for the console, using the todo.txt format.
+- [pytg](https://github.com/luckydonald/pytg) - Python package that wraps around Telegram messenger CLI. Send and receive messages, and more.
+- [es2csv](https://github.com/taraslayshchuk/es2csv) - Export from an Elasticsearch into a CSV file
+- [sultan](https://github.com/aeroxis/sultan) - Sultan: Command and Rule over your Shell
+- [clize](https://github.com/epsy/clize) - Clize: Turn Python functions into command-line interfaces
+- [Discline](https://github.com/MitchWeaver/Discline) - 🐍  A terminal Discord client that you can actually use.
+- [python-progressbar](https://github.com/WoLpH/python-progressbar) - Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"
+- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity
+- [lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
+- [mssql-cli](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting
 - [BoopSuite](https://github.com/MisterBianco/BoopSuite) - A Suite of Tools written in Python for wireless auditing and security testing.
 - [video-to-ascii](https://github.com/joelibaceta/video-to-ascii) - It is a simple python package to play videos in the terminal using characters as pixels
 - [term2048](https://github.com/bfontaine/term2048) - :tada: 2048 in your terminal
@@ -4946,6 +5056,13 @@
 
 ## Ruby 
 
+- [dockrails](https://github.com/gmontard/dockrails) - Simple CLI to Generate and Run a Rails environment with Docker (in Development) !
+- [tty-command](https://github.com/piotrmurach/tty-command) - Execute shell commands with pretty output logging and capture stdout, stderr and exit status.
+- [to_lang](https://github.com/jimmycuadra/to_lang) - Translate Ruby strings and arrays with Google Translate.
+- [beats](https://github.com/jstrait/beats) - A command-line drum machine. Convert a beat notated in YAML into a *.wav file.
+- [terjira](https://github.com/keepcosmos/terjira) - Terjira is a very interactive and easy to use CLI tool for Jira.
+- [gem-release](https://github.com/svenfuchs/gem-release) - Release your ruby gems with ease.
+- [friends](https://github.com/JacobEvelyn/friends) - Spend time with the people you care about. Introvert-tested. Extrovert-approved.
 - [aruba](https://github.com/cucumber/aruba) - Test command-line applications with Cucumber-Ruby, RSpec or Minitest. The most up to date documentation can be found on Cucumber.Pro (https://app.cucumber.pro/projects/aruba)
 - [tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt
 - [tty](https://github.com/piotrmurach/tty) - Toolbox for developing CLI clients.
@@ -5057,6 +5174,14 @@
 
 ## Rust 
 
+- [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
+- [miniserve](https://github.com/svenstaro/miniserve) - :star2: For when you really just want to serve some files over HTTP right now!
+- [sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
+- [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs
+- [diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
+- [rustfix](https://github.com/rust-lang-nursery/rustfix) - Automatically apply the suggestions made by rustc
+- [cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
+- [websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [peep](https://github.com/ryochack/peep) - The CLI text viewer tool that works like less command on small pane within the terminal window.
 - [tokei](https://github.com/Aaronepower/tokei) - A program that allows you to count your code, quickly.
@@ -5184,6 +5309,8 @@
 
 ## Shell 
 
+- [things.sh](https://github.com/AlexanderWillner/things.sh) - Simple read-only comand-line interface to your Things 3 database
+- [php-7-debian](https://github.com/kasparsd/php-7-debian) - Install PHP 7 on Debian/Ubuntu
 - [tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [Learning-Bitcoin-from-the-Command-Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line) - The best way to learn to learn deeply about bitcoin is to avoid GUIs (even bitcoin-qt), and instead learn it from the command line.
 - [polybar-scripts](https://github.com/x70b1/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
@@ -5448,6 +5575,10 @@
 
 - [sml-redprl](https://github.com/RedPRL/sml-redprl) - The People's Refinement Logic
 
+## Tcl 
+
+- [sqawk](https://github.com/dbohdan/sqawk) - Like Awk, but with SQL and table joins
+
 ## TeX 
 
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
@@ -5488,6 +5619,8 @@
 
 ## TypeScript 
 
+- [graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - 🕵️‍♀️ Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage
+- [fly](https://github.com/superfly/fly) - Fly is a runtime for global applications. Use it to build CDNs, smart proxy applications, and be a little more geo-neutral.
 - [copee](https://github.com/styfle/copee) - 📄 Copy text from browser to clipboard...natively! &lt; 1kB
 - [graphql-cli](https://github.com/graphql-cli/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
 - [cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
