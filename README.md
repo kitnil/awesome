@@ -132,6 +132,8 @@
 
 ## C 
 
+- [megatools](https://github.com/megous/megatools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
+- [dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
 - [yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [raylib-lua](https://github.com/raysan5/raylib-lua) - A simple and easy-to-use Lua library to enjoy videogames programming
 - [octoon](https://github.com/octoon/octoon) - Modern C++ Game Engine with Entity Component System Framework
@@ -633,6 +635,9 @@
 
 ## C++ 
 
+- [stepmania](https://github.com/stepmania/stepmania) - Advanced rhythm game for Windows, Linux and OS X. Designed for both home and arcade use.
+- [livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
+- [ulisp-esp](https://github.com/technoblogy/ulisp-esp) - A version of the Lisp programming language for ESP8266 and ESP32-based boards
 - [Nuclear-Engine](https://github.com/Zone-organization/Nuclear-Engine) - Fast, customizable, cross-platform game engine powered by Nuclear Fuel! 🚀♨🔥
 - [thunder](https://github.com/eprikazchikov/thunder) - An open source game engine is written in C++ with a flexible architecture
 - [azteroids](https://github.com/rodrigosetti/azteroids) - Simple Asteroids game in C++ and OpenGL
@@ -2507,6 +2512,29 @@
 
 ## Go 
 
+- [boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
+- [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+- [cli](https://github.com/dnote/cli) - Capture what you learn without leaving the command line
+- [slackcat](https://github.com/bcicen/slackcat) - CLI utility to post files and command output to slack
+- [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
+- [survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive prompts with full support for windows and posix terminals.
+- [cli](https://github.com/docker/cli) - The Docker CLI
+- [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line interface
+- [grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines
+- [nanobox](https://github.com/nanobox-io/nanobox) - The ideal platform for developers
+- [rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH
+- [athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
+- [gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go (golang) struct definitions from example JSON
+- [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
+- [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
+- [promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
+- [httplab](https://github.com/gchaincl/httplab) - The interactive web server
+- [bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
+- [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
+- [ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
+- [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
+- [jid](https://github.com/simeji/jid) - json incremental digger
+- [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
 - [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go
 - [rss](https://github.com/SlyMarbo/rss) - A Go library for fetching, parsing, and updating RSS feeds.
 - [learn-opengl-golang](https://github.com/raedatoui/learn-opengl-golang) - Learn OpenGL Tutorials in Go
@@ -2585,7 +2613,7 @@
 - [vfsgen](https://github.com/shurcooL/vfsgen) - Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it.
 - [gx](https://github.com/whyrusleeping/gx) - A package management tool
 - [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
-- [whalebrew](https://github.com/bfirsh/whalebrew) - Homebrew, but with Docker images
+- [whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [cloud-print-connector](https://github.com/google/cloud-print-connector) - Google Cloud Print Connector
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [git-bug](https://github.com/MichaelMure/git-bug) - Distributed bug tracker embedded in Git
@@ -2677,6 +2705,8 @@
 
 ## HTML 
 
+- [blockshell](https://github.com/daxeel/blockshell) - 🎉  Minimal Blockchain Learning CLI
+- [lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) - This project is intended to protest against the police in Japan
 - [renpyweb](https://github.com/renpy/renpyweb) - Ren'Py in your HTML5 web browser
 - [python-goose](https://github.com/grangier/python-goose) - Html Content / Article Extractor, web scrapping lib in Python
 - [railsgirls.github.io](https://github.com/railsgirls/railsgirls.github.io) - Rails Girls Guides
@@ -2739,6 +2769,7 @@
 - [pykwiki](https://github.com/nullism/pykwiki) - PyKwiki, a static file Python MarkDown wiki rendered by Jinja2
 - [elegant](https://github.com/Pelican-Elegant/elegant) - A responsive, minimal, and stylish theme for Pelican
 - [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
+- [yasnippet-snippets](https://github.com/AndreaCrotti/yasnippet-snippets) - a collection of yasnippet snippets for many languages
 - [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 
 ## Haskell 
@@ -2816,6 +2847,8 @@
 
 ## Java 
 
+- [bt](https://github.com/atomashpolskiy/bt) - Java BitTorrent library with DHT, magnet links, encryption and more
+- [influxdb-plugin](https://github.com/jenkinsci/influxdb-plugin) - Jenkins plugin to send build metrics into InfluxDB
 - [oreon-engine](https://github.com/fynnfluegge/oreon-engine) - OpenGL/Vulkan Java 3D Engine
 - [guacamole-client](https://github.com/glyptodon/guacamole-client) - The Guacamole project is now Apache Guacamole (http://guacamole.apache.org/). This repository has been repurposed as the base for the Apache Guacamole packages built for Glyptodon Enterprise.
 - [Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
@@ -2886,6 +2919,12 @@
 
 ## JavaScript 
 
+- [coinmon](https://github.com/bichenkk/coinmon) - 💰  The cryptocurrency price tool on CLI. 🖥
+- [dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
+- [hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
+- [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
+- [serve](https://github.com/zeit/serve) - Static file serving and directory listing
+- [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [llthw](https://github.com/LispTO/llthw) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -2939,7 +2978,7 @@
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [DoodleMaster](https://github.com/karanchahal/DoodleMaster) - "Don't code your UI, Draw  it !"
 - [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts.
-- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
+- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥(Wow That's Fantastic)
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [percollate](https://github.com/danburzo/percollate) - 🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs
 - [writefreely](https://github.com/writeas/writefreely) - A simple, federated blogging platform. Written in Go.
@@ -3455,6 +3494,7 @@
 
 ## Others 
 
+- [You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
 - [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) - List of awesome application software built with Common Lisp
 - [Lindbergh-Emulator](https://github.com/JayFoxRox/Lindbergh-Emulator) - A Sega Lindbergh environment / HLE for Linux
@@ -3862,6 +3902,9 @@
 
 ## PHP 
 
+- [cli-menu](https://github.com/php-school/cli-menu) - 🖥  Build beautiful PHP CLI menus. Simple yet Powerful. Expressive DSL.
+- [drush](https://github.com/drush-ops/drush) - Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.
+- [console](https://github.com/symfony/console) - The Console component eases the creation of beautiful and testable command line interfaces.
 - [oneye](https://github.com/oneye/oneye) - 
 - [alltube](https://github.com/Rudloff/alltube) - HTML GUI for youtube-dl
 - [MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
@@ -3993,6 +4036,18 @@
 
 ## Python 
 
+- [radon](https://github.com/rubik/radon) - Various code metrics for Python code
+- [mongoaudit](https://github.com/stampery/mongoaudit) - 🔥 A powerful MongoDB auditing and pentesting tool 🔥
+- [aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
+- [s-tui](https://github.com/amanusk/s-tui) - Terminal based CPU stress and monitoring utility
+- [riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
+- [FeelUOwn](https://github.com/cosven/FeelUOwn) - trying to be a user-friendly and hackable music player
+- [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Find usernames across social networks
+- [q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
+- [click](https://github.com/pallets/click) - Python composable command line interface toolkit
+- [tqdm](https://github.com/tqdm/tqdm) - A fast, extensible progress bar for Python and CLI
+- [ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [hpython](https://github.com/qfpl/hpython) - Haskell language tools for Python
 - [gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [knock](https://github.com/guelfoweb/knock) - Knock Subdomain Scan
 - [pyEarth](https://github.com/afourmy/pyEarth) - :globe_with_meridians: A lightweight 3D visualization of the earth in 150 lines of Qt/OpenGL
@@ -4850,6 +4905,8 @@
 
 ## Ruby 
 
+- [tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt
+- [tty](https://github.com/piotrmurach/tty) - Toolbox for developing CLI clients.
 - [lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [feedbin](https://github.com/feedbin/feedbin) - RSS Reader
 - [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -4958,6 +5015,10 @@
 
 ## Rust 
 
+- [tokei](https://github.com/Aaronepower/tokei) - A program that allows you to count your code, quickly.
+- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+- [wasp](https://github.com/wasplang/wasp) - a web assembly Lisp programming language
 - [rust-belt](https://github.com/johnthagen/rust-belt) - :rocket: Asteroids-like arcade game implemented in Rust ✨
 - [galacritty](https://github.com/myfreeweb/galacritty) - WIP GTK terminal emulator based on Alacritty
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -5381,6 +5442,8 @@
 
 ## TypeScript 
 
+- [graphql-cli](https://github.com/graphql-cli/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
+- [cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [web](https://github.com/pikapkg/web) - :package: :sparkles: Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
 - [nni](https://github.com/Microsoft/nni) - An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.
 - [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
@@ -5465,6 +5528,7 @@
 
 ## Vue 
 
+- [whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - An Electron based Mastodon and Pleroma client for Windows, Mac and Linux
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
@@ -5481,7 +5545,6 @@
 - [emacs-snippets](https://github.com/hlissner/emacs-snippets) - My elves. They type so I don't have to.
 - [common-lisp-snippets](https://github.com/mrkkrp/common-lisp-snippets) - Yasnippets for Common Lisp
 - [react-snippets.el](https://github.com/johnmastro/react-snippets.el) - Yasnippets for React
-- [yasnippet-snippets](https://github.com/AndreaCrotti/yasnippet-snippets) - a collection of yasnippet snippets for many languages
 
 
 ## License
