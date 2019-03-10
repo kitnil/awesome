@@ -134,6 +134,7 @@
 
 ## C 
 
+- [slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [saldl](https://github.com/saldl/saldl) - A lightweight well-featured CLI downloader optimized for speed and early preview.
 - [grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
 - [stag](https://github.com/seenaburns/stag) - Streaming bar graphs. For stats and stuff.
@@ -977,6 +978,7 @@
 
 ## CSS 
 
+- [markserv](https://github.com/markserv/markserv) - 🏁  serve markdown as html (GitHub style), index directories, live-reload as you edit
 - [MIT_OCW_Linear_Algebra_18_06](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - IPython notebooks on Gilbert Strang's MIT course on linear algebra (18.06)
 - [whmcs-addon](https://github.com/gogetssl/whmcs-addon) - GOGETSSL WHMCS SSL Addon
 - [ClassicThemeRestorer](https://github.com/Aris-t2/ClassicThemeRestorer) - Classic Theme Restorer for Australis UI
@@ -1871,7 +1873,7 @@
 - [circadian.el](https://github.com/guidoschmidt/circadian.el) - Theme-switching for Emacs based on daytime
 - [emacs-pug-mode](https://github.com/hlissner/emacs-pug-mode) - Pug support for Emacs, based on slim-mode.
 - [danneskjold-theme](https://github.com/rails-to-cosmos/danneskjold-theme) - Beautiful high-contrast emacs theme
-- [.emacs.d](https://github.com/junjiemars/.emacs.d) - more reasonable Emacs on MacOS, Windows and Linux
+- [.emacs.d](https://github.com/junjiemars/.emacs.d) - More Reasonable Emacs on MacOS, Windows and Linux
 - [go-playground](https://github.com/grafov/go-playground) - GNU/Emacs mode that setup local Go playground for code snippets like play.golang.org or even better :)
 - [helm-describe-modes](https://github.com/emacs-helm/helm-describe-modes) - Major and minor mode info with Helm
 - [eros](https://github.com/xiongtx/eros) - Evaluation Result OverlayS for Emacs Lisp.
@@ -2531,6 +2533,25 @@
 
 ## Go 
 
+- [go-rainbow](https://github.com/raphamorim/go-rainbow) - Golang Helper for beautiful CLI Applications
+- [conget](https://github.com/monirz/conget) - A CLI app for downloading file concurrently.
+- [cert](https://github.com/genkiroid/cert) - Cert is the Go tool to get TLS certificate information.
+- [sharecmd](https://github.com/mschneider82/sharecmd) - Cmdline tool written in Golang to share file links using cloud providers like dropbox, googledrive, seafile, nextcloud
+- [go-quote](https://github.com/markcheno/go-quote) - Yahoo finance/Google finance/Coinbase/Bittrex/Binance/Tiingo historical quote downloader library and cli written in golang
+- [drone-ssh](https://github.com/appleboy/drone-ssh) - Drone plugin for executing remote ssh commands
+- [go-gitlab-client](https://github.com/plouc/go-gitlab-client) - A Go gitlab API client & powerful CLI written in Go
+- [gql](https://github.com/slothking-online/gql) - Very simple CLI for many GraphQL schemas in the cloud. Provides autocompletion for GraphQL queries
+- [promplot](https://github.com/qvl/promplot) - Create plots from Prometheus metrics and send them to you
+- [gitlab-copy](https://github.com/gotsunami/gitlab-copy) - Batch copy issues between GitLab instances, with some cool features
+- [jv](https://github.com/maxzender/jv) - Helps you view JSON on the command-line.
+- [klepto](https://github.com/hellofresh/klepto) - Klepto is a tool for copying and anonymising data
+- [token-ticker](https://github.com/polyrabbit/token-ticker) - 📈Track token prices and changes in your favorite exchanges on the terminal
+- [ruler](https://github.com/sensepost/ruler) - A tool to abuse Exchange services
+- [staert](https://github.com/containous/staert) - Merge your configuration sources
+- [osm](https://github.com/appscode/osm) - 🚚 ☁️ Object Store Manipulator - curl for cloud storage
+- [certok](https://github.com/genuinetools/certok) - Command line tool to check the validity and expiration dates of SSL certificates.
+- [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
+- [madonctl](https://github.com/McKael/madonctl) - CLI client for the Mastodon social network API
 - [headlessChrome](https://github.com/integrii/headlessChrome) - A Go package for working with headless Chrome.  Run interactive JavaScript commands on web pages with Go and Chrome.
 - [benchttp](https://github.com/siadat/benchttp) - HTTP server benchmarking tool
 - [ovpm](https://github.com/cad/ovpm) - OpenVPN Management Server - Effortless and free OpenVPN server administration
@@ -3022,6 +3043,16 @@
 
 ## JavaScript 
 
+- [gdpr-cli](https://github.com/mirkoschubert/gdpr-cli) - A command line tool for checking your website for GDPR compliance.
+- [ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 130 bitcoin/altcoin exchanges
+- [cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert Currency Rates using your terminal!
+- [jutil](https://github.com/misterfifths/jutil) - Command-line utilities for manipulating JSON
+- [jsonfui](https://github.com/AdrianSchneider/jsonfui) - jsonfui is an interactive command-line JSON viewer.
+- [json-2-csv](https://github.com/mrodrig/json-2-csv) - A JSON to CSV and CSV to JSON converter that natively supports subdocuments and auto-generates a heading.
+- [whereami](https://github.com/rafaelrinaldi/whereami) - :round_pushpin: Get your geolocation information using freegeoip.app
+- [wikidata-cli](https://github.com/maxlath/wikidata-cli) - read and edit Wikidata from the command line
+- [urcli](https://github.com/trolster/urcli) - CLI tool for the Udacity Reviews API
+- [trino](https://github.com/eneserdogan/trino) - Trino: Master your translations with command line!
 - [jsonexport](https://github.com/kauegimenes/jsonexport) - :page_facing_up: Makes easy to convert JSON to CSV
 - [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects
 - [whatspup](https://github.com/sarfraznawaz2005/whatspup) - :white_square_button: WhatsApp chat from commandline/console/cli using GoogleChrome puppeteer
@@ -3565,6 +3596,7 @@
 
 ## Makefile 
 
+- [apk-file](https://github.com/genuinetools/apk-file) - Search apk package contents via the command line.
 - [c-overview](https://github.com/dreadl0ck/c-overview) - A Basic Overview for the C Programming Language, with code examples and a cheatsheet
 - [awesome-cl](https://github.com/CodyReichert/awesome-cl) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 - [exwm-gnome-flashback](https://github.com/WJCFerguson/exwm-gnome-flashback) - Support files for starting EXWM (the Emacs X Window Manager) in a GNOME-Flashback session
@@ -3637,6 +3669,7 @@
 
 ## Others 
 
+- [nord-xresources](https://github.com/arcticicestudio/nord-xresources) - An arctic, north-bluish clean and elegant Xresources color theme.
 - [bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right!
 - [curriculum](https://github.com/HackYourFuture/curriculum) - Overview of the HackYourFuture program.
 - [awesome-toolkits](https://github.com/reyronald/awesome-toolkits) - A curated list of open source, high-quality, popular and well maintained "zero-configuration" (#0CJS) toolkits
@@ -4050,6 +4083,8 @@
 
 ## PHP 
 
+- [keep-a-changelog](https://github.com/phly/keep-a-changelog) - Tools for manipulating CHANGELOG.md files in Keep A Changelog format, including tagging and releasing.
+- [msgphp](https://github.com/msgphp/msgphp) - Message based domain layers. Shipped with industry standard infrastructure.
 - [command](https://github.com/tarsana/command) - A library to build command line applications using PHP
 - [php-console](https://github.com/inhere/php-console) - PHP CLI application library, provide console argument parse, console controller/command run, color style, user interactive, format information show and more.  功能全面的PHP命令行应用库。提供控制台参数解析, 命令运行，颜色风格输出, 用户信息交互, 特殊格式信息显示
 - [getopt-php](https://github.com/getopt-php/getopt-php) - A PHP library for command-line argument processing
@@ -4127,6 +4162,8 @@
 
 ## Perl 
 
+- [vidir](https://github.com/trapd00r/vidir) - edit directory in $EDITOR (better than vim . with netrw)
+- [stow](https://github.com/aspiers/stow) - GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches
 - [vbscan](https://github.com/rezasp/vbscan) - OWASP VBScan is a Black Box vBulletin Vulnerability Scanner
 - [zbx-smartctl](https://github.com/v-zhuravlev/zbx-smartctl) - Templates and scripts for monitoring disks health with Zabbix and smartmontools
 - [git-spark](https://github.com/kablamo/git-spark) - Plot your commit history on the command line with sparklines.  A mash up of git and spark and Perl.
@@ -4198,6 +4235,13 @@
 
 ## Python 
 
+- [tsrc](https://github.com/TankerHQ/tsrc) - Manage several git repositories / review automation
+- [csv2ofx](https://github.com/reubano/csv2ofx) - A Python library and command line tool for converting csv to ofx and qif files
+- [colorize](https://github.com/lonetwin/colorize) - *nixy filter that adds color to its standard input by rows or columns
+- [python-draftlog](https://github.com/cooperhammond/python-draftlog) - :scroll: Update your previous lines in the terminal.
+- [cum](https://github.com/Hamuko/cum) - comic updater, mangafied
+- [pubs](https://github.com/pubs/pubs) - Your bibliography on the command line
+- [pipenv-pipes](https://github.com/gtalarico/pipenv-pipes) - A PipEnv Environment Switcher
 - [git-hub](https://github.com/sociomantic-tsunami/git-hub) - Git command line interface to GitHub
 - [python-cfonts](https://github.com/frostming/python-cfonts) - Sexy fonts for the console
 - [image-bootstrap](https://github.com/hartwork/image-bootstrap) - :partly_sunny: Creates (chroots and) bootable virtual machine images; command line tool (Python)
@@ -5131,6 +5175,7 @@
 
 ## Ruby 
 
+- [goby](https://github.com/nskins/goby) - Command-line role-playing game framework
 - [reveal-ck](https://github.com/jedcn/reveal-ck) - Create slides with markdown
 - [tty-markdown](https://github.com/piotrmurach/tty-markdown) - Convert a markdown document or text into a terminal friendly output.
 - [dockrails](https://github.com/gmontard/dockrails) - Simple CLI to Generate and Run a Rails environment with Docker (in Development) !
@@ -5251,6 +5296,10 @@
 
 ## Rust 
 
+- [fastar](https://github.com/the8472/fastar) - Fast tar archiver
+- [ddh](https://github.com/darakian/ddh) - Manage duplicate files
+- [procs](https://github.com/dalance/procs) - A modern replacement for ps written by Rust
+- [cli](https://github.com/share-secrets-safely/cli) - share secrets within teams to avoid plain-text secrets from day one
 - [fui](https://github.com/xliiv/fui) - Add CLI & form interface to your program. Docs: https://docs.rs/fui/0.9.0/fui/
 - [alert-after](https://github.com/frewsxcv/alert-after) - Get a desktop notification after a command finishes executing.
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
@@ -5389,6 +5438,9 @@
 
 ## Shell 
 
+- [nord-gnome-terminal](https://github.com/arcticicestudio/nord-gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
+- [has](https://github.com/kdabir/has) - checks presence of various command line tools and their versions on the path
+- [simplesh](https://github.com/rafaelstz/simplesh) - :penguin: Quick installation for Ubuntu terminal.
 - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - :rocket: Quickly open urls on terminal screen!
 - [forgit](https://github.com/wfxr/forgit) - :zzz: Fuzzy git
 - [xcv](https://github.com/busterc/xcv) - :scissors: Cut, Copy and Paste files with Bash
