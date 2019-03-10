@@ -132,6 +132,7 @@
 
 ## C 
 
+- [mle](https://github.com/adsr/mle) - A flexible terminal-based text editor (C)
 - [megatools](https://github.com/megous/megatools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
 - [dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
 - [yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
@@ -635,6 +636,9 @@
 
 ## C++ 
 
+- [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Commandline Task Management
+- [fltrdr](https://github.com/octobanana/fltrdr) - A TUI text reader for the terminal.
+- [TextBoxes](https://github.com/MhLiao/TextBoxes) - TextBoxes: A Fast Text Detector with a Single Deep Neural Network
 - [stepmania](https://github.com/stepmania/stepmania) - Advanced rhythm game for Windows, Linux and OS X. Designed for both home and arcade use.
 - [livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [ulisp-esp](https://github.com/technoblogy/ulisp-esp) - A version of the Lisp programming language for ESP8266 and ESP32-based boards
@@ -1020,6 +1024,7 @@
 
 ## Clojure 
 
+- [MoonDweller](https://github.com/buntine/MoonDweller) - A text-based adventure. You will definitely die.
 - [klipse](https://github.com/viebel/klipse) - A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent, lua, ocaml, reasonml, prolog, common lisp
 - [riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [stream2es](https://github.com/elastic/stream2es) - Stream data into ES (Wikipedia, Twitter, stdin, or other ESes)
@@ -1159,6 +1164,7 @@
 ## DIGITAL Command Language 
 
 - [blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files
+- [repo](https://github.com/FZUG/repo) - Fedora 中文社区软件源
 - [repo](https://github.com/FZUG/repo) - Fedora 中文社区软件源
 
 ## Dart 
@@ -2512,6 +2518,13 @@
 
 ## Go 
 
+- [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
+- [weather](https://github.com/genuinetools/weather) - Weather via the command line.
+- [ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
+- [reviewdog](https://github.com/haya14busa/reviewdog) - :dog: Automated code review tool integrated with any code analysis tools regardless of programming language
+- [a](https://github.com/as/a) - A graphical text editor
+- [nlp](https://github.com/shixzie/nlp) - [UNMANTEINED] Extract values from strings and fill your structs with nlp.
+- [render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
 - [boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [cli](https://github.com/dnote/cli) - Capture what you learn without leaving the command line
@@ -2774,6 +2787,7 @@
 
 ## Haskell 
 
+- [unused](https://github.com/joshuaclayton/unused) - A command line tool to identify unused code.
 - [xmobar](https://github.com/jaor/xmobar) - A minimalistic, mostly text-based status bar
 - [X11](https://github.com/xmonad/X11) - A Haskell binding to the X11 graphics library.
 - [greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
@@ -2847,6 +2861,8 @@
 
 ## Java 
 
+- [turbo-editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android. All is licensed under the GPLv3 license.
+- [PDFLayoutTextStripper](https://github.com/JonathanLink/PDFLayoutTextStripper) - Converts a pdf file into a text file while keeping the layout of the original pdf. Useful to extract the content from a table in a pdf file for instance. This is a subclass of PDFTextStripper class (from the Apache PDFBox library).
 - [bt](https://github.com/atomashpolskiy/bt) - Java BitTorrent library with DHT, magnet links, encryption and more
 - [influxdb-plugin](https://github.com/jenkinsci/influxdb-plugin) - Jenkins plugin to send build metrics into InfluxDB
 - [oreon-engine](https://github.com/fynnfluegge/oreon-engine) - OpenGL/Vulkan Java 3D Engine
@@ -2919,6 +2935,10 @@
 
 ## JavaScript 
 
+- [life-commit](https://github.com/ByronHsu/life-commit) - 🏃📆  Life as a git. Commit on your life.
+- [clean-mark](https://github.com/croqaz/clean-mark) - Convert an article into a clean text
+- [node-html-to-text](https://github.com/werk85/node-html-to-text) - Advanced html to text converter
+- [baffle](https://github.com/camwiegert/baffle) - A tiny javascript library for obfuscating and revealing text in DOM elements. :astonished:
 - [coinmon](https://github.com/bichenkk/coinmon) - 💰  The cryptocurrency price tool on CLI. 🖥
 - [dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
@@ -3182,6 +3202,7 @@
 - [lbry-desktop](https://github.com/lbryio/lbry-desktop) - A browser and wallet for LBRY, the decentralized, user-controlled content marketplace.
 - [emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
 - [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
+- [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system
 - [codebox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
@@ -3344,6 +3365,9 @@
 
 ## Jupyter Notebook 
 
+- [headlines](https://github.com/udibr/headlines) - Automatically generate headlines to short articles
+- [pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank for text document NLP parsing and summarization
+- [adjustText](https://github.com/Phlya/adjustText) - A small library for automatically adjustment of text position in matplotlib plots to minimize overlaps.
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [roguelike-universe](https://github.com/Spaxe/roguelike-universe) - Understanding game design inspiration of roguelike games via web scraping and network analysis.
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
@@ -3494,6 +3518,8 @@
 
 ## Others 
 
+- [russian_news_corpus](https://github.com/maxoodf/russian_news_corpus) - Russian mass media stemmed texts corpus / Корпус лемматизированных (морфологически нормализованных) текстов российских СМИ
+- [portabletext](https://github.com/portabletext/portabletext) - Portable Text is a JSON based rich text specification for modern content editing platforms.
 - [You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
 - [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) - List of awesome application software built with Common Lisp
@@ -3902,6 +3928,8 @@
 
 ## PHP 
 
+- [pdf-to-text](https://github.com/spatie/pdf-to-text) - Extract text from a pdf
+- [drupal-console](https://github.com/hechoendrupal/drupal-console) - The Drupal CLI. A tool to generate boilerplate code, interact with and debug Drupal.
 - [cli-menu](https://github.com/php-school/cli-menu) - 🖥  Build beautiful PHP CLI menus. Simple yet Powerful. Expressive DSL.
 - [drush](https://github.com/drush-ops/drush) - Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.
 - [console](https://github.com/symfony/console) - The Console component eases the creation of beautiful and testable command line interfaces.
@@ -4036,6 +4064,18 @@
 
 ## Python 
 
+- [BoopSuite](https://github.com/MisterBianco/BoopSuite) - A Suite of Tools written in Python for wireless auditing and security testing.
+- [video-to-ascii](https://github.com/joelibaceta/video-to-ascii) - It is a simple python package to play videos in the terminal using characters as pixels
+- [term2048](https://github.com/bfontaine/term2048) - :tada: 2048 in your terminal
+- [pg_activity](https://github.com/julmon/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
+- [lexrank](https://github.com/crabcamp/lexrank) - LexRank algorithm for text summarization
+- [pangu.py](https://github.com/vinta/pangu.py) - Paranoid text spacing in Python
+- [cucco](https://github.com/davidmogar/cucco) - Text normalization library for Python
+- [tf_audio_steganalysis](https://github.com/Charleswyt/tf_audio_steganalysis) - Audio steganalysis  with tensorflow1.3 or later
+- [artificial-adversary](https://github.com/airbnb/artificial-adversary) - 🗣️ Tool to generate adversarial text examples and test machine learning models against them
+- [crayons](https://github.com/kennethreitz/crayons) - Text UI colors for Python.
+- [lmdb-embeddings](https://github.com/ThoughtRiver/lmdb-embeddings) - Fast word vectors with little memory usage in Python
+- [TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
 - [radon](https://github.com/rubik/radon) - Various code metrics for Python code
 - [mongoaudit](https://github.com/stampery/mongoaudit) - 🔥 A powerful MongoDB auditing and pentesting tool 🔥
 - [aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
@@ -4868,6 +4908,7 @@
 
 ## R 
 
+- [ggrepel](https://github.com/slowkow/ggrepel) - :round_pushpin: Repel overlapping text labels away from each other.
 - [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
 - [evaluate](https://github.com/r-lib/evaluate) - A version of eval for R that returns more information about what happened
 - [pillar](https://github.com/r-lib/pillar) - Format columns with colour
@@ -4905,6 +4946,7 @@
 
 ## Ruby 
 
+- [aruba](https://github.com/cucumber/aruba) - Test command-line applications with Cucumber-Ruby, RSpec or Minitest. The most up to date documentation can be found on Cucumber.Pro (https://app.cucumber.pro/projects/aruba)
 - [tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt
 - [tty](https://github.com/piotrmurach/tty) - Toolbox for developing CLI clients.
 - [lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
@@ -5015,6 +5057,8 @@
 
 ## Rust 
 
+- [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
+- [peep](https://github.com/ryochack/peep) - The CLI text viewer tool that works like less command on small pane within the terminal window.
 - [tokei](https://github.com/Aaronepower/tokei) - A program that allows you to count your code, quickly.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
@@ -5140,6 +5184,8 @@
 
 ## Shell 
 
+- [tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
+- [Learning-Bitcoin-from-the-Command-Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line) - The best way to learn to learn deeply about bitcoin is to avoid GUIs (even bitcoin-qt), and instead learn it from the command line.
 - [polybar-scripts](https://github.com/x70b1/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [Envisaged](https://github.com/utensils/Envisaged) - Envisaged - Effortless Gource Visualizations with Docker
 - [geom](https://github.com/thi-ng/geom) - 2D/3D geometry toolkit for Clojure/Clojurescript
@@ -5442,6 +5488,7 @@
 
 ## TypeScript 
 
+- [copee](https://github.com/styfle/copee) - 📄 Copy text from browser to clipboard...natively! &lt; 1kB
 - [graphql-cli](https://github.com/graphql-cli/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
 - [cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [web](https://github.com/pikapkg/web) - :package: :sparkles: Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
