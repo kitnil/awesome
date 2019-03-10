@@ -2531,6 +2531,7 @@
 
 ## Go 
 
+- [headlessChrome](https://github.com/integrii/headlessChrome) - A Go package for working with headless Chrome.  Run interactive JavaScript commands on web pages with Go and Chrome.
 - [benchttp](https://github.com/siadat/benchttp) - HTTP server benchmarking tool
 - [ovpm](https://github.com/cad/ovpm) - OpenVPN Management Server - Effortless and free OpenVPN server administration
 - [ghbackup](https://github.com/qvl/ghbackup) - Embarrassingly simple GitHub backup tool
@@ -4197,6 +4198,8 @@
 
 ## Python 
 
+- [git-hub](https://github.com/sociomantic-tsunami/git-hub) - Git command line interface to GitHub
+- [python-cfonts](https://github.com/frostming/python-cfonts) - Sexy fonts for the console
 - [image-bootstrap](https://github.com/hartwork/image-bootstrap) - :partly_sunny: Creates (chroots and) bootable virtual machine images; command line tool (Python)
 - [grafcli](https://github.com/m110/grafcli) - Grafana CLI for quick and easy dashboards management.
 - [aptos](https://github.com/pennsignals/aptos) - :sunny: A tool for validating data using JSON Schema and converting JSON Schema documents into different data-interchange formats
@@ -5386,6 +5389,7 @@
 
 ## Shell 
 
+- [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - :rocket: Quickly open urls on terminal screen!
 - [forgit](https://github.com/wfxr/forgit) - :zzz: Fuzzy git
 - [xcv](https://github.com/busterc/xcv) - :scissors: Cut, Copy and Paste files with Bash
 - [netctl](https://github.com/joukewitteveen/netctl) - Profile based systemd network management
@@ -5703,6 +5707,7 @@
 
 ## TypeScript 
 
+- [scaffdog](https://github.com/cats-oss/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
 - [npmvet](https://github.com/harksys/npmvet) - A simple CLI tool for vetting npm package versions
 - [graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - 🕵️‍♀️ Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage
 - [fly](https://github.com/superfly/fly) - Fly is a runtime for global applications. Use it to build CDNs, smart proxy applications, and be a little more geo-neutral.
