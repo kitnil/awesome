@@ -212,7 +212,7 @@
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
 - [Interplanetary-Postal-Service](https://github.com/s-macke/Interplanetary-Postal-Service) - Lunar lander type game with computational fluid dynamics
-- [smenu](https://github.com/p-gen/smenu) - Terminal utility that acts as a filter by reading words from standard input or from a file and creates an interactive selection window just below the cursor. The selection, once made, is sent to the standard output. More in the wiki
+- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from the standard input or from a file and creates an interactive selection window just below the cursor. The selected words are then sent to the standard output. More in the wiki.
 - [M2-Planet](https://github.com/oriansj/M2-Planet) - The PLAtform NEutral Transpiler
 - [ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
 - [litetree](https://github.com/aergoio/litetree) - SQLite with Branches
@@ -1307,7 +1307,7 @@
 - [flycheck-inline](https://github.com/flycheck/flycheck-inline) - Display Flycheck errors inline
 - [right-click-context](https://github.com/zonuexe/right-click-context) - Emacs Right Click Context menu
 - [ivy-explorer](https://github.com/clemera/ivy-explorer) - Dynamic file browsing grid for Emacs
-- [auto-rename-tag](https://github.com/jcs090218/auto-rename-tag) - Automatically rename paired HTML/XML tag.
+- [auto-rename-tag](https://github.com/elpa-host/auto-rename-tag) - Automatically rename paired HTML/XML tag.
 - [highlight-refontification](https://github.com/Lindydancer/highlight-refontification) - Visualize how font-lock refontifies a buffer
 - [podcaster](https://github.com/lujun9972/podcaster) - Emacs podcast client
 - [elisp-demos](https://github.com/xuchunyang/elisp-demos) - Demonstrate Emacs Lisp APIs
@@ -1381,7 +1381,7 @@
 - [evil-matchit](https://github.com/redguardtoo/evil-matchit) - Vim matchit ported into Emacs
 - [evil-fringe-mark](https://github.com/Andrew-William-Smith/evil-fringe-mark) - Display evil-mode markers in the Emacs fringe
 - [go-mode.el](https://github.com/dominikh/go-mode.el) - Emacs mode for the Go programming language
-- [use-ttf](https://github.com/jcs090218/use-ttf) - Ensure Emacs' font consistency across different OSs.
+- [use-ttf](https://github.com/elpa-host/use-ttf) - Ensure Emacs' font consistency across different OSs.
 - [sesman](https://github.com/vspinu/sesman) - Session manager for Emacs based IDEs.
 - [bicycle](https://github.com/tarsius/bicycle) - Cycle outline and code visibility
 - [org-listcruncher](https://github.com/dfeich/org-listcruncher) - Parse emacs org list contents into table
@@ -2111,7 +2111,6 @@
 - [ovpn-mode](https://github.com/anticomputer/ovpn-mode) - An openvpn management mode for emacs
 - [eacl](https://github.com/redguardtoo/eacl) - eacl - Emacs auto complete lines by grepping project
 - [org-mind-map](https://github.com/theodorewiles/org-mind-map) - This is an emacs package that creates graphviz directed graphs.
-- [org-mind-map](https://github.com/theodorewiles/org-mind-map) - This is an emacs package that creates graphviz directed graphs.
 - [bshell](https://github.com/plandes/bshell) - Manage and track multiple shells in Emacs buffers.
 - [choice-program](https://github.com/plandes/choice-program) - Invoke Programs With Choice Options
 - [nix-buffer](https://github.com/shlevy/nix-buffer) - nix-shell for emacs buffers
@@ -2595,6 +2594,8 @@
 
 ## Go 
 
+- [youtubeuploader](https://github.com/porjo/youtubeuploader) - Scripted uploads to Youtube
+- [justforfunc](https://github.com/campoy/justforfunc) - The repository for the YouTube series JustForFunc
 - [kapacitor](https://github.com/influxdata/kapacitor) - Open source framework for processing, monitoring, and alerting on time series data
 - [mahonia](https://github.com/axgle/mahonia) - character-set conversion library implemented in Go
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
@@ -2905,6 +2906,8 @@
 
 ## HTML 
 
+- [youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
+- [youtube-realtime](https://github.com/akshatmittal/youtube-realtime) - YouTube Realtime Subscriber Count
 - [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.
 - [archerysec](https://github.com/archerysec/archerysec) - Open Source Vulnerability Assessment and Management helps developers and pentesters to perform scans and manage vulnerabilities.
 - [dropcss](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner
@@ -3062,6 +3065,7 @@
 
 ## Java 
 
+- [SkyTube](https://github.com/ram-on/SkyTube) - An open-source YouTube app for Android.
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
 - [progressbar](https://github.com/ctongfei/progressbar) - Terminal-based progress bar for Java/JVM
@@ -3616,6 +3620,8 @@
 
 ## Jupyter Notebook 
 
+- [Python](https://github.com/joeyajames/Python) - Python code for YouTube videos.
+- [TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos
 - [Virgilio](https://github.com/clone95/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [headlines](https://github.com/udibr/headlines) - Automatically generate headlines to short articles
@@ -3652,6 +3658,7 @@
 
 ## Kotlin 
 
+- [VDM](https://github.com/ingbyr/VDM) - GUI for command-line video downloader (youtube-dl annie)
 - [awesome-conferences-database](https://github.com/aweconf/awesome-conferences-database) - 📲 A collaborative list of Conferences
 - [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - A lightweight Android browser with modern navigation
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
@@ -4363,6 +4370,9 @@
 
 ## Python 
 
+- [PasteHunter](https://github.com/kevthehermit/PasteHunter) - Scanning pastebin with yara rules
+- [youtube-audio-dl](https://github.com/jcalazan/youtube-audio-dl) - A Django web application for converting YouTube videos to MP3 audio.
+- [youtube](https://github.com/engineer-man/youtube) - Code from the Engineer Man YouTube channel
 - [feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [Python-crawler-tutorial-starts-from-zero](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero) - python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架
@@ -5287,7 +5297,6 @@
 
 - [Cutegram](https://github.com/Aseman-Land/Cutegram) - Cutegram is a telegram client by Aseman Land. It's forked from sigram.
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
-- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
 ## R 
 
@@ -5317,7 +5326,7 @@
 
 ## Rascal 
 
-- [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
+- [hosts](https://github.com/kelthuzadx/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
 
 ## Ring 
 
@@ -5597,6 +5606,8 @@
 
 ## Shell 
 
+- [youtubeadsblacklist](https://github.com/anudeepND/youtubeadsblacklist) - A list of YouTube video ad domains. (EXPERIMENTAL!)
+- [bash-http](https://github.com/rasguanabana/bash-http) - Because why not?
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [samba](https://github.com/dperson/samba) - Samba docker container
 - [StayAlive](https://github.com/mwitmer/StayAlive) - A roguelike game written in Guile Scheme
