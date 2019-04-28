@@ -138,6 +138,7 @@
 
 ## C 
 
+- [PackageKit](https://github.com/hughsie/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
 - [esos](https://github.com/quantum/esos) - An open source, high performance, block-level storage platform.
 - [rappel](https://github.com/yrp604/rappel) - A linux-based assembly REPL for x86, amd64, armv7, and armv8
 - [rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
@@ -664,6 +665,7 @@
 
 ## C++ 
 
+- [extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
 - [HyperDex](https://github.com/rescrv/HyperDex) - HyperDex is a scalable, searchable key-value store
 - [inspector](https://github.com/inspector-repl/inspector) - A drop-anywhere C++ REPL
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
@@ -1259,6 +1261,8 @@
 
 ## Emacs Lisp 
 
+- [awesome-tray](https://github.com/manateelazycat/awesome-tray) - Hide mode-line, display necessary information at right of minibuffer.
+- [ox-clip](https://github.com/jkitchin/ox-clip) - Copy formatted content from org-mode
 - [ejacs](https://github.com/emacsattic/ejacs) - 
 - [enlive](https://github.com/zweifisch/enlive) - query html document with css selectors in elisp
 - [double-saber](https://github.com/dp12/double-saber) - Filter search output with extreme prejudice
@@ -1768,7 +1772,7 @@
 - [treepy.el](https://github.com/volrath/treepy.el) - Generic tree traversing tools for Emacs Lisp
 - [unify-opening](https://github.com/DamienCassou/unify-opening) - Emacs package to make everything use the same mechanism to open files
 - [xwidgete](https://github.com/tuhdo/xwidgete) - Enhance usability for Xwidget browser in Emacs 25
-- [flyspell-correct](https://github.com/d12frosted/flyspell-correct) - Distraction-free words correction with flyspell via selected interface.
+- [flyspell-correct](https://github.com/d12frosted/flyspell-correct) - [mirror] Distraction-free words correction with flyspell via selected interface.
 - [elfeed-protocol](https://github.com/fasheng/elfeed-protocol) - Provide extra protocols to make like ownCloud News, Tiny Tiny RSS and NewsBlur works with elfeed
 - [ruby-extra-highlight](https://github.com/Lindydancer/ruby-extra-highlight) - Highlight Ruby parameters in Emacs
 - [simple-paren](https://github.com/andreas-roehler/simple-paren) - Insert paired delimiters, wrap symbols in front maybe
@@ -2631,6 +2635,11 @@
 
 ## Go 
 
+- [rest-server](https://github.com/restic/rest-server) - Rest Server is a high performance HTTP server that implements restic's REST backend API.
+- [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
+- [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
+- [elktail](https://github.com/knes1/elktail) - Command line utility to query, search and tail EL (elasticsearch, logstash) logs
+- [terminal-to-html](https://github.com/buildkite/terminal-to-html) - Converts arbitrary shell output (with ANSI) into beautifully rendered HTML
 - [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
 - [sup](https://github.com/pressly/sup) - Super simple deployment tool - think of it like 'make' for a network of servers
 - [bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
@@ -2957,6 +2966,7 @@
 
 ## HTML 
 
+- [magento-malware-scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest collection of Magento malware
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 - [water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer
 - [youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
@@ -3884,7 +3894,7 @@
 - [awesome-glsl](https://github.com/radixzz/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
 - [Guide-to-Modern-OpenGL-Functions](https://github.com/Fendroidus/Guide-to-Modern-OpenGL-Functions) - A guide to using modern OpenGL functions.
 - [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Awesome Vulkan ecosystem
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️(imho the best tmux configuration that just works)
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with (imho the best tmux configuration that just works)
 - [ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
 - [awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
 - [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -3900,7 +3910,7 @@
 - [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑(文末有内推)
 - [nginx-cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet) - A quick reference to common server configurations from serving static files to using in congruency with Node.js applications.
-- [Nginx-Admins-Handbook](https://github.com/trimstray/Nginx-Admins-Handbook) - These notes describes how to improve Nginx performance, security and other important things; @ssllabs A+ 100%.
+- [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - These notes describes how to improve Nginx performance, security and other important things; @ssllabs A+ 100%.
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [awesome-rofi](https://github.com/cjbassi/awesome-rofi) - A curated list of awesome rofi (and dmenu) applications
@@ -3979,7 +3989,7 @@
 - [awesome-contributing](https://github.com/mntnr/awesome-contributing) - Awesome contributing guides for open source development.
 - [awesome-cloud-native-tutorials](https://github.com/manifoldco/awesome-cloud-native-tutorials) - A curated list of tutorials and labs for learning cloud native concepts
 - [awesome-software-engineer-topics](https://github.com/voxsim/awesome-software-engineer-topics) - A list of useful articles and videos generated from my Instapaper archived list on Software Design, Testing, Public Speaking, etc.
-- [awesome-wysiwyg](https://github.com/JefMari/awesome-wysiwyg) - A curated list of awesome WYSIWYG editors
+- [awesome-wysiwyg](https://github.com/JefMari/awesome-wysiwyg) - A curated list of awesome WYSIWYG editors.
 - [I_Hate_WordPress](https://github.com/Nezteb/I_Hate_WordPress) - I used to hate Wordpress until I had created this repo. This is me documenting how to make WordPress not suck like everyone thinks it does.
 - [awesome-programming-presentations](https://github.com/techgaun/awesome-programming-presentations) - Presentations that programmers should watch
 - [Awesome-xkcd](https://github.com/caffeinewriter/Awesome-xkcd) - A curated list of implemented XKCD comics.
@@ -4283,6 +4293,11 @@
 
 ## PHP 
 
+- [php-markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.
+- [elasticsearch-php](https://github.com/elastic/elasticsearch-php) - Official PHP low-level client for Elasticsearch.
+- [dom-crawler](https://github.com/symfony/dom-crawler) - The DomCrawler component eases DOM navigation for HTML and XML documents.
+- [matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
+- [php-malware-scanner](https://github.com/scr34m/php-malware-scanner) - Scans PHP files for malwares and known threats
 - [PsyshBundle](https://github.com/theofidry/PsyshBundle) - A command line REPL bundle for Symfony using PsySH.
 - [Jupyter-PHP](https://github.com/Litipk/Jupyter-PHP) - A PHP Kernel for Jupyter
 - [ocsms](https://github.com/nextcloud/ocsms) - 📱 Nextcloud/ownCloud PhoneSync server application
@@ -4367,6 +4382,7 @@
 
 ## Perl 
 
+- [wat](https://github.com/pbrisbin/wat) - Show upgrades since recent -Syu
 - [perlisp](https://github.com/memowe/perlisp) - A simple Lisp interpreter, written in Perl
 - [perli](https://github.com/mklement0/perli) - Multi-platform Perl REPL
 - [check_rbl](https://github.com/matteocorti/check_rbl) - check_rbl is a Nagios plugin to check if an SMTP server is blacklisted
@@ -4449,6 +4465,9 @@
 
 ## Python 
 
+- [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
+- [multiscanner](https://github.com/mitre/multiscanner) - Modular file scanning/analysis framework
+- [screenshot](https://github.com/thismachinechills/screenshot) - Better macOS screenshots via the Terminal - Programmatically capture screenshots of apps and specific windows
 - [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask.
 - [http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
 - [eht-imaging](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry
@@ -5712,6 +5731,7 @@
 
 ## Shell 
 
+- [nginx2goaccess](https://github.com/stockrt/nginx2goaccess) - Convert Nginx log_format to goaccess config file
 - [ALEZ](https://github.com/danboid/ALEZ) - Arch Linux Easy ZFS installer
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A fast reimplementation of Powerlevel9k ZSH theme
 - [elastiflow](https://github.com/robcowart/elastiflow) - Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack
@@ -6074,7 +6094,7 @@
 
 - [quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
-- [code-server](https://github.com/codercom/code-server) - Run VS Code on a remote server.
+- [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [scaffdog](https://github.com/cats-oss/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
 - [npmvet](https://github.com/harksys/npmvet) - A simple CLI tool for vetting npm package versions
