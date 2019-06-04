@@ -140,6 +140,7 @@
 
 ## C 
 
+- [intel-vaapi-driver](https://github.com/intel/intel-vaapi-driver) - VA-API user mode driver for Intel GEN Graphics family
 - [rinetd](https://github.com/samhocevar/rinetd) - TCP/UDP port redirector
 - [mkeykernel](https://github.com/arjun024/mkeykernel) - A kernel that can read from keyboard and print on-screen
 - [touchcursor-linux](https://github.com/donniebreve/touchcursor-linux) - TouchCursor style keyboard remapping for Linux.
@@ -421,7 +422,7 @@
 - [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 - [skynet](https://github.com/cloudwu/skynet) - A lightweight online game framework
 - [rpm](https://github.com/rpm-software-management/rpm) - 
-- [xash3d](https://github.com/FWGS/xash3d) - Xash3D FWGS Engine. Fork of Xash3D. Stable in "master" branch.
+- [xash3d](https://github.com/FWGS/xash3d) - DEPRECATED in favor of https://github.com/FWGS/xash3d-fwgs. Only bugfixes are accepted.
 - [dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net
 - [JohnTheRipper](https://github.com/magnumripper/JohnTheRipper) - This is the official repo for John the Ripper, "Jumbo" version. The "bleeding-jumbo" branch is based on 1.9.0-Jumbo-1 which was released on May 14, 2019. An import of the "core" version of john this jumbo was based on (or newer) is found in the "master" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/src/).
@@ -645,7 +646,7 @@
 - [celluloid](https://github.com/celluloid-player/celluloid) - A simple GTK+ frontend for mpv
 - [gtkparasite](https://github.com/chipx86/gtkparasite) - A utility similar to Firebug but for GTK+ applications.
 - [gtk](https://github.com/GNOME/gtk) - Multi-platform toolkit
-- [cpp-cheat](https://github.com/cirosantilli/cpp-cheat) - This repo is moving to: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-content See README. C, C++, POSIX and Linux system programming minimal examples. Asserts used wherever possible. Hello worlds for cool third party libraries and build systems. Cheatsheets, tutorials and mini-projects.
+- [cpp-cheat](https://github.com/cirosantilli/cpp-cheat) - MOVING TO: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-content SEE README. C, C++, POSIX and Linux system programming minimal examples. Asserts used wherever possible. Hello worlds for cool third party libraries and build systems. Cheatsheets, tutorials and mini-projects.
 - [scribus-plugin-gettext-markdown](https://github.com/aoloe/scribus-plugin-gettext-markdown) - Text importer for loading Markdown text into Scribus files.
 - [sublime-text-imfix](https://github.com/lyfeyaj/sublime-text-imfix) - Fix Sublime Text 3 Input method problem (CJK words) under Ubuntu
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
@@ -693,6 +694,7 @@
 
 ## C++ 
 
+- [blend2d](https://github.com/blend2d/blend2d) - 2D Vector Graphics Engine Powered by a JIT Compiler
 - [wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor
 - [xbmc](https://github.com/pkerling/xbmc) - Kodi fork for GSoC 2017: Wayland Support
 - [gtkplatform](https://github.com/CrimsonAS/gtkplatform) - Run Qt applications using gtk+ as a windowing system.
@@ -1165,6 +1167,8 @@
 
 ## Common Lisp 
 
+- [clack](https://github.com/fukamachi/clack) - Web server abstraction layer for Common Lisp
+- [cl-binary](https://github.com/tanakahx/cl-binary) - Binary data processing library for Common Lisp
 - [bodge-ui-window](https://github.com/borodust/bodge-ui-window) - Utility to quickly setup GUI for your Common Lisp application
 - [find-port](https://github.com/eudoxia0/find-port) - Programmatically find open ports.
 - [cl-wlroots](https://github.com/swaywm/cl-wlroots) - Common lisp bindings for wlroots, a library for writing Wayland compositors
@@ -1686,7 +1690,6 @@
 - [reverse-im.el](https://github.com/a13/reverse-im.el) - 
 - [distel](https://github.com/massemanet/distel) - emacs - erlang IDE
 - [auto-org-md](https://github.com/jamcha-aa/auto-org-md) - export a markdown file automatically when you save an org-mode file
-- [lsp-php](https://github.com/zhougts/lsp-php) - This repository is no longer updated and is merged with the emacs-lsp/lsp-php.
 - [syslog-mode](https://github.com/vapniks/syslog-mode) - Emacs major-mode for viewing log files
 - [hide-lines](https://github.com/vapniks/hide-lines) - Commands for hiding lines based on a regexp
 - [docker-nexus3](https://github.com/sonatype/docker-nexus3) - Dockerized version of Nexus Repo Manager 3
@@ -1858,7 +1861,6 @@
 - [rich-minority](https://github.com/Malabarba/rich-minority) - Emacs package for hiding and/or highlighting the list of minor-modes in the mode-line.
 - [bongo](https://github.com/dbrock/bongo) - Play music with GNU Emacs
 - [emacs-flycheck-flow](https://github.com/lbolla/emacs-flycheck-flow) - 
-- [emacs-scp](https://github.com/zhougts/emacs-scp) - Use scp and remote server transfer files
 - [flycheck-pos-tip](https://github.com/flycheck/flycheck-pos-tip) - Flycheck errors display in tooltip
 - [highlight-defined](https://github.com/Fanael/highlight-defined) - Highlight known Emacs Lisp symbols
 - [elpa-clone](https://github.com/dochang/elpa-clone) - Clone ELPA archive
@@ -2371,7 +2373,7 @@
 - [emacs-sentence-navigation](https://github.com/noctuid/emacs-sentence-navigation) - Better Sentence Movement Commands and Evil Text Objects
 - [imenu-anywhere](https://github.com/vspinu/imenu-anywhere) - ido/ivy/helm imenu tag selection across buffers with the same mode/project etc
 - [visual-regexp.el](https://github.com/benma/visual-regexp.el) - A regexp/replace command for Emacs with interactive visual feedback
-- [org-pomodoro](https://github.com/lolownia/org-pomodoro) - pomodoro technique for org-mode
+- [org-pomodoro](https://github.com/marcinkoziej/org-pomodoro) - pomodoro technique for org-mode
 - [turing-machine](https://github.com/dieggsy/turing-machine) - Single tape turing machine simulator in emacs and python, inspired by http://morphett.info/turing/turing.html
 - [emacs-oob-reboot](https://github.com/josteink/emacs-oob-reboot) - A project to revitalize Emacs by providing core-friendly changes for an improved out-of-the-box experience
 - [switch-window](https://github.com/dimitri/switch-window) - Offer a *visual* way to choose a window to switch to
@@ -2766,7 +2768,7 @@
 
 - [clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
 - [wallutils](https://github.com/xyproto/wallutils) - Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
-- [rtc-ssh](https://github.com/mxseba/rtc-ssh) - SSH Console over WebRTC
+- [rtc-ssh](https://github.com/mxseba/rtc-ssh) - WebRTC wrapper for SSH connect
 - [chashell](https://github.com/sysdream/chashell) - Chashell is a Go reverse shell that communicates over DNS. It can be used to bypass firewalls or tightly restricted networks.
 - [gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 - [task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -3250,6 +3252,7 @@
 
 ## Haskell 
 
+- [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [hisp](https://github.com/otaviopace/hisp) - 🌵 A lisp REPL interpreter made in Haskell
 - [small-lisp](https://github.com/luizperes/small-lisp) - Small Lisp REPL written in Haskell
 - [zero-bullshit-haskell](https://github.com/alpacaaa/zero-bullshit-haskell) - Learn Haskell, without the bullshit.
@@ -3427,6 +3430,9 @@
 
 ## JavaScript 
 
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
+- [medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
+- [sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
 - [userChrome.js](https://github.com/alice0775/userChrome.js) - 
 - [greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [org-linkz](https://github.com/p-kolacz/org-linkz) - Managing browser links in org file.
@@ -4119,6 +4125,8 @@
 
 ## Others 
 
+- [dashboard-cleanup](https://github.com/littlebizzy/dashboard-cleanup) - Cleans up the WP Admin backend by disabling various core WP and WC bloat features including Automattic spam, nag notices, tracking, and other items.
+- [speed-demon](https://github.com/littlebizzy/speed-demon) - A powerful bundle of lightweight tweaks that drastically improve the loading speed of WordPress by reducing bloat and improving overall efficiency.
 - [Xresources-themes](https://github.com/logico-dev/Xresources-themes) - A big (huge) collection of rxvt / xterm terminal themes
 - [awesome-urxvt](https://github.com/bookercodes/awesome-urxvt) - :book: A community-driven collection of extensions and learning resources for the popular urxvt terminal window.
 - [awesome-hdl](https://github.com/drom/awesome-hdl) - Hardware Description Languages
@@ -4578,7 +4586,7 @@
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [systemd-user-units](https://github.com/pablox-cl/systemd-user-units) - A collection of systemd units
 - [base16](https://github.com/chriskempson/base16) - An architecture for building themes
-- [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that *could* go in the head of your document
+- [HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document
 
 ## PHP 
 
@@ -4795,6 +4803,7 @@
 
 ## Python 
 
+- [Discurses](https://github.com/topisani/Discurses) - A Python discord CLI focused on usability
 - [wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat plugin for Slack.com. Synchronizes read markers, provides typing notification, search, etc..
 - [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - A Selenium script to delete your Facebook content.
@@ -5852,6 +5861,7 @@
 
 ## Ruby 
 
+- [seml](https://github.com/loganbraga/seml) - S-Expression Markup Language
 - [foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
 - [maximum-awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux.
@@ -5988,6 +5998,7 @@
 
 ## Rust 
 
+- [lorri](https://github.com/target/lorri) - Your project's nix-env
 - [way-cooler](https://github.com/way-cooler/way-cooler) - Customizable Wayland compositor (window manager)
 - [rusty-tags](https://github.com/dan-t/rusty-tags) - Create ctags/etags for a cargo project
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
@@ -6144,6 +6155,7 @@
 
 ## Shell 
 
+- [slickstack](https://github.com/littlebizzy/slickstack) - SlickStack is a free LEMP stack automation script written in Bash designed to enhance and simplify WordPress provisioning, performance, and security.
 - [xterm-color-count](https://github.com/l0b0/xterm-color-count) - Count how many colors your XTerm actually supports
 - [docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP and Cisco IPsec
 - [Vegile](https://github.com/Screetsec/Vegile) - This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell
