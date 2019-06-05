@@ -1334,6 +1334,8 @@
 
 ## Emacs Lisp 
 
+- [hl-sentence](https://github.com/milkypostman/hl-sentence) - highlight a sentence in Emacs
+- [dante](https://github.com/jyp/dante) - 
 - [shell-here](https://github.com/ieure/shell-here) - Open an Emacs shell in the current directory
 - [emacs-live-preview](https://github.com/lassik/emacs-live-preview) - Live preview by any shell command while editing
 - [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs, for Nix users
@@ -1345,7 +1347,7 @@
 - [elpl](https://github.com/twlz0ne/elpl) - Provides a simple interface to evaluating Emacs Lisp expressions but without contaminating current Emacs.
 - [poly-rst](https://github.com/polymode/poly-rst) - Polymode for ReStructured Text
 - [poly-markdown](https://github.com/polymode/poly-markdown) - Polymode for markdown-mode
-- [theme-magic](https://github.com/jcaw/theme-magic) - 🎨 Apply your Emacs theme to the rest of Linux, using magic.
+- [theme-magic](https://github.com/jcaw/theme-magic) - 🎨 Apply your Emacs theme to the rest of Linux, using magic. Also works on Mac.
 - [adoc-mode](https://github.com/sensorflo/adoc-mode) - A major-mode for editing AsciiDoc files in Emacs
 - [smart-backspace](https://github.com/itome/smart-backspace) - A simple package to enable intellij like backspace in Emacs.
 - [autodisass-java-bytecode](https://github.com/gbalats/autodisass-java-bytecode) - Automatically disassemble emacs buffers containing Java bytecode.
@@ -3383,7 +3385,7 @@
 - [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) - 🔥 A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).
 - [SimpleSmsRemote](https://github.com/tranquvis/SimpleSmsRemote) - Android app for remotely controlling a phone through sms messages
 - [tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books:  技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books:  Basic Knowledge of Technical Interview（技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计）
 - [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 - [Much-Assembly-Required](https://github.com/simon987/Much-Assembly-Required) - Assembly programming game
 - [programming](https://github.com/hacktoberfest17/programming) - Code a program in a language of your choice.
@@ -3430,6 +3432,7 @@
 
 ## JavaScript 
 
+- [entropic](https://github.com/entropic-dev/entropic) - a package registry for anything, but mostly javascript
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 - [sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
@@ -3471,7 +3474,7 @@
 - [elastalert-kibana-plugin](https://github.com/bitsensor/elastalert-kibana-plugin) - ElastAlert Kibana Plugin
 - [terminal-discord](https://github.com/xynxynxyn/terminal-discord) - Simple terminal client for discord with a minimal look and UI
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
-- [hogwatch](https://github.com/akshayKMR/hogwatch) - find out what's hogging your internet connection.
+- [hogwatch](https://github.com/akshaykmr/hogwatch) - find out what's hogging your internet connection.
 - [archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
 - [falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [sqltabs](https://github.com/sasha-alias/sqltabs) - Rich SQL client for Postgresql, MySQL, MS SQL, Amazon Redshift, Google Firebase (Firestore)
@@ -4803,6 +4806,8 @@
 
 ## Python 
 
+- [LaunchCold](https://github.com/earvingad/LaunchCold) - FullScreen App Launcher for Openbox.
+- [kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check) - A script for checking the hardening options in the Linux kernel config
 - [Discurses](https://github.com/topisani/Discurses) - A Python discord CLI focused on usability
 - [wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat plugin for Slack.com. Synchronizes read markers, provides typing notification, search, etc..
 - [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
@@ -5291,7 +5296,7 @@
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with Python.
 - [doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs for use in software and web development.
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [GithubCloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations.
 - [pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
