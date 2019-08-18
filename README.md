@@ -144,6 +144,7 @@
 
 ## C 
 
+- [gnumaku](https://github.com/davexunit/gnumaku) - Lispy bullet hell engine written in Guile and C
 - [tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication tool, also a tcp stream replay tool, fit for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, etc
 - [ctftool](https://github.com/taviso/ctftool) - Interactive CTF Exploration Tool
 - [LiteOS](https://github.com/LiteOS/LiteOS) - code and manual
@@ -443,7 +444,6 @@
 - [skynet](https://github.com/cloudwu/skynet) - A lightweight online game framework
 - [rpm](https://github.com/rpm-software-management/rpm) - 
 - [xash3d](https://github.com/FWGS/xash3d) - DEPRECATED in favor of https://github.com/FWGS/xash3d-fwgs. Only bugfixes are accepted.
-- [xash3d](https://github.com/FWGS/xash3d) - DEPRECATED in favor of https://github.com/FWGS/xash3d-fwgs. Only bugfixes are accepted.
 - [dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net
 - [JohnTheRipper](https://github.com/magnumripper/JohnTheRipper) - This is the official repo for John the Ripper, "Jumbo" version. The "bleeding-jumbo" branch is based on 1.9.0-Jumbo-1 which was released on May 14, 2019. An import of the "core" version of john this jumbo was based on (or newer) is found in the "master" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/src/).
@@ -713,6 +713,7 @@
 
 ## C++ 
 
+- [recompiler](https://github.com/rexdex/recompiler) - Xbox360 -&gt; Windows executable converter
 - [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
 - [mesos](https://github.com/apache/mesos) - Apache Mesos
 - [stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
@@ -957,7 +958,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.2.0.31429, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.2.0.31478, 3.3.5 = 3.3.5a.12340)
 - [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -2878,6 +2879,16 @@
 
 ## Go 
 
+- [grafanaclient](https://github.com/adejoux/grafanaclient) - simple API to manage Grafana 2.0 DataSources and Dashboards in Go
+- [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers
+- [greenwall](https://github.com/mtojek/greenwall) - Tiny service health dashboard written in Go
+- [listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Go + React.
+- [terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
+- [uchiwa](https://github.com/sensu/uchiwa) - Uchiwa is a simple yet effective open-source dashboard for the Sensu monitoring framework.
+- [junos_exporter](https://github.com/czerwonk/junos_exporter) - Exporter for devices running JunOS to use with https://prometheus.io/
+- [go-junos](https://github.com/scottdware/go-junos) - Go package for automation of Junos (Juniper Networks) devices.
+- [skeema](https://github.com/skeema/skeema) - Schema management CLI for MySQL
+- [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
@@ -3387,6 +3398,7 @@
 
 ## Haskell 
 
+- [cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
 - [smos](https://github.com/NorfairKing/smos) - A purely functional semantic forest editor to replace Emacs Org Mode for GTD
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [hisp](https://github.com/otaviopace/hisp) - 🌵 A lisp REPL interpreter made in Haskell
@@ -4263,7 +4275,6 @@
 
 - [wordpress-nginx-nix](https://github.com/grafted-in/wordpress-nginx-nix) - One-stop shop for defining, testing, and deploying a WordPress CMS site using Nginx with Nix, NixOps, and NixOS
 - [kubenix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using nix
-- [cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
 - [lorri](https://github.com/target/lorri) - Your project's nix-env
 - [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - nixpkgs-wayland is an overlay for sway and other wlroots-related Wayland tools
 - [nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
@@ -5001,6 +5012,12 @@
 
 ## Python 
 
+- [flask_jsondash](https://github.com/christabor/flask_jsondash) - :snake: :bar_chart: :chart_with_upwards_trend: Build complex dashboards without any front-end code. Use your own endpoints. JSON config only. Ready to go.
+- [python-training-for-network-engineers](https://github.com/ksator/python-training-for-network-engineers) - Python hands-on training for network engineers. How to automate Junos with Python
+- [ansible-junos-stdlib](https://github.com/Juniper/ansible-junos-stdlib) - Junos modules for Ansible
+- [py-junos-eznc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation
+- [juniper-vpn-py](https://github.com/russdill/juniper-vpn-py) - Python Juniper VPN Authenticator
+- [cli_helpers](https://github.com/dbcli/cli_helpers) - Python helpers for common CLI tasks
 - [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision
 - [fabricio](https://github.com/renskiy/fabricio) - Docker deploy automation tool
 - [ankiplugins](https://github.com/dae/ankiplugins) - Plugins for Anki on the desktop
