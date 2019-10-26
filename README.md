@@ -723,6 +723,7 @@
 
 ## C# # 
 
+- [lsp-docker](https://github.com/emacs-lsp/lsp-docker) - Scripts and configurations to leverage lsp-mode in docker environment
 - [urho-samples](https://github.com/xamarin/urho-samples) - Samples for the Urho bindings
 - [BansheeEngine](https://github.com/BearishSun/BansheeEngine) - Modern C++14 game engine with Vulkan support, fully featured editor and C# scripting
 - [Lemma](https://github.com/etodd/Lemma) - Immersive first-person parkour in a surreal, physics-driven voxel world.
@@ -739,6 +740,8 @@
 
 ## C++ 
 
+- [dumper](https://github.com/shinh/dumper) - A variable dumper for C/C++
+- [beflisp](https://github.com/shinh/beflisp) - Lisp implementation in Befunge
 - [desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [hiptext](https://github.com/jart/hiptext) - Turn images into text better than caca/aalib
 - [RetroShare](https://github.com/RetroShare/RetroShare) - RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.
@@ -764,7 +767,7 @@
 - [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [blend2d](https://github.com/blend2d/blend2d) - 2D Vector Graphics Engine Powered by a JIT Compiler
 - [wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor
-- [xbmc](https://github.com/pkerling/xbmc) - Kodi fork for GSoC 2017: Wayland Support
+- [xbmc](https://github.com/yol/xbmc) - Kodi fork for GSoC 2017: Wayland Support
 - [gtkplatform](https://github.com/CrimsonAS/gtkplatform) - Run Qt applications using gtk+ as a windowing system.
 - [shell](https://github.com/lirios/shell) - :shell: QtQuick and Wayland shell for convergence
 - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -984,7 +987,6 @@
 - [KlayGE](https://github.com/gongminmin/KlayGE) - KlayGE is a cross-platform open source game engine with plugin-based architecture.
 - [REGoth](https://github.com/REGoth-project/REGoth) - OpenSource-Reimplementation of the zEngine, used by the game "Gothic"
 - [HMIYC](https://github.com/TyrealGray/HMIYC) - Hunt Me If You Can is an UnrealEngine4 Battle Lan Game
-- [OpenXcom](https://github.com/OpenXcom/OpenXcom) - Open-source clone of the original X-Com 👽
 - [OpenXcom](https://github.com/OpenXcom/OpenXcom) - Open-source clone of the original X-Com 👽
 - [ivan](https://github.com/Attnam/ivan) - Iter Vehemens ad Necem - a continuation of the graphical roguelike by members of http://attnam.com
 - [supertux](https://github.com/SuperTux/supertux) - SuperTux source code
@@ -1261,6 +1263,8 @@
 
 ## Common Lisp 
 
+- [makelisp](https://github.com/shinh/makelisp) - Lisp implementation in GNU make
+- [cl-lsp](https://github.com/cxxxr/cl-lsp) - An implementation of the Language Server Protocol for Common Lisp
 - [moppu](https://github.com/srcnalt/moppu) - Autumn Lisp Game Jam 2019 Entry, Pixel Art Platformer Game
 - [terminal-keypress](https://github.com/eudoxia0/terminal-keypress) - Read keyboard events in the terminal from Common Lisp
 - [cl-ansi-term](https://github.com/vindarel/cl-ansi-term) - Colorized output on ANSI terminals and more
@@ -1425,6 +1429,7 @@
 
 ## Dockerfile 
 
+- [docker-pxe](https://github.com/ferrarimarco/docker-pxe) - A virtualized implementation of PXE supported by DNSMasq
 - [docker-nix](https://github.com/nix-community/docker-nix) - Docker image for nix [maintainer=@zimbatm]
 - [postgres](https://github.com/docker-library/postgres) - Docker Official Image packaging for Postgres
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
@@ -1471,6 +1476,8 @@
 
 ## Emacs Lisp 
 
+- [plz.el](https://github.com/alphapapa/plz.el) - An HTTP library for Emacs
+- [play-code.el](https://github.com/twlz0ne/play-code.el) - Play code with online playgrounds
 - [elpa-deploy](https://github.com/oitofelix/elpa-deploy) - ELPA deployment library
 - [info-rename-buffer](https://github.com/oitofelix/info-rename-buffer) - Rename Info buffers to match manuals
 - [clippy](https://github.com/emacsmirror/clippy) - Show tooltip with function documentation at point
@@ -3026,6 +3033,12 @@
 
 ## Go 
 
+- [anki-md](https://github.com/erroneousboat/anki-md) - A markdown to anki flash cards converter
+- [resume](https://github.com/erroneousboat/resume) - Create an online resume that can be accessed by a `curl` command.
+- [go-langserver](https://github.com/sourcegraph/go-langserver) - Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP)
+- [terraform-lsp](https://github.com/juliosueiras/terraform-lsp) - Language Server Protocol for Terraform
+- [hargo](https://github.com/mrichman/hargo) - Hargo is a Go library and command line utility that parses HAR files, can convert to curl format, and serve as a load test driver.
+- [devd](https://github.com/cortesi/devd) - A local webserver for developers
 - [user_agent](https://github.com/mssola/user_agent) - HTTP User Agent parser for the Go programming language.
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -3604,6 +3617,9 @@
 
 ## Haskell 
 
+- [ghc-mod](https://github.com/DanielG/ghc-mod) - Happy Haskell Hacking for editors. CI: https://gitlab.com/dxld/ghc-mod/pipelines
+- [rasa](https://github.com/ChrisPenner/rasa) - Extremely modular text editor built in Haskell
+- [yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
 - [tagsoup](https://github.com/ndmitchell/tagsoup) - Haskell library for parsing and extracting information from (possibly malformed) HTML/XML documents
 - [icepeak](https://github.com/channable/icepeak) - Icepeak is a fast JSON document store with push notification support.
 - [vaultenv](https://github.com/channable/vaultenv) - Launch processes with Vault secrets in the environment
@@ -3703,6 +3719,7 @@
 
 ## Java 
 
+- [Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [docker-plugin](https://github.com/jenkinsci/docker-plugin) - Jenkins Cloud Plugin for Docker
 - [docker-swarm-plugin](https://github.com/jenkinsci/docker-swarm-plugin) - Jenkins plugin which allows to add a Docker Swarm as a cloud agent provider
@@ -4199,7 +4216,6 @@
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples
-- [wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples
 - [live-tour-lab](https://github.com/SpectivOfficial/live-tour-lab) - :heart::heart::heart: Framework for creating Live Tours. Add React VR components. :heart::heart::heart:
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology
@@ -4396,7 +4412,7 @@
 - [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [ml-class](https://github.com/lukas/ml-class) - Machine learning lessons and teaching projects designed for engineers
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
-- [dashboards](https://github.com/jupyter/dashboards) - Jupyter Dashboards Layout Extension
+- [dashboards](https://github.com/jupyter-attic/dashboards) - [RETIRED] See Voilà as a supported replacement
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [IElixir](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language
 - [AdvancedMath](https://github.com/nicoguaro/AdvancedMath) - This is a repository with material for the course Advanced Mathematics for Engineers
@@ -4467,6 +4483,7 @@
 
 ## Lua 
 
+- [lua-lsp](https://github.com/Alloyed/lua-lsp) - A Lua language server
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [ObAddon](https://github.com/caligari87/ObAddon) - A repository of community-built prefabs and other enhancements for Oblige 7.70
 - [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits :zap:
@@ -4541,6 +4558,7 @@
 
 ## NewLisp 
 
+- [nl2bash](https://github.com/TellinaTool/nl2bash) - Generating bash command from natural language https://arxiv.org/abs/1802.08979
 - [nikki](https://github.com/nikki-and-the-robots/nikki) - Nikki and the Robots platformer game
 
 ## Nim 
@@ -4603,6 +4621,8 @@
 
 ## Others 
 
+- [b1fipl](https://github.com/marcpaq/b1fipl) - A Bestiary of Single-File Implementations of Programming Languages
+- [language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [docs](https://github.com/dapr/docs) - User documentation for Dapr
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@zimbatm]
@@ -5313,6 +5333,7 @@
 
 ## Python 
 
+- [http-request-translator](https://github.com/owtf/http-request-translator) - HTTP Request Translator (hrt) translates raw HTTP requests to different scripts (bash, python, etc.)
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [keyring](https://github.com/jaraco/keyring) - 
@@ -6694,6 +6715,7 @@
 
 ## Scala 
 
+- [metals](https://github.com/scalameta/metals) - Scala language server with rich IDE features 🚀
 - [abandon](https://github.com/hrj/abandon) - :relieved: Simple and Robust Accounting
 - [lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [scaladiagrams](https://github.com/mikeyhu/scaladiagrams) - Generate class diagrams from scala source code
@@ -6771,6 +6793,10 @@
 
 ## Shell 
 
+- [ansible-manage-lvm](https://github.com/mrlesmithjr/ansible-manage-lvm) - 
+- [bash-dev-tcp](https://github.com/fijimunkii/bash-dev-tcp) - collection of scripts using /dev/tcp
+- [ngincat](https://github.com/jaburns/ngincat) - Tiny bash HTTP server using netcat
+- [httpstat](https://github.com/b4b4r07/httpstat) - It's like curl -v, with graphs and colors
 - [socklog-overlay](https://github.com/just-containers/socklog-overlay) - Small syslog add-on for s6-overlay
 - [s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
@@ -7203,6 +7229,9 @@
 
 ## TypeScript 
 
+- [yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for Yaml Files
+- [dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by NodeJS, TypeScript, and VSCode technologies.
+- [bash-language-server](https://github.com/mads-hartmann/bash-language-server) - A language server for Bash
 - [zero](https://github.com/sinclairzx81/zero) - 3D graphics rendering pipeline. Implemented in JavaScript. Run in a terminal.
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 8+
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
