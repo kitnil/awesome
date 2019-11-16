@@ -7148,6 +7148,7 @@
 
 ## Shell 
 
+- [docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [shoreman](https://github.com/chrismytton/shoreman) - foreman in shell
 - [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [polygott](https://github.com/replit/polygott) - Base Docker image for the Repl.it evaluation server
