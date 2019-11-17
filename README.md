@@ -680,7 +680,7 @@
 - [distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
 - [gummi](https://github.com/alexandervdm/gummi) - Simple LaTeX editor
 - [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
-- [espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports 108 languages and accents.
+- [espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports 109 languages and accents.
 - [luastatus](https://github.com/shdown/luastatus) - universal status bar content generator
 - [kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized
 - [tg](https://github.com/vysheng/tg) - telegram-cli
@@ -1542,6 +1542,7 @@
 
 ## Emacs Lisp 
 
+- [trashed](https://github.com/shingo256/trashed) - Viewing/editing system trash can in Emacs
 - [emacs-training](https://github.com/bzg/emacs-training) - Emacs training
 - [git-walktree-el](https://github.com/10sr/git-walktree-el) - Browse Git Tree and Blob Objects
 - [emacs-xml-format](https://github.com/wbolster/emacs-xml-format) - emacs package to reformat xml using xmllint
@@ -3315,7 +3316,7 @@
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [Yearning](https://github.com/cookieY/Yearning) - A most popular sql audit platform for mysql
 - [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
-- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Tekton, Knative, Prow, Skaffold and Helm
+- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Prow, Skaffold and Helm
 - [tsuru](https://github.com/tsuru/tsuru) - Open source, extensible and Docker-based Platform as a Service (PaaS).
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [spruce](https://github.com/geofffranks/spruce) - A BOSH template merge tool
@@ -3917,6 +3918,9 @@
 
 ## Java 
 
+- [dashboard-view-plugin](https://github.com/jenkinsci/dashboard-view-plugin) - Jenkins dashboard-view plugin
+- [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
+- [ansible-plugin](https://github.com/jenkinsci/ansible-plugin) - Jenkins Ansible plugin
 - [dungeon](https://github.com/bernardosulzbach/dungeon) - Text-based open-world RPG made with Java
 - [open-ig](https://github.com/akarnokd/open-ig) - Free & open-source reimplementation of Imperium Galactica. Download the Installer below the file list!
 - [riiablo](https://github.com/collinsmith/riiablo) - Diablo II remade using Java and LibGDX
@@ -4048,6 +4052,7 @@
 
 ## JavaScript 
 
+- [PopupWindow](https://github.com/ettoolong/PopupWindow) - Firefox add-on, move tab to standalone window, without tabs bar, navigation bar and bookmark bar UI.
 - [docker-pastebin](https://github.com/mko-x/docker-pastebin) - Paste your stuff however
 - [Rotten-Soup](https://github.com/Larkenx/Rotten-Soup) - A roguelike built with Vue, Vuetify, Tiled, rot.js, and PixiJS! Playable at https://rottensoup.herokuapp.com/
 - [crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
@@ -7291,7 +7296,7 @@
 - [repl](https://github.com/icyphox/repl) - :shell: an instant REPL for any command
 - [REPL](https://github.com/repl-cli/REPL) - REPL- Simple bash script for creating and running REPLs locally, offline, and out of the browser
 - [MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf) - MagiskHidePropsConf
-- [youtubeadsblacklist](https://github.com/anudeepND/youtubeadsblacklist) - A list of YouTube video ad domains. (EXPERIMENTAL!)
+- [youtubeadsblacklist](https://github.com/anudeepND/youtubeadsblacklist) - A list of YouTube video ad domains. (Discontinued)
 - [bash-http](https://github.com/rasguanabana/bash-http) - Because why not?
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [samba](https://github.com/dperson/samba) - Samba docker container
