@@ -156,6 +156,8 @@
 
 ## C 
 
+- [pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
+- [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc / 24kb compiled!).
 - [rpminspect](https://github.com/rpminspect/rpminspect) - RPM build deviation analysis tools
 - [mininim](https://github.com/oitofelix/mininim) - The Advanced Prince of Persia Engine (a childhood dream)
 - [OpenGOO](https://github.com/Mandarancio/OpenGOO) - A free clone of World Of Goo
@@ -1269,6 +1271,8 @@
 
 ## Clojure 
 
+- [tools.cli](https://github.com/clojure/tools.cli) - Command-line processing
+- [clojure-mail](https://github.com/owainlewis/clojure-mail) - A Clojure library for parsing, downloading and reading email from IMAP servers.
 - [zetawar](https://github.com/Zetawar/zetawar) - Zetawar is a turn based tactical strategy game implemented in 100% ClojureScript.
 - [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 - [org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
@@ -1542,6 +1546,7 @@
 
 ## Emacs Lisp 
 
+- [ghelp](https://github.com/casouri/ghelp) - Emacs generic Help
 - [trashed](https://github.com/shingo256/trashed) - Viewing/editing system trash can in Emacs
 - [emacs-training](https://github.com/bzg/emacs-training) - Emacs training
 - [git-walktree-el](https://github.com/10sr/git-walktree-el) - Browse Git Tree and Blob Objects
@@ -2933,7 +2938,7 @@
 - [company-math](https://github.com/vspinu/company-math) - Completion back-ends for for math unicode symbols and latex tags
 - [elmacro](https://github.com/Silex/elmacro) - Package to display keyboard macros or latest interactive commands as emacs lisp.
 - [macrostep](https://github.com/joddie/macrostep) - interactive macro-expander for Emacs
-- [oremacs](https://github.com/abo-abo/oremacs) - My Emacs config. http://oremacs.com/
+- [oremacs](https://github.com/abo-abo/oremacs) - My Emacs config
 - [ace-window](https://github.com/abo-abo/ace-window) - Quickly switch windows in Emacs
 - [powerline](https://github.com/milkypostman/powerline) - emacs powerline
 - [with-editor](https://github.com/magit/with-editor) - Use the Emacsclient as the $EDITOR of child processes
@@ -3121,6 +3126,7 @@
 
 ## Go 
 
+- [torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
 - [container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images
 - [machine](https://github.com/docker/machine) - Machine management for a container-centric world
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
@@ -3633,7 +3639,6 @@
 - [hub](https://github.com/cpick/hub) - hub helps you win at git.
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-- [lantern](https://github.com/getlantern/lantern) - 蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk
 - [go](https://github.com/golang/go) - The Go programming language
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service.
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -3785,6 +3790,7 @@
 
 ## Haskell 
 
+- [haze](https://github.com/cronokirby/haze) - A bittorrent client, for learning purposes
 - [haskell_game](https://github.com/drummyfish/haskell_game) - Wolfenstein 3D, ray-casting FPS game I make to learn Haskell. No libraries used, rendering is done in terminal.
 - [dino-rush](https://github.com/jxv/dino-rush) - 🌋 Endless runner game
 - [tetris](https://github.com/samtay/tetris) - A terminal interface for Tetris
@@ -3918,6 +3924,8 @@
 
 ## Java 
 
+- [libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
+- [grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [dashboard-view-plugin](https://github.com/jenkinsci/dashboard-view-plugin) - Jenkins dashboard-view plugin
 - [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [ansible-plugin](https://github.com/jenkinsci/ansible-plugin) - Jenkins Ansible plugin
@@ -4052,6 +4060,11 @@
 
 ## JavaScript 
 
+- [clear-browsing-data](https://github.com/dessant/clear-browsing-data) - Browser extension for clearing browsing data
+- [search-by-image](https://github.com/dessant/search-by-image) - :framed_picture: Browser extension for reverse image search, available on Chrome, Firefox and Opera
+- [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
+- [tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
+- [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [PopupWindow](https://github.com/ettoolong/PopupWindow) - Firefox add-on, move tab to standalone window, without tabs bar, navigation bar and bookmark bar UI.
 - [docker-pastebin](https://github.com/mko-x/docker-pastebin) - Paste your stuff however
 - [Rotten-Soup](https://github.com/Larkenx/Rotten-Soup) - A roguelike built with Vue, Vuetify, Tiled, rot.js, and PixiJS! Playable at https://rottensoup.herokuapp.com/
@@ -4730,6 +4743,8 @@
 
 ## Lua 
 
+- [nvim-lsp](https://github.com/neovim/nvim-lsp) - Common configurations for Neovim Language Servers
+- [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 - [lua-lsp](https://github.com/Alloyed/lua-lsp) - A Lua language server
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
@@ -4876,6 +4891,7 @@
 
 ## Others 
 
+- [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [awesome-discord](https://github.com/jacc/awesome-discord) - 🕹 A curated list of awesome things on Discord.
 - [game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games
 - [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
@@ -5385,6 +5401,7 @@
 
 ## PHP 
 
+- [wordpress-seo](https://github.com/Yoast/wordpress-seo) - Yoast SEO for WordPress
 - [TeamPass](https://github.com/nilsteampassnet/TeamPass) - Collaborative Passwords Manager
 - [BrowserQuest-PHP](https://github.com/walkor/BrowserQuest-PHP) - BrowserQuest server in PHP base on workerman. A PHP/HTML5/JavaScript multiplayer game experiment.
 - [goridge](https://github.com/spiral/goridge) - High-performance PHP-to-Golang IPC bridge
@@ -5623,6 +5640,10 @@
 
 ## Python 
 
+- [QuickWall](https://github.com/deepjyoti30/QuickWall) - Set latest wallpapers from Unsplash from the commandline
+- [hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management -- and other things too
+- [pyrocore](https://github.com/pyroscope/pyrocore) - :wrench: A collection of tools for the BitTorrent protocol and especially the rTorrent client
+- [ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple script to get songs from youtube in mp3 format with all tags from itunes
 - [honcho](https://github.com/nickstenning/honcho) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
 - [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji picker for rofi 😁
 - [python-emacs](https://github.com/jlumpe/python-emacs) - Python interface to GNU Emacs.
@@ -6517,7 +6538,7 @@
 - [gitless](https://github.com/sdg-mit/gitless) - A version control system built on top of Git
 - [Mathics](https://github.com/mathics/Mathics) - a general-purpose computer algebra system
 - [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and europeandataportal.eu/data/en/dataset among many other sites.
-- [quokka](https://github.com/rochacbruno-archive/quokka) - LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
+- [quokka](https://github.com/quokkaproject/quokka) - LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [BuildingMachineLearningSystemsWithPython](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) - Source Code for the book Building Machine Learning Systems with Python
 - [maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
@@ -7069,6 +7090,7 @@
 
 ## Scala 
 
+- [diffy](https://github.com/opendiffy/diffy) - 
 - [intellij-haskell](https://github.com/rikvdkleij/intellij-haskell) - IntelliJ plugin for Haskell
 - [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [metals](https://github.com/scalameta/metals) - Scala language server with rich IDE features 🚀
@@ -7153,6 +7175,7 @@
 
 ## Shell 
 
+- [bspwm_border_color](https://github.com/Kody-Quintana/bspwm_border_color) - VIM mode indicator for bspwm
 - [docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [shoreman](https://github.com/chrismytton/shoreman) - foreman in shell
 - [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
@@ -7392,7 +7415,7 @@
 - [shell-config](https://github.com/alezost/shell-config) - My shell configuration and scripts
 - [Debian-GNU-Linux-Profiles](https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles) - Debian GNU/Linux based Services Profiles
 - [c.sh](https://github.com/eklitzke/c.sh) - Inline C/asm in Bash
-- [open-c-book](https://github.com/tinyclub/open-c-book) - 开源书籍：《C语言编程透视》，配套视频课程已全面上线
+- [open-c-book](https://github.com/tinyclub/open-c-book) - 开源书籍:《C语言编程透视》，配套视频课程已全面上线，https://w.url.cn/s/AMcKZ3a
 - [winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker for Linux & BSD
@@ -7650,7 +7673,7 @@
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 8+
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
-- [SOSML](https://github.com/SOSML/SOSML) - An interpreter for Standard ML written in TypeScript.
+- [SOSML](https://github.com/SOSML/SOSML) - The Online Interpreter for Standard ML, written in TypeScript.
 - [discord-term](https://github.com/cloudrex/discord-term) - Extensible Discord terminal client
 - [ext-saladict](https://github.com/crimx/ext-saladict) - Feature-rich inline translator. Chrome / Firefox Extension.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -7777,7 +7800,7 @@
 ## Vue 
 
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast, and beautiful alternative to Postman 🔥 https://postwoman.io
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
