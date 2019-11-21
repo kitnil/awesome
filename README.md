@@ -3600,7 +3600,7 @@
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
-- [filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, S3, FTPS, Minio, LDAP, Caldav, Carddav, Mysql, Backblaze, ...
+- [filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, Caldav, Carddav, Mysql, Backblaze, ...
 - [clipper](https://github.com/wincent/clipper) - ✂️ Clipboard access for local and remote tmux sessions
 - [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
@@ -4280,7 +4280,7 @@
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
 - [BrowserQuest](https://github.com/mozilla/BrowserQuest) - A HTML5/JavaScript multiplayer game experiment
-- [firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement. Stops working with FF v72
+- [firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
 - [CustomJSforFx](https://github.com/Aris-t2/CustomJSforFx) - custom scripts
 - [floccus](https://github.com/marcelklehr/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
 - [Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera) to redirect urls based on regex patterns, like a client side mod_rewrite.
@@ -7588,7 +7588,7 @@
 - [git-recent](https://github.com/paulirish/git-recent) - See your latest local git branches, formatted real fancy
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [Wallhaven-Downloader](https://github.com/macearl/Wallhaven-Downloader) - A simple download Script for Wallhaven.cc
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [infinality-ultimate-fedora](https://github.com/danielrenninghoff/infinality-ultimate-fedora) - Fedora packages for infinality-ultimate-bundle by bohoomil
 - [bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes
 - [rename-xfce-workspace](https://github.com/ngeiswei/rename-xfce-workspace) - Rename the current workspace in Xfce at lightening speed
