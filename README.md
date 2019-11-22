@@ -156,6 +156,7 @@
 
 ## C 
 
+- [core](https://github.com/metacall/core) - A library for providing inter-language foreign function interface calls.
 - [pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 - [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc / 24kb compiled!).
 - [rpminspect](https://github.com/rpminspect/rpminspect) - RPM build deviation analysis tools
@@ -1495,6 +1496,7 @@
 
 ## Dockerfile 
 
+- [guix](https://github.com/metacall/guix) - Docker image for using GuixSD in a CI/CD environment.
 - [docker-tor](https://github.com/mko-x/docker-tor) - Setup a Tor relay Server/Service easily. Support Tor!!
 - [docker-nginx-simple](https://github.com/mko-x/docker-nginx-simple) - Simple nginx serving static content in just a few lines of code.
 - [docker-clamav](https://github.com/mko-x/docker-clamav) - Dockerized open source antivirus for use with file sharing containers, REST API or TCP.
@@ -1954,7 +1956,7 @@
 - [helm-eww](https://github.com/emacs-helm/helm-eww) - Helm interface to EWW
 - [datetime](https://github.com/doublep/datetime) - Library for parsing, formatting, matching and recoding timestamps and date-time format strings.
 - [scheme-complete](https://github.com/ashinn/scheme-complete) - Automatically exported from code.google.com/p/scheme-complete
-- [undercover.el](https://github.com/sviridov/undercover.el) - A test coverage library for Emacs
+- [undercover.el](https://github.com/undercover-el/undercover.el) - A test coverage library for Emacs
 - [cov](https://github.com/AdamNiederer/cov) - An emacs extension for displaying coverage data on your code
 - [systemd-mode](https://github.com/holomorph/systemd-mode) - Major mode for editing systemd units
 - [org-index](https://github.com/marcIhm/org-index) - A personal adaptive index for org.
@@ -4483,7 +4485,7 @@
 - [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
 - [Alembic](https://github.com/awkward/Alembic) - ⚗️ Extract a color palette from Sketch images
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [r2](https://github.com/mikeal/r2) - HTTP client. Spiritual successor to request.
 - [Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
@@ -4969,7 +4971,6 @@
 - [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
 - [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
 - [rust-web-developer-roadmap](https://github.com/pepsighan/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2019
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) - Cheat Sheets
 - [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
 - [xg2xg](https://github.com/jhuangtw-dev/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2019
@@ -7174,6 +7175,7 @@
 
 ## Shell 
 
+- [docker2singularity](https://github.com/singularityhub/docker2singularity) - A docker image for converting docker images to singularity images.
 - [bspwm_border_color](https://github.com/Kody-Quintana/bspwm_border_color) - VIM mode indicator for bspwm
 - [docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [shoreman](https://github.com/chrismytton/shoreman) - foreman in shell
@@ -7451,7 +7453,7 @@
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [kodi-cli](https://github.com/nawar/kodi-cli) - Kodi/XBMC bash script to send Kodi commands from the command line
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 200 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal
+- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 200 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio
 - [docker-emacsen](https://github.com/larsbrinkhoff/docker-emacsen) - Multiple versions of Emacs in a Docker image
 - [eless](https://github.com/kaushalmodi/eless) - A Better 'less' - A bash script that loads emacs with minimal view-mode config - Created with Org mode
 - [docker-emacs](https://github.com/JAremko/docker-emacs) - Dockerized Emacs (GUI)
@@ -7624,6 +7626,7 @@
 - [differential-calculus](https://github.com/luizperes/differential-calculus) - Some resolutions of differential calculus for SFU MATH 150 (Jens Bauch) - Spring 2017
 - [talks](https://github.com/Shinmera/talks) - Documents related to talks I gave or will give
 - [Refcards](https://github.com/goerz/Refcards) - Various original reference cards (cheat sheets)
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) - Cheat Sheets
 - [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 - [literate-programming-tutorials](https://github.com/Literate-DevOps/literate-programming-tutorials) - Literate Programming Tutorials
