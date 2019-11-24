@@ -156,6 +156,13 @@
 
 ## C 
 
+- [szl](https://github.com/dimkr/szl) - A lightweight, embeddable scripting language
+- [frosted](https://github.com/insane-adding-machines/frosted) - Frosted: Free POSIX OS for tiny embedded devices
+- [dgsh](https://github.com/dspinellis/dgsh) - Shell supporting pipelines to and from multiple processes
+- [mrsh](https://github.com/emersion/mrsh) - A minimal POSIX shell
+- [ngs](https://github.com/ngs-lang/ngs) - Next Generation Shell (NGS)
+- [jo](https://github.com/jpmens/jo) - JSON output from a shell
+- [bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
 - [core](https://github.com/metacall/core) - A library for providing inter-language foreign function interface calls.
 - [pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 - [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc / 24kb compiled!).
@@ -469,7 +476,7 @@
 - [flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
 - [3proxy](https://github.com/z3APA3A/3proxy) - 3proxy - tiny free proxy server
 - [igraph](https://github.com/igraph/igraph) - Library for the analysis of networks
-- [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV viewer.
+- [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer.
 - [SmallerC](https://github.com/alexfru/SmallerC) - Simple C compiler
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders shaders
 - [rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
@@ -784,6 +791,7 @@
 
 ## C++ 
 
+- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [umoria](https://github.com/dungeons-of-moria/umoria) - Moria: a roguelike Dungeon Crawler game | Umoria Source Code
 - [griefly](https://github.com/griefly/griefly) - Griefly: Yet Another Space Station Remake
@@ -1198,6 +1206,8 @@
 
 ## CSS 
 
+- [ezprompt](https://github.com/jmatth/ezprompt) - An easy to use webapp for creating simple bash prompts.
+- [all-exit-error-codes](https://github.com/arzzen/all-exit-error-codes) - List of all Error/Exit Codes
 - [Learn-Something-Every-Day](https://github.com/kevintpeng/Learn-Something-Every-Day) - 📝 A compilation of everything that I learn; Computer Science, Software Development, Engineering, Math, and Coding in General.  Read the rendered results here -&gt;
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
@@ -1496,6 +1506,8 @@
 
 ## Dockerfile 
 
+- [webdav](https://github.com/tadly/webdav) - Docker: A alpine linux based webdav server.
+- [syncthing-srv](https://github.com/tadly/syncthing-srv) - Docker: A alpine linux based syncthing relay and discovery server.
 - [guix](https://github.com/metacall/guix) - Docker image for using GuixSD in a CI/CD environment.
 - [docker-tor](https://github.com/mko-x/docker-tor) - Setup a Tor relay Server/Service easily. Support Tor!!
 - [docker-nginx-simple](https://github.com/mko-x/docker-nginx-simple) - Simple nginx serving static content in just a few lines of code.
@@ -1548,6 +1560,11 @@
 
 ## Emacs Lisp 
 
+- [helm-taskswitch](https://github.com/bdc34/helm-taskswitch) - Helm source for switching between X windows
+- [flycheck-ledger](https://github.com/purcell/flycheck-ledger) - A flychecker for checking ledger files
+- [diredfl](https://github.com/purcell/diredfl) - Extra Emacs font lock rules for a more colourful dired
+- [flycheck-package](https://github.com/purcell/flycheck-package) - Flycheck checker for elisp package metadata
+- [emacs-w3m](https://github.com/emacs-w3m/emacs-w3m) - emacs-w3m, a simple Emacs interface to w3m
 - [ghelp](https://github.com/casouri/ghelp) - Emacs generic Help
 - [trashed](https://github.com/shingo256/trashed) - Viewing/editing system trash can in Emacs
 - [emacs-training](https://github.com/bzg/emacs-training) - Emacs training
@@ -3096,6 +3113,7 @@
 
 ## Erlang 
 
+- [kjell](https://github.com/karlll/kjell) - Erlang Shell
 - [otp](https://github.com/erlang/otp) - Erlang/OTP
 - [docsh](https://github.com/erszcz/docsh) - Erlang Docs in the Shell
 - [wings](https://github.com/bjorng/wings) - Wings3D is an advanced sub-division 3D modeller.
@@ -3128,6 +3146,18 @@
 
 ## Go 
 
+- [wash](https://github.com/puppetlabs/wash) - Wide Area SHell: a cloud-native shell for bringing remote infrastructure to your terminal.
+- [vsh](https://github.com/fishi0x01/vsh) - vsh - HashiCorp Vault interactive shell
+- [tj](https://github.com/sgreben/tj) - stdin line timestamps. single binary, no dependencies. osx & linux & windows. plays well with jq.
+- [spotitube](https://github.com/streambinder/spotitube) - Shell go-lang application to incrementally download from Spotify into local folder
+- [rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
+- [gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash and ZSH written in Go.
+- [pipethis](https://github.com/ellotheth/pipethis) - Replace your `curl | sh` installers
+- [complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
+- [rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
+- [elvish](https://github.com/elves/elvish) - Friendly Interactive Shell and Expressive Programming Language
+- [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
+- [werf](https://github.com/flant/werf) - GitOps delivery tool
 - [torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
 - [container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images
 - [machine](https://github.com/docker/machine) - Machine management for a container-centric world
@@ -3696,6 +3726,7 @@
 
 ## HTML 
 
+- [shell-novice](https://github.com/swcarpentry/shell-novice) - Software Carpentry introduction to the shell for novices.
 - [awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
 - [the-federation.info](https://github.com/thefederationinfo/the-federation.info) - Statistics hub for the Fediverse
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
@@ -3792,6 +3823,7 @@
 
 ## Haskell 
 
+- [FuncShell](https://github.com/iostreamer-X/FuncShell) - Improve your shell by making it functional through Haskell! (An update to Awkward)
 - [haze](https://github.com/cronokirby/haze) - A bittorrent client, for learning purposes
 - [haskell_game](https://github.com/drummyfish/haskell_game) - Wolfenstein 3D, ray-casting FPS game I make to learn Haskell. No libraries used, rendering is done in terminal.
 - [dino-rush](https://github.com/jxv/dino-rush) - 🌋 Endless runner game
@@ -3926,6 +3958,8 @@
 
 ## Java 
 
+- [RxShell](https://github.com/d4rken/RxShell) - Easy shell access for Android apps using RxJava.
+- [AndroidShell](https://github.com/jaredrummler/AndroidShell) - Execute shell commands on Android.
 - [libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [dashboard-view-plugin](https://github.com/jenkinsci/dashboard-view-plugin) - Jenkins dashboard-view plugin
@@ -4062,6 +4096,12 @@
 
 ## JavaScript 
 
+- [shellshare](https://github.com/vitorbaptista/shellshare) - Live terminal broadcasts
+- [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
+- [learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
+- [cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
+- [web-console](https://github.com/nickola/web-console) - Simple web-based shell, remote shell in your browser
+- [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal
 - [clear-browsing-data](https://github.com/dessant/clear-browsing-data) - Browser extension for clearing browsing data
 - [search-by-image](https://github.com/dessant/search-by-image) - :framed_picture: Browser extension for reverse image search, available on Chrome, Firefox and Opera
 - [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
@@ -4101,7 +4141,6 @@
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
-- [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
 - [fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
@@ -4744,6 +4783,7 @@
 
 ## Lua 
 
+- [awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
 - [nvim-lsp](https://github.com/neovim/nvim-lsp) - Common configurations for Neovim Language Servers
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
@@ -4892,6 +4932,12 @@
 
 ## Others 
 
+- [bash-guide](https://github.com/vuuihc/bash-guide) - bash 基本用法指南
+- [nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
+- [bash-guide](https://github.com/omergulen/bash-guide) - Shell Rehberi
+- [shell-book](https://github.com/52fhy/shell-book) - ❤️Shell脚本学习系列教程：6小节内容轻松掌握shell编程。
+- [git-pushdemont](https://github.com/voghDev/git-pushdemont) - Custom Git command that marks your commits as pushed, then reverts the process after 8 seconds
+- [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [awesome-discord](https://github.com/jacc/awesome-discord) - 🕹 A curated list of awesome things on Discord.
 - [game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games
@@ -5401,6 +5447,9 @@
 
 ## PHP 
 
+- [Caesar](https://github.com/0blio/Caesar) - An HTTP based RAT (Remote Administration Tool) that allows you to remotely control devices from your browser
+- [yii2-webshell](https://github.com/samdark/yii2-webshell) - Web shell allows to run yii console commands using a browser
+- [DAws](https://github.com/dotcppfile/DAws) - Advanced Web Shell
 - [wordpress-seo](https://github.com/Yoast/wordpress-seo) - Yoast SEO for WordPress
 - [TeamPass](https://github.com/nilsteampassnet/TeamPass) - Collaborative Passwords Manager
 - [BrowserQuest-PHP](https://github.com/walkor/BrowserQuest-PHP) - BrowserQuest server in PHP base on workerman. A PHP/HTML5/JavaScript multiplayer game experiment.
@@ -5615,10 +5664,12 @@
 
 ## PostScript 
 
+- [powerline-extra-symbols](https://github.com/ryanoasis/powerline-extra-symbols) - :arrow_forward: Extra glyphs for your powerline separators
 - [RFC](https://github.com/alimy/RFC) - RFC Archives
 
 ## PowerShell 
 
+- [ConPtyShell](https://github.com/antonioCoco/ConPtyShell) - ConPtyShell - Fully Interactive Reverse Shell for Windows
 - [Internal-Pentest-Playbook](https://github.com/sdcampbell/Internal-Pentest-Playbook) - Internal Network Penetration Test Playbook
 - [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [oscp](https://github.com/ferreirasc/oscp) - oscp study
@@ -5640,6 +5691,23 @@
 
 ## Python 
 
+- [cast-sh](https://github.com/pod-cast/cast-sh) - :pager: An instance of your terminal in your browser
+- [cmd2](https://github.com/python-cmd2/cmd2) - cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python
+- [riposte](https://github.com/fwkz/riposte) - Python package for wrapping applications inside a tailored interactive shell
+- [pygogo](https://github.com/reubano/pygogo) - A Python logging library with super powers
+- [JSShell](https://github.com/Den1al/JSShell) - An interactive multi-user web JS shell
+- [autoops](https://github.com/hequan2017/autoops) - linux资产管理,cmdb,django, webssh,运维管理平台，数据库操作平台   本项目已停止开发！因长时间未对代码进行维护，可能会造成项目在不同环境上无法部署、运行BUG等问题，请知晓！项目仅供参考！
+- [funky](https://github.com/bbugyi200/funky) - Funky takes shell functions to the next level by making them easier to define, more flexible, and more interactive.
+- [covertutils](https://github.com/operatorequals/covertutils) - A framework for Backdoor development!
+- [shellpy](https://github.com/lamerman/shellpy) - A tool for convenient shell scripting in python
+- [netutils-linux](https://github.com/strizhechenko/netutils-linux) - A suite of utilities simplilfying linux networking stack performance troubleshooting and tuning.
+- [linux](https://github.com/chenzhiwei/linux) - Linux related notes.
+- [shellen](https://github.com/merrychap/shellen) - :cherry_blossom: Interactive shellcoding environment to easily craft shellcodes
+- [stack-inspector](https://github.com/sharkdp/stack-inspector) - A gdb command to inspect the size of objects on the stack
+- [shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
+- [ShellPop](https://github.com/0x00-0x00/ShellPop) - Pop shells like a master.
+- [aurman](https://github.com/polygamma/aurman) - AUR Helper
+- [vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Set latest wallpapers from Unsplash from the commandline
 - [hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management -- and other things too
 - [pyrocore](https://github.com/pyroscope/pyrocore) - :wrench: A collection of tools for the BitTorrent protocol and especially the rTorrent client
@@ -5901,7 +5969,6 @@
 - [instapy-cli](https://github.com/instagrambot/instapy-cli) - :sparkles: Python library and CLI to upload photo and video on Instagram. W/o a phone!
 - [git-deps](https://github.com/aspiers/git-deps) - git commit dependency analysis tool
 - [mech](https://github.com/mechboxes/mech) - Easy command line virtual machines for VMWare
-- [cmd2](https://github.com/python-cmd2/cmd2) - cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python
 - [pycycle](https://github.com/bndr/pycycle) - Tool for pinpointing circular imports in Python. Find cyclic imports in any project
 - [irs](https://github.com/cooperhammond/irs) - :guitar: :notes: A music downloader that understands your metadata needs.
 - [ascii_py](https://github.com/ProfOak/ascii_py) - Make some ascii arts
@@ -6745,7 +6812,7 @@
 - [django-ajax](https://github.com/joestump/django-ajax) - A simple framework for creating AJAX endpoints in Django.
 - [django-ajax](https://github.com/yceruto/django-ajax) - Fast and easy AJAX libraries for django applications. Contains ajax decorator, ajax middleware, shortcuts and more.
 - [dj-static](https://github.com/heroku-python/dj-static) - Serve production static files with Django.
-- [python-livereload](https://github.com/lepture/python-livereload) - livereload server in python
+- [python-livereload](https://github.com/lepture/python-livereload) - livereload server in python (MAINTAINERS NEEDED)
 - [django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -6836,6 +6903,9 @@
 
 ## Ruby 
 
+- [jenkins-backup-script](https://github.com/sue445/jenkins-backup-script) - archive jenkins setting and plugins
+- [open-shell-book](https://github.com/tinyclub/open-shell-book) - 开源书籍：《Shell 编程范例》，面向操作对象学 Shell！
+- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
 - [foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
 - [infrastructure-as-code-training](https://github.com/gruntwork-io/infrastructure-as-code-training) - Materials for learning how to use infrastructure-as-code
 - [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Test Kitchen plugins for testing Terraform configurations
@@ -6986,6 +7056,9 @@
 
 ## Rust 
 
+- [vivid](https://github.com/sharkdp/vivid) - A generator for LS_COLORS with support for multiple color themes
+- [cicada](https://github.com/mitnk/cicada) - A bash-like Unix shell written in Rust
+- [lucid](https://github.com/sharkdp/lucid) - A simple mock-application for programs that work with child processes
 - [dose-response](https://github.com/tryjumping/dose-response) - Dose Response is a roguelike where you play an addict. Avoid the dangers threatening your mind and body while desperately looking for the next fix.
 - [colonize](https://github.com/indiv0/colonize) - A Dwarf Fortress/Rimworld-like game written in Rust
 - [rusted-ruins](https://github.com/garkimasera/rusted-ruins) - Extensible open world rogue like game with pixel art. Players can explore the wilderness and ruins.
@@ -7175,6 +7248,88 @@
 
 ## Shell 
 
+- [spf-tools](https://github.com/spf-tools/spf-tools) - Shell scripts for taming the SPF (Sender Policy Framework) records in order to fight 10-maximum-DNS-look-ups limit.
+- [jwalk](https://github.com/shellbound/jwalk) - Streaming JSON parser for Unix
+- [EternalView](https://github.com/rpranshu/EternalView) - EternalView is an all in one basic information gathering and vulnerability assessment tool
+- [scrabble](https://github.com/denny0223/scrabble) - Simple tool to recover .git folder from remote server
+- [easy-build](https://github.com/gmacario/easy-build) - Collection of Dockerfiles for building embedded software distributions
+- [autosetup](https://github.com/shubhampathak/autosetup) - Auto setup is a bash script compatible with Debian based distributions to install and setup necessary programs.
+- [ansible-completion](https://github.com/dysosmus/ansible-completion) - Basic bash completion for Ansible
+- [minimal-linux-script](https://github.com/ivandavidov/minimal-linux-script) - One script which generates live Linux ISO image with minimal effort. Based on the first published version of Minimal Linux Live: http://github.com/ivandavidov/minimal
+- [trigger](https://github.com/sharkdp/trigger) - Run a user-defined command on file changes
+- [hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
+- [docker-matrix](https://github.com/silvio/docker-matrix) - docker image for matrix.org
+- [MIDA-Multitool](https://github.com/NullArray/MIDA-Multitool) - Bash script purposed for system enumeration, vulnerability identification and privilege escalation.
+- [hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
+- [Adebar](https://github.com/IzzySoft/Adebar) - Android DEvice Backup And Report, using Bash and ADB
+- [PE-Linux](https://github.com/WazeHell/PE-Linux) - Linux Privilege Escalation Tool By WazeHell
+- [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu percentage and icon indicator for Tmux.
+- [PartyLoud](https://github.com/realtho/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
+- [googliser](https://github.com/teracow/googliser) - a fast BASH multiple-image downloader
+- [zabbix-haproxy](https://github.com/anapsix/zabbix-haproxy) - HAProxy Zabbix Discovery and Template
+- [shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) - Shell入门教程（Shell tutorial book）
+- [MultiCD](https://github.com/IsaacSchemm/MultiCD) - A shell script package for creating combination disks from Linux ISOs.
+- [zshdb](https://github.com/rocky/zshdb) - gdb-like "trepan" debugger for zsh
+- [tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
+- [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A fun project made for slackers by slackers.
+- [gallery_shell](https://github.com/Cyclenerd/gallery_shell) - 📷 Bash Script to generate static responsive image web galleries.
+- [shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
+- [Remot3d](https://github.com/KeepWannabe/Remot3d) - Remot3d: is a simple tool created for large pentesters as well as just for the pleasure of defacers to control server by backdoors
+- [shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm) - 😎 Safe-rm: A drop-in and much safer replacement of bash rm with nearly full functionalities and options of the rm command! Safe-rm will act exactly the same as the original rm command.
+- [tmuxen](https://github.com/xuxiaodong/tmuxen) - tmux environment made easy.
+- [dnsmasq_sniproxy_install](https://github.com/myxuchangbin/dnsmasq_sniproxy_install) - One-click Install and Configure Dnsmasq and Sniproxy for CentOS/Debian/Ubuntu
+- [wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove node_modules folder of non-active projects
+- [debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs 🧬 for Debian-based servers
+- [42FileChecker](https://github.com/jgigault/42FileChecker) - 42FileChecker is a tiny bash script developed at 42 school for testing and checking files according to the rules of the subjects
+- [format-udf](https://github.com/JElchison/format-udf) - Bash script to format a block device (hard drive or Flash drive) in UDF. The output is a drive that can be used for reading/writing across multiple operating system families: Windows, macOS, and Linux. This script should be capable of running in macOS or in Linux.
+- [split2flac](https://github.com/ftrvxmtrx/split2flac) - Split flac/ape/wv/wav + cue sheet into separate tracks
+- [cronlock](https://github.com/kvz/cronlock) - cronlock lets you deploy cronjobs cluster-wide without worrying about overlaps. It uses Redis to keep track of locks.
+- [pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
+- [composure](https://github.com/erichs/composure) - Don't fear the Unix chainsaw
+- [mongo-sync](https://github.com/sheharyarn/mongo-sync) - Sync Remote and Local MongoDB Databases :fire:
+- [gdub](https://github.com/dougborg/gdub) - A gradlew / gradle wrapper.
+- [wp-dev-lib](https://github.com/xwp/wp-dev-lib) - Common code used during development of WordPress plugins and themes
+- [lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
+- [systemd-swap](https://github.com/Nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
+- [auto-gitlab-backup](https://github.com/sund/auto-gitlab-backup) - A simple script to backup your Gitlab data. This script will copy the backup archives of your gitlab installation via rsync, or scp. Also, you can copy backups to Backblaze’s B2 Cloud Storage service.
+- [ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
+- [iohyve](https://github.com/pr1ntf/iohyve) - FreeBSD bhyve manager utilizing ZFS
+- [envirius](https://github.com/ekalinin/envirius) - Universal Virtual Environments Manager
+- [shell](https://github.com/oscm/shell) - Infrastructure Management Shell - Linux
+- [ispconfig_setup](https://github.com/servisys/ispconfig_setup) - ISPConfig autoinstaller and setup
+- [shml](https://github.com/odb/shml) - SHell Markup Language | Style Framework for The Terminal
+- [unifi-pfsense](https://github.com/gozoinks/unifi-pfsense) - A script that installs the UniFi Controller software on pfSense and other FreeBSD systems
+- [ipset-blacklist](https://github.com/trick77/ipset-blacklist) - A bash script to ban large numbers of IP addresses published in blacklists.
+- [tldr](https://github.com/raylee/tldr) - Simplified and community-driven man pages
+- [graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
+- [ddos-deflate](https://github.com/jgmdev/ddos-deflate) - Fork of DDoS Deflate with fixes, improvements and new features.
+- [demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment.
+- [google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
+- [historian](https://github.com/jcsalterego/historian) - Command-line utility for managing shell history in a SQLite database.
+- [ubuntu-post-install](https://github.com/snwh/ubuntu-post-install) - A set of post-installation shell scripts for Ubuntu
+- [update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
+- [jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
+- [oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
+- [pacaur](https://github.com/rmarquis/pacaur) - [unmaintained] An AUR helper that minimizes user interaction
+- [transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
+- [buava](https://github.com/fsquillace/buava) - The utility library for Bash you always dreamed of
+- [pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessible via git.
+- [kyrat](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX
+- [junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs upon any Linux distros without root access
+- [pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
+- [whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
+- [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
+- [nave](https://github.com/isaacs/nave) - Virtual Environments for Node
+- [gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
+- [across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
+- [vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
+- [curltime](https://github.com/arzzen/curltime) - A simple command line (bash/shell) utility to measure HTTP request time with cUrl
+- [mongodb-info](https://github.com/arzzen/mongodb-info) - MongoDB Info - command line tool to get stats.
+- [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
+- [dehydrated](https://github.com/lukas2511/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
+- [kaldi](https://github.com/kaldi-asr/kaldi) - This is the official location of the Kaldi project.
+- [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [docker2singularity](https://github.com/singularityhub/docker2singularity) - A docker image for converting docker images to singularity images.
 - [bspwm_border_color](https://github.com/Kody-Quintana/bspwm_border_color) - VIM mode indicator for bspwm
 - [docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
