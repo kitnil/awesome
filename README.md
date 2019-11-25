@@ -330,7 +330,7 @@
 - [xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [nemesis](https://github.com/troglobit/nemesis) - A command-line network packet crafting and injection utility
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X
 - [ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [LISP](https://github.com/krig/LISP) - My attempt at implementing the original LISP paper while learning lisp. Nothing special, mostly posted as a homage to McCarthy.
 - [h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
@@ -556,7 +556,7 @@
 - [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
 - [c4](https://github.com/rswier/c4) - C in four functions
 - [captdriver](https://github.com/agalakhov/captdriver) - Driver for Canon CAPT printers
-- [eudev](https://github.com/gentoo/eudev) - Repository for eudev development
+- [eudev](https://github.com/gentoo/eudev) - [MIRROR] Repository for eudev development
 - [openrc](https://github.com/OpenRC/openrc) - The OpenRC init system
 - [tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
@@ -4039,7 +4039,7 @@
 - [OSMonitor](https://github.com/eolwral/OSMonitor) - Android OS Monitor
 - [OpenKeeper](https://github.com/tonihele/OpenKeeper) - Dungeon Keeper II remake
 - [gitlab-plugin](https://github.com/jenkinsci/gitlab-plugin) - A Jenkins plugin for interfacing with GitLab
-- [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
+- [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
 - [PocketMaps](https://github.com/junjunguo/PocketMaps) - Free offline maps with routing functions and more ...
 - [open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
@@ -4096,6 +4096,7 @@
 
 ## JavaScript 
 
+- [unwanted-twitch](https://github.com/kwaschny/unwanted-twitch) - Hide unwanted streams, games, categories and channels on: twitch.tv
 - [shellshare](https://github.com/vitorbaptista/shellshare) - Live terminal broadcasts
 - [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
@@ -6558,10 +6559,10 @@
 - [flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
-- [portage](https://github.com/gentoo/portage) - Portage Package Manager - this is just a mirror, see https://wiki.gentoo.org/wiki/Project:Portage#Contributing_to_Portage
+- [portage](https://github.com/gentoo/portage) - [MIRROR] Package management system
 - [numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
-- [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
 - [game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 - [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -7005,7 +7006,7 @@
 - [capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
 - [dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
-- [postal](https://github.com/atech/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postal](https://github.com/postalhq/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [streamio-ffmpeg](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful ruby ffmpeg wrapper for reading metadata and transcoding movies
 - [dentaku](https://github.com/rubysolo/dentaku) - math and logic formula parser and evaluator
 - [feed2imap](https://github.com/feed2imap/feed2imap) - feed aggregator (RSS/Atom) which puts items on a IMAP mail server
@@ -7248,6 +7249,7 @@
 
 ## Shell 
 
+- [netbootcd](https://github.com/IsaacSchemm/netbootcd) - The build files for NetbootCD (except the CorePlus ISO)
 - [spf-tools](https://github.com/spf-tools/spf-tools) - Shell scripts for taming the SPF (Sender Policy Framework) records in order to fight 10-maximum-DNS-look-ups limit.
 - [jwalk](https://github.com/shellbound/jwalk) - Streaming JSON parser for Unix
 - [EternalView](https://github.com/rpranshu/EternalView) - EternalView is an all in one basic information gathering and vulnerability assessment tool
@@ -7496,7 +7498,7 @@
 - [has](https://github.com/kdabir/has) - ✅checks presence of various command line tools and their versions on the path
 - [simplesh](https://github.com/rafaelstz/simplesh) - :penguin: Quick installation for Ubuntu terminal.
 - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - :rocket: Quickly open urls on terminal screen!
-- [forgit](https://github.com/wfxr/forgit) - :zzz: Fuzzy git
+- [forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [xcv](https://github.com/busterc/xcv) - :scissors: Cut, Copy and Paste files with Bash
 - [netctl](https://github.com/joukewitteveen/netctl) - Profile based systemd network management
 - [termux-archlinux](https://github.com/SDRausty/termux-archlinux) - You can use setupTermuxArch.sh 📲 to install Arch Linux in Termux on Amazon Fire, Android and Chromebook.  https://sdrausty.github.io/termux-archlinux/
@@ -7681,7 +7683,7 @@
 - [docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
 - [blog](https://github.com/mattalcock/blog) - My personal blog
 - [baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
-- [gentoo](https://github.com/gentoo/gentoo) - The Gentoo ebuild repository mirror
+- [gentoo](https://github.com/gentoo/gentoo) - [MIRROR] Official Gentoo ebuild repository
 - [dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [mac-dev-setup](https://github.com/nicolashery/mac-dev-setup) - A beginner's guide to setting up a development environment on macOS
 - [docker-brew-mageia](https://github.com/juanluisbaptiste/docker-brew-mageia) - Scripts and files to create Mageia official docker base images.
