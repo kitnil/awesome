@@ -791,6 +791,7 @@
 
 ## C++ 
 
+- [q5Go](https://github.com/bernds/q5Go) - An improved port of qGo to Qt5: SGF editor, analysis tool, IGS client
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [umoria](https://github.com/dungeons-of-moria/umoria) - Moria: a roguelike Dungeon Crawler game | Umoria Source Code
@@ -6058,7 +6059,7 @@
 - [feedmixer](https://github.com/cristoper/feedmixer) - A micro web service to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON)
 - [clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
 - [micawber](https://github.com/coleifer/micawber) - a small library for extracting rich content from urls
-- [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - Chainer Chemistry: A Library for Deep Learning in Biology and Chemistry
+- [chainer-chemistry](https://github.com/chainer/chainer-chemistry) - Chainer Chemistry: A Library for Deep Learning in Biology and Chemistry
 - [openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
 - [ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible examples from Ansible for DevOps.
@@ -7137,6 +7138,7 @@
 - [cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [cancer](https://github.com/meh/cancer) - It's terminal.
