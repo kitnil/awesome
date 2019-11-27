@@ -156,6 +156,7 @@
 
 ## C 
 
+- [vde-2](https://github.com/virtualsquare/vde-2) - 
 - [szl](https://github.com/dimkr/szl) - A lightweight, embeddable scripting language
 - [frosted](https://github.com/insane-adding-machines/frosted) - Frosted: Free POSIX OS for tiny embedded devices
 - [dgsh](https://github.com/dspinellis/dgsh) - Shell supporting pipelines to and from multiple processes
@@ -1536,7 +1537,6 @@
 - [php-apache-mysql-containerized](https://github.com/mzazon/php-apache-mysql-containerized) - A brief demo of containerizing php apache and mysql with Docker using some best practices.
 - [docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq) - dnsmasq in a docker container, configurable via a simple web UI
 - [distro-test-containers](https://github.com/ansible/distro-test-containers) - Distribution specific containers for Ansible integration testing.
-- [pandorabox.io](https://github.com/pandorabox-io/pandorabox.io) - Pandorabox minetest server config
 - [docker-grafana-graphite](https://github.com/kamon-io/docker-grafana-graphite) - Docker image with StatsD, Graphite, Grafana 2 and a Kamon Dashboard
 - [nginx-php-fpm](https://github.com/richarvey/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
 - [lisp-images](https://github.com/fisxoj/lisp-images) - Docker images for common lisp development
@@ -3148,6 +3148,7 @@
 
 ## Go 
 
+- [go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering
 - [wash](https://github.com/puppetlabs/wash) - Wide Area SHell: a cloud-native shell for bringing remote infrastructure to your terminal.
 - [vsh](https://github.com/fishi0x01/vsh) - vsh - HashiCorp Vault interactive shell
 - [tj](https://github.com/sgreben/tj) - stdin line timestamps. single binary, no dependencies. osx & linux & windows. plays well with jq.
@@ -3469,7 +3470,7 @@
 - [pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [sentences](https://github.com/neurosnap/sentences) - A multilingual command line sentence tokenizer in Golang
-- [trdsql](https://github.com/noborus/trdsql) - A tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
+- [trdsql](https://github.com/noborus/trdsql) - A tool that can execute SQL queries on CSV, LTSV, JSON and TBLN and output them to various formats.
 - [nirvana](https://github.com/caicloud/nirvana) - Golang Restful API Framework for Productivity
 - [gosh](https://github.com/vladimirvivien/gosh) - Gosh -  a pluggable framework for building command shell programs
 - [gkill](https://github.com/heppu/gkill) - Interactice process killer for Linux and macOS
@@ -3825,6 +3826,8 @@
 
 ## Haskell 
 
+- [eta](https://github.com/typelead/eta) - The Eta Programming Language, a dialect of Haskell on the JVM
+- [gitlib](https://github.com/jwiegley/gitlib) - 
 - [FuncShell](https://github.com/iostreamer-X/FuncShell) - Improve your shell by making it functional through Haskell! (An update to Awkward)
 - [haze](https://github.com/cronokirby/haze) - A bittorrent client, for learning purposes
 - [haskell_game](https://github.com/drummyfish/haskell_game) - Wolfenstein 3D, ray-casting FPS game I make to learn Haskell. No libraries used, rendering is done in terminal.
@@ -4935,6 +4938,7 @@
 
 ## Others 
 
+- [browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
 - [bash-guide](https://github.com/vuuihc/bash-guide) - bash 基本用法指南
 - [nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [bash-guide](https://github.com/omergulen/bash-guide) - Shell Rehberi
@@ -5568,6 +5572,7 @@
 
 ## Perl 
 
+- [urxvt-resize-font](https://github.com/simmel/urxvt-resize-font) - URxvt Perl extension for resizing the font
 - [openkore](https://github.com/OpenKore/openkore) - A free/open source client and automation tool for Ragnarok Online
 - [Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [cperl](https://github.com/perl11/cperl) - A perl5 with classes, types, compilable, company friendly, security
@@ -7517,6 +7522,7 @@
 - [geom](https://github.com/thi-ng/geom) - 2D/3D geometry toolkit for Clojure/Clojurescript
 - [examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [run_scaled](https://github.com/kaueraal/run_scaled) - Run an X application scaled via xpra. Useful on hidpi screens.
+- [pandorabox.io](https://github.com/pandorabox-io/pandorabox.io) - Pandorabox minetest server config
 - [bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.
 - [ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
@@ -7824,6 +7830,7 @@
 
 ## TypeScript 
 
+- [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from "terraform plan" and converting it to JSON.
 - [deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
