@@ -123,6 +123,7 @@
 
 ## Assembly 
 
+- [coursera_learning](https://github.com/raventid/coursera_learning) - Used to be my Coursera's homeworks and notes. Now it's a knowledge kitchen sink :)
 - [unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [its](https://github.com/PDP-10/its) - Incompatible Timesharing System
 - [x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) - Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup
@@ -156,6 +157,18 @@
 
 ## C 
 
+- [mpc](https://github.com/orangeduck/mpc) - A Parser Combinator library for C
+- [bebe](https://github.com/raventid/bebe) - My own LISP dialect, crafted with love.
+- [luaposix](https://github.com/luaposix/luaposix) - Lua bindings for POSIX APIs
+- [swupdate](https://github.com/sbabic/swupdate) - Software Update for Embedded Systems
+- [UnicornConsole](https://github.com/Gigoteur/UnicornConsole) - Unicorn Console: create quick game !
+- [SVF](https://github.com/SVF-tools/SVF) - Static Value-Flow Analysis for C and C++ Programs
+- [crown](https://github.com/dbartolini/crown) - The flexible game engine.
+- [sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
+- [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
+- [rtty](https://github.com/zhaojh329/rtty) - Access your device's terminal from anywhere via the web.
+- [headmore](https://github.com/HouzuoGuo/headmore) - Top geek’s fully VNC client that runs in Linux terminal (Linux VT console, xterm, and more)
+- [img2xterm](https://github.com/rossy/img2xterm) - Displays images on your 256-color terminal with Unicode block characters.
 - [vde-2](https://github.com/virtualsquare/vde-2) - 
 - [szl](https://github.com/dimkr/szl) - A lightweight, embeddable scripting language
 - [frosted](https://github.com/insane-adding-machines/frosted) - Frosted: Free POSIX OS for tiny embedded devices
@@ -791,6 +804,11 @@
 
 ## C++ 
 
+- [BlueshiftEngine](https://github.com/PolygonTek/BlueshiftEngine) - Blueshift is a cross-platform 3D game engine implemented in C++. it's free, open-source, and works on Windows, macOS, iOS, and Android. The project is currently in an early stage of development.
+- [mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that adds full network multiplayer functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found.
+- [dg](https://github.com/mchalupa/dg) - [LLVM Static Slicer] Dependence graph for programs. A set of generic program analyses and a static slicer for LLVM bitcode.
+- [TscanCode](https://github.com/Tencent/TscanCode) - A static code analyzer for C++, C#, Lua
+- [WickedEngine](https://github.com/turanszkij/WickedEngine) - C++ game engine focusing on modern rendering techniques and performance.
 - [q5Go](https://github.com/bernds/q5Go) - An improved port of qGo to Qt5: SGF editor, analysis tool, IGS client
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
@@ -1503,6 +1521,7 @@
 
 ## Dart 
 
+- [go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries
 - [chromedeveditor](https://github.com/googlearchive/chromedeveditor) - Chrome Dev Editor is a developer tool for building apps on the Chrome platform - Chrome Apps and Web Apps, in JavaScript or Dart. (NO LONGER IN ACTIVE DEVELOPMENT)
 
 ## Dockerfile 
@@ -1560,6 +1579,7 @@
 
 ## Emacs Lisp 
 
+- [apheleia](https://github.com/raxod502/apheleia) - 🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.
 - [anki-connect.el](https://github.com/lujun9972/anki-connect.el) - AnkiConnect API for Emacs
 - [use-package-secrets](https://github.com/a13/use-package-secrets) - :secret keyword for use-package
 - [helm-taskswitch](https://github.com/bdc34/helm-taskswitch) - Helm source for switching between X windows
@@ -3115,6 +3135,7 @@
 
 ## Erlang 
 
+- [elvis](https://github.com/inaka/elvis) - Erlang Style Reviewer
 - [kjell](https://github.com/karlll/kjell) - Erlang Shell
 - [otp](https://github.com/erlang/otp) - Erlang/OTP
 - [docsh](https://github.com/erszcz/docsh) - Erlang Docs in the Shell
@@ -3148,6 +3169,10 @@
 
 ## Go 
 
+- [g-fu](https://github.com/codr7/g-fu) - Lisp to Go
+- [prealloc](https://github.com/alexkohler/prealloc) - prealloc is a Go static analysis tool to find slice declarations that could potentially be preallocated.
+- [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
+- [gosec](https://github.com/securego/gosec) - Golang security checker
 - [go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering
 - [wash](https://github.com/puppetlabs/wash) - Wide Area SHell: a cloud-native shell for bringing remote infrastructure to your terminal.
 - [vsh](https://github.com/fishi0x01/vsh) - vsh - HashiCorp Vault interactive shell
@@ -3963,6 +3988,11 @@
 
 ## Java 
 
+- [SonarJS](https://github.com/SonarSource/SonarJS) - SonarJS: JavaScript and TypeScript Analyzer for SonarQube
+- [phpinspectionsea](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP (a PhpStorm/Idea Plugin)
+- [spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
+- [pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
+- [NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [RxShell](https://github.com/d4rken/RxShell) - Easy shell access for Android apps using RxJava.
 - [AndroidShell](https://github.com/jaredrummler/AndroidShell) - Execute shell commands on Android.
 - [libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
@@ -4101,6 +4131,10 @@
 
 ## JavaScript 
 
+- [eslint-config-standard-react](https://github.com/standard/eslint-config-standard-react) - ESLint Shareable Config for React/JSX support in JavaScript Standard Style
+- [eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
+- [EasyDockerWeb](https://github.com/qfdk/EasyDockerWeb) - A simple Web Ui for Docker using xterm.js, Node.js, dockerode and Socket.io
+- [webssh2](https://github.com/billchurch/webssh2) - Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
 - [unwanted-twitch](https://github.com/kwaschny/unwanted-twitch) - Hide unwanted streams, games, categories and channels on: twitch.tv
 - [shellshare](https://github.com/vitorbaptista/shellshare) - Live terminal broadcasts
 - [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
@@ -4789,6 +4823,16 @@
 
 ## Lua 
 
+- [grid-sdk](https://github.com/Planimeter/grid-sdk) - The Grid SDK - Game engine for Lua
+- [lua-http](https://github.com/daurnimator/lua-http) - HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server.
+- [luadec](https://github.com/viruscamp/luadec) - Lua Decompiler for lua 5.1 , 5.2 and 5.3
+- [lain](https://github.com/lcpz/lain) - Awesome WM complements
+- [vita](https://github.com/inters/vita) - Vita: simple and fast VPN gateway
+- [nginx-lua-prometheus](https://github.com/knyar/nginx-lua-prometheus) - Prometheus metric library for Nginx written in Lua
+- [luacheck](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
+- [vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
+- [luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
+- [lua-resty-auto-ssl](https://github.com/GUI/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
 - [awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
 - [nvim-lsp](https://github.com/neovim/nvim-lsp) - Common configurations for Neovim Language Servers
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
@@ -4938,6 +4982,10 @@
 
 ## Others 
 
+- [awesome-coding-camps](https://github.com/theodesp/awesome-coding-camps) - A curated list of awesome Coding Bootcamps and websites to help you boost your career in Programming
+- [awesome-scheme](https://github.com/theodesp/awesome-scheme) - A curated list of awesome Scheme resources and materials
+- [awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem!
+- [awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
 - [bash-guide](https://github.com/vuuihc/bash-guide) - bash 基本用法指南
 - [nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
@@ -5455,6 +5503,10 @@
 
 ## PHP 
 
+- [phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code
+- [phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics
+- [larastan](https://github.com/nunomaduro/larastan) - Discover bugs in your code without running it - phpstan wrapper for Laravel.
+- [phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [Caesar](https://github.com/0blio/Caesar) - An HTTP based RAT (Remote Administration Tool) that allows you to remotely control devices from your browser
 - [yii2-webshell](https://github.com/samdark/yii2-webshell) - Web shell allows to run yii console commands using a browser
 - [DAws](https://github.com/dotcppfile/DAws) - Advanced Web Shell
@@ -5572,6 +5624,7 @@
 
 ## Perl 
 
+- [Perl-Critic](https://github.com/Perl-Critic/Perl-Critic) - The leading static analyzer for Perl.  Configurable, extensible, powerful.
 - [urxvt-resize-font](https://github.com/simmel/urxvt-resize-font) - URxvt Perl extension for resizing the font
 - [openkore](https://github.com/OpenKore/openkore) - A free/open source client and automation tool for Ragnarok Online
 - [Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
@@ -5700,6 +5753,10 @@
 
 ## Python 
 
+- [bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
+- [pytype](https://github.com/google/pytype) - A static type analyzer for Python code
+- [sshbg](https://github.com/fboender/sshbg) - Change terminal background when SSH'ing (on specific terminals)
+- [codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [cast-sh](https://github.com/pod-cast/cast-sh) - :pager: An instance of your terminal in your browser
 - [cmd2](https://github.com/python-cmd2/cmd2) - cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python
 - [riposte](https://github.com/fwkz/riposte) - Python package for wrapping applications inside a tailored interactive shell
@@ -5812,7 +5869,6 @@
 - [ankiplugins](https://github.com/dae/ankiplugins) - Plugins for Anki on the desktop
 - [anki](https://github.com/dae/anki) - Anki for desktop computers
 - [BillCipher](https://github.com/GitHackTools/BillCipher) - Information Gathering tool for a Website or IP address
-- [codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [docker-label-inspector](https://github.com/garethr/docker-label-inspector) - Docker Label Inspector is a tool to help ensure you're providing your Docker images with the metadata they will need out in the wilds of the internet.
 - [webrecorder](https://github.com/webrecorder/webrecorder) - Web Archiving For All!
@@ -6912,6 +6968,9 @@
 
 ## Ruby 
 
+- [i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage translation and localization with static analysis, for Ruby i18n
+- [codeclimate](https://github.com/codeclimate/codeclimate) - Code Climate CLI
+- [rubocop](https://github.com/rubocop-hq/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [jenkins-backup-script](https://github.com/sue445/jenkins-backup-script) - archive jenkins setting and plugins
 - [open-shell-book](https://github.com/tinyclub/open-shell-book) - 开源书籍：《Shell 编程范例》，面向操作对象学 Shell！
 - [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
@@ -7185,6 +7244,7 @@
 
 ## Scheme 
 
+- [r6lint](https://github.com/weinholt/r6lint) - R6RS Scheme syntax and style checker
 - [guile-json](https://github.com/aconchillo/guile-json) - JSON module for Guile
 - [pink](https://github.com/namin/pink) - Collapsing Towers of Interpreters (in Scheme)
 - [single_cream](https://github.com/rain-1/single_cream) - single file scheme interpreter with tail call optimization
@@ -7825,11 +7885,12 @@
 - [book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
 - [mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
 - [draft](https://github.com/cplusplus/draft) - C++ standards drafts
-- [RE-for-beginners](https://github.com/DennisYurichev/RE-for-beginners) - "Reverse Engineering for Beginners" free book
 - [ThinkPython2](https://github.com/AllenDowney/ThinkPython2) - LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.
 
 ## TypeScript 
 
+- [codelyzer](https://github.com/mgechev/codelyzer) - Static analysis for Angular projects.
+- [nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from "terraform plan" and converting it to JSON.
@@ -7876,7 +7937,7 @@
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [sockethub](https://github.com/sockethub/sockethub) - A protocol gateway for the Web.
 - [PaWebControl](https://github.com/Siot/PaWebControl) - PulseAudio Web Volume Control
-- [PeerTube](https://github.com/Chocobozzz/PeerTube) - Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
+- [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub federated video streaming platform using P2P directly in the web browser
 - [vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
 - [stryker](https://github.com/stryker-mutator/stryker) - Mutation testing for JavaScript and friends
 - [chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
