@@ -158,6 +158,8 @@
 
 ## C 
 
+- [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++ with scanf/printf like interface. Targeting embedded systems.
+- [microtar](https://github.com/rxi/microtar) - A lightweight tar library written in ANSI C
 - [pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
 - [mpc](https://github.com/orangeduck/mpc) - A Parser Combinator library for C
 - [bebe](https://github.com/raventid/bebe) - My own LISP dialect, crafted with love.
@@ -289,7 +291,6 @@
 - [PackageKit](https://github.com/hughsie/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
 - [esos](https://github.com/quantum/esos) - An open source, high performance, block-level storage platform.
 - [rappel](https://github.com/yrp604/rappel) - A linux-based assembly REPL for x86, amd64, armv7, and armv8
-- [rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
 - [rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader.  This is a mirror of the iPXE git tree at http://git.ipxe.org/ipxe.git
@@ -720,7 +721,7 @@
 - [ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [gnome-twitch](https://github.com/vinszent/gnome-twitch) - Enjoy Twitch on your GNU/Linux desktop
 - [argparse](https://github.com/cofyc/argparse) - Command-line arguments parsing library.
-- [hstr](https://github.com/dvorka/hstr) - Bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [hstr](https://github.com/dvorka/hstr) - bash and zsh shell HiSToRy suggest box - easily view, navigate, search and manage your command history.
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
 - [mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
 - [xdg-desktop-portal-gtk](https://github.com/flatpak/xdg-desktop-portal-gtk) - Gtk implementation of xdg-desktop-portal
@@ -807,6 +808,7 @@
 
 ## C++ 
 
+- [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [BlueshiftEngine](https://github.com/PolygonTek/BlueshiftEngine) - Blueshift is a cross-platform 3D game engine implemented in C++. it's free, open-source, and works on Windows, macOS, iOS, and Android. The project is currently in an early stage of development.
 - [mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that adds full network multiplayer functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found.
 - [dg](https://github.com/mchalupa/dg) - [LLVM Static Slicer] Dependence graph for programs. A set of generic program analyses and a static slicer for LLVM bitcode.
@@ -872,7 +874,6 @@
 - [gitstatus](https://github.com/romkatv/gitstatus) - 10x faster implementation of `git status` command
 - [ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux
-- [EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [Server](https://github.com/EQEmu/Server) - EQEmu - Open Source EverQuest Server
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -1360,6 +1361,7 @@
 
 ## Common Lisp 
 
+- [cl-github-v3](https://github.com/hanshuebner/cl-github-v3) - 
 - [asteroids](https://github.com/andyhd/asteroids) - Asteroids game in Common Lisp
 - [shcl](https://github.com/bradleyjensen/shcl) - SHell in Common Lisp
 - [makelisp](https://github.com/shinh/makelisp) - Lisp implementation in GNU make
@@ -1695,7 +1697,6 @@
 - [snails](https://github.com/manateelazycat/snails) - A modern, easy-to-expand fuzzy search framework
 - [elisp-koans](https://github.com/jtmoulia/elisp-koans) - Emacs Lisp Koans -- learn elisp through test-driven development.
 - [vterm-toggle](https://github.com/jixiuf/vterm-toggle) - toggles between the vterm buffer and whatever buffer you are editing.
-- [porthole](https://github.com/jcaw/porthole) - ⚓ RPC servers for Emacs.
 - [porthole](https://github.com/jcaw/porthole) - ⚓ RPC servers for Emacs.
 - [emacs-slack-cli](https://github.com/accidentalrebel/emacs-slack-cli) - A simple emacs interface for the slack-cli Python program
 - [dianyou](https://github.com/redguardtoo/dianyou) - Search/Analyze mails in Gnus
@@ -3991,6 +3992,8 @@
 
 ## Java 
 
+- [ssh-slaves-plugin](https://github.com/jenkinsci/ssh-slaves-plugin) - Jenkins ssh-slaves plugin
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [loyalty-card-locker](https://github.com/brarcher/loyalty-card-locker) - Stores your barcode-based store/loyalty cards on your phone
 - [SonarJS](https://github.com/SonarSource/SonarJS) - SonarJS: JavaScript and TypeScript Analyzer for SonarQube
 - [phpinspectionsea](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP (a PhpStorm/Idea Plugin)
@@ -5531,7 +5534,6 @@
 - [phpmemadmin](https://github.com/clickalicious/phpmemadmin) - Bringing Memcached to the web.
 - [laps](https://github.com/Rarst/laps) - Light WordPress profiler.
 - [minit](https://github.com/kasparsd/minit) - A WordPress plugin to combine CSS and Javascript files.
-- [query-monitor](https://github.com/johnbillion/query-monitor) - The Developer Tools Panel for WordPress
 - [query-monitor](https://github.com/johnbillion/query-monitor) - The Developer Tools Panel for WordPress
 - [php-markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.
 - [elasticsearch-php](https://github.com/elastic/elasticsearch-php) - Official PHP low-level client for Elasticsearch.
@@ -7131,6 +7133,7 @@
 
 ## Rust 
 
+- [wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [vivid](https://github.com/sharkdp/vivid) - A generator for LS_COLORS with support for multiple color themes
 - [cicada](https://github.com/mitnk/cicada) - A bash-like Unix shell written in Rust
 - [lucid](https://github.com/sharkdp/lucid) - A simple mock-application for programs that work with child processes
@@ -7496,7 +7499,6 @@
 - [complete-alias](https://github.com/cykerway/complete-alias) - programmable completion function for shell aliases;
 - [veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
 - [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
 - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
