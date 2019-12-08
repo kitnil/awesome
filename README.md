@@ -721,7 +721,7 @@
 - [ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [gnome-twitch](https://github.com/vinszent/gnome-twitch) - Enjoy Twitch on your GNU/Linux desktop
 - [argparse](https://github.com/cofyc/argparse) - Command-line arguments parsing library.
-- [hstr](https://github.com/dvorka/hstr) - bash and zsh shell HiSToRy suggest box - easily view, navigate, search and manage your command history.
+- [hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
 - [mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
 - [xdg-desktop-portal-gtk](https://github.com/flatpak/xdg-desktop-portal-gtk) - Gtk implementation of xdg-desktop-portal
@@ -4840,7 +4840,7 @@
 - [luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
 - [lua-resty-auto-ssl](https://github.com/GUI/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
 - [awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
-- [nvim-lsp](https://github.com/neovim/nvim-lsp) - Common configurations for Neovim Language Servers
+- [nvim-lsp](https://github.com/neovim/nvim-lsp) - Nvim LSP client configurations
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 - [lua-lsp](https://github.com/Alloyed/lua-lsp) - A Lua language server
