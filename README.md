@@ -4586,7 +4586,7 @@
 - [GraphvizOnline](https://github.com/dreampuf/GraphvizOnline) - Let's Graphviz it Online
 - [lbry-desktop](https://github.com/lbryio/lbry-desktop) - A browser and wallet for LBRY, the decentralized, user-controlled content marketplace.
 - [emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
-- [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
+- [insomnia](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL Client
 - [graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system
 - [codebox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
 - [weallbehave](https://github.com/WeAllJS/weallbehave) - CODE_OF_CONDUCT.md generator
@@ -4678,7 +4678,7 @@
 - [scalatron](https://github.com/scalatron/scalatron) - Scalatron, a multi-player programming game in which coders pit bot programs (written in Scala) against each other
 - [Firemacs](https://github.com/kazu-yamamoto/Firemacs) - An extension to add Emacs's editing features to Firefox
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
-- [pixel-saver](https://github.com/pixel-saver/pixel-saver) - Pixel Saver
+- [pixel-saver](https://github.com/pixel-saver/pixel-saver) - Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way
 - [docker-compose-ui](https://github.com/francescou/docker-compose-ui) - web interface for Docker Compose
 - [ui-for-docker](https://github.com/kevana/ui-for-docker) - A web interface for Docker, formerly known as DockerUI. This repo is not maintained
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -4933,7 +4933,6 @@
 ## Nix 
 
 - [nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
-- [nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@zimbatm]
 - [styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
 - [nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
 - [disko](https://github.com/nix-community/disko) - Format disks with nix-config [maintainer=@Lassulus]
@@ -6296,7 +6295,7 @@
 - [Urho3D-Blender](https://github.com/reattiva/Urho3D-Blender) - Blender to Urho3D mesh exporter
 - [pentesting-multitool](https://github.com/ffmancera/pentesting-multitool) - Different utility scripts for pentesting and hacking.
 - [Hippocampe](https://github.com/TheHive-Project/Hippocampe) - Threat Feed Aggregation, Made Easy
-- [tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists
+- [tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists 🔥
 - [python-chess](https://github.com/niklasf/python-chess) - A pure Python chess library with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing and UCI/XBoard engine communication
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
@@ -6989,6 +6988,7 @@
 - [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand
 - [interpreter-bugs](https://github.com/dyjakan/interpreter-bugs) - Fuzzing results for various interpreters.
 - [self-hosted-docker-server-templates](https://github.com/norweeg/self-hosted-docker-server-templates) - Just some templates to get someone started with hosting various servers in Docker
+- [nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@zimbatm]
 - [redcmd](https://github.com/textgoeshere/redcmd) - Command line control over Redmine issue tracking system
 - [terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
 - [json-schema](https://github.com/ruby-json-schema/json-schema) - Ruby JSON Schema Validator
@@ -7689,7 +7689,7 @@
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [kodi-cli](https://github.com/nawar/kodi-cli) - Kodi/XBMC bash script to send Kodi commands from the command line
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 200 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio
+- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 200 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio
 - [docker-emacsen](https://github.com/larsbrinkhoff/docker-emacsen) - Multiple versions of Emacs in a Docker image
 - [eless](https://github.com/kaushalmodi/eless) - A Better 'less' - A bash script that loads emacs with minimal view-mode config - Created with Org mode
 - [docker-emacs](https://github.com/JAremko/docker-emacs) - Dockerized Emacs (GUI)
