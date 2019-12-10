@@ -2904,7 +2904,7 @@
 - [general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
 - [esup](https://github.com/jschaf/esup) - ESUP - Emacs Start Up Profiler
 - [parinfer-mode](https://github.com/DogLooksGood/parinfer-mode) - Parinfer for Emacs :)
-- [company-quickhelp](https://github.com/expez/company-quickhelp) - Documentation popup for Company
+- [company-quickhelp](https://github.com/company-mode/company-quickhelp) - Documentation popup for Company
 - [virtualenvwrapper.el](https://github.com/porterjamesj/virtualenvwrapper.el) - virtualenv tool for emacs
 - [company-coq](https://github.com/cpitclaudel/company-coq) - IDE extensions for Proof General's Coq mode
 - [alert](https://github.com/jwiegley/alert) - A Growl-like alerts notifier for Emacs
@@ -3252,7 +3252,7 @@
 - [configor](https://github.com/jinzhu/configor) - Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
 - [skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
 - [yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place →
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place →
 - [scaleway-cli](https://github.com/scaleway/scaleway-cli) - :computer: Manage BareMetal Servers from Command Line (as easily as with Docker)
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [anki-md](https://github.com/erroneousboat/anki-md) - A markdown to anki flash cards converter
@@ -6105,7 +6105,7 @@
 - [arcade](https://github.com/pvcraven/arcade) - Easy to use Python library for creating 2D arcade games.
 - [RenderPipeline](https://github.com/tobspr/RenderPipeline) - Physically Based Shading and Deferred Rendering for the Panda3D game engine
 - [learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for "How to Learn Mathematics Fast" By Siraj Raval on Youtube
-- [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.
+- [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
 - [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything awesome about web-application firewalls (WAF).
 - [keepassxc-browser-client](https://github.com/varjolintu/keepassxc-browser-client) - Python client library for KeePassXC's new browser integration interface
 - [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.
@@ -7560,7 +7560,7 @@
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [samba](https://github.com/dperson/samba) - Samba docker container
 - [StayAlive](https://github.com/mwitmer/StayAlive) - A roguelike game written in Guile Scheme
-- [netboot.xyz](https://github.com/antonym/netboot.xyz) - Network bootable operating system installer based on iPXE
+- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [prowler](https://github.com/toniblyx/prowler) - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and DOZENS of additional checks including GDPR and HIPAA (+100). Official CIS for AWS guide: https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf
 - [nix-in-termux](https://github.com/t184256/nix-in-termux) - A script to install Nix package manager inside a Termux installation (on Android, aarch64)
 - [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A curated list of the most common and most interesting robots.txt disallowed directories.
