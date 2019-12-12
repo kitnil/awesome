@@ -4554,7 +4554,7 @@
 - [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
-- [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation various web standards, for use with Node.js
+- [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [transit-js](https://github.com/cognitect/transit-js) - Transit for JavaScript
 - [Fluture](https://github.com/fluture-js/Fluture) - :butterfly: Fantasy Land compliant (monadic) alternative to Promises
 - [thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
@@ -4964,7 +4964,6 @@
 - [line-up-words](https://github.com/janestreet/line-up-words) - a small cmd line tool to align words in a sequence of lines in a smart way
 - [jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml
 - [wanderers](https://github.com/a-nikolaev/wanderers) - An open world adventure and dungeon crawling game
-- [hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 - [qtest](https://github.com/vincent-hugot/qtest) - Inline (Unit) Tests for OCaml
 - [ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 - [infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
@@ -5422,7 +5421,6 @@
 - [awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [pydoc](https://github.com/statmobile/pydoc) - Emacs mode for navigating Python documentation through pydoc.
 - [rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
-- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [docker-and-containers-ebooks](https://github.com/thenewstack/docker-and-containers-ebooks) - A series of ebooks on Docker and the container ecosystem.
 - [swcarpentry](https://github.com/swcarpentry/swcarpentry) - A meta-repository to help navigate the many lessons and repos of the Software Carpentry Community
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
@@ -5970,7 +5968,7 @@
 - [hncynic](https://github.com/leod/hncynic) - Generate Hacker News Comments from Titles
 - [telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
 - [cipherscan](https://github.com/mozilla/cipherscan) - A very simple way to find out which SSL ciphersuites are supported by a target.
-- [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
+- [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [multiscanner](https://github.com/mitre/multiscanner) - Modular file scanning/analysis framework
 - [screenshot](https://github.com/thismachinechills/screenshot) - Better macOS screenshots via the Terminal - Programmatically capture screenshots of apps and specific windows
 - [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask.
@@ -6431,6 +6429,7 @@
 - [grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them.
 - [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [cumodoro](https://github.com/gisodal/cumodoro) - Curses interface to pomodoro timer
+- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [openstack](https://github.com/openstack/openstack) - Repository containing OpenStack repositories
 - [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [atmosphere](https://github.com/cyverse/atmosphere) - Where cloud lives.
@@ -6958,6 +6957,7 @@
 ## Reason 
 
 - [revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
+- [hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 
 ## Ren'Py 
 
