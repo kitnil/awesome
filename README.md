@@ -1584,6 +1584,7 @@
 
 ## Emacs Lisp 
 
+- [leaf.el](https://github.com/conao3/leaf.el) - Support your setting init.el like use-package
 - [apheleia](https://github.com/raxod502/apheleia) - 🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.
 - [anki-connect.el](https://github.com/lujun9972/anki-connect.el) - AnkiConnect API for Emacs
 - [use-package-secrets](https://github.com/a13/use-package-secrets) - :secret keyword for use-package
@@ -3291,7 +3292,7 @@
 - [dingo](https://github.com/pforemski/dingo) - A DNS client in Go that supports Google DNS over HTTPS
 - [terraform-provider-template](https://github.com/terraform-providers/terraform-provider-template) - Terraform template provider
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
-- [gnet](https://github.com/panjf2000/gnet) - 🦋 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的基于事件驱动的 Go 网络框架。
+- [gnet](https://github.com/panjf2000/gnet) - 🦋 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [terraform-provider-null](https://github.com/terraform-providers/terraform-provider-null) - Terraform null provider
 - [go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert go test output to junit xml
@@ -4138,6 +4139,7 @@
 
 ## JavaScript 
 
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world
 - [eslint-config-standard-react](https://github.com/standard/eslint-config-standard-react) - ESLint Shareable Config for React/JSX support in JavaScript Standard Style
 - [eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
 - [EasyDockerWeb](https://github.com/qfdk/EasyDockerWeb) - A simple Web Ui for Docker using xterm.js, Node.js, dockerode and Socket.io
@@ -4985,6 +4987,7 @@
 
 ## Others 
 
+- [awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [awesome-coding-camps](https://github.com/theodesp/awesome-coding-camps) - A curated list of awesome Coding Bootcamps and websites to help you boost your career in Programming
 - [awesome-scheme](https://github.com/theodesp/awesome-scheme) - A curated list of awesome Scheme resources and materials
 - [awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem!
@@ -5754,6 +5757,7 @@
 
 ## Python 
 
+- [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
 - [bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [pytype](https://github.com/google/pytype) - A static type analyzer for Python code
@@ -6074,7 +6078,7 @@
 - [BoopSuite](https://github.com/MisterBianco/BoopSuite) - A Suite of Tools written in Python for wireless auditing and security testing.
 - [video-to-ascii](https://github.com/joelibaceta/video-to-ascii) - It is a simple python package to play videos in the terminal using characters as pixels
 - [term2048](https://github.com/bfontaine/term2048) - :tada: 2048 in your terminal
-- [pg_activity](https://github.com/julmon/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
+- [pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [lexrank](https://github.com/crabcamp/lexrank) - LexRank algorithm for text summarization
 - [pangu.py](https://github.com/vinta/pangu.py) - Paranoid text spacing in Python
 - [cucco](https://github.com/davidmogar/cucco) - Text normalization library for Python
@@ -7174,7 +7178,7 @@
 - [boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [fastar](https://github.com/the8472/fastar) - Fast tar archiver
-- [ddh](https://github.com/darakian/ddh) - Manage duplicate files
+- [ddh](https://github.com/darakian/ddh) - A fast duplicate file finder
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [cli](https://github.com/share-secrets-safely/cli) - share secrets within teams to avoid plain-text secrets from day one
 - [fui](https://github.com/xliiv/fui) - Add CLI & form interface to your program. Docs: https://docs.rs/fui
@@ -7241,6 +7245,7 @@
 
 ## Scala 
 
+- [coursier](https://github.com/coursier/coursier) - Pure Scala Artifact Fetching
 - [diffy](https://github.com/opendiffy/diffy) - 
 - [intellij-haskell](https://github.com/rikvdkleij/intellij-haskell) - IntelliJ plugin for Haskell
 - [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
