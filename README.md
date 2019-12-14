@@ -3993,6 +3993,8 @@
 
 ## Java 
 
+- [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+- [hawtio](https://github.com/hawtio/hawtio) - Hawtio web console helps you manage your JVM stuff and stay cool!
 - [ssh-slaves-plugin](https://github.com/jenkinsci/ssh-slaves-plugin) - Jenkins ssh-slaves plugin
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [loyalty-card-locker](https://github.com/brarcher/loyalty-card-locker) - Stores your barcode-based store/loyalty cards on your phone
@@ -4068,7 +4070,7 @@
 - [progressbar](https://github.com/ctongfei/progressbar) - Terminal-based progress bar for Java / JVM
 - [turbo-editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android. All is licensed under the GPLv3 license.
 - [PDFLayoutTextStripper](https://github.com/JonathanLink/PDFLayoutTextStripper) - Converts a pdf file into a text file while keeping the layout of the original pdf. Useful to extract the content from a table in a pdf file for instance. This is a subclass of PDFTextStripper class (from the Apache PDFBox library).
-- [bittorrent](https://github.com/atomashpolskiy/bittorrent) - BitTorrent library and client with DHT, magnet links, encryption and more
+- [bt](https://github.com/atomashpolskiy/bt) - BitTorrent library and client with DHT, magnet links, encryption and more
 - [influxdb-plugin](https://github.com/jenkinsci/influxdb-plugin) - Jenkins plugin to send build metrics into InfluxDB
 - [oreon-engine](https://github.com/fynnfluegge/oreon-engine) - OpenGL/Vulkan Java 3D Engine
 - [guacamole-client](https://github.com/glyptodon/guacamole-client) - The Guacamole project is now Apache Guacamole (http://guacamole.apache.org/). This repository has been repurposed as the base for the Apache Guacamole packages built for Glyptodon Enterprise.
@@ -4202,7 +4204,7 @@
 - [yet-another-jenkins-notifier](https://github.com/ggirou/yet-another-jenkins-notifier) - This extension monitors Jenkins jobs and notifies you of build results.
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [tranquility-reader-webextensions](https://github.com/ushnisha/tranquility-reader-webextensions) - Tranquility Reader rewritten using Webextensions API
-- [view-page-archive](https://github.com/dessant/view-page-archive) - :package: Browser extension for viewing archived and cached versions of web pages
+- [web-archives](https://github.com/dessant/web-archives) - :package: Browser extension for viewing archived and cached versions of web pages
 - [bebop](https://github.com/kumabook/bebop) - Groovy WebExtension that offers command line interface like emacs helm for browsing.
 - [tab-reloader](https://github.com/james-fray/tab-reloader) - Multiple borwser tab reloader extension
 - [allow-right-click.html](https://github.com/lunu-bounir/allow-right-click.html) - A browser extension to release right-click context menu blockage
