@@ -1941,7 +1941,7 @@
 - [fd-dired](https://github.com/yqrashawn/fd-dired) - dired-mode interface for fd
 - [flycheck-grammalecte](https://github.com/emacsmirror/flycheck-grammalecte) - Integrate Grammalecte with Flycheck
 - [forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit
-- [lsp-yaml](https://github.com/iquiw/lsp-yaml) - YAML support for lsp-mode
+- [lsp-yaml](https://github.com/iquiw/lsp-yaml) - [DEPRECATED] YAML support for lsp-mode (YAML support is included in lsp-mode)
 - [helm-css-scss](https://github.com/emacsorphanage/helm-css-scss) - This emacs program makes your CSS/SCSS/LESS coding faster and easier than ever.
 - [Gited](https://github.com/calancha/Gited) - Operate on Git branches like dired
 - [evil-python-movement](https://github.com/emacsmirror/evil-python-movement) - Port Neovim's python movement to Evil
@@ -4500,7 +4500,7 @@
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (November 2019)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (December 2019)
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
@@ -5061,7 +5061,6 @@
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [package-managers](https://github.com/ipfs/package-managers) - 📦 IPFS Package Managers Task Force
 - [dashboard-cleanup](https://github.com/littlebizzy/dashboard-cleanup) - Cleans up the WP Admin backend by disabling various core WP and WC bloat features including Automattic spam, nag notices, tracking, and other items.
-- [speed-demon](https://github.com/littlebizzy/speed-demon) - A powerful bundle of lightweight tweaks that drastically improve the loading speed of WordPress by reducing bloat and improving overall efficiency.
 - [Xresources-themes](https://github.com/logico-dev/Xresources-themes) - A big (huge) collection of rxvt / xterm terminal themes
 - [awesome-urxvt](https://github.com/bookercodes/awesome-urxvt) - :book: A community-driven collection of extensions and learning resources for the popular urxvt terminal window.
 - [awesome-hdl](https://github.com/drom/awesome-hdl) - Hardware Description Languages
@@ -5540,6 +5539,7 @@
 - [webshell](https://github.com/tennc/webshell) - This is a webshell open source project
 - [secDevLabs](https://github.com/globocom/secDevLabs) - A laboratory for learning secure web development in a practical manner.
 - [CORS-vulnerable-Lab](https://github.com/incredibleindishell/CORS-vulnerable-Lab) - Sample vulnerable code and its exploit code
+- [speed-demon](https://github.com/littlebizzy/speed-demon) - A powerful bundle of lightweight tweaks that drastically improve the loading speed of WordPress by reducing bloat and improving overall efficiency.
 - [WebShell](https://github.com/xl7dev/WebShell) - Webshell && Backdoor Collection
 - [social](https://github.com/nextcloud/social) - 🎉 Nextcloud becomes part of the federated social networks!
 - [planiverse](https://github.com/FuzzJunket/planiverse) - A minimalist, no-JS front-end for Mastodon.
@@ -6127,7 +6127,7 @@
 - [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything awesome about web-application firewalls (WAF).
 - [keepassxc-browser-client](https://github.com/varjolintu/keepassxc-browser-client) - Python client library for KeePassXC's new browser integration interface
 - [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.
-- [SC-FEGAN](https://github.com/run-youngjoo/SC-FEGAN) - SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color
+- [SC-FEGAN](https://github.com/run-youngjoo/SC-FEGAN) - SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color (ICCV2019)
 - [toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF.
 - [molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible roles.
