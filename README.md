@@ -403,7 +403,7 @@
 - [turtle-arena-code](https://github.com/Turtle-Arena/turtle-arena-code) - Turtle Arena is a free and open source cross-platform third-person action game using the Spearmint engine.
 - [obs-linuxbrowser](https://github.com/bazukas/obs-linuxbrowser) - OBS Linux Browser Plugin
 - [pulseaudio-android](https://github.com/pelya/pulseaudio-android) - PulseAudio server for Android, built as user-land executable, using NDK
-- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble Internet Radio, Plex servers and Chromecast devices.
+- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Plex servers and Chromecast devices.
 - [cwm](https://github.com/leahneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager
 - [zathura](https://github.com/pwmt/zathura) - a document viewer
 - [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
@@ -2536,7 +2536,7 @@
 - [fullframe](https://github.com/tomterl/fullframe) - Advice commands to execute fullscreen, restoring the window setup when exiting.
 - [lpy](https://github.com/abo-abo/lpy) - Minimal Python IDE for GNU Emacs
 - [pyimport](https://github.com/Wilfred/pyimport) - Manage Python imports from Emacs!
-- [quelpa-use-package](https://github.com/quelpa/quelpa-use-package) - repo moved to framagit.org, please report issues there (see link) - Emacs quelpa handler for use-package
+- [quelpa-use-package](https://github.com/quelpa/quelpa-use-package) - Emacs quelpa handler for use-package
 - [Denny-s-emacs-configuration](https://github.com/dennyzhang/Denny-s-emacs-configuration) - :robot: Emacs shapes me to be a better programmer
 - [rogue](https://github.com/lepisma/rogue) - Personal Emacs config
 - [GitHub-Theme-for-Emacs](https://github.com/philiparvidsson/GitHub-Theme-for-Emacs) - Syntax highlighting color theme mimicking the look of GitHub's code viewer. 😍
@@ -2960,7 +2960,7 @@
 - [magic-latex-buffer](https://github.com/zk-phi/magic-latex-buffer) - [Emacs] magical syntax highlighting for LaTeX-mode buffers
 - [expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
 - [blog-admin](https://github.com/xcodebuild/blog-admin) - Write blog in emacs with hexo/org-page/nikola
-- [quelpa](https://github.com/quelpa/quelpa) - repo moved to framagit.org, please report issues there (see link) - Build and install your Emacs Lisp packages on-the-fly directly from source
+- [quelpa](https://github.com/quelpa/quelpa) - Build and install your Emacs Lisp packages on-the-fly directly from source
 - [dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 40+ languages
 - [know-your-http-well](https://github.com/for-GET/know-your-http-well) - HTTP headers, media-types, methods, relations and status codes, all summarized and linking to their specification.
 - [mode-icons](https://github.com/ryuslash/mode-icons) - Show icons instead of mode names
@@ -3344,7 +3344,7 @@
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [droot](https://github.com/yuuki/droot) - The super-simple chroot-based application container engine integrated with Docker.
-- [pumba](https://github.com/alexei-led/pumba) - Chaos testing and network emulation tool for Docker.
+- [pumba](https://github.com/alexei-led/pumba) - Chaos testing and network emulation tool for containers
 - [collector](https://github.com/banyanops/collector) - A framework for Static Analysis of Docker container images
 - [checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
 - [iptables-tracer](https://github.com/x-way/iptables-tracer) - Insert trace-points into the running configuration to observe the path of packets through the iptables chains.
@@ -3591,7 +3591,7 @@
 - [fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [gitin](https://github.com/isacikgoz/gitin) - commit/branch/workdir explorer for git
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
-- [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and navigation tool (self-hosted)
+- [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool (self-hosted)
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices
 - [esbulk](https://github.com/miku/esbulk) - Bulk indexing for elasticsearch.
@@ -3999,6 +3999,7 @@
 
 ## Java 
 
+- [EmmyLua-LanguageServer](https://github.com/EmmyLua/EmmyLua-LanguageServer) - 
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [hawtio](https://github.com/hawtio/hawtio) - Hawtio web console helps you manage your JVM stuff and stay cool!
 - [ssh-slaves-plugin](https://github.com/jenkinsci/ssh-slaves-plugin) - Jenkins ssh-slaves plugin
@@ -4201,7 +4202,7 @@
 - [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
 - [just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
 - [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
-- [mobile-first-animation](https://github.com/aholachek/mobile-first-animation) - Performant gesture-driven animation on the mobile web
+- [mobile-first-animation](https://github.com/aholachek/mobile-first-animation) - Gesture-driven animation on the mobile web (React Conf 2019)
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
@@ -4846,6 +4847,7 @@
 
 ## Lua 
 
+- [digestif](https://github.com/astoff/digestif) - A language server for LaTeX
 - [grid-sdk](https://github.com/Planimeter/grid-sdk) - The Grid SDK - Game engine for Lua
 - [lua-http](https://github.com/daurnimator/lua-http) - HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server.
 - [luadec](https://github.com/viruscamp/luadec) - Lua Decompiler for lua 5.1 , 5.2 and 5.3
@@ -5841,7 +5843,7 @@
 - [pass-audit](https://github.com/roddhjav/pass-audit) - A pass extension for auditing your password repository.
 - [http-request-translator](https://github.com/owtf/http-request-translator) - HTTP Request Translator (hrt) translates raw HTTP requests to different scripts (bash, python, etc.)
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
-- [devops-interview-questions](https://github.com/bregman-arie/devops-interview-questions) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic
+- [devops-interview-questions](https://github.com/bregman-arie/devops-interview-questions) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
 - [keyring](https://github.com/jaraco/keyring) - 
 - [pdfarranger](https://github.com/jeromerobert/pdfarranger) - Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
 - [notifymuch](https://github.com/kspi/notifymuch) - Display desktop notifications for unread mail in notmuch database
@@ -7601,7 +7603,7 @@
 - [forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [xcv](https://github.com/busterc/xcv) - :scissors: Cut, Copy and Paste files with Bash
 - [netctl](https://github.com/joukewitteveen/netctl) - Profile based systemd network management
-- [termux-archlinux](https://github.com/SDRausty/termux-archlinux) - You can use setupTermuxArch.sh 📲 to install Arch Linux in Termux on Amazon Fire, Android and Chromebook.  https://sdrausty.github.io/termux-archlinux/
+- [termux-archlinux](https://github.com/SDRausty/termux-archlinux) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
 - [rfc](https://github.com/bfontaine/rfc) - :page_facing_up: Read RFCs from the command-line
 - [slack-theme-cli](https://github.com/mykeels/slack-theme-cli) - A CLI tool for changing Slack's desktop app colors
 - [Geo](https://github.com/jakewmeyer/Geo) - :earth_americas: A Bash utility for easy wan, lan, router, dns, mac address, and geolocation output, with clean stdout for piping
