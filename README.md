@@ -2307,7 +2307,7 @@
 - [treepy.el](https://github.com/volrath/treepy.el) - Generic tree traversing tools for Emacs Lisp
 - [unify-opening](https://github.com/DamienCassou/unify-opening) - Emacs package to make everything use the same mechanism to open files
 - [xwidgete](https://github.com/tuhdo/xwidgete) - Enhance usability for Xwidget browser in Emacs 25
-- [flyspell-correct](https://github.com/d12frosted/flyspell-correct) - [mirror] Distraction-free words correction with flyspell via selected interface.
+- [flyspell-correct](https://github.com/d12frosted/flyspell-correct) - Distraction-free words correction with flyspell via selected interface.
 - [elfeed-protocol](https://github.com/fasheng/elfeed-protocol) - Provide extra protocols to make like ownCloud News, Tiny Tiny RSS and NewsBlur works with elfeed
 - [ruby-extra-highlight](https://github.com/Lindydancer/ruby-extra-highlight) - Highlight Ruby parameters in Emacs
 - [simple-paren](https://github.com/andreas-roehler/simple-paren) - Insert paired delimiters, wrap symbols in front maybe
@@ -6110,7 +6110,7 @@
 - [s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
 - [FeelUOwn](https://github.com/feeluown/FeelUOwn) - trying to be a user-friendly and hackable music player
-- [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Find usernames across social networks
+- [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
 - [click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
