@@ -310,7 +310,7 @@
 - [grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
 - [stag](https://github.com/seenaburns/stag) - Streaming bar graphs. For stats and stuff.
 - [mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
-- [mle](https://github.com/adsr/mle) - A flexible terminal-based text editor (C)
+- [mle](https://github.com/adsr/mle) - Flexible terminal-based text editor (C)
 - [dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
 - [yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [raylib-lua](https://github.com/raysan5/raylib-lua) - A simple and easy-to-use Lua library to enjoy videogames programming
@@ -610,7 +610,7 @@
 - [windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) - windows-kernel-exploits   Windows平台提权漏洞集合
 - [TorProxy](https://github.com/r-a-w/TorProxy) - TorProxy is a tool which uses netfilter hooks in the linux kernel to route all network traffic through the Tor network
 - [darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
-- [radare2](https://github.com/radareorg/radare2) - unix-like reverse engineering framework and commandline tools
+- [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [guile-xosd](https://github.com/alezost/guile-xosd) - Guile bindings for libxosd
 - [stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
@@ -642,7 +642,7 @@
 - [emacs-libpq](https://github.com/anse1/emacs-libpq) - An Emacs 25 module for accessing postgres via libpq.
 - [emacsql](https://github.com/skeeto/emacsql) - A high-level Emacs Lisp RDBMS front-end
 - [postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
-- [fzy](https://github.com/jhawthorn/fzy) - :mag: A better fuzzy finder
+- [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
 - [tmux](https://github.com/tmux/tmux) - tmux source code
 - [FastestWebsiteEver](https://github.com/diracdeltas/FastestWebsiteEver) - ultrafast single TCP packet audio/visual experience
@@ -709,6 +709,7 @@
 - [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 - [espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports 109 languages and accents.
 - [luastatus](https://github.com/shdown/luastatus) - universal status bar content generator
+- [pdf-tools](https://github.com/politza/pdf-tools) - Emacs support library for PDF files.
 - [kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized
 - [tg](https://github.com/vysheng/tg) - telegram-cli
 - [bitlbee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
@@ -827,7 +828,7 @@
 - [OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
 - [rigs-of-rods](https://github.com/RigsOfRods/rigs-of-rods) - Main development repository for Rigs of Rods soft-body physics simulator
 - [aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [xeus](https://github.com/QuantStack/xeus) - C++ implementation of the Jupyter kernel protocol
+- [xeus](https://github.com/jupyter-xeus/xeus) - C++ implementation of the Jupyter kernel protocol
 - [cling](https://github.com/root-project/cling) - The cling C++ interpreter
 - [clasp](https://github.com/clasp-developers/clasp) - clasp Common Lisp environment
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
@@ -2979,7 +2980,6 @@
 - [hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
 - [xelb](https://github.com/ch11ng/xelb) - X protocol Emacs Lisp Binding
 - [exwm-x](https://github.com/tumashu/exwm-x) - A derivative WM based on EXWM (emacs x window manager)
-- [pdf-tools](https://github.com/politza/pdf-tools) - Emacs support library for PDF files.
 - [anything-git-grep](https://github.com/mechairoi/anything-git-grep) - 
 - [gist.el](https://github.com/defunkt/gist.el) - Yet another Emacs paste mode, this one for Gist.
 - [emacs-geeknote](https://github.com/avendael/emacs-geeknote) - Use Evernote in Emacs through geeknote
@@ -3349,7 +3349,7 @@
 - [checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
 - [iptables-tracer](https://github.com/x-way/iptables-tracer) - Insert trace-points into the running configuration to observe the path of packets through the iptables chains.
 - [mig](https://github.com/mozilla/mig) - Distributed & real time digital forensics at the speed of the cloud
-- [sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [lisp-in-go](https://github.com/nukata/lisp-in-go) - A Common Lisp-like Lisp-1 in Go with TCO and partially hygienic macros
 - [bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 - [minio](https://github.com/minio/minio) - MinIO is a high performance object storage server compatible with Amazon S3 APIs
@@ -3506,7 +3506,7 @@
 - [pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [sentences](https://github.com/neurosnap/sentences) - A multilingual command line sentence tokenizer in Golang
-- [trdsql](https://github.com/noborus/trdsql) - A tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
+- [trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
 - [nirvana](https://github.com/caicloud/nirvana) - Golang Restful API Framework for Productivity
 - [gosh](https://github.com/vladimirvivien/gosh) - Gosh -  a pluggable framework for building command shell programs
 - [gkill](https://github.com/heppu/gkill) - Interactice process killer for Linux and macOS
@@ -3909,7 +3909,7 @@
 - [pLam](https://github.com/slovnicki/pLam) - An interpreter for learning and exploring pure λ-calculus
 - [Juicy.Pixels](https://github.com/Twinside/Juicy.Pixels) - Haskell library to load & save pictures
 - [cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
-- [smos](https://github.com/NorfairKing/smos) - A comprehensive GTD System in a TUI
+- [smos](https://github.com/NorfairKing/smos) - A comprehensive self-management System in a TUI
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [hisp](https://github.com/otaviopace/hisp) - 🌵 A lisp REPL interpreter made in Haskell
 - [small-lisp](https://github.com/luizperes/small-lisp) - Small Lisp REPL written in Haskell
@@ -3999,6 +3999,7 @@
 
 ## Java 
 
+- [workflow-basic-steps-plugin](https://github.com/jenkinsci/workflow-basic-steps-plugin) - 
 - [EmmyLua-LanguageServer](https://github.com/EmmyLua/EmmyLua-LanguageServer) - 
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [hawtio](https://github.com/hawtio/hawtio) - Hawtio web console helps you manage your JVM stuff and stay cool!
@@ -4290,7 +4291,7 @@
 - [mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [ws-repl](https://github.com/rowanthorpe/ws-repl) - Arbitrary REPL in a web-page using websocketd
-- [janeway](https://github.com/skerit/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
+- [janeway](https://github.com/11ways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
 - [kulfon](https://github.com/kulfonjs/kulfon) - :japanese_ogre: :frog: JavaScript static site generator with Org Mode & Markdown support  (α) :boom:
 - [scihub-firefox](https://github.com/bekicot/scihub-firefox) - Open scihub page in a new tab for current page's url.
 - [KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - Web based IRC client
@@ -5038,7 +5039,7 @@
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@zimbatm]
 - [lisp-tips](https://github.com/lisp-tips/lisp-tips) - Common Lisp tips. Share !
-- [emax64](https://github.com/m-parashar/emax64) - 64-bit Emacs for Windows
+- [emax64](https://github.com/m-parashar/emax64) - 64-bit Emacs for Windows with ImageMagick 7
 - [emacs-101-beginner-survival-guide](https://github.com/emacs-tw/emacs-101-beginner-survival-guide) - Emacs 101 新手求生指南 - 一本讓你學 Emacs 不再學得靠北靠母的美好的新手求生指南
 - [for-linux](https://github.com/docker/for-linux) - Docker for Linux
 - [Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
@@ -5092,7 +5093,7 @@
 - [awx-container](https://github.com/geerlingguy/awx-container) - Ansible Container project that manages the lifecycle of AWX on Docker.
 - [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
 - [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
-- [rust-web-developer-roadmap](https://github.com/pepsighan/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2019
+- [rust-web-developer-roadmap](https://github.com/pepsighan/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2020
 - [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
 - [xg2xg](https://github.com/jhuangtw-dev/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2019
@@ -5524,7 +5525,7 @@
 
 - [phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code
 - [phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics
-- [larastan](https://github.com/nunomaduro/larastan) - Discover bugs in your code without running it - phpstan wrapper for Laravel.
+- [larastan](https://github.com/nunomaduro/larastan) - ⚗️ Adds static analysis to Laravel improving developer productivity and code quality
 - [phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [Caesar](https://github.com/0blio/Caesar) - An HTTP based RAT (Remote Administration Tool) that allows you to remotely control devices from your browser
 - [yii2-webshell](https://github.com/samdark/yii2-webshell) - Web shell allows to run yii console commands using a browser
@@ -6356,7 +6357,7 @@
 - [urh](https://github.com/jopohl/urh) - Universal Radio Hacker: investigate wireless protocols like a boss 📡😎
 - [ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [Sick-Beard](https://github.com/midgetspy/Sick-Beard) - PVR & episode guide that downloads and manages all your TV shows
-- [neural-style](https://github.com/anishathalye/neural-style) - Neural style in TensorFlow! :art:
+- [neural-style](https://github.com/anishathalye/neural-style) - Neural style in TensorFlow! 🎨
 - [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
@@ -6608,7 +6609,7 @@
 - [sphinx-eldomain](https://github.com/tkf/sphinx-eldomain) - Emacs Lisp domain -- Sphinx extension for Emacs Lisp
 - [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [acestream-launcher](https://github.com/jonian/acestream-launcher) - AceStream Launcher allows you to open AceStream links with any Media Player
-- [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! :gift:
+- [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁
 - [write-ups-2014](https://github.com/ctfs/write-ups-2014) - Wiki-like CTF write-ups repository, maintained by the community. 2014
 - [pelican_youtube](https://github.com/kura/pelican_youtube) - YouTube directives for Pelican
 - [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
@@ -6886,7 +6887,7 @@
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [qBittorrent-RuTracker-plugin](https://github.com/Skymirrh/qBittorrent-RuTracker-plugin) - qBittorrent search engine plugin for rutracker.org.
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles :zap:
+- [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [livecd-tools](https://github.com/livecd-tools/livecd-tools) - Tools for building live CDs using DNF
 - [prospector](https://github.com/PyCQA/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
@@ -7277,6 +7278,7 @@
 
 ## Scheme 
 
+- [guile-web-driver](https://github.com/her01n/guile-web-driver) - web driver (selenium) client for guile
 - [nomunofu](https://github.com/amirouche/nomunofu) - Querying wikidata made easy
 - [r6lint](https://github.com/weinholt/r6lint) - R6RS Scheme syntax and style checker
 - [guile-json](https://github.com/aconchillo/guile-json) - JSON module for Guile
@@ -7995,7 +7997,7 @@
 
 ## V 
 
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. Stable 0.2 release in early December 2019. https://vlang.io
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. Stable 0.2 release in January 2019. https://vlang.io
 
 ## VCL 
 
