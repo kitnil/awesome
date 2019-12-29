@@ -1535,6 +1535,7 @@
 
 ## Dockerfile 
 
+- [docker-alpine](https://github.com/smebberson/docker-alpine) - Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers.
 - [webdav](https://github.com/tadly/webdav) - Docker: A alpine linux based webdav server.
 - [syncthing-srv](https://github.com/tadly/syncthing-srv) - Docker: A alpine linux based syncthing relay and discovery server.
 - [guix](https://github.com/metacall/guix) - Docker image for using GuixSD in a CI/CD environment.
@@ -6764,7 +6765,7 @@
 - [python-scripts](https://github.com/realpython/python-scripts) - because i'm tired of gists
 - [mongokit](https://github.com/namlook/mongokit) - MongoKit framework try to keep its simplicity when you manage mongodb in python. MongoKit was developed to be fast and light with KISS and DRY in mind. MongoKit brings structured schema and validation layer on top of the great pymongo driver. Discuss with us on Google group : http://groups.google.com/group/mongokit or follow the news on Twitter: http://twitter.com/namlook
 - [imap_importer](https://github.com/Scheirle/imap_importer) - 
-- [rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - rdiff-backup
+- [rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - Reverse differential backup tool, over a network or locally.
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [gmail](https://github.com/charlierguo/gmail) - A Pythonic interface for Google Mail
 - [mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
