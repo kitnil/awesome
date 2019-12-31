@@ -31,6 +31,7 @@
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
+  - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [FreeMarker](#freemarker)
@@ -158,6 +159,8 @@
 
 ## C 
 
+- [scrot](https://github.com/dreamer/scrot) - scrot (SCReen shOT) is a simple commandline screen capture utility
+- [far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
 - [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++ with scanf/printf like interface. Targeting embedded systems.
 - [microtar](https://github.com/rxi/microtar) - A lightweight tar library written in ANSI C
 - [pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
@@ -237,7 +240,7 @@
 - [libfb-bsd](https://github.com/p120ph37/libfb-bsd) - Console framebuffer graphics library for FreeBSD
 - [akt](https://github.com/TieDyedDevil/akt) - APL Keyboard Translator (for use with GNU APL)
 - [mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
-- [flecs](https://github.com/SanderMertens/flecs) - A Multithreaded Entity Component System written for C89 & C99
+- [flecs](https://github.com/SanderMertens/flecs) - A Multithreaded Entity Component System for C89/99 & C++11
 - [2bwm](https://github.com/venam/2bwm) - A fast floating WM written over the XCB library and derived from mcwm.
 - [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - Thin wrapper over Nuklear for Common Lisp
 - [zabbix-module-systemd](https://github.com/cavaliercoder/zabbix-module-systemd) - Native systemd monitoring for Zabbix
@@ -809,6 +812,7 @@
 
 ## C++ 
 
+- [chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for twitch.tv
 - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [BlueshiftEngine](https://github.com/PolygonTek/BlueshiftEngine) - Blueshift is a cross-platform 3D game engine implemented in C++. it's free, open-source, and works on Windows, macOS, iOS, and Android. The project is currently in an early stage of development.
 - [mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that adds full network multiplayer functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found.
@@ -1364,6 +1368,7 @@
 
 ## Common Lisp 
 
+- [sonic-lisp-engine](https://github.com/luksamuk/sonic-lisp-engine) - Sonic The Hedgehog Engine, written in Common Lisp as a literate program
 - [file-select](https://github.com/Shinmera/file-select) - A library to invoke the native system file dialog to select or create files.
 - [cl-github-v3](https://github.com/hanshuebner/cl-github-v3) - 
 - [asteroids](https://github.com/andyhd/asteroids) - Asteroids game in Common Lisp
@@ -1587,8 +1592,18 @@
 - [awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [phoenix-battleship](https://github.com/bigardone/phoenix-battleship) - The Good Old game, built with Elixir, Phoenix, React and Redux
 
+## Elm 
+
+- [elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app
+
 ## Emacs Lisp 
 
+- [magit-patch-changelog](https://github.com/dickmao/magit-patch-changelog) - Generate a patch according to emacs-devel CONTRIBUTE guidelines
+- [diff-at-point](https://github.com/emacsmirror/diff-at-point) - Diff navigation
+- [edit-at-point](https://github.com/emacsattic/edit-at-point) - Edit(copy,cut..) current things(word,symbol..) under cursor
+- [emacs-color-picker](https://github.com/chuntaro/emacs-color-picker) - Color picker for GUI version Emacs
+- [gerrit-el](https://github.com/iartarisi/gerrit-el) - reimplementation of the gerrit code review Web UI in emacs
+- [org-starter](https://github.com/akirak/org-starter) - Configure files and directories in Org mode more easily
 - [.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
 - [github-explorer](https://github.com/TxGVNN/github-explorer) - Explore Github repositories on the fly in Emacs
 - [leaf.el](https://github.com/conao3/leaf.el) - Support your setting init.el like use-package
@@ -5005,6 +5020,7 @@
 
 ## Others 
 
+- [dev-stuff](https://github.com/patrykwozinski/dev-stuff) - 😎 Programming stuff for everyone. Collection of articles, videos about architecture, Domain Driven Design, microservices, testing etc.
 - [awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [awesome-coding-camps](https://github.com/theodesp/awesome-coding-camps) - A curated list of awesome Coding Bootcamps and websites to help you boost your career in Programming
 - [awesome-scheme](https://github.com/theodesp/awesome-scheme) - A curated list of awesome Scheme resources and materials
@@ -5429,7 +5445,6 @@
 - [exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 - [gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: http://bit.ly/contribute-code
 - [react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
-- [elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app
 - [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [javascript](https://github.com/GitbookIO/javascript) - GitBook teaching programming basics with Javascript
 - [going-to-production](https://github.com/mtdvio/going-to-production) - A reference checklist for topics which should be covered before going to production.
@@ -5775,6 +5790,7 @@
 
 ## Python 
 
+- [Opcodes](https://github.com/Maratyszcza/Opcodes) - Database of CPU Opcodes
 - [Passhunt](https://github.com/Viralmaniar/Passhunt) - Passhunt is a simple tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords.
 - [mininet](https://github.com/mininet/mininet) - Emulator for rapid prototyping of Software Defined Networks
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
@@ -7157,6 +7173,7 @@
 
 ## Rust 
 
+- [json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [vivid](https://github.com/sharkdp/vivid) - A generator for LS_COLORS with support for multiple color themes
 - [cicada](https://github.com/mitnk/cicada) - A bash-like Unix shell written in Rust
@@ -7998,7 +8015,7 @@
 
 ## V 
 
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. Stable 0.2 release in January 2019. https://vlang.io
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io
 
 ## VCL 
 
@@ -8096,7 +8113,7 @@
 
 ## Zig 
 
-- [zig](https://github.com/ziglang/zig) - General-purpose programming language for maintaining robust, optimal, and reusable code.
+- [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 ## License
