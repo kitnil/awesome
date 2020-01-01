@@ -1098,7 +1098,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.2.5.32722, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.2.5.32750, 3.3.5 = 3.3.5a.12340)
 - [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -4020,7 +4020,7 @@
 - [EmmyLua-LanguageServer](https://github.com/EmmyLua/EmmyLua-LanguageServer) - 
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [hawtio](https://github.com/hawtio/hawtio) - Hawtio web console helps you manage your JVM stuff and stay cool!
-- [ssh-slaves-plugin](https://github.com/jenkinsci/ssh-slaves-plugin) - Jenkins ssh-slaves plugin
+- [ssh-slaves-plugin](https://github.com/jenkinsci/ssh-slaves-plugin) - SSH Build Agents Plugin for Jenkins
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [loyalty-card-locker](https://github.com/brarcher/loyalty-card-locker) - Stores your barcode-based store/loyalty cards on your phone
 - [SonarJS](https://github.com/SonarSource/SonarJS) - SonarJS: JavaScript and TypeScript Analyzer for SonarQube
@@ -4969,6 +4969,7 @@
 
 ## Nix 
 
+- [mobile-nixos](https://github.com/NixOS/mobile-nixos) - Questions? #nixos-aarch64 (or #nixos) on Freenode!
 - [nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
 - [nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
@@ -5507,7 +5508,7 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [readable-licenses](https://github.com/nevir/readable-licenses) - Make your open source license text more pleasant to read.
 - [GitHubExtIns](https://github.com/diegocr/GitHubExtIns) - Install Browser Extensions straight from GitHub Repositories.
-- [Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - 📜 Brief Intro to LaTeX for beginners that helps you use LaTeX with ease. Comments and Contributions are welcomed :thumbsup:
+- [Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - 📜 Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
 - [dotaliases](https://github.com/algotech/dotaliases) - Helpful bash aliases for true professionals.
 - [refcard-org-mode](https://github.com/fniessen/refcard-org-mode) - Org mode syntax reference card
 - [apt](https://github.com/Debian/apt) - Mirror of the apt git repository
@@ -5792,6 +5793,7 @@
 
 ## Python 
 
+- [nixops-libvirtd](https://github.com/nix-community/nixops-libvirtd) - NixOps libvirtd backend plugin [maintainer=@AmineChikhaoui]
 - [Opcodes](https://github.com/Maratyszcza/Opcodes) - Database of CPU Opcodes
 - [Passhunt](https://github.com/Viralmaniar/Passhunt) - Passhunt is a simple tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords.
 - [mininet](https://github.com/mininet/mininet) - Emulator for rapid prototyping of Software Defined Networks
