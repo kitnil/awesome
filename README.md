@@ -159,6 +159,7 @@
 
 ## C 
 
+- [xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [scrot](https://github.com/dreamer/scrot) - scrot (SCReen shOT) is a simple commandline screen capture utility
 - [far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
 - [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++ with scanf/printf like interface. Targeting embedded systems.
@@ -317,6 +318,7 @@
 - [dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
 - [yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [raylib-lua](https://github.com/raysan5/raylib-lua) - A simple and easy-to-use Lua library to enjoy videogames programming
+- [engine](https://github.com/mgerhardy/engine) - Home of a voxel game engine and its tools (like a voxel editor)
 - [openswe1r](https://github.com/OpenSWE1R/openswe1r) - An Open-Source port of the 1999 Game "Star Wars Episode 1: Racer"
 - [exengine](https://github.com/exezin/exengine) - A C99 3D game engine
 - [qfusion](https://github.com/Qfusion/qfusion) - Source code for cross-platform OpenGL gaming engine
@@ -812,6 +814,7 @@
 
 ## C++ 
 
+- [redsea](https://github.com/windytan/redsea) - A lightweight RDS to JSON decoder
 - [chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for twitch.tv
 - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [BlueshiftEngine](https://github.com/PolygonTek/BlueshiftEngine) - Blueshift is a cross-platform 3D game engine implemented in C++. it's free, open-source, and works on Windows, macOS, iOS, and Android. The project is currently in an early stage of development.
@@ -933,7 +936,6 @@
 - [xrtl](https://github.com/google/xrtl) - Cross-platform Real-Time Rendering Library
 - [DustRacing2D](https://github.com/juzzlin/DustRacing2D) - Dust Racing 2D is a traditional top-down car racing game including a level editor.
 - [Rubeus](https://github.com/sdslabs/Rubeus) - A cross platform 2D game engine written in C++ for beginners
-- [engine](https://github.com/mgerhardy/engine) - Home of a voxel game engine and its tools (like a voxel editor)
 - [Doomsday-Engine](https://github.com/skyjake/Doomsday-Engine) - A portable, enhanced source port of Doom, Heretic and Hexen.
 - [xray-15](https://github.com/OpenXRay/xray-15) - X-Ray Engine 1.5 expansion. Original version was used in S.T.A.L.K.E.R.: Clear Sky.
 - [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) - 3D strange attractors GPU scout and hypercomplex fractals - over 200 Million particles
@@ -3196,6 +3198,7 @@
 
 ## Go 
 
+- [gotestsum](https://github.com/gotestyourself/gotestsum) - `go test` runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 - [g-fu](https://github.com/codr7/g-fu) - Lisp to Go
 - [prealloc](https://github.com/alexkohler/prealloc) - prealloc is a Go static analysis tool to find slice declarations that could potentially be preallocated.
 - [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
@@ -5793,6 +5796,8 @@
 
 ## Python 
 
+- [manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
+- [gogextract](https://github.com/Yepoleb/gogextract) - Script for unpacking GOG Linux installers
 - [nixops-libvirtd](https://github.com/nix-community/nixops-libvirtd) - NixOps libvirtd backend plugin [maintainer=@AmineChikhaoui]
 - [Opcodes](https://github.com/Maratyszcza/Opcodes) - Database of CPU Opcodes
 - [Passhunt](https://github.com/Viralmaniar/Passhunt) - Passhunt is a simple tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords.
