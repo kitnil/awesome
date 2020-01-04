@@ -2619,7 +2619,7 @@
 - [evil-snipe](https://github.com/hlissner/evil-snipe) - 2-char searching ala vim-sneak & vim-seek, for evil-mode
 - [ace-popup-menu](https://github.com/mrkkrp/ace-popup-menu) - Replace GUI popup menu in Emacs with something more efficient
 - [orgpaper](https://github.com/vikasrawal/orgpaper) - Reproducible Research Papers using Org-mode and R: A Guide
-- [php-mode](https://github.com/emacs-php/php-mode) - A PHP mode for GNU Emacs
+- [php-mode](https://github.com/emacs-php/php-mode) - A powerful and flexible Emacs major mode for editing PHP scripts
 - [shackle](https://github.com/wasamasa/shackle) - Enforce rules for popup windows
 - [persp-projectile](https://github.com/bbatsov/persp-projectile) - Projectile integration for perspective.el
 - [perspective-el](https://github.com/nex3/perspective-el) - Perspectives for Emacs.
@@ -5174,7 +5174,7 @@
 - [technical-whitepapers](https://github.com/trimstray/technical-whitepapers) - Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.
 - [zabbix-community-repos](https://github.com/monitoringartist/zabbix-community-repos) - :memo: 850+ Zabbix community project links: SW/HW/DB templates, scripts, CLIs, integrations, API libraries, modules, configurations, ...
 - [URxvt-themes](https://github.com/AntSunrise/URxvt-themes) - My .Xdefaults
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2019
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
 - [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
 - [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷‍♀️
 - [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
@@ -5618,7 +5618,7 @@
 - [SuiteCRM](https://github.com/salesagility/SuiteCRM) - SuiteCRM - Open source CRM for the world
 - [ApiGen](https://github.com/ApiGen/ApiGen) - PHP 7.1 ready Smart and Simple Documentation for your PHP project
 - [kouki](https://github.com/felixdorner/kouki) - ⓦ A beautiful and minimal theme for personal blogs
-- [AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source
+- [AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [airship](https://github.com/paragonie/airship) - Secure Content Management for the Modern Web - "The sky is only the beginning"
 - [KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
 - [chamilo-lms](https://github.com/chamilo/chamilo-lms) - Chamilo is a learning management system focused on ease of use and accessibility
@@ -8098,7 +8098,7 @@
 ## Vue 
 
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast and beautiful alternative to Postman https://postwoman.io 🔥
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
