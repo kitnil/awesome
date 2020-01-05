@@ -159,6 +159,7 @@
 
 ## C 
 
+- [ladspa](https://github.com/swh/ladspa) - The SWH Plugins package for the LADSPA plugin system
 - [xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [scrot](https://github.com/dreamer/scrot) - scrot (SCReen shOT) is a simple commandline screen capture utility
 - [far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
@@ -197,7 +198,7 @@
 - [zork](https://github.com/devshane/zork) - The DUNGEON (Zork I) source
 - [space-nerds-in-space](https://github.com/smcameron/space-nerds-in-space) - Multi-player spaceship bridge simulator. Captain your starship through adventures with your friends.  See https://smcameron.github.io/space-nerds-in-space
 - [hidemyass](https://github.com/pannzh/hidemyass) - A post-exploit tool that carefully clean *NIX access logs
-- [editline](https://github.com/troglobit/editline) - A readline() replacement for UNIX without termcap (ncurses)
+- [editline](https://github.com/troglobit/editline) - A small replacement for GNU readline() for UNIX
 - [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
 - [mongolite](https://github.com/jeroen/mongolite) - Fast and Simple MongoDB Client for R
 - [gitftp](https://github.com/begriffs/gitftp) - Browse git over anonymous FTP
@@ -241,7 +242,7 @@
 - [libfb-bsd](https://github.com/p120ph37/libfb-bsd) - Console framebuffer graphics library for FreeBSD
 - [akt](https://github.com/TieDyedDevil/akt) - APL Keyboard Translator (for use with GNU APL)
 - [mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
-- [flecs](https://github.com/SanderMertens/flecs) - A Multithreaded Entity Component System for C89/99 & C++11
+- [flecs](https://github.com/SanderMertens/flecs) - A Multithreaded Entity Component System for C89/99 and C++11
 - [2bwm](https://github.com/venam/2bwm) - A fast floating WM written over the XCB library and derived from mcwm.
 - [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - Thin wrapper over Nuklear for Common Lisp
 - [zabbix-module-systemd](https://github.com/cavaliercoder/zabbix-module-systemd) - Native systemd monitoring for Zabbix
@@ -3198,6 +3199,7 @@
 
 ## Go 
 
+- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [gotestsum](https://github.com/gotestyourself/gotestsum) - `go test` runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 - [g-fu](https://github.com/codr7/g-fu) - Lisp to Go
 - [prealloc](https://github.com/alexkohler/prealloc) - prealloc is a Go static analysis tool to find slice declarations that could potentially be preallocated.
