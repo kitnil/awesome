@@ -159,6 +159,7 @@
 
 ## C 
 
+- [guile-gi](https://github.com/spk121/guile-gi) - Bindings for GObject Introspection and libgirepository for Guile
 - [ladspa](https://github.com/swh/ladspa) - The SWH Plugins package for the LADSPA plugin system
 - [xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [scrot](https://github.com/dreamer/scrot) - scrot (SCReen shOT) is a simple commandline screen capture utility
@@ -1269,6 +1270,7 @@
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
 - [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
+- [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [vimix-gtk-themes](https://github.com/vinceliuice/vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
 - [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
 - [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.
@@ -1543,6 +1545,7 @@
 
 ## Dockerfile 
 
+- [shpod](https://github.com/jpetazzo/shpod) - Container image to get a consistent training environment to work on Kubernetes
 - [docker-alpine](https://github.com/smebberson/docker-alpine) - Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers.
 - [webdav](https://github.com/tadly/webdav) - Docker: A alpine linux based webdav server.
 - [syncthing-srv](https://github.com/tadly/syncthing-srv) - Docker: A alpine linux based syncthing relay and discovery server.
@@ -4377,7 +4380,7 @@
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [serve](https://github.com/zeit/serve) - Static file serving and directory listing
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [web](https://github.com/pikapkg/web) - :package: :sparkles:Install npm dependencies to run directly in the browser. No webpack required. https://www.pika.dev/blog/pika-web-a-future-without-webpack/
+- [snowpack](https://github.com/pikapkg/snowpack) - 📦✨ Run npm packages directly in the browser. No Webpack, Parcel, or bundlers required.
 - [llthw](https://github.com/LispTO/llthw) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -5406,7 +5409,6 @@
 - [wiki](https://github.com/nix-community/wiki) - Nixos wiki [maintainer=@samueldr]
 - [nix-cheatsheet](https://github.com/knedlsepp/nix-cheatsheet) - Cheatsheet for the nix toolset
 - [awesome-speakers](https://github.com/karlhorky/awesome-speakers) - Awesome speakers in the programming and design communities
-- [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [quicklisp-projects](https://github.com/quicklisp/quicklisp-projects) - Metadata for projects tracked by Quicklisp.
 - [moebius](https://github.com/MoonchildProductions/moebius) - UXP - initial dev repo
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -5798,6 +5800,8 @@
 
 ## Python 
 
+- [webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
+- [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
 - [manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [gogextract](https://github.com/Yepoleb/gogextract) - Script for unpacking GOG Linux installers
 - [nixops-libvirtd](https://github.com/nix-community/nixops-libvirtd) - NixOps libvirtd backend plugin [maintainer=@AmineChikhaoui]
@@ -6591,7 +6595,7 @@
 - [tsoding-tools](https://github.com/tsoding/tsoding-tools) - Just a bunch of scripts I use for my streams
 - [meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [picard](https://github.com/metabrainz/picard) - MusicBrainz Picard
-- [mopidy-youtube](https://github.com/mopidy/mopidy-youtube) - Mopidy extension for playing music from YouTube
+- [mopidy-youtube](https://github.com/natumbri/mopidy-youtube) - Mopidy extension for playing music from YouTube
 - [fedmsg-notify](https://github.com/fedora-infra/fedmsg-notify) - Fedmsg Desktop Notifications
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [python-bugzilla](https://github.com/python-bugzilla/python-bugzilla) - Python library and command line tool for interacting with Bugzilla
@@ -7381,6 +7385,8 @@
 
 ## Shell 
 
+- [dind](https://github.com/jpetazzo/dind) - Docker in Docker
+- [nsenter](https://github.com/jpetazzo/nsenter) - 
 - [netbootcd](https://github.com/IsaacSchemm/netbootcd) - The build files for NetbootCD (except the CorePlus ISO)
 - [spf-tools](https://github.com/spf-tools/spf-tools) - Shell scripts for taming the SPF (Sender Policy Framework) records in order to fight 10-maximum-DNS-look-ups limit.
 - [jwalk](https://github.com/shellbound/jwalk) - Streaming JSON parser for Unix
@@ -7550,7 +7556,7 @@
 - [log2ram](https://github.com/azlux/log2ram) - ramlog like for systemd (Put log into a ram folder)
 - [org-auto-expand](https://github.com/alphapapa/org-auto-expand) - Automatically expand certain Org headings
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
-- [complete-alias](https://github.com/cykerway/complete-alias) - programmable completion function for shell aliases;
+- [complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
 - [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
