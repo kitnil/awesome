@@ -159,6 +159,8 @@
 
 ## C 
 
+- [bluez-alsa](https://github.com/Arkq/bluez-alsa) - Bluetooth Audio ALSA Backend
+- [pidgin-znc-helper](https://github.com/kgraefe/pidgin-znc-helper) - ZNC Helper uses message timestamp from a ZNC Bouncer and sets them within Pidgin so that replayed messages will be displayed with the correct timestamp.
 - [guile-gi](https://github.com/spk121/guile-gi) - Bindings for GObject Introspection and libgirepository for Guile
 - [ladspa](https://github.com/swh/ladspa) - The SWH Plugins package for the LADSPA plugin system
 - [xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
@@ -816,6 +818,8 @@
 
 ## C++ 
 
+- [quassel](https://github.com/quassel/quassel) - Quassel IRC: Chat comfortably.  Everywhere.
+- [znc-push](https://github.com/jreese/znc-push) - Push notification service module for ZNC
 - [redsea](https://github.com/windytan/redsea) - A lightweight RDS to JSON decoder
 - [chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for twitch.tv
 - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
@@ -1195,7 +1199,7 @@
 - [endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 - [openmw](https://github.com/OpenMW/openmw) - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind.
-- [vokoscreen](https://github.com/vkohaupt/vokoscreen) - vokoscreen is an easy to use screencast creator to record educational videos, live recordings of browser, installation, videoconferences, etc.
+- [vokoscreen](https://github.com/vkohaupt/vokoscreen) - The development of vokoscreen was started again under the new name vokoscreenNG, see https://github.com/vkohaupt/vokoscreenNG and
 - [cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [mysql-workbench](https://github.com/mysql/mysql-workbench) - MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more.
@@ -1238,6 +1242,7 @@
 
 ## CSS 
 
+- [gShort](https://github.com/someone-stole-my-name/gShort) - URL Shortener without all the crap
 - [widegithub](https://github.com/fabiocchetti/widegithub) - Makes GitHub layout fluid and responsive on Mozilla Firefox.
 - [pipeline-stage-view-plugin](https://github.com/jenkinsci/pipeline-stage-view-plugin) - Visualizes Jenkins pipelines
 - [ezprompt](https://github.com/jmatth/ezprompt) - An easy to use webapp for creating simple bash prompts.
@@ -1545,6 +1550,7 @@
 
 ## Dockerfile 
 
+- [docker-bitlbee-libpurple](https://github.com/ezkrg/docker-bitlbee-libpurple) - bitlbee with libpurple and plugins
 - [shpod](https://github.com/jpetazzo/shpod) - Container image to get a consistent training environment to work on Kubernetes
 - [docker-alpine](https://github.com/smebberson/docker-alpine) - Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers.
 - [webdav](https://github.com/tadly/webdav) - Docker: A alpine linux based webdav server.
@@ -2039,7 +2045,7 @@
 - [dired-rsync](https://github.com/stsquad/dired-rsync) - Support for rsync from Emacs dired buffers
 - [framegroups.el](https://github.com/noctuid/framegroups.el) - Workspaces for emacs using frames
 - [evil-nerd-commenter](https://github.com/redguardtoo/evil-nerd-commenter) - Comment/uncomment lines efficiently. Like Nerd Commenter in Vim
-- [switch-buffer-functions-el](https://github.com/10sr/switch-buffer-functions-el) - Hook Run When Switching Current Buffer
+- [switch-buffer-functions-el](https://github.com/10sr/switch-buffer-functions-el) - Hook Run Just After Switching Current Buffer Interactively
 - [eterm-256color](https://github.com/dieggsy/eterm-256color) - Customizable 256 colors for emacs term and ansi-term
 - [xterm-color](https://github.com/atomontage/xterm-color) - ANSI & xterm-256 color text property translator for Emacs
 - [xbacklight](https://github.com/dakra/xbacklight) - Adjust screen brightness with xbacklight
@@ -3202,6 +3208,10 @@
 
 ## Go 
 
+- [purple-docker](https://github.com/samuelkarp/purple-docker) - purple-docker: A libpurple protocol plugin for your Docker containers
+- [cbi](https://github.com/containerbuilding/cbi) - Container Builder Interface for Kubernetes with support for several backends (Docker, BuildKit, Buildah, kaniko, img, Google Cloud Container Builder, Azure Container Registry Build, OpenShift Source-to-Image...)
+- [container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
+- [krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [gotestsum](https://github.com/gotestyourself/gotestsum) - `go test` runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 - [g-fu](https://github.com/codr7/g-fu) - Lisp to Go
@@ -3788,6 +3798,8 @@
 
 ## HTML 
 
+- [quassel-webserver](https://github.com/magne4000/quassel-webserver) - A web server/client for Quassel
+- [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [shell-novice](https://github.com/swcarpentry/shell-novice) - Software Carpentry introduction to the shell for novices.
 - [awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
@@ -3886,6 +3898,7 @@
 
 ## Haskell 
 
+- [irc-core](https://github.com/glguy/irc-core) - Haskell IRC library and console client - Join us on Freenode #haskell-irc
 - [eta](https://github.com/typelead/eta) - The Eta Programming Language, a dialect of Haskell on the JVM
 - [gitlib](https://github.com/jwiegley/gitlib) - 
 - [FuncShell](https://github.com/iostreamer-X/FuncShell) - Improve your shell by making it functional through Haskell! (An update to Awkward)
@@ -4173,6 +4186,7 @@
 
 ## JavaScript 
 
+- [cookie-quick-manager](https://github.com/ysard/cookie-quick-manager) - An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
 - [listen-to-wikipedia](https://github.com/hatnote/listen-to-wikipedia) - Live, generative music from Wikipedia edits
@@ -7741,7 +7755,7 @@
 - [emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
 - [baphomet](https://github.com/paxperscientiam/baphomet) - BAPHOMET -- manage your emacs daemons
 - [voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
-- [blackweb](https://github.com/maravento/blackweb) - Domains Blacklist for Squid
+- [blackweb](https://github.com/maravento/blackweb) - Blacklist for Squid
 - [guile-aspell](https://github.com/spk121/guile-aspell) - Guile bindings for the aspell library
 - [gecko-dev](https://github.com/stransky/gecko-dev) - Firefox trunk with experimental patches. Sponsored by Red Hat, Inc.
 - [google-hosts](https://github.com/txthinking/google-hosts) - Google hosts generator
@@ -7961,6 +7975,7 @@
 
 ## TypeScript 
 
+- [forget-me-not](https://github.com/Lusito/forget-me-not) - Make the browser forget website data, except for the data you want to keep.
 - [codelyzer](https://github.com/mgechev/codelyzer) - Static analysis for Angular projects.
 - [nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
@@ -8027,7 +8042,7 @@
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
-- [refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
+- [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
 ## V 
 
