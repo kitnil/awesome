@@ -818,6 +818,7 @@
 
 ## C++ 
 
+- [rttr](https://github.com/rttrorg/rttr) - C++ Reflection Library
 - [quassel](https://github.com/quassel/quassel) - Quassel IRC: Chat comfortably.  Everywhere.
 - [znc-push](https://github.com/jreese/znc-push) - Push notification service module for ZNC
 - [redsea](https://github.com/windytan/redsea) - A lightweight RDS to JSON decoder
@@ -1545,6 +1546,7 @@
 
 ## Dart 
 
+- [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries
 - [chromedeveditor](https://github.com/googlearchive/chromedeveditor) - Chrome Dev Editor is a developer tool for building apps on the Chrome platform - Chrome Apps and Web Apps, in JavaScript or Dart. (NO LONGER IN ACTIVE DEVELOPMENT)
 
@@ -3208,6 +3210,8 @@
 
 ## Go 
 
+- [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
+- [Whaler](https://github.com/P3GLEG/Whaler) - Program to reverse Docker images into Dockerfiles
 - [purple-docker](https://github.com/samuelkarp/purple-docker) - purple-docker: A libpurple protocol plugin for your Docker containers
 - [cbi](https://github.com/containerbuilding/cbi) - Container Builder Interface for Kubernetes with support for several backends (Docker, BuildKit, Buildah, kaniko, img, Google Cloud Container Builder, Azure Container Registry Build, OpenShift Source-to-Image...)
 - [container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
@@ -3417,7 +3421,7 @@
 - [sshmuxd](https://github.com/kennylevinsen/sshmuxd) - sshmux frontend
 - [docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) - sshfs docker volume plugin
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-- [nps](https://github.com/cnlh/nps) - 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
+- [nps](https://github.com/ehang-io/nps) - a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally
@@ -3689,7 +3693,7 @@
 - [whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [cloud-print-connector](https://github.com/google/cloud-print-connector) - Google Cloud Print Connector
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
-- [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [gocode](https://github.com/nsf/gocode) - An autocompletion daemon for the Go programming language
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -4097,7 +4101,7 @@
 - [awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference) - Awesome Android references for everything like best practices, performance optimization, etc.
 - [YalpStore](https://github.com/yeriomin/YalpStore) - Download apks from Google Play Store
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - 🚀 A Complete Fast Android Networking Library that also supports HTTP/2 🚀
-- [nextcloud-notes](https://github.com/stefan-niedermann/nextcloud-notes) - 📔 Android client for Nextcloud Notes app.
+- [nextcloud-notes](https://github.com/stefan-niedermann/nextcloud-notes) - 📝 Android client for Nextcloud Notes app.
 - [multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform Multicast-enabled VNC viewer using wxWidgets and libvncclient . It runs on Unix, Mac OS X and Windows. Features include support for most encodings, ZeroConf service discovery and a seamless edge control mode á la x2vnc. There also is a mobile (Android) version with a different feature set available.
 - [java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8
 - [connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
@@ -4186,6 +4190,7 @@
 
 ## JavaScript 
 
+- [liman](https://github.com/salihciftci/liman) - Self-hosted web application for monitoring docker.
 - [cookie-quick-manager](https://github.com/ysard/cookie-quick-manager) - An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
@@ -4434,7 +4439,7 @@
 - [Steward](https://github.com/solobat/Steward) - A command launcher for Chrome/Firefox
 - [live-css-editor](https://github.com/webextensions/live-css-editor) - Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 - [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox)
-- [mouse-dictionary](https://github.com/wtetsu/mouse-dictionary) - A blazing fast dictionary for Chrome/Firefox
+- [mouse-dictionary](https://github.com/wtetsu/mouse-dictionary) - 📘A blazing fast dictionary for Chrome/Firefox
 - [nuclear](https://github.com/nukeop/nuclear) - User freedom-oriented streaming music player
 - [deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.
 - [learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
@@ -5045,6 +5050,8 @@
 
 ## Others 
 
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+- [sysdig-container-ecosystem](https://github.com/draios/sysdig-container-ecosystem) - The Container Ecosystem Project
 - [dev-stuff](https://github.com/patrykwozinski/dev-stuff) - 😎 Programming stuff for everyone. Collection of articles, videos about architecture, Domain Driven Design, microservices, testing etc.
 - [awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [awesome-coding-camps](https://github.com/theodesp/awesome-coding-camps) - A curated list of awesome Coding Bootcamps and websites to help you boost your career in Programming
@@ -5142,6 +5149,7 @@
 - [awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [security-cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) - 🔒 A collection of cheatsheets for various infosec tools and topics.
 - [programming-cheatsheets](https://github.com/remigiusz-suwalski/programming-cheatsheets) - Programming cheatsheets (Python, Bash, Haskell...)
+- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 - [AgileLite](https://github.com/davebs/AgileLite) - Agile software development without all the burnout.
 - [hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers and other online garbage
@@ -5691,7 +5699,7 @@
 - [Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [cperl](https://github.com/perl11/cperl) - A perl5 with classes, types, compilable, company friendly, security
 - [ferm](https://github.com/MaxKellermann/ferm) - ferm is a frontend for iptables
-- [output-as-format](https://github.com/sshaw/output-as-format) - Output stdin as GitHub/Slack/JIRA etc... formatted code, lists, or quotes
+- [output-as-format](https://github.com/sshaw/output-as-format) - Output stdin as GitHub/Slack/Jira etc... formatted code, lists, or quotes
 - [ensembl-hive](https://github.com/Ensembl/ensembl-hive) - EnsEMBL Hive - a system for creating and running pipelines on a distributed compute resource
 - [menutray](https://github.com/trizen/menutray) - An application menu through a GTK+ tray status icon.
 - [cgiirc](https://github.com/dgl/cgiirc) - CGI:IRC web based IRC client
@@ -5814,6 +5822,7 @@
 
 ## Python 
 
+- [repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
 - [webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
 - [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
 - [manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
@@ -6030,7 +6039,7 @@
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [Pinku](https://github.com/mosegontar/Pinku) - A Pinboard-to-Buku importation utility
-- [Buku](https://github.com/jarun/Buku) - :bookmark: Browser-independent bookmark manager
+- [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
 - [gitlab-tools](https://github.com/Salamek/gitlab-tools) - Web application providing tools not avaiable in GitLab CE (Gitlab push/pull mirror and more)
@@ -6544,7 +6553,7 @@
 - [bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [plotly.py](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents
-- [live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, or Eclipse.
+- [live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
 - [todoman](https://github.com/pimutils/todoman) - A simple CalDAV-based todo manager.
 - [pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
@@ -6753,7 +6762,6 @@
 - [supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
 - [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 - [clint](https://github.com/kennethreitz/clint) - Python Command-line Application Tools
-- [pythonpy](https://github.com/Russell91/pythonpy) - the swiss army knife of the command line
 - [livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
 - [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
@@ -7617,14 +7625,12 @@
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
-- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
 - [discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.
 - [rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 - [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
-- [sshrc](https://github.com/Russell91/sshrc) - bring your .bashrc, .vimrc, etc. with you when you ssh
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [repl](https://github.com/icyphox/repl) - :shell: an instant REPL for any command
 - [REPL](https://github.com/repl-cli/REPL) - REPL- Simple bash script for creating and running REPLs locally, offline, and out of the browser
