@@ -159,6 +159,7 @@
 
 ## C 
 
+- [sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
 - [bluez-alsa](https://github.com/Arkq/bluez-alsa) - Bluetooth Audio ALSA Backend
 - [pidgin-znc-helper](https://github.com/kgraefe/pidgin-znc-helper) - ZNC Helper uses message timestamp from a ZNC Bouncer and sets them within Pidgin so that replayed messages will be displayed with the correct timestamp.
 - [guile-gi](https://github.com/spk121/guile-gi) - Bindings for GObject Introspection and libgirepository for Guile
@@ -3421,7 +3422,7 @@
 - [sshmuxd](https://github.com/kennylevinsen/sshmuxd) - sshmux frontend
 - [docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) - sshfs docker volume plugin
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-- [nps](https://github.com/ehang-io/nps) - a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+- [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally
@@ -3868,6 +3869,7 @@
 - [pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [ruby-hacking-guide.github.com](https://github.com/ruby-hacking-guide/ruby-hacking-guide.github.com) - Ruby Hacking Guide Translation
+- [ProgrammingLanguage-Series](https://github.com/wx-chevalier/ProgrammingLanguage-Series) - :books: 编程语言语法基础与工程实践，JavaScript | Java | Python | Go | Rust | CPP | Swift
 - [craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
@@ -5142,7 +5144,6 @@
 - [awx-container](https://github.com/geerlingguy/awx-container) - Ansible Container project that manages the lifecycle of AWX on Docker.
 - [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
 - [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
-- [rust-web-developer-roadmap](https://github.com/pepsighan/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2020
 - [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
 - [xg2xg](https://github.com/jhuangtw-dev/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2019
@@ -5254,7 +5255,6 @@
 - [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [compilers-targeting-c](https://github.com/dbohdan/compilers-targeting-c) - A list of compilers that can generate C code
-- [ProgrammingLanguage-Series](https://github.com/wx-chevalier/ProgrammingLanguage-Series) - :books: 编程语言语法基础与工程实践，JavaScript | Java | Python | Go | Rust | CPP | Swift
 - [awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
@@ -7245,6 +7245,7 @@
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [memory-profiler](https://github.com/koute/memory-profiler) - 
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
+- [rust-web-developer-roadmap](https://github.com/pepsighan/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2020
 - [rusti](https://github.com/murarth/rusti) - REPL for the Rust programming language
 - [org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
@@ -7407,6 +7408,7 @@
 
 ## Shell 
 
+- [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
 - [dind](https://github.com/jpetazzo/dind) - Docker in Docker
 - [nsenter](https://github.com/jpetazzo/nsenter) - 
 - [netbootcd](https://github.com/IsaacSchemm/netbootcd) - The build files for NetbootCD (except the CorePlus ISO)
