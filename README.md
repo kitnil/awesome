@@ -2340,7 +2340,7 @@
 - [unify-opening](https://github.com/DamienCassou/unify-opening) - Emacs package to make everything use the same mechanism to open files
 - [xwidgete](https://github.com/tuhdo/xwidgete) - Enhance usability for Xwidget browser in Emacs 25
 - [flyspell-correct](https://github.com/d12frosted/flyspell-correct) - Distraction-free words correction with flyspell via selected interface.
-- [elfeed-protocol](https://github.com/fasheng/elfeed-protocol) - Provide extra protocols to make like ownCloud News, Tiny Tiny RSS and NewsBlur works with elfeed
+- [elfeed-protocol](https://github.com/fasheng/elfeed-protocol) - Provide extra protocols to make like ownCloud News, Tiny Tiny RSS and NewsBlur work with elfeed
 - [ruby-extra-highlight](https://github.com/Lindydancer/ruby-extra-highlight) - Highlight Ruby parameters in Emacs
 - [simple-paren](https://github.com/andreas-roehler/simple-paren) - Insert paired delimiters, wrap symbols in front maybe
 - [emacs-fish-completion](https://github.com/Ambrevar/emacs-fish-completion) - [MOVED TO GITLAB]
@@ -3468,7 +3468,7 @@
 - [boltcli](https://github.com/spacewander/boltcli) - boltcli is the redis-cli for boltdb with Lua script support
 - [elasticsearch-cli](https://github.com/marclop/elasticsearch-cli) - Provides a REPL console-like interface to interact with Elasticsearch
 - [kubectl-repl](https://github.com/clusterise/kubectl-repl) - 💁 Kubectl wrapper with variables. Run commands without pasting ids.
-- [murex](https://github.com/lmorg/murex) - UNIX-like shell: designed for readability and safer shell scripting / one liners
+- [murex](https://github.com/lmorg/murex) - Bash-like $SHELL designed for greater commandline productivity and safer shell scripts
 - [kubeplay](https://github.com/errordeveloper/kubeplay) - kubeplay – a new way to interact with Kubernetes API from your terminal
 - [gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
 - [lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
@@ -4226,6 +4226,7 @@
 - [lessmd](https://github.com/linuxenko/lessmd) - A small markdown viewer/converter for unix terminal.
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [legit](https://github.com/captainsafia/legit) - Add licenses to projects at the command line
+- [serverless-libreoffice](https://github.com/vladgolubev/serverless-libreoffice) - Run LibreOffice in AWS Lambda to create PDFs & convert documents
 - [shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
@@ -7053,6 +7054,7 @@
 
 ## Ruby 
 
+- [docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser) - 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails.
 - [i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage translation and localization with static analysis, for Ruby i18n
 - [codeclimate](https://github.com/codeclimate/codeclimate) - Code Climate CLI
 - [rubocop](https://github.com/rubocop-hq/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
@@ -7507,7 +7509,6 @@
 - [fcp](https://github.com/toofar/fcp) - fcp (fast copy): wraps ssh and netcat to copy stuff over the network faster than ssh alone.
 - [piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) - This is an Old School horizontal scroller 'Shoot Them All' game in bash. With multiplayer modes team and duel. You have to defeat 100 aliens to fight with Boss. I'm using netcat for client-server exchange in multiplayer mode. So netcat have to be installed on system if you wish to play with friend. Terminals on both hosts have to be with equal dimensions.
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations
-- [serverless-libreoffice](https://github.com/vladgolubev/serverless-libreoffice) - Run LibreOffice in AWS Lambda to create PDFs & convert documents
 - [docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [awesome-graal](https://github.com/neomatrix369/awesome-graal) - A curated list of awesome resources for Graal, GraalVM, Truffle and related topics
