@@ -819,6 +819,7 @@
 
 ## C++ 
 
+- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [rttr](https://github.com/rttrorg/rttr) - C++ Reflection Library
 - [quassel](https://github.com/quassel/quassel) - Quassel IRC: Chat comfortably.  Everywhere.
 - [znc-push](https://github.com/jreese/znc-push) - Push notification service module for ZNC
@@ -1107,7 +1108,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.2.5.32750, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.2.5.32978, 3.3.5 = 3.3.5a.12340)
 - [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -1270,7 +1271,6 @@
 - [equilux-firefox](https://github.com/cj-sv/equilux-firefox) - A neutral dark balanced color scheme for Firefox based on the Equilux GTK Theme.
 - [conkeror-theme-zenburn](https://github.com/ivoarch/conkeror-theme-zenburn) - Zenburn theme for conkeror
 - [raleigh-reloaded](https://github.com/vlastavesely/raleigh-reloaded) - Raleigh Reloaded is a conservative GTK-3.20 theme aiming to revive the Raleigh theme, the default theme of GTK-2.0.
-- [HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK
 - [tokumei](https://github.com/tokumeico/tokumei) - Anonymous microblogging platform
 - [haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com) - haxeflixel.com docpad source
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
@@ -3590,7 +3590,7 @@
 - [render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
 - [boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
-- [dnote](https://github.com/dnote/dnote) - A simple personal knowledge base
+- [dnote](https://github.com/dnote/dnote) - A personal knowledge base for programmers
 - [slackcat](https://github.com/bcicen/slackcat) - CLI utility to post files and command output to slack
 - [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive prompts with full support for windows and posix terminals.
@@ -4854,6 +4854,7 @@
 - [notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra) - 线性代数笔记
 - [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) - :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/
+- [HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK
 - [pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
 - [cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum | Participate at Hacktoberfest
 - [ML-Tutorial-Experiment](https://github.com/jiqizhixin/ML-Tutorial-Experiment) - Coding the Machine Learning Tutorial for Learning to Learn
@@ -4894,6 +4895,7 @@
 
 ## Lua 
 
+- [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices) - 
 - [digestif](https://github.com/astoff/digestif) - A language server for LaTeX
 - [grid-sdk](https://github.com/Planimeter/grid-sdk) - The Grid SDK - Game engine for Lua
 - [lua-http](https://github.com/daurnimator/lua-http) - HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server.
@@ -5753,7 +5755,7 @@
 - [hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
 - [backuppc](https://github.com/backuppc/backuppc) - BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
 - [imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is
-- [hw-probe](https://github.com/linuxhw/hw-probe) - A tool to probe for hardware and upload result to the Linux Hardware Database
+- [hw-probe](https://github.com/linuxhw/hw-probe) - A tool to probe for hardware, check operability and find drivers
 - [rpmgrill](https://github.com/default-to-open/rpmgrill) - Static package analysis of RPM builds
 - [lm-sensors](https://github.com/lm-sensors/lm-sensors) - lm-sensors repository
 - [AnyEvent-Redis](https://github.com/miyagawa/AnyEvent-Redis) - Asynchronous Redis client
@@ -5852,6 +5854,7 @@
 - [shellen](https://github.com/merrychap/shellen) - :cherry_blossom: Interactive shellcoding environment to easily craft shellcodes
 - [stack-inspector](https://github.com/sharkdp/stack-inspector) - A gdb command to inspect the size of objects on the stack
 - [shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
+- [pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessible via git.
 - [ShellPop](https://github.com/0x00-0x00/ShellPop) - Pop shells like a master.
 - [aurman](https://github.com/polygamma/aurman) - AUR Helper
 - [vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
@@ -7308,7 +7311,7 @@
 - [ripasso](https://github.com/cortex/ripasso) - A simple password manager written in Rust
 - [rust-doom](https://github.com/cristicbz/rust-doom) - A Doom Renderer written in Rust.
 - [crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
-- [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [tfs](https://github.com/redox-os/tfs) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
@@ -7480,7 +7483,6 @@
 - [pacaur](https://github.com/rmarquis/pacaur) - [unmaintained] An AUR helper that minimizes user interaction
 - [transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 - [buava](https://github.com/fsquillace/buava) - The utility library for Bash you always dreamed of
-- [pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessible via git.
 - [kyrat](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX
 - [junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs upon any Linux distros without root access
 - [pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
