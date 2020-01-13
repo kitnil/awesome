@@ -159,6 +159,7 @@
 
 ## C 
 
+- [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 - [sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
 - [bluez-alsa](https://github.com/Arkq/bluez-alsa) - Bluetooth Audio ALSA Backend
 - [pidgin-znc-helper](https://github.com/kgraefe/pidgin-znc-helper) - ZNC Helper uses message timestamp from a ZNC Bouncer and sets them within Pidgin so that replayed messages will be displayed with the correct timestamp.
@@ -1324,6 +1325,7 @@
 
 ## Clojure 
 
+- [bidi](https://github.com/juxt/bidi) - Bidirectional URI routing
 - [tools.cli](https://github.com/clojure/tools.cli) - Command-line processing
 - [clojure-mail](https://github.com/owainlewis/clojure-mail) - A Clojure library for parsing, downloading and reading email from IMAP servers.
 - [zetawar](https://github.com/Zetawar/zetawar) - Zetawar is a turn based tactical strategy game implemented in 100% ClojureScript.
@@ -1613,6 +1615,7 @@
 
 ## Emacs Lisp 
 
+- [systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
 - [magit-patch-changelog](https://github.com/dickmao/magit-patch-changelog) - Generate a patch according to emacs-devel CONTRIBUTE guidelines
 - [diff-at-point](https://github.com/emacsmirror/diff-at-point) - Diff navigation
 - [edit-at-point](https://github.com/emacsattic/edit-at-point) - Edit(copy,cut..) current things(word,symbol..) under cursor
@@ -3551,7 +3554,7 @@
 - [gkill](https://github.com/heppu/gkill) - Interactice process killer for Linux and macOS
 - [define](https://github.com/Rican7/define) - A command-line dictionary (thesaurus) app, with access to multiple sources, written in Go.
 - [mirrorbits](https://github.com/etix/mirrorbits) - Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
-- [stegify](https://github.com/DimitarPetrov/stegify) - Go tool for LSB steganography, capable of hiding any file within an image.
+- [stegify](https://github.com/DimitarPetrov/stegify) - 🔍 Go tool for LSB steganography, capable of hiding any file within an image.
 - [audit](https://github.com/genuinetools/audit) - For auditing what collaborators, hooks, and deploy keys you have added on all your GitHub repositories.
 - [goexpect](https://github.com/google/goexpect) - Expect for Go
 - [bpfd](https://github.com/genuinetools/bpfd) - Framework for running BPF programs with rules on Linux as a daemon. Container aware.
@@ -4192,6 +4195,7 @@
 
 ## JavaScript 
 
+- [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [liman](https://github.com/salihciftci/liman) - Self-hosted web application for monitoring docker.
 - [cookie-quick-manager](https://github.com/ysard/cookie-quick-manager) - An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -4341,7 +4345,7 @@
 - [janeway](https://github.com/11ways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
 - [kulfon](https://github.com/kulfonjs/kulfon) - :japanese_ogre: :frog: JavaScript static site generator with Org Mode & Markdown support  (α) :boom:
 - [scihub-firefox](https://github.com/bekicot/scihub-firefox) - Open scihub page in a new tab for current page's url.
-- [KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - Web based IRC client
+- [KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - This is **DEPRECATED**! Please go to https://github.com/kiwiirc/kiwiirc
 - [youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions) - This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 - [elastalert-kibana-plugin](https://github.com/bitsensor/elastalert-kibana-plugin) - ElastAlert Kibana Plugin
 - [terminal-discord](https://github.com/xynxynxyn/terminal-discord) - Simple terminal client for discord with a minimal look and UI
@@ -4402,7 +4406,7 @@
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [serve](https://github.com/zeit/serve) - Static file serving and directory listing
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [snowpack](https://github.com/pikapkg/snowpack) - 📦✨ Run npm packages directly in the browser. No Webpack, Parcel, or bundlers required.
+- [snowpack](https://github.com/pikapkg/snowpack) - 📦✨ Build web applications with less tooling and 10x faster iteration. No bundler required.
 - [llthw](https://github.com/LispTO/llthw) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -4697,7 +4701,7 @@
 - [desk-changer](https://github.com/BigE/desk-changer) - Gnome-Shell wallpaper changing extension with multiple profile support
 - [gnome-shell-extensions-gravatar](https://github.com/jrouleau/gnome-shell-extensions-gravatar) - A GNOME Shell extension to synchronize your user icon with Gravatar.
 - [sincrodirs](https://github.com/Anorelsan/sincrodirs) - Gnome Shell extension for folders synchronization.
-- [gnome-shell-extensions-mediaplayer](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - A mediaplayer indicator for GNOME Shell 3.18+.
+- [gnome-shell-extensions-mediaplayer](https://github.com/webmastak/gnome-shell-extensions-mediaplayer) - A mediaplayer indicator for GNOME Shell 3.18+.
 - [pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API
 - [dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
@@ -5574,6 +5578,7 @@
 
 ## PHP 
 
+- [psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 - [phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code
 - [phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics
 - [larastan](https://github.com/nunomaduro/larastan) - ⚗️ Adds static analysis to Laravel improving developer productivity and code quality
@@ -5696,6 +5701,11 @@
 
 ## Perl 
 
+- [mysqlbak](https://github.com/jimsalterjrs/mysqlbak) - CLI tool to dump all mysql dbs on a local or remote host to one gzipped file per database.
+- [wg-admin](https://github.com/jimsalterjrs/wg-admin) - Simple CLI utilities to manage a WireGuard server
+- [network-testing](https://github.com/jimsalterjrs/network-testing) - This is a small collection of GPLv3-licensed tools to assist an intrepid researcher in testing the performance of networks, wired or wireless.
+- [blindanalysis](https://github.com/jimsalterjrs/blindanalysis) - A simple tool to enable blinded analysis of images (or other files) in a lab setting.
+- [sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.
 - [Perl-Critic](https://github.com/Perl-Critic/Perl-Critic) - The leading static analyzer for Perl.  Configurable, extensible, powerful.
 - [urxvt-resize-font](https://github.com/simmel/urxvt-resize-font) - URxvt Perl extension for resizing the font
 - [openkore](https://github.com/OpenKore/openkore) - A free/open source client and automation tool for Ragnarok Online
@@ -5825,6 +5835,7 @@
 
 ## Python 
 
+- [wrapc](https://github.com/meeuw/wrapc) - Wrapper script for starting a command line tool with bash completion
 - [repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
 - [webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
 - [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
@@ -5863,7 +5874,7 @@
 - [pyrocore](https://github.com/pyroscope/pyrocore) - :wrench: A collection of tools for the BitTorrent protocol and especially the rTorrent client
 - [ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple script to get songs from youtube in mp3 format with all tags from itunes
 - [honcho](https://github.com/nickstenning/honcho) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
-- [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji picker for rofi 😁
+- [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji and character picker for rofi 😁
 - [python-emacs](https://github.com/jlumpe/python-emacs) - Python interface to GNU Emacs.
 - [pyorg](https://github.com/jlumpe/pyorg) - Python library for working with Emacs org mode.
 - [galaxy](https://github.com/ansible/galaxy) - Source code behind the Galaxy hub at http://galaxy.ansible.com
@@ -5903,7 +5914,7 @@
 - [pass-audit](https://github.com/roddhjav/pass-audit) - A pass extension for auditing your password repository.
 - [http-request-translator](https://github.com/owtf/http-request-translator) - HTTP Request Translator (hrt) translates raw HTTP requests to different scripts (bash, python, etc.)
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
-- [devops-interview-questions](https://github.com/bregman-arie/devops-interview-questions) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+- [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
 - [keyring](https://github.com/jaraco/keyring) - 
 - [pdfarranger](https://github.com/jeromerobert/pdfarranger) - Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
 - [notifymuch](https://github.com/kspi/notifymuch) - Display desktop notifications for unread mail in notmuch database
@@ -6475,7 +6486,7 @@
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [gedit-markdown](https://github.com/jpfleury/gedit-markdown) - Support for Markdown language in gedit
 - [domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - Exploring Python through counter-intuitive snippets. If you think you know Python, think once more!
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - If you think you know Python, think once more!
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [uritemplate](https://github.com/python-hyper/uritemplate) - URI template parsing for Humans
 - [github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 2.7, 3.4, 3.5, 3.6, and 3.7 (and maybe 3.8?)
@@ -7229,7 +7240,7 @@
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [LambdaCore](https://github.com/Pebaz/LambdaCore) - An interpreted language written in Rust inspired by the Lisp family of languages.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
+- [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [nix-du](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your nix store
@@ -7413,6 +7424,7 @@
 
 ## Shell 
 
+- [vm-bhyve](https://github.com/churchers/vm-bhyve) - Shell based, minimal dependency bhyve manager
 - [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
 - [dind](https://github.com/jpetazzo/dind) - Docker in Docker
 - [nsenter](https://github.com/jpetazzo/nsenter) - 
