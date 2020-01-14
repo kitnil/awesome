@@ -1569,7 +1569,6 @@
 - [docker-pxe](https://github.com/ferrarimarco/docker-pxe) - A virtualized implementation of PXE supported by DNSMasq
 - [docker-nix](https://github.com/nix-community/docker-nix) - Docker image for nix [maintainer=@zimbatm]
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
-- [dockerfile](https://github.com/mritd/dockerfile) - some personally made dockerfile
 - [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate) - Awesome Nginx configuration template
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [docker-loop](https://github.com/crazy-max/docker-loop) - 🐳 Simple loop for dummy services
@@ -1595,7 +1594,7 @@
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [guix-docker](https://github.com/rudolfolah/guix-docker) - Dockerfile for GNU Guix
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-- [laradock](https://github.com/laradock/laradock) - The most popular full PHP development environment on Docker.
+- [laradock](https://github.com/laradock/laradock) - The (most popular) full PHP development environment for Docker.
 - [docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [ansible-tower](https://github.com/ybalt/ansible-tower) - Ansible Tower dockerized
 
@@ -1965,7 +1964,7 @@
 - [pretty-mode](https://github.com/pretty-mode/pretty-mode) - Redisplay parts of the Emacs buffer as pretty symbols.
 - [wdl-mode](https://github.com/zhanxw/wdl-mode) - WDL (Workflow Description Language) major mode
 - [renpy-mode](https://github.com/treymerkley/renpy-mode) - Emacs major mode for editing Ren'Py files
-- [comb](https://github.com/cyrus-and/comb) - Interactive grep annotation tool for manual static analysis in Emacs Lisp
+- [comb](https://github.com/cyrus-and/comb) - Interactive code auditing and grep tool in Emacs Lisp
 - [speed-type](https://github.com/hagleitn/speed-type) - Practice touch/speed typing in emacs
 - [structured-haskell-mode](https://github.com/projectional-haskell/structured-haskell-mode) - Structured editing minor mode for Haskell in Emacs
 - [auth-source-xoauth2](https://github.com/ccrusius/auth-source-xoauth2) - A package that adds XOAuth2 capabilities to Emacs' auth-source infrastructure
@@ -3816,6 +3815,7 @@
 - [fuzzdata](https://github.com/MozillaSecurity/fuzzdata) - Fuzzing resources for feeding various fuzzers with input. 🔧
 - [badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [glastoselenium](https://github.com/thomasms/glastoselenium) - A bot for booking Glastonbury tickets using selenium
+- [dockerfile](https://github.com/mritd/dockerfile) - some personally made dockerfile
 - [deploy](https://github.com/ansistrano/deploy) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
 - [phpinfo-compare](https://github.com/brettalton/phpinfo-compare) - Compare two phpinfo files across the internet (or localhost)
 - [Org-mode-all-the-thingz](https://github.com/nickanderson/Org-mode-all-the-thingz) - 
@@ -4195,6 +4195,7 @@
 
 ## JavaScript 
 
+- [sshwifty](https://github.com/niruix/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [liman](https://github.com/salihciftci/liman) - Self-hosted web application for monitoring docker.
 - [cookie-quick-manager](https://github.com/ysard/cookie-quick-manager) - An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
@@ -4477,7 +4478,7 @@
 - [nanoid](https://github.com/ai/nanoid) - A tiny (137 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
-- [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive SVG Charts
+- [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
@@ -4546,7 +4547,6 @@
 - [stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
 - [starmark](https://github.com/ryanmcdermott/starmark) - :octocat: Turn your GitHub stars into Chrome bookmarks
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
-- [debugger](https://github.com/firefox-devtools/debugger) - The Firefox debugger that works anywhere  :boom:
 - [commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
@@ -4860,7 +4860,7 @@
 - [al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) - :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/
 - [HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK
 - [pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
-- [cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum | Participate at Hacktoberfest
+- [cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
 - [ML-Tutorial-Experiment](https://github.com/jiqizhixin/ML-Tutorial-Experiment) - Coding the Machine Learning Tutorial for Learning to Learn
 - [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [ox-ipynb](https://github.com/jkitchin/ox-ipynb) - org-mode exporter to Jupyter notebooks
@@ -5364,7 +5364,7 @@
 - [awesome-grid](https://github.com/FancyGrid/awesome-grid) - A curated list of grid(table) libraries and resources that developers may find useful.
 - [awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
 - [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software
-- [awesome-gis](https://github.com/sshuair/awesome-gis) - 😎Awesome GIS is for collecting the GIS related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
+- [awesome-gis](https://github.com/sshuair/awesome-gis) - 😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
 - [awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
 - [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) - Awesome generative art
 - [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
@@ -5435,6 +5435,7 @@
 - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
+- [debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
 - [wiki](https://github.com/nix-community/wiki) - Nixos wiki [maintainer=@samueldr]
 - [nix-cheatsheet](https://github.com/knedlsepp/nix-cheatsheet) - Cheatsheet for the nix toolset
 - [awesome-speakers](https://github.com/karlhorky/awesome-speakers) - Awesome speakers in the programming and design communities
@@ -5640,7 +5641,7 @@
 - [phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends and family.
 - [synknot](https://github.com/besthostingcz/synknot) - SynKnot utility for DNS and PTR synchronization with Knot DNS
-- [Chat-API](https://github.com/mgp25/Chat-API) - The php WhatsApp library
+- [Chat-API](https://github.com/mgp25/Chat-API) - WhatsApp's Private API
 - [zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
 - [psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 - [git-wrapper](https://github.com/cpliakas/git-wrapper) - A PHP wrapper around the Git command line utility.
