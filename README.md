@@ -159,6 +159,8 @@
 
 ## C 
 
+- [telnet2http](https://github.com/max-arnold/telnet2http) - ﻿﻿HTTP Proxy via Cisco telnet session
+- [3scan](https://github.com/z3APA3A/3scan) - 3Scan is fast detector for open HTTP/CONNECT/SOCKS4/SOCKS5/FTP/TELNET proxy
 - [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 - [sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
 - [bluez-alsa](https://github.com/Arkq/bluez-alsa) - Bluetooth Audio ALSA Backend
@@ -1555,6 +1557,7 @@
 
 ## Dockerfile 
 
+- [Dockerfile](https://github.com/jumpserver/Dockerfile) - Jumpserver all in one Dockerfile
 - [docker-bitlbee-libpurple](https://github.com/ezkrg/docker-bitlbee-libpurple) - bitlbee with libpurple and plugins
 - [shpod](https://github.com/jpetazzo/shpod) - Container image to get a consistent training environment to work on Kubernetes
 - [docker-alpine](https://github.com/smebberson/docker-alpine) - Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers.
@@ -3213,6 +3216,8 @@
 
 ## Go 
 
+- [ssh2docker](https://github.com/moul/ssh2docker) - :whale: standalone SSH server that connects you to your Docker containers
+- [gortal](https://github.com/TNK-Studio/gortal) - 🚪A super lightweight jumpserver service developed using the Go language.  一个使用 Go 语言开发的，超级轻量的跳板机服务。
 - [hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [Whaler](https://github.com/P3GLEG/Whaler) - Program to reverse Docker images into Dockerfiles
@@ -4196,6 +4201,8 @@
 
 ## JavaScript 
 
+- [webtelnet](https://github.com/mudchina/webtelnet) - Proxy server to bridge websocket to telnet, enable visiting telnet / MUD servers with browsers.
+- [jumpserver](https://github.com/jumpserver/jumpserver) - Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
 - [sshwifty](https://github.com/niruix/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [liman](https://github.com/salihciftci/liman) - Self-hosted web application for monitoring docker.
@@ -5837,6 +5844,8 @@
 
 ## Python 
 
+- [SSH-telnet-proxy-tunnel](https://github.com/dischoen/SSH-telnet-proxy-tunnel) - Tunnel SSH connections through a telnet tunnel
+- [Aker](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver
 - [JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Tool for scraping job websites, and filtering and reviewing the job listings
 - [wrapc](https://github.com/meeuw/wrapc) - Wrapper script for starting a command line tool with bash completion
 - [repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
@@ -7427,6 +7436,7 @@
 
 ## Shell 
 
+- [autossh](https://github.com/FeeiCN/autossh) - Password-free automatic login SSH（免密登陆SSH）
 - [vm-bhyve](https://github.com/churchers/vm-bhyve) - Shell based, minimal dependency bhyve manager
 - [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
 - [dind](https://github.com/jpetazzo/dind) - Docker in Docker
