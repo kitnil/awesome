@@ -3970,7 +3970,6 @@
 - [kit](https://github.com/kitlang/kit) - Kit: a magical, high performance programming language, designed for game development. Pre-alpha!
 - [Ane-Language](https://github.com/caotic123/Ane-Language) - A tool for analyze lambda calculus terms
 - [luna](https://github.com/luna/luna) - Hybrid textual and visual functional programming.
-- [jsonwatch](https://github.com/dbohdan/jsonwatch) - Track changes in JSON data from the command line
 - [givegif](https://github.com/passy/givegif) - GIFs on the command line
 - [unused](https://github.com/joshuaclayton/unused) - A command line tool to identify unused code.
 - [xmobar](https://github.com/jaor/xmobar) - A minimalistic, mostly text-based status bar
@@ -4449,14 +4448,14 @@
 - [firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
 - [CustomJSforFx](https://github.com/Aris-t2/CustomJSforFx) - custom scripts
 - [floccus](https://github.com/marcelklehr/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
-- [Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera) to redirect urls based on regex patterns, like a client side mod_rewrite.
+- [Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome, Safari.
 - [RESTer](https://github.com/frigus02/RESTer) - A REST client for almost any web service (Firefox and Chrome Extension)
 - [Steward](https://github.com/solobat/Steward) - A command launcher for Chrome/Firefox
 - [live-css-editor](https://github.com/webextensions/live-css-editor) - Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 - [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox)
 - [mouse-dictionary](https://github.com/wtetsu/mouse-dictionary) - 📘A blazing fast dictionary for Chrome/Firefox
-- [nuclear](https://github.com/nukeop/nuclear) - User freedom-oriented streaming music player
+- [nuclear](https://github.com/nukeop/nuclear) - User freedom-oriented streaming music player - welcoming to new contributors
 - [deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.
 - [learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 - [jsonpath-online-evaluator](https://github.com/ashphy/jsonpath-online-evaluator) - JSONPath Online Evaluator
@@ -6304,7 +6303,7 @@
 - [remarshal](https://github.com/dbohdan/remarshal) - Convert between JSON, MessagePack, TOML, and YAML
 - [deduplicated](https://github.com/eduardoklosowski/deduplicated) - Check duplicated files
 - [camelot](https://github.com/atlanhq/camelot) - Camelot: PDF Table Extraction for Humans
-- [boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 230+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
+- [boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 240+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [dbxfs](https://github.com/rianhunter/dbxfs) - User-space file system for Dropbox
 - [networkx](https://github.com/networkx/networkx) - Official NetworkX source code repository.
 - [yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
@@ -7284,6 +7283,7 @@
 - [ddh](https://github.com/darakian/ddh) - A fast duplicate file finder
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [cli](https://github.com/share-secrets-safely/cli) - share secrets within teams to avoid plain-text secrets from day one
+- [jsonwatch](https://github.com/dbohdan/jsonwatch) - Track changes in JSON data from the command line
 - [fui](https://github.com/xliiv/fui) - Add CLI & form interface to your program. Docs: https://docs.rs/fui
 - [alert-after](https://github.com/frewsxcv/alert-after) - Get a desktop notification after a command finishes executing.
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
