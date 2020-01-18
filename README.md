@@ -45,7 +45,6 @@
   - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
-  - [Haxe](#haxe)
   - [Hy](#hy)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -1275,7 +1274,6 @@
 - [conkeror-theme-zenburn](https://github.com/ivoarch/conkeror-theme-zenburn) - Zenburn theme for conkeror
 - [raleigh-reloaded](https://github.com/vlastavesely/raleigh-reloaded) - Raleigh Reloaded is a conservative GTK-3.20 theme aiming to revive the Raleigh theme, the default theme of GTK-2.0.
 - [tokumei](https://github.com/tokumeico/tokumei) - Anonymous microblogging platform
-- [haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com) - haxeflixel.com docpad source
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
@@ -3930,7 +3928,7 @@
 - [HaskellR](https://github.com/tweag/HaskellR) - The full power of R in Haskell.
 - [hindent](https://github.com/chrisdone/hindent) - Haskell pretty printer
 - [dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Maintainable configuration files
-- [legion](https://github.com/aviaviavi/legion) - Simple blockchain server written in haskell. Feedback welcome.
+- [legion](https://github.com/aviaviavi/legion) - Simple blockchain server written in haskell
 - [kaleidoscope](https://github.com/sdiehl/kaleidoscope) - Haskell LLVM JIT Compiler Tutorial
 - [articles](https://github.com/quchen/articles) - Miscellaneous articles. The readme is the table of contents.
 - [cabal](https://github.com/haskell/cabal) - Official upstream development repository for Cabal and cabal-install
@@ -4039,10 +4037,6 @@
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [corrode](https://github.com/jameysharp/corrode) - C to Rust translator
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-
-## Haxe 
-
-- [flixel](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 
 ## Hy 
 
@@ -5843,6 +5837,7 @@
 
 ## Python 
 
+- [firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
 - [SSH-telnet-proxy-tunnel](https://github.com/dischoen/SSH-telnet-proxy-tunnel) - Tunnel SSH connections through a telnet tunnel
 - [Aker](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver
 - [JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Tool for scraping job websites, and filtering and reviewing the job listings
@@ -7708,7 +7703,7 @@
 - [repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [udevil](https://github.com/IgnorantGuru/udevil) - Mount without password
-- [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
+- [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts
 - [rofi-pass](https://github.com/carnager/rofi-pass) - rofi frontend for pass
