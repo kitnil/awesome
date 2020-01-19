@@ -45,6 +45,7 @@
   - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
+  - [Haxe](#haxe)
   - [Hy](#hy)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -803,6 +804,7 @@
 
 ## C# # 
 
+- [Gambador](https://github.com/MaximeGammaitoni/Gambador) - 
 - [privilege-escalation-awesome-scripts-suite](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [schemy](https://github.com/microsoft/schemy) - A lightweight embeddable Scheme-like interpreter for configuration
 - [lsp-docker](https://github.com/emacs-lsp/lsp-docker) - Scripts and configurations to leverage lsp-mode in docker environment
@@ -821,6 +823,7 @@
 
 ## C++ 
 
+- [gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [rttr](https://github.com/rttrorg/rttr) - C++ Reflection Library
 - [quassel](https://github.com/quassel/quassel) - Quassel IRC: Chat comfortably.  Everywhere.
@@ -1234,7 +1237,7 @@
 
 ## CMake 
 
-- [hunter](https://github.com/ruslo/hunter) - CMake driven cross-platform package manager for C/C++. Linux, Windows, macOS, iOS, Android, Raspberry Pi, etc.
+- [hunter](https://github.com/ruslo/hunter) - 
 - [yunibase](https://github.com/okuoku/yunibase) - Yuni library test environment (Scheme implementations build script)
 - [U3DTerrainEditor](https://github.com/JTippetts/U3DTerrainEditor) - Simple terrain editor built using Urho3D.
 - [learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
@@ -1274,6 +1277,7 @@
 - [conkeror-theme-zenburn](https://github.com/ivoarch/conkeror-theme-zenburn) - Zenburn theme for conkeror
 - [raleigh-reloaded](https://github.com/vlastavesely/raleigh-reloaded) - Raleigh Reloaded is a conservative GTK-3.20 theme aiming to revive the Raleigh theme, the default theme of GTK-2.0.
 - [tokumei](https://github.com/tokumeico/tokumei) - Anonymous microblogging platform
+- [haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com) - haxeflixel.com docpad source
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
@@ -1615,6 +1619,10 @@
 
 ## Emacs Lisp 
 
+- [eldev](https://github.com/doublep/eldev) - Elisp Development Tool
+- [verb](https://github.com/emacsmirror/verb) - Organize and send HTTP requests
+- [walkman](https://github.com/abrochard/walkman) - Write HTTP requests in Org mode and replay them at will using cURL
+- [emacs-edbi](https://github.com/kiwanami/emacs-edbi) - Database Interface for Emacs Lisp
 - [systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
 - [magit-patch-changelog](https://github.com/dickmao/magit-patch-changelog) - Generate a patch according to emacs-devel CONTRIBUTE guidelines
 - [diff-at-point](https://github.com/emacsmirror/diff-at-point) - Diff navigation
@@ -2479,7 +2487,7 @@
 - [niceify-info.el](https://github.com/aaron-em/niceify-info.el) - Improve styles and cross-references in Emacs Info buffers.
 - [pretty-sha-path.el](https://github.com/alezost/pretty-sha-path.el) - Prettify Guix/Nix store paths in Emacs
 - [add-node-modules-path](https://github.com/codesuki/add-node-modules-path) - Adds the node_modules/.bin directory to the buffer exec_path. E.g. support project local eslint installations.
-- [direx-el](https://github.com/m2ym/direx-el) - Directory Explorer for GNU Emacs
+- [direx](https://github.com/emacsorphanage/direx) - Directory Explorer for GNU Emacs
 - [ssh-agency](https://github.com/magit/ssh-agency) - Use ssh-agent on Microsoft Windows from Emacs
 - [build-status](https://github.com/sshaw/build-status) - Emacs minor mode that monitors and shows a buffer's build status in the mode line.
 - [cycle-themes.el](https://github.com/toroidal-code/cycle-themes.el) - Because switching between your themes shouldn't be so damn hard
@@ -3197,6 +3205,7 @@
 
 ## GDScript 
 
+- [SealedBite](https://github.com/securas/SealedBite) - A game made for the 2019 Github GameOff Jam
 - [Godot_FPS_Tutorial](https://github.com/TwistedTwigleg/Godot_FPS_Tutorial) - A repository holding the completed Godot 3 FPS tutorial project
 - [godot-roguelike-tutorial](https://github.com/YeOldeDM/godot-roguelike-tutorial) - A devlog/tutorial series covering the creation of a roguelike, in the style of Dungeon Crawl Stone Soup, in the Godot engine.
 - [FreeRoamRoguelikeRacerPrototype](https://github.com/Zireael07/FreeRoamRoguelikeRacerPrototype) - A 3D free roam racer in a procedurally generated map
@@ -3214,6 +3223,8 @@
 
 ## Go 
 
+- [git-hound](https://github.com/tillson/git-hound) - GitHound pinpoints exposed API keys on GitHub using pattern matching, commit history searching, and a unique result scoring system. A batch-catching, pattern-matching, patch-attacking secret snatcher.
+- [hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [ssh2docker](https://github.com/moul/ssh2docker) - :whale: standalone SSH server that connects you to your Docker containers
 - [gortal](https://github.com/TNK-Studio/gortal) - 🚪A super lightweight jumpserver service developed using the Go language.  一个使用 Go 语言开发的，超级轻量的跳板机服务。
 - [hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
@@ -3809,6 +3820,9 @@
 
 ## HTML 
 
+- [git-history-editor](https://github.com/bokub/git-history-editor) - :pencil2: Online commit editor, intuitive and easy to use
+- [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+- [meilix-generator](https://github.com/fossasia/meilix-generator) - WebApp for generating a custom ISO image based on Meilix http://meilix.org
 - [quassel-webserver](https://github.com/magne4000/quassel-webserver) - A web server/client for Quassel
 - [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
@@ -3911,6 +3925,9 @@
 
 ## Haskell 
 
+- [asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
+- [ormolu](https://github.com/tweag/ormolu) - A formatter for Haskell source code
+- [ghcide](https://github.com/digital-asset/ghcide) - A library for building Haskell IDE tooling
 - [irc-core](https://github.com/glguy/irc-core) - Haskell IRC library and console client - Join us on Freenode #haskell-irc
 - [eta](https://github.com/typelead/eta) - The Eta Programming Language, a dialect of Haskell on the JVM
 - [gitlib](https://github.com/jwiegley/gitlib) - 
@@ -4038,6 +4055,10 @@
 - [corrode](https://github.com/jameysharp/corrode) - C to Rust translator
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
+## Haxe 
+
+- [flixel](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
+
 ## Hy 
 
 - [hydiomatic](https://github.com/hylang/hydiomatic) - The Hy Transformer
@@ -4090,7 +4111,7 @@
 - [ncsms-android](https://github.com/nerzhul/ncsms-android) - repository for the ncsms on Android
 - [testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 63 个集成demo，已经完成 52 个。  该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类型邮件)、task(基础定时任务)、quartz(动态管理定时任务)、xxl-job(分布式定时任务)、swagger(API接口管理测试)、security(基于RBAC的动态权限认证)、SpringSession(Session共享)、Zookeeper(结合AOP实现分布式锁)、RabbitMQ(消息队列)、Kafka(消息队列)、websocket(服务端推送监控服务器运行信息)、socket.io(聊天室)、ureport2(中国式报表)、打包成war文件、集成 ElasticSearch(基本操作和高级查询)、Async(异步任务)、集成Dubbo(采用官方的starter)、MongoDB(文档数据库)、neo4j(图数据库)、docker(容器化)、JPA多数据源、Mybatis多数据源、代码生成器、GrayLog(日志收集)、JustAuth(第三方登录)、LDAP(增删改查)、动态添加/切换数据源、单机限流(AOP + Guava RateLimiter)、分布式限流(AOP + Redis + Lua)、ElasticSearch 7.x(使用官方 Rest High Level Client)。
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。  该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类型邮件)、task(基础定时任务)、quartz(动态管理定时任务)、xxl-job(分布式定时任务)、swagger(API接口管理测试)、security(基于RBAC的动态权限认证)、SpringSession(Session共享)、Zookeeper(结合AOP实现分布式锁)、RabbitMQ(消息队列)、Kafka(消息队列)、websocket(服务端推送监控服务器运行信息)、socket.io(聊天室)、ureport2(中国式报表)、打包成war文件、集成 ElasticSearch(基本操作和高级查询)、Async(异步任务)、集成Dubbo(采用官方的starter)、MongoDB(文档数据库)、neo4j(图数据库)、docker(容器化)、JPA多数据源、Mybatis多数据源、代码生成器、GrayLog(日志收集)、JustAuth(第三方登录)、LDAP(增删改查)、动态添加/切换数据源、单机限流(AOP + Guava RateLimiter)、分布式限流(AOP + Redis + Lua)、ElasticSearch 7.x(使用官方 Rest High Level Client)、HTTPS。
 - [JazminServer](https://github.com/guooscar/JazminServer) - Java based application,rpc,message,rtmp,game,sip,rtp,relay,webrtc,webssh,proxy server,message  queue,mysql proxy server
 - [karate](https://github.com/intuit/karate) - Test Automation Made Simple
 - [spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
@@ -4445,7 +4466,7 @@
 - [Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome, Safari.
 - [RESTer](https://github.com/frigus02/RESTer) - A REST client for almost any web service (Firefox and Chrome Extension)
-- [Steward](https://github.com/solobat/Steward) - A command launcher for Chrome/Firefox
+- [Steward](https://github.com/solobat/Steward) - A command launcher for Chrome
 - [live-css-editor](https://github.com/webextensions/live-css-editor) - Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 - [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox)
 - [mouse-dictionary](https://github.com/wtetsu/mouse-dictionary) - 📘A blazing fast dictionary for Chrome/Firefox
@@ -4821,6 +4842,9 @@
 
 ## Jupyter Notebook 
 
+- [jupyter-book](https://github.com/jupyter/jupyter-book) - Create an online book with Jupyter Notebooks and Jekyll
+- [imongo](https://github.com/gusutabopb/imongo) - A MongoDB kernel for Jupyter
+- [jupyterWith](https://github.com/tweag/jupyterWith) - declarative and reproducible Jupyter environments - powered by Nix
 - [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
@@ -4873,6 +4897,7 @@
 
 ## Kotlin 
 
+- [komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
 - [kotcity](https://github.com/kotcity/kotcity) - KotCity, an open source city simulator
 - [AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
 - [Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
@@ -5006,6 +5031,8 @@
 
 ## Nix 
 
+- [nixflk](https://github.com/nrdxp/nixflk) - highly structured NixOS configuration database
+- [reflex-platform](https://github.com/reflex-frp/reflex-platform) - Reflex FRP is a composable, cross-platform functional reactive programming framework for Haskell.  It allows you to build interactive components in pure functional style, working in harmony with established Haskell techniques and improving the quality and elegance of your applications.
 - [mobile-nixos](https://github.com/NixOS/mobile-nixos) - Questions? #nixos-aarch64 (or #nixos) on Freenode!
 - [nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
@@ -5703,6 +5730,7 @@
 
 ## Perl 
 
+- [openQA](https://github.com/os-autoinst/openQA) - openQA web-frontend, scheduler and tools.
 - [mysqlbak](https://github.com/jimsalterjrs/mysqlbak) - CLI tool to dump all mysql dbs on a local or remote host to one gzipped file per database.
 - [wg-admin](https://github.com/jimsalterjrs/wg-admin) - Simple CLI utilities to manage a WireGuard server
 - [network-testing](https://github.com/jimsalterjrs/network-testing) - This is a small collection of GPLv3-licensed tools to assist an intrepid researcher in testing the performance of networks, wired or wireless.
@@ -5837,6 +5865,18 @@
 
 ## Python 
 
+- [qtconsole](https://github.com/jupyter/qtconsole) - Jupyter Qt Console
+- [jupyter_console](https://github.com/jupyter/jupyter_console) - Jupyter Terminal Console
+- [repo2docker](https://github.com/jupyter/repo2docker) - Turn repositories into Jupyter enabled Docker Images
+- [jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
+- [sshkernel](https://github.com/NII-cloud-operation/sshkernel) - SSH Kernel for Jupyter
+- [bash_kernel](https://github.com/takluyver/bash_kernel) - A bash kernel for IPython
+- [git-playback](https://github.com/jianli/git-playback) - A git command to play back file history.
+- [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+- [gitchangelog](https://github.com/vaab/gitchangelog) - Creates a changelog from git log history.
+- [gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
+- [gitstats](https://github.com/hoxu/gitstats) - git history statistics generator
+- [meilix](https://github.com/fossasia/meilix) - Beautiful Linux System https://meilix.org | APT Repo: http://meilix.fossasia.org
 - [firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
 - [SSH-telnet-proxy-tunnel](https://github.com/dischoen/SSH-telnet-proxy-tunnel) - Tunnel SSH connections through a telnet tunnel
 - [Aker](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver
@@ -6059,7 +6099,7 @@
 - [NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
-- [Pinku](https://github.com/mosegontar/Pinku) - A Pinboard-to-Buku importation utility
+- [Pinku](https://github.com/mosegontar/Pinku) - A Pinboard-to-buku importation utility
 - [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
@@ -7007,6 +7047,7 @@
 
 ## R 
 
+- [gitsum](https://github.com/lorenzwalthert/gitsum) - parse and summarise git repository history
 - [ymlthis](https://github.com/r-lib/ymlthis) - write YAML for R Markdown, bookdown, blogdown, and more
 - [renjin](https://github.com/bedatadriven/renjin) - JVM-based interpreter for the R language for the statistical analysis.
 - [desc](https://github.com/r-lib/desc) - Manipulate DESCRIPTION files
@@ -7431,6 +7472,7 @@
 
 ## Shell 
 
+- [history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
 - [autossh](https://github.com/FeeiCN/autossh) - Password-free automatic login SSH（免密登陆SSH）
 - [vm-bhyve](https://github.com/churchers/vm-bhyve) - Shell based, minimal dependency bhyve manager
 - [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
@@ -7965,6 +8007,7 @@
 
 ## TeX 
 
+- [gitdags](https://github.com/jubobs/gitdags) - A package for drawing educational Git history graphs
 - [org-babel-examples](https://github.com/novoid/org-babel-examples) - Examples using emacs org mode babel inline source code with different backend languages
 - [differential-calculus](https://github.com/luizperes/differential-calculus) - Some resolutions of differential calculus for SFU MATH 150 (Jens Bauch) - Spring 2017
 - [talks](https://github.com/Shinmera/talks) - Documents related to talks I gave or will give
