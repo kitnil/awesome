@@ -159,6 +159,7 @@
 
 ## C 
 
+- [uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 - [telnet2http](https://github.com/max-arnold/telnet2http) - ﻿﻿HTTP Proxy via Cisco telnet session
 - [3scan](https://github.com/z3APA3A/3scan) - 3Scan is fast detector for open HTTP/CONNECT/SOCKS4/SOCKS5/FTP/TELNET proxy
 - [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
@@ -1619,6 +1620,7 @@
 
 ## Emacs Lisp 
 
+- [horizon-theme.el](https://github.com/aodhneine/horizon-theme.el) - Port of Visual Studio Code theme Horizon to Emacs.
 - [eldev](https://github.com/doublep/eldev) - Elisp Development Tool
 - [verb](https://github.com/emacsmirror/verb) - Organize and send HTTP requests
 - [walkman](https://github.com/abrochard/walkman) - Write HTTP requests in Org mode and replay them at will using cURL
@@ -4215,6 +4217,8 @@
 
 ## JavaScript 
 
+- [node-bcat](https://github.com/kessler/node-bcat) - A pipe to browser utility
+- [node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
 - [webtelnet](https://github.com/mudchina/webtelnet) - Proxy server to bridge websocket to telnet, enable visiting telnet / MUD servers with browsers.
 - [jumpserver](https://github.com/jumpserver/jumpserver) - Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
 - [sshwifty](https://github.com/niruix/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
@@ -4575,7 +4579,7 @@
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (December 2019)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (January 2020)
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
@@ -5865,6 +5869,7 @@
 
 ## Python 
 
+- [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 - [qtconsole](https://github.com/jupyter/qtconsole) - Jupyter Qt Console
 - [jupyter_console](https://github.com/jupyter/jupyter_console) - Jupyter Terminal Console
 - [repo2docker](https://github.com/jupyter/repo2docker) - Turn repositories into Jupyter enabled Docker Images
@@ -6026,6 +6031,7 @@
 - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations
 - [py-amqp](https://github.com/celery/py-amqp) - amqplib fork
 - [cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
+- [packer-build](https://github.com/tylert/packer-build) - Packer Automated VM Image and Vagrant Box Builds
 - [xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
 - [dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [torf-cli](https://github.com/rndusr/torf-cli) - CLI tool for creating, reading and editing torrent files
@@ -6908,7 +6914,7 @@
 - [rss2email](https://github.com/tomjorquera/rss2email) - open-source tool for Windows, Mac OS and UNIX for getting news from RSS feeds in email
 - [rss2email](https://github.com/wking/rss2email) - open-source tool for Windows, Mac OS and UNIX for getting news from RSS feeds in email
 - [rss2imap](https://github.com/rcarmo/rss2imap) - An adaptation of rss2mail that uses IMAP directly
-- [anitya](https://github.com/release-monitoring/anitya) - A cross-distribution upstream release monitoring project
+- [anitya](https://github.com/fedora-infra/anitya) - A cross-distribution upstream release monitoring project
 - [fedmsg](https://github.com/fedora-infra/fedmsg) - Federated Messaging with ZeroMQ
 - [rss2maildir](https://github.com/edt/rss2maildir) - Download rss and send it to a local maildir
 - [pass-git-helper](https://github.com/languitar/pass-git-helper) - A git credential helper interfacing with pass, the standard unix password manager.
@@ -7136,7 +7142,6 @@
 - [json-graph-specification](https://github.com/jsongraph/json-graph-specification) - A proposal for representing graph structure (nodes / edges) in JSON.
 - [redmine-slack](https://github.com/sciyoshi/redmine-slack) - Slack notification plugin for Redmine
 - [fake-s3](https://github.com/jubos/fake-s3) - A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies
-- [packer-build](https://github.com/tylert/packer-build) - Packer Automated VM Image and Vagrant Box Builds
 - [seml](https://github.com/loganbraga/seml) - S-Expression Markup Language
 - [foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
