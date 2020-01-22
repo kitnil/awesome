@@ -159,6 +159,7 @@
 
 ## C 
 
+- [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
 - [uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 - [telnet2http](https://github.com/max-arnold/telnet2http) - ﻿﻿HTTP Proxy via Cisco telnet session
 - [3scan](https://github.com/z3APA3A/3scan) - 3Scan is fast detector for open HTTP/CONNECT/SOCKS4/SOCKS5/FTP/TELNET proxy
@@ -976,7 +977,7 @@
 - [Vangers](https://github.com/KranX/Vangers) - Video game that combines elements of the racing and role-playing genres.
 - [immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++
 - [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️Small-Fast-Injectable GUI library(5 KLOC) for all platforms
+- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(5 KLOC) for all platforms
 - [freeminer](https://github.com/freeminer/freeminer) - Freeminer is an open source sandbox game inspired by Minecraft.
 - [NoahGameFrame](https://github.com/ketoo/NoahGameFrame) - A fast, scalable, distributed game server engine/framework for C++, include actor library, network library,can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.
 - [EpicSurvivalGameSeries](https://github.com/tomlooman/EpicSurvivalGameSeries) - Third-person Survival Game for Unreal Engine 4.
@@ -1573,7 +1574,7 @@
 - [xubuntu-vnc](https://github.com/accetto/xubuntu-vnc) - Headless Ubuntu/Xfce containers with VNC and various applications
 - [xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc) - Headless Ubuntu/Xfce containers with VNC/noVNC and various applications
 - [docker-pxe](https://github.com/ferrarimarco/docker-pxe) - A virtualized implementation of PXE supported by DNSMasq
-- [docker-nix](https://github.com/nix-community/docker-nix) - Docker image for nix [maintainer=@zimbatm]
+- [docker-nix](https://github.com/nix-community/docker-nix) - Docker image for nix [maintainer=@zimbatm] [status=deprecated]
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate) - Awesome Nginx configuration template
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
@@ -1620,6 +1621,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-web-server](https://github.com/eschulte/emacs-web-server) - web server running Emacs Lisp handlers.
 - [horizon-theme.el](https://github.com/aodhneine/horizon-theme.el) - Port of Visual Studio Code theme Horizon to Emacs.
 - [eldev](https://github.com/doublep/eldev) - Elisp Development Tool
 - [verb](https://github.com/emacsmirror/verb) - Organize and send HTTP requests
@@ -3665,7 +3667,7 @@
 - [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging
 - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
-- [kingpin](https://github.com/alecthomas/kingpin) - A Go (golang) command line and flag parser
+- [kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [gomainr](https://github.com/MichaelThessel/gomainr) - Terminal cli app that checks the availability of domains for different configurations of keywords.
@@ -4246,7 +4248,7 @@
 - [web-console](https://github.com/nickola/web-console) - Simple web-based shell, remote shell in your browser
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal
 - [clear-browsing-data](https://github.com/dessant/clear-browsing-data) - Browser extension for clearing browsing data
-- [search-by-image](https://github.com/dessant/search-by-image) - :framed_picture: Browser extension for reverse image search, available on Chrome, Firefox and Opera
+- [search-by-image](https://github.com/dessant/search-by-image) - 🖼️ Browser extension for reverse image search, available for Edge, Chrome and Firefox
 - [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
 - [tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
 - [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
@@ -4297,7 +4299,7 @@
 - [yet-another-jenkins-notifier](https://github.com/ggirou/yet-another-jenkins-notifier) - This extension monitors Jenkins jobs and notifies you of build results.
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [tranquility-reader-webextensions](https://github.com/ushnisha/tranquility-reader-webextensions) - Tranquility Reader rewritten using Webextensions API
-- [web-archives](https://github.com/dessant/web-archives) - :package: Browser extension for viewing archived and cached versions of web pages
+- [web-archives](https://github.com/dessant/web-archives) - 📦 Browser extension for viewing archived and cached versions of web pages
 - [bebop](https://github.com/kumabook/bebop) - Groovy WebExtension that offers command line interface like emacs helm for browsing.
 - [tab-reloader](https://github.com/james-fray/tab-reloader) - Multiple borwser tab reloader extension
 - [allow-right-click.html](https://github.com/lunu-bounir/allow-right-click.html) - A browser extension to release right-click context menu blockage
@@ -4501,7 +4503,7 @@
 - [reload-plus](https://github.com/blackwind/reload-plus) - [Firefox] Supercharge your reload button and hotkeys!
 - [greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
-- [nanoid](https://github.com/ai/nanoid) - A tiny (137 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [nanoid](https://github.com/ai/nanoid) - A tiny (127 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
@@ -4874,7 +4876,7 @@
 - [roguelike-universe](https://github.com/Spaxe/roguelike-universe) - Understanding game design inspiration of roguelike games via web scraping and network analysis.
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-- [practicalAI](https://github.com/practicalAI/practicalAI) - 📚 A practical approach to machine learning to enable everyone to learn, explore and build.
+- [practicalAI](https://github.com/practicalAI/practicalAI) - 📚 A practical approach to machine learning.
 - [DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [Hello-world](https://github.com/Aniket965/Hello-world) - Add any  Program in any language you like or add a hello world Program ❣️ if you like give us :star:
 - [ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments) - Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.
@@ -4988,7 +4990,6 @@
 ## Makefile 
 
 - [ports](https://github.com/openbsd/ports) - Public git conversion mirror of OpenBSD's official cvs ports repository. Pull requests not accepted - send diffs to the ports@ mailing list.
-- [docker-ce-packaging](https://github.com/docker/docker-ce-packaging) - Packaging scripts for Docker CE
 - [terraform-makefile](https://github.com/pgporada/terraform-makefile) - Helps me actually use terraform for multiple environments
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
 - [browserpass-native](https://github.com/browserpass/browserpass-native) - Browserpass native client app
@@ -5869,6 +5870,7 @@
 
 ## Python 
 
+- [voluptuous](https://github.com/alecthomas/voluptuous) - CONTRIBUTIONS ONLY: Voluptuous, despite the name, is a Python data validation library.
 - [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 - [qtconsole](https://github.com/jupyter/qtconsole) - Jupyter Qt Console
 - [jupyter_console](https://github.com/jupyter/jupyter_console) - Jupyter Terminal Console
@@ -6073,7 +6075,7 @@
 - [setup.py](https://github.com/navdeep-G/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
 - [AuditSQL](https://github.com/lazzyfu/AuditSQL) - 基于Python开发的MySQL WEB版本的工单审核执行平台
 - [awesome-scripts](https://github.com/superhj1987/awesome-scripts) - useful scripts for Linux op
-- [netaddr](https://github.com/drkjam/netaddr) - A network address manipulation library for Python
+- [netaddr](https://github.com/netaddr/netaddr) - A network address manipulation library for Python
 - [AndroidViewClient](https://github.com/dtmilano/AndroidViewClient) - Android ViewServer client
 - [prtscr-ultimate](https://github.com/MikeWent/prtscr-ultimate) - Single command line interface for different screenshot tools
 - [autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
@@ -7570,6 +7572,7 @@
 - [docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [shoreman](https://github.com/chrismytton/shoreman) - foreman in shell
 - [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
+- [docker-ce-packaging](https://github.com/docker/docker-ce-packaging) - Packaging scripts for Docker CE
 - [polygott](https://github.com/replit/polygott) - Base Docker image for the Repl.it evaluation server
 - [DB-based-replicated-filesystem](https://github.com/samzyy/DB-based-replicated-filesystem) - 
 - [ttcopy](https://github.com/greymd/ttcopy) - Provide copying and pasting within multiple hosts through the Web.
