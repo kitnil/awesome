@@ -159,6 +159,7 @@
 
 ## C 
 
+- [solaris-userland](https://github.com/oracle/solaris-userland) - Open Source software in Solaris using gmake based build system to drive building various software components.
 - [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
 - [uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 - [telnet2http](https://github.com/max-arnold/telnet2http) - ﻿﻿HTTP Proxy via Cisco telnet session
@@ -906,7 +907,6 @@
 - [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
 - [HyperDex](https://github.com/rescrv/HyperDex) - HyperDex is a scalable, searchable key-value store
 - [inspector](https://github.com/inspector-repl/inspector) - A drop-anywhere C++ REPL
-- [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
 - [nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
 - [nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
@@ -1561,6 +1561,7 @@
 
 ## Dockerfile 
 
+- [nginx-unit-nodejs](https://github.com/mrchoke/nginx-unit-nodejs) - Demo app for Nginx Unit NodeJs
 - [Dockerfile](https://github.com/jumpserver/Dockerfile) - Jumpserver all in one Dockerfile
 - [docker-bitlbee-libpurple](https://github.com/ezkrg/docker-bitlbee-libpurple) - bitlbee with libpurple and plugins
 - [shpod](https://github.com/jpetazzo/shpod) - Container image to get a consistent training environment to work on Kubernetes
@@ -4910,6 +4911,7 @@
 - [mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ freenode
 - [westford](https://github.com/udevbe/westford) - Westford Wayland Compositor
 - [replete-android](https://github.com/replete-repl/replete-android) - ClojureScript REPL Android app
+- [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
 - [VDM](https://github.com/ingbyr/VDM) - GUI for command-line video downloader (youtube-dl annie)
 - [Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [awesome-conferences-database](https://github.com/matteocrippa/awesome-conferences-database) - 📲 A collaborative list of Conferences
@@ -5800,7 +5802,7 @@
 - [hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
 - [backuppc](https://github.com/backuppc/backuppc) - BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
 - [imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is
-- [hw-probe](https://github.com/linuxhw/hw-probe) - A tool to probe for hardware, check operability and find drivers
+- [hw-probe](https://github.com/linuxhw/hw-probe) - Probe for hardware, check operability and find drivers
 - [rpmgrill](https://github.com/default-to-open/rpmgrill) - Static package analysis of RPM builds
 - [lm-sensors](https://github.com/lm-sensors/lm-sensors) - lm-sensors repository
 - [AnyEvent-Redis](https://github.com/miyagawa/AnyEvent-Redis) - Asynchronous Redis client
@@ -5870,6 +5872,7 @@
 
 ## Python 
 
+- [pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
 - [voluptuous](https://github.com/alecthomas/voluptuous) - CONTRIBUTIONS ONLY: Voluptuous, despite the name, is a Python data validation library.
 - [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 - [qtconsole](https://github.com/jupyter/qtconsole) - Jupyter Qt Console
@@ -7479,6 +7482,7 @@
 
 ## Shell 
 
+- [godaddy-ddns](https://github.com/michaudg/godaddy-ddns) - 
 - [history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
 - [autossh](https://github.com/FeeiCN/autossh) - Password-free automatic login SSH（免密登陆SSH）
 - [vm-bhyve](https://github.com/churchers/vm-bhyve) - Shell based, minimal dependency bhyve manager
@@ -8204,7 +8208,7 @@
 ## Vue 
 
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast and beautiful alternative to Postman https://postwoman.io 🔥
+- [postwoman](https://github.com/liyasthomas/postwoman) - 🛸👽 A free, fast & beautiful API request builder (online alternative to Postman) https://postwoman.io 🔥
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
