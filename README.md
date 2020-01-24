@@ -159,6 +159,8 @@
 
 ## C 
 
+- [ipdecap](https://github.com/lpefferkorn/ipdecap) - Decapsulate traffic encapsulated within GRE, IPIP, 6in4, ESP (ipsec) protocols, can also remove IEEE 802.1Q (virtual lan) header. Works with pcap files.
+- [wrk2](https://github.com/yicwang/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [solaris-userland](https://github.com/oracle/solaris-userland) - Open Source software in Solaris using gmake based build system to drive building various software components.
 - [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
 - [uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
@@ -3228,6 +3230,9 @@
 
 ## Go 
 
+- [docker-fetchurl](https://github.com/moretea/docker-fetchurl) - Helper image to fetch & verify URL's
+- [heka](https://github.com/mozilla-services/heka) - DEPRECATED: Data collection and processing made easy.
+- [go-libvirt](https://github.com/digitalocean/go-libvirt) - Package libvirt provides a pure Go interface for interacting with Libvirt.  Apache 2.0 Licensed.
 - [git-hound](https://github.com/tillson/git-hound) - GitHound pinpoints exposed API keys on GitHub using pattern matching, commit history searching, and a unique result scoring system. A batch-catching, pattern-matching, patch-attacking secret snatcher.
 - [hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [ssh2docker](https://github.com/moul/ssh2docker) - :whale: standalone SSH server that connects you to your Docker containers
@@ -4070,6 +4075,7 @@
 
 ## Java 
 
+- [jmeter](https://github.com/apache/jmeter) - Apache JMeter
 - [workflow-basic-steps-plugin](https://github.com/jenkinsci/workflow-basic-steps-plugin) - 
 - [EmmyLua-LanguageServer](https://github.com/EmmyLua/EmmyLua-LanguageServer) - 
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
@@ -4220,6 +4226,7 @@
 
 ## JavaScript 
 
+- [pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [node-bcat](https://github.com/kessler/node-bcat) - A pipe to browser utility
 - [node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
 - [webtelnet](https://github.com/mudchina/webtelnet) - Proxy server to bridge websocket to telnet, enable visiting telnet / MUD servers with browsers.
@@ -5038,6 +5045,10 @@
 
 ## Nix 
 
+- [poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
+- [nix-syntax-for-mcedit](https://github.com/svanderburg/nix-syntax-for-mcedit) - Nix expression syntax highlighter for mcedit
+- [php-sbeditor](https://github.com/svanderburg/php-sbeditor) - Simple embeddable HTML editor
+- [static-haskell-nix](https://github.com/nh2/static-haskell-nix) - easily build most Haskell programs into fully static Linux executables
 - [nixflk](https://github.com/nrdxp/nixflk) - highly structured NixOS configuration database
 - [reflex-platform](https://github.com/reflex-frp/reflex-platform) - Reflex FRP is a composable, cross-platform functional reactive programming framework for Haskell.  It allows you to build interactive components in pure functional style, working in harmony with established Haskell techniques and improving the quality and elegance of your applications.
 - [mobile-nixos](https://github.com/NixOS/mobile-nixos) - Questions? #nixos-aarch64 (or #nixos) on Freenode!
@@ -5737,6 +5748,7 @@
 
 ## Perl 
 
+- [hydra-backup](https://github.com/svanderburg/hydra-backup) - My custom hydra backup scripts
 - [openQA](https://github.com/os-autoinst/openQA) - openQA web-frontend, scheduler and tools.
 - [mysqlbak](https://github.com/jimsalterjrs/mysqlbak) - CLI tool to dump all mysql dbs on a local or remote host to one gzipped file per database.
 - [wg-admin](https://github.com/jimsalterjrs/wg-admin) - Simple CLI utilities to manage a WireGuard server
@@ -6260,7 +6272,7 @@
 - [SC-FEGAN](https://github.com/run-youngjoo/SC-FEGAN) - SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color (ICCV2019)
 - [toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF.
-- [molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible roles.
+- [molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
 - [gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [sos](https://github.com/sosreport/sos) - A unified tool for collecting system logs and other debug information
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
@@ -7482,6 +7494,7 @@
 
 ## Shell 
 
+- [git-splits](https://github.com/ajdruff/git-splits) - Extracts multiple directories of a git repo into a new branch
 - [godaddy-ddns](https://github.com/michaudg/godaddy-ddns) - 
 - [history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
 - [autossh](https://github.com/FeeiCN/autossh) - Password-free automatic login SSH（免密登陆SSH）
@@ -8208,7 +8221,7 @@
 ## Vue 
 
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
-- [postwoman](https://github.com/liyasthomas/postwoman) - 🛸👽 A free, fast & beautiful API request builder (online alternative to Postman) https://postwoman.io 🔥
+- [postwoman](https://github.com/liyasthomas/postwoman) - 🛸👽 A free, fast & beautiful API request builder (web alternative to Postman) https://postwoman.io 🔥
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
