@@ -383,6 +383,7 @@
 - [nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
 - [Interplanetary-Postal-Service](https://github.com/s-macke/Interplanetary-Postal-Service) - Lunar lander type game with computational fluid dynamics
 - [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing.
+- [M2-Planet](https://github.com/oriansj/M2-Planet) - The PLAtform NEutral Transpiler
 - [ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
 - [litetree](https://github.com/aergoio/litetree) - SQLite with Branches
 - [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -1623,6 +1624,8 @@
 
 ## Emacs Lisp 
 
+- [verb](https://github.com/federicotdn/verb) - Organize and send HTTP requests from Emacs
+- [clipetty](https://github.com/spudlyo/clipetty) - Manipulate the system (clip)board with (e)macs from a (tty)
 - [dim.el](https://github.com/alezost/dim.el) - Change mode-line names of major/minor modes
 - [emacs-web-server](https://github.com/eschulte/emacs-web-server) - web server running Emacs Lisp handlers.
 - [horizon-theme.el](https://github.com/aodhneine/horizon-theme.el) - Port of Visual Studio Code theme Horizon to Emacs.
@@ -2474,7 +2477,6 @@
 - [omni-kill.el](https://github.com/AdrieanKhisbe/omni-kill.el) - ⚔️ M-x kill-all-the-thing ☠️
 - [magit-svn](https://github.com/emacsorphanage/magit-svn) - Git-Svn extension for Magit
 - [clj-refactor.el](https://github.com/clojure-emacs/clj-refactor.el) - A collection of Clojure refactoring functions for Emacs
-- [clippy.el](https://github.com/Fuco1/clippy.el) - Show tooltip with function documentation at point
 - [clippy.el](https://github.com/Fuco1/clippy.el) - Show tooltip with function documentation at point
 - [ido-yes-or-no](https://github.com/DarwinAwardWinner/ido-yes-or-no) - Use ido to answer yes or no questions.
 - [ack-el](https://github.com/leoliu/ack-el) - Emacs Interface to Ack-like Tools
@@ -4228,6 +4230,7 @@
 
 ## JavaScript 
 
+- [youtube-timestamps-to-playlist](https://github.com/hagabaka/youtube-timestamps-to-playlist) - Chrome and Firefox extension which creates a playlist from time tags on a YouTube page
 - [ContainersExportImport](https://github.com/BillDietrich/ContainersExportImport) - Firefox Containers settings export and import
 - [sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [popout-tab](https://github.com/Ey3cue/popout-tab) - 
@@ -4580,7 +4583,7 @@
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [boardgame.io](https://github.com/nicolodavis/boardgame.io) - Open Source Game Engine for Turn-Based Games
-- [shelltile](https://github.com/emasab/shelltile) - A tiling window extension for GNOME Shell. Just move a window over another one, holding down the Control key, and you'll see the magic! Grouped windows minimize, resize, raise and change workspace together. Maximize a window to remove it from the group.
+- [shelltile](https://github.com/emasab/shelltile) - A tiling window extension for GNOME Shell. Just move a window to the edges of the screen to create a tiling, otherwise move a window over another one, holding down the Control key. Grouped windows minimize, resize, raise and change workspace together. Move or maximize a window to remove it from the group.
 - [engine](https://github.com/playcanvas/engine) - Fast and lightweight WebGL game engine
 - [awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
 - [awesome-spinners](https://github.com/yangshun/awesome-spinners) - 💫 A curated collection of dazzling web spinners
@@ -7816,7 +7819,6 @@
 - [zabbix-version-detect](https://github.com/catonrug/zabbix-version-detect) - Detect new zabbix versions by using sourceforge rss feed
 - [linux-unattended-installation](https://github.com/core-process/linux-unattended-installation) - This project provides all you need to create an unattended installation of a minimal setup of Linux.
 - [yavide](https://github.com/JBakamovic/yavide) - Modern C/C++ integrated development environment
-- [M2-Planet](https://github.com/oriansj/M2-Planet) - The PLAtform NEutral Transpiler
 - [flatpak-overlay](https://github.com/fosero/flatpak-overlay) - A Gentoo ebuild overlay for flatpak
 - [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
