@@ -1264,7 +1264,6 @@
 - [StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [ultracompact-firefox](https://github.com/yjp20/ultracompact-firefox) - 
-- [book](https://github.com/a-guile-mind/book) - Please leave feedback in the issues
 - [water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer
 - [minetest.github.io](https://github.com/minetest/minetest.github.io) - Official Minetest website hosted by Github Pages
 - [docs.influxdata.com](https://github.com/influxdata/docs.influxdata.com) - 1.x docs for InfluxData
@@ -1624,6 +1623,7 @@
 
 ## Emacs Lisp 
 
+- [dim.el](https://github.com/alezost/dim.el) - Change mode-line names of major/minor modes
 - [emacs-web-server](https://github.com/eschulte/emacs-web-server) - web server running Emacs Lisp handlers.
 - [horizon-theme.el](https://github.com/aodhneine/horizon-theme.el) - Port of Visual Studio Code theme Horizon to Emacs.
 - [eldev](https://github.com/doublep/eldev) - Elisp Development Tool
@@ -2474,6 +2474,7 @@
 - [omni-kill.el](https://github.com/AdrieanKhisbe/omni-kill.el) - ⚔️ M-x kill-all-the-thing ☠️
 - [magit-svn](https://github.com/emacsorphanage/magit-svn) - Git-Svn extension for Magit
 - [clj-refactor.el](https://github.com/clojure-emacs/clj-refactor.el) - A collection of Clojure refactoring functions for Emacs
+- [clippy.el](https://github.com/Fuco1/clippy.el) - Show tooltip with function documentation at point
 - [clippy.el](https://github.com/Fuco1/clippy.el) - Show tooltip with function documentation at point
 - [ido-yes-or-no](https://github.com/DarwinAwardWinner/ido-yes-or-no) - Use ido to answer yes or no questions.
 - [ack-el](https://github.com/leoliu/ack-el) - Emacs Interface to Ack-like Tools
@@ -3935,6 +3936,7 @@
 
 ## Haskell 
 
+- [discord-haskell](https://github.com/aquarial/discord-haskell) - Haskell library for writing Discord bots
 - [asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
 - [ormolu](https://github.com/tweag/ormolu) - A formatter for Haskell source code
 - [ghcide](https://github.com/digital-asset/ghcide) - A library for building Haskell IDE tooling
@@ -4226,6 +4228,20 @@
 
 ## JavaScript 
 
+- [ContainersExportImport](https://github.com/BillDietrich/ContainersExportImport) - Firefox Containers settings export and import
+- [sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
+- [popout-tab](https://github.com/Ey3cue/popout-tab) - 
+- [sea-containers](https://github.com/jonathanKingston/sea-containers) - Sidebar for managing container tabs
+- [contain-mobile](https://github.com/sagudev/contain-mobile) - Mobile Container
+- [account-per-container](https://github.com/tiansh/account-per-container) - Firefox Extension; Auto-fill username when you open websites in certain container.
+- [firefox-sticky-window-containers](https://github.com/chronakis/firefox-sticky-window-containers) - Firefox extention to make the current container "sticky" when opening a new tab
+- [multi-account-containers](https://github.com/blackhole89/multi-account-containers) - Firefox Multi-Account Containers adds new features to Containers.
+- [close-container](https://github.com/freaktechnik/close-container) - Close all tabs of a contntainer from the tab context menu or a button.
+- [contain-vk](https://github.com/Astrr/contain-vk) - Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
+- [firefox-easy-container-shortcuts](https://github.com/gsomoza/firefox-easy-container-shortcuts) - Easy, opinionated, keyboard shortcuts for Firefox 57+ containers.
+- [firefox-container-proxy](https://github.com/bekh6ex/firefox-container-proxy) - [Firefox extension] Assign a proxy to a Firefox container
+- [container-tabs-sidebar](https://github.com/maciekmm/container-tabs-sidebar) - Firefox addon aiming to utilize screen estate more efficiently by showing tabs in a sidebar grouped by privacy containers. Inspired by TreeStyleTab.
+- [contextPlus](https://github.com/totallymike/contextPlus) - Take stuff in a tab and move that stuff to a new tab in a new container.
 - [pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [node-bcat](https://github.com/kessler/node-bcat) - A pipe to browser utility
 - [node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
@@ -4998,6 +5014,7 @@
 
 ## Makefile 
 
+- [twemoji-color-font](https://github.com/eosrei/twemoji-color-font) - Twitter Unicode 12 emoji color SVGinOT font for Linux/MacOS/Windows
 - [ports](https://github.com/openbsd/ports) - Public git conversion mirror of OpenBSD's official cvs ports repository. Pull requests not accepted - send diffs to the ports@ mailing list.
 - [terraform-makefile](https://github.com/pgporada/terraform-makefile) - Helps me actually use terraform for multiple environments
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
@@ -6557,7 +6574,7 @@
 - [domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - If you think you know Python, think once more!
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
-- [uritemplate](https://github.com/python-hyper/uritemplate) - URI template parsing for Humans
+- [uritemplate](https://github.com/python-hyper/uritemplate) - URI template parsing per RFC6750
 - [github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 2.7, 3.4, 3.5, 3.6, and 3.7 (and maybe 3.8?)
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
@@ -7420,8 +7437,8 @@
 
 ## Scheme 
 
+- [guile-daemon](https://github.com/alezost/guile-daemon) - Evaluate code in a running Guile process
 - [guile-web-driver](https://github.com/her01n/guile-web-driver) - web driver (selenium) client for guile
-- [nomunofu](https://github.com/amirouche/nomunofu) - Querying wikidata made easy
 - [r6lint](https://github.com/weinholt/r6lint) - R6RS Scheme syntax and style checker
 - [guile-json](https://github.com/aconchillo/guile-json) - JSON module for Guile
 - [pink](https://github.com/namin/pink) - Collapsing Towers of Interpreters (in Scheme)
@@ -8074,7 +8091,8 @@
 
 ## TypeScript 
 
-- [excalidraw](https://github.com/excalidraw/excalidraw) - Sketch hand-drawn like diagrams
+- [temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
+- [excalidraw](https://github.com/excalidraw/excalidraw) - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 - [forget-me-not](https://github.com/Lusito/forget-me-not) - Make the browser forget website data, except for the data you want to keep.
 - [codelyzer](https://github.com/mgechev/codelyzer) - Static analysis for Angular projects.
 - [nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
