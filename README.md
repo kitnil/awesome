@@ -3257,7 +3257,7 @@
 - [wash](https://github.com/puppetlabs/wash) - Wide Area SHell: a cloud-native shell for bringing remote infrastructure to your terminal.
 - [vsh](https://github.com/fishi0x01/vsh) - vsh - HashiCorp Vault interactive shell
 - [tj](https://github.com/sgreben/tj) - stdin line timestamps. single binary, no dependencies. osx & linux & windows. plays well with jq.
-- [spotitube](https://github.com/streambinder/spotitube) - Shell go-lang application to incrementally download from Spotify into local folder
+- [spotitube](https://github.com/streambinder/spotitube) - Synchronize your Spotify collections downloading from external providers
 - [rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
 - [gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash and ZSH written in Go.
 - [pipethis](https://github.com/ellotheth/pipethis) - Replace your `curl | sh` installers
@@ -3811,6 +3811,7 @@
 
 ## Groovy 
 
+- [job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs - Sweeeeet!
 - [wolox-ci](https://github.com/Wolox/wolox-ci) - 
 - [rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 
@@ -4079,6 +4080,9 @@
 
 ## Java 
 
+- [extra-columns-plugin](https://github.com/jenkinsci/extra-columns-plugin) - Jenkins extra-columns-plugin
+- [console-column-plugin](https://github.com/jenkinsci/console-column-plugin) - Provide a fast-path console link available for views.
+- [view-job-filters-plugin](https://github.com/jenkinsci/view-job-filters-plugin) - Jenkins view-job-filters plugin
 - [jmeter](https://github.com/apache/jmeter) - Apache JMeter
 - [workflow-basic-steps-plugin](https://github.com/jenkinsci/workflow-basic-steps-plugin) - 
 - [EmmyLua-LanguageServer](https://github.com/EmmyLua/EmmyLua-LanguageServer) - 
@@ -4230,6 +4234,7 @@
 
 ## JavaScript 
 
+- [luna](https://github.com/jumpserver/luna) - Angular4 project for web terminal
 - [youtube-timestamps-to-playlist](https://github.com/hagabaka/youtube-timestamps-to-playlist) - Chrome and Firefox extension which creates a playlist from time tags on a YouTube page
 - [ContainersExportImport](https://github.com/BillDietrich/ContainersExportImport) - Firefox Containers settings export and import
 - [sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
@@ -4602,7 +4607,6 @@
 - [stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
 - [starmark](https://github.com/ryanmcdermott/starmark) - :octocat: Turn your GitHub stars into Chrome bookmarks
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
-- [commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
@@ -5904,6 +5908,7 @@
 
 ## Python 
 
+- [jx-sqlite](https://github.com/mozilla/jx-sqlite) - JSON query expressions using SQLite
 - [pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
 - [voluptuous](https://github.com/alecthomas/voluptuous) - CONTRIBUTIONS ONLY: Voluptuous, despite the name, is a Python data validation library.
 - [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
@@ -6777,7 +6782,7 @@
 - [PyOrgMode](https://github.com/bjonnh/PyOrgMode) - A python class for reading and writing orgmode files
 - [Memacs](https://github.com/novoid/Memacs) - What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 - [filetags](https://github.com/novoid/filetags) - Management of simple tags within file names
-- [pkgcheck](https://github.com/pkgcore/pkgcheck) - pkgcore-based QA utility
+- [pkgcheck](https://github.com/pkgcore/pkgcheck) - pkgcore-based QA utility for ebuild repos
 - [CommonRegex](https://github.com/madisonmay/CommonRegex) - A collection of common regular expressions bundled with an easy to use interface.
 - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites
@@ -8151,6 +8156,7 @@
 - [stryker](https://github.com/stryker-mutator/stryker) - Mutation testing for JavaScript and friends
 - [chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
 - [hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
+- [commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [shellshape](https://github.com/timbertson/shellshape) - tiling window manager extension for gnome-shell
 - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Extension that deletes cookies as soon as the tab closes.
 - [academic-bloggers-toolkit](https://github.com/dsifford/academic-bloggers-toolkit) - WordPress plugin providing an all-in-one solution for effective academic blogging.
