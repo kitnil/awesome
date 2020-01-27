@@ -810,6 +810,8 @@
 
 ## C# # 
 
+- [superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
+- [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [Gambador](https://github.com/MaximeGammaitoni/Gambador) - 
 - [privilege-escalation-awesome-scripts-suite](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [schemy](https://github.com/microsoft/schemy) - A lightweight embeddable Scheme-like interpreter for configuration
@@ -829,6 +831,7 @@
 
 ## C++ 
 
+- [percona-xtrabackup](https://github.com/percona/percona-xtrabackup) - Open source hot backup tool for InnoDB and XtraDB databases
 - [gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [rttr](https://github.com/rttrorg/rttr) - C++ Reflection Library
@@ -3233,6 +3236,7 @@
 
 ## Go 
 
+- [certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [docker-fetchurl](https://github.com/moretea/docker-fetchurl) - Helper image to fetch & verify URL's
 - [heka](https://github.com/mozilla-services/heka) - DEPRECATED: Data collection and processing made easy.
 - [go-libvirt](https://github.com/digitalocean/go-libvirt) - Package libvirt provides a pure Go interface for interacting with Libvirt.  Apache 2.0 Licensed.
@@ -4080,6 +4084,7 @@
 
 ## Java 
 
+- [sshj](https://github.com/hierynomus/sshj) - ssh, scp and sftp for java
 - [extra-columns-plugin](https://github.com/jenkinsci/extra-columns-plugin) - Jenkins extra-columns-plugin
 - [console-column-plugin](https://github.com/jenkinsci/console-column-plugin) - Provide a fast-path console link available for views.
 - [view-job-filters-plugin](https://github.com/jenkinsci/view-job-filters-plugin) - Jenkins view-job-filters plugin
@@ -4234,6 +4239,7 @@
 
 ## JavaScript 
 
+- [wssh](https://github.com/aluzzardi/wssh) - SSH to WebSockets Bridge
 - [luna](https://github.com/jumpserver/luna) - Angular4 project for web terminal
 - [youtube-timestamps-to-playlist](https://github.com/hagabaka/youtube-timestamps-to-playlist) - Chrome and Firefox extension which creates a playlist from time tags on a YouTube page
 - [ContainersExportImport](https://github.com/BillDietrich/ContainersExportImport) - Firefox Containers settings export and import
@@ -6309,7 +6315,7 @@
 - [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) - This project isn't finished yet. Goal is to create a SickBeard, CouchPotato, Headphones-like application for ebooks. Headphones is used as a base, so there are still a lot of references to it.
 - [healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django
-- [feedmixer](https://github.com/cristoper/feedmixer) - A micro web service to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON)
+- [feedmixer](https://github.com/cristoper/feedmixer) - A self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON)
 - [clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
 - [micawber](https://github.com/coleifer/micawber) - a small library for extracting rich content from urls
 - [chainer-chemistry](https://github.com/chainer/chainer-chemistry) - Chainer Chemistry: A Library for Deep Learning in Biology and Chemistry
@@ -7163,6 +7169,8 @@
 
 ## Ruby 
 
+- [ssh-config](https://github.com/dbrady/ssh-config) - A Tool to help manage your .ssh/config file.
+- [ssh_scan_api](https://github.com/mozilla/ssh_scan_api) - An API for ssh_scan (https://github.com/mozilla/ssh_scan) and the backend API service for the Mozilla SSH Observatory (https://observatory.mozilla.org/)
 - [docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser) - 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails.
 - [i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage translation and localization with static analysis, for Ruby i18n
 - [codeclimate](https://github.com/codeclimate/codeclimate) - Code Climate CLI
@@ -7320,6 +7328,7 @@
 
 ## Rust 
 
+- [mainframer](https://github.com/buildfoundation/mainframer) - Tool for remote builds. Sync project to remote machine, execute command, sync back.
 - [json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [vivid](https://github.com/sharkdp/vivid) - A generator for LS_COLORS with support for multiple color themes
@@ -8098,6 +8107,7 @@
 
 ## TypeScript 
 
+- [sshmon](https://github.com/hpello/sshmon) - Manage and monitor SSH connections.
 - [temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 - [forget-me-not](https://github.com/Lusito/forget-me-not) - Make the browser forget website data, except for the data you want to keep.
