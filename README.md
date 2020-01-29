@@ -1276,6 +1276,7 @@
 - [ClassicThemeRestorer](https://github.com/Aris-t2/ClassicThemeRestorer) - Classic Theme Restorer for Australis UI (Firefox/Waterfox/Basilisk versions 45.x-56.x only!)
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [pol](https://github.com/taroved/pol) - RSS generator website
+- [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [FirefoxQuantumScrollbar](https://github.com/catcat520/FirefoxQuantumScrollbar) - 
 - [readline-cheat-sheet](https://github.com/kablamo/readline-cheat-sheet) - A mobile friendly cheat sheet for the GNU Readline library
 - [css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
@@ -1472,7 +1473,7 @@
 - [Postmodern](https://github.com/marijnh/Postmodern) - A Common Lisp PostgreSQL programming interface
 - [McCLIM](https://github.com/McCLIM/McCLIM) - An implementation of the Common Lisp Interface Manager, version II
 - [cl-tutor](https://github.com/t-cool/cl-tutor) - Common Lisp learning system built on lem
-- [CotD](https://github.com/gwathlobal/CotD) - A Common Lisp roguelike battle of Angels and Demons in the streets of a Human city
+- [CotD](https://github.com/gwathlobal/CotD) - A Common Lisp roguelike game where Angels and Demons battle in the streets of a Human city
 - [ironclad](https://github.com/sharplispers/ironclad) - A cryptographic toolkit written in Common Lisp
 - [utility](https://github.com/gmasching/utility) - Yet another personal utility library
 - [sucle](https://github.com/gmasching/sucle) - Common Lisp Voxel Game Engine
@@ -4490,7 +4491,6 @@
 - [git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [influxdb-ui](https://github.com/danesparza/influxdb-ui) - :racehorse: A simple UI for InfluxDB
-- [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [vega](https://github.com/vega/vega) - A visualization grammar.
 - [mathsteps](https://github.com/socraticorg/mathsteps) - Step by step math solutions for everyone
 - [mr-provisioner](https://github.com/mr-provisioner/mr-provisioner) - Bare metal provisioning tool
@@ -4792,7 +4792,6 @@
 - [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [contextsearch](https://github.com/benbasson/contextsearch) - Firefox Extension - Context Search transforms the "Web Search for..." context item into a menu containing your Firefox Search Providers. This is very convenient, since it allows you to decide which search engine you use. Firefox's default is to use the currently selected search provider only.
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [cuckoo](https://github.com/cuckoosandbox/cuckoo) - Cuckoo Sandbox is an automated dynamic malware analysis system
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -5055,6 +5054,7 @@
 - [latex-docker](https://github.com/blang/latex-docker) - Docker-based latex compilation
 - [developer](https://github.com/phodal/developer) - developer roadmap. use growth https://github.com/phodal/growth replace this
 - [motioneyeos](https://github.com/ccrisan/motioneyeos) - A Video Surveillance OS For Single-board Computers
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [python-regex-cheatsheet](https://github.com/tartley/python-regex-cheatsheet) - Python 2.7 Regular Expression cheatsheet, as a restructured text document and Makefile to convert it to PDF
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [provision_docker](https://github.com/chrismeyersfsu/provision_docker) - Test Ansible roles and playbooks using Docker
