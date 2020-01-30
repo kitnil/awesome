@@ -94,6 +94,7 @@
   - [Shen](#shen)
   - [Solidity](#solidity)
   - [Standard ML](#standard-ml)
+  - [Starlark](#starlark)
   - [Tcl](#tcl)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -397,7 +398,7 @@
 - [LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 - [ubridge](https://github.com/GNS3/ubridge) - Bridge for UDP tunnels, Ethernet, TAP and VMnet interfaces.
 - [cmdtree](https://github.com/jb55/cmdtree) - X11 trie command launcher
-- [inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs for Linux providing a simple interface to inotify.
+- [inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [pacemaker](https://github.com/ClusterLabs/pacemaker) - Pacemaker is an advanced, scalable High-Availability cluster resource manager
 - [casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
 - [firmware](https://github.com/UltimateHackingKeyboard/firmware) - The firmware of the Ultimate Hacking Keyboard
@@ -4310,7 +4311,7 @@
 - [tabcenter-redux](https://github.com/eoger/tabcenter-redux) - Vertical Tabs extension for Firefox
 - [refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) - Chrome and Firefox extension that improves Bitbucket's user experience
 - [gooreplacer](https://github.com/jiacai2050/gooreplacer) - ⚡️⚡️A Firefox/Chrome extension to modify HTTP requests :-)
-- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete web page as a single HTML file
+- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of a complete web page as a single HTML file
 - [vimperator-labs](https://github.com/vimperator/vimperator-labs) - Vimperator
 - [Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
 - [bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox) - Bypass Paywalls for Firefox
@@ -4541,7 +4542,7 @@
 - [reload-plus](https://github.com/blackwind/reload-plus) - [Firefox] Supercharge your reload button and hotkeys!
 - [greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
-- [nanoid](https://github.com/ai/nanoid) - A tiny (127 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [nanoid](https://github.com/ai/nanoid) - A tiny (119 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
@@ -5070,6 +5071,7 @@
 
 ## Nim 
 
+- [boomer](https://github.com/tsoding/boomer) - Zoomer application for Linux
 - [ntangle](https://github.com/OrgTangle/ntangle) - Command-line utility for Tangling of Org documents — programmed in Nim.
 - [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
 
@@ -6040,7 +6042,7 @@
 - [docker-registry-diff](https://github.com/mnp/docker-registry-diff) - Standalone tool to determine if several private docker registries are in sync
 - [bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [stapler](https://github.com/hellerbarde/stapler) - A small utility making use of the pypdf library to provide a (somewhat) lighter alternative to pdftk
-- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deep fakes.
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem wrapper for the reMarkable tablet
 - [faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
@@ -6204,7 +6206,6 @@
 - [slingshot](https://github.com/ryanakca/slingshot) - Simple 2D shooting strategy game set in space, with gravity
 - [LiSE](https://github.com/LogicalDash/LiSE) - Rules-based engine for life sims
 - [ERNIE](https://github.com/PaddlePaddle/ERNIE) - An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)
-- [rules_haskell](https://github.com/tweag/rules_haskell) - Haskell rules for Bazel.
 - [xml2json](https://github.com/hay/xml2json) - Python script converts XML to JSON or the other way around
 - [sublert](https://github.com/yassineaboukir/sublert) - Sublert is a security and reconnaissance tool which leverages certificate transparency to automatically monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate.
 - [pyfiscan](https://github.com/fgeek/pyfiscan) - Free web-application vulnerability and version scanner
@@ -7694,7 +7695,7 @@
 - [docker-znc](https://github.com/jimeh/docker-znc) - Run the ZNC IRC Bouncer in a Docker container.
 - [git-aware-prompt](https://github.com/jimeh/git-aware-prompt) - Display current Git branch name in your terminal prompt when in a Git working directory.
 - [magit-docker](https://github.com/vlandeiro/magit-docker) - Runs magit in a light emacs install
-- [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [static-binaries](https://github.com/andrew-d/static-binaries) - Various *nix tools built as statically-linked binaries
 - [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [makem.sh](https://github.com/alphapapa/makem.sh) - Makefile-like script for building and testing Emacs Lisp packages
@@ -8057,6 +8058,10 @@
 ## Standard ML 
 
 - [sml-redprl](https://github.com/RedPRL/sml-redprl) - The People's Refinement Logic
+
+## Starlark 
+
+- [rules_haskell](https://github.com/tweag/rules_haskell) - Haskell rules for Bazel.
 
 ## Tcl 
 
