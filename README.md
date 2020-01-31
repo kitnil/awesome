@@ -2012,7 +2012,7 @@
 - [use-package-el-get](https://github.com/emacsmirror/use-package-el-get) - El-get support for use package
 - [http-twiddle](https://github.com/hassy/http-twiddle) - HTTP debugging tool (Emacs mode)
 - [magit-todos](https://github.com/alphapapa/magit-todos) - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
-- [org-emms](https://github.com/jagrg/org-emms) - [MOVED TO GITLAB] Play multimedia files from org-mode
+- [org-emms](https://github.com/jagrg/org-emms) - Play multimedia files from org-mode
 - [evil-matchit](https://github.com/redguardtoo/evil-matchit) - Vim matchit ported into Emacs
 - [evil-fringe-mark](https://github.com/Andrew-William-Smith/evil-fringe-mark) - Display evil-mode markers in the Emacs fringe
 - [go-mode.el](https://github.com/dominikh/go-mode.el) - Emacs mode for the Go programming language
@@ -7616,7 +7616,7 @@
 - [curltime](https://github.com/arzzen/curltime) - A simple command line (bash/shell) utility to measure HTTP request time with cUrl
 - [mongodb-info](https://github.com/arzzen/mongodb-info) - MongoDB Info - command line tool to get stats.
 - [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
-- [dehydrated](https://github.com/lukas2511/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
+- [dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 - [kaldi](https://github.com/kaldi-asr/kaldi) - This is the official location of the Kaldi project.
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [docker2singularity](https://github.com/singularityhub/docker2singularity) - A docker image for converting docker images to singularity images.
@@ -8015,7 +8015,7 @@
 - [dotfiles](https://github.com/kaushalmodi/dotfiles) - 
 - [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 - [almostontop](https://github.com/Valiev/almostontop) - almostontop zsh plugin
-- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 - [dist-git](https://github.com/release-engineering/dist-git) - DistGit provides home for linux distribution packages.
