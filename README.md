@@ -1676,7 +1676,6 @@
 - [netease-music](https://github.com/nicehiro/netease-music) - NetEase Music Library for Emacs.
 - [emamux-ghci](https://github.com/jfeltz/emamux-ghci) - tmux GHCI controller for Emacs
 - [haskell-desktop](https://github.com/capital-match/haskell-desktop) - Docker image with Haskell, emacs, vim, SSH server and a desktop environment through X2Go
-- [plz.el](https://github.com/alphapapa/plz.el) - An HTTP library for Emacs
 - [play-code.el](https://github.com/twlz0ne/play-code.el) - Play code with online playgrounds
 - [elpa-deploy](https://github.com/oitofelix/elpa-deploy) - ELPA deployment library
 - [info-rename-buffer](https://github.com/oitofelix/info-rename-buffer) - Rename Info buffers to match manuals
@@ -3181,7 +3180,7 @@
 - [emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
 - [flx](https://github.com/lewang/flx) - Fuzzy matching for Emacs ... a la Sublime Text.
 - [ergoemacs-mode](https://github.com/ergoemacs/ergoemacs-mode) - ergoemacs-mode
-- [cdlatex](https://github.com/cdominik/cdlatex) - Fast input methods for LaTeX environments and math
+- [cdlatex](https://github.com/cdominik/cdlatex) - Fast input methods to enter LaTeX environments and math with GNU Emacs
 - [emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme) - Awesome Emacs color theme for white backgrounds --- Added in Emacs 24.4
 - [paradox](https://github.com/Malabarba/paradox) - Project for modernizing Emacs' Package Menu. With package ratings, usage statistics, customizability, and more.
 - [smartparens](https://github.com/Fuco1/smartparens) - Minor mode for Emacs that deals with parens pairs and tries to be smart about it.
@@ -3238,6 +3237,7 @@
 
 ## Go 
 
+- [netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
 - [certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [docker-fetchurl](https://github.com/moretea/docker-fetchurl) - Helper image to fetch & verify URL's
@@ -3395,7 +3395,6 @@
 - [binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go
 - [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [git-octopus](https://github.com/lesfurets/git-octopus) - The continuous merge workflow
 - [poussetaches](https://github.com/tsileo/poussetaches) - Lightweight asynchronous task execution service
 - [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
@@ -4087,6 +4086,7 @@
 
 ## Java 
 
+- [ssh-steps-plugin](https://github.com/jenkinsci/ssh-steps-plugin) - Jenkins pipeline steps which provides SSH facilities such as command execution or file transfer for continuous delivery.
 - [sshj](https://github.com/hierynomus/sshj) - ssh, scp and sftp for java
 - [extra-columns-plugin](https://github.com/jenkinsci/extra-columns-plugin) - Jenkins extra-columns-plugin
 - [console-column-plugin](https://github.com/jenkinsci/console-column-plugin) - Provide a fast-path console link available for views.
@@ -4588,7 +4588,7 @@
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [headset-electron](https://github.com/headsetapp/headset-electron) - Official Headset repo
 - [array-explorer](https://github.com/sdras/array-explorer) - ⚡️ A resource to help figure out what JavaScript array method would be best to use at any given time
-- [eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
+- [eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [lean-url](https://github.com/tugh/lean-url) - Removes evil URL parameters such as Google Analytics' utm parameters
 - [firefoxaddons](https://github.com/Smile4ever/firefoxaddons) - Extend the functionality of Firefox with cool addons
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
@@ -5077,6 +5077,7 @@
 
 ## Nix 
 
+- [musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
 - [nix-syntax-for-mcedit](https://github.com/svanderburg/nix-syntax-for-mcedit) - Nix expression syntax highlighter for mcedit
 - [php-sbeditor](https://github.com/svanderburg/php-sbeditor) - Simple embeddable HTML editor
@@ -5916,6 +5917,7 @@
 
 ## Python 
 
+- [shiva](https://github.com/rastating/shiva) - An Ansible playbook to provision a host for penetration testing and CTF challenges
 - [jx-sqlite](https://github.com/mozilla/jx-sqlite) - JSON query expressions using SQLite
 - [pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
 - [voluptuous](https://github.com/alecthomas/voluptuous) - CONTRIBUTIONS ONLY: Voluptuous, despite the name, is a Python data validation library.
@@ -7670,6 +7672,7 @@
 - [dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you to keep the whole tree of password encrypted inside a tomb.
+- [plz.el](https://github.com/alphapapa/plz.el) - An HTTP library for Emacs
 - [ansible-manage-lvm](https://github.com/mrlesmithjr/ansible-manage-lvm) - 
 - [bash-dev-tcp](https://github.com/fijimunkii/bash-dev-tcp) - collection of scripts using /dev/tcp
 - [ngincat](https://github.com/jaburns/ngincat) - Tiny bash HTTP server using netcat
@@ -7746,7 +7749,7 @@
 - [heads](https://github.com/osresearch/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
 - [nginx2goaccess](https://github.com/stockrt/nginx2goaccess) - Convert Nginx log_format to goaccess config file
 - [ALEZ](https://github.com/danboid/ALEZ) - Arch Linux Easy ZFS installer
-- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A fast reimplementation of Powerlevel9k ZSH theme
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [elastiflow](https://github.com/robcowart/elastiflow) - Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack
 - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
@@ -8263,6 +8266,7 @@
 
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
 - [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast & beautiful API request builder (web alternative to Postman) https://postwoman.io 🔥
+- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
@@ -8285,6 +8289,7 @@
 
 ## Zig 
 
+- [learnopengl](https://github.com/cshenton/learnopengl) - https://learnopengl.com tutorials ported to zig
 - [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
