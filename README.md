@@ -252,7 +252,6 @@
 - [pam-MySQL](https://github.com/NigelCunningham/pam-MySQL) - PAM MySQL
 - [aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [dnsperf](https://github.com/DNS-OARC/dnsperf) - DNS Performance Testing Tools
-- [x16-emulator](https://github.com/commanderx16/x16-emulator) - Emulator for the Commander X16 8-bit computer
 - [libsixel](https://github.com/saitoha/libsixel) - A SIXEL encoder/decoder implementation derived from kmiya's sixel (https://github.com/saitoha/sixel).
 - [ngrep](https://github.com/jpr5/ngrep) - ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop.
 - [dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
@@ -1462,7 +1461,7 @@
 - [hunchentoot](https://github.com/edicl/hunchentoot) - Web server written in Common Lisp
 - [cl-shellwords](https://github.com/jorams/cl-shellwords) - Common Lisp library to escape strings for the shell, or split strings according to shell rules.
 - [cl-opengl](https://github.com/3b/cl-opengl) - cl-opengl is a set of CFFI bindings to the OpenGL, GLU and GLUT APIs.
-- [lem-opengl](https://github.com/gmasching/lem-opengl) - OpenGL frontend for the Lem text editor
+- [lem-opengl](https://github.com/gregcman/lem-opengl) - OpenGL frontend for the Lem text editor
 - [cl-repl](https://github.com/koji-kojiro/cl-repl) - A full-featured repl implementation designed to work with Roswell
 - [let-over-lambda](https://github.com/thephoeron/let-over-lambda) - Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.
 - [cl-steamworks](https://github.com/Shinmera/cl-steamworks) - A bindings library for the Valve SteamWorks API.
@@ -1487,8 +1486,8 @@
 - [cl-tutor](https://github.com/t-cool/cl-tutor) - Common Lisp learning system built on lem
 - [CotD](https://github.com/gwathlobal/CotD) - A Common Lisp roguelike game where Angels and Demons battle in the streets of a Human city
 - [ironclad](https://github.com/sharplispers/ironclad) - A cryptographic toolkit written in Common Lisp
-- [utility](https://github.com/gmasching/utility) - Yet another personal utility library
-- [sucle](https://github.com/gmasching/sucle) - Common Lisp Voxel Game Engine
+- [utility](https://github.com/gregcman/utility) - Yet another personal utility library
+- [sucle](https://github.com/gregcman/sucle) - Common Lisp Voxel Game Engine
 - [cl-sdl2](https://github.com/lispgames/cl-sdl2) - Common Lisp bindings for SDL2 using C2FFI.
 - [cells](https://github.com/kennytilton/cells) - A Common Lisp implementation of the dataflow programming paradigm
 - [Particle](https://github.com/Seteeri/Particle) - PicoLisp interface/userspace based on OpenGL
@@ -1643,6 +1642,8 @@
 
 ## Emacs Lisp 
 
+- [notmuch-unread](https://github.com/tmearnest/notmuch-unread) - Display unread mail count in the mode line
+- [ivy-clipmenu.el](https://github.com/wpcarro/ivy-clipmenu.el) - Ivy integration with cdown/clipmenu
 - [cexp](https://github.com/TobiasZawada/cexp) - 
 - [verb](https://github.com/federicotdn/verb) - Organize and send HTTP requests from Emacs
 - [clipetty](https://github.com/spudlyo/clipetty) - Manipulate the system (clip)board with (e)macs from a (tty)
@@ -1698,7 +1699,7 @@
 - [ssh-tunnels](https://github.com/death/ssh-tunnels) - Manage SSH tunnels from Emacs
 - [didyoumean](https://github.com/emacsmirror/didyoumean) - Did you mean to open another file?
 - [plain-org-wiki](https://github.com/abo-abo/plain-org-wiki) - Simple jump-to-org-files in a directory package
-- [emacs-conflicts](https://github.com/ibizaman/emacs-conflicts) - Resolve conflicts happening when using file synchronization tools
+- [emacs-conflict](https://github.com/ibizaman/emacs-conflict) - Resolve conflicts happening when using file synchronization tools
 - [apparmor-mode](https://github.com/alexmurray/apparmor-mode) - Emacs major mode for editing AppArmor Policies
 - [site.org](https://github.com/dmacvicar/site.org) - Website in org mode
 - [auto-dim-other-buffers](https://github.com/emacsmirror/auto-dim-other-buffers) - Makes non-current buffers less prominent
@@ -2177,7 +2178,7 @@
 - [lorikeem](https://github.com/CoherentLogic/lorikeem) - LorikeeM MUMPS Developer Tools for GNU Emacs
 - [spot4e](https://github.com/chiply/spot4e) - Emacs client for Spotify search and playback using helm
 - [prometheus-v1-rules-mode](https://github.com/magoyette/prometheus-v1-rules-mode) - An Emacs major mode for Prometheus rules.
-- [FG42](https://github.com/FG42/FG42) - Ultimate Emacs based IDE for true believers
+- [FG42](https://github.com/FG42/FG42) - Ultimate Emacs based IDE for true believers (It's a mirror from the main repository on http://gitlab.com/FG42/FG42 )
 - [carbon-now-sh.el](https://github.com/veelenga/carbon-now-sh.el) - Emacs to https://carbon.now.sh integration
 - [dtrt-indent](https://github.com/jscheid/dtrt-indent) - A minor mode that guesses the indentation offset originally used for creating source code files and transparently adjusts the corresponding settings in Emacs, making it more convenient to edit foreign files.
 - [discord-emacs.el](https://github.com/nitros12/discord-emacs.el) - Discord rich presence for emacs.
@@ -3422,6 +3423,7 @@
 - [binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go
 - [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
+- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [git-octopus](https://github.com/lesfurets/git-octopus) - The continuous merge workflow
 - [poussetaches](https://github.com/tsileo/poussetaches) - Lightweight asynchronous task execution service
 - [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
@@ -3585,7 +3587,7 @@
 - [nexus-cli](https://github.com/mlabouardy/nexus-cli) - Nexus CLI for Docker Registry v2 🐳
 - [tldr](https://github.com/mstruebing/tldr) - Golang command line client for tldr https://github.com/tldr-pages/tldr
 - [fugu](https://github.com/mattes/fugu) - Swiss Army knife for Docker
-- [gomi](https://github.com/b4b4r07/gomi) - 🗑️ Trash can in CLI
+- [gomi](https://github.com/b4b4r07/gomi) - 🗑️ Replacement for UNIX rm command!
 - [github-release](https://github.com/c4milo/github-release) - Simple Github release command line tool
 - [netns](https://github.com/genuinetools/netns) - Runc hook (OCI compatible) for setting up default bridge networking for containers.
 - [jl](https://github.com/koenbollen/jl) - jl — JSON Logs, a development tool for working with structured JSON logging.
@@ -3653,7 +3655,7 @@
 - [render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
 - [boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
-- [dnote](https://github.com/dnote/dnote) - A personal knowledge base for programmers
+- [dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
 - [slackcat](https://github.com/bcicen/slackcat) - CLI utility to post files and command output to slack
 - [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive prompts with full support for windows and posix terminals.
@@ -5150,7 +5152,6 @@
 - [nix-docker](https://github.com/LnL7/nix-docker) - Docker images for the Nix package manager
 - [wordpress-nginx-nix](https://github.com/grafted-in/wordpress-nginx-nix) - One-stop shop for defining, testing, and deploying a WordPress CMS site using Nginx with Nix, NixOps, and NixOS
 - [kubenix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using nix
-- [lorri](https://github.com/target/lorri) - Your project's nix-env
 - [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS.
 - [nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [nixpkgs-channels](https://github.com/NixOS/nixpkgs-channels) - A read-only mirror of NixOS/nixpkgs tracking the released channels. Send issues and PRs to
@@ -7085,7 +7086,7 @@
 - [Diamond](https://github.com/python-diamond/Diamond) - Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
 - [ytfs](https://github.com/rasguanabana/ytfs) - YouTube File System
 - [pinry](https://github.com/pinry/pinry) - The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
-- [gitless](https://github.com/sdg-mit/gitless) - A version control system built on top of Git
+- [gitless](https://github.com/gitless-vcs/gitless) - A version control system built on top of Git
 - [Mathics](https://github.com/mathics/Mathics) - a general-purpose computer algebra system
 - [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and europeandataportal.eu/data/en/dataset among many other sites.
 - [quokka](https://github.com/quokkaproject/quokka) - LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
@@ -7589,6 +7590,7 @@
 - [emacs-yamlmod](https://github.com/perfectayush/emacs-yamlmod) - Emacs dynamic module to parse yaml written in Rust
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [lorri](https://github.com/target/lorri) - Your project's nix-env
 - [rusty-tags](https://github.com/dan-t/rusty-tags) - Create ctags/etags for a cargo project
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [memory-profiler](https://github.com/koute/memory-profiler) - 
@@ -8509,7 +8511,6 @@
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
 - [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast & beautiful API request builder (web alternative to Postman) https://postwoman.io 🔥
-- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
