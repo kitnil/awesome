@@ -337,7 +337,6 @@
 - [dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
 - [yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [raylib-lua](https://github.com/raysan5/raylib-lua) - A simple and easy-to-use Lua library to enjoy videogames programming
-- [engine](https://github.com/mgerhardy/engine) - Home of a voxel game engine and its tools (like a voxel editor)
 - [openswe1r](https://github.com/OpenSWE1R/openswe1r) - An Open-Source port of the 1999 Game "Star Wars Episode 1: Racer"
 - [exengine](https://github.com/exezin/exengine) - A C99 3D game engine
 - [qfusion](https://github.com/Qfusion/qfusion) - Source code for cross-platform OpenGL gaming engine
@@ -967,6 +966,7 @@
 - [xrtl](https://github.com/google/xrtl) - Cross-platform Real-Time Rendering Library
 - [DustRacing2D](https://github.com/juzzlin/DustRacing2D) - Dust Racing 2D is a traditional top-down car racing game including a level editor.
 - [Rubeus](https://github.com/sdslabs/Rubeus) - A cross platform 2D game engine written in C++ for beginners
+- [engine](https://github.com/mgerhardy/engine) - Home of a voxel game engine and its tools (like a voxel editor)
 - [Doomsday-Engine](https://github.com/skyjake/Doomsday-Engine) - A portable, enhanced source port of Doom, Heretic and Hexen.
 - [xray-15](https://github.com/OpenXRay/xray-15) - X-Ray Engine 1.5 expansion. Original version was used in S.T.A.L.K.E.R.: Clear Sky.
 - [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) - 3D strange attractors GPU scout and hypercomplex fractals - over 200 Million particles
@@ -3798,6 +3798,7 @@
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [poseidon](https://github.com/Qihoo360/poseidon) - A search engine which can hold 100 trillion lines of log data.
 - [magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
+- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [flint](https://github.com/pengwynn/flint) - Check your project for common sources of contributor friction.
 - [linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
@@ -6845,7 +6846,6 @@
 - [grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them.
 - [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [cumodoro](https://github.com/gisodal/cumodoro) - Curses interface to pomodoro timer
-- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [openstack](https://github.com/openstack/openstack) - Repository containing OpenStack repositories
 - [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [atmosphere](https://github.com/cyverse/atmosphere) - Where cloud lives.
