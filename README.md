@@ -1501,7 +1501,7 @@
 - [sandalphon.lambda-list](https://github.com/Bike/sandalphon.lambda-list) - CL Lambda list parsing and usage
 - [ulubis](https://github.com/malcolmstill/ulubis) - A Wayland compositor written in Common Lisp
 - [roswell](https://github.com/roswell/roswell) - intended to be a launcher for a major lisp environment that just works.
-- [cl-webkit](https://github.com/jmercouris/cl-webkit) - A binding to WebKitGTK+ for Common Lisp
+- [cl-webkit](https://github.com/atlas-engineer/cl-webkit) - A binding to WebKitGTK+ for Common Lisp
 - [cl-activitypub](https://github.com/jfmcbrayer/cl-activitypub) - An ActivityPub implementation in Common Lisp
 - [jscl](https://github.com/jscl-project/jscl) - A Lisp-to-Javascript compiler bootstrapped from Common Lisp
 - [sedlisp](https://github.com/shinh/sedlisp) - Lisp implementation in sed
@@ -1642,6 +1642,13 @@
 
 ## Emacs Lisp 
 
+- [emacs-php-doc-block](https://github.com/moskalyovd/emacs-php-doc-block) - PHPDocBlock generator
+- [elgantt](https://github.com/legalnonsense/elgantt) - A Gantt Chart (Calendar) for Org Mode
+- [org-deadsync](https://github.com/legalnonsense/org-deadsync) - Sync deadlines in orgmode files
+- [org-agenda-show-deadlines](https://github.com/legalnonsense/org-agenda-show-deadlines) - Show deadlines in org-agenda buffers
+- [org-mode](https://github.com/bzg/org-mode) - Org mode
+- [org-graph-view](https://github.com/alphapapa/org-graph-view) - View Org buffers as a clickable, graphical mind-map
+- [ob-kubectl](https://github.com/ifitzpat/ob-kubectl) - 
 - [notmuch-unread](https://github.com/tmearnest/notmuch-unread) - Display unread mail count in the mode line
 - [ivy-clipmenu.el](https://github.com/wpcarro/ivy-clipmenu.el) - Ivy integration with cdown/clipmenu
 - [cexp](https://github.com/TobiasZawada/cexp) - 
@@ -3198,7 +3205,7 @@
 - [flx](https://github.com/lewang/flx) - Fuzzy matching for Emacs ... a la Sublime Text.
 - [ergoemacs-mode](https://github.com/ergoemacs/ergoemacs-mode) - ergoemacs-mode
 - [cdlatex](https://github.com/cdominik/cdlatex) - Fast input methods to enter LaTeX environments and math with GNU Emacs
-- [emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme) - Awesome Emacs color theme for white backgrounds --- Added in Emacs 24.4
+- [emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme) - Awesome Emacs color theme for white backgrounds --- Added in Emacs 24.4+
 - [paradox](https://github.com/Malabarba/paradox) - Project for modernizing Emacs' Package Menu. With package ratings, usage statistics, customizability, and more.
 - [smartparens](https://github.com/Fuco1/smartparens) - Minor mode for Emacs that deals with parens pairs and tries to be smart about it.
 - [toc-org](https://github.com/snosov1/toc-org) - toc-org is an Emacs utility to have an up-to-date table of contents in the org files without exporting (useful primarily for readme files on GitHub)
@@ -4940,6 +4947,7 @@
 
 ## Jupyter Notebook 
 
+- [cl-jupyter](https://github.com/fredokun/cl-jupyter) - An enhanced interactive Shell for Common Lisp (based on the Jupyter protocol)
 - [jupyter-book](https://github.com/jupyter/jupyter-book) - Create an online book with Jupyter Notebooks and Jekyll
 - [imongo](https://github.com/gusutabopb/imongo) - A MongoDB kernel for Jupyter
 - [jupyterWith](https://github.com/tweag/jupyterWith) - declarative and reproducible Jupyter environments - powered by Nix
@@ -5134,6 +5142,7 @@
 
 ## Nix 
 
+- [nixos-mailserver](https://github.com/flyingcircusio/nixos-mailserver) - Fork of https://gitlab.com/simple-nixos-mailserver/nixos-mailserver
 - [musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
 - [nix-syntax-for-mcedit](https://github.com/svanderburg/nix-syntax-for-mcedit) - Nix expression syntax highlighter for mcedit
@@ -5195,6 +5204,7 @@
 
 ## Others 
 
+- [vulnix.whitelist](https://github.com/flyingcircusio/vulnix.whitelist) - A custom whitelist for vulnix
 - [awesome-nosql-guides](https://github.com/erictleung/awesome-nosql-guides) - :computer: Curated list of awesome resources and links about using NoSQL databases
 - [awesome-container-security](https://github.com/kai5263499/awesome-container-security) - Awesome list of resources related to container security
 - [cfp-list](https://github.com/web-standards-ru/cfp-list) - Конференции по фронтенду, принимающие доклады на русском языке
@@ -6360,7 +6370,7 @@
 - [faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
 - [ansible-meta-dynamic-inventory](https://github.com/iautom8things/ansible-meta-dynamic-inventory) - Naming is hard.  This wrapper script allows you to use set notation with dynamic host groups.
 - [automatron](https://github.com/madflojo/automatron) - Infrastructure monitoring framework turning DevOps runbooks into automated actions
-- [webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 网页版rz/sz上传下载 django
+- [webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 网页版rz/sz上传下载/动态口令 django
 - [shellver](https://github.com/0xR0/shellver) - Reverse Shell Cheat Sheet TooL
 - [hack-tools](https://github.com/hacktoolspack/hack-tools) - hack tools
 - [zeroclickinfo-fathead](https://github.com/duckduckgo/zeroclickinfo-fathead) - DuckDuckGo Instant Answers based on keyword data files
