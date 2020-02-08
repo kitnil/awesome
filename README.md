@@ -1250,7 +1250,7 @@
 - [android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux
 - [cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD Client
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
-- [libdnf](https://github.com/rpm-software-management/libdnf) - Software management library.
+- [libdnf](https://github.com/rpm-software-management/libdnf) - Package management library.
 
 ## CMake 
 
@@ -1642,6 +1642,9 @@
 
 ## Emacs Lisp 
 
+- [emacsit](https://github.com/SidharthArya/emacsit) - A Toy Package Manager for Emacs.
+- [metapost-png-preview](https://github.com/johanvts/metapost-png-preview) - png-based preview of metapost in emacs.
+- [command-center](https://github.com/lukaszkorecki/command-center) - ~/.emacs.d & ~/.bashrc & more
 - [emacs-php-doc-block](https://github.com/moskalyovd/emacs-php-doc-block) - PHPDocBlock generator
 - [elgantt](https://github.com/legalnonsense/elgantt) - A Gantt Chart (Calendar) for Org Mode
 - [org-deadsync](https://github.com/legalnonsense/org-deadsync) - Sync deadlines in orgmode files
@@ -3291,7 +3294,7 @@
 - [krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [gotestsum](https://github.com/gotestyourself/gotestsum) - `go test` runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
-- [g-fu](https://github.com/codr7/g-fu) - Lisp to Go
+- [g-fu](https://github.com/codr7/g-fu) - Lisp 2 Go
 - [prealloc](https://github.com/alexkohler/prealloc) - prealloc is a Go static analysis tool to find slice declarations that could potentially be preallocated.
 - [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
 - [gosec](https://github.com/securego/gosec) - Golang security checker
@@ -4474,6 +4477,7 @@
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [ws-repl](https://github.com/rowanthorpe/ws-repl) - Arbitrary REPL in a web-page using websocketd
 - [janeway](https://github.com/11ways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
+- [ocsms](https://github.com/nextcloud/ocsms) - 📱 Nextcloud/ownCloud PhoneSync server application
 - [kulfon](https://github.com/kulfonjs/kulfon) - :japanese_ogre: :frog: JavaScript static site generator with Org Mode & Markdown support  (α) :boom:
 - [scihub-firefox](https://github.com/bekicot/scihub-firefox) - Open scihub page in a new tab for current page's url.
 - [KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - This is **DEPRECATED**! Please go to https://github.com/kiwiirc/kiwiirc
@@ -5915,7 +5919,6 @@
 - [php-malware-scanner](https://github.com/scr34m/php-malware-scanner) - Scans PHP files for malwares and known threats
 - [PsyshBundle](https://github.com/theofidry/PsyshBundle) - A command line REPL bundle for Symfony using PsySH.
 - [Jupyter-PHP](https://github.com/Litipk/Jupyter-PHP) - A PHP Kernel for Jupyter
-- [ocsms](https://github.com/nextcloud/ocsms) - 📱 Nextcloud/ownCloud PhoneSync server application
 - [iniscan](https://github.com/psecio/iniscan) - A php.ini scanner for best security practices
 - [wp-super-cache](https://github.com/Automattic/wp-super-cache) - A very fast caching engine for WordPress that produces static html files.
 - [keep-a-changelog](https://github.com/phly/keep-a-changelog) - Tools for manipulating CHANGELOG.md files in Keep A Changelog format, including tagging and releasing.
@@ -7770,6 +7773,7 @@
 
 ## Shell 
 
+- [git-issue](https://github.com/dspinellis/git-issue) - Git-based decentralized issue management
 - [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +4.1K awesome resources for geeks and software crafters :beer:
 - [gherkin](https://github.com/alandipert/gherkin) - a functional programming language and interpreter written in GNU Bash 4
 - [flk](https://github.com/chr15m/flk) - A LISP that runs wherever Bash is
