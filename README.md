@@ -161,6 +161,9 @@
 
 ## C 
 
+- [tine](https://github.com/deadpixi/tine) - tine - a modern clone of the AmigaDOS/TRIPOS ED display editor
+- [mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
+- [jshon](https://github.com/keenerd/jshon) - Jshon is a JSON parser designed for maximum convenience within the shell.
 - [gvt-linux](https://github.com/intel/gvt-linux) - 
 - [awesome-nginx](https://github.com/agile6v/awesome-nginx) - A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
@@ -1349,6 +1352,7 @@
 
 ## Clojure 
 
+- [babashka](https://github.com/borkdude/babashka) - A Clojure babushka for the grey areas of Bash.
 - [bidi](https://github.com/juxt/bidi) - Bidirectional URI routing
 - [tools.cli](https://github.com/clojure/tools.cli) - Command-line processing
 - [clojure-mail](https://github.com/owainlewis/clojure-mail) - A Clojure library for parsing, downloading and reading email from IMAP servers.
@@ -2154,7 +2158,7 @@
 - [pcre2el](https://github.com/joddie/pcre2el) - convert between PCRE, Emacs and rx regexp syntax
 - [e2ansi](https://github.com/Lindydancer/e2ansi) - Syntax highlighting for `less`, powered by Emacs
 - [dired-sidebar](https://github.com/jojojames/dired-sidebar) - Sidebar for Emacs leveraging Dired
-- [adafruit-wisdom.el](https://github.com/gonewest818/adafruit-wisdom.el) - elisp package to grab a quote at random from adafruit.com
+- [adafruit-wisdom.el](https://github.com/gonewest818/adafruit-wisdom.el) - Grab a quote at random from adafruit.com
 - [org-chef](https://github.com/Chobbes/org-chef) - A package for making a cookbook and managing recipes with org-mode.
 - [org-fancy-priorities](https://github.com/harrybournis/org-fancy-priorities) - Display Org Mode priorities as custom strings
 - [minions](https://github.com/tarsius/minions) - A minor-mode menu for the mode line
@@ -2204,7 +2208,7 @@
 - [kotlin-mode](https://github.com/Emacs-Kotlin-Mode-Maintainers/kotlin-mode) - Kotlin major mode for Emacs
 - [dimmer.el](https://github.com/gonewest818/dimmer.el) - Interactively highlight which buffer is active by dimming the others.
 - [quickfix-mode](https://github.com/ulises/quickfix-mode) - A quickfix mode for emacs.
-- [elisp-lint](https://github.com/gonewest818/elisp-lint) - basic linting for Emacs Lisp
+- [elisp-lint](https://github.com/gonewest818/elisp-lint) - Basic linting for Emacs Lisp
 - [flycheck-dmd-dub](https://github.com/atilaneves/flycheck-dmd-dub) - flycheck and DCD dub support to enable D IDE features in Emacs
 - [emacs-wilt](https://github.com/sixty-north/emacs-wilt) - Extension for calculating WILT metrics in emacs.
 - [glyphwiki-afdko](https://github.com/kawabata/glyphwiki-afdko) - Glyphwiki Font Generator with AFDKO
@@ -2394,7 +2398,7 @@
 - [unify-opening](https://github.com/DamienCassou/unify-opening) - Emacs package to make everything use the same mechanism to open files
 - [xwidgete](https://github.com/tuhdo/xwidgete) - Enhance usability for Xwidget browser in Emacs 25
 - [flyspell-correct](https://github.com/d12frosted/flyspell-correct) - Distraction-free words correction with flyspell via selected interface.
-- [elfeed-protocol](https://github.com/fasheng/elfeed-protocol) - Provide extra protocols to make like ownCloud News, Tiny Tiny RSS and NewsBlur work with elfeed
+- [elfeed-protocol](https://github.com/fasheng/elfeed-protocol) - Provide extra protocols to make like Fever, NewsBlur, Nextcloud/ownCloud News and Tiny Tiny RSS work with elfeed
 - [ruby-extra-highlight](https://github.com/Lindydancer/ruby-extra-highlight) - Highlight Ruby parameters in Emacs
 - [simple-paren](https://github.com/andreas-roehler/simple-paren) - Insert paired delimiters, wrap symbols in front maybe
 - [emacs-fish-completion](https://github.com/Ambrevar/emacs-fish-completion) - [MOVED TO GITLAB]
@@ -3267,6 +3271,7 @@
 
 ## Go 
 
+- [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) - Go Peerflix
 - [awesome-podcasts](https://github.com/pbnj/awesome-podcasts) - A collection of awesome engineering podcasts 🎙
 - [go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient
@@ -3417,7 +3422,7 @@
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [gnet](https://github.com/panjf2000/gnet) - 🚀gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
-- [terraform-provider-null](https://github.com/terraform-providers/terraform-provider-null) - Terraform null provider
+- [terraform-provider-null](https://github.com/hashicorp/terraform-provider-null) - Terraform null provider
 - [go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert go test output to junit xml
 - [slipscheme](https://github.com/coryb/slipscheme) - Json Schema to Go Struct conversion tool
 - [echoip](https://github.com/mpolden/echoip) - IP address lookup service
@@ -3861,6 +3866,8 @@
 
 ## Groovy 
 
+- [functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy
+- [awesome-groovy](https://github.com/kdabir/awesome-groovy) - A curated list of awesome groovy libraries, frameworks and resources
 - [docker-registry-ui](https://github.com/atcol/docker-registry-ui) - A web frontend/UI for easy private/local Docker Registry integration
 - [job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs - Sweeeeet!
 - [wolox-ci](https://github.com/Wolox/wolox-ci) - 
@@ -3993,6 +4000,9 @@
 
 ## Haskell 
 
+- [HaLVM](https://github.com/GaloisInc/HaLVM) - The Haskell Lightweight Virtual Machine (HaLVM): GHC running on Xen
+- [grenade](https://github.com/HuwCampbell/grenade) - Deep Learning in Haskell
+- [cardano-sl](https://github.com/input-output-hk/cardano-sl) - Cryptographic currency implementing Ouroboros PoS protocol
 - [discord-haskell](https://github.com/aquarial/discord-haskell) - Haskell library for writing Discord bots
 - [asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
 - [ormolu](https://github.com/tweag/ormolu) - A formatter for Haskell source code
@@ -4134,6 +4144,10 @@
 
 ## Java 
 
+- [spotless](https://github.com/diffplug/spotless) - Keep your code spotless
+- [configuration-as-code-groovy-plugin](https://github.com/jenkinsci/configuration-as-code-groovy-plugin) - Extension for Jenkins Configuration-as-Code plugin that allows running Groovy scripts
+- [picocli](https://github.com/remkop/picocli) - Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc.
+- [nginx-clojure](https://github.com/nginx-clojure/nginx-clojure) - Nginx module for embedding Clojure or Java or Groovy programs, typically those Ring based handlers.
 - [statistics-gatherer-plugin](https://github.com/jenkinsci/statistics-gatherer-plugin) - Jenkins plugin to capture queue and build statistics
 - [jgrapht](https://github.com/jgrapht/jgrapht) - Master repository for the JGraphT project
 - [30-seconds-of-java](https://github.com/shekhargulati/30-seconds-of-java) - Curated collection of useful little Java functions that you can understand quickly
@@ -4296,6 +4310,7 @@
 
 ## JavaScript 
 
+- [browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [30-seconds-of-angular](https://github.com/30-seconds/30-seconds-of-angular) - [WIP] Curated collection of Angular snippets that you can understand in 30 seconds or less
 - [awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor) - 🔨  Open source WEB editor summary
 - [awesome-captcha](https://github.com/ZYSzys/awesome-captcha) - :key: Curated list of awesome captcha libraries and crack tools.
@@ -4627,6 +4642,7 @@
 - [native-client](https://github.com/belaviyo/native-client) - This is a node wrapper for Native Messaging for Windows, Linux, and Mac OS.
 - [etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: real-time collaborative document editor
 - [multitwitch](https://github.com/bhamrick/multitwitch) - Multiple twitch streams on one page
+- [emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) - Emacs application framework
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [short-memo](https://github.com/kusabashira/short-memo) - Show short message on top bar
@@ -5042,6 +5058,7 @@
 
 ## Lua 
 
+- [nvimux](https://github.com/Vigemus/nvimux) - Neovim as a TMUX replacement
 - [hw](https://github.com/hedgewars/hw) - Official Hedgewars mirror for GitHub!
 - [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices) - 
 - [digestif](https://github.com/astoff/digestif) - A language server for LaTeX
@@ -5151,6 +5168,7 @@
 
 ## Nix 
 
+- [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [stack2nix](https://github.com/input-output-hk/stack2nix) - Generate nix expressions for Haskell projects
 - [nixos-mailserver](https://github.com/flyingcircusio/nixos-mailserver) - Fork of https://gitlab.com/simple-nixos-mailserver/nixos-mailserver
 - [musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
@@ -5823,6 +5841,7 @@
 - [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
 - [flatpak-docs](https://github.com/flatpak/flatpak-docs) - Flatpak documentation
+- [emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with lots of features.
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [kali-nethunter](https://github.com/offensive-security/kali-nethunter) - The Kali NetHunter Project
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
@@ -6146,6 +6165,7 @@
 
 ## Python 
 
+- [bridgy](https://github.com/wagoodman/bridgy) - cloud inventory + ssh + tmux + sshfs
 - [devblogs](https://github.com/abdelhai/devblogs) - +2600 developer-related blogs and publications.
 - [awesome-dash](https://github.com/ucg8j/awesome-dash) - A curated list of awesome Dash (plotly) resources
 - [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
@@ -6285,7 +6305,7 @@
 - [PySixel](https://github.com/saitoha/PySixel) - View full-pixel color graphics on SIXEL-supported terminals(xterm/mlterm/DECterm/Reflection/kermit/RLogin/tanasinn/yaft)
 - [docker-registry-diff](https://github.com/mnp/docker-registry-diff) - Standalone tool to determine if several private docker registries are in sync
 - [stapler](https://github.com/hellerbarde/stapler) - A small utility making use of the pypdf library to provide a (somewhat) lighter alternative to pdftk
-- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deep fakes.
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem wrapper for the reMarkable tablet
 - [faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
@@ -6680,7 +6700,6 @@
 - [repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
-- [emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) - Emacs application framework
 - [gif-for-cli](https://github.com/google/gif-for-cli) - 
 - [udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
@@ -6955,7 +6974,6 @@
 - [monitorrent](https://github.com/werwolfby/monitorrent) - Automatic torrents downloader
 - [Magnet2Torrent](https://github.com/danfolkes/Magnet2Torrent) - This will convert a magnet link into a .torrent file
 - [Pext](https://github.com/Pext/Pext) - Python-based extendable tool
-- [emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux.
 - [rpmdeplint](https://github.com/default-to-open/rpmdeplint) - Tool to find errors in RPM packages in the context of their dependency graph (mirror)
 - [autotest-docker](https://github.com/autotest/autotest-docker) - Autotest client test containing functional & integration subtests for the Docker project
 - [koschei](https://github.com/fedora-infra/koschei) - Continuous integration for Fedora packages
@@ -7778,6 +7796,10 @@
 
 ## Shell 
 
+- [tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
+- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments.
+- [monkeysphere](https://github.com/dkg/monkeysphere) - use the OpenPGP web of trust to verify ssh connections
+- [JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [fontpreview](https://github.com/sdushantha/fontpreview) - 🔡 Highly customizable and minimal font previewer written in bash
 - [git-issue](https://github.com/dspinellis/git-issue) - Git-based decentralized issue management
 - [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +4.1K awesome resources for geeks and software crafters :beer:
