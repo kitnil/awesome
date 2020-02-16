@@ -4150,6 +4150,7 @@
 
 ## Java 
 
+- [next-executions-plugin](https://github.com/jenkinsci/next-executions-plugin) - 
 - [spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [configuration-as-code-groovy-plugin](https://github.com/jenkinsci/configuration-as-code-groovy-plugin) - Extension for Jenkins Configuration-as-Code plugin that allows running Groovy scripts
 - [picocli](https://github.com/remkop/picocli) - Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc.
@@ -7483,7 +7484,7 @@
 - [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
 - [ssh_scan](https://github.com/mozilla/ssh_scan) - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
 - [goby](https://github.com/nskins/goby) - Command-line role-playing game framework
-- [reveal-ck](https://github.com/jedcn/reveal-ck) - Create slides with markdown
+- [reveal-ck](https://github.com/jedcn/reveal-ck) - Create slides with ruby (and usually in markdown)
 - [tty-markdown](https://github.com/piotrmurach/tty-markdown) - Convert a markdown document or text into a terminal friendly output.
 - [dockrails](https://github.com/gmontard/dockrails) - Simple CLI to Generate and Run a Rails environment with Docker (in Development) !
 - [tty-command](https://github.com/piotrmurach/tty-command) - Execute shell commands with pretty output logging and capture stdout, stderr and exit status.
