@@ -1,7 +1,7 @@
 pipeline {
     agent any
     triggers {
-        cron("0 21 * * *")
+        cron("H 15 * * *")
     }
     stages {
         stage("Update README.md") {
