@@ -161,6 +161,8 @@
 
 ## C 
 
+- [PWMAngband](https://github.com/draconisPW/PWMAngband) - A free, multi-player roguelike dungeon exploration game based on Angband
+- [OpenSource](https://github.com/w23/OpenSource) - Load Source games maps into giant "open world" meshes
 - [tine](https://github.com/deadpixi/tine) - tine - a modern clone of the AmigaDOS/TRIPOS ED display editor
 - [mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
 - [jshon](https://github.com/keenerd/jshon) - Jshon is a JSON parser designed for maximum convenience within the shell.
@@ -233,7 +235,7 @@
 - [python_lite](https://github.com/fy0/python_lite) - [WIP] A simple, lightweight implementation of python3 language.
 - [s](https://github.com/rain-1/s) - the s shell
 - [my_basic](https://github.com/paladin-t/my_basic) - Lightweight BASIC interpreter written in standard C in dual files. Aimed to be embeddable, extendable and portable.
-- [q3vm](https://github.com/jnz/q3vm) - Q3VM - Embeddable bytecode virtual machine/interpreter for C-language input
+- [q3vm](https://github.com/jnz/q3vm) - Q3VM - Single file (vm.c) bytecode virtual machine/interpreter for C-language input
 - [bic](https://github.com/hexagonal-sun/bic) - A C interpreter and API explorer.
 - [simple.vm](https://github.com/skx/simple.vm) - Simple virtual machine which inteprets bytecode.
 - [freetalk](https://github.com/GNUFreetalk/freetalk) - Console based messenger for Google Hangout, Jabber and XMPP based services.
@@ -635,7 +637,7 @@
 - [firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [libmypaint](https://github.com/mypaint/libmypaint) - libmypaint, a.k.a. "brushlib", is a library for making brushstrokes which is used by MyPaint and other projects.
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
-- [mathc](https://github.com/felselva/mathc) - Pure C math library for 2D and 3D programming. [[ Currently working on a major update (20 Jul 2019) ]]
+- [mathc](https://github.com/felselva/mathc) - Pure C math library for 2D and 3D programming
 - [windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) - windows-kernel-exploits   Windows平台提权漏洞集合
 - [TorProxy](https://github.com/r-a-w/TorProxy) - TorProxy is a tool which uses netfilter hooks in the linux kernel to route all network traffic through the Tor network
 - [darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
@@ -1627,6 +1629,7 @@
 - [docker-emacs](https://github.com/Silex/docker-emacs) - Run Emacs in docker containers!
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [guix-docker](https://github.com/rudolfolah/guix-docker) - Dockerfile for GNU Guix
+- [stackage](https://github.com/commercialhaskell/stackage) - "Stable Hackage": vetted consistent packages from Hackage
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [laradock](https://github.com/laradock/laradock) - The (most popular) full PHP development environment for Docker.
 - [docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
@@ -1648,6 +1651,8 @@
 
 ## Emacs Lisp 
 
+- [vcard](https://github.com/emacsmirror/vcard) - Utilities for working with vCard files
+- [org-el-cache](https://github.com/l3kn/org-el-cache) - Persistent cache for data derived from org-elements
 - [emacsit](https://github.com/SidharthArya/emacsit) - A Toy Package Manager for Emacs.
 - [metapost-png-preview](https://github.com/johanvts/metapost-png-preview) - png-based preview of metapost in emacs.
 - [command-center](https://github.com/lukaszkorecki/command-center) - ~/.emacs.d & ~/.bashrc & more
@@ -3307,6 +3312,7 @@
 - [prealloc](https://github.com/alexkohler/prealloc) - prealloc is a Go static analysis tool to find slice declarations that could potentially be preallocated.
 - [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
 - [gosec](https://github.com/securego/gosec) - Golang security checker
+- [nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering
 - [wash](https://github.com/puppetlabs/wash) - Wide Area SHell: a cloud-native shell for bringing remote infrastructure to your terminal.
 - [vsh](https://github.com/fishi0x01/vsh) - vsh - HashiCorp Vault interactive shell
@@ -3400,7 +3406,7 @@
 - [depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
 - [goviz](https://github.com/hirokidaichi/goviz) - a visualization tool for golang project dependency
 - [facette](https://github.com/facette/facette) - Time series data visualization software
-- [orchestrator](https://github.com/github/orchestrator) - MySQL replication topology management and HA
+- [orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
 - [orchestrator](https://github.com/outbrain/orchestrator) - MySQL replication topology manager/visualizer
 - [dockviz](https://github.com/justone/dockviz) - Visualizing Docker data
 - [depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
@@ -7433,6 +7439,7 @@
 
 ## Ruby 
 
+- [mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mastodon and Twitter
 - [machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby) - Curated list: Resources for machine learning in Ruby
 - [awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [Portus](https://github.com/SUSE/Portus) - Authorization service and frontend for Docker registry (v2)
@@ -7595,6 +7602,7 @@
 
 ## Rust 
 
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - An experimental Rust compiler front-end for IDEs
 - [mainframer](https://github.com/buildfoundation/mainframer) - Tool for remote builds. Sync project to remote machine, execute command, sync back.
 - [json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
@@ -7796,6 +7804,7 @@
 
 ## Shell 
 
+- [nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
 - [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments.
 - [monkeysphere](https://github.com/dkg/monkeysphere) - use the OpenPGP web of trust to verify ssh connections
@@ -8191,7 +8200,6 @@
 - [portacle](https://github.com/portacle/portacle) - A portable common lisp development environment
 - [dotfiles](https://github.com/hrs/dotfiles) - Let's be honest: mostly Emacs.
 - [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Regolith Linux, i3, Kitty, fish, Neovim and more
-- [stackage](https://github.com/commercialhaskell/stackage) - "Stable Hackage": vetted consistent packages from Hackage
 - [pentestpackage](https://github.com/leonteale/pentestpackage) - a package of Pentest scripts I have made or  commonly use
 - [Meterpreter_Paranoid_Mode-SSL](https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL) - Meterpreter Paranoid Mode - SSL/TLS connections
 - [opam-repository](https://github.com/ocaml/opam-repository) - Main public package repository for OPAM, the source package manager of OCaml.
@@ -8407,7 +8415,6 @@
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 - [forget-me-not](https://github.com/Lusito/forget-me-not) - Make the browser forget website data, except for the data you want to keep.
 - [codelyzer](https://github.com/mgechev/codelyzer) - Static analysis for Angular projects.
-- [nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from "terraform plan" and converting it to JSON.
