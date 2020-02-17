@@ -234,7 +234,7 @@
 - [lpp-vita](https://github.com/Rinnegatamante/lpp-vita) - Lua Player Plus for PSVITA. Documentation on: http://rinnegatamante.github.io/lpp-vita/
 - [python_lite](https://github.com/fy0/python_lite) - [WIP] A simple, lightweight implementation of python3 language.
 - [s](https://github.com/rain-1/s) - the s shell
-- [my_basic](https://github.com/paladin-t/my_basic) - Lightweight BASIC interpreter written in standard C in dual files. Aimed to be embeddable, extendable and portable.
+- [my_basic](https://github.com/paladin-t/my_basic) - A lightweight BASIC interpreter written in standard C in dual files. Aimed to be embeddable, extendable and portable.
 - [q3vm](https://github.com/jnz/q3vm) - Q3VM - Single file (vm.c) bytecode virtual machine/interpreter for C-language input
 - [bic](https://github.com/hexagonal-sun/bic) - A C interpreter and API explorer.
 - [simple.vm](https://github.com/skx/simple.vm) - Simple virtual machine which inteprets bytecode.
@@ -8441,7 +8441,7 @@
 - [polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
 - [quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
