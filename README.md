@@ -392,7 +392,6 @@
 - [Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
-- [nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
 - [Interplanetary-Postal-Service](https://github.com/s-macke/Interplanetary-Postal-Service) - Lunar lander type game with computational fluid dynamics
 - [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing.
 - [ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
@@ -481,6 +480,7 @@
 - [libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files.
 - [vmprof-python](https://github.com/vmprof/vmprof-python) - vmprof - a statistical program profiler
 - [mini-c](https://github.com/Fedjmike/mini-c) - Dr Strangehack, or: how to write a self-hosting C compiler in 10 hours
+- [bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
 - [atheme](https://github.com/atheme/atheme) - Atheme IRC Services
 - [2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [gimp-plugin-bimp](https://github.com/alessandrofrancesconi/gimp-plugin-bimp) - BIMP. Batch Image Manipulation Plugin for GIMP.
@@ -900,7 +900,7 @@
 - [powertop](https://github.com/fenrus75/powertop) - The Linux PowerTOP tool  -- please post patches to the mailing list instead of using github pull requests
 - [devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
-- [lgogdownloader](https://github.com/Sude-/lgogdownloader) - LGOGDownloader is unofficial downloader to GOG.com for Linux users. It uses the same API as the official GOGDownloader.
+- [lgogdownloader](https://github.com/Sude-/lgogdownloader) - LGOGDownloader is unofficial downloader to GOG.com for Linux users. It uses the same API as the official GOG Galaxy.
 - [serenity](https://github.com/SerenityOS/serenity) - Serenity Operating System
 - [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [blend2d](https://github.com/blend2d/blend2d) - 2D Vector Graphics Engine Powered by a JIT Compiler
@@ -1137,7 +1137,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.2.5.32978, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.3.0.33369, 3.3.5 = 3.3.5a.12340)
 - [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -1652,7 +1652,6 @@
 ## Emacs Lisp 
 
 - [vcard](https://github.com/emacsmirror/vcard) - Utilities for working with vCard files
-- [org-el-cache](https://github.com/l3kn/org-el-cache) - Persistent cache for data derived from org-elements
 - [emacsit](https://github.com/SidharthArya/emacsit) - A Toy Package Manager for Emacs.
 - [metapost-png-preview](https://github.com/johanvts/metapost-png-preview) - png-based preview of metapost in emacs.
 - [command-center](https://github.com/lukaszkorecki/command-center) - ~/.emacs.d & ~/.bashrc & more
@@ -3278,7 +3277,7 @@
 
 - [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) - Go Peerflix
-- [awesome-podcasts](https://github.com/pbnj/awesome-podcasts) - A collection of awesome engineering podcasts 🎙
+- [awesome-podcasts](https://github.com/pbnj/awesome-podcasts) - 🎙 A collection of awesome engineering podcasts! ARCHIVED in favor of https://github.com/rShetty/awesome-podcasts
 - [go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient
 - [awesome-go-linters](https://github.com/golangci/awesome-go-linters) - A curated list of awesome Go linters. More than 60 linters and tools!
 - [docket](https://github.com/netvarun/docket) - Docket - Custom docker registry that allows for lightning fast deploys through bittorrent
@@ -4150,6 +4149,7 @@
 
 ## Java 
 
+- [mastering-junit5](https://github.com/bonigarcia/mastering-junit5) - Code examples of Mastering Software Testing with JUnit 5
 - [next-executions-plugin](https://github.com/jenkinsci/next-executions-plugin) - 
 - [spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [configuration-as-code-groovy-plugin](https://github.com/jenkinsci/configuration-as-code-groovy-plugin) - Extension for Jenkins Configuration-as-Code plugin that allows running Groovy scripts
@@ -5231,6 +5231,7 @@
 ## Objective-C 
 
 - [adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
 - [LiveReload](https://github.com/livereload/LiveReload) - LiveReload.app for Mac and Windows. See “develop” branch for the latest Windows release and LiveReload 3 progress. (NOTE: renamed from LiveReload2.)
 
 ## Objective-C++ 
@@ -6055,7 +6056,7 @@
 - [cgiirc](https://github.com/dgl/cgiirc) - CGI:IRC web based IRC client
 - [unburden-home-dir](https://github.com/xtaran/unburden-home-dir) - Automatically unburden $HOME from caches, etc. Useful for $HOME on SSDs, small disks or slow NFS homes. Can be triggered via an hook in /etc/X11/Xsession.d/.
 - [tmux-url-select](https://github.com/dequis/tmux-url-select) - Keyboard based URL selector that integrates with tmux
-- [manubulon-snmp](https://github.com/dnsmichi/manubulon-snmp) - Set of Icinga/Nagios plugins to check hosts and hardware wi the SNMP protocol.
+- [manubulon-snmp](https://github.com/dnsmichi/manubulon-snmp) - Set of Icinga/Nagios plugins to check hosts and hardware with the SNMP protocol.
 - [ni](https://github.com/spencertipping/ni) - Say "ni" to data of any size
 - [DungeonGenerator](https://github.com/Lallassu/DungeonGenerator) - Dungeon generator for games.
 - [autodoc](https://github.com/cbbrowne/autodoc) - PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms
@@ -6738,7 +6739,6 @@
 - [coala-bears](https://github.com/coala/coala-bears) - Bears for coala
 - [gcovr](https://github.com/gcovr/gcovr) - generate code coverage reports with gcc/gcov
 - [jupyter-c-kernel](https://github.com/brendan-rius/jupyter-c-kernel) - Minimal Jupyter C kernel
-- [bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
 - [codechecker](https://github.com/Ericsson/codechecker) - CodeChecker is an analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang Tidy
 - [conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
@@ -7805,6 +7805,7 @@
 
 ## Shell 
 
+- [org-el-cache](https://github.com/l3kn/org-el-cache) - Persistent cache for data derived from org-elements
 - [nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
 - [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments.
