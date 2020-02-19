@@ -842,6 +842,7 @@
 
 ## C++ 
 
+- [JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
 - [Game-Networking-Resources](https://github.com/MFatihMAR/Game-Networking-Resources) - A Curated List of Game Network Programming Resources
 - [raceintospace](https://github.com/raceintospace/raceintospace) - This is the GitHub home of Race Into Space, the computer version of the Liftoff! board game by Fritz Bronner. It was developed by Strategic Visions and published by Interplay as a disk-based game in 1993 and a CD-ROM in 1994.
 - [openfodder](https://github.com/OpenFodder/openfodder) - Open Fodder: An open source port of Cannon Fodder
@@ -2268,7 +2269,6 @@
 - [elx](https://github.com/emacscollective/elx) - Extract information from Emacs Lisp libraries
 - [clipmon](https://github.com/bburns/clipmon) - Clipboard monitor for Emacs - monitors clipboard and pastes contents on change
 - [prog-fill](https://github.com/ahungry/prog-fill) - Emacs prog-fill functionality (smartly break lines to use vertical space)
-- [info-beamer.el](https://github.com/dakra/info-beamer.el) - Emacs minor mode for working with info-beamer
 - [tea-timer.el](https://github.com/dakra/tea-timer.el) - Simple countdown timer for Emacs
 - [org-github](https://github.com/dakra/org-github) - Sync org tasks with github issues
 - [brain-fm](https://github.com/dakra/brain-fm) - Play music from brain.fm in Emacs
@@ -3871,6 +3871,7 @@
 
 ## Groovy 
 
+- [jenkins-scripts](https://github.com/jenkinsci/jenkins-scripts) - Scripts in Groovy, shell, Ruby, Python, whatever for managing/interacting with Jenkins
 - [functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy
 - [awesome-groovy](https://github.com/kdabir/awesome-groovy) - A curated list of awesome groovy libraries, frameworks and resources
 - [docker-registry-ui](https://github.com/atcol/docker-registry-ui) - A web frontend/UI for easy private/local Docker Registry integration
@@ -4149,6 +4150,7 @@
 
 ## Java 
 
+- [scriptler-plugin](https://github.com/jenkinsci/scriptler-plugin) - Jenkins scriptler plugin
 - [mastering-junit5](https://github.com/bonigarcia/mastering-junit5) - Code examples of Mastering Software Testing with JUnit 5
 - [next-executions-plugin](https://github.com/jenkinsci/next-executions-plugin) - 
 - [spotless](https://github.com/diffplug/spotless) - Keep your code spotless
@@ -6848,7 +6850,6 @@
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [GithubCloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations.
 - [pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
-- [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [parsley](https://github.com/pyga/parsley) - 
 - [anki-connect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
@@ -8162,6 +8163,7 @@
 - [gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker for Linux & BSD
 - [egpg](https://github.com/EasyGnuPG/egpg) - Easy GnuPG, shell scripts to make GnuPG more accessible and easier to use. (Migrated to: https://gitlab.com/EasyGnuPG/egpg)
+- [info-beamer.el](https://github.com/dakra/info-beamer.el) - Emacs minor mode for working with info-beamer
 - [scripts](https://github.com/jwiegley/scripts) - Various and sundry shell scripts used on my system
 - [useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
@@ -8361,6 +8363,7 @@
 
 - [rules_haskell](https://github.com/tweag/rules_haskell) - Haskell rules for Bazel.
 - [livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
+- [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Tcl 
 
