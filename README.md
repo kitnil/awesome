@@ -432,7 +432,7 @@
 - [turtle-arena-code](https://github.com/Turtle-Arena/turtle-arena-code) - Turtle Arena is a free and open source cross-platform third-person action game using the Spearmint engine.
 - [obs-linuxbrowser](https://github.com/bazukas/obs-linuxbrowser) - OBS Linux Browser Plugin
 - [pulseaudio-android](https://github.com/pelya/pulseaudio-android) - PulseAudio server for Android, built as user-land executable, using NDK
-- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Plex servers and Chromecast devices.
+- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, Plex servers and Chromecast devices.
 - [cwm](https://github.com/leahneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager
 - [zathura](https://github.com/pwmt/zathura) - a document viewer
 - [guile-ssh](https://github.com/artyom-poptsov/guile-ssh) - Guile-SSH is a library that provides access to the SSH protocol for GNU Guile programs.
@@ -2301,7 +2301,7 @@
 - [org-noter](https://github.com/weirdNox/org-noter) - Emacs document annotator, using Org-mode
 - [unicode-fonts](https://github.com/rolandwalker/unicode-fonts) - Configure Unicode fonts for Emacs
 - [pythonic](https://github.com/pythonic-emacs/pythonic) - Utility functions for writing pythonic emacs package.
-- [lsp-ui](https://github.com/emacs-lsp/lsp-ui) - 
+- [lsp-ui](https://github.com/emacs-lsp/lsp-ui) - UI integrations for lsp-mode
 - [syntactic-close](https://github.com/emacs-berlin/syntactic-close) - Insert closing delimiter
 - [volume.el](https://github.com/dbrock/volume.el) - Tweak your loudness with GNU Emacs ("the best Emacs package ever")
 - [org-ql](https://github.com/alphapapa/org-ql) - An Org-mode query language, including search commands and saved views
@@ -3275,6 +3275,7 @@
 
 ## Go 
 
+- [cli](https://github.com/cli/cli) - The GitHub CLI
 - [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) - Go Peerflix
 - [awesome-podcasts](https://github.com/pbnj/awesome-podcasts) - 🎙 A collection of awesome engineering podcasts! ARCHIVED in favor of https://github.com/rShetty/awesome-podcasts
@@ -3387,7 +3388,7 @@
 - [skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
 - [yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
-- [scaleway-cli](https://github.com/scaleway/scaleway-cli) - :computer: Manage BareMetal Servers from Command Line (as easily as with Docker)
+- [scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway | v2 in beta =&gt;
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [anki-md](https://github.com/erroneousboat/anki-md) - A markdown to anki flash cards converter
 - [resume](https://github.com/erroneousboat/resume) - Create an online resume that can be accessed by a `curl` command.
@@ -4002,6 +4003,7 @@
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
 - [pykwiki](https://github.com/nullism/pykwiki) - PyKwiki, a static file Python MarkDown wiki rendered by Jinja2
+- [save-as-ebook](https://github.com/alexadam/save-as-ebook) - Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension
 - [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 
 ## Haskell 
@@ -4935,7 +4937,6 @@
 - [CoffeeConsole](https://github.com/snookca/CoffeeConsole) - A Chrome Extension for running CoffeeScript from the Web Inspector
 - [Caret](https://github.com/thomaswilburn/Caret) - A sublime text editor for Chrome OS
 - [wasavi](https://github.com/akahuku/wasavi) - wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.
-- [save-as-ebook](https://github.com/alexadam/save-as-ebook) - Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension
 - [thegreatsuspender](https://github.com/deanoemcke/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 - [nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
@@ -5080,7 +5081,7 @@
 - [luacheck](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
 - [vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
 - [luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
-- [lua-resty-auto-ssl](https://github.com/GUI/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
+- [lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
 - [awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
 - [nvim-lsp](https://github.com/neovim/nvim-lsp) - Nvim LSP client configurations
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
@@ -5838,6 +5839,7 @@
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 - [build-atomic-host](https://github.com/trishnaguha/build-atomic-host) - Ansible Playbook to automate building own Atomic Host with Customized Packages
+- [DotFiles](https://github.com/wsdjeg/DotFiles) - My dotfiles for Archlinux and Windows
 - [emacs-starter-kit](https://github.com/technomancy/emacs-starter-kit) - Because the Emacs defaults are not so great sometimes.
 - [learn_to_code](https://github.com/ashleymcnamara/learn_to_code) - Resources for budding developers
 - [chromium](https://github.com/scheib/chromium) - • scheib's chromium fork.  • 2017 and earlier, this served as the GitHub chromium mirror.  In 2018 the mirror was moved to https://github.com/chromium/chromium as an official mirror updated by chromium infra team.
@@ -6175,6 +6177,9 @@
 
 ## Python 
 
+- [j2cli](https://github.com/kolypto/j2cli) - Jinja2 Command-Line Tool, reworked
+- [jenkins-autojobs](https://github.com/gvalkov/jenkins-autojobs) - Automatically create Jenkins jobs from template jobs and branches in a SCM repository
+- [pdf2image](https://github.com/Belval/pdf2image) - A python module that wraps the pdftoppm utility to convert PDF to PIL Image object
 - [bridgy](https://github.com/wagoodman/bridgy) - cloud inventory + ssh + tmux + sshfs
 - [devblogs](https://github.com/abdelhai/devblogs) - +2600 developer-related blogs and publications.
 - [awesome-dash](https://github.com/ucg8j/awesome-dash) - A curated list of awesome Dash (plotly) resources
@@ -8333,7 +8338,7 @@
 - [git-recent](https://github.com/paulirish/git-recent) - See your latest local git branches, formatted real fancy
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [Wallhaven-Downloader](https://github.com/macearl/Wallhaven-Downloader) - A simple download Script for Wallhaven.cc
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [infinality-ultimate-fedora](https://github.com/danielrenninghoff/infinality-ultimate-fedora) - Fedora packages for infinality-ultimate-bundle by bohoomil
 - [bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 - [rename-xfce-workspace](https://github.com/ngeiswei/rename-xfce-workspace) - Rename the current workspace in Xfce at lightening speed
@@ -8541,7 +8546,6 @@
 - [spacevim](https://github.com/ctjhoa/spacevim) - Spacemacs for vim
 - [vim](https://github.com/vim/vim) - The official Vim repository
 - [dotfiles](https://github.com/mokevnin/dotfiles) - using vim
-- [DotFiles](https://github.com/wsdjeg/DotFiles) - My dotfiles for Archlinux and Windows
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 - [dotmatrix](https://github.com/hashrocket/dotmatrix) - Hashrocket Dot Files
 - [dotfiles](https://github.com/garybernhardt/dotfiles) - ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/.
