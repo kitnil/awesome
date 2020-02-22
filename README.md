@@ -826,7 +826,6 @@
 - [Gambador](https://github.com/MaximeGammaitoni/Gambador) - 
 - [privilege-escalation-awesome-scripts-suite](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [schemy](https://github.com/microsoft/schemy) - A lightweight embeddable Scheme-like interpreter for configuration
-- [lsp-docker](https://github.com/emacs-lsp/lsp-docker) - Scripts and configurations to leverage lsp-mode in docker environment
 - [urho-samples](https://github.com/xamarin/urho-samples) - Samples for the Urho bindings
 - [Lemma](https://github.com/etodd/Lemma) - Immersive first-person parkour in a surreal, physics-driven voxel world.
 - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.
@@ -1660,7 +1659,7 @@
 - [elgantt](https://github.com/legalnonsense/elgantt) - A Gantt Chart (Calendar) for Org Mode
 - [org-deadsync](https://github.com/legalnonsense/org-deadsync) - Sync deadlines in orgmode files
 - [org-agenda-show-deadlines](https://github.com/legalnonsense/org-agenda-show-deadlines) - Show deadlines in org-agenda buffers
-- [org-mode](https://github.com/bzg/org-mode) - Org mode
+- [org-mode](https://github.com/bzg/org-mode) - This is a MIRROR only, do not send PR.
 - [org-graph-view](https://github.com/alphapapa/org-graph-view) - View Org buffers as a clickable, graphical mind-map
 - [ob-kubectl](https://github.com/ifitzpat/ob-kubectl) - Org babel extension to apply kubectl to org babel source blocks.
 - [notmuch-unread](https://github.com/tmearnest/notmuch-unread) - Display unread mail count in the mode line
@@ -1713,6 +1712,7 @@
 - [netease-music](https://github.com/nicehiro/netease-music) - NetEase Music Library for Emacs.
 - [emamux-ghci](https://github.com/jfeltz/emamux-ghci) - tmux GHCI controller for Emacs
 - [haskell-desktop](https://github.com/capital-match/haskell-desktop) - Docker image with Haskell, emacs, vim, SSH server and a desktop environment through X2Go
+- [lsp-docker](https://github.com/emacs-lsp/lsp-docker) - Scripts and configurations to leverage lsp-mode in docker environment
 - [play-code.el](https://github.com/twlz0ne/play-code.el) - Play code with online playgrounds
 - [elpa-deploy](https://github.com/oitofelix/elpa-deploy) - ELPA deployment library
 - [info-rename-buffer](https://github.com/oitofelix/info-rename-buffer) - Rename Info buffers to match manuals
@@ -6683,7 +6683,7 @@
 - [learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [sarviewer](https://github.com/juliojsb/sarviewer) - Generate graphs with gnuplot or matplotlib (Python) from sar data
 - [book](https://github.com/SystemsApproach/book) - Meta-data and Makefile needed to build the book. Main starting point.
-- [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for a wide range of Logitech devices
+- [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [ansible-zabbix-server](https://github.com/dj-wasabi/ansible-zabbix-server) - Installing and maintaining zabbix-server for RedHat/Debian/Ubuntu.
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
