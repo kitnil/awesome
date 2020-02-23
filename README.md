@@ -254,7 +254,7 @@
 - [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS - decentralized, scalable data platform for Edge/IoT Computing and Kubernetes apps
 - [dmrconfig](https://github.com/sergev/dmrconfig) - Configuration utility for DMR radios
 - [shmux](https://github.com/shmux/shmux) - shell multiplexor
-- [wasm](https://github.com/fourtf/wasm) - Web assembly interpreter in C
+- [wasm](https://github.com/fourtf/wasm) - Web assembly interpreter in C. Unfunctional and discontinued.
 - [pam-MySQL](https://github.com/NigelCunningham/pam-MySQL) - PAM MySQL
 - [aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [dnsperf](https://github.com/DNS-OARC/dnsperf) - DNS Performance Testing Tools
@@ -932,7 +932,7 @@
 - [nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
 - [nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [firebird](https://github.com/FirebirdSQL/firebird) - Firebird server, client and tools
-- [drogon](https://github.com/an-tao/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix
+- [drogon](https://github.com/an-tao/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [openclonk](https://github.com/openclonk/openclonk) - A free multiplayer action game where you control small and nimble humanoids
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1500FPS.
 - [JUCE](https://github.com/WeAreROLI/JUCE) - The JUCE cross-platform C++ framework
@@ -990,7 +990,7 @@
 - [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library and rendering framework
 - [olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [tinyraycaster](https://github.com/ssloy/tinyraycaster) - 486 lines of C++: old-school FPS in a weekend
-- [ogre](https://github.com/OGRECave/ogre) - Ogre1 - scene-oriented, flexible 3D engine written in C++
+- [ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine written in C++
 - [bsf](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications
 - [apitrace](https://github.com/apitrace/apitrace) - Tools for tracing OpenGL, Direct3D, and other graphics APIs
 - [openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
@@ -1651,6 +1651,10 @@
 
 ## Emacs Lisp 
 
+- [remind-bindings.el](https://github.com/mtekman/remind-bindings.el) - Reminders for your init bindings
+- [share2computer](https://github.com/tumashu/share2computer) - 
+- [seml-mode.el](https://github.com/conao3/seml-mode.el) - Major mode for editing SEML (S-Expression Markup Language) files
+- [ppp.el](https://github.com/conao3/ppp.el) - Extended pretty printer for Emacs Lisp
 - [vcard](https://github.com/emacsmirror/vcard) - Utilities for working with vCard files
 - [emacsit](https://github.com/SidharthArya/emacsit) - A Toy Package Manager for Emacs.
 - [metapost-png-preview](https://github.com/johanvts/metapost-png-preview) - png-based preview of metapost in emacs.
@@ -3275,6 +3279,7 @@
 
 ## Go 
 
+- [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [cli](https://github.com/cli/cli) - The GitHub CLI
 - [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) - Go Peerflix
@@ -4638,7 +4643,7 @@
 - [reload-plus](https://github.com/blackwind/reload-plus) - [Firefox] Supercharge your reload button and hotkeys!
 - [greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
-- [nanoid](https://github.com/ai/nanoid) - A tiny (119 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
@@ -5039,6 +5044,7 @@
 
 ## Kotlin 
 
+- [ShareToComputer](https://github.com/jimmod/ShareToComputer) - 
 - [komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
 - [kotcity](https://github.com/kotcity/kotcity) - KotCity, an open source city simulator
 - [AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
@@ -7609,6 +7615,7 @@
 
 ## Rust 
 
+- [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - Instant startup time for nix-shell
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - An experimental Rust compiler front-end for IDEs
 - [mainframer](https://github.com/buildfoundation/mainframer) - Tool for remote builds. Sync project to remote machine, execute command, sync back.
 - [json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
