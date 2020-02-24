@@ -84,7 +84,6 @@
   - [Rascal](#rascal)
   - [Reason](#reason)
   - [Ren'Py](#ren'py)
-  - [Rich Text Format](#rich-text-format)
   - [Ring](#ring)
   - [Roff](#roff)
   - [Ruby](#ruby)
@@ -161,6 +160,7 @@
 
 ## C 
 
+- [geany](https://github.com/geany/geany) - A fast and lightweight IDE
 - [PWMAngband](https://github.com/draconisPW/PWMAngband) - A free, multi-player roguelike dungeon exploration game based on Angband
 - [OpenSource](https://github.com/w23/OpenSource) - Load Source games maps into giant "open world" meshes
 - [tine](https://github.com/deadpixi/tine) - tine - a modern clone of the AmigaDOS/TRIPOS ED display editor
@@ -1651,6 +1651,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-gdscript-mode](https://github.com/GDQuest/emacs-gdscript-mode) - An Emacs package to get GDScript support and syntax highlighting.
 - [remind-bindings.el](https://github.com/mtekman/remind-bindings.el) - Reminders for your init bindings
 - [share2computer](https://github.com/tumashu/share2computer) - 
 - [seml-mode.el](https://github.com/conao3/seml-mode.el) - Major mode for editing SEML (S-Expression Markup Language) files
@@ -4698,7 +4699,7 @@
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [boardgame.io](https://github.com/nicolodavis/boardgame.io) - Open Source Game Engine for Turn-Based Games
-- [shelltile](https://github.com/emasab/shelltile) - A tiling window extension for GNOME Shell. Just move a window to the edges of the screen to create a tiling, otherwise move a window over another one, holding down the Control key. Grouped windows minimize, resize, raise and change workspace together. Move or maximize a window to remove it from the group.
+- [shelltile](https://github.com/emasab/shelltile) - A tiling window extension for GNOME Shell
 - [engine](https://github.com/playcanvas/engine) - Fast and lightweight WebGL game engine
 - [awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
 - [awesome-spinners](https://github.com/yangshun/awesome-spinners) - 💫 A curated collection of dazzling web spinners
@@ -6183,6 +6184,8 @@
 
 ## Python 
 
+- [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
+- [melpazoid](https://github.com/riscy/melpazoid) - A bundle of CI scripts for testing Emacs packages, primarily submissions to MELPA.
 - [j2cli](https://github.com/kolypto/j2cli) - Jinja2 Command-Line Tool, reworked
 - [jenkins-autojobs](https://github.com/gvalkov/jenkins-autojobs) - Automatically create Jenkins jobs from template jobs and branches in a SCM repository
 - [pdf2image](https://github.com/Belval/pdf2image) - A python module that wraps the pdftoppm utility to convert PDF to PIL Image object
@@ -6191,6 +6194,7 @@
 - [awesome-dash](https://github.com/ucg8j/awesome-dash) - A curated list of awesome Dash (plotly) resources
 - [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
 - [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) - Anomaly detection related books, papers, videos, and toolboxes
+- [h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
 - [docker-image-size-limit](https://github.com/wemake-services/docker-image-size-limit) - :whale: Keep an eye on your docker image size and prevent it from growing too big
@@ -7434,10 +7438,6 @@
 ## Ren'Py 
 
 - [renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
-
-## Rich Text Format 
-
-- [h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 
 ## Ring 
 
