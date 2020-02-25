@@ -3859,7 +3859,7 @@
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
-- [rkt](https://github.com/rkt/rkt) - rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
+- [rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -3901,7 +3901,6 @@
 - [terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
 - [mastodon-terraform](https://github.com/r7kamura/mastodon-terraform) - Boilerplate for running Mastodon on AWS using Terraform and CircleCI.
 - [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
 ## HTML 
 
@@ -4615,7 +4614,7 @@
 - [RESTer](https://github.com/frigus02/RESTer) - A REST client for almost any web service (Firefox and Chrome Extension)
 - [Steward](https://github.com/solobat/Steward) - A command launcher for Chrome
 - [live-css-editor](https://github.com/webextensions/live-css-editor) - Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
-- [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox)
+- [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
 - [mouse-dictionary](https://github.com/wtetsu/mouse-dictionary) - 📘A super fast dictionary for Chrome/Firefox
 - [nuclear](https://github.com/nukeop/nuclear) - User freedom-oriented streaming music player - welcoming to new contributors
 - [deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.
@@ -5018,7 +5017,7 @@
 - [roguelike-universe](https://github.com/Spaxe/roguelike-universe) - Understanding game design inspiration of roguelike games via web scraping and network analysis.
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-- [practicalAI](https://github.com/practicalAI/practicalAI) - 📚 A practical approach to machine learning.
+- [practicalAI](https://github.com/madewithml/practicalAI) - 📚 Foundational deep learning lessons
 - [DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [Hello-world](https://github.com/Aniket965/Hello-world) - Add any  Program in any language you like or add a hello world Program ❣️ if you like give us :star:
 - [ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments) - Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.
@@ -5985,7 +5984,7 @@
 - [poweradmin](https://github.com/poweradmin/poweradmin) - A web-based control panel for PowerDNS
 - [wp2static](https://github.com/WP2Static/wp2static) - WordPress plugin allowing static site generation w/ security, performance and cost benefits
 - [phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
-- [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends and family.
+- [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [synknot](https://github.com/besthostingcz/synknot) - SynKnot utility for DNS and PTR synchronization with Knot DNS
 - [Chat-API](https://github.com/mgp25/Chat-API) - WhatsApp's Private API
 - [zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
@@ -6241,7 +6240,7 @@
 - [pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [sshbg](https://github.com/fboender/sshbg) - Change terminal background when SSH'ing (on specific terminals)
 - [codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
-- [cast-sh](https://github.com/pod-cast/cast-sh) - :pager: An instance of your terminal in your browser
+- [cast-sh](https://github.com/PipeFlow/cast-sh) - :pager: An instance of your terminal in your browser
 - [cmd2](https://github.com/python-cmd2/cmd2) - cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python
 - [riposte](https://github.com/fwkz/riposte) - Python package for wrapping applications inside a tailored interactive shell
 - [pygogo](https://github.com/reubano/pygogo) - A Python logging library with super powers
@@ -7158,7 +7157,6 @@
 - [huxley](https://github.com/facebookarchive/huxley) - A testing system for catching visual regressions in Web applications.
 - [supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
 - [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
-- [clint](https://github.com/kennethreitz/clint) - Python Command-line Application Tools
 - [livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
 - [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
@@ -7878,7 +7876,7 @@
 - [shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm) - 😎 Safe-rm: A drop-in and much safer replacement of bash rm with nearly full functionalities and options of the rm command! Safe-rm will act exactly the same as the original rm command.
 - [tmuxen](https://github.com/xuxiaodong/tmuxen) - tmux environment made easy.
 - [dnsmasq_sniproxy_install](https://github.com/myxuchangbin/dnsmasq_sniproxy_install) - One-click Install and Configure Dnsmasq and Sniproxy for CentOS/Debian/Ubuntu
-- [wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove node_modules folder of non-active projects
+- [wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove the node_modules folder of non-active projects
 - [debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs 🧬 for Debian-based servers
 - [42FileChecker](https://github.com/jgigault/42FileChecker) - 42FileChecker is a tiny bash script developed at 42 school for testing and checking files according to the rules of the subjects
 - [format-udf](https://github.com/JElchison/format-udf) - Bash script to format a block device (hard drive or Flash drive) in UDF. The output is a drive that can be used for reading/writing across multiple operating system families: Windows, macOS, and Linux. This script should be capable of running in macOS or in Linux.
@@ -8019,6 +8017,7 @@
 - [complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
 - [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
 - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
