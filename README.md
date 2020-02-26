@@ -553,7 +553,7 @@
 - [libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org websocket library
 - [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-- [ultrajson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
+- [ultrajson](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
 - [lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - [dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 - [lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
@@ -728,7 +728,7 @@
 - [physlock](https://github.com/muennich/physlock) - Lightweight linux console locking tool
 - [i3](https://github.com/i3/i3) - A tiling window manager
 - [v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
-- [zfs](https://github.com/zfsonlinux/zfs) - ZFS on Linux - the official OpenZFS implementation for Linux.
+- [zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [p2pvc](https://github.com/mofarrell/p2pvc) - A point to point color terminal video chat.
 - [linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools
 - [seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
@@ -1372,7 +1372,6 @@
 - [ring](https://github.com/ring-clojure/ring) - Clojure HTTP server abstraction
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [lambdacd](https://github.com/flosell/lambdacd) - a library to define a continuous delivery pipeline in code
-- [re-mote](https://github.com/re-ops/re-mote) - Re-mote operations using SSH and Re-gent
 - [pedestal](https://github.com/pedestal/pedestal) - The Pedestal Server-side Libraries
 - [MoonDweller](https://github.com/buntine/MoonDweller) - A text-based adventure. You will definitely die.
 - [klipse](https://github.com/viebel/klipse) - Klipse is a Javacript plugin for embedding interactive code snippets in tech blogs. A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent, lua, ocaml, reasonml, prolog, common lisp
@@ -1718,7 +1717,7 @@
 - [emamux-ghci](https://github.com/jfeltz/emamux-ghci) - tmux GHCI controller for Emacs
 - [haskell-desktop](https://github.com/capital-match/haskell-desktop) - Docker image with Haskell, emacs, vim, SSH server and a desktop environment through X2Go
 - [lsp-docker](https://github.com/emacs-lsp/lsp-docker) - Scripts and configurations to leverage lsp-mode in docker environment
-- [play-code.el](https://github.com/twlz0ne/play-code.el) - Play code with online playgrounds
+- [playonline.el](https://github.com/twlz0ne/playonline.el) - Play code with online playgrounds
 - [elpa-deploy](https://github.com/oitofelix/elpa-deploy) - ELPA deployment library
 - [info-rename-buffer](https://github.com/oitofelix/info-rename-buffer) - Rename Info buffers to match manuals
 - [clippy](https://github.com/emacsmirror/clippy) - Show tooltip with function documentation at point
@@ -3280,6 +3279,7 @@
 
 ## Go 
 
+- [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [cli](https://github.com/cli/cli) - The GitHub CLI
 - [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
@@ -5316,7 +5316,7 @@
 - [awesome-thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome
 - [awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [awesome-css-in-js](https://github.com/tuchk4/awesome-css-in-js) - Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision
-- [awesome-web-performance-metrics](https://github.com/csabapalfi/awesome-web-performance-metrics) - ⚡Metrics to help understand page speed and user experience
+- [awesome-web-performance-metrics](https://github.com/palfi-ltd/awesome-web-performance-metrics) - ⚡Metrics to help understand page speed and user experience
 - [awesome-radare2](https://github.com/radareorg/awesome-radare2) - A curated list of awesome projects, articles and the other materials powered by Radare2
 - [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [awesome-nim](https://github.com/VPashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
@@ -5500,6 +5500,7 @@
 - [security-cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) - 🔒 A collection of cheatsheets for various infosec tools and topics.
 - [programming-cheatsheets](https://github.com/remigiusz-suwalski/programming-cheatsheets) - Programming cheatsheets (Python, Bash, Haskell...)
 - [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
+- [re-mote](https://github.com/re-ops/re-mote) - Re-mote operations using SSH and Re-gent
 - [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 - [AgileLite](https://github.com/davebs/AgileLite) - Agile software development without all the burnout.
 - [hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers and other online garbage
@@ -5612,7 +5613,7 @@
 - [Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox 💧 source code repository
 - [donate](https://github.com/joshtronic/donate) - Just a list of Free Software, Open Source Software and other technology-related things you can contribute money to.
 - [awesome-free-services](https://github.com/hql287/awesome-free-services) - Awesome free online services for startups and freelancers!
-- [Checklists](https://github.com/netbiosX/Checklists) - Pentesting checklists for various engagements
+- [Checklists](https://github.com/netbiosX/Checklists) - Red Teaming & Pentesting checklists for various engagements
 - [awesome-livestreaming](https://github.com/osrtss/awesome-livestreaming) - A curated list of awesome live streaming technologies and products
 - [awesome-data-science-viz](https://github.com/quantmind/awesome-data-science-viz) - :boom: :chart_with_upwards_trend: A curated list of data science, analysis and visualization tools
 - [courses](https://github.com/learn-anything/courses) - Awesome Courses
