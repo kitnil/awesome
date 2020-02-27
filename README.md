@@ -1650,6 +1650,8 @@
 
 ## Emacs Lisp 
 
+- [company-emoji](https://github.com/dunn/company-emoji) - company-mode backend for emoji
+- [org-superstar-mode](https://github.com/integral-dw/org-superstar-mode) - Make org-mode stars a little more super
 - [emacs-gdscript-mode](https://github.com/GDQuest/emacs-gdscript-mode) - An Emacs package to get GDScript support and syntax highlighting.
 - [remind-bindings.el](https://github.com/mtekman/remind-bindings.el) - Reminders for your init bindings
 - [share2computer](https://github.com/tumashu/share2computer) - 
@@ -4722,7 +4724,7 @@
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (January 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (February 2020)
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
@@ -5017,7 +5019,7 @@
 - [roguelike-universe](https://github.com/Spaxe/roguelike-universe) - Understanding game design inspiration of roguelike games via web scraping and network analysis.
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-- [practicalAI](https://github.com/madewithml/practicalAI) - 📚 Foundational deep learning lessons
+- [practicalAI](https://github.com/madewithml/practicalAI) - 📚 Learn ML with clean code, simplified math and illustrative visuals.
 - [DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [Hello-world](https://github.com/Aniket965/Hello-world) - Add any  Program in any language you like or add a hello world Program ❣️ if you like give us :star:
 - [ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments) - Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.
@@ -8305,7 +8307,7 @@
 - [backupninja](https://github.com/lelutin/backupninja) - My sandbox on the official backupninja repository
 - [ubuntu](https://github.com/boxcutter/ubuntu) - Virtual machine templates for Ubuntu
 - [dotzsh](https://github.com/dotphiles/dotzsh) - A community driven framework for zsh
-- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - The most awesome Powerline theme for ZSH around!
+- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - A tool for building the most useful CLI possible, customized for you.
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [yasnippets-latex](https://github.com/madsdk/yasnippets-latex) - LaTeX snippets for use with the yasnippet Emacs plugin
 - [yasnippets-orgmode](https://github.com/yyr/yasnippets-orgmode) - Fork of YASnippet bundle for Emacs org-mode (own copy)
@@ -8316,7 +8318,6 @@
 - [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
 - [webm-thread](https://github.com/pituz/webm-thread) - 
 - [ipwebcam-gst](https://github.com/bluezio/ipwebcam-gst) - Simple shell script for using IP Webcam as a V4L2 webcam / sound source
-- [kali-linux-docker](https://github.com/offensive-security/kali-linux-docker) - PLEASE USE GITLAB
 - [noiseclean](https://github.com/yonilevy/noiseclean) - A simple bash script to remove audio noise from audio and videos files.
 - [ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
 - [tmux-powerline](https://github.com/erikw/tmux-powerline) - Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments.
