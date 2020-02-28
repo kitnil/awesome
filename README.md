@@ -934,7 +934,7 @@
 - [firebird](https://github.com/FirebirdSQL/firebird) - Firebird server, client and tools
 - [drogon](https://github.com/an-tao/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [openclonk](https://github.com/openclonk/openclonk) - A free multiplayer action game where you control small and nimble humanoids
-- [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1500FPS.
+- [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
 - [JUCE](https://github.com/WeAreROLI/JUCE) - The JUCE cross-platform C++ framework
 - [timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Reporting
 - [exiv2](https://github.com/Exiv2/exiv2) - Image metadata library and tools
@@ -1026,7 +1026,7 @@
 - [galera](https://github.com/codership/galera) - Synchronous multi-master replication library
 - [devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [TextSuggest](https://github.com/bharadwaj-raju/TextSuggest) - MOVED: https://gitlab.com/bharadwaj-raju/TextSuggest
-- [pdns](https://github.com/PowerDNS/pdns) - PowerDNS
+- [pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 - [nitrogen](https://github.com/l3ib/nitrogen) - Background browser and setter for X windows.
 - [xkblayout-state](https://github.com/nonpop/xkblayout-state) - A small command-line program to get/set the current keyboard layout.
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
@@ -4906,7 +4906,7 @@
 - [sieve](https://github.com/thsmi/sieve) - Thunderbird Sieve Addon
 - [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [wheat](https://github.com/creationix/wheat) - Wheat is a blog engine for coders written in node.JS
-- [netlify-cms](https://github.com/netlify/netlify-cms) - A CMS for Static Site Generators
+- [netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
 - [gh-pages](https://github.com/tschaub/gh-pages) - General purpose task for publishing files to a gh-pages branch on GitHub
 - [elegant](https://github.com/Pelican-Elegant/elegant) - Best theme for Pelican Static Blog Generator
 - [org-js](https://github.com/mooz/org-js) - A parser and converter for org-mode notation, written in JavaScript
@@ -5002,6 +5002,7 @@
 - [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [ml-class](https://github.com/lukas/ml-class) - Machine learning lessons and teaching projects designed for engineers
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
+- [machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) - :speech_balloon: Machine Learning Course with Python. Refer to the course page for step-by-step explanations.
 - [dashboards](https://github.com/jupyter-attic/dashboards) - [RETIRED] See Voilà as a supported replacement
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [IElixir](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language
@@ -5501,7 +5502,6 @@
 - [awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [security-cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) - 🔒 A collection of cheatsheets for various infosec tools and topics.
 - [programming-cheatsheets](https://github.com/remigiusz-suwalski/programming-cheatsheets) - Programming cheatsheets (Python, Bash, Haskell...)
-- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [re-mote](https://github.com/re-ops/re-mote) - Re-mote operations using SSH and Re-gent
 - [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 - [AgileLite](https://github.com/davebs/AgileLite) - Agile software development without all the burnout.
@@ -6397,7 +6397,6 @@
 - [urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
 - [ledger-autosync](https://github.com/egh/ledger-autosync) - Synchronize your ledger-cli files with your bank.
 - [pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
-- [machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) - :speech_balloon: Machine Learning Course with Python. Refer to the course page for step-by-step explanations.
 - [pykaldi](https://github.com/pykaldi/pykaldi) - A Python wrapper for Kaldi
 - [tcconfig](https://github.com/thombashi/tcconfig) - A tc command wrapper. Make it easy to set up traffic control of network bandwidth/latency/packet-loss/packet-corruption/etc. to a network-interface/Docker-container(veth).
 - [pymux](https://github.com/prompt-toolkit/pymux) - A terminal multiplexer (like tmux) in Python
@@ -6960,7 +6959,6 @@
 - [python-oauth2](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
 - [blivet-gui](https://github.com/storaged-project/blivet-gui) - GUI tool for storage configuration using blivet library
-- [linconnect-server](https://github.com/greyivy/linconnect-server) - Mirror Android notifications on a Linux desktop
 - [auto-complete-rst](https://github.com/tkf/auto-complete-rst) - Auto-complete extension for ReST and Sphinx
 - [pithos](https://github.com/pithos/pithos) - A Pandora Radio Client
 - [pulsecaster](https://github.com/stickster/pulsecaster) - Simple PulseAudio-based tool for making podcast interviews
@@ -8065,6 +8063,7 @@
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
+- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
 - [discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.
 - [rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
@@ -8427,6 +8426,7 @@
 
 ## TypeScript 
 
+- [jcasc-vscode-extension](https://github.com/jenkinsci/jcasc-vscode-extension) - A VSCode Plugin for Jenkins Integration
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [sshmon](https://github.com/hpello/sshmon) - Manage and monitor SSH connections.
 - [temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
