@@ -1411,6 +1411,7 @@
 
 ## Common Lisp 
 
+- [Lire](https://github.com/honix/Lire) - Visual programming tool based on Common Lisp
 - [ZickStandardLisp](https://github.com/zick/ZickStandardLisp) - Lisp evaluator in the LIsp for Zick's Lisp implementations
 - [sonic-lisp-engine](https://github.com/luksamuk/sonic-lisp-engine) - Sonic The Hedgehog Engine, written in Common Lisp as a literate program
 - [file-select](https://github.com/Shinmera/file-select) - A library to invoke the native system file dialog to select or create files.
@@ -1497,7 +1498,7 @@
 - [sucle](https://github.com/gregcman/sucle) - Common Lisp Voxel Game Engine
 - [cl-sdl2](https://github.com/lispgames/cl-sdl2) - Common Lisp bindings for SDL2 using C2FFI.
 - [cells](https://github.com/kennytilton/cells) - A Common Lisp implementation of the dataflow programming paradigm
-- [Particle](https://github.com/Seteeri/Particle) - PicoLisp interface/userspace based on OpenGL
+- [Particle](https://github.com/Seteeri/Particle) - PicoLisp personal information manager interface/userspace
 - [cl-sdl2-tutorial](https://github.com/TatriX/cl-sdl2-tutorial) - 
 - [on-lisp](https://github.com/DalekBaldwin/on-lisp) - A modernized and annotated code companion to Paul Graham's "On Lisp".
 - [lisp-magick-wand](https://github.com/ruricolist/lisp-magick-wand) - ImageMagick bindings (fork)
@@ -1915,7 +1916,7 @@
 - [icons-in-terminal.el](https://github.com/seagle0128/icons-in-terminal.el) - A utility package to propertize Icon Fonts in both GUI and TUI with Emacs.
 - [tui.el](https://github.com/ebpa/tui.el) - An experimental text-based UI framework for Emacs modeled after React - **requires emacs 26.1**
 - [grab-x-link](https://github.com/xuchunyang/grab-x-link) - Grab links from some X11 apps and insert into Emacs
-- [gitignore-templates.el](https://github.com/xuchunyang/gitignore-templates.el) - An Emacs Package for GitHub .gitignore templates
+- [gitignore-templates.el](https://github.com/xuchunyang/gitignore-templates.el) - Create .gitignore using GitHub or gitignore.io API
 - [other-emacs-eval](https://github.com/xuchunyang/other-emacs-eval) - Evaluate the Emacs Lisp expression in other Emacs
 - [jagger](https://github.com/xuchunyang/jagger) - Move/swap things more convenient in Emacs
 - [swap-regions.el](https://github.com/xuchunyang/swap-regions.el) - Swap text in two regions
@@ -3523,7 +3524,7 @@
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
-- [act](https://github.com/nektos/act) - Run your GitHub Actions locally
+- [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [minishift](https://github.com/minishift/minishift) - Run OpenShift 3.x locally
 - [stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
@@ -3906,6 +3907,7 @@
 
 ## HTML 
 
+- [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 - [awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
@@ -4014,6 +4016,7 @@
 
 ## Haskell 
 
+- [elm2nix](https://github.com/cachix/elm2nix) - Convert Elm project into Nix expressions
 - [HaLVM](https://github.com/GaloisInc/HaLVM) - The Haskell Lightweight Virtual Machine (HaLVM): GHC running on Xen
 - [grenade](https://github.com/HuwCampbell/grenade) - Deep Learning in Haskell
 - [cardano-sl](https://github.com/input-output-hk/cardano-sl) - Cryptographic currency implementing Ouroboros PoS protocol
@@ -4158,6 +4161,8 @@
 
 ## Java 
 
+- [build-failure-analyzer-plugin](https://github.com/jenkinsci/build-failure-analyzer-plugin) - 
+- [jenkins-build-monitor-plugin](https://github.com/jan-molak/jenkins-build-monitor-plugin) - Jenkins CI Build Monitor Plugin
 - [scriptler-plugin](https://github.com/jenkinsci/scriptler-plugin) - Jenkins scriptler plugin
 - [mastering-junit5](https://github.com/bonigarcia/mastering-junit5) - Code examples of Mastering Software Testing with JUnit 5
 - [next-executions-plugin](https://github.com/jenkinsci/next-executions-plugin) - 
@@ -5187,6 +5192,8 @@
 
 ## Nix 
 
+- [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
+- [hello](https://github.com/jwiegley/hello) - Hello world project templates in a variety of languages
 - [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [stack2nix](https://github.com/input-output-hk/stack2nix) - Generate nix expressions for Haskell projects
 - [nixos-mailserver](https://github.com/flyingcircusio/nixos-mailserver) - Fork of https://gitlab.com/simple-nixos-mailserver/nixos-mailserver
@@ -6200,7 +6207,7 @@
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
 - [docker-image-size-limit](https://github.com/wemake-services/docker-image-size-limit) - :whale: Keep an eye on your docker image size and prevent it from growing too big
-- [docker-replay](https://github.com/bcicen/docker-replay) - Generate docker run commands from running containers
+- [docker-replay](https://github.com/bcicen/docker-replay) - Generate docker commands to rerun existing containers
 - [dockit](https://github.com/humblec/dockit) - Do docker actions and Deploy gluster containers!
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [trackma](https://github.com/z411/trackma) - Open multi-site list manager for Unix-like systems. (ex-wMAL)
@@ -7106,7 +7113,7 @@
 - [numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
-- [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
 - [command-line-chess](https://github.com/marcusbuffett/command-line-chess) - A python program to play chess against an AI in the terminal.
 - [poirot](https://github.com/emanuelfeld/poirot) - :mag: CLI to search a Git repo's revision history for text patterns (e.g. passwords, tokens, IP addresses, and names)
@@ -7701,7 +7708,7 @@
 - [cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
-- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages, build tools, config files and more.
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [cancer](https://github.com/meh/cancer) - It's terminal.
 - [nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
@@ -7817,6 +7824,7 @@
 
 ## Shell 
 
+- [mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [org-el-cache](https://github.com/l3kn/org-el-cache) - Persistent cache for data derived from org-elements
 - [nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
