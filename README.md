@@ -1498,7 +1498,7 @@
 - [sucle](https://github.com/gregcman/sucle) - Common Lisp Voxel Game Engine
 - [cl-sdl2](https://github.com/lispgames/cl-sdl2) - Common Lisp bindings for SDL2 using C2FFI.
 - [cells](https://github.com/kennytilton/cells) - A Common Lisp implementation of the dataflow programming paradigm
-- [Particle](https://github.com/Seteeri/Particle) - PicoLisp personal information manager interface/userspace
+- [Particle](https://github.com/Seteeri/Particle) - PicoLisp personal knowledge base/manager userspace
 - [cl-sdl2-tutorial](https://github.com/TatriX/cl-sdl2-tutorial) - 
 - [on-lisp](https://github.com/DalekBaldwin/on-lisp) - A modernized and annotated code companion to Paul Graham's "On Lisp".
 - [lisp-magick-wand](https://github.com/ruricolist/lisp-magick-wand) - ImageMagick bindings (fork)
@@ -3501,7 +3501,7 @@
 - [gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 - [task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
-- [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
+- [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [gocode](https://github.com/mdempsky/gocode) - An autocompletion daemon for the Go programming language
 - [godit](https://github.com/nsf/godit) - A very religious text editor
@@ -4729,7 +4729,7 @@
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (February 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (March 2020)
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
@@ -4751,7 +4751,7 @@
 - [livedown](https://github.com/shime/livedown) - Live Markdown previews for your favorite editor.
 - [BOOLR](https://github.com/GGBRW/BOOLR) - A digital logic simulator
 - [biwascheme](https://github.com/biwascheme/biwascheme) - Scheme interpreter written in JavaScript
-- [themecreator](https://github.com/mswift42/themecreator) - http://mswift42.github.io/themecreator/ create themes for intellij, textmate, atom, emacs, vim and gnome terminal.
+- [themecreator](https://github.com/mswift42/themecreator) - https://mswift42.github.io/themecreator/ create themes for intellij, textmate, atom, emacs, vim and gnome terminal.
 - [eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
 - [freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
@@ -8434,6 +8434,7 @@
 
 ## TypeScript 
 
+- [grafana-image-renderer](https://github.com/grafana/grafana-image-renderer) - A Grafana Backend Plugin that handles rendering of panels & dashboards to PNGs using headless chrome
 - [jcasc-vscode-extension](https://github.com/jenkinsci/jcasc-vscode-extension) - A VSCode Plugin for Jenkins Integration
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [sshmon](https://github.com/hpello/sshmon) - Manage and monitor SSH connections.
