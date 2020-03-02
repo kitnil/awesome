@@ -1498,7 +1498,7 @@
 - [sucle](https://github.com/gregcman/sucle) - Common Lisp Voxel Game Engine
 - [cl-sdl2](https://github.com/lispgames/cl-sdl2) - Common Lisp bindings for SDL2 using C2FFI.
 - [cells](https://github.com/kennytilton/cells) - A Common Lisp implementation of the dataflow programming paradigm
-- [Particle](https://github.com/Seteeri/Particle) - PicoLisp personal knowledge base/manager userspace
+- [Particle](https://github.com/Seteeri/Particle) - PicoLisp personal knowledge base/manager zoomable/3D Lisp-structured userspace
 - [cl-sdl2-tutorial](https://github.com/TatriX/cl-sdl2-tutorial) - 
 - [on-lisp](https://github.com/DalekBaldwin/on-lisp) - A modernized and annotated code companion to Paul Graham's "On Lisp".
 - [lisp-magick-wand](https://github.com/ruricolist/lisp-magick-wand) - ImageMagick bindings (fork)
@@ -3282,6 +3282,7 @@
 
 ## Go 
 
+- [phpfpmtop](https://github.com/abrander/phpfpmtop) - A top like interface for PHP-FPM
 - [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [cli](https://github.com/cli/cli) - The GitHub CLI
