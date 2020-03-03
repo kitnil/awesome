@@ -3329,7 +3329,7 @@
 - [tj](https://github.com/sgreben/tj) - stdin line timestamps. single binary, no dependencies. osx & linux & windows. plays well with jq.
 - [spotitube](https://github.com/streambinder/spotitube) - Synchronize your Spotify collections downloading from external providers
 - [rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
-- [gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash and ZSH written in Go.
+- [gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [pipethis](https://github.com/ellotheth/pipethis) - Replace your `curl | sh` installers
 - [complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
 - [rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
@@ -3637,7 +3637,7 @@
 - [jaggr](https://github.com/rs/jaggr) - JSON Aggregation CLI
 - [grumble](https://github.com/desertbit/grumble) - A powerful modern CLI and SHELL
 - [spotctl](https://github.com/jingweno/spotctl) - A command-line interface to Spotify, written in Go
-- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh)
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh) - including shfmt
 - [dosxvpn](https://github.com/dan-v/dosxvpn) - Easily deploy your own personal VPN server with DNS adblocking running on DigitalOcean
 - [perfops-cli](https://github.com/ProspectOne/perfops-cli) - A simple command line tool to interact with hundreds of servers around the world.
 - [jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions
@@ -4140,7 +4140,6 @@
 - [free-graphs](https://github.com/puffnfresh/free-graphs) - Generate GraphViz graphs by interpretting free monads.
 - [glance](https://github.com/rgleichman/glance) - A visual Haskell
 - [gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
-- [IHaskell](https://github.com/gibiansky/IHaskell) - A Haskell kernel for IPython.
 - [hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 - [Functional-Programming](https://github.com/caiorss/Functional-Programming) - Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python
 - [Haxl](https://github.com/facebook/Haxl) - A Haskell library that simplifies access to remote data, such as databases or web-based services.
@@ -5049,6 +5048,7 @@
 - [hackermath](https://github.com/amitkaps/hackermath) - Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 - [mltutorial](https://github.com/TwistedHardware/mltutorial) - Machine Learning Tutorial in IPython Notebooks
+- [IHaskell](https://github.com/gibiansky/IHaskell) - A Haskell kernel for IPython.
 - [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) - Simple tutorials using Google's TensorFlow Framework
 - [vk-scripts](https://github.com/kepatopoc/vk-scripts) - Цербер: бесплатные скрипты для ВКонтакте
 
@@ -6335,7 +6335,7 @@
 - [elisp-decompile](https://github.com/rocky/elisp-decompile) - Emacs Lisp Decompiler
 - [ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter
 - [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
-- [home-assistant](https://github.com/home-assistant/home-assistant) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [junit2html](https://github.com/inorton/junit2html) - Turn Junit XML reports into self contained HTML reports
 - [PySixel](https://github.com/saitoha/PySixel) - View full-pixel color graphics on SIXEL-supported terminals(xterm/mlterm/DECterm/Reflection/kermit/RLogin/tanasinn/yaft)
 - [docker-registry-diff](https://github.com/mnp/docker-registry-diff) - Standalone tool to determine if several private docker registries are in sync
@@ -6988,7 +6988,7 @@
 - [sync-engine](https://github.com/nylas/sync-engine) - :incoming_envelope: IMAP/SMTP sync system with modern APIs
 - [flickr-uploader](https://github.com/trickortweak/flickr-uploader) - Upload a directory of media to Flickr to use as a backup to your local storage
 - [twitter-export-image-fill](https://github.com/mwichary/twitter-export-image-fill) - A script to download (backup locally) all the images accompanying your tweets
-- [syncthing-gtk](https://github.com/syncthing/syncthing-gtk) - GTK3 & python based GUI for Syncthing
+- [syncthing-gtk](https://github.com/kozec/syncthing-gtk) - GTK3 & python based GUI for Syncthing
 - [bakthat](https://github.com/tsileo/bakthat) - Bakthat is a MIT licensed backup framework written in Python, it's both a command line tool and a Python module that helps you manage backups on Amazon S3/Glacier and OpenStack Swift. It automatically compress, encrypt (symmetric encryption) and upload your files.
 - [backintime](https://github.com/bit-team/backintime) - Back In Time - A simple backup tool for Linux
 - [freedoom](https://github.com/freedoom/freedoom) - Freedoom is an entirely free software game based on the Doom engine.
@@ -7725,7 +7725,7 @@
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
-- [blockstack-core](https://github.com/blockstack/blockstack-core) - The reference implementation of Blockstack
+- [blockstack-core](https://github.com/blockstack/blockstack-core) - The Stacks 2.0 blockchain implementation
 - [tfs](https://github.com/redox-os/tfs) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
 - [dotakiller](https://github.com/Gexon/dotakiller) - dotakiler
 - [rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption.
