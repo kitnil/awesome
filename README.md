@@ -160,6 +160,7 @@
 
 ## C 
 
+- [nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU
 - [geany](https://github.com/geany/geany) - A fast and lightweight IDE
 - [PWMAngband](https://github.com/draconisPW/PWMAngband) - A free, multi-player roguelike dungeon exploration game based on Angband
 - [OpenSource](https://github.com/w23/OpenSource) - Load Source games maps into giant "open world" meshes
@@ -499,7 +500,7 @@
 - [moosefs](https://github.com/moosefs/moosefs) - MooseFS – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System
 - [openjpeg](https://github.com/uclouvain/openjpeg) - Official repository of the OpenJPEG project
 - [arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
-- [etlegacy](https://github.com/etlegacy/etlegacy) - ET: Legacy is based on the source code of the Wolfenstein: Enemy Territory which was released under the GPLv3 license. The main goal of this project is to fix bugs, remove old dependencies and make it playable on all major operating systems while still remaining compatible with the ET 2.60b version and as many of its mods as possible.
+- [etlegacy-deprecated](https://github.com/etlegacy/etlegacy-deprecated) - Archived repository. For current repo, see:
 - [dnscrypt-wrapper](https://github.com/cofyc/dnscrypt-wrapper) - This is dnscrypt wrapper (server-side dnscrypt proxy), which helps to add dnscrypt support to any name resolver.
 - [Cloak](https://github.com/pfultz2/Cloak) - A mini-preprocessor library to demostrate the recursive capabilites of the preprocessor
 - [e](https://github.com/hellerve/e) - A dead simple editor
@@ -1496,7 +1497,7 @@
 - [sucle](https://github.com/gregcman/sucle) - Common Lisp Voxel Game Engine
 - [cl-sdl2](https://github.com/lispgames/cl-sdl2) - Common Lisp bindings for SDL2 using C2FFI.
 - [cells](https://github.com/kennytilton/cells) - A Common Lisp implementation of the dataflow programming paradigm
-- [Particle](https://github.com/Seteeri/Particle) - PicoLisp personal knowledge base/manager zoomable/3D Lisp-structured userspace
+- [Particle](https://github.com/Seteeri/Particle) - PicoLisp personal knowledge base/manager Lisp-structured userspace
 - [cl-sdl2-tutorial](https://github.com/TatriX/cl-sdl2-tutorial) - 
 - [on-lisp](https://github.com/DalekBaldwin/on-lisp) - A modernized and annotated code companion to Paul Graham's "On Lisp".
 - [lisp-magick-wand](https://github.com/ruricolist/lisp-magick-wand) - ImageMagick bindings (fork)
@@ -3758,7 +3759,7 @@
 - [gobench](https://github.com/cmpxchg16/gobench) - HTTP/HTTPS load testing and benchmarking tool
 - [bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
-- [certmagic](https://github.com/mholt/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
+- [certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [ethr](https://github.com/microsoft/ethr) - Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.
 - [gormigrate](https://github.com/go-gormigrate/gormigrate) - Minimalistic database migration helper for Gorm ORM
@@ -4904,7 +4905,7 @@
 - [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [disable-webrtc-firefox](https://github.com/ChrisAntaki/disable-webrtc-firefox) - :lock: WebRTC leaks your actual IP addresses from behind your VPN, by default.
 - [searchlinkfix](https://github.com/palant/searchlinkfix) - Browser extension that prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks.
-- [sieve](https://github.com/thsmi/sieve) - Thunderbird Sieve Addon
+- [sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [wheat](https://github.com/creationix/wheat) - Wheat is a blog engine for coders written in node.JS
 - [netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
@@ -5660,7 +5661,7 @@
 - [awesome](https://github.com/craftcms/awesome) - A collection of awesome Craft CMS plugins, articles, resources and shiny things.
 - [awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of free as in freedom software
-- [awesome-eg](https://github.com/yrgo/awesome-eg) - A curated list of awesome educational games to learn editors, languages, programming, etc
+- [awesome-educational-games](https://github.com/yrgo/awesome-educational-games) - A curated list of awesome educational games to learn editors, languages, programming, etc
 - [awesome-community](https://github.com/phpearth/awesome-community) - A curated list of awesome programming, development, technical support and discussion channels, groups, communities, resources and other shiny things
 - [awesome-one-person-games](https://github.com/Yonaba/awesome-one-person-games) - :video_game: A curated list of successul games, made (quite) entirely by a lone gamedev.
 - [awesome-ideation-tools](https://github.com/zazaalaza/awesome-ideation-tools) - Problem solving and idea generation tools
