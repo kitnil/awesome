@@ -3333,6 +3333,7 @@
 
 ## Go 
 
+- [gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 - [Data-Structures-and-Algorithms](https://github.com/floyernick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
 - [subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
@@ -4054,6 +4055,7 @@
 
 ## HTML 
 
+- [CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
 - [OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
@@ -5458,6 +5460,7 @@
 
 ## Others 
 
+- [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
 - [TaiChi](https://github.com/taichi-framework/TaiChi) - A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.0
@@ -6445,6 +6448,8 @@
 
 ## Python 
 
+- [Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
+- [amemv-crawler](https://github.com/loadchange/amemv-crawler) - 🙌Easily download all the videos from TikTok(amemv).下载指定的 抖音（Douyin） 号的视频,抖音爬虫
 - [flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [learn-python3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
 - [darts](https://github.com/quark0/darts) - Differentiable architecture search for convolutional and recurrent networks
@@ -8818,6 +8823,7 @@
 
 ## TypeScript 
 
+- [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [jay](https://github.com/nikersify/jay) - 😎 Supercharged JavaScript REPL
 - [make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
