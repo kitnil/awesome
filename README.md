@@ -93,6 +93,7 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Shen](#shen)
+  - [Smali](#smali)
   - [Solidity](#solidity)
   - [Standard ML](#standard-ml)
   - [Starlark](#starlark)
@@ -162,6 +163,12 @@
 
 ## C 
 
+- [gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
+- [mimipenguin](https://github.com/huntergregal/mimipenguin) - A tool to dump the login password from the current linux user
+- [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) - linux-kernel-exploits Linux平台提权漏洞集合
+- [ish](https://github.com/tbodt/ish) - Linux shell for iOS
+- [lede](https://github.com/coolsnowwolf/lede) - Lean's OpenWrt source
+- [ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more
 - [StarRuler2-Source](https://github.com/BlindMindStudios/StarRuler2-Source) - 4X Space Strategy game Star Ruler 2's open source distribution.
 - [yodaos](https://github.com/yodaos-project/yodaos) - Yet another Linux distribution for voice-enabled IoT and embrace Web standards
 - [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
@@ -179,7 +186,7 @@
 - [quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
 - [quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable non-recursive adaptive merge sort which is faster than quicksort.
 - [DungeonRush](https://github.com/Rapiz1/DungeonRush) - 👾🐍 A game inspired by Snake, written in pure C with SDL
-- [pelagia](https://github.com/surparallel/pelagia) - Pelagia is an automatic parallelization (lock-free multithreading thread) tool developed by Surparallel Open Source based on the concept of sequential virtual machine.
+- [pelagia](https://github.com/surparallel/pelagia) - Automatic parallelization (lock-free multithreading thread) tool developed by Surparallel Open Source based on the concept of sequential virtual machine.
 - [hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client -
 - [loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -844,6 +851,7 @@
 
 ## C# # 
 
+- [Playnite](https://github.com/JosefNemec/Playnite) - Open source video game library manager with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay. Including game emulation support, providing one unified interface for your games.
 - [superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [Gambador](https://github.com/MaximeGammaitoni/Gambador) - 
@@ -864,6 +872,12 @@
 
 ## C++ 
 
+- [eos](https://github.com/EOSIO/eos) - An open source smart contract platform
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+- [UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction,for All Traffics(TCP/UDP/ICMP)
+- [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
+- [retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [AnyQ](https://github.com/baidu/AnyQ) - FAQ-based Question Answering System
 - [SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured desktop IDE for HLSL and GLSL shaders
 - [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
@@ -1310,6 +1324,8 @@
 
 ## CSS 
 
+- [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook
+- [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 - [missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
 - [gShort](https://github.com/someone-stole-my-name/gShort) - URL Shortener without all the crap
@@ -1695,6 +1711,7 @@
 
 ## Emacs Lisp 
 
+- [Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN) - A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译
 - [org-roam](https://github.com/jethrokuan/org-roam) - Rudimentary Roam replica with Org-mode
 - [separedit.el](https://github.com/twlz0ne/separedit.el) - Edit comment or docstring or code blocks inside them in separate buffers.
 - [tongbu.el](https://github.com/xuchunyang/tongbu.el) - Share text/file between your computer and phone
@@ -3333,6 +3350,50 @@
 
 ## Go 
 
+- [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
+- [gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
+- [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
+- [packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
+- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
+- [gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
+- [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
+- [Go-SCP](https://github.com/OWASP/Go-SCP) - Go programming language secure coding practices guide
+- [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+- [autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
+- [zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
+- [docker-ce](https://github.com/docker/docker-ce) - Docker CE
+- [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
+- [goworld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping in Golang
+- [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
+- [swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+- [faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server
+- [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+- [go-tooling-workshop](https://github.com/campoy/go-tooling-workshop) - A workshop covering all the tools gophers use in their day to day life
+- [imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
+- [LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go) - Go Solution for LeetCode algorithms problems, 100% coverage.
+- [matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
+- [velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
+- [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
+- [goflyway](https://github.com/coyove/goflyway) - An encrypted HTTP server
+- [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
+- [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
+- [pouch](https://github.com/alibaba/pouch) - An Efficient Enterprise-class Container Engine
+- [sandglass](https://github.com/sandglass/sandglass) - Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.
+- [k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies) - Kubernetes deployment strategies explained
+- [chartmuseum](https://github.com/helm/chartmuseum) - Host your own Helm Chart Repository
+- [mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
+- [gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
+- [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+- [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+- [node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, ...)
+- [miniflux](https://github.com/miniflux/miniflux) - Minimalist and opinionated feed reader
+- [fireworq](https://github.com/fireworq/fireworq) - Fireworq is a lightweight, high-performance, language-independent job queue system.
+- [fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
+- [roadrunner](https://github.com/spiral/roadrunner) - High-performance PHP application server, load-balancer and process manager written in Golang
+- [git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
+- [kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 - [Data-Structures-and-Algorithms](https://github.com/floyernick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
 - [subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
@@ -3345,7 +3406,7 @@
 - [Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
 - [tilt](https://github.com/windmilleng/tilt) - Local Kubernetes development with no stress
 - [shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
-- [crossplane](https://github.com/crossplane/crossplane) - The open source multicloud control plane.
+- [crossplane](https://github.com/crossplane/crossplane) - The open source control plane to manage your infrastructure and applications the Kubernetes way.
 - [tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
 - [goweight](https://github.com/jondot/goweight) - A tool to analyze and troubleshoot a Go binary size.
 - [avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
@@ -3427,7 +3488,7 @@
 - [phpfpmtop](https://github.com/abrander/phpfpmtop) - A top like interface for PHP-FPM
 - [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [cli](https://github.com/cli/cli) - The GitHub CLI
+- [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) - Go Peerflix
 - [awesome-podcasts](https://github.com/pbnj/awesome-podcasts) - 🎙 A collection of awesome engineering podcasts! ARCHIVED in favor of https://github.com/rShetty/awesome-podcasts
@@ -4055,6 +4116,10 @@
 
 ## HTML 
 
+- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
+- [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
+- [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
+- [Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more
 - [CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
 - [OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
@@ -4167,6 +4232,7 @@
 
 ## Haskell 
 
+- [duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 - [toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODOs in your codebase
 - [software-design-in-haskell](https://github.com/graninas/software-design-in-haskell) - Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.
 - [elm2nix](https://github.com/cachix/elm2nix) - Convert Elm project into Nix expressions
@@ -4313,6 +4379,23 @@
 
 ## Java 
 
+- [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) - A scrollable list of items that centers the current element and provides easy-to-use APIs for cool item animations.
+- [Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
+- [Matisse](https://github.com/zhihu/Matisse) - :fireworks: A well-designed local image and video selector for Android
+- [from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
+- [TableView](https://github.com/evrencoskun/TableView) - TableView is a powerful Android library for displaying complex data structures and rendering tabular data composed of rows, columns and cells.
+- [android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
+- [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open source GitHub Android client app, faster and concise.
+- [CameraView](https://github.com/natario1/CameraView) - 📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processing, RAW, output of any size.
+- [MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - Let supported push service run system-ly on every Android devices
+- [openj9](https://github.com/eclipse/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
+- [ScalingLayout](https://github.com/iammert/ScalingLayout) - With Scaling Layout scale your layout on user interaction.
+- [Interview-Questions](https://github.com/rishabh115/Interview-Questions) - Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
+- [VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
+- [jvm-profiler](https://github.com/uber-common/jvm-profiler) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter
+- [TextPathView](https://github.com/totond/TextPathView) - A View with text path animation!
+- [PhotoEditor](https://github.com/burhanrashid52/PhotoEditor) - A Photo Editor library with simple, easy support for image editing using paints,text,filters,emoji and Sticker like stories.
+- [30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8) - 30 seconds to collect useful Java 8 snippet.
 - [bundletool](https://github.com/google/bundletool) - Bundletool is a command-line tool to manipulate Android App Bundles
 - [Android-Cheat-sheet](https://github.com/anitaa1990/Android-Cheat-sheet) - Cheat Sheet for Android Interviews
 - [jdk](https://github.com/openjdk/jdk) - Read-only mirror of https://hg.openjdk.java.net/jdk/jdk
@@ -4500,6 +4583,16 @@
 
 ## JavaScript 
 
+- [titanic](https://github.com/icons8/titanic) - A set of animated icons + code to insert them into the webpages
+- [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
+- [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+- [terminal-in-react](https://github.com/nitin42/terminal-in-react) - 👨‍💻  A component that renders a terminal
+- [pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
+- [why-did-you-update](https://github.com/maicki/why-did-you-update) - :boom: Puts your console on blast when React is making unnecessary updates.
+- [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
+- [webpackmonitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process
+- [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
+- [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 - [texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
@@ -5188,6 +5281,14 @@
 
 ## Jupyter Notebook 
 
+- [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
+- [100days](https://github.com/coells/100days) - 100 days of algorithms
+- [unet](https://github.com/zhixuhao/unet) - unet for image segmentation
+- [PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial) - Build your neural network easy and fast
+- [deep-learning-coursera](https://github.com/Kulbear/deep-learning-coursera) - Deep Learning Specialization by Andrew Ng on Coursera.
+- [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) - Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)
+- [DeepLearningFrameworks](https://github.com/ilkarman/DeepLearningFrameworks) - Demo of running NNs across different frameworks
+- [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis) - Tutorials on getting started with PyTorch and TorchText for sentiment analysis.
 - [python-is-cool](https://github.com/chiphuyen/python-is-cool) - Cool Python features for machine learning that I used to be too afraid to use. Will be updated as I have more time / learn more.
 - [java-guide](https://github.com/forax/java-guide) - A guide of modern Java (Java 17)
 - [python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - Basic Cheat Sheet for Python (PDF, Markdown and Jupyter Notebook)
@@ -5250,6 +5351,8 @@
 
 ## Kotlin 
 
+- [p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+- [tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
 - [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [filebox](https://github.com/lyrebirdstudio/filebox) - Async file downloader for Android
 - [ShareToComputer](https://github.com/jimmod/ShareToComputer) - 
@@ -5281,6 +5384,8 @@
 
 ## Lua 
 
+- [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
+- [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
 - [nvimux](https://github.com/Vigemus/nvimux) - Neovim as a TMUX replacement
 - [hw](https://github.com/hedgewars/hw) - Official Hedgewars mirror for GitHub!
 - [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices) - 
@@ -5434,6 +5539,7 @@
 
 ## OCaml 
 
+- [fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
 - [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [line-up-words](https://github.com/janestreet/line-up-words) - a small cmd line tool to align words in a sequence of lines in a smart way
 - [jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml
@@ -5460,6 +5566,24 @@
 
 ## Others 
 
+- [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
+- [awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc) - ✍️ A curated list of CVE PoCs.
+- [jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) - Jest cheat sheet
+- [bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
+- [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
+- [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+- [proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
+- [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
+- [book](https://github.com/KeKe-Li/book) - :books: All programming languages books
+- [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
+- [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
+- [hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
+- [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
+- [asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
+- [python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure) - A short guide on features of Python 3 with examples (updated for python 3.7)
+- [RSPapers](https://github.com/hongleizhang/RSPapers) - Must-read papers on Recommender System.
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
@@ -6180,6 +6304,8 @@
 
 ## PHP 
 
+- [rector](https://github.com/rectorphp/rector) - Instant Upgrades and Instant Refactoring of any PHP 5.3+ code
+- [xdebug-handler](https://github.com/composer/xdebug-handler) - Restart a CLI process without loading the xdebug extension.
 - [30-seconds-of-php](https://github.com/30-seconds/30-seconds-of-php) - Short PHP code snippets for all your development needs
 - [phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [docker](https://github.com/spatie/docker) - Manage docker containers with PHP
@@ -6448,6 +6574,47 @@
 
 ## Python 
 
+- [snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text
+- [dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
+- [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
+- [apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
+- [pygta5](https://github.com/Sentdex/pygta5) - Explorations of Using Python to play Grand Theft Auto 5.
+- [WebHubBot](https://github.com/xiyouMc/WebHubBot) - Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.
+- [weibo_terminater](https://github.com/jinfagang/weibo_terminater) - Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator
+- [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
+- [pytorch-playground](https://github.com/aaron-xichen/pytorch-playground) - Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)
+- [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python
+- [textdistance](https://github.com/life4/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
+- [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
+- [nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
+- [dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable distributed task processing library for Python 3.
+- [twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
+- [objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
+- [MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types
+- [s2client-proto](https://github.com/Blizzard/s2client-proto) - StarCraft II Client - protocol definitions used to communicate with StarCraft II.
+- [pysc2](https://github.com/deepmind/pysc2) - StarCraft II Learning Environment
+- [pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
+- [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
+- [halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
+- [pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
+- [featuretools](https://github.com/FeatureLabs/featuretools) - An open source python library for automated feature engineering
+- [face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
+- [haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
+- [text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn) - text detection mainly based on ctpn model in tensorflow, id card detect, connectionist text proposal network
+- [tangent](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python
+- [deepo](https://github.com/ufoym/deepo) - Set up deep learning environment in a single command line.
+- [Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
+- [toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+- [Cirq](https://github.com/quantumlib/Cirq) - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
+- [fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
+- [cartoonify](https://github.com/danmacnish/cartoonify) - python app to turn a photograph into a cartoon
+- [open-paperless](https://github.com/zhoubear/open-paperless) - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS)
+- [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
+- [sketch-code](https://github.com/ashnkumar/sketch-code) - Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.
+- [diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
+- [15-minute-apps](https://github.com/learnpyqt/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
+- [gnomecast](https://github.com/keredson/gnomecast) - Chromecast local files from Linux - supports MKV, subtitles, 5.1 sound and 4K!
+- [EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 - [Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
 - [amemv-crawler](https://github.com/loadchange/amemv-crawler) - 🙌Easily download all the videos from TikTok(amemv).下载指定的 抖音（Douyin） 号的视频,抖音爬虫
 - [flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
@@ -6491,7 +6658,7 @@
 - [Sorting-Algorithm-Visualizer](https://github.com/test123/Sorting-Algorithm-Visualizer) - 
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
-- [checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build time - Terraform static analysis
+- [checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build time - Terraform & Cloudformation static analysis
 - [andriller](https://github.com/den4uk/andriller) - Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
 - [YouTube-Report](https://github.com/A3M4/YouTube-Report) - :bar_chart: Generate a personal YouTube report from your Google Takeout data
 - [Silver](https://github.com/s0md3v/Silver) - Mass scan IPs for vulnerable services
@@ -7948,6 +8115,16 @@
 
 ## Rust 
 
+- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
+- [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
+- [idiomatic-rust](https://github.com/mre/idiomatic-rust) - A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
+- [rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
+- [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+- [gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
+- [swc](https://github.com/swc-project/swc) - Super-fast typescript / javascript compiler written in rust
+- [azul](https://github.com/maps4print/azul) - Desktop GUI Framework
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/jasonwilliams/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [tide](https://github.com/http-rs/tide) - Serve the web – HTTP server framework
@@ -8181,6 +8358,11 @@
 
 ## Shell 
 
+- [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
+- [linux-surface](https://github.com/jakeday/linux-surface) - Linux Kernel for Surface Devices
+- [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - macOS Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2017 & 2018
+- [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
+- [espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [formation](https://github.com/minamarkham/formation) - 💻 macOS setup script for front-end development
 - [generate-ssl-certs-for-local-development](https://github.com/kingkool68/generate-ssl-certs-for-local-development) - A bash script for generating trusted self-signed SSL certs for local development on your Mac
 - [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
@@ -8759,6 +8941,10 @@
 - [shen-scheme](https://github.com/tizoc/shen-scheme) - Shen/Scheme implementation
 - [shen-sources](https://github.com/Shen-Language/shen-sources) - The Official Shen Sources
 
+## Smali 
+
+- [AhMyth-Android-RAT](https://github.com/AhMyth/AhMyth-Android-RAT) - Android Remote Administration Tool
+
 ## Solidity 
 
 - [aragonOS](https://github.com/aragon/aragonOS) - Reference implementation for aragonOS: a Solidity framework for building complex dApps and protocols
@@ -8780,6 +8966,7 @@
 
 ## TeX 
 
+- [os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 - [ixy-languages](https://github.com/ixy-languages/ixy-languages) - A high-speed network driver written in C, Rust, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python
 - [gitdags](https://github.com/jubobs/gitdags) - A package for drawing educational Git history graphs
 - [org-babel-examples](https://github.com/novoid/org-babel-examples) - Examples using emacs org mode babel inline source code with different backend languages
@@ -8823,6 +9010,15 @@
 
 ## TypeScript 
 
+- [react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
+- [pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
+- [voice-web](https://github.com/mozilla/voice-web) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
+- [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
+- [wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
+- [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
+- [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [jay](https://github.com/nikersify/jay) - 😎 Supercharged JavaScript REPL
@@ -8993,6 +9189,7 @@
 
 ## Vue 
 
+- [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
