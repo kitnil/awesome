@@ -2140,7 +2140,6 @@
 - [helm-hunks.el](https://github.com/torgeir/helm-hunks.el) - A helm interface for git hunks - browsing, staging, unstaging and killing
 - [multi-replace](https://github.com/calancha/multi-replace) - 
 - [helm-lines.el](https://github.com/torgeir/helm-lines.el) - A helm interface for completing by lines typed elswhere in your git project.
-- [org-sidebar](https://github.com/alphapapa/org-sidebar) - A helpful sidebar for Org mode
 - [erc-image.el](https://github.com/kidd/erc-image.el) - Fetch and show received images in a ERC buffer
 - [frame-purpose.el](https://github.com/alphapapa/frame-purpose.el) - Purpose-specific frames for Emacs
 - [emake.el](https://github.com/vermiculus/emake.el) - Test Elisp without the hoops
@@ -2262,7 +2261,6 @@
 - [auto-org-md](https://github.com/jamcha-aa/auto-org-md) - export a markdown file automatically when you save an org-mode file
 - [syslog-mode](https://github.com/vapniks/syslog-mode) - Emacs major-mode for viewing log files
 - [hide-lines](https://github.com/vapniks/hide-lines) - Commands for hiding lines based on a regexp
-- [docker-nexus3](https://github.com/sonatype/docker-nexus3) - Dockerized version of Nexus Repo Manager 3
 - [emacs-company-dict](https://github.com/hlissner/emacs-company-dict) - A port of ac-source-dictionary to company-mode, plus annotation and documentation support.
 - [replique.el](https://github.com/EwenG/replique.el) - 
 - [el2org](https://github.com/tumashu/el2org) - Convert an emacs-lisp file to org file
@@ -4097,6 +4095,7 @@
 - [job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs - Sweeeeet!
 - [wolox-ci](https://github.com/Wolox/wolox-ci) - 
 - [rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+- [docker-nexus3](https://github.com/sonatype/docker-nexus3) - Dockerized version of Nexus Repo Manager 3
 
 ## HCL 
 
@@ -4612,7 +4611,7 @@
 - [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
 - [Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go board and SGF editor for a more civilized age.
-- [brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for macOS, Windows, Linux, and eventually Android
+- [brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for macOS, Windows, Linux, and (coming soon) Android
 - [phaser-examples](https://github.com/photonstorm/phaser-examples) - Contains hundreds of source code examples and related media for the Phaser HTML5 Game Framework.
 - [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -8736,6 +8735,7 @@
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
+- [org-sidebar](https://github.com/alphapapa/org-sidebar) - A helpful sidebar for Org mode
 - [mangle](https://github.com/alphapapa/mangle) - Mangle man pages to show just the parts you need (suitable for aliasing to "man")
 - [ansible-vault-tools](https://github.com/building5/ansible-vault-tools) - Tools for working with ansible-vault
 - [bashinator](https://github.com/wschlich/bashinator) - Bashinator: Bash Shell Script Framework
