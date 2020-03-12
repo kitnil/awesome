@@ -163,6 +163,7 @@
 
 ## C 
 
+- [avscript](https://github.com/taviso/avscript) - Avast JavaScript Interactive Shell
 - [gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
 - [mimipenguin](https://github.com/huntergregal/mimipenguin) - A tool to dump the login password from the current linux user
 - [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) - linux-kernel-exploits Linux平台提权漏洞集合
@@ -4115,6 +4116,7 @@
 
 ## HTML 
 
+- [pyptex](https://github.com/sloisel/pyptex) - Python Preprocessor for LaTeX
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
 - [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
@@ -5565,6 +5567,8 @@
 
 ## Others 
 
+- [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentations from Hugging Face's weekly science day
+- [reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 - [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
 - [awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc) - ✍️ A curated list of CVE PoCs.
 - [jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) - Jest cheat sheet
@@ -6573,6 +6577,7 @@
 
 ## Python 
 
+- [superimposer](https://github.com/jonhoo/superimposer) - 
 - [snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text
 - [dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
 - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
@@ -8357,6 +8362,13 @@
 
 ## Shell 
 
+- [tcon](https://github.com/dustinblackman/tcon) - A slightly lazy shell script to run parallel commands with tmux panes through a FIFO queue.
+- [Exegol](https://github.com/ShutdownRepo/Exegol) - Exegol is a kali light base with a few useful additional tools and some basic configuration
+- [fzf-tmux-pane](https://github.com/kevinhwang91/fzf-tmux-pane) - Using fzf to select the panes of tmux
+- [bashcheck](https://github.com/hannob/bashcheck) - test script for shellshocker and related vulnerabilities
+- [rofi](https://github.com/adi1090x/rofi) - Rofi Based Custom Applets And Menus.
+- [awesome-docker-lamp](https://github.com/khaledalam/awesome-docker-lamp) - A Docker image with simple script to build LAMP stack apps (Ubuntu, Apache, PHP and MySql) using single docker image.
+- [TablaZinc](https://github.com/senshu/TablaZinc) - Generate guitar tablatures using a constraint solver
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [linux-surface](https://github.com/jakeday/linux-surface) - Linux Kernel for Surface Devices
 - [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - macOS Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2017 & 2018
@@ -9010,6 +9022,7 @@
 
 ## TypeScript 
 
+- [actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute any script in issue comment
 - [react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [voice-web](https://github.com/mozilla/voice-web) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
