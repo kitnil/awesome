@@ -2638,7 +2638,7 @@
 - [projectile-direnv](https://github.com/christianromney/projectile-direnv) - Export your projectile project's environment variables in .envrc
 - [elisp](https://github.com/cadadr/elisp) - The hive for Göktuğ's Emacs Stuff.
 - [rust-playground](https://github.com/grafov/rust-playground) - GNU/Emacs mode that setup local playground for code snippets in Rust language.
-- [tracker.el](https://github.com/defaultxr/tracker.el) - a music tracker/sequencer for emacs
+- [tracker-mode](https://github.com/defaultxr/tracker-mode) - a music tracker/sequencer for emacs
 - [char-menu](https://github.com/mrkkrp/char-menu) - Create your own menu for fast insertion of arbitrary symbols
 - [socyl](https://github.com/nlamirault/socyl) - The emacs frontend for several search tools (ag, pt, sift, ripgrep, ...)
 - [ob-sagemath](https://github.com/sagemath/ob-sagemath) - org-babel integration with SageMath
@@ -3472,7 +3472,7 @@
 - [flamingo](https://github.com/atredispartners/flamingo) - Flamingo captures credentials sprayed across the network by various IT and security products.
 - [neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
-- [ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast file and directory name linter
+- [ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast file and directory name linter - Bring some structure to your file and directory names
 - [the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) - 
 - [simdjson-go](https://github.com/minio/simdjson-go) - Golang port of simdjson: parsing gigabytes of JSON per second
 - [shox](https://github.com/liamg/shox) - 🍫 A customisable, universally compatible terminal status bar
@@ -9022,7 +9022,7 @@
 
 ## TypeScript 
 
-- [actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute any script in issue comment
+- [actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute any script in a GitHub issue comment
 - [react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [voice-web](https://github.com/mozilla/voice-web) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
