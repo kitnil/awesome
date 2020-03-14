@@ -411,7 +411,7 @@
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X.
 - [ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
-- [LISP](https://github.com/krig/LISP) - My attempt at implementing the original LISP paper while learning lisp. Nothing special, mostly posted as a homage to McCarthy.
+- [LISP](https://github.com/krig/LISP) - Lisp interpreter in less than 500 lines of C, including a copying garbage collector and an implementation of LISP 1.5 from 1962.
 - [h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
 - [zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
 - [mangband](https://github.com/mangband/mangband) - A free online multi-player realtime roguelike game based on Angband
@@ -1325,6 +1325,7 @@
 
 ## CSS 
 
+- [rofi-themes](https://github.com/davatorium/rofi-themes) - Themes for Rofi
 - [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook
 - [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 - [missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
@@ -3635,7 +3636,7 @@
 - [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system.
 - [dingo](https://github.com/pforemski/dingo) - A DNS client in Go that supports Google DNS over HTTPS
-- [terraform-provider-template](https://github.com/terraform-providers/terraform-provider-template) - Terraform template provider
+- [terraform-provider-template](https://github.com/hashicorp/terraform-provider-template) - Terraform template provider
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [gnet](https://github.com/panjf2000/gnet) - 🚀gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
@@ -3725,7 +3726,7 @@
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
-- [teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
+- [teleport](https://github.com/gravitational/teleport) - Privileged access management that doesn’t get in the way.
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [minishift](https://github.com/minishift/minishift) - Run OpenShift 3.x locally
@@ -4750,7 +4751,7 @@
 - [orgmodeweb](https://github.com/borablanca/orgmodeweb) - Web app to view, edit and search org files.
 - [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
-- [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
+- [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [flecs-systems-admin](https://github.com/flecs-hub/flecs-systems-admin) - A web dashboard for Flecs
 - [front-end-interview](https://github.com/Advanced-Interview-Question/front-end-interview) - A list of interview for front-end developer(前端开发者面试清单)
 - [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code
@@ -5324,7 +5325,7 @@
 - [roguelike-universe](https://github.com/Spaxe/roguelike-universe) - Understanding game design inspiration of roguelike games via web scraping and network analysis.
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-- [practicalAI](https://github.com/madewithml/practicalAI) - 📚 Learn ML with clean code, simplified math and illustrative visuals.
+- [practicalAI](https://github.com/madewithml/practicalAI) - 📚 Learn ML with clean code, simplified math and illustrative visuals. As you learn, work on interesting projects and share them on https://madewithml.com for the community to discover and learn from!
 - [DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [Hello-world](https://github.com/Aniket965/Hello-world) - Add any  Program in any language you like or add a hello world Program ❣️ if you like give us :star:
 - [ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments) - Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.
@@ -5807,7 +5808,7 @@
 - [awesome-gamedev](https://github.com/Calinou/awesome-gamedev) - A collection of free software and free culture resources for making amazing games. (mirror)
 - [NeverSink-Filter](https://github.com/NeverSinkDev/NeverSink-Filter) - This is a lootfilter for the game "Path of Exile". It hides low value items, uses a markup-scheme and sounds to highlight expensive gear and is based on economy data mining.
 - [command-injection-payload-list](https://github.com/payloadbox/command-injection-payload-list) - 🎯 Command Injection Payload List
-- [goodies](https://github.com/rsapkf/goodies) - Collection of GitHub repos, blogs and websites to learn cool things, Goodies for nerds
+- [goodies](https://github.com/rsapkf/goodies) - Collection of GitHub repos, blogs and websites to learn cool stuff.
 - [infrastructure-as-code-tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial) - Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
 - [unix-as-ide](https://github.com/mrzool/unix-as-ide) - The ebook version of Tom Ryder's series on the Unix programming environment
 - [bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
@@ -7177,7 +7178,7 @@
 - [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [SSH-Brute-Forcer](https://github.com/R4stl1n/SSH-Brute-Forcer) - A Simple Multi-Threaded SSH Brute Forcer
 - [trigger](https://github.com/trigger/trigger) - Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices.
-- [remarshal](https://github.com/dbohdan/remarshal) - Convert between JSON, MessagePack, TOML, and YAML
+- [remarshal](https://github.com/dbohdan/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
 - [deduplicated](https://github.com/eduardoklosowski/deduplicated) - Check duplicated files
 - [camelot](https://github.com/atlanhq/camelot) - Camelot: PDF Table Extraction for Humans
 - [boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 240+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
@@ -8405,7 +8406,7 @@
 - [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
 - [gradle-completion](https://github.com/gradle/gradle-completion) - Gradle tab completion for bash and zsh
 - [docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
-- [docker-elk](https://github.com/deviantony/docker-elk) - The ELK stack powered by Docker and Compose.
+- [docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [org-el-cache](https://github.com/l3kn/org-el-cache) - Persistent cache for data derived from org-elements
 - [nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
@@ -8580,7 +8581,7 @@
 - [MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
 - [nix-venient](https://github.com/holidaycheck/nix-venient) - A collection of convenient commands for working with nix/nixpkgs
 - [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix implementation for direnv [maintainer=@Mic92]
-- [terraform-provider-external](https://github.com/terraform-providers/terraform-provider-external) - Terraform external provider
+- [terraform-provider-external](https://github.com/hashicorp/terraform-provider-external) - Terraform external provider
 - [postgres](https://github.com/docker-library/postgres) - Docker Official Image packaging for Postgres
 - [docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
