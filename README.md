@@ -1799,7 +1799,7 @@
 - [site.org](https://github.com/dmacvicar/site.org) - Website in org mode
 - [auto-dim-other-buffers](https://github.com/emacsmirror/auto-dim-other-buffers) - Makes non-current buffers less prominent
 - [highlight-focus](https://github.com/kriyative/highlight-focus) - Emacs Lisp package for highlighting the active buffer
-- [kiwix.el](https://github.com/stardiviner/kiwix.el) - Search locale wikipedia with kiwix HTTP server.
+- [kiwix.el](https://github.com/stardiviner/kiwix.el) - Use kiwix in your Emacs
 - [compdef](https://github.com/emacsmirror/compdef) - A local completion definer
 - [lisp-mode-snippets](https://github.com/nibbula/lisp-mode-snippets) - Some yasnippets for Common Lisp
 - [go-snippets](https://github.com/toumorokoshi/go-snippets) - yasnippet snippets for Go
@@ -2196,7 +2196,7 @@
 - [counsel-term](https://github.com/tautologyclub/counsel-term) - Collection of Ivy-based utils for term-mode
 - [emacswiki-elpa](https://github.com/emacs-china/emacswiki-elpa) - An unofficial Emacs Lisp Package Archive for EmacsWiki
 - [eww-lnum](https://github.com/m00natic/eww-lnum) - Conkeror-like functionality for EWW
-- [emacs-helm-perldoc](https://github.com/syohex/emacs-helm-perldoc) - perlpod with helm interface
+- [emacs-helm-perldoc](https://github.com/emacsorphanage/emacs-helm-perldoc) - perlpod with helm interface
 - [emms-player-mpv-jp-radios](https://github.com/momomo5717/emms-player-mpv-jp-radios) - EMMS players and stream lists of Japan radio stations
 - [package-build](https://github.com/melpa/package-build) - Tools for assembling a package archive
 - [company-suggest](https://github.com/juergenhoetzel/company-suggest) - company-mode back-end for auto-completing using search engine suggestions.
@@ -2709,7 +2709,7 @@
 - [fingers.el](https://github.com/fgeller/fingers.el) - Modal editing minor mode for Emacs
 - [sonic-pi.el](https://github.com/repl-electric/sonic-pi.el) - Emacs running SonicPi
 - [typit](https://github.com/mrkkrp/typit) - Typing game for Emacs similar to the tests on 10 fast fingers
-- [emacs-zoom-window](https://github.com/syohex/emacs-zoom-window) - Zoom and Unzoom window
+- [emacs-zoom-window](https://github.com/emacsorphanage/emacs-zoom-window) - Zoom and Unzoom window
 - [tldr.el](https://github.com/kuanyui/tldr.el) - tldr client for Emacs
 - [sensible-defaults.el](https://github.com/hrs/sensible-defaults.el) - A simple, modular collection of better Emacs default settings.
 - [sane-term](https://github.com/adamrt/sane-term) - Cycle through terms in emacs
@@ -2771,11 +2771,11 @@
 - [perspective-el](https://github.com/nex3/perspective-el) - Perspectives for Emacs.
 - [easy-kill](https://github.com/leoliu/easy-kill) - Kill & Mark Things Easily in Emacs
 - [emacs.g](https://github.com/emacscollective/emacs.g) - The Emacs Collective
-- [emacs-dired-k](https://github.com/syohex/emacs-dired-k) - Highlighting dired buffer like k
+- [emacs-dired-k](https://github.com/emacsorphanage/emacs-dired-k) - Highlighting dired buffer like k
 - [ido-vertical-mode.el](https://github.com/creichert/ido-vertical-mode.el) - makes ido-mode display vertically
 - [telephone-line](https://github.com/dbordak/telephone-line) - A new implementation of Powerline for Emacs
 - [shell-pop-el](https://github.com/kyagi/shell-pop-el) - shell-pop.el helps you to use shell easily on Emacs. Only one key action to work.
-- [emacs-helm-themes](https://github.com/syohex/emacs-helm-themes) - Emacs theme selection with helm interface
+- [emacs-helm-themes](https://github.com/emacsorphanage/emacs-helm-themes) - Emacs theme selection with helm interface
 - [outshine](https://github.com/alphapapa/outshine) - Org-mode for non-Org buffers
 - [company-irony-c-headers](https://github.com/hotpxl/company-irony-c-headers) - Company mode backend for C/C++ header files with Irony
 - [emacs-epc](https://github.com/kiwanami/emacs-epc) - A RPC stack for Emacs Lisp
@@ -2836,7 +2836,7 @@
 - [fzf.el](https://github.com/bling/fzf.el) - A front-end for fzf
 - [rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
 - [jump.el](https://github.com/eschulte/jump.el) - elisp utility for defining functions which contextually jump between files
-- [emacs-sourcemap](https://github.com/syohex/emacs-sourcemap) - Sourmap parser in Emacs Lisp
+- [emacs-sourcemap](https://github.com/emacsorphanage/emacs-sourcemap) - Sourmap parser in Emacs Lisp
 - [less-css-mode](https://github.com/purcell/less-css-mode) - Emacs mode for LESS CSS (lesscss.org), with support for compile-on-save
 - [wordgen.el](https://github.com/Fanael/wordgen.el) - (Pseudo-)Random word generator
 - [json-snatcher](https://github.com/Sterlingg/json-snatcher) - Get the path to a JSON element in Emacs.
@@ -2896,7 +2896,7 @@
 - [emacs-ssh-deploy](https://github.com/cjohansson/emacs-ssh-deploy) - A deployment plugin via Tramp for Emacs.
 - [emmet-mode](https://github.com/smihica/emmet-mode) - emmet's support for emacs.
 - [elmarmalade](https://github.com/nicferrier/elmarmalade) - emacs-lisp version of the marmalade package repository
-- [emacs-helm-ag](https://github.com/syohex/emacs-helm-ag) - The silver searcher with helm interface
+- [emacs-helm-ag](https://github.com/emacsorphanage/emacs-helm-ag) - The silver searcher with helm interface
 - [nyan-mode](https://github.com/TeMPOraL/nyan-mode) - Nyan Cat for Emacs! Nyanyanyanyanyanyanyanyanyan!
 - [github-notifier.el](https://github.com/xuchunyang/github-notifier.el) - Displays your GitHub notifications unread count in Emacs mode-line
 - [borg](https://github.com/emacscollective/borg) - Assimilate Emacs packages as Git submodules
@@ -3098,7 +3098,7 @@
 - [erc-hl-nicks](https://github.com/leathekd/erc-hl-nicks) - Nickname Highlighting for ERC
 - [imenu-list](https://github.com/bmag/imenu-list) - Emacs plugin to show the current buffer's imenu entries in a seperate buffer
 - [move-text](https://github.com/emacsfodder/move-text) - move current line or region up or down
-- [emacs-anzu](https://github.com/syohex/emacs-anzu) - Emacs Port of anzu.vim
+- [emacs-anzu](https://github.com/emacsorphanage/emacs-anzu) - Emacs Port of anzu.vim
 - [emacs-xkcd](https://github.com/vibhavp/emacs-xkcd) - Read xkcd from Emacs
 - [simple-mpc](https://github.com/jorenvo/simple-mpc) - A GNU Emacs frontend to mpc.
 - [solarized-emacs](https://github.com/bbatsov/solarized-emacs) - The Solarized colour theme, ported to Emacs.
@@ -3109,9 +3109,9 @@
 - [eshell-up](https://github.com/peterwvj/eshell-up) - Quickly go to a specific parent directory in eshell
 - [git-modes](https://github.com/magit/git-modes) - Emacs major modes for Git configuration files
 - [git-link](https://github.com/sshaw/git-link) - Emacs package to get the GitHub/Bitbucket/GitLab/... URL for a buffer location
-- [emacs-git-messenger](https://github.com/syohex/emacs-git-messenger) - Emacs Port of git-messenger.vim
+- [emacs-git-messenger](https://github.com/emacsorphanage/emacs-git-messenger) - Emacs Port of git-messenger.vim
 - [org-bullets](https://github.com/sabof/org-bullets) - utf-8 bullets for org-mode
-- [emacs-git-gutter-fringe](https://github.com/syohex/emacs-git-gutter-fringe) - Fringe version of git-gutter.el
+- [emacs-git-gutter-fringe](https://github.com/emacsorphanage/emacs-git-gutter-fringe) - Fringe version of git-gutter.el
 - [origami.el](https://github.com/gregsexton/origami.el) - A folding minor mode for Emacs
 - [Highlight-Indentation-for-Emacs](https://github.com/antonj/Highlight-Indentation-for-Emacs) - Minor modes to highlight indentation guides in emacs.
 - [indent-guide](https://github.com/zk-phi/indent-guide) - [emacs] show vertical lines to guide indentation
@@ -3170,7 +3170,7 @@
 - [soundklaus.el](https://github.com/r0man/soundklaus.el) - Play music on SoundCloud with Emacs via EMMS
 - [camcorder.el](https://github.com/Malabarba/camcorder.el) - Tool for capturing screencasts directly from Emacs.
 - [projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
-- [emacs-quickrun](https://github.com/syohex/emacs-quickrun) - Run command quickly. This packages is inspired quickrun.vim
+- [emacs-quickrun](https://github.com/emacsorphanage/emacs-quickrun) - Run command quickly. This packages is inspired quickrun.vim
 - [emms-player-mpv](https://github.com/dochang/emms-player-mpv) - mpv support for EMMS
 - [spacemacs-emms](https://github.com/K0HAX/spacemacs-emms) - Emms layer for Spacemacs
 - [emms](https://github.com/emacsmirror/emms) - The Emacs Multimedia System
@@ -3230,12 +3230,12 @@
 - [Emacs-langtool](https://github.com/mhayashi1120/Emacs-langtool) - LanguageTool for Emacs
 - [helm-swoop](https://github.com/emacsorphanage/helm-swoop) - Efficiently hopping squeezed lines powered by Emacs helm interface
 - [diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
-- [emacs-git-gutter](https://github.com/syohex/emacs-git-gutter) - Emacs port of GitGutter which is Sublime Text Plugin
+- [emacs-git-gutter](https://github.com/emacsorphanage/emacs-git-gutter) - Emacs port of GitGutter which is Sublime Text Plugin
 - [emacs-snapshot](https://github.com/dkogan/emacs-snapshot) - Tree for GNU Emacs Debian snapshots
 - [no-littering](https://github.com/emacscollective/no-littering) - Help keeping ~/.emacs.d clean
 - [emacs-ansible](https://github.com/k1LoW/emacs-ansible) - 
 - [git-auto-commit-mode](https://github.com/ryuslash/git-auto-commit-mode) - Automatically commit to git after each save
-- [emacs-terraform-mode](https://github.com/syohex/emacs-terraform-mode) - Major mode of Terraform configuration file
+- [emacs-terraform-mode](https://github.com/emacsorphanage/emacs-terraform-mode) - Major mode of Terraform configuration file
 - [command-log-mode](https://github.com/lewang/command-log-mode) - log commands to buffer
 - [org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
 - [org-mode](https://github.com/jwiegley/org-mode) - This is a very old fork of Org-mode, but it's the version I still use every day
@@ -3251,7 +3251,7 @@
 - [ox-twbs](https://github.com/marsmining/ox-twbs) - Export org-mode docs as HTML compatible with Twitter Bootstrap.
 - [org-preview-html](https://github.com/lujun9972/org-preview-html) - automatically use eww to preview current org-file when save
 - [omnisharp-emacs](https://github.com/OmniSharp/omnisharp-emacs) - Troll coworkers - use Emacs at work for csharp!
-- [emacs-emamux](https://github.com/syohex/emacs-emamux) - tmux manipulation from Emacs
+- [emacs-emamux](https://github.com/emacsorphanage/emacs-emamux) - tmux manipulation from Emacs
 - [emacs-gitlab](https://github.com/nlamirault/emacs-gitlab) - A Gitlab client for Emacs
 - [gh.el](https://github.com/sigma/gh.el) - GitHub API library for Emacs
 - [spacemacs-elpa-mirror](https://github.com/syl20bnr/spacemacs-elpa-mirror) - ELPA archive for Spacemacs packages.
@@ -3301,7 +3301,7 @@
 - [emacs-color-theme-solarized](https://github.com/sellout/emacs-color-theme-solarized) - Emacs highlighting using Ethan Schoonover’s Solarized color scheme
 - [evil-tmux-navigator](https://github.com/keith/evil-tmux-navigator) - Seamlessly navigate Emacs and tmux splits
 - [helm](https://github.com/emacs-helm/helm) - Emacs incremental completion and selection narrowing framework
-- [emacs-helm-gtags](https://github.com/syohex/emacs-helm-gtags) - GNU GLOBAL helm interface
+- [emacs-helm-gtags](https://github.com/emacsorphanage/emacs-helm-gtags) - GNU GLOBAL helm interface
 - [prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [emacs-jedi](https://github.com/tkf/emacs-jedi) - Python auto-completion for Emacs
@@ -3805,7 +3805,7 @@
 - [gitlab-copy](https://github.com/gotsunami/gitlab-copy) - Batch copy issues between GitLab instances, with some cool features
 - [jv](https://github.com/maxzender/jv) - Helps you view JSON on the command-line.
 - [klepto](https://github.com/hellofresh/klepto) - Klepto is a tool for copying and anonymising data
-- [token-ticker](https://github.com/polyrabbit/token-ticker) - 📈Track token prices of your favorite exchanges in terminal!
+- [my-token](https://github.com/polyrabbit/my-token) - 📈Track token prices of your favorite exchanges in terminal!
 - [ruler](https://github.com/sensepost/ruler) - A tool to abuse Exchange services
 - [staert](https://github.com/containous/staert) - Merge your configuration sources
 - [osm](https://github.com/appscode/osm) - 🚚 ☁️ Object Store Manipulator - curl for cloud storage
@@ -5325,7 +5325,7 @@
 - [roguelike-universe](https://github.com/Spaxe/roguelike-universe) - Understanding game design inspiration of roguelike games via web scraping and network analysis.
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-- [practicalAI](https://github.com/madewithml/practicalAI) - 📚 Learn ML with clean code, simplified math and illustrative visuals. As you learn, work on interesting projects and share them on https://madewithml.com for the community to discover and learn from!
+- [lessons](https://github.com/madewithml/lessons) - 📚 Learn ML with clean code, simplified math and illustrative visuals. As you learn, work on interesting projects and share them on https://madewithml.com for the community to discover and learn from!
 - [DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [Hello-world](https://github.com/Aniket965/Hello-world) - Add any  Program in any language you like or add a hello world Program ❣️ if you like give us :star:
 - [ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments) - Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.
@@ -6819,6 +6819,7 @@
 - [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
 - [ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
 - [orgparse](https://github.com/karlicoss/orgparse) - Python module for reading Emacs org-mode files
+- [docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
 - [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [ansible-runner-service](https://github.com/ansible/ansible-runner-service) - 
@@ -8583,7 +8584,6 @@
 - [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix implementation for direnv [maintainer=@Mic92]
 - [terraform-provider-external](https://github.com/hashicorp/terraform-provider-external) - Terraform external provider
 - [postgres](https://github.com/docker-library/postgres) - Docker Official Image packaging for Postgres
-- [docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
 - [WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [mariadb](https://github.com/docker-library/mariadb) - Docker Official Image packaging for MariaDB
