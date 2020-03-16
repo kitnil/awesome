@@ -1728,7 +1728,6 @@
 - [vcard](https://github.com/emacsmirror/vcard) - Utilities for working with vCard files
 - [emacsit](https://github.com/SidharthArya/emacsit) - A Toy Package Manager for Emacs.
 - [metapost-png-preview](https://github.com/johanvts/metapost-png-preview) - png-based preview of metapost in emacs.
-- [command-center](https://github.com/lukaszkorecki/command-center) - ~/.emacs.d & ~/.bashrc & more
 - [emacs-php-doc-block](https://github.com/moskalyovd/emacs-php-doc-block) - PHPDocBlock generator
 - [elgantt](https://github.com/legalnonsense/elgantt) - A Gantt Chart (Calendar) for Org Mode
 - [org-deadsync](https://github.com/legalnonsense/org-deadsync) - Sync deadlines in orgmode files
@@ -2196,7 +2195,7 @@
 - [counsel-term](https://github.com/tautologyclub/counsel-term) - Collection of Ivy-based utils for term-mode
 - [emacswiki-elpa](https://github.com/emacs-china/emacswiki-elpa) - An unofficial Emacs Lisp Package Archive for EmacsWiki
 - [eww-lnum](https://github.com/m00natic/eww-lnum) - Conkeror-like functionality for EWW
-- [emacs-helm-perldoc](https://github.com/emacsorphanage/emacs-helm-perldoc) - perlpod with helm interface
+- [helm-perldoc](https://github.com/emacsorphanage/helm-perldoc) - perlpod with helm interface
 - [emms-player-mpv-jp-radios](https://github.com/momomo5717/emms-player-mpv-jp-radios) - EMMS players and stream lists of Japan radio stations
 - [package-build](https://github.com/melpa/package-build) - Tools for assembling a package archive
 - [company-suggest](https://github.com/juergenhoetzel/company-suggest) - company-mode back-end for auto-completing using search engine suggestions.
@@ -2709,7 +2708,7 @@
 - [fingers.el](https://github.com/fgeller/fingers.el) - Modal editing minor mode for Emacs
 - [sonic-pi.el](https://github.com/repl-electric/sonic-pi.el) - Emacs running SonicPi
 - [typit](https://github.com/mrkkrp/typit) - Typing game for Emacs similar to the tests on 10 fast fingers
-- [emacs-zoom-window](https://github.com/emacsorphanage/emacs-zoom-window) - Zoom and Unzoom window
+- [zoom-window](https://github.com/emacsorphanage/zoom-window) - Zoom and Unzoom window
 - [tldr.el](https://github.com/kuanyui/tldr.el) - tldr client for Emacs
 - [sensible-defaults.el](https://github.com/hrs/sensible-defaults.el) - A simple, modular collection of better Emacs default settings.
 - [sane-term](https://github.com/adamrt/sane-term) - Cycle through terms in emacs
@@ -2771,11 +2770,11 @@
 - [perspective-el](https://github.com/nex3/perspective-el) - Perspectives for Emacs.
 - [easy-kill](https://github.com/leoliu/easy-kill) - Kill & Mark Things Easily in Emacs
 - [emacs.g](https://github.com/emacscollective/emacs.g) - The Emacs Collective
-- [emacs-dired-k](https://github.com/emacsorphanage/emacs-dired-k) - Highlighting dired buffer like k
+- [dired-k](https://github.com/emacsorphanage/dired-k) - Highlighting dired buffer like k
 - [ido-vertical-mode.el](https://github.com/creichert/ido-vertical-mode.el) - makes ido-mode display vertically
 - [telephone-line](https://github.com/dbordak/telephone-line) - A new implementation of Powerline for Emacs
 - [shell-pop-el](https://github.com/kyagi/shell-pop-el) - shell-pop.el helps you to use shell easily on Emacs. Only one key action to work.
-- [emacs-helm-themes](https://github.com/emacsorphanage/emacs-helm-themes) - Emacs theme selection with helm interface
+- [helm-themes](https://github.com/emacsorphanage/helm-themes) - Emacs theme selection with helm interface
 - [outshine](https://github.com/alphapapa/outshine) - Org-mode for non-Org buffers
 - [company-irony-c-headers](https://github.com/hotpxl/company-irony-c-headers) - Company mode backend for C/C++ header files with Irony
 - [emacs-epc](https://github.com/kiwanami/emacs-epc) - A RPC stack for Emacs Lisp
@@ -2836,7 +2835,7 @@
 - [fzf.el](https://github.com/bling/fzf.el) - A front-end for fzf
 - [rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
 - [jump.el](https://github.com/eschulte/jump.el) - elisp utility for defining functions which contextually jump between files
-- [emacs-sourcemap](https://github.com/emacsorphanage/emacs-sourcemap) - Sourmap parser in Emacs Lisp
+- [sourcemap](https://github.com/emacsorphanage/sourcemap) - Sourmap parser in Emacs Lisp
 - [less-css-mode](https://github.com/purcell/less-css-mode) - Emacs mode for LESS CSS (lesscss.org), with support for compile-on-save
 - [wordgen.el](https://github.com/Fanael/wordgen.el) - (Pseudo-)Random word generator
 - [json-snatcher](https://github.com/Sterlingg/json-snatcher) - Get the path to a JSON element in Emacs.
@@ -2896,7 +2895,7 @@
 - [emacs-ssh-deploy](https://github.com/cjohansson/emacs-ssh-deploy) - A deployment plugin via Tramp for Emacs.
 - [emmet-mode](https://github.com/smihica/emmet-mode) - emmet's support for emacs.
 - [elmarmalade](https://github.com/nicferrier/elmarmalade) - emacs-lisp version of the marmalade package repository
-- [emacs-helm-ag](https://github.com/emacsorphanage/emacs-helm-ag) - The silver searcher with helm interface
+- [helm-ag](https://github.com/emacsorphanage/helm-ag) - The silver searcher with helm interface
 - [nyan-mode](https://github.com/TeMPOraL/nyan-mode) - Nyan Cat for Emacs! Nyanyanyanyanyanyanyanyanyan!
 - [github-notifier.el](https://github.com/xuchunyang/github-notifier.el) - Displays your GitHub notifications unread count in Emacs mode-line
 - [borg](https://github.com/emacscollective/borg) - Assimilate Emacs packages as Git submodules
@@ -3098,7 +3097,7 @@
 - [erc-hl-nicks](https://github.com/leathekd/erc-hl-nicks) - Nickname Highlighting for ERC
 - [imenu-list](https://github.com/bmag/imenu-list) - Emacs plugin to show the current buffer's imenu entries in a seperate buffer
 - [move-text](https://github.com/emacsfodder/move-text) - move current line or region up or down
-- [emacs-anzu](https://github.com/emacsorphanage/emacs-anzu) - Emacs Port of anzu.vim
+- [anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
 - [emacs-xkcd](https://github.com/vibhavp/emacs-xkcd) - Read xkcd from Emacs
 - [simple-mpc](https://github.com/jorenvo/simple-mpc) - A GNU Emacs frontend to mpc.
 - [solarized-emacs](https://github.com/bbatsov/solarized-emacs) - The Solarized colour theme, ported to Emacs.
@@ -3109,9 +3108,9 @@
 - [eshell-up](https://github.com/peterwvj/eshell-up) - Quickly go to a specific parent directory in eshell
 - [git-modes](https://github.com/magit/git-modes) - Emacs major modes for Git configuration files
 - [git-link](https://github.com/sshaw/git-link) - Emacs package to get the GitHub/Bitbucket/GitLab/... URL for a buffer location
-- [emacs-git-messenger](https://github.com/emacsorphanage/emacs-git-messenger) - Emacs Port of git-messenger.vim
+- [git-messenger](https://github.com/emacsorphanage/git-messenger) - Emacs Port of git-messenger.vim
 - [org-bullets](https://github.com/sabof/org-bullets) - utf-8 bullets for org-mode
-- [emacs-git-gutter-fringe](https://github.com/emacsorphanage/emacs-git-gutter-fringe) - Fringe version of git-gutter.el
+- [git-gutter-fringe](https://github.com/emacsorphanage/git-gutter-fringe) - Fringe version of git-gutter.el
 - [origami.el](https://github.com/gregsexton/origami.el) - A folding minor mode for Emacs
 - [Highlight-Indentation-for-Emacs](https://github.com/antonj/Highlight-Indentation-for-Emacs) - Minor modes to highlight indentation guides in emacs.
 - [indent-guide](https://github.com/zk-phi/indent-guide) - [emacs] show vertical lines to guide indentation
@@ -3170,7 +3169,7 @@
 - [soundklaus.el](https://github.com/r0man/soundklaus.el) - Play music on SoundCloud with Emacs via EMMS
 - [camcorder.el](https://github.com/Malabarba/camcorder.el) - Tool for capturing screencasts directly from Emacs.
 - [projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
-- [emacs-quickrun](https://github.com/emacsorphanage/emacs-quickrun) - Run command quickly. This packages is inspired quickrun.vim
+- [quickrun](https://github.com/emacsorphanage/quickrun) - Run command quickly. This packages is inspired quickrun.vim
 - [emms-player-mpv](https://github.com/dochang/emms-player-mpv) - mpv support for EMMS
 - [spacemacs-emms](https://github.com/K0HAX/spacemacs-emms) - Emms layer for Spacemacs
 - [emms](https://github.com/emacsmirror/emms) - The Emacs Multimedia System
@@ -3230,12 +3229,12 @@
 - [Emacs-langtool](https://github.com/mhayashi1120/Emacs-langtool) - LanguageTool for Emacs
 - [helm-swoop](https://github.com/emacsorphanage/helm-swoop) - Efficiently hopping squeezed lines powered by Emacs helm interface
 - [diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
-- [emacs-git-gutter](https://github.com/emacsorphanage/emacs-git-gutter) - Emacs port of GitGutter which is Sublime Text Plugin
+- [git-gutter](https://github.com/emacsorphanage/git-gutter) - Emacs port of GitGutter which is Sublime Text Plugin
 - [emacs-snapshot](https://github.com/dkogan/emacs-snapshot) - Tree for GNU Emacs Debian snapshots
 - [no-littering](https://github.com/emacscollective/no-littering) - Help keeping ~/.emacs.d clean
 - [emacs-ansible](https://github.com/k1LoW/emacs-ansible) - 
 - [git-auto-commit-mode](https://github.com/ryuslash/git-auto-commit-mode) - Automatically commit to git after each save
-- [emacs-terraform-mode](https://github.com/emacsorphanage/emacs-terraform-mode) - Major mode of Terraform configuration file
+- [terraform-mode](https://github.com/emacsorphanage/terraform-mode) - Major mode of Terraform configuration file
 - [command-log-mode](https://github.com/lewang/command-log-mode) - log commands to buffer
 - [org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
 - [org-mode](https://github.com/jwiegley/org-mode) - This is a very old fork of Org-mode, but it's the version I still use every day
@@ -3251,7 +3250,7 @@
 - [ox-twbs](https://github.com/marsmining/ox-twbs) - Export org-mode docs as HTML compatible with Twitter Bootstrap.
 - [org-preview-html](https://github.com/lujun9972/org-preview-html) - automatically use eww to preview current org-file when save
 - [omnisharp-emacs](https://github.com/OmniSharp/omnisharp-emacs) - Troll coworkers - use Emacs at work for csharp!
-- [emacs-emamux](https://github.com/emacsorphanage/emacs-emamux) - tmux manipulation from Emacs
+- [emamux](https://github.com/emacsorphanage/emamux) - tmux manipulation from Emacs
 - [emacs-gitlab](https://github.com/nlamirault/emacs-gitlab) - A Gitlab client for Emacs
 - [gh.el](https://github.com/sigma/gh.el) - GitHub API library for Emacs
 - [spacemacs-elpa-mirror](https://github.com/syl20bnr/spacemacs-elpa-mirror) - ELPA archive for Spacemacs packages.
@@ -3301,7 +3300,7 @@
 - [emacs-color-theme-solarized](https://github.com/sellout/emacs-color-theme-solarized) - Emacs highlighting using Ethan Schoonover’s Solarized color scheme
 - [evil-tmux-navigator](https://github.com/keith/evil-tmux-navigator) - Seamlessly navigate Emacs and tmux splits
 - [helm](https://github.com/emacs-helm/helm) - Emacs incremental completion and selection narrowing framework
-- [emacs-helm-gtags](https://github.com/emacsorphanage/emacs-helm-gtags) - GNU GLOBAL helm interface
+- [helm-gtags](https://github.com/emacsorphanage/helm-gtags) - GNU GLOBAL helm interface
 - [prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [emacs-jedi](https://github.com/tkf/emacs-jedi) - Python auto-completion for Emacs
@@ -3935,7 +3934,7 @@
 - [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool (self-hosted)
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices
-- [esbulk](https://github.com/miku/esbulk) - Bulk indexing for elasticsearch.
+- [esbulk](https://github.com/miku/esbulk) - Bulk indexing command line tool for elasticsearch
 - [aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine.
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
@@ -4281,7 +4280,7 @@
 - [github](https://github.com/phadej/github) - The github API for Haskell
 - [aeson](https://github.com/bos/aeson) - A fast Haskell JSON library
 - [PortFusion](https://github.com/corsis/PortFusion) - Haskell-powered cross-platform transport-layer distributed reverse / forward proxy & tunneling solution – currently available for all TCP protocols (RDP, VNC, HTTP(S), SSH, ...).
-- [ghc-mod](https://github.com/DanielG/ghc-mod) - Happy Haskell Hacking for editors. CI: https://gitlab.com/dxld/ghc-mod/pipelines
+- [ghc-mod](https://github.com/DanielG/ghc-mod) - Happy Haskell Hacking for editors. DEPRECATED
 - [rasa](https://github.com/ChrisPenner/rasa) - Extremely modular text editor built in Haskell
 - [yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
 - [tagsoup](https://github.com/ndmitchell/tagsoup) - Haskell library for parsing and extracting information from (possibly malformed) HTML/XML documents
@@ -4618,7 +4617,6 @@
 - [phaser-examples](https://github.com/photonstorm/phaser-examples) - Contains hundreds of source code examples and related media for the Phaser HTML5 Game Framework.
 - [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [30-seconds-of-angular](https://github.com/30-seconds/30-seconds-of-angular) - [WIP] Curated collection of Angular snippets that you can understand in 30 seconds or less
 - [awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor) - 🔨  Open source WEB editor summary
@@ -4656,7 +4654,7 @@
 - [node-bcat](https://github.com/kessler/node-bcat) - A pipe to browser utility
 - [node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
 - [webtelnet](https://github.com/mudchina/webtelnet) - Proxy server to bridge websocket to telnet, enable visiting telnet / MUD servers with browsers.
-- [jumpserver](https://github.com/jumpserver/jumpserver) - Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
+- [jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
 - [sshwifty](https://github.com/niruix/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [liman](https://github.com/salihciftci/liman) - Self-hosted web application for monitoring docker.
@@ -5817,7 +5815,7 @@
 - [haskell-companies](https://github.com/erkmos/haskell-companies) - A gently curated list of companies using Haskell in industry
 - [Powerful-Plugins](https://github.com/Hack-with-Github/Powerful-Plugins) - Powerful plugins and add-ons for hackers
 - [geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
-- [Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C) - A curated list of project-based tutorials in C
+- [project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c) - A curated list of project-based tutorials in C
 - [b1fipl](https://github.com/marcpaq/b1fipl) - A Bestiary of Single-File Implementations of Programming Languages
 - [language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [docs](https://github.com/dapr/docs) - User documentation for Dapr
@@ -8095,7 +8093,7 @@
 - [mikutter](https://github.com/mikutter/mikutter) - なにかあった時のためのバックアップです。リリース毎にミラーしてます
 - [seeing_is_believing](https://github.com/JoshCheek/seeing_is_believing) - Displays the results of every line of code in your file
 - [gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
-- [gaps](https://github.com/stripe/gaps) - Easy management of your Google Groups subscriptions.
+- [gaps](https://github.com/stripe-archive/gaps) - Easy management of your Google Groups subscriptions.
 - [rainbow](https://github.com/sickill/rainbow) - Ruby gem for colorizing printed text on ANSI terminals
 - [markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub
 - [octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
@@ -8133,7 +8131,7 @@
 - [azul](https://github.com/maps4print/azul) - Desktop GUI Framework
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/jasonwilliams/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
-- [tide](https://github.com/http-rs/tide) - Serve the web – HTTP server framework
+- [tide](https://github.com/http-rs/tide) - Serve the web – ergonomic async http server framework
 - [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast tool for building observability pipelines
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
@@ -8263,7 +8261,7 @@
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
-- [blockstack-core](https://github.com/blockstack/blockstack-core) - The Stacks 2.0 blockchain implementation
+- [stacks-blockchain](https://github.com/blockstack/stacks-blockchain) - The Stacks 2.0 blockchain implementation
 - [tfs](https://github.com/redox-os/tfs) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
 - [dotakiller](https://github.com/Gexon/dotakiller) - dotakiler
 - [rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption.
@@ -8417,6 +8415,7 @@
 - [JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [fontpreview](https://github.com/sdushantha/fontpreview) - 🔡 Highly customizable and minimal font previewer written in bash
 - [git-issue](https://github.com/dspinellis/git-issue) - Git-based decentralized issue management
+- [command-center](https://github.com/lukaszkorecki/command-center) - ~/.emacs.d & ~/.bashrc & more
 - [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +4.1K awesome resources for geeks and software crafters :beer:
 - [gherkin](https://github.com/alandipert/gherkin) - a functional programming language and interpreter written in GNU Bash 4
 - [flk](https://github.com/chr15m/flk) - A LISP that runs wherever Bash is
@@ -9051,6 +9050,7 @@
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [spectro](https://github.com/calebj0seph/spectro) - 🎶 Real-time audio spectrogram generator for the web
 - [outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
+- [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [grafana-image-renderer](https://github.com/grafana/grafana-image-renderer) - A Grafana Backend Plugin that handles rendering of panels & dashboards to PNGs using headless chrome
 - [jcasc-vscode-extension](https://github.com/jenkinsci/jcasc-vscode-extension) - A VSCode Plugin for Jenkins Integration
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
