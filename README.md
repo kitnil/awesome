@@ -3563,7 +3563,7 @@
 - [terraform-variables-generator](https://github.com/alexandrst88/terraform-variables-generator) - Simple Tool for Generate Variables file from Terraform Configuration
 - [terraform-provider-github](https://github.com/terraform-providers/terraform-provider-github) - Terraform GitHub provider
 - [terraform-provider-openstack](https://github.com/terraform-providers/terraform-provider-openstack) - Terraform OpenStack provider
-- [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - Manage terraform versions - the tfswitch command line tool lets you switch between different versions of terraform
+- [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform with homebrew
 - [terraform-provider-vault](https://github.com/terraform-providers/terraform-provider-vault) - Terraform Vault provider
 - [terraform-provider-ansible](https://github.com/nbering/terraform-provider-ansible) - "Logical" provider for integrating with an Ansible Dynamic Inventory script.
 - [terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
@@ -4935,7 +4935,7 @@
 - [reload-plus](https://github.com/blackwind/reload-plus) - [Firefox] Supercharge your reload button and hotkeys!
 - [greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
-- [nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [nanoid](https://github.com/ai/nanoid) - A tiny (115 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
@@ -7087,7 +7087,7 @@
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything awesome about web-application firewalls (WAF).
 - [keepassxc-browser-client](https://github.com/varjolintu/keepassxc-browser-client) - Python client library for KeePassXC's new browser integration interface
-- [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.
+- [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video. 自动同步字幕与视频。
 - [SC-FEGAN](https://github.com/run-youngjoo/SC-FEGAN) - SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color (ICCV2019)
 - [toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF.
