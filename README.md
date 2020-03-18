@@ -8546,7 +8546,7 @@
 - [Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
 - [thirsty](https://github.com/kalbhor/thirsty) - Reminds you to drink water - on your terminal.
 - [linux-cheatsheet](https://github.com/gto76/linux-cheatsheet) - Comprehensive Linux Cheatsheet
-- [bash-boilerplate](https://github.com/alphabetum/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
+- [bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
 - [Orc](https://github.com/zMarch/Orc) - Orc is a post-exploitation framework for Linux written in Bash
 - [RootHelper](https://github.com/NullArray/RootHelper) - A  Bash script that downloads and unzips scripts that will aid with privilege escalation on a Linux system.
 - [ProxyMan](https://github.com/himanshub16/ProxyMan) - Configuring proxy settings made easy.
