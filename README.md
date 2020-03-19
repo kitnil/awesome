@@ -609,7 +609,6 @@
 - [source](https://github.com/lede-project/source) - Mirror of https://git.lede-project.org/?p=source.git Please send your PRs against this tree. They will be merged via staging trees and appear in this tree once the staging trees get merged back into source.git
 - [janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
 - [wlroots](https://github.com/swaywm/wlroots) - A modular Wayland compositor library
-- [SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
 - [bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server
 - [GENie](https://github.com/bkaradzic/GENie) - GENie - Project generator tool
@@ -1715,7 +1714,7 @@
 
 - [Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN) - A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译
 - [org-roam](https://github.com/jethrokuan/org-roam) - Rudimentary Roam replica with Org-mode
-- [separedit.el](https://github.com/twlz0ne/separedit.el) - Edit comment or docstring or code blocks inside them in separate buffers.
+- [separedit.el](https://github.com/twlz0ne/separedit.el) - Edit comment or string/docstring or code block inside them in separate buffer with your favorite mode
 - [tongbu.el](https://github.com/xuchunyang/tongbu.el) - Share text/file between your computer and phone
 - [curl-to-elisp](https://github.com/xuchunyang/curl-to-elisp) - Convert cURL command to Emacs Lisp code
 - [company-emoji](https://github.com/dunn/company-emoji) - company-mode backend for emoji
@@ -3563,7 +3562,7 @@
 - [terraform-variables-generator](https://github.com/alexandrst88/terraform-variables-generator) - Simple Tool for Generate Variables file from Terraform Configuration
 - [terraform-provider-github](https://github.com/terraform-providers/terraform-provider-github) - Terraform GitHub provider
 - [terraform-provider-openstack](https://github.com/terraform-providers/terraform-provider-openstack) - Terraform OpenStack provider
-- [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform with homebrew
+- [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (with homebrew and curl)
 - [terraform-provider-vault](https://github.com/terraform-providers/terraform-provider-vault) - Terraform Vault provider
 - [terraform-provider-ansible](https://github.com/nbering/terraform-provider-ansible) - "Logical" provider for integrating with an Ansible Dynamic Inventory script.
 - [terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
@@ -4606,7 +4605,7 @@
 - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl
 - [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
 - [diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers
-- [jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage. Now with private boxes.
+- [jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage. Now with protected boxes.
 - [chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [mdanki](https://github.com/ashlinchak/mdanki) - Converts Markdown file(s) to the Anki cards.
@@ -5407,7 +5406,7 @@
 - [lua-lsp](https://github.com/Alloyed/lua-lsp) - A Lua language server
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [ObAddon](https://github.com/caligari87/ObAddon) - A repository of community-built prefabs and other enhancements for Oblige 7.70
-- [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits :zap:
+- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [mpv-repl](https://github.com/rossy/mpv-repl) - A graphical REPL for mpv input commands
 - [mpv-playlistmanager](https://github.com/jonniek/mpv-playlistmanager) - Mpv lua script to create and manage playlists
@@ -5994,7 +5993,6 @@
 - [Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox 💧 source code repository
 - [donate](https://github.com/joshtronic/donate) - Just a list of Free Software, Open Source Software and other technology-related things you can contribute money to.
 - [awesome-free-services](https://github.com/hql287/awesome-free-services) - Awesome free online services for startups and freelancers!
-- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [Checklists](https://github.com/netbiosX/Checklists) - Red Teaming & Pentesting checklists for various engagements
 - [awesome-livestreaming](https://github.com/osrtss/awesome-livestreaming) - A curated list of awesome live streaming technologies and products
 - [awesome-data-science-viz](https://github.com/quantmind/awesome-data-science-viz) - :boom: :chart_with_upwards_trend: A curated list of data science, analysis and visualization tools
@@ -7283,6 +7281,7 @@
 - [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.
 - [erpnext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP
 - [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions
+- [SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
 - [cocos](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language on PC-like hardware
 - [cl-chipmunk](https://github.com/BradWBeer/cl-chipmunk) - Lisp wrapper for the chipmunk 2D physics library.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - :sunglasses: Search the awesome curated list without browser
@@ -8245,6 +8244,7 @@
 - [zemeroth](https://github.com/ozkriff/zemeroth) - 😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust
 - [cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages, build tools, config files and more.
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [cancer](https://github.com/meh/cancer) - It's terminal.
