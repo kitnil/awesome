@@ -3562,7 +3562,7 @@
 - [terraform-variables-generator](https://github.com/alexandrst88/terraform-variables-generator) - Simple Tool for Generate Variables file from Terraform Configuration
 - [terraform-provider-github](https://github.com/terraform-providers/terraform-provider-github) - Terraform GitHub provider
 - [terraform-provider-openstack](https://github.com/terraform-providers/terraform-provider-openstack) - Terraform OpenStack provider
-- [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (with homebrew and curl)
+- [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (with homebrew and more)
 - [terraform-provider-vault](https://github.com/terraform-providers/terraform-provider-vault) - Terraform Vault provider
 - [terraform-provider-ansible](https://github.com/nbering/terraform-provider-ansible) - "Logical" provider for integrating with an Ansible Dynamic Inventory script.
 - [terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
