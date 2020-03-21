@@ -872,6 +872,7 @@
 
 ## C++ 
 
+- [jittor](https://github.com/Jittor/jittor) - Jittor website
 - [eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
@@ -1046,7 +1047,7 @@
 - [apitrace](https://github.com/apitrace/apitrace) - Tools for tracing OpenGL, Direct3D, and other graphics APIs
 - [openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [halley](https://github.com/amzeratul/halley) - A lightweight game engine written in modern C++
-- [simdjson](https://github.com/lemire/simdjson) - Parsing gigabytes of JSON per second
+- [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [Vangers](https://github.com/KranX/Vangers) - Video game that combines elements of the racing and role-playing genres.
 - [immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++
 - [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
@@ -1664,6 +1665,7 @@
 - [xubuntu-vnc](https://github.com/accetto/xubuntu-vnc) - Headless Ubuntu/Xfce containers with VNC and various applications
 - [xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc) - Headless Ubuntu/Xfce containers with VNC/noVNC and various applications
 - [docker-pxe](https://github.com/ferrarimarco/docker-pxe) - A virtualized implementation of PXE supported by DNSMasq
+- [docs](https://github.com/dapr/docs) - User documentation for Dapr
 - [docker-nix](https://github.com/nix-community/docker-nix) - Docker image for nix [maintainer=@zimbatm] [status=deprecated]
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate) - Awesome Nginx configuration template
@@ -4934,7 +4936,7 @@
 - [reload-plus](https://github.com/blackwind/reload-plus) - [Firefox] Supercharge your reload button and hotkeys!
 - [greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
-- [nanoid](https://github.com/ai/nanoid) - A tiny (115 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [nanoid](https://github.com/ai/nanoid) - A tiny (110 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
@@ -5565,6 +5567,7 @@
 
 ## Others 
 
+- [awesome-remote-work](https://github.com/zenika-open-source/awesome-remote-work) - 😎 Awesome lists about remote work
 - [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentations from Hugging Face's weekly science day
 - [reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 - [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
@@ -5817,7 +5820,6 @@
 - [project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c) - A curated list of project-based tutorials in C
 - [b1fipl](https://github.com/marcpaq/b1fipl) - A Bestiary of Single-File Implementations of Programming Languages
 - [language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
-- [docs](https://github.com/dapr/docs) - User documentation for Dapr
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@zimbatm]
 - [lisp-tips](https://github.com/lisp-tips/lisp-tips) - Common Lisp tips. Share !
