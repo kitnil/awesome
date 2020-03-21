@@ -3350,6 +3350,7 @@
 
 ## Go 
 
+- [hostctl](https://github.com/guumaster/hostctl) - Manage your hosts file like a pro!
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
@@ -4585,6 +4586,9 @@
 
 ## JavaScript 
 
+- [chrome-jenkins-relative-links](https://github.com/danybony/chrome-jenkins-relative-links) - Display web-accessible links in Jenkins jobs console
+- [jenkins-status-tab](https://github.com/christianvuerings/jenkins-status-tab) - Chrome extension to show the status of a Jenkins build in the tab title
+- [jenkins-helper](https://github.com/liying2008/jenkins-helper) - 监控 Jenkins 构建状态和节点状态，同时也提供一些便利功能。Monitor Jenkins build state and node state, and provide some convenient services.
 - [titanic](https://github.com/icons8/titanic) - A set of animated icons + code to insert them into the webpages
 - [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -6576,6 +6580,7 @@
 
 ## Python 
 
+- [Tweet-Locator](https://github.com/JuanBenitez97/Tweet-Locator) - Tweet locator using Python, Flask and Twitter API
 - [superimposer](https://github.com/jonhoo/superimposer) - 
 - [snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text
 - [dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
@@ -6762,7 +6767,7 @@
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Set latest wallpapers from Unsplash from the commandline
 - [hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management -- and other things too
 - [pyrocore](https://github.com/pyroscope/pyrocore) - :wrench: A collection of tools for the BitTorrent protocol and especially the rTorrent client
-- [ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple script to get songs from youtube in mp3 format with all tags from itunes, gaana etc.
+- [ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from youtube in mp3 format with all tags from itunes, gaana etc.
 - [honcho](https://github.com/nickstenning/honcho) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
 - [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji and character picker for rofi 😁
 - [python-emacs](https://github.com/jlumpe/python-emacs) - Python interface to GNU Emacs.
