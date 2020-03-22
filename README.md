@@ -1554,7 +1554,7 @@
 - [sucle](https://github.com/gregcman/sucle) - Common Lisp Voxel Game Engine
 - [cl-sdl2](https://github.com/lispgames/cl-sdl2) - Common Lisp bindings for SDL2 using C2FFI.
 - [cells](https://github.com/kennytilton/cells) - A Common Lisp implementation of the dataflow programming paradigm
-- [Particle](https://github.com/Seteeri/Particle) - PicoLisp personal knowledge base/manager Lisp-structured userspace
+- [Particle](https://github.com/Seteeri/Particle) - PicoLisp personal knowledge manager
 - [cl-sdl2-tutorial](https://github.com/TatriX/cl-sdl2-tutorial) - 
 - [on-lisp](https://github.com/DalekBaldwin/on-lisp) - A modernized and annotated code companion to Paul Graham's "On Lisp".
 - [lisp-magick-wand](https://github.com/ruricolist/lisp-magick-wand) - ImageMagick bindings (fork)
@@ -6767,7 +6767,7 @@
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Set latest wallpapers from Unsplash from the commandline
 - [hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management -- and other things too
 - [pyrocore](https://github.com/pyroscope/pyrocore) - :wrench: A collection of tools for the BitTorrent protocol and especially the rTorrent client
-- [ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from youtube in mp3 format with all tags from itunes, gaana etc.
+- [ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from youtube in mp3 format with artist name, album name etc from itunes, gaana etc.
 - [honcho](https://github.com/nickstenning/honcho) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
 - [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji and character picker for rofi 😁
 - [python-emacs](https://github.com/jlumpe/python-emacs) - Python interface to GNU Emacs.
@@ -7985,6 +7985,7 @@
 - [redcmd](https://github.com/textgoeshere/redcmd) - Command line control over Redmine issue tracking system
 - [terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
 - [json-schema](https://github.com/ruby-json-schema/json-schema) - Ruby JSON Schema Validator
+- [artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 - [redmine-cli](https://github.com/diasjorge/redmine-cli) - Redmine Command Line Interface
 - [json-graph-specification](https://github.com/jsongraph/json-graph-specification) - A proposal for representing graph structure (nodes / edges) in JSON.
 - [redmine-slack](https://github.com/sciyoshi/redmine-slack) - Slack notification plugin for Redmine
@@ -8193,7 +8194,6 @@
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 - [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
-- [artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 - [shawna](https://github.com/rafaelffilho/shawna) - Basic kernel built in Rust to learn the language
 - [emacs-yamlmod](https://github.com/perfectayush/emacs-yamlmod) - Emacs dynamic module to parse yaml written in Rust
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
@@ -8280,6 +8280,7 @@
 
 ## Scala 
 
+- [simple-docker-ui](https://github.com/felixgborrego/simple-docker-ui) - Native Docker UI for Windows, macOS and Linux implemented using Scala.js, React and Electron
 - [coursier](https://github.com/coursier/coursier) - Pure Scala Artifact Fetching
 - [diffy](https://github.com/opendiffy/diffy) - 
 - [intellij-haskell](https://github.com/rikvdkleij/intellij-haskell) - IntelliJ plugin for Haskell
