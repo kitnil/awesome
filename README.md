@@ -2482,7 +2482,7 @@
 - [helm-exwm](https://github.com/emacs-helm/helm-exwm) - Helm sources and functions for browsing and switching to EXWM buffers
 - [elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
 - [use-package-ensure-system-package](https://github.com/waymondo/use-package-ensure-system-package) - auto installing system binaries the emacs way
-- [ivy-rich](https://github.com/Yevgnen/ivy-rich) - More friendly interface for ivy
+- [ivy-rich](https://github.com/Yevgnen/ivy-rich) - More friendly interface for ivy.
 - [ZNC.el](https://github.com/sshirokov/ZNC.el) - Make ERC and ZNC get along more goodest.
 - [tiny](https://github.com/abo-abo/tiny) - Quickly generate linear ranges in Emacs
 - [faceup](https://github.com/Lindydancer/faceup) - Regression test system for Emacs font-lock keywords
