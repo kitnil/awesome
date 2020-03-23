@@ -283,7 +283,7 @@
 - [peg-markdown](https://github.com/jgm/peg-markdown) - An implementation of markdown in C, using a PEG grammar
 - [pecl-file_formats-yaml](https://github.com/php/pecl-file_formats-yaml) - YAML-1.1 parser and emitter
 - [libvterm](https://github.com/neovim/libvterm) - https://github.com/neovim/neovim/wiki/Deps#forks
-- [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS - decentralized, scalable data platform for Edge/IoT Computing and Kubernetes apps
+- [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS - decentralized, scalable data fabric platform for Edge/IoT Computing and Kubernetes apps
 - [dmrconfig](https://github.com/sergev/dmrconfig) - Configuration utility for DMR radios
 - [shmux](https://github.com/shmux/shmux) - shell multiplexor
 - [wasm](https://github.com/fourtf/wasm) - Web assembly interpreter in C. Unfunctional and discontinued.
@@ -979,7 +979,7 @@
 - [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
 - [HyperDex](https://github.com/rescrv/HyperDex) - HyperDex is a scalable, searchable key-value store
 - [inspector](https://github.com/inspector-repl/inspector) - A drop-anywhere C++ REPL
-- [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
+- [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
 - [nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
 - [nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
@@ -3136,7 +3136,7 @@
 - [emacs-live](https://github.com/overtone/emacs-live) - M-x start-hacking
 - [smart-mode-line](https://github.com/Malabarba/smart-mode-line) - A powerful and beautiful mode-line for Emacs.
 - [guess-language.el](https://github.com/tmalsburg/guess-language.el) - Emacs minor mode that detects the language you're typing in. Automatically switches spell checker. Supports multiple languages per document.
-- [god-mode](https://github.com/chrisdone/god-mode) - Global minor mode for entering Emacs commands without modifier keys
+- [god-mode](https://github.com/emacsorphanage/god-mode) - Global minor mode for entering Emacs commands without modifier keys
 - [github-pullrequest](https://github.com/jakoblind/github-pullrequest) - Emacs package to create and fetch Github pull requests
 - [remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [synonymous.el](https://github.com/toroidal-code/synonymous.el) - A thesaurus at your fingertips
@@ -3350,6 +3350,7 @@
 
 ## Go 
 
+- [gofx](https://github.com/antonmedv/gofx) - 🐾 fx-like command-line JSON processing tool
 - [hostctl](https://github.com/guumaster/hostctl) - Manage your hosts file like a pro!
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
@@ -3865,7 +3866,7 @@
 - [cinf](https://github.com/mhausenblas/cinf) - Command line tool to view namespaces and cgroups, useful for low-level container prodding
 - [shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
 - [corgi](https://github.com/DrakeW/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
-- [kt](https://github.com/fgeller/kt) - Kafka command line tool
+- [kt](https://github.com/fgeller/kt) - Kafka command line tool that likes JSON
 - [pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [gscript](https://github.com/gen0cide/gscript) - framework to rapidly implement custom droppers for all three major operating systems
 - [certigo](https://github.com/square/certigo) - A utility to examine and validate certificates in a variety of formats
@@ -4586,6 +4587,8 @@
 
 ## JavaScript 
 
+- [ymlx](https://github.com/matthewadams/ymlx) - Command-line YAML processor
+- [eat](https://github.com/antonmedv/eat) - Eat everything 🧀
 - [chrome-jenkins-relative-links](https://github.com/danybony/chrome-jenkins-relative-links) - Display web-accessible links in Jenkins jobs console
 - [jenkins-status-tab](https://github.com/christianvuerings/jenkins-status-tab) - Chrome extension to show the status of a Jenkins build in the tab title
 - [jenkins-helper](https://github.com/liying2008/jenkins-helper) - 监控 Jenkins 构建状态和节点状态，同时也提供一些便利功能。Monitor Jenkins build state and node state, and provide some convenient services.
@@ -6483,7 +6486,7 @@
 - [dotdotpwn](https://github.com/wireghoul/dotdotpwn) - DotDotPwn - The Directory Traversal Fuzzer
 - [ls--](https://github.com/trapd00r/ls--) - ls on steroids
 - [convos](https://github.com/Nordaaker/convos) - Convos :busts_in_silhouette: is the simplest way to use IRC in your browser
-- [nipe](https://github.com/GouveaHeitor/nipe) - A script to make TOR Network your default gateway
+- [nipe](https://github.com/GouveaHeitor/nipe) - A script to make Tor network your default gateway
 - [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
 - [wat](https://github.com/pbrisbin/wat) - Show upgrades since recent -Syu
@@ -6580,6 +6583,7 @@
 
 ## Python 
 
+- [python-twitch](https://github.com/ingwinlu/python-twitch) - python-twitch is an python module for simple interaction with twitch.
 - [Tweet-Locator](https://github.com/JuanBenitez97/Tweet-Locator) - Tweet locator using Python, Flask and Twitter API
 - [superimposer](https://github.com/jonhoo/superimposer) - 
 - [snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text
@@ -7330,7 +7334,7 @@
 - [pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [mangaki](https://github.com/mangaki/mangaki) - Site de recommandation de mangas et d'anime
 - [cpython](https://github.com/python/cpython) - The Python programming language
-- [lieer](https://github.com/gauteh/lieer) - Fast email-fetching and two-way tag synchronization between notmuch and GMail
+- [lieer](https://github.com/gauteh/lieer) - Fast email-fetching and sending and two-way tag synchronization between notmuch and GMail
 - [fgmk](https://github.com/ericoporto/fgmk) - Retro RPG Game Maker
 - [learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
