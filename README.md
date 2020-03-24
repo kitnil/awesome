@@ -163,6 +163,7 @@
 
 ## C 
 
+- [bindfs](https://github.com/mpartel/bindfs) - Mount a directory elsewhere with changed permissions.
 - [avscript](https://github.com/taviso/avscript) - Avast JavaScript Interactive Shell
 - [gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
 - [mimipenguin](https://github.com/huntergregal/mimipenguin) - A tool to dump the login password from the current linux user
@@ -177,7 +178,6 @@
 - [lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
 - [blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [chiaki](https://github.com/thestr4ng3r/chiaki) - Free and Open Source PS4 Remote Play Client
-- [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Repo / Main Web Site
 - [acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [antispy](https://github.com/mohuihui/antispy) - AntiSpy is a free but powerful anti virus and rootkits toolkit.It offers you the ability with the highest privileges that can detect,analyze and restore various kernel modifications and hooks.With its assistance,you can easily spot and neutralize malwares hidden from normal detectors.
 - [gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
@@ -872,7 +872,7 @@
 
 ## C++ 
 
-- [jittor](https://github.com/Jittor/jittor) - Jittor website
+- [jittor](https://github.com/Jittor/jittor) - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
 - [eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
@@ -1189,7 +1189,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.3.0.33724, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.3.0.33775, 3.3.5 = 3.3.5a.12340)
 - [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -4125,6 +4125,7 @@
 - [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more
 - [CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
+- [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Repo / Main Web Site
 - [OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
@@ -5214,7 +5215,6 @@
 - [gs-extensions-drop-down-terminal](https://github.com/zzrough/gs-extensions-drop-down-terminal) - Drop Down Terminal extension for the Gnome Shell
 - [scalatron](https://github.com/scalatron/scalatron) - Scalatron, a multi-player programming game in which coders pit bot programs (written in Scala) against each other
 - [Firemacs](https://github.com/kazu-yamamoto/Firemacs) - An extension to add Emacs's editing features to Firefox
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [pixel-saver](https://github.com/pixel-saver/pixel-saver) - Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way
 - [docker-compose-ui](https://github.com/francescou/docker-compose-ui) - web interface for Docker Compose
 - [ui-for-docker](https://github.com/kevana/ui-for-docker) - A web interface for Docker, formerly known as DockerUI. This repo is not maintained
@@ -5312,7 +5312,6 @@
 - [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [ml-class](https://github.com/lukas/ml-class) - Machine learning lessons and teaching projects designed for engineers
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
-- [machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) - :speech_balloon: Machine Learning Course with Python. Refer to the course page for step-by-step explanations.
 - [dashboards](https://github.com/jupyter-attic/dashboards) - [RETIRED] See Voilà as a supported replacement
 - [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
@@ -6905,6 +6904,7 @@
 - [urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
 - [ledger-autosync](https://github.com/egh/ledger-autosync) - Synchronize your ledger-cli files with your bank.
 - [pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
+- [machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
 - [pykaldi](https://github.com/pykaldi/pykaldi) - A Python wrapper for Kaldi
 - [tcconfig](https://github.com/thombashi/tcconfig) - A tc command wrapper. Make it easy to set up traffic control of network bandwidth/latency/packet-loss/packet-corruption/etc. to a network-interface/Docker-container(veth).
 - [pymux](https://github.com/prompt-toolkit/pymux) - A terminal multiplexer (like tmux) in Python
@@ -7462,7 +7462,7 @@
 - [plotly.py](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents
 - [live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
-- [todoman](https://github.com/pimutils/todoman) - A simple CalDAV-based todo manager.
+- [todoman](https://github.com/pimutils/todoman) - 🗹 A simple, standards-based, cli todo (aka: task) manager.
 - [pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [python-oauth2](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
@@ -7782,6 +7782,7 @@
 - [shuup](https://github.com/shuup/shuup) - E-Commerce Platform
 - [django-shop](https://github.com/awesto/django-shop) - A Django based shop system
 - [ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
+- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
