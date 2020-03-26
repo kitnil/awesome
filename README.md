@@ -3350,6 +3350,7 @@
 
 ## Go 
 
+- [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [gofx](https://github.com/antonmedv/gofx) - 🐾 fx-like command-line JSON processing tool
 - [hostctl](https://github.com/guumaster/hostctl) - Manage your hosts file like a pro!
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
@@ -6797,7 +6798,6 @@
 - [moa](https://github.com/foozmeat/moa) - A Mastodon, Twitter, and Instagram Cross-poster
 - [jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python API for accessing resources and configuring Hudson & Jenkins continuous-integration servers
 - [script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
-- [ansible-role-nginx](https://github.com/nginxinc/ansible-role-nginx) - Ansible role for NGINX
 - [ansible-role-yedit](https://github.com/kwoodson/ansible-role-yedit) - Ansible Role for Yaml editing
 - [strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 - [pretty-yaml](https://github.com/mk-fg/pretty-yaml) - PyYAML-based module to produce pretty and readable YAML-serialized data
@@ -6888,7 +6888,7 @@
 - [ProtonDB-Tags](https://github.com/CorruptComputer/ProtonDB-Tags) - Pull ratings from ProtonDB and import them into your Steam library as tags.
 - [pyramid](https://github.com/Pylons/pyramid) - Pyramid - A Python web framework
 - [LaunchCold](https://github.com/earvingad/LaunchCold) - FullScreen App Launcher for Openbox.
-- [kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check) - A script for checking the hardening options in the Linux kernel config
+- [kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check) - A tool for checking the hardening options in the Linux kernel config
 - [Discurses](https://github.com/topisani/Discurses) - A Python discord CLI focused on usability
 - [wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat plugin for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
@@ -7380,7 +7380,7 @@
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [gedit-markdown](https://github.com/jpfleury/gedit-markdown) - Support for Markdown language in gedit
 - [domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - If you think you know Python, think once more!
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - Do you think you know Python?
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [uritemplate](https://github.com/python-hyper/uritemplate) - URI template parsing per RFC6750
 - [github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 2.7, 3.4, 3.5, 3.6, and 3.7 (and maybe 3.8?)
@@ -8580,6 +8580,7 @@
 - [devops_public](https://github.com/dennyzhang/devops_public) - :tophat: DevOps Scripts
 - [rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
 - [docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
+- [ansible-role-nginx](https://github.com/nginxinc/ansible-role-nginx) - Ansible role for NGINX
 - [dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you to keep the whole tree of password encrypted inside a tomb.
