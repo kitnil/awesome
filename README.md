@@ -846,7 +846,7 @@
 - [criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 - [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa
-- [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
+- [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 
 ## C# # 
@@ -4945,7 +4945,7 @@
 - [reload-plus](https://github.com/blackwind/reload-plus) - [Firefox] Supercharge your reload button and hotkeys!
 - [greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
-- [nanoid](https://github.com/ai/nanoid) - A tiny (110 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
@@ -7803,7 +7803,7 @@
 - [sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
-- [pybuilder](https://github.com/pybuilder/pybuilder) - Continuous build tool for Python.
+- [pybuilder](https://github.com/pybuilder/pybuilder) - Software build automation tool for Python.
 - [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
 - [syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
@@ -8402,7 +8402,7 @@
 - [docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
 - [php-alpine](https://github.com/codecasts/php-alpine) - PHP APK Repository for Alpine Linux
 - [Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx (with PHP5 and PHP7)
-- [PGBlitz.com](https://github.com/PGBlitz/PGBlitz.com) - Welcome to https://PGBlitz.com ~ Rapidly deploy multiple-hasty Docker Containers through Ansible with local or Unlimited Google HD Space!
+- [PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to https://PlexGuide.com ~ Rapidly deploy multiple-hasty Docker Containers through Ansible with local or Unlimited Google HD Space!
 - [crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
 - [gradle-android-examples](https://github.com/bmuschko/gradle-android-examples) - Demonstrates the use of Gradle for Android projects
 - [drupal8-vagrant](https://github.com/thom8/drupal8-vagrant) - Simple Drupal 8 Development Environment
