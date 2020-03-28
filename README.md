@@ -228,7 +228,6 @@
 - [luaposix](https://github.com/luaposix/luaposix) - Lua bindings for POSIX APIs
 - [swupdate](https://github.com/sbabic/swupdate) - Software Update for Embedded Systems
 - [UnicornConsole](https://github.com/Gigoteur/UnicornConsole) - Unicorn Console: create quick game !
-- [SVF](https://github.com/SVF-tools/SVF) - Static Value-Flow Analysis for C and C++ Programs
 - [crown](https://github.com/dbartolini/crown) - The flexible game engine.
 - [sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
@@ -616,7 +615,7 @@
 - [fvwm](https://github.com/fvwmorg/fvwm) - Official FVWM repository
 - [godot_headers](https://github.com/GodotNativeTools/godot_headers) - Headers for the Godot API supplied by the GDNative module.
 - [glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
-- [rdesktop](https://github.com/rdesktop/rdesktop) - rdesktop is an open source UNIX client for connecting to Windows Remote Desktop Services, capably of natively speaking Remote Desktop Protocol (RDP) in order to present the user's Windows desktop. rdesktop is known to work with Windows server version ranging from NT 4 terminal server to Windows 2012 R2.
+- [rdesktop](https://github.com/rdesktop/rdesktop) - 🚨 rdesktop is in need of a new maintainter. Please see the home page for more details. 🚨
 - [FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [pygame](https://github.com/pygame/pygame) - pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 - [nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
@@ -909,6 +908,7 @@
 - [BlueshiftEngine](https://github.com/PolygonTek/BlueshiftEngine) - Blueshift is a cross-platform 3D game engine implemented in C++. it's free, open-source, and works on Windows, macOS, iOS, and Android. The project is currently in an early stage of development.
 - [mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that adds full network multiplayer functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found.
 - [dg](https://github.com/mchalupa/dg) - [LLVM Static Slicer] Dependence graph for programs. A set of generic program analyses and a static slicer for LLVM bitcode.
+- [SVF](https://github.com/SVF-tools/SVF) - Static Value-Flow Analysis for C and C++ Programs
 - [TscanCode](https://github.com/Tencent/TscanCode) - A static code analyzer for C++, C#, Lua
 - [WickedEngine](https://github.com/turanszkij/WickedEngine) - C++ game engine focusing on modern rendering techniques and performance.
 - [q5Go](https://github.com/bernds/q5Go) - An improved port of qGo to Qt5: SGF editor, analysis tool, IGS client
@@ -3753,7 +3753,7 @@
 - [goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
 - [tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
-- [kratos](https://github.com/bilibili/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [kratos](https://github.com/go-kratos/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [tea](https://github.com/go-gitea/tea) - A command line tool to interact with Gitea servers, moved to https://gitea.com/gitea/tea
 - [docker-machine-kvm](https://github.com/dhiltgen/docker-machine-kvm) - KVM driver for docker-machine
@@ -4072,6 +4072,7 @@
 - [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
 - [gopass](https://github.com/cortex/gopass) - Gopass: A simple password-store GUI
+- [teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram &lt;=&gt; IRC bridge for use with any IRC channel and Telegram group
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
@@ -5263,7 +5264,6 @@
 - [json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON/JSONP easy to read.
 - [chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) tokens from URL query strings
 - [chrome-link-copy](https://github.com/ma08/chrome-link-copy) - 
-- [teleirc](https://github.com/RITlug/teleirc) - NodeJS implementation of a Telegram &lt;=&gt; IRC bridge for use with any IRC channel and Telegram group
 - [Clean-Feed-for-VK.com](https://github.com/EvgenyOrekhov/Clean-Feed-for-VK.com) - Чистые Новости для VK.com — расширение для Google Chrome, которое очищает захламлённые новости ВКонтакте от отстойных репостов ваших друзей
 - [twitch-now](https://github.com/Ndragomirov/twitch-now) - twitch now extension
 - [hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
@@ -5507,7 +5507,7 @@
 - [simple-twitter](https://github.com/Gabriel439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
 - [naersk](https://github.com/nmattia/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly.
 - [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
-- [hello](https://github.com/jwiegley/hello) - Hello world project templates in a variety of languages
+- [hello](https://github.com/jwiegley/hello) - Hello world project templates for getting started quickly with Nix
 - [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [stack2nix](https://github.com/input-output-hk/stack2nix) - Generate nix expressions for Haskell projects
 - [nixos-mailserver](https://github.com/flyingcircusio/nixos-mailserver) - Fork of https://gitlab.com/simple-nixos-mailserver/nixos-mailserver
@@ -6221,7 +6221,6 @@
 - [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [javascript](https://github.com/GitbookIO/javascript) - GitBook teaching programming basics with Javascript
 - [going-to-production](https://github.com/mtdvio/going-to-production) - A reference checklist for topics which should be covered before going to production.
-- [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [CSS-Guidelines](https://github.com/csswizardry/CSS-Guidelines) - High-level guidelines for writing manageable, maintainable CSS
@@ -7015,7 +7014,7 @@
 - [pipenv-pipes](https://github.com/gtalarico/pipenv-pipes) - A PipEnv Environment Switcher
 - [git-hub](https://github.com/sociomantic-tsunami/git-hub) - Git command line interface to GitHub
 - [python-cfonts](https://github.com/frostming/python-cfonts) - Sexy fonts for the console
-- [image-bootstrap](https://github.com/hartwork/image-bootstrap) - :partly_sunny: Creates (chroots and) bootable virtual machine images; command line tool (Python)
+- [image-bootstrap](https://github.com/hartwork/image-bootstrap) - :partly_sunny: Creates (chroots and) bootable virtual machine images; command line tool (Python 3)
 - [grafcli](https://github.com/m110/grafcli) - Grafana CLI for quick and easy dashboards management.
 - [aptos](https://github.com/pennsignals/aptos) - :sunny: A tool for validating data using JSON Schema and converting JSON Schema documents into different data-interchange formats
 - [ComicCrawler](https://github.com/eight04/ComicCrawler) - An image crawler written in Python.
@@ -8052,7 +8051,7 @@
 - [awesome-conferences](https://github.com/RichardLitt/awesome-conferences) - DEPRECATED :ticket: A list of awesome conferences
 - [rspec](https://github.com/rspec/rspec) - RSpec meta-gem that depends on the other components
 - [ruby-git](https://github.com/ruby-git/ruby-git) - Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary.
-- [minicron](https://github.com/jamesrwhite/minicron) - 👨🏻‍💻 Monitor your cron jobs
+- [minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
 - [gitlab-cli](https://github.com/drewblessing/gitlab-cli) - GitLab Command Line Tool - Interact with your GitLab server via the command line to manage snippets, projects and more.
 - [explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
 - [transmission-rss](https://github.com/nning/transmission-rss) - Adds torrents from RSS feeds to Transmission web frontend
@@ -8257,7 +8256,7 @@
 - [cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
-- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages, build tools, config files and more.
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - Static analysis tools for all programming languages, build tools, config files and more.
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [cancer](https://github.com/meh/cancer) - It's terminal.
 - [nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
@@ -8838,6 +8837,7 @@
 - [ganeti-instance-guix](https://github.com/mbakke/ganeti-instance-guix) - When you want to try Guix System, but all you have is a Ganeti cluster..
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [hosts](https://github.com/sy618/hosts) - 已停更
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
