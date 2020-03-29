@@ -163,12 +163,13 @@
 
 ## C 
 
+- [zeromaps](https://github.com/izabera/zeromaps) - A "living" Linux process with no memory
 - [bindfs](https://github.com/mpartel/bindfs) - Mount a directory elsewhere with changed permissions.
 - [avscript](https://github.com/taviso/avscript) - Avast JavaScript Interactive Shell
 - [gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
 - [mimipenguin](https://github.com/huntergregal/mimipenguin) - A tool to dump the login password from the current linux user
 - [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) - linux-kernel-exploits Linux平台提权漏洞集合
-- [ish](https://github.com/tbodt/ish) - Linux shell for iOS
+- [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [lede](https://github.com/coolsnowwolf/lede) - Lean's OpenWrt source
 - [ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more
 - [StarRuler2-Source](https://github.com/BlindMindStudios/StarRuler2-Source) - 4X Space Strategy game Star Ruler 2's open source distribution.
@@ -1816,7 +1817,7 @@
 - [with-proxy.el](https://github.com/twlz0ne/with-proxy.el) - Evaluate expressions with proxy
 - [emacs-vdiff-magit](https://github.com/justbur/emacs-vdiff-magit) - Magit integration for vdiff
 - [emacs-package-checker](https://github.com/akirak/emacs-package-checker) - Check Emacs Lisp packages in Nix
-- [wakib.d](https://github.com/darkstego/wakib.d) - Emacs Starter Kit based on Wakib keybindings
+- [wakib-emacs](https://github.com/darkstego/wakib-emacs) - Emacs Starter Kit based on Wakib keybindings
 - [erc-yt](https://github.com/yhvh/erc-yt) - 
 - [emacs-mini-modeline](https://github.com/kiennq/emacs-mini-modeline) - Display emacs mode line in minibuffer
 - [company-sourcekit](https://github.com/nathankot/company-sourcekit) - Completion for Swift projects via SourceKit with the help of SourceKitten
@@ -3357,7 +3358,7 @@
 - [gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
-- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
+- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/BSD/MacOS/Windows/Android/iOS) proxy/vpn software. Zero-Configuration.
 - [gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
 - [Go-SCP](https://github.com/OWASP/Go-SCP) - Go programming language secure coding practices guide
@@ -3437,7 +3438,7 @@
 - [gopeed](https://github.com/monkeyWie/gopeed) - A fast download client,support HTTP&P2P.
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
 - [goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
-- [mr2](https://github.com/txthinking/mr2) - Mr.2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.
+- [mr2](https://github.com/txthinking/mr2) - Mr.2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration.
 - [simple-computer](https://github.com/djhworld/simple-computer) - the scott CPU from "But How Do It Know?" by J. Clark Scott
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -8376,7 +8377,7 @@
 
 - [tcon](https://github.com/dustinblackman/tcon) - A slightly lazy shell script to run parallel commands with tmux panes through a FIFO queue.
 - [Exegol](https://github.com/ShutdownRepo/Exegol) - Exegol is a kali light base with a few useful additional tools and some basic configuration
-- [fzf-tmux-pane](https://github.com/kevinhwang91/fzf-tmux-pane) - Using fzf to select the panes of tmux
+- [fzf-tmux-script](https://github.com/kevinhwang91/fzf-tmux-script) - Using fzf to select the panes of tmux
 - [bashcheck](https://github.com/hannob/bashcheck) - test script for shellshocker and related vulnerabilities
 - [rofi](https://github.com/adi1090x/rofi) - Rofi Based Custom Applets And Menus.
 - [awesome-docker-lamp](https://github.com/khaledalam/awesome-docker-lamp) - A Docker image with simple script to build LAMP stack apps (Ubuntu, Apache, PHP and MySql) using single docker image.
@@ -9070,7 +9071,7 @@
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [sshmon](https://github.com/hpello/sshmon) - Manage and monitor SSH connections.
 - [temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
-- [excalidraw](https://github.com/excalidraw/excalidraw) - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+- [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [forget-me-not](https://github.com/Lusito/forget-me-not) - Make the browser forget website data, except for the data you want to keep.
 - [codelyzer](https://github.com/mgechev/codelyzer) - Static analysis for Angular projects.
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
