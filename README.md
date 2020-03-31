@@ -1156,7 +1156,7 @@
 - [recastnavigation](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh Toolset for Games
 - [Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine.
 - [massgate](https://github.com/ubisoftinc/massgate) - Massgate is the online backend server for the Massive Entertainment game World in Conflict, and is now open-source to make it possible for anyone to host their own Massgate server.
-- [LumixEngine](https://github.com/nem0/LumixEngine) - 3D Game Engine
+- [LumixEngine](https://github.com/nem0/LumixEngine) - 3D Game Engine - Weeks of coding can save you hours of planning
 - [Bacon2D](https://github.com/Bacon2D/Bacon2D) - Bacon2D is a framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
 - [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [Polycode](https://github.com/ivansafrin/Polycode) - Polycode is a cross-platform framework for creative code.
@@ -1490,7 +1490,7 @@
 - [mastodon](https://github.com/lokedhs/mastodon) - Common Lisp interface to mastodon
 - [draw-cons-tree](https://github.com/cbaggers/draw-cons-tree) - Draws and ascii picture of a cons tree
 - [verbose](https://github.com/Shinmera/verbose) - A Common Lisp logging framework using the piping library.
-- [mahogany](https://github.com/sdilts/mahogany) - A stumpwm like Wayland compositor
+- [mahogany](https://github.com/stumpwm/mahogany) - A stumpwm like Wayland compositor
 - [cl-permutation](https://github.com/stylewarning/cl-permutation) - Permutations and permutation groups in Common Lisp.
 - [powerlisp](https://github.com/luksamuk/powerlisp) - Common Lisp tool for automating tasks for Unix power-users.
 - [lyrics](https://github.com/mihaiolteanu/lyrics) - A Common Lisp library for searching and storing song lyrics
@@ -3718,7 +3718,7 @@
 - [marathon-consul](https://github.com/allegro/marathon-consul) - Integrates Marathon apps with Consul service discovery.
 - [filetype](https://github.com/h2non/filetype) - Small, dependency-free, fast Go package to infer binary file types based on the magic numbers signature
 - [ssh-auditor](https://github.com/ncsa/ssh-auditor) - The best way to scan for weak ssh passwords on your network
-- [telegram-middleman-bot](https://github.com/n1try/telegram-middleman-bot) - 🤖 A Telegram bot which translates push messages sent as simple HTTP calls into Telegram messages you can subscribe to.
+- [telegram-middleman-bot](https://github.com/muety/telegram-middleman-bot) - 🤖 A Telegram bot which translates push messages sent as simple HTTP calls into Telegram messages you can subscribe to.
 - [owl](https://github.com/TalkingData/owl) - distributed monitoring system
 - [slex](https://github.com/crosbymichael/slex) - SSH multiplex
 - [sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
@@ -3945,7 +3945,7 @@
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [gist-fs](https://github.com/ueokande/gist-fs) - Gist as file system
-- [license](https://github.com/nishanths/license) - Generate software license files on the command line
+- [license](https://github.com/nishanths/license) - Create software license files from the command line
 - [termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [libnetwork](https://github.com/moby/libnetwork) - networking for containers
@@ -6594,7 +6594,6 @@
 - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 - [apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [pygta5](https://github.com/Sentdex/pygta5) - Explorations of Using Python to play Grand Theft Auto 5.
-- [WebHubBot](https://github.com/xiyouMc/WebHubBot) - Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.
 - [weibo_terminater](https://github.com/jinfagang/weibo_terminater) - Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator
 - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
 - [pytorch-playground](https://github.com/aaron-xichen/pytorch-playground) - Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)
