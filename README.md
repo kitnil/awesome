@@ -3945,7 +3945,7 @@
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [gist-fs](https://github.com/ueokande/gist-fs) - Gist as file system
-- [license](https://github.com/nishanths/license) - Create software license files from the command line
+- [license](https://github.com/nishanths/license) - Create LICENSE files with a single command
 - [termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [libnetwork](https://github.com/moby/libnetwork) - networking for containers
@@ -4739,7 +4739,7 @@
 - [depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [pickr](https://github.com/Simonwep/pickr) - 🎨 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!
-- [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources
+- [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
 - [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [nnnotifier](https://github.com/Rob--W/nnnotifier) - Firefox addon that disables native desktop notifications in favor of XUL-based notifications.
 - [Twitch-Streams-Extension](https://github.com/nir94/Twitch-Streams-Extension) - Firefox extension to show active twitch streams using new api (WebExtensions)
@@ -5129,6 +5129,7 @@
 - [Chrome_Emacs_Keys](https://github.com/vincekd/Chrome_Emacs_Keys) - Emacs keybindings extension for chrome
 - [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript.
 - [GraphvizOnline](https://github.com/dreampuf/GraphvizOnline) - Let's Graphviz it Online
+- [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [lbry-desktop](https://github.com/lbryio/lbry-desktop) - A browser and wallet for LBRY, the decentralized, user-controlled content marketplace.
 - [emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
 - [insomnia](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL Client
@@ -9136,7 +9137,6 @@
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [staticsitegenerators-website](https://github.com/bevry/staticsitegenerators-website) - Website containing the complete listing of static site generators
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
-- [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
