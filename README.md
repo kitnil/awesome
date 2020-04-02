@@ -1326,6 +1326,7 @@
 
 ## CSS 
 
+- [emacs-manuals](https://github.com/xuchunyang/emacs-manuals) - Versioned GNU Emacs Manuals
 - [rofi-themes](https://github.com/davatorium/rofi-themes) - Themes for Rofi
 - [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook
 - [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
@@ -1468,6 +1469,7 @@
 
 ## Common Lisp 
 
+- [org-lass](https://github.com/egao1980/org-lass) - Render HTML as an Org mode document with power of Common Lisp
 - [Lire](https://github.com/honix/Lire) - Visual programming tool based on Common Lisp
 - [ZickStandardLisp](https://github.com/zick/ZickStandardLisp) - Lisp evaluator in the LIsp for Zick's Lisp implementations
 - [sonic-lisp-engine](https://github.com/luksamuk/sonic-lisp-engine) - Sonic The Hedgehog Engine, written in Common Lisp as a literate program
@@ -1715,6 +1717,15 @@
 
 ## Emacs Lisp 
 
+- [elf-mode](https://github.com/abo-abo/elf-mode) - Show symbol list when opening a binary file in Emacs
+- [flycheck-elsa](https://github.com/emacs-elsa/flycheck-elsa) - Flycheck integration for Elsa---Emacs lisp static analyzer
+- [edit-chrome-textarea.el](https://github.com/xuchunyang/edit-chrome-textarea.el) - Edit Chrome Textarea with Emacs
+- [pp-html](https://github.com/Kinneyzhang/pp-html) - pretty print html with elisp list
+- [selectrum](https://github.com/raxod502/selectrum) - 🔔 Better solution for incremental narrowing in Emacs.
+- [sxiv](https://github.com/emacsmirror/sxiv) - Run the sxiv image viewer
+- [emacs-ascii-table](https://github.com/lassik/emacs-ascii-table) - Interactive ASCII table in Emacs
+- [emacs-rime](https://github.com/DogLooksGood/emacs-rime) - RIME ㄓ in Emacs
+- [emacs-vega-view](https://github.com/appliedsciencestudio/emacs-vega-view) - A mode to facilitate interactive data visualization using Vega from within emacs
 - [Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN) - A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译
 - [org-roam](https://github.com/jethrokuan/org-roam) - Rudimentary Roam replica with Org-mode
 - [separedit.el](https://github.com/twlz0ne/separedit.el) - Edit comment or string/docstring or code block inside them in separate buffer with your favorite mode
@@ -3351,6 +3362,7 @@
 
 ## Go 
 
+- [sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [go-leetcode](https://github.com/austingebauer/go-leetcode) - A collection of 100+ popular LeetCode problems that I've solved in Go.
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [gofx](https://github.com/antonmedv/gofx) - 🐾 fx-like command-line JSON processing tool
@@ -4022,7 +4034,7 @@
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [concat](https://github.com/ArneVogel/concat) - Download your vods from twitch in the command line
-- [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets 🔑
+- [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
 - [experiments](https://github.com/bigwhite/experiments) - Personal code, scripts and config files for experiments
 - [c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
@@ -4241,6 +4253,7 @@
 
 ## Haskell 
 
+- [hnix-store](https://github.com/haskell-nix/hnix-store) - Haskell implementation of the nix store API
 - [duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 - [toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODOs in your codebase
 - [software-design-in-haskell](https://github.com/graninas/software-design-in-haskell) - Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.
@@ -5295,6 +5308,7 @@
 
 ## Jupyter Notebook 
 
+- [automl](https://github.com/google/automl) - Google Brain AutoML
 - [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
 - [100days](https://github.com/coells/100days) - 100 days of algorithms
 - [unet](https://github.com/zhixuhao/unet) - unet for image segmentation
@@ -5363,6 +5377,7 @@
 
 ## Kotlin 
 
+- [Foodium](https://github.com/PatilShreyas/Foodium) - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
 - [p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 - [tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
 - [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
@@ -5527,6 +5542,7 @@
 - [styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
 - [nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
 - [disko](https://github.com/nix-community/disko) - Format disks with nix-config [maintainer=@Lassulus]
+- [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix implementation for direnv [maintainer=@Mic92]
 - [terranix](https://github.com/mrVanDalo/terranix) - terranix is a terraform.json generator with a nix-like feeling
 - [nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
@@ -5551,6 +5567,7 @@
 
 ## OCaml 
 
+- [restack](https://github.com/dysinger/restack) - Full Stack ReasonML Tutorials
 - [flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
 - [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
@@ -6447,6 +6464,7 @@
 
 ## Perl 
 
+- [urxvt-font-size](https://github.com/majutsushi/urxvt-font-size) - Change the urxvt font size on the fly
 - [pixload](https://github.com/chinarulezzz/pixload) - Image Payload Creating/Injecting tools
 - [hydra-backup](https://github.com/svanderburg/hydra-backup) - My custom hydra backup scripts
 - [openQA](https://github.com/os-autoinst/openQA) - openQA web-frontend, scheduler and tools.
@@ -6667,7 +6685,7 @@
 - [ru_transformers](https://github.com/mgrankin/ru_transformers) - 
 - [fav-up](https://github.com/pielco11/fav-up) - IP lookup by favicon using Shodan
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
-- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers made simple with training, evaluation, and prediction possible with one line each. Currently supports Sequence Classification (binary, multiclass, multilabel, sentence pair), Token Classification (NER), Question Answering, Regression, Conversational AI, and Multi-Modal tasks. Built on top of the Hugging Face Transformer library.
+- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers made simple with training, evaluation, and prediction possible with one line each. Currently supports Sequence Classification (binary, multiclass, multilabel, sentence pair), Token Classification (NER), Question Answering, Language Modeling, Regression, Conversational AI, and Multi-Modal tasks. Built on top of the Hugging Face Transformer library.
 - [jc](https://github.com/kellyjonbrazil/jc) - This tool serializes the output of popular gnu linux command line tools and file types to structured JSON output. This allows piping of output to tools like jq.
 - [stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
 - [Sorting-Algorithm-Visualizer](https://github.com/test123/Sorting-Algorithm-Visualizer) - 
@@ -8133,6 +8151,7 @@
 
 ## Rust 
 
+- [krabs](https://github.com/ellbrid/krabs) - An x86 bootloader written in Rust.
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
@@ -8158,7 +8177,7 @@
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
-- [zz](https://github.com/aep/zz) - 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
+- [zz](https://github.com/zetzit/zz) - 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output
 - [surf](https://github.com/http-rs/surf) - Surf the web – HTTP client framework
 - [silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
@@ -8596,7 +8615,6 @@
 - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
 - [MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
 - [nix-venient](https://github.com/holidaycheck/nix-venient) - A collection of convenient commands for working with nix/nixpkgs
-- [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix implementation for direnv [maintainer=@Mic92]
 - [terraform-provider-external](https://github.com/hashicorp/terraform-provider-external) - Terraform external provider
 - [postgres](https://github.com/docker-library/postgres) - Docker Official Image packaging for Postgres
 - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
@@ -8822,7 +8840,7 @@
 - [.dot-org-files](https://github.com/ivoarch/.dot-org-files) - Dotfiles, Emacs + Org-mode with babel and Literate programming.
 - [portacle](https://github.com/portacle/portacle) - A portable common lisp development environment
 - [dotfiles](https://github.com/hrs/dotfiles) - Let's be honest: mostly Emacs.
-- [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Regolith Linux, i3, Kitty, fish, Neovim and more
+- [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Regolith Linux, i3, Kitty, Fish, Neovim and more
 - [pentestpackage](https://github.com/leonteale/pentestpackage) - a package of Pentest scripts I have made or  commonly use
 - [Meterpreter_Paranoid_Mode-SSL](https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL) - Meterpreter Paranoid Mode - SSL/TLS connections
 - [opam-repository](https://github.com/ocaml/opam-repository) - Main public package repository for OPAM, the source package manager of OCaml.
