@@ -375,6 +375,7 @@
 - [dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
 - [yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [raylib-lua](https://github.com/raysan5/raylib-lua) - A simple and easy-to-use Lua library to enjoy videogames programming
+- [engine](https://github.com/mgerhardy/engine) - Home of a voxel game engine and its tools (like a voxel editor)
 - [openswe1r](https://github.com/OpenSWE1R/openswe1r) - An Open-Source port of the 1999 Game "Star Wars Episode 1: Racer"
 - [exengine](https://github.com/exezin/exengine) - A C99 3D game engine
 - [qfusion](https://github.com/Qfusion/qfusion) - Source code for cross-platform OpenGL gaming engine
@@ -605,7 +606,6 @@
 - [neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net
 - [JohnTheRipper](https://github.com/magnumripper/JohnTheRipper) - This is the official repo for John the Ripper, "Jumbo" version. The "bleeding-jumbo" branch is based on 1.9.0-Jumbo-1 which was released on May 14, 2019. An import of the "core" version of john this jumbo was based on (or newer) is found in the "master" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/src/).
 - [RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
-- [domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [source](https://github.com/lede-project/source) - Mirror of https://git.lede-project.org/?p=source.git Please send your PRs against this tree. They will be merged via staging trees and appear in this tree once the staging trees get merged back into source.git
 - [janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
 - [wlroots](https://github.com/swaywm/wlroots) - A modular Wayland compositor library
@@ -1026,7 +1026,6 @@
 - [xrtl](https://github.com/google/xrtl) - Cross-platform Real-Time Rendering Library
 - [DustRacing2D](https://github.com/juzzlin/DustRacing2D) - Dust Racing 2D is a traditional top-down car racing game including a level editor.
 - [Rubeus](https://github.com/sdslabs/Rubeus) - A cross platform 2D game engine written in C++ for beginners
-- [engine](https://github.com/mgerhardy/engine) - Home of a voxel game engine and its tools (like a voxel editor)
 - [Doomsday-Engine](https://github.com/skyjake/Doomsday-Engine) - A portable, enhanced source port of Doom, Heretic and Hexen.
 - [xray-15](https://github.com/OpenXRay/xray-15) - X-Ray Engine 1.5 expansion. Original version was used in S.T.A.L.K.E.R.: Clear Sky.
 - [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) - 3D strange attractors GPU scout and hypercomplex fractals - over 200 Million particles
@@ -1146,6 +1145,7 @@
 - [CuraEngine](https://github.com/Ultimaker/CuraEngine) - CuraEngine is a powerful, fast and robust engine for processing 3D models into 3D printing instruction for Ultimaker and other GCode based 3D printers. It is part of the larger open source project called "Cura".
 - [mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
+- [domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [ProceduralMapGenerator](https://github.com/marukrap/ProceduralMapGenerator) - A procedural map generator for roguelike games
 - [Daemon](https://github.com/DaemonEngine/Daemon) - The Dæmon game engine. With some bits of ioq3 and XreaL.
 - [AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine) - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
@@ -1412,7 +1412,7 @@
 ## Clojure 
 
 - [konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
-- [babashka](https://github.com/borkdude/babashka) - A Clojure babushka for the grey areas of Bash.
+- [babashka](https://github.com/borkdude/babashka) - A Clojure babushka for the grey areas of Bash (native Clojure scripting environment)
 - [bidi](https://github.com/juxt/bidi) - Bidirectional URI routing
 - [tools.cli](https://github.com/clojure/tools.cli) - Command-line processing
 - [clojure-mail](https://github.com/owainlewis/clojure-mail) - A Clojure library for parsing, downloading and reading email from IMAP servers.
@@ -1717,6 +1717,7 @@
 
 ## Emacs Lisp 
 
+- [ac-geiser](https://github.com/xiaohanyu/ac-geiser) - [Sleepy] Emacs auto-complete backend for geiser.
 - [elf-mode](https://github.com/abo-abo/elf-mode) - Show symbol list when opening a binary file in Emacs
 - [flycheck-elsa](https://github.com/emacs-elsa/flycheck-elsa) - Flycheck integration for Elsa---Emacs lisp static analyzer
 - [edit-chrome-textarea.el](https://github.com/xuchunyang/edit-chrome-textarea.el) - Edit Chrome Textarea with Emacs
@@ -4058,7 +4059,7 @@
 - [fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
 - [poule](https://github.com/icecrime/poule) - :chicken: A framework for GitHub automation
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
-- [origin](https://github.com/openshift/origin) - The self-managing, auto-upgrading, Kubernetes distribution for everyone
+- [origin](https://github.com/openshift/origin) - Images for OpenShift 3 and 4 - see openshift/okd for more
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [psiphon-tunnel-core](https://github.com/Psiphon-Labs/psiphon-tunnel-core) - Psiphon client and server components implemented in Go. These components provides core tunnel functionality, handling all aspects of evading blocking and relaying traffic through Psiphon.
 - [photobak](https://github.com/mholt/photobak) - Back up your content from Google Photos - DEPRECATED: use Timeliner
@@ -4640,7 +4641,7 @@
 - [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
 - [Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go board and SGF editor for a more civilized age.
-- [brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for macOS, Windows, Linux, and (coming soon) Android
+- [brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for macOS, Windows, Linux, Android.
 - [phaser-examples](https://github.com/photonstorm/phaser-examples) - Contains hundreds of source code examples and related media for the Phaser HTML5 Game Framework.
 - [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -6458,7 +6459,7 @@
 ## Pascal 
 
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server and PostgreSQL, written in Delphi
-- [xidel](https://github.com/benibela/xidel) - A command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern templates.  It can also create new or transformed XML/HTML/JSON documents.
+- [xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON documents.
 - [kam_remake](https://github.com/Kromster80/kam_remake) - "KaM Remake" is an RTS game remake written in Delphi from scratch.
 - [USDX](https://github.com/UltraStar-Deluxe/USDX) - The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™
 
@@ -7041,7 +7042,7 @@
 - [ComicCrawler](https://github.com/eight04/ComicCrawler) - An image crawler written in Python.
 - [MusicNow](https://github.com/kalbhor/MusicNow) - CLI tool to download songs with metadata.
 - [mailproxy](https://github.com/kz26/mailproxy) - mailproxy is a simple SMTP proxy. It receives emails through an unencrypted, unauthenticated SMTP interface and retransmits them through a remote SMTP server that requires modern features such as encryption and/or authentication. mailproxy is primarily useful for enabling email functionality in legacy software that only supports plain SMTP.
-- [mongotail](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
+- [mongotail](https://github.com/mrsarm/mongotail) - Command line tool to log all MongoDB queries in a "tail"able way
 - [cbox](https://github.com/shmuelamar/cbox) - convert any python function to unix-style command
 - [tably](https://github.com/narimiran/tably) - Python command-line script for converting .csv data to LaTeX tables
 - [FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
@@ -8444,7 +8445,7 @@
 - [org-el-cache](https://github.com/l3kn/org-el-cache) - Persistent cache for data derived from org-elements
 - [nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
-- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments.
+- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [ Originally owned by @kennethreitz ]
 - [monkeysphere](https://github.com/dkg/monkeysphere) - use the OpenPGP web of trust to verify ssh connections
 - [JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [fontpreview](https://github.com/sdushantha/fontpreview) - 🔡 Highly customizable and minimal font previewer written in bash
