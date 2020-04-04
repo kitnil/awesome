@@ -188,7 +188,7 @@
 - [quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
 - [quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable non-recursive adaptive merge sort which is faster than quicksort.
 - [DungeonRush](https://github.com/Rapiz1/DungeonRush) - 👾🐍 A game inspired by Snake, written in pure C with SDL
-- [pelagia](https://github.com/surparallel/pelagia) - Automatic parallelization (lock-free multithreading thread) tool developed by Surparallel Open Source based on the concept of sequential virtual machine.
+- [pelagia](https://github.com/surparallel/pelagia) - Automatic parallelization (lock-free multithreading thread) tool developed by Surparallel Open Source.Pelagia is embedded key value database that implements a small, fast, high-reliability on ANSI C.
 - [hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client -
 - [loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -1682,7 +1682,6 @@
 - [dockerfiles](https://github.com/justinribeiro/dockerfiles) - Various dockerfiles including chrome-headless, lighthouse and other tooling.
 - [docker-nexus](https://github.com/sonatype/docker-nexus) - Docker image for Sonatype Nexus
 - [docker-openresty](https://github.com/openresty/docker-openresty) - Docker tooling for OpenResty
-- [docker-bitlbee](https://github.com/mbologna/docker-bitlbee) - Dockerfile to create a Docker container for bitlbee
 - [docker-compose.yamls](https://github.com/Trantect/docker-compose.yamls) - Useful services for an IT company or organization.
 - [giropops-monitoring](https://github.com/badtuxx/giropops-monitoring) - Full stack tools for monitoring containers and other stuff. ;)
 - [docker-symfony](https://github.com/maxpou/docker-symfony) - :whale: A docker multicontainer with NGINX, PHP7-FPM, MySQL and ELK (Elasticsearch Logstash and Kibana)
@@ -4464,7 +4463,7 @@
 - [ssh-slaves-plugin](https://github.com/jenkinsci/ssh-slaves-plugin) - SSH Build Agents Plugin for Jenkins
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [loyalty-card-locker](https://github.com/brarcher/loyalty-card-locker) - Stores your barcode-based store/loyalty cards on your phone
-- [SonarJS](https://github.com/SonarSource/SonarJS) - SonarJS: JavaScript and TypeScript Analyzer for SonarQube
+- [SonarJS](https://github.com/SonarSource/SonarJS) - JavaScript and TypeScript Analyzer for SonarQube
 - [phpinspectionsea](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP (a PhpStorm/Idea Plugin)
 - [spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 - [pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
@@ -7912,6 +7911,7 @@
 
 ## R 
 
+- [datapasta](https://github.com/MilesMcBain/datapasta) - On top of spaghetti, all covered in cheese....
 - [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
 - [gitsum](https://github.com/lorenzwalthert/gitsum) - parse and summarise git repository history
 - [ymlthis](https://github.com/r-lib/ymlthis) - write YAML for R Markdown, bookdown, blogdown, and more
@@ -8645,6 +8645,7 @@
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
+- [docker-bitlbee](https://github.com/mbologna/docker-bitlbee) - Dockerfile to create a Docker container for bitlbee
 - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [slickstack](https://github.com/littlebizzy/slickstack) - SlickStack is a free LEMP stack automation script written in Bash designed to enhance and simplify WordPress provisioning, performance, and security.
 - [xterm-color-count](https://github.com/l0b0/xterm-color-count) - Count how many colors your XTerm actually supports
@@ -9195,6 +9196,7 @@
 
 ## Vim script 
 
+- [vim-sexp](https://github.com/guns/vim-sexp) - Precision Editing for S-expressions
 - [vimdoc-ja](https://github.com/vim-jp/vimdoc-ja) - A project which translate Vim documents into Japanese.
 - [vim-flog](https://github.com/rbong/vim-flog) - A lightweight and powerful git branch viewer for vim.
 - [vim-terraform](https://github.com/hashivim/vim-terraform) - basic vim/terraform integration
