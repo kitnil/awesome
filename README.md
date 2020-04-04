@@ -163,6 +163,8 @@
 
 ## C 
 
+- [picom](https://github.com/yshui/picom) - A lightweight compositor for X11 (previously a compton fork)
+- [vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [zeromaps](https://github.com/izabera/zeromaps) - A "living" Linux process with no memory
 - [bindfs](https://github.com/mpartel/bindfs) - Mount a directory elsewhere with changed permissions.
 - [avscript](https://github.com/taviso/avscript) - Avast JavaScript Interactive Shell
@@ -1190,7 +1192,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.3.0.33775, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.3.0.33941, 3.3.5 = 3.3.5a.12340)
 - [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -1469,6 +1471,7 @@
 
 ## Common Lisp 
 
+- [deploy](https://github.com/Shinmera/deploy) - Deployment tools for standalone Common Lisp applications
 - [org-lass](https://github.com/egao1980/org-lass) - Render HTML as an Org mode document with power of Common Lisp
 - [Lire](https://github.com/honix/Lire) - Visual programming tool based on Common Lisp
 - [ZickStandardLisp](https://github.com/zick/ZickStandardLisp) - Lisp evaluator in the LIsp for Zick's Lisp implementations
@@ -5377,6 +5380,7 @@
 
 ## Kotlin 
 
+- [vlc-android](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
 - [Foodium](https://github.com/PatilShreyas/Foodium) - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
 - [p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 - [tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
@@ -8152,6 +8156,8 @@
 
 ## Rust 
 
+- [cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code
+- [hubcaps](https://github.com/softprops/hubcaps) - a rust interface for github
 - [krabs](https://github.com/ellbrid/krabs) - An x86 bootloader written in Rust.
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
