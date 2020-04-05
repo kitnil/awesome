@@ -109,6 +109,7 @@
   - [WebAssembly](#webassembly)
   - [YASnippet](#yasnippet)
   - [Zig](#zig)
+  - [sed](#sed)
 
 ## ANTLR 
 
@@ -163,6 +164,7 @@
 
 ## C 
 
+- [ff-proxy](https://github.com/TimeToogo/ff-proxy) - A UDP to TCP proxy server for sending HTTP requests with zero latency
 - [picom](https://github.com/yshui/picom) - A lightweight compositor for X11 (previously a compton fork)
 - [vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [zeromaps](https://github.com/izabera/zeromaps) - A "living" Linux process with no memory
@@ -874,6 +876,7 @@
 
 ## C++ 
 
+- [MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [jittor](https://github.com/Jittor/jittor) - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
 - [eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
@@ -1414,7 +1417,7 @@
 ## Clojure 
 
 - [konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
-- [babashka](https://github.com/borkdude/babashka) - A Clojure babushka for the grey areas of Bash (native Clojure scripting environment)
+- [babashka](https://github.com/borkdude/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
 - [bidi](https://github.com/juxt/bidi) - Bidirectional URI routing
 - [tools.cli](https://github.com/clojure/tools.cli) - Command-line processing
 - [clojure-mail](https://github.com/owainlewis/clojure-mail) - A Clojure library for parsing, downloading and reading email from IMAP servers.
@@ -1471,6 +1474,7 @@
 
 ## Common Lisp 
 
+- [sbcl](https://github.com/sbcl/sbcl) - Mirror of Steel Bank Common Lisp (SBCL)'s official repository
 - [deploy](https://github.com/Shinmera/deploy) - Deployment tools for standalone Common Lisp applications
 - [org-lass](https://github.com/egao1980/org-lass) - Render HTML as an Org mode document with power of Common Lisp
 - [Lire](https://github.com/honix/Lire) - Visual programming tool based on Common Lisp
@@ -3365,6 +3369,11 @@
 
 ## Go 
 
+- [whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp encrypted media files
+- [diago](https://github.com/remeh/diago) - Diago is a visualization tool for CPU profiles and heap snapshots generated with `pprof`.
+- [keybd_event](https://github.com/micmonay/keybd_event) - For simulate key press in Linux, Windows and Mac in golang
+- [mongodb-change-stream](https://github.com/guumaster/mongodb-change-stream) - Watch mongo changes with Golang
+- [go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
 - [sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [go-leetcode](https://github.com/austingebauer/go-leetcode) - A collection of 100+ popular LeetCode problems that I've solved in Go.
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
@@ -4137,6 +4146,10 @@
 
 ## HTML 
 
+- [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [photo-stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream
 - [pyptex](https://github.com/sloisel/pyptex) - Python Preprocessor for LaTeX
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
 - [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
@@ -4256,6 +4269,7 @@
 
 ## Haskell 
 
+- [haskell-language-server](https://github.com/haskell/haskell-language-server) - Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
 - [hnix-store](https://github.com/haskell-nix/hnix-store) - Haskell implementation of the nix store API
 - [duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 - [toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODOs in your codebase
@@ -5179,7 +5193,7 @@
 - [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
-- [Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:   Download Youtube Subtitle (still work in 2019) (work best at Chrome + Tampermonkey) Also, Looking for maintainer!
+- [Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:   Download Youtube Subtitle (still work in 2020) (work best at Chrome + Tampermonkey) **Looking for maintainer**
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [searchfirefoxbookmarks](https://github.com/sciancio/searchfirefoxbookmarks) - A gnome-shell extension which searches the firefox bookmarks and provides results in your shell overview
 - [wikipedia-search-provider](https://github.com/awamper/wikipedia-search-provider) - GNOME Shell extension. Wikipedia Search Provider.
@@ -5311,6 +5325,7 @@
 
 ## Jupyter Notebook 
 
+- [covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [automl](https://github.com/google/automl) - Google Brain AutoML
 - [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
 - [100days](https://github.com/coells/100days) - 100 days of algorithms
@@ -5380,6 +5395,7 @@
 
 ## Kotlin 
 
+- [AnimeXStream](https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.
 - [vlc-android](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
 - [Foodium](https://github.com/PatilShreyas/Foodium) - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
 - [p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
@@ -5527,6 +5543,7 @@
 
 ## Nix 
 
+- [crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
 - [simple-twitter](https://github.com/Gabriel439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
 - [naersk](https://github.com/nmattia/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly.
 - [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
@@ -5600,6 +5617,12 @@
 
 ## Others 
 
+- [acwa_book_ru](https://github.com/adelf/acwa_book_ru) - Книга "Архитектура сложных веб-приложений. С примерами на Laravel"
+- [state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+- [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
+- [algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [awesome-remote-work](https://github.com/zenika-open-source/awesome-remote-work) - 😎 Awesome lists about remote work
 - [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentations from Hugging Face's weekly science day
 - [reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
@@ -6608,6 +6631,8 @@
 
 ## Python 
 
+- [fuzzbench](https://github.com/google/fuzzbench) - FuzzBench - Fuzzer benchmarking as a service.
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 - [jqed](https://github.com/Wazzaps/jqed) - json interactive stream editor (jq + up) - for Linux and MacOS
 - [python-twitch](https://github.com/ingwinlu/python-twitch) - python-twitch is an python module for simple interaction with twitch.
 - [Tweet-Locator](https://github.com/JuanBenitez97/Tweet-Locator) - Tweet locator using Python, Flask and Twitter API
@@ -8015,7 +8040,6 @@
 - [redcmd](https://github.com/textgoeshere/redcmd) - Command line control over Redmine issue tracking system
 - [terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
 - [json-schema](https://github.com/ruby-json-schema/json-schema) - Ruby JSON Schema Validator
-- [artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 - [redmine-cli](https://github.com/diasjorge/redmine-cli) - Redmine Command Line Interface
 - [json-graph-specification](https://github.com/jsongraph/json-graph-specification) - A proposal for representing graph structure (nodes / edges) in JSON.
 - [redmine-slack](https://github.com/sciyoshi/redmine-slack) - Slack notification plugin for Redmine
@@ -8227,6 +8251,7 @@
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 - [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
+- [artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 - [shawna](https://github.com/rafaelffilho/shawna) - Basic kernel built in Rust to learn the language
 - [emacs-yamlmod](https://github.com/perfectayush/emacs-yamlmod) - Emacs dynamic module to parse yaml written in Rust
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
@@ -8403,6 +8428,10 @@
 
 ## Shell 
 
+- [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
+- [plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
+- [open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
+- [learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
 - [tcon](https://github.com/dustinblackman/tcon) - A slightly lazy shell script to run parallel commands with tmux panes through a FIFO queue.
 - [Exegol](https://github.com/ShutdownRepo/Exegol) - Exegol is a kali light base with a few useful additional tools and some basic configuration
 - [fzf-tmux-script](https://github.com/kevinhwang91/fzf-tmux-script) - fzf tmux scripts
@@ -9276,6 +9305,10 @@
 
 - [learnopengl](https://github.com/cshenton/learnopengl) - https://learnopengl.com tutorials ported to zig
 - [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## sed 
+
+- [bach.sed](https://github.com/laserbat/bach.sed) - Bach's prelude in C major from WTC book I, written in pure sed
 
 
 ## License
