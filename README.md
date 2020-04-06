@@ -54,7 +54,6 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [LiveScript](#livescript)
-  - [Logos](#logos)
   - [Lua](#lua)
   - [M4](#m4)
   - [MATLAB](#matlab)
@@ -1723,6 +1722,9 @@
 
 ## Emacs Lisp 
 
+- [gomacro-mode](https://github.com/storvik/gomacro-mode) - Emacs package for working with gomacro REPL.
+- [dashboard-ls](https://github.com/jcs-elpa/dashboard-ls) - Display files/directories in current directory on Dashboard.
+- [org-spacer.el](https://github.com/dustinlacewell/org-spacer.el) - Enforce the number of blank lines between elements in an org-mode document
 - [ac-geiser](https://github.com/xiaohanyu/ac-geiser) - [Sleepy] Emacs auto-complete backend for geiser.
 - [elf-mode](https://github.com/abo-abo/elf-mode) - Show symbol list when opening a binary file in Emacs
 - [flycheck-elsa](https://github.com/emacs-elsa/flycheck-elsa) - Flycheck integration for Elsa---Emacs lisp static analyzer
@@ -4005,7 +4007,7 @@
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [mole](https://github.com/davrodpin/mole) - cli app to create ssh tunnels
 - [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
-- [writefreely](https://github.com/writeas/writefreely) - A focused writing and publishing space.
+- [writefreely](https://github.com/writeas/writefreely) - A community writing space.
 - [discord-cli](https://github.com/Rivalo/discord-cli) - Minimalistic Command-Line Interface for Discord
 - [gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
 - [mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
@@ -5425,10 +5427,6 @@
 - [ramda-cli](https://github.com/raine/ramda-cli) - :ram: A CLI tool for processing data with functional pipelines
 - [eslisp](https://github.com/anko/eslisp) - un-opinionated S-expression syntax and macro system for JavaScript
 
-## Logos 
-
-- [GameFinal](https://github.com/woyaofacai/GameFinal) - next-gen 3D game engine
-
 ## Lua 
 
 - [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
@@ -5838,7 +5836,7 @@
 - [awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
-- [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - continuous integration and continuous delivery
+- [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
 - [awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) - 🎮 📝 A curated list of libGDX resources to help developers make awesome games.
 - [AnYme](https://github.com/zunjae/AnYme) - Unofficial Android Anime App for MyAnimeList
 - [DeepLearningAnimePapers](https://github.com/deeppomf/DeepLearningAnimePapers) - A list of papers and other resources on deep learning with anime style images.
@@ -6534,7 +6532,7 @@
 - [dotdotpwn](https://github.com/wireghoul/dotdotpwn) - DotDotPwn - The Directory Traversal Fuzzer
 - [ls--](https://github.com/trapd00r/ls--) - ls on steroids
 - [convos](https://github.com/Nordaaker/convos) - Convos :busts_in_silhouette: is the simplest way to use IRC in your browser
-- [nipe](https://github.com/GouveaHeitor/nipe) - A script to make Tor network your default gateway
+- [nipe](https://github.com/GouveaHeitor/nipe) - A engine to make Tor network your default gateway
 - [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
 - [wat](https://github.com/pbrisbin/wat) - Show upgrades since recent -Syu
