@@ -163,7 +163,7 @@
 
 ## C 
 
-- [ff-proxy](https://github.com/TimeToogo/ff-proxy) - A UDP to TCP proxy server for sending HTTP requests with zero latency
+- [ff-proxy](https://github.com/TimeToogo/ff-proxy) - A UDP to TCP proxy server for sending HTTP requests with zero roundtrips
 - [picom](https://github.com/yshui/picom) - A lightweight compositor for X11 (previously a compton fork)
 - [vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [zeromaps](https://github.com/izabera/zeromaps) - A "living" Linux process with no memory
@@ -1214,6 +1214,7 @@
 - [xkeymacs](https://github.com/fujieda/xkeymacs) - 
 - [variant](https://github.com/mapbox/variant) - C++11/C++14 Variant
 - [tiled](https://github.com/bjorn/tiled) - A flexible level editor
+- [cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
 - [GamePlay](https://github.com/gameplay3d/GamePlay) - Open-source, cross-platform, C++ game engine for creating 2D/3D games.
 - [spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine
 - [Torque2D](https://github.com/GarageGames/Torque2D) - MIT Licensed Open Source version of Torque 2D game engine from GarageGames
@@ -4007,7 +4008,7 @@
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [mole](https://github.com/davrodpin/mole) - cli app to create ssh tunnels
 - [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
-- [writefreely](https://github.com/writeas/writefreely) - A community writing space.
+- [writefreely](https://github.com/writeas/writefreely) - A collective writing platform.
 - [discord-cli](https://github.com/Rivalo/discord-cli) - Minimalistic Command-Line Interface for Discord
 - [gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
 - [mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
@@ -4340,7 +4341,7 @@
 - [dynamic](https://github.com/chrisdone/dynamic) - Dynamic typing in Haskell
 - [kit](https://github.com/kitlang/kit) - Kit: a magical, high performance programming language, designed for game development. Pre-alpha!
 - [Ane-Language](https://github.com/caotic123/Ane-Language) - A tool for analyze lambda calculus terms
-- [luna](https://github.com/luna/luna) - Hybrid textual and visual functional programming.
+- [luna](https://github.com/luna/luna) - Hybrid textual and visual functional programming. =&gt;
 - [givegif](https://github.com/passy/givegif) - GIFs on the command line
 - [unused](https://github.com/joshuaclayton/unused) - A command line tool to identify unused code.
 - [xmobar](https://github.com/jaor/xmobar) - A minimalistic, mostly text-based status bar
@@ -5019,7 +5020,7 @@
 - [conkeror](https://github.com/retroj/conkeror) - A highly customizable keyboard-oriented web browser for the XULRunner platform.
 - [config-conkeror](https://github.com/thorkill/config-conkeror) - 
 - [player-mode](https://github.com/scottjad/player-mode) - Conkeror page-mode for controlling media players
-- [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+- [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [compiler-explorer](https://github.com/mattgodbolt/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [craftscape](https://github.com/pyalot/craftscape) - WebGL GPU landscaping and erosion
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
@@ -5061,7 +5062,7 @@
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (March 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (April 2020)
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
@@ -5385,7 +5386,6 @@
 - [al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) - :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/
 - [HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK
 - [pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
-- [cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
 - [ML-Tutorial-Experiment](https://github.com/jiqizhixin/ML-Tutorial-Experiment) - Coding the Machine Learning Tutorial for Learning to Learn
 - [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [ox-ipynb](https://github.com/jkitchin/ox-ipynb) - org-mode exporter to Jupyter notebooks
@@ -8093,7 +8093,7 @@
 - [colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [ruby-warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence.
 - [musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping to catalog, preserve and free the artifacts you need to produce music.
-- [ifme](https://github.com/ifmeorg/ifme) - Free and open source app to share mental health experiences with loved ones
+- [ifme](https://github.com/ifmeorg/ifme) - Free and open source web app to share mental health experiences with loved ones
 - [data-science-with-ruby](https://github.com/arbox/data-science-with-ruby) - Practical Data Science with Ruby based tools.
 - [awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [awesome-conferences](https://github.com/RichardLitt/awesome-conferences) - DEPRECATED :ticket: A list of awesome conferences
