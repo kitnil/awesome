@@ -4341,7 +4341,7 @@
 - [dynamic](https://github.com/chrisdone/dynamic) - Dynamic typing in Haskell
 - [kit](https://github.com/kitlang/kit) - Kit: a magical, high performance programming language, designed for game development. Pre-alpha!
 - [Ane-Language](https://github.com/caotic123/Ane-Language) - A tool for analyze lambda calculus terms
-- [luna](https://github.com/luna/luna) - Hybrid textual and visual functional programming. =&gt;
+- [luna](https://github.com/luna/luna) - Looking for Luna, the WYSIWYG language for data processing? Development has moved :point_right:
 - [givegif](https://github.com/passy/givegif) - GIFs on the command line
 - [unused](https://github.com/joshuaclayton/unused) - A command line tool to identify unused code.
 - [xmobar](https://github.com/jaor/xmobar) - A minimalistic, mostly text-based status bar
@@ -8111,7 +8111,7 @@
 - [awesome-blockchains](https://github.com/openblockchains/awesome-blockchains) - A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized.
 - [rails](https://github.com/rails/rails) - Ruby on Rails
 - [octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
-- [sonic-pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone
+- [sonic-pi](https://github.com/samaaron/sonic-pi) - Code. Music. Live.
 - [puppet-lint](https://github.com/rodjek/puppet-lint) - Check that your Puppet manifests conform to the style guide
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
@@ -8247,7 +8247,7 @@
 - [plato](https://github.com/darvin/plato) - Document reader
 - [lumen](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
-- [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
+- [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
 - [artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 - [shawna](https://github.com/rafaelffilho/shawna) - Basic kernel built in Rust to learn the language
