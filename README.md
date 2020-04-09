@@ -413,7 +413,7 @@
 - [xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [nemesis](https://github.com/troglobit/nemesis) - A command-line network packet crafting and injection utility
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - :tangerine: The missing terminal file manager for X.
 - [ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [LISP](https://github.com/krig/LISP) - Lisp interpreter in less than 500 lines of C, including a copying garbage collector and an implementation of LISP 1.5 from 1962.
 - [h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
@@ -5172,7 +5172,6 @@
 - [settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
 - [webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
 - [Legacy-Research-Engine](https://github.com/WorldBrain/Legacy-Research-Engine) - WorldBrain's Chrome Extension to full-text search through your browser history & bookmarks.
-- [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
 - [parinfer](https://github.com/shaunlebron/parinfer) - Let's simplify the way we write Lisp
 - [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [mozrepl](https://github.com/bard/mozrepl) - [NB: END-OF-LIFE, SEE README] Remotely control Firefox and other Mozilla apps with JavaScript.
@@ -6288,6 +6287,7 @@
 - [refcard-org-beamer](https://github.com/fniessen/refcard-org-beamer) - Org Beamer reference card
 - [emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
 - [math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
+- [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
 - [awesome-coq](https://github.com/uhub/awesome-coq) - A curated list of awesome Coq frameworks, libraries and software.
 - [content](https://github.com/developer-portal/content) - Content for the Fedora Developer Portal
 - [embedded-scripting-languages](https://github.com/dbohdan/embedded-scripting-languages) - A list of embedded scripting languages
@@ -6665,6 +6665,7 @@
 - [deepo](https://github.com/ufoym/deepo) - Set up deep learning environment in a single command line.
 - [Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
 - [toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+- [espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [Cirq](https://github.com/quantumlib/Cirq) - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 - [fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
 - [cartoonify](https://github.com/danmacnish/cartoonify) - python app to turn a photograph into a cartoon
@@ -8441,7 +8442,6 @@
 - [linux-surface](https://github.com/jakeday/linux-surface) - Linux Kernel for Surface Devices
 - [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - macOS Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2017 & 2018
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
-- [espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [formation](https://github.com/minamarkham/formation) - 💻 macOS setup script for front-end development
 - [generate-ssl-certs-for-local-development](https://github.com/kingkool68/generate-ssl-certs-for-local-development) - A bash script for generating trusted self-signed SSL certs for local development on your Mac
 - [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
