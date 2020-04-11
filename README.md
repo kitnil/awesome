@@ -163,6 +163,7 @@
 
 ## C 
 
+- [earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [ff-proxy](https://github.com/TimeToogo/ff-proxy) - A UDP to TCP proxy server for sending HTTP requests with zero roundtrips
 - [picom](https://github.com/yshui/picom) - A lightweight compositor for X11 (previously a compton fork)
 - [vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
@@ -854,7 +855,7 @@
 
 ## C# # 
 
-- [Playnite](https://github.com/JosefNemec/Playnite) - Open source video game library manager with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay. Including game emulation support, providing one unified interface for your games.
+- [Playnite](https://github.com/JosefNemec/Playnite) - Open source video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [Gambador](https://github.com/MaximeGammaitoni/Gambador) - 
@@ -921,7 +922,7 @@
 - [anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [umoria](https://github.com/dungeons-of-moria/umoria) - Moria: a roguelike Dungeon Crawler game | Umoria Source Code
 - [griefly](https://github.com/griefly/griefly) - Griefly: Yet Another Space Station Remake
-- [StealthGameUdemy](https://github.com/tomlooman/StealthGameUdemy) - C++ Stealth Game for Udemy
+- [StealthGameUdemy](https://github.com/tomlooman/StealthGameUdemy) - C++ Stealth Game in Unreal Engine (Udemy Project)
 - [cathook](https://github.com/nullworks/cathook) - Training Software for the game Team Fortress 2
 - [OpMon](https://github.com/OpMonTeam/OpMon) - The free and open source Pokémon clone!
 - [forgottenserver](https://github.com/otland/forgottenserver) - A free and open-source MMORPG server emulator written in C++
@@ -1058,7 +1059,7 @@
 - [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(5 KLOC) for all platforms
 - [freeminer](https://github.com/freeminer/freeminer) - Freeminer is an open source sandbox game inspired by Minecraft.
 - [NoahGameFrame](https://github.com/ketoo/NoahGameFrame) - A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.
-- [EpicSurvivalGameSeries](https://github.com/tomlooman/EpicSurvivalGameSeries) - Third-person Survival Game for Unreal Engine 4.
+- [EpicSurvivalGameSeries](https://github.com/tomlooman/EpicSurvivalGameSeries) - Third-person Survival Game for Unreal Engine 4 (Sample Project)
 - [tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 - [easystroke](https://github.com/thjaeger/easystroke) - X11 gesture recognition application
 - [DGEngine](https://github.com/dgengin/DGEngine) - An implementation of the Diablo 1 game engine
@@ -1416,6 +1417,7 @@
 
 ## Clojure 
 
+- [mcss](https://github.com/DogLooksGood/mcss) - Macro your CSS
 - [konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [babashka](https://github.com/borkdude/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
 - [bidi](https://github.com/juxt/bidi) - Bidirectional URI routing
@@ -1474,6 +1476,9 @@
 
 ## Common Lisp 
 
+- [cl-cffi-gtk](https://github.com/crategus/cl-cffi-gtk) - cl-cffi-gtk is a Lisp binding to the GTK+ 3 library.
+- [cl-cffi-gtk](https://github.com/Ferada/cl-cffi-gtk) - #cl-cffi-gtk on Freenode. A Lisp binding to GTK+3. SBCL/CCL/ABCL (ECL/CLISP unstable)
+- [cl-nrepl](https://github.com/sjl/cl-nrepl) - NREPL server for Common Lisp
 - [sbcl](https://github.com/sbcl/sbcl) - Mirror of Steel Bank Common Lisp (SBCL)'s official repository
 - [deploy](https://github.com/Shinmera/deploy) - Deployment tools for standalone Common Lisp applications
 - [org-lass](https://github.com/egao1980/org-lass) - Render HTML as an Org mode document with power of Common Lisp
@@ -1723,6 +1728,7 @@
 
 ## Emacs Lisp 
 
+- [shrface](https://github.com/chenyanming/shrface) - It is a shr faces package. Org Like faces for shr, dash-docs, eww, nov.el, mu4e and more!
 - [gomacro-mode](https://github.com/storvik/gomacro-mode) - Emacs package for working with gomacro REPL.
 - [dashboard-ls](https://github.com/jcs-elpa/dashboard-ls) - Display files/directories in current directory on Dashboard.
 - [org-spacer.el](https://github.com/dustinlacewell/org-spacer.el) - Enforce the number of blank lines between elements in an org-mode document
@@ -1735,7 +1741,7 @@
 - [sxiv](https://github.com/emacsmirror/sxiv) - Run the sxiv image viewer
 - [emacs-ascii-table](https://github.com/lassik/emacs-ascii-table) - Interactive ASCII table in Emacs
 - [emacs-rime](https://github.com/DogLooksGood/emacs-rime) - RIME ㄓ in Emacs
-- [emacs-vega-view](https://github.com/appliedsciencestudio/emacs-vega-view) - A mode to facilitate interactive data visualization using Vega from within emacs
+- [emacs-vega-view](https://github.com/applied-science/emacs-vega-view) - A mode to facilitate interactive data visualization using Vega from within emacs
 - [Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN) - A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译
 - [org-roam](https://github.com/jethrokuan/org-roam) - Rudimentary Roam replica with Org-mode
 - [separedit.el](https://github.com/twlz0ne/separedit.el) - Edit comment or string/docstring or code block inside them in separate buffer with your favorite mode
@@ -2153,7 +2159,6 @@
 - [sesman](https://github.com/vspinu/sesman) - Session manager for Emacs based IDEs.
 - [bicycle](https://github.com/tarsius/bicycle) - Cycle outline and code visibility
 - [org-listcruncher](https://github.com/dfeich/org-listcruncher) - Parse emacs org list contents into table
-- [org-make-toc](https://github.com/alphapapa/org-make-toc) - Automatic tables of contents for Org files
 - [imgbb.el](https://github.com/ecraven/imgbb.el) - Simple image upload client for imgbb.com
 - [exwm-edit](https://github.com/agzam/exwm-edit) - Edit mode for EXWM
 - [company-nginx](https://github.com/stardiviner/company-nginx) - Add Nginx directives keywords to company-mode keywords alist.
@@ -2870,7 +2875,7 @@
 - [atomic-chrome](https://github.com/alpha22jp/atomic-chrome) - Edit text area on Chrome with Emacs using Atomic Chrome
 - [graphviz-dot-mode](https://github.com/ppareit/graphviz-dot-mode) - Emacs mode for the DOT language, used by graphviz.
 - [snoopy-mode](https://github.com/anmonteiro/snoopy-mode) - Minor mode for number row unshifted character insertion in Emacs
-- [ovpn-mode](https://github.com/anticomputer/ovpn-mode) - An openvpn management mode for emacs
+- [ovpn-mode](https://github.com/anticomputer/ovpn-mode) - openvpn management mode for emacs
 - [eacl](https://github.com/redguardtoo/eacl) - eacl - Emacs auto complete lines by grepping project
 - [org-mind-map](https://github.com/the-humanities/org-mind-map) - This is an emacs package that creates graphviz directed graphs.
 - [bshell](https://github.com/plandes/bshell) - Manage and track multiple shells in Emacs buffers.
@@ -4008,7 +4013,7 @@
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [mole](https://github.com/davrodpin/mole) - cli app to create ssh tunnels
 - [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
-- [writefreely](https://github.com/writeas/writefreely) - A collective writing platform.
+- [writefreely](https://github.com/writeas/writefreely) - A community writing platform.
 - [discord-cli](https://github.com/Rivalo/discord-cli) - Minimalistic Command-Line Interface for Discord
 - [gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
 - [mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
@@ -4151,11 +4156,12 @@
 
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 450 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [photo-stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream
 - [pyptex](https://github.com/sloisel/pyptex) - Python Preprocessor for LaTeX
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
 - [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
+- [proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
 - [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more
 - [CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
@@ -4418,6 +4424,7 @@
 
 ## Hy 
 
+- [HyREPL](https://github.com/Foxboron/HyREPL) - NREPL for Hy
 - [hydiomatic](https://github.com/hylang/hydiomatic) - The Hy Transformer
 
 ## Java 
@@ -4693,7 +4700,6 @@
 - [firefox-sticky-window-containers](https://github.com/chronakis/firefox-sticky-window-containers) - Firefox extention to make the current container "sticky" when opening a new tab
 - [multi-account-containers](https://github.com/blackhole89/multi-account-containers) - Firefox Multi-Account Containers adds new features to Containers.
 - [close-container](https://github.com/freaktechnik/close-container) - Close all tabs of a contntainer from the tab context menu or a button.
-- [contain-vk](https://github.com/Astrr/contain-vk) - Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
 - [firefox-easy-container-shortcuts](https://github.com/gsomoza/firefox-easy-container-shortcuts) - Easy, opinionated, keyboard shortcuts for Firefox 57+ containers.
 - [firefox-container-proxy](https://github.com/bekh6ex/firefox-container-proxy) - [Firefox extension] Assign a proxy to a Firefox container
 - [container-tabs-sidebar](https://github.com/maciekmm/container-tabs-sidebar) - Firefox addon aiming to utilize screen estate more efficiently by showing tabs in a sidebar grouped by privacy containers. Inspired by TreeStyleTab.
@@ -5631,7 +5637,6 @@
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
-- [proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
 - [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
 - [book](https://github.com/KeKe-Li/book) - :books: All programming languages books
 - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
@@ -6629,6 +6634,7 @@
 
 ## Python 
 
+- [speedometer](https://github.com/wardi/speedometer) - Chart network TX/RX and file download rates on the console
 - [fuzzbench](https://github.com/google/fuzzbench) - FuzzBench - Fuzzer benchmarking as a service.
 - [Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 - [jqed](https://github.com/Wazzaps/jqed) - json interactive stream editor (jq + up) - for Linux and MacOS
@@ -7644,7 +7650,7 @@
 - [html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 - [subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
 - [dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
-- [googler](https://github.com/jarun/googler) - :eyes: Google from the terminal
+- [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 - [color-thief-py](https://github.com/fengsp/color-thief-py) - Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow.
 - [PyTagCloud](https://github.com/atizo/PyTagCloud) - Create beautiful tag clouds as images or HTML
@@ -7673,7 +7679,7 @@
 - [bashhub-server](https://github.com/notpushkin/bashhub-server) - [not ready for use] Unofficial Bashhub server (and also a REST API example in Kyoukai)
 - [bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [wharfee](https://github.com/j-bennet/wharfee) - A CLI with autocompletion and syntax highlighting for Docker commands.
-- [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing
+- [streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [suplemon](https://github.com/richrd/suplemon) - :lemon: Console (CLI) text editor with multi cursor support. Suplemon replicates Sublime Text like functionality in the terminal. Try it out, give feedback, fork it!
 - [transmission-remote-cli](https://github.com/fagga/transmission-remote-cli) - Curses interface for the daemon of the BitTorrent client Transmission
 - [khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
@@ -8201,7 +8207,7 @@
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [git-rs](https://github.com/chrisdickinson/git-rs) - git, implemented in rust, for fun and education :crab:
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
-- [lemmy](https://github.com/dessalines/lemmy) - 🐀 Building a federated alternative to reddit in rust
+- [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
 - [neqo](https://github.com/mozilla/neqo) - 
 - [makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -8815,6 +8821,7 @@
 - [trojanizer](https://github.com/r00t-3xp10it/trojanizer) - Trojanize your payload - WinRAR (SFX) automatization - under Linux distros
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
+- [org-make-toc](https://github.com/alphapapa/org-make-toc) - Automatic tables of contents for Org files
 - [slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
 - [org-sidebar](https://github.com/alphapapa/org-sidebar) - A helpful sidebar for Org mode
 - [mangle](https://github.com/alphapapa/mangle) - Mangle man pages to show just the parts you need (suitable for aliasing to "man")
