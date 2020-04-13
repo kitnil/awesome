@@ -208,7 +208,7 @@
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Terminal based bit manipulator in ncurses
-- [bcal](https://github.com/jarun/bcal) - :1234: Storage and general-purpose calculator
+- [bcal](https://github.com/jarun/bcal) - :1234: Storage and regular CLI calculator
 - [ipdecap](https://github.com/lpefferkorn/ipdecap) - Decapsulate traffic encapsulated within GRE, IPIP, 6in4, ESP (ipsec) protocols, can also remove IEEE 802.1Q (virtual lan) header. Works with pcap files.
 - [wrk2](https://github.com/yicwang/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [solaris-userland](https://github.com/oracle/solaris-userland) - Open Source software in Solaris using gmake based build system to drive building various software components.
@@ -414,7 +414,7 @@
 - [xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [nemesis](https://github.com/troglobit/nemesis) - A command-line network packet crafting and injection utility
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [nnn](https://github.com/jarun/nnn) - :tangerine: The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - nnn turns 3! :cake:
 - [ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [LISP](https://github.com/krig/LISP) - Lisp interpreter in less than 500 lines of C, including a copying garbage collector and an implementation of LISP 1.5 from 1962.
 - [h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
@@ -772,7 +772,7 @@
 - [distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
 - [gummi](https://github.com/alexandervdm/gummi) - Simple LaTeX editor
 - [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
-- [espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports 109 languages and accents.
+- [espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports 111 languages and accents.
 - [luastatus](https://github.com/shdown/luastatus) - universal status bar content generator
 - [pdf-tools](https://github.com/politza/pdf-tools) - Emacs support library for PDF files.
 - [kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized
@@ -1569,7 +1569,7 @@
 - [sucle](https://github.com/gregcman/sucle) - Common Lisp Voxel Game Engine
 - [cl-sdl2](https://github.com/lispgames/cl-sdl2) - Common Lisp bindings for SDL2 using C2FFI.
 - [cells](https://github.com/kennytilton/cells) - A Common Lisp implementation of the dataflow programming paradigm
-- [Particle](https://github.com/Seteeri/Particle) - PicoLisp personal knowledge manager
+- [Particle](https://github.com/Seteeri/Particle) - PicoLisp personal knowledge manager with a presentation-based lisp-structured UI
 - [cl-sdl2-tutorial](https://github.com/TatriX/cl-sdl2-tutorial) - 
 - [on-lisp](https://github.com/DalekBaldwin/on-lisp) - A modernized and annotated code companion to Paul Graham's "On Lisp".
 - [lisp-magick-wand](https://github.com/ruricolist/lisp-magick-wand) - ImageMagick bindings (fork)
@@ -3165,7 +3165,7 @@
 - [emacs-live](https://github.com/overtone/emacs-live) - M-x start-hacking
 - [smart-mode-line](https://github.com/Malabarba/smart-mode-line) - A powerful and beautiful mode-line for Emacs.
 - [guess-language.el](https://github.com/tmalsburg/guess-language.el) - Emacs minor mode that detects the language you're typing in. Automatically switches spell checker. Supports multiple languages per document.
-- [god-mode](https://github.com/emacsorphanage/god-mode) - Global minor mode for entering Emacs commands without modifier keys
+- [god-mode](https://github.com/emacsorphanage/god-mode) - Minor mode for God-like command entering
 - [github-pullrequest](https://github.com/jakoblind/github-pullrequest) - Emacs package to create and fetch Github pull requests
 - [remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [synonymous.el](https://github.com/toroidal-code/synonymous.el) - A thesaurus at your fingertips
@@ -5968,7 +5968,7 @@
 - [awesome-glsl](https://github.com/radixzz/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
 - [Guide-to-Modern-OpenGL-Functions](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions) - A guide to using modern OpenGL functions.
 - [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Awesome Vulkan ecosystem
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works)
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
 - [ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
 - [awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
 - [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -7515,7 +7515,7 @@
 - [itermplot](https://github.com/daleroberts/itermplot) - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal.
 - [prettyplotlib](https://github.com/olgabot/prettyplotlib) - Painlessly create beautiful matplotlib plots.
 - [bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
-- [plotly.py](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python (includes Plotly Express) :sparkles:
+- [plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents
 - [live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
 - [todoman](https://github.com/pimutils/todoman) - 🗹 A simple, standards-based, cli todo (aka: task) manager.
@@ -8360,6 +8360,7 @@
 
 ## Scheme 
 
+- [torrent](https://github.com/o-nly/torrent) - 
 - [texmacs-converter-tm2md](https://github.com/PikachuHy/texmacs-converter-tm2md) - a converter to markdown format for TeXmacs.
 - [guile-daemon](https://github.com/alezost/guile-daemon) - Evaluate code in a running Guile process
 - [guile-web-driver](https://github.com/her01n/guile-web-driver) - web driver (selenium) client for guile
