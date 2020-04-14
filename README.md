@@ -414,7 +414,7 @@
 - [xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [nemesis](https://github.com/troglobit/nemesis) - A command-line network packet crafting and injection utility
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [nnn](https://github.com/jarun/nnn) - nnn turns 3! :cake:
+- [nnn](https://github.com/jarun/nnn) - :tangerine: The missing terminal file manager for X.
 - [ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [LISP](https://github.com/krig/LISP) - Lisp interpreter in less than 500 lines of C, including a copying garbage collector and an implementation of LISP 1.5 from 1962.
 - [h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
@@ -772,7 +772,7 @@
 - [distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
 - [gummi](https://github.com/alexandervdm/gummi) - Simple LaTeX editor
 - [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
-- [espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports 111 languages and accents.
+- [espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that more that 100 languages and accents.
 - [luastatus](https://github.com/shdown/luastatus) - universal status bar content generator
 - [pdf-tools](https://github.com/politza/pdf-tools) - Emacs support library for PDF files.
 - [kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized
@@ -876,6 +876,7 @@
 
 ## C++ 
 
+- [multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [jittor](https://github.com/Jittor/jittor) - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
 - [eos](https://github.com/EOSIO/eos) - An open source smart contract platform
@@ -1476,6 +1477,9 @@
 
 ## Common Lisp 
 
+- [lucerne](https://github.com/eudoxia0/lucerne) - A web framework for Common Lisp, built on Clack
+- [web-toolkit](https://github.com/xh4/web-toolkit) - Lisp Web Toolkit
+- [weir](https://github.com/inconvergent/weir) - A system for making generative systems
 - [cl-cffi-gtk](https://github.com/crategus/cl-cffi-gtk) - cl-cffi-gtk is a Lisp binding to the GTK+ 3 library.
 - [cl-cffi-gtk](https://github.com/Ferada/cl-cffi-gtk) - #cl-cffi-gtk on Freenode. A Lisp binding to GTK+3. SBCL/CCL/ABCL (ECL/CLISP unstable)
 - [cl-nrepl](https://github.com/sjl/cl-nrepl) - NREPL server for Common Lisp
@@ -1730,7 +1734,7 @@
 
 - [ctrlf](https://github.com/raxod502/ctrlf) - ⌨️ Emacs finally learns how to ctrl+F.
 - [frog-menu](https://github.com/clemera/frog-menu) - Quickly pick items from ad hoc menus in Emacs
-- [shrface](https://github.com/chenyanming/shrface) - It is a shr faces package. Org Like faces for shr, dash-docs, eww, nov.el, mu4e and more!
+- [shrface](https://github.com/chenyanming/shrface) - It is a shr faces package that helps you apply your favourite org faces to shr, dash-docs, eww, nov.el, mu4e, and more!
 - [gomacro-mode](https://github.com/storvik/gomacro-mode) - Emacs package for working with gomacro REPL.
 - [dashboard-ls](https://github.com/jcs-elpa/dashboard-ls) - Display files/directories in current directory on Dashboard.
 - [org-spacer.el](https://github.com/dustinlacewell/org-spacer.el) - Enforce the number of blank lines between elements in an org-mode document
@@ -3379,6 +3383,9 @@
 
 ## Go 
 
+- [terraform-provider-gpg](https://github.com/invidian/terraform-provider-gpg) - GPG Terraform provider
+- [etrace](https://github.com/canonical/etrace) - Utility for tracing execution of apps
+- [influxdb-subscription-cleaner](https://github.com/jeremyd/influxdb-subscription-cleaner) - delete all influxdb subscriptions with command line tool
 - [whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp encrypted media files
 - [diago](https://github.com/remeh/diago) - Diago is a visualization tool for CPU profiles and heap snapshots generated with `pprof`.
 - [keybd_event](https://github.com/micmonay/keybd_event) - For simulate key press in Linux, Windows and Mac in golang
@@ -5621,12 +5628,12 @@
 
 ## Others 
 
+- [qemu-images](https://github.com/palmercluff/qemu-images) - A collection of disk images and virtual machines that can be used by the QEMU emulator
 - [acwa_book_ru](https://github.com/adelf/acwa_book_ru) - Книга "Архитектура сложных веб-приложений. С примерами на Laravel"
 - [state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
 - [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [awesome-remote-work](https://github.com/zenika-open-source/awesome-remote-work) - 😎 Awesome lists about remote work
 - [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentations from Hugging Face's weekly science day
 - [reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
@@ -8018,6 +8025,7 @@
 
 ## Ruby 
 
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [chatwoot](https://github.com/chatwoot/chatwoot) - Simple and elegant live chat software 🔥💬
