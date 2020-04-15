@@ -163,6 +163,8 @@
 
 ## C 
 
+- [docker-tor-hiddenservice-nginx](https://github.com/opsxcq/docker-tor-hiddenservice-nginx) - Easily setup a hidden service inside the Tor network
+- [libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
 - [earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [ff-proxy](https://github.com/TimeToogo/ff-proxy) - A UDP to TCP proxy server for sending HTTP requests with zero roundtrips
 - [picom](https://github.com/yshui/picom) - A lightweight compositor for X11 (previously a compton fork)
@@ -772,7 +774,7 @@
 - [distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
 - [gummi](https://github.com/alexandervdm/gummi) - Simple LaTeX editor
 - [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
-- [espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that more that 100 languages and accents.
+- [espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [luastatus](https://github.com/shdown/luastatus) - universal status bar content generator
 - [pdf-tools](https://github.com/politza/pdf-tools) - Emacs support library for PDF files.
 - [kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized
@@ -876,6 +878,7 @@
 
 ## C++ 
 
+- [hrktorrent](https://github.com/hrkfdn/hrktorrent) - hrktorrent is a light console torrent client written in C++, using rasterbar's libtorrent.
 - [multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [jittor](https://github.com/Jittor/jittor) - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
@@ -1662,6 +1665,19 @@
 
 ## Dockerfile 
 
+- [gentoo-docker-images](https://github.com/gentoo/gentoo-docker-images) - [MIRROR] Common effort to get an official and automated gentoo base docker container
+- [android](https://github.com/bitrise-io/android) - Android Docker image
+- [nginx-rtmp-docker](https://github.com/tiangolo/nginx-rtmp-docker) - Docker image with Nginx using the nginx-rtmp-module module for live multimedia (video) streaming.
+- [AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
+- [srt2hls](https://github.com/mbugeia/srt2hls) - Simple audio HLS streaming server based on Liquidsoap
+- [dockerfiles](https://github.com/vgist/dockerfiles) - 🐳 A collection of delicious docker recipes.
+- [docker-headphones](https://github.com/linuxserver/docker-headphones) - 
+- [docker-ssh-agent](https://github.com/jenkinsci/docker-ssh-agent) - Docker image for Jenkins agents connected over SSH
+- [docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - 🐳 JetBrains License Server Docker image
+- [dockerfiles](https://github.com/ilyaglow/dockerfiles) - 🌊 Dockerfiles for apps I use
+- [onionize-docker](https://github.com/torservers/onionize-docker) - Tor v3 onion services (hidden services) for Docker containers
+- [docker-tor-simple](https://github.com/osminogin/docker-tor-simple) - Simplest minimal container for Tor anonymity software
+- [aind](https://github.com/aind-containers/aind) - AinD: Android in Docker. Ain't an emulator.
 - [elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳 Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics Exporters.
 - [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli support, and 9 MB size. All built on the bleeding edge for max performance. Built on the edge, for the edge.
 - [localdots](https://github.com/luisfarzati/localdots) - HTTPS domains for localhost. 🏠
@@ -3383,6 +3399,8 @@
 
 ## Go 
 
+- [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+- [gosize](https://github.com/bradfitz/gosize) - analyze size of Go binaries
 - [terraform-provider-gpg](https://github.com/invidian/terraform-provider-gpg) - GPG Terraform provider
 - [etrace](https://github.com/canonical/etrace) - Utility for tracing execution of apps
 - [influxdb-subscription-cleaner](https://github.com/jeremyd/influxdb-subscription-cleaner) - delete all influxdb subscriptions with command line tool
@@ -4642,6 +4660,7 @@
 
 ## JavaScript 
 
+- [wdio](https://github.com/blueimp/wdio) - Docker setup for WebdriverIO with automatic screenshots, image diffing and screen recording support for containerized versions of Chrome and Firefox, Mobile Safari and Mobile Chrome via Appium, Safari on MacOS as well as Edge, Edge Legacy and Internet Explorer on Windows 10.
 - [savescreenshot](https://github.com/M-Reimer/savescreenshot) - Firefox "Save Screenshot" Addon. Simple website screenshot maker for Firefox.
 - [ymlx](https://github.com/matthewadams/ymlx) - Command-line YAML processor
 - [eat](https://github.com/antonmedv/eat) - Eat everything 🧀
@@ -5549,6 +5568,7 @@
 
 ## Nim 
 
+- [vim_cubed](https://github.com/oakes/vim_cubed) - Vim rendered on a cube for no reason
 - [boomer](https://github.com/tsoding/boomer) - Zoomer application for Linux
 - [ntangle](https://github.com/OrgTangle/ntangle) - Command-line utility for Tangling of Org documents — programmed in Nim.
 - [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
@@ -5628,6 +5648,9 @@
 
 ## Others 
 
+- [OnionIRC](https://github.com/dustyfresh/OnionIRC) - Docker container for running an IRC server as a Tor hidden service
+- [awesome-risk-quantification](https://github.com/veeral-patel/awesome-risk-quantification) - A collection of awesome projects, blog posts, books, and talks on quantifying risk
+- [cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) - COBOL Programming Course
 - [qemu-images](https://github.com/palmercluff/qemu-images) - A collection of disk images and virtual machines that can be used by the QEMU emulator
 - [acwa_book_ru](https://github.com/adelf/acwa_book_ru) - Книга "Архитектура сложных веб-приложений. С примерами на Laravel"
 - [state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
@@ -6372,6 +6395,7 @@
 
 ## PHP 
 
+- [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [rector](https://github.com/rectorphp/rector) - Instant Upgrades and Instant Refactoring of any PHP 5.3+ code
 - [xdebug-handler](https://github.com/composer/xdebug-handler) - Restart a CLI process without loading the xdebug extension.
 - [30-seconds-of-php](https://github.com/30-seconds/30-seconds-of-php) - Short PHP code snippets for all your development needs
@@ -6495,7 +6519,7 @@
 
 ## Pascal 
 
-- [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server and PostgreSQL, written in Delphi
+- [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi
 - [xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON documents.
 - [kam_remake](https://github.com/Kromster80/kam_remake) - "KaM Remake" is an RTS game remake written in Delphi from scratch.
 - [USDX](https://github.com/UltraStar-Deluxe/USDX) - The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™
@@ -6642,6 +6666,13 @@
 
 ## Python 
 
+- [arch-wiki-docs](https://github.com/lahwaacz/arch-wiki-docs) - A script to download pages from Arch Wiki for offline browsing
+- [dockselpy](https://github.com/dimmg/dockselpy) - Dockerized Selenium and Python with support for Chrome, Firefox and PhantomJS
+- [scihub-downloader](https://github.com/brunneis/scihub-downloader) - Sci-Hub PDF downloader through Tor Network (Docker image)
+- [dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
+- [FairMOT](https://github.com/ifzhang/FairMOT) - A simple baseline for one-shot multi-object tracking
+- [ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining parameters from dark corners of Web Archives
+- [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
 - [speedometer](https://github.com/wardi/speedometer) - Chart network TX/RX and file download rates on the console
 - [fuzzbench](https://github.com/google/fuzzbench) - FuzzBench - Fuzzer benchmarking as a service.
 - [Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
@@ -8195,6 +8226,8 @@
 
 ## Rust 
 
+- [ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+- [magicpak](https://github.com/coord-e/magicpak) - :hammer: Build minimal docker images without static linking
 - [cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code
 - [hubcaps](https://github.com/softprops/hubcaps) - a rust interface for github
 - [krabs](https://github.com/ellbrid/krabs) - An x86 bootloader written in Rust.
@@ -8444,6 +8477,8 @@
 
 ## Shell 
 
+- [docker-toran-proxy](https://github.com/cedvan/docker-toran-proxy) - Docker image to launch a toran proxy application self hosted to manage PHP dependencies
+- [pacwall](https://github.com/Kharacternyk/pacwall) - Dependency graph of installed packages on your wallpaper.
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
 - [open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
@@ -8755,7 +8790,7 @@
 - [samba](https://github.com/dperson/samba) - Samba docker container
 - [StayAlive](https://github.com/mwitmer/StayAlive) - A roguelike game written in Guile Scheme
 - [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
-- [prowler](https://github.com/toniblyx/prowler) - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and DOZENS of additional checks including GDPR and HIPAA (+100). Official CIS for AWS guide: https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf
+- [prowler](https://github.com/toniblyx/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains all CIS controls listed here https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf and more than 100 additional checks that help on GDPR, HIPAA and other security requirements.
 - [nix-in-termux](https://github.com/t184256/nix-in-termux) - A script to install Nix package manager inside a Termux installation (on Android, aarch64)
 - [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A curated list of the most common and most interesting robots.txt disallowed directories.
 - [pxe](https://github.com/jpetazzo/pxe) - Dockerfile to build a PXE server in a Docker container
@@ -8999,7 +9034,7 @@
 - [ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
 - [tmux-powerline](https://github.com/erikw/tmux-powerline) - Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments.
 - [ansible-tuto-rus](https://github.com/freetonik/ansible-tuto-rus) - Ansible tutorial (Russian)
-- [dotfiles](https://github.com/xero/dotfiles) - custom linux config files - managed via gnu stow
+- [dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [dotfiles](https://github.com/kaushalmodi/dotfiles) - 
@@ -9110,6 +9145,7 @@
 
 ## TypeScript 
 
+- [codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute any script in a GitHub issue comment
 - [react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
