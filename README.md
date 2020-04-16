@@ -997,7 +997,7 @@
 - [drogon](https://github.com/an-tao/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [openclonk](https://github.com/openclonk/openclonk) - A free multiplayer action game where you control small and nimble humanoids
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
-- [JUCE](https://github.com/WeAreROLI/JUCE) - The JUCE cross-platform C++ framework
+- [JUCE](https://github.com/juce-framework/JUCE) - The JUCE cross-platform C++ framework
 - [timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Reporting
 - [exiv2](https://github.com/Exiv2/exiv2) - Image metadata library and tools
 - [ldb](https://github.com/heapwolf/ldb) - A C++ REPL / CLI for LevelDB
@@ -2989,7 +2989,7 @@
 - [Indium](https://github.com/NicolasPetton/Indium) - A JavaScript development environment for Emacs
 - [symbol-overlay](https://github.com/wolray/symbol-overlay) - Highlight symbols with keymap-enabled overlays
 - [dot-files](https://github.com/howardabrams/dot-files) - My Emacs initialization code and standard scripts I use for client and servers alike.
-- [emacs-sentence-navigation](https://github.com/noctuid/emacs-sentence-navigation) - Better Sentence Movement Commands and Evil Text Objects
+- [emacs-sentence-navigation](https://github.com/noctuid/emacs-sentence-navigation) - (Broken) Better Sentence Movement Commands and Evil Text Objects
 - [imenu-anywhere](https://github.com/vspinu/imenu-anywhere) - ido/ivy/helm imenu tag selection across buffers with the same mode/project etc
 - [visual-regexp.el](https://github.com/benma/visual-regexp.el) - A regexp/replace command for Emacs with interactive visual feedback
 - [org-pomodoro](https://github.com/marcinkoziej/org-pomodoro) - pomodoro technique for org-mode
@@ -4004,7 +4004,7 @@
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [gist-fs](https://github.com/ueokande/gist-fs) - Gist as file system
-- [license](https://github.com/nishanths/license) - Create LICENSE files with a single command
+- [license](https://github.com/nishanths/license) - Create LICENSE files from the command line
 - [termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [libnetwork](https://github.com/moby/libnetwork) - networking for containers
@@ -4422,7 +4422,7 @@
 - [thank-you-stars](https://github.com/y-taka-23/thank-you-stars) - Give your dependencies stars on GitHub!
 - [org2anki](https://github.com/mroman42/org2anki) - An org-mode subset parser and exporter to Anki CSV (abandoned project)
 - [Idris-dev](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
-- [fp-course](https://github.com/data61/fp-course) - Functional Programming Course
+- [fp-course](https://github.com/system-f/fp-course) - Functional Programming Course
 - [purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 - [gtk2hs](https://github.com/gtk2hs/gtk2hs) - GUI library for Haskell based on GTK+
@@ -5185,7 +5185,7 @@
 - [r2](https://github.com/mikeal/r2) - HTTP client. Spiritual successor to request.
 - [Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
-- [gulp](https://github.com/gulpjs/gulp) - The streaming build system
+- [gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 - [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [crossfire-chrome](https://github.com/mallowlabs/crossfire-chrome) - CrossFire for Chrome allows you to move to the next link with a keyboard.
@@ -5680,6 +5680,7 @@
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
+- [30-seconds-of-php](https://github.com/30-seconds/30-seconds-of-php) - Short PHP code snippets for all your development needs
 - [TaiChi](https://github.com/taichi-framework/TaiChi) - A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.0
 - [resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
 - [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
@@ -5934,7 +5935,7 @@
 - [awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
-- [package-managers](https://github.com/ipfs/package-managers) - 📦 IPFS Package Managers Task Force
+- [package-managers](https://github.com/ipfs/package-managers) - [ARCHIVED] 📦 IPFS Package Managers Task Force
 - [dashboard-cleanup](https://github.com/littlebizzy/dashboard-cleanup) - Cleans up the WP Admin backend by disabling various core WP and WC bloat features including Automattic spam, nag notices, tracking, and other items.
 - [Xresources-themes](https://github.com/logico-dev/Xresources-themes) - A big (huge) collection of rxvt / xterm terminal themes
 - [awesome-urxvt](https://github.com/bookercodes/awesome-urxvt) - :book: A community-driven collection of extensions and learning resources for the popular urxvt terminal window.
@@ -6398,7 +6399,6 @@
 - [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [rector](https://github.com/rectorphp/rector) - Instant Upgrades and Instant Refactoring of any PHP 5.3+ code
 - [xdebug-handler](https://github.com/composer/xdebug-handler) - Restart a CLI process without loading the xdebug extension.
-- [30-seconds-of-php](https://github.com/30-seconds/30-seconds-of-php) - Short PHP code snippets for all your development needs
 - [phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [docker](https://github.com/spatie/docker) - Manage docker containers with PHP
 - [ssh](https://github.com/spatie/ssh) - A lightweight package to execute commands over an SSH connection
@@ -6666,6 +6666,7 @@
 
 ## Python 
 
+- [airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [arch-wiki-docs](https://github.com/lahwaacz/arch-wiki-docs) - A script to download pages from Arch Wiki for offline browsing
 - [dockselpy](https://github.com/dimmg/dockselpy) - Dockerized Selenium and Python with support for Chrome, Firefox and PhantomJS
 - [scihub-downloader](https://github.com/brunneis/scihub-downloader) - Sci-Hub PDF downloader through Tor Network (Docker image)
@@ -6758,7 +6759,7 @@
 - [ru_transformers](https://github.com/mgrankin/ru_transformers) - 
 - [fav-up](https://github.com/pielco11/fav-up) - IP lookup by favicon using Shodan
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
-- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers made simple with training, evaluation, and prediction possible with one line each. Currently supports Sequence Classification (binary, multiclass, multilabel, sentence pair), Token Classification (NER), Question Answering, Language Modeling, Regression, Conversational AI, and Multi-Modal tasks. Built on top of the Hugging Face Transformer library.
+- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Multi-Modal, and Conversational AI
 - [jc](https://github.com/kellyjonbrazil/jc) - This tool serializes the output of popular gnu linux command line tools and file types to structured JSON output. This allows piping of output to tools like jq.
 - [stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
 - [Sorting-Algorithm-Visualizer](https://github.com/test123/Sorting-Algorithm-Visualizer) - 
@@ -7414,7 +7415,7 @@
 - [MITMf](https://github.com/byt3bl33d3r/MITMf) - Framework for Man-In-The-Middle attacks
 - [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd
-- [urh](https://github.com/jopohl/urh) - Universal Radio Hacker: investigate wireless protocols like a boss 📡😎
+- [urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [Sick-Beard](https://github.com/midgetspy/Sick-Beard) - PVR & episode guide that downloads and manages all your TV shows
 - [neural-style](https://github.com/anishathalye/neural-style) - Neural style in TensorFlow! 🎨
@@ -7474,7 +7475,7 @@
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [gedit-markdown](https://github.com/jpfleury/gedit-markdown) - Support for Markdown language in gedit
 - [domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - Do you think you know Python?
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [uritemplate](https://github.com/python-hyper/uritemplate) - URI template parsing per RFC6750
 - [github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 2.7, 3.4, 3.5, 3.6, and 3.7 (and maybe 3.8?)
@@ -8104,7 +8105,7 @@
 - [css-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend
 - [graphiti](https://github.com/graphiti-api/graphiti) - Stylish Graph APIs
 - [iruby](https://github.com/SciRuby/iruby) - Official gem repository: Ruby kernel for Jupyter/IPython Notebook
-- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
 - [ssh_scan](https://github.com/mozilla/ssh_scan) - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
 - [goby](https://github.com/nskins/goby) - Command-line role-playing game framework
 - [reveal-ck](https://github.com/jedcn/reveal-ck) - Create slides with ruby (and usually in markdown)
@@ -8477,6 +8478,7 @@
 
 ## Shell 
 
+- [docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd) - Docker Pure-ftpd Server
 - [docker-toran-proxy](https://github.com/cedvan/docker-toran-proxy) - Docker image to launch a toran proxy application self hosted to manage PHP dependencies
 - [pacwall](https://github.com/Kharacternyk/pacwall) - Dependency graph of installed packages on your wallpaper.
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
