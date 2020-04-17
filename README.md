@@ -163,6 +163,7 @@
 
 ## C 
 
+- [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [docker-tor-hiddenservice-nginx](https://github.com/opsxcq/docker-tor-hiddenservice-nginx) - Easily setup a hidden service inside the Tor network
 - [libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
 - [earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
@@ -1165,7 +1166,7 @@
 - [recastnavigation](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh Toolset for Games
 - [Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine.
 - [massgate](https://github.com/ubisoftinc/massgate) - Massgate is the online backend server for the Massive Entertainment game World in Conflict, and is now open-source to make it possible for anyone to host their own Massgate server.
-- [LumixEngine](https://github.com/nem0/LumixEngine) - 3D Game Engine - Weeks of coding can save you hours of planning
+- [LumixEngine](https://github.com/nem0/LumixEngine) - 3D Game Engine - yet another open source game engine
 - [Bacon2D](https://github.com/Bacon2D/Bacon2D) - Bacon2D is a framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
 - [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [Polycode](https://github.com/ivansafrin/Polycode) - Polycode is a cross-platform framework for creative code.
@@ -1332,6 +1333,7 @@
 
 ## COBOL 
 
+- [cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) - COBOL Programming Course
 - [Cisp](https://github.com/lauryndbrown/Cisp) - A Common Lisp Interpreter Built in COBOL
 
 ## CSS 
@@ -1748,6 +1750,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-pdb-capf](https://github.com/muffinmad/emacs-pdb-capf) - Completion-at-point function for pdb (Python debugger)
 - [ctrlf](https://github.com/raxod502/ctrlf) - ⌨️ Emacs finally learns how to ctrl+F.
 - [frog-menu](https://github.com/clemera/frog-menu) - Quickly pick items from ad hoc menus in Emacs
 - [shrface](https://github.com/chenyanming/shrface) - It is a shr faces package that helps you apply your favourite org faces to shr, dash-docs, eww, nov.el, mu4e, and more!
@@ -3775,7 +3778,7 @@
 - [goffmpeg](https://github.com/xfrr/goffmpeg) - FFMPEG wrapper written in GO
 - [go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
 - [marathon-consul](https://github.com/allegro/marathon-consul) - Integrates Marathon apps with Consul service discovery.
-- [filetype](https://github.com/h2non/filetype) - Small, dependency-free, fast Go package to infer binary file types based on the magic numbers signature
+- [filetype](https://github.com/h2non/filetype) - Fast, dependency-free, small Go package to infer binary file types based on the magic numbers signature
 - [ssh-auditor](https://github.com/ncsa/ssh-auditor) - The best way to scan for weak ssh passwords on your network
 - [telegram-middleman-bot](https://github.com/muety/telegram-middleman-bot) - 🤖 A Telegram bot which translates push messages sent as simple HTTP calls into Telegram messages you can subscribe to.
 - [owl](https://github.com/TalkingData/owl) - distributed monitoring system
@@ -4305,6 +4308,7 @@
 
 ## Haskell 
 
+- [obelisk](https://github.com/obsidiansystems/obelisk) - Obelisk provides an easy way to develop and deploy your Reflex project for web and mobile
 - [haskell-language-server](https://github.com/haskell/haskell-language-server) - Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
 - [hnix-store](https://github.com/haskell-nix/hnix-store) - Haskell implementation of the nix store API
 - [duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
@@ -5090,7 +5094,6 @@
 - [relax](https://github.com/relax/relax) - New generation CMS on top of React, Redux and GraphQL
 - [stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
 - [starmark](https://github.com/ryanmcdermott/starmark) - :octocat: Turn your GitHub stars into Chrome bookmarks
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
@@ -5575,6 +5578,7 @@
 
 ## Nix 
 
+- [shabka](https://github.com/kalbasit/shabka) - Shabka. Declaritive description of my network, workstations and servers.
 - [crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
 - [simple-twitter](https://github.com/Gabriel439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
 - [naersk](https://github.com/nmattia/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly.
@@ -5650,7 +5654,6 @@
 
 - [OnionIRC](https://github.com/dustyfresh/OnionIRC) - Docker container for running an IRC server as a Tor hidden service
 - [awesome-risk-quantification](https://github.com/veeral-patel/awesome-risk-quantification) - A collection of awesome projects, blog posts, books, and talks on quantifying risk
-- [cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) - COBOL Programming Course
 - [qemu-images](https://github.com/palmercluff/qemu-images) - A collection of disk images and virtual machines that can be used by the QEMU emulator
 - [acwa_book_ru](https://github.com/adelf/acwa_book_ru) - Книга "Архитектура сложных веб-приложений. С примерами на Laravel"
 - [state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
@@ -8057,6 +8060,7 @@
 
 ## Ruby 
 
+- [transmuter](https://github.com/kalbasit/transmuter) - The Alien device to convert Markdown and Textile files to HTML or PDF
 - [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
@@ -8303,7 +8307,7 @@
 - [artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 - [shawna](https://github.com/rafaelffilho/shawna) - Basic kernel built in Rust to learn the language
 - [emacs-yamlmod](https://github.com/perfectayush/emacs-yamlmod) - Emacs dynamic module to parse yaml written in Rust
-- [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [lorri](https://github.com/target/lorri) - Your project's nix-env
 - [rusty-tags](https://github.com/dan-t/rusty-tags) - Create ctags/etags for a cargo project
@@ -8914,6 +8918,7 @@
 - [gentoo-haskell](https://github.com/gentoo-haskell/gentoo-haskell) - official gentoo haskell overlay
 - [emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
 - [baphomet](https://github.com/paxperscientiam/baphomet) - BAPHOMET -- manage your emacs daemons
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [blackweb](https://github.com/maravento/blackweb) - Blacklist for Squid
 - [guile-aspell](https://github.com/spk121/guile-aspell) - Guile bindings for the aspell library
