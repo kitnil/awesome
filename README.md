@@ -67,7 +67,6 @@
   - [Objective-C++](#objective-c++)
   - [Others](#others)
   - [PHP](#php)
-  - [PLpgSQL](#plpgsql)
   - [Pascal](#pascal)
   - [Perl](#perl)
   - [Perl 6](#perl-6)
@@ -96,6 +95,7 @@
   - [Solidity](#solidity)
   - [Standard ML](#standard-ml)
   - [Starlark](#starlark)
+  - [TSQL](#tsql)
   - [Tcl](#tcl)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -163,6 +163,7 @@
 
 ## C 
 
+- [ircd-seven](https://github.com/freenode/ircd-seven) - freenode's IRC server daemon
 - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [docker-tor-hiddenservice-nginx](https://github.com/opsxcq/docker-tor-hiddenservice-nginx) - Easily setup a hidden service inside the Tor network
 - [libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
@@ -879,6 +880,7 @@
 
 ## C++ 
 
+- [inspircd](https://github.com/inspircd/inspircd) - A modular C++ IRC server (ircd).
 - [hrktorrent](https://github.com/hrkfdn/hrktorrent) - hrktorrent is a light console torrent client written in C++, using rasterbar's libtorrent.
 - [multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
@@ -3402,6 +3404,7 @@
 
 ## Go 
 
+- [oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 - [gosize](https://github.com/bradfitz/gosize) - analyze size of Go binaries
 - [terraform-provider-gpg](https://github.com/invidian/terraform-provider-gpg) - GPG Terraform provider
@@ -3792,7 +3795,7 @@
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
-- [teleport](https://github.com/gravitational/teleport) - Privileged access management that doesn’t get in the way.
+- [teleport](https://github.com/gravitational/teleport) - Zero Trust Access to Infrastructure and Applications
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [minishift](https://github.com/minishift/minishift) - Run OpenShift 3.x locally
@@ -5094,6 +5097,7 @@
 - [relax](https://github.com/relax/relax) - New generation CMS on top of React, Redux and GraphQL
 - [stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
 - [starmark](https://github.com/ryanmcdermott/starmark) - :octocat: Turn your GitHub stars into Chrome bookmarks
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
@@ -5890,7 +5894,7 @@
 - [browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
 - [bash-guide](https://github.com/vuuihc/bash-guide) - bash 基本用法指南
 - [nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
-- [bash-guide](https://github.com/omergulen/bash-guide) - Shell Rehberi
+- [bash-guide](https://github.com/omergulen/bash-guide) - Shell Rehberi (BASH)
 - [shell-book](https://github.com/52fhy/shell-book) - ❤️Shell脚本学习系列教程：6小节内容轻松掌握shell编程。
 - [git-pushdemont](https://github.com/voghDev/git-pushdemont) - Custom Git command that marks your commits as pushed, then reverts the process after 8 seconds
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
@@ -6516,10 +6520,6 @@
 - [Legacy-planetary](https://github.com/MathHubInfo/Legacy-planetary) - Legacy: Planetary System is a math-enabled Web 3.0 information portal.
 - [humhub](https://github.com/humhub/humhub) - HumHub - Open Source Social Network
 
-## PLpgSQL 
-
-- [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
-
 ## Pascal 
 
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi
@@ -6669,6 +6669,7 @@
 
 ## Python 
 
+- [irc](https://github.com/jaraco/irc) - Full-featured Python IRC library for Python.
 - [airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [arch-wiki-docs](https://github.com/lahwaacz/arch-wiki-docs) - A script to download pages from Arch Wiki for offline browsing
 - [dockselpy](https://github.com/dimmg/dockselpy) - Dockerized Selenium and Python with support for Chrome, Firefox and PhantomJS
@@ -6779,7 +6780,7 @@
 - [vardbg](https://github.com/CCExtractor/vardbg) - A simple Python debugger and profiler that generates animated visualizations of program flow, useful for algorithm learning.
 - [Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [inlinec](https://github.com/georgek42/inlinec) - Effortlessly write inline C functions in Python
-- [snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных
+- [snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT)
 - [glitch-this](https://github.com/TotallyNotChase/glitch-this) - :camera: Glitchify images and GIF, highly customizable options!
 - [dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
@@ -8482,6 +8483,7 @@
 
 ## Shell 
 
+- [inspircd-docker](https://github.com/inspircd/inspircd-docker) - InspIRCd Docker Image
 - [docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd) - Docker Pure-ftpd Server
 - [docker-toran-proxy](https://github.com/cedvan/docker-toran-proxy) - Docker image to launch a toran proxy application self hosted to manage PHP dependencies
 - [pacwall](https://github.com/Kharacternyk/pacwall) - Dependency graph of installed packages on your wallpaper.
@@ -8918,7 +8920,6 @@
 - [gentoo-haskell](https://github.com/gentoo-haskell/gentoo-haskell) - official gentoo haskell overlay
 - [emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
 - [baphomet](https://github.com/paxperscientiam/baphomet) - BAPHOMET -- manage your emacs daemons
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [blackweb](https://github.com/maravento/blackweb) - Blacklist for Squid
 - [guile-aspell](https://github.com/spk121/guile-aspell) - Guile bindings for the aspell library
@@ -9100,6 +9101,10 @@
 - [rules_haskell](https://github.com/tweag/rules_haskell) - Haskell rules for Bazel.
 - [livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
+
+## TSQL 
+
+- [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 
 ## Tcl 
 
