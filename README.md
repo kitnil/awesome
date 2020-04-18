@@ -8738,7 +8738,7 @@
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
-- [docker-bitlbee](https://github.com/mbologna/docker-bitlbee) - Dockerfile to create a Docker container for bitlbee
+- [docker-bitlbee](https://github.com/mbologna/docker-bitlbee) - Run bitlbee with TLS and custom protocols in a container
 - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [slickstack](https://github.com/littlebizzy/slickstack) - SlickStack is a free LEMP stack automation script written in Bash designed to enhance and simplify WordPress provisioning, performance, and security.
 - [xterm-color-count](https://github.com/l0b0/xterm-color-count) - Count how many colors your XTerm actually supports
