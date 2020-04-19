@@ -1752,6 +1752,11 @@
 
 ## Emacs Lisp 
 
+- [xwwp](https://github.com/canatella/xwwp) - Enhance the Emacs xwidget-webkit browser
+- [emacs-lisp-local](https://github.com/lispunion/emacs-lisp-local) - Allow different Lisp indentation in each buffer
+- [leaf-tree.el](https://github.com/conao3/leaf-tree.el) - Interactive side-bar feature for leaf based init.el
+- [feedly](https://github.com/codecoll/feedly) - Read your Feedly feeds from Emacs
+- [org-super-links](https://github.com/toshism/org-super-links) - Package to create links with auto backlinks
 - [emacs-pdb-capf](https://github.com/muffinmad/emacs-pdb-capf) - Completion-at-point function for pdb (Python debugger)
 - [ctrlf](https://github.com/raxod502/ctrlf) - ⌨️ Emacs finally learns how to ctrl+F.
 - [frog-menu](https://github.com/clemera/frog-menu) - Quickly pick items from ad hoc menus in Emacs
@@ -3419,7 +3424,7 @@
 - [go-leetcode](https://github.com/austingebauer/go-leetcode) - A collection of 100+ popular LeetCode problems that I've solved in Go.
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [gofx](https://github.com/antonmedv/gofx) - 🐾 fx-like command-line JSON processing tool
-- [hostctl](https://github.com/guumaster/hostctl) - Manage your hosts file like a pro!
+- [hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
@@ -4085,7 +4090,7 @@
 - [clipper](https://github.com/wincent/clipper) - ✂️ Clipboard access for local and remote tmux sessions
 - [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
-- [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+- [qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [concat](https://github.com/ArneVogel/concat) - Download your vods from twitch in the command line
 - [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
 - [experiments](https://github.com/bigwhite/experiments) - Personal code, scripts and config files for experiments
@@ -5627,6 +5632,7 @@
 
 ## OCaml 
 
+- [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 - [restack](https://github.com/dysinger/restack) - Full Stack ReasonML Tutorials
 - [flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
@@ -6669,6 +6675,7 @@
 
 ## Python 
 
+- [Twitch-Python](https://github.com/PetterKraabol/Twitch-Python) - Object-oriented Twitch API for Python developers
 - [irc](https://github.com/jaraco/irc) - Full-featured Python IRC library for Python.
 - [airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [arch-wiki-docs](https://github.com/lahwaacz/arch-wiki-docs) - A script to download pages from Arch Wiki for offline browsing
@@ -6909,6 +6916,7 @@
 - [autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most of the existing password manager.
 - [pass-audit](https://github.com/roddhjav/pass-audit) - A pass extension for auditing your password repository.
+- [ansible-manage-lvm](https://github.com/mrlesmithjr/ansible-manage-lvm) - 
 - [http-request-translator](https://github.com/owtf/http-request-translator) - HTTP Request Translator (hrt) translates raw HTTP requests to different scripts (bash, python, etc.)
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
@@ -7124,7 +7132,7 @@
 - [cbox](https://github.com/shmuelamar/cbox) - convert any python function to unix-style command
 - [tably](https://github.com/narimiran/tably) - Python command-line script for converting .csv data to LaTeX tables
 - [FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
-- [instapy-cli](https://github.com/instagrambot/instapy-cli) - :sparkles: Python library and CLI to upload photo and video on Instagram. W/o a phone!
+- [instapy-cli](https://github.com/instagrambot/instapy-cli) - :sparkles: Python library and CLI to upload photo and video on Instagram. W/o a phone!  https://likeup.me/?ref=github
 - [git-deps](https://github.com/aspiers/git-deps) - git commit dependency analysis tool
 - [mech](https://github.com/mechboxes/mech) - Easy command line virtual machines for VMWare
 - [pycycle](https://github.com/bndr/pycycle) - Tool for pinpointing circular imports in Python. Find cyclic imports in any project
@@ -7372,7 +7380,7 @@
 - [key-mon](https://github.com/scottkirkwood/key-mon) - Automatically exported from code.google.com/p/key-mon
 - [key-mon](https://github.com/critiqjo/key-mon) - Automatically exported from code.google.com/p/key-mon
 - [mailaprop](https://github.com/kfogel/mailaprop) - Modern autofill behavior for email addresses in Emacs.
-- [oil](https://github.com/oilshell/oil) - Oil shell
+- [oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language.
 - [notifico](https://github.com/TkTech/notifico) - My personal http://cia.vc replacement. Now used by over 3000 projects.
 - [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
@@ -7976,7 +7984,7 @@
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [cherrymusic](https://github.com/devsnd/cherrymusic) - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server.
-- [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
+- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and Extending hosts files from several well-curated sources. You can optionally pick extensions to block Porn, Social Media, and other categories..
 - [classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [Terminal-on-FB-Messenger](https://github.com/dhruvramani/Terminal-on-FB-Messenger) - Allows user to take full control of the terminal of their computer through Facebook's messaging service.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -8700,7 +8708,6 @@
 - [yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you to keep the whole tree of password encrypted inside a tomb.
 - [plz.el](https://github.com/alphapapa/plz.el) - An HTTP library for Emacs
-- [ansible-manage-lvm](https://github.com/mrlesmithjr/ansible-manage-lvm) - 
 - [bash-dev-tcp](https://github.com/fijimunkii/bash-dev-tcp) - collection of scripts using /dev/tcp
 - [ngincat](https://github.com/jaburns/ngincat) - Tiny bash HTTP server using netcat
 - [httpstat](https://github.com/b4b4r07/httpstat) - It's like curl -v, with graphs and colors
