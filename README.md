@@ -163,6 +163,7 @@
 
 ## C 
 
+- [hummingbird](https://github.com/mariusae/hummingbird) - no bullshit, minimalistic HTTP load generator
 - [ircd-seven](https://github.com/freenode/ircd-seven) - freenode's IRC server daemon
 - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [docker-tor-hiddenservice-nginx](https://github.com/opsxcq/docker-tor-hiddenservice-nginx) - Easily setup a hidden service inside the Tor network
@@ -1479,7 +1480,6 @@
 - [re-natal](https://github.com/drapanjanas/re-natal) - Bootstrap ClojureScript React Native apps
 - [codecombat](https://github.com/codecombat/codecombat) - Game for learning how to code.
 - [vrome](https://github.com/jinzhu/vrome) - Vrome: Bringing Vim elegance to Chrome
-- [vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) - Quick and easy product tours with Twitter Bootstrap Popovers
 
 ## Common Lisp 
@@ -1580,7 +1580,7 @@
 - [sucle](https://github.com/gregcman/sucle) - Common Lisp Voxel Game Engine
 - [cl-sdl2](https://github.com/lispgames/cl-sdl2) - Common Lisp bindings for SDL2 using C2FFI.
 - [cells](https://github.com/kennytilton/cells) - A Common Lisp implementation of the dataflow programming paradigm
-- [Particle](https://github.com/Seteeri/Particle) - PicoLisp personal knowledge manager/outliner with a presentation-based lisp-structured UI
+- [Particle](https://github.com/Seteeri/Particle) - PicoLisp presentation-based userland
 - [cl-sdl2-tutorial](https://github.com/TatriX/cl-sdl2-tutorial) - 
 - [on-lisp](https://github.com/DalekBaldwin/on-lisp) - A modernized and annotated code companion to Paul Graham's "On Lisp".
 - [lisp-magick-wand](https://github.com/ruricolist/lisp-magick-wand) - ImageMagick bindings (fork)
@@ -1752,6 +1752,7 @@
 
 ## Emacs Lisp 
 
+- [dotfiles](https://github.com/wandersoncferreira/dotfiles) - Literate Emacs configuration with EXWM
 - [xwwp](https://github.com/canatella/xwwp) - Enhance the Emacs xwidget-webkit browser
 - [emacs-lisp-local](https://github.com/lispunion/emacs-lisp-local) - Allow different Lisp indentation in each buffer
 - [leaf-tree.el](https://github.com/conao3/leaf-tree.el) - Interactive side-bar feature for leaf based init.el
@@ -1760,7 +1761,7 @@
 - [emacs-pdb-capf](https://github.com/muffinmad/emacs-pdb-capf) - Completion-at-point function for pdb (Python debugger)
 - [ctrlf](https://github.com/raxod502/ctrlf) - ⌨️ Emacs finally learns how to ctrl+F.
 - [frog-menu](https://github.com/clemera/frog-menu) - Quickly pick items from ad hoc menus in Emacs
-- [shrface](https://github.com/chenyanming/shrface) - It is a shr faces package that helps you apply your favourite org faces to shr, dash-docs, eww, nov.el, mu4e, and more!
+- [shrface](https://github.com/chenyanming/shrface) - It is a shr faces package that helps you apply your favourite org faces to shr, dash-docs, eww, nov.el and mu4e.
 - [gomacro-mode](https://github.com/storvik/gomacro-mode) - Emacs package for working with gomacro REPL.
 - [dashboard-ls](https://github.com/jcs-elpa/dashboard-ls) - Display files/directories in current directory on Dashboard.
 - [org-spacer.el](https://github.com/dustinlacewell/org-spacer.el) - Enforce the number of blank lines between elements in an org-mode document
@@ -4673,6 +4674,7 @@
 
 ## JavaScript 
 
+- [ViewImage](https://github.com/bijij/ViewImage) - Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 - [wdio](https://github.com/blueimp/wdio) - Docker setup for WebdriverIO with automatic screenshots, image diffing and screen recording support for containerized versions of Chrome and Firefox, Mobile Safari and Mobile Chrome via Appium, Safari on MacOS as well as Edge, Edge Legacy and Internet Explorer on Windows 10.
 - [savescreenshot](https://github.com/M-Reimer/savescreenshot) - Firefox "Save Screenshot" Addon. Simple website screenshot maker for Firefox.
 - [ymlx](https://github.com/matthewadams/ymlx) - Command-line YAML processor
@@ -5330,6 +5332,7 @@
 - [thegreatsuspender](https://github.com/deanoemcke/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 - [nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
+- [vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [github-markdown-outline-extension](https://github.com/dbkaplun/github-markdown-outline-extension) - Displays a clickable outline/table of contents of all topic headers for markdown documents on Github
 - [github-highlight-selected](https://github.com/Nuclides/github-highlight-selected) - Chrome extension for highlighting selected word in GitHub source view like Sublime Text.
 - [github-email-extractor](https://github.com/prabhakar267/github-email-extractor) - :sunglasses: Chrome extension to fetch the email ID of a user even if they haven't made it public on their GitHub profile
@@ -5662,6 +5665,7 @@
 
 ## Others 
 
+- [make-emacs](https://github.com/mariusae/make-emacs) - simple, self-contained, relocatable emacs
 - [OnionIRC](https://github.com/dustyfresh/OnionIRC) - Docker container for running an IRC server as a Tor hidden service
 - [awesome-risk-quantification](https://github.com/veeral-patel/awesome-risk-quantification) - A collection of awesome projects, blog posts, books, and talks on quantifying risk
 - [qemu-images](https://github.com/palmercluff/qemu-images) - A collection of disk images and virtual machines that can be used by the QEMU emulator
@@ -5865,7 +5869,6 @@
 - [learning-oop-in-php](https://github.com/marcelgsantos/learning-oop-in-php) - A collection of resources to learn object-oriented programming and related concepts for PHP developers.
 - [awesome-bots](https://github.com/invocable/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
-- [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - 
 - [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
@@ -6811,6 +6814,7 @@
 - [awesome-dash](https://github.com/ucg8j/awesome-dash) - A curated list of awesome Dash (plotly) resources
 - [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
 - [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) - Anomaly detection related books, papers, videos, and toolboxes
+- [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - 
 - [h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
