@@ -860,7 +860,7 @@
 
 ## C# # 
 
-- [Playnite](https://github.com/JosefNemec/Playnite) - Open source video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+- [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [Gambador](https://github.com/MaximeGammaitoni/Gambador) - 
