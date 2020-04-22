@@ -3640,7 +3640,7 @@
 - [terraform-variables-generator](https://github.com/alexandrst88/terraform-variables-generator) - Simple Tool for Generate Variables file from Terraform Configuration
 - [terraform-provider-github](https://github.com/terraform-providers/terraform-provider-github) - Terraform GitHub provider
 - [terraform-provider-openstack](https://github.com/terraform-providers/terraform-provider-openstack) - Terraform OpenStack provider
-- [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (with homebrew and more)
+- [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
 - [terraform-provider-vault](https://github.com/terraform-providers/terraform-provider-vault) - Terraform Vault provider
 - [terraform-provider-ansible](https://github.com/nbering/terraform-provider-ansible) - "Logical" provider for integrating with an Ansible Dynamic Inventory script.
 - [terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
@@ -4890,6 +4890,7 @@
 - [awesome-berlin](https://github.com/marlonbernardes/awesome-berlin) - 🇩🇪 A guide aiming to help newcomers to have a successful start in Berlin!
 - [flightplan](https://github.com/pstadler/flightplan) - Run sequences of shell commands against local and remote hosts.
 - [Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
+- [faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
 - [community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Golang + EmberJS
 - [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [gitlab-ci-monitor](https://github.com/globocom/gitlab-ci-monitor) - A simple dashboard for monitoring GitLab CI builds. Alpha version.
@@ -6679,6 +6680,7 @@
 
 ## Python 
 
+- [JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - A language agnostic test suite for the JSON Schema specifications
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom and Skype
 - [Twitch-Python](https://github.com/PetterKraabol/Twitch-Python) - Object-oriented Twitch API for Python developers
 - [irc](https://github.com/jaraco/irc) - Full-featured Python IRC library for Python.
@@ -7042,7 +7044,6 @@
 - [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot http://cowrie.readthedocs.io
 - [storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [adminset](https://github.com/guohongze/adminset) - 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理
-- [faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
 - [ansible-meta-dynamic-inventory](https://github.com/iautom8things/ansible-meta-dynamic-inventory) - Naming is hard.  This wrapper script allows you to use set notation with dynamic host groups.
 - [automatron](https://github.com/madflojo/automatron) - Infrastructure monitoring framework turning DevOps runbooks into automated actions
 - [webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 网页版rz/sz上传下载/动态口令 django
