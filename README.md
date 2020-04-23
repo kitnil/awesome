@@ -1927,7 +1927,6 @@
 - [julia-emacs](https://github.com/JuliaEditorSupport/julia-emacs) - Julia support in Emacs.
 - [Emacs-esqlite](https://github.com/mhayashi1120/Emacs-esqlite) - sqlite file manipulate utilities
 - [kubel](https://github.com/abrochard/kubel) - Emacs extension for controlling Kubernetes with limited permissions
-- [memrise.el](https://github.com/SavchenkoValeriy/memrise.el) - Emacs Memrise integration
 - [helm-recoll](https://github.com/emacs-helm/helm-recoll) - helm interface for the recoll desktop search tool.
 - [snails](https://github.com/manateelazycat/snails) - A modern, easy-to-expand fuzzy search framework
 - [elisp-koans](https://github.com/jtmoulia/elisp-koans) - Emacs Lisp Koans -- learn elisp through test-driven development.
@@ -4052,7 +4051,7 @@
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [mole](https://github.com/davrodpin/mole) - cli app to create ssh tunnels
 - [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
-- [writefreely](https://github.com/writeas/writefreely) - A community writing platform.
+- [writefreely](https://github.com/writeas/writefreely) - Build a community writing space on the web.
 - [discord-cli](https://github.com/Rivalo/discord-cli) - Minimalistic Command-Line Interface for Discord
 - [gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
 - [mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
@@ -5849,7 +5848,7 @@
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
 - [awesome-human-pose-estimation](https://github.com/cbsudux/awesome-human-pose-estimation) - A collection of awesome resources in Human Pose estimation.
-- [awesome-charting](https://github.com/zingchart/awesome-charting) - A curated list of chart and dataviz resources that developers may find useful.
+- [awesome-charting](https://github.com/zingchart/awesome-charting) - A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries
 - [awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems) - Awesome list of distributed systems resources
 - [awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
 - [awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
@@ -8569,7 +8568,7 @@
 - [git-slack-hook](https://github.com/chriseldredge/git-slack-hook) - Git receive hook to notify Slack channels
 - [jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 - [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-- [zfsnap](https://github.com/zfsnap/zfsnap) - A portable, performant script to make rolling ZFS snapshots easy.
+- [zfsnap](https://github.com/zfsnap/zfsnap) - [UNMAINTAINED] A portable, performant script to make rolling ZFS snapshots easy.
 - [android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [cleanreg](https://github.com/hcguersoy/cleanreg) - A small tool to clean up Docker Registries (v2).
 - [git-splits](https://github.com/ajdruff/git-splits) - Extracts multiple directories of a git repo into a new branch
@@ -9241,7 +9240,7 @@
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [scaffdog](https://github.com/cats-oss/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
 - [npmvet](https://github.com/harksys/npmvet) - A simple CLI tool for vetting npm package versions
-- [graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - 🕵️‍♀️ Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage
+- [graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
 - [fly](https://github.com/superfly/fly) - Fly is a runtime for global applications. Use it to build CDNs, smart proxy applications, and be a little more geo-neutral.
 - [copee](https://github.com/styfle/copee) - 📄 Copy text from browser to clipboard...natively! &lt; 1kB
 - [graphql-cli](https://github.com/Urigo/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
