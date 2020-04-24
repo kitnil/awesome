@@ -271,7 +271,7 @@
 - [tinyc.games](https://github.com/superjer/tinyc.games) - Tiny C games you can compile and run RIGHT NOW
 - [LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
 - [DragonFlyBSD](https://github.com/DragonFlyBSD/DragonFlyBSD) - DragonFly BSD System Source Repository (read-only mirror)
-- [lisp-interpreter](https://github.com/justinmeiners/lisp-interpreter) - Embeddable lisp interpreter written in C.
+- [lisp-interpreter](https://github.com/justinmeiners/lisp-interpreter) - Embeddable lisp/scheme interpreter written in C.
 - [lpp-vita](https://github.com/Rinnegatamante/lpp-vita) - Lua Player Plus for PSVITA. Documentation on: http://rinnegatamante.github.io/lpp-vita/
 - [python_lite](https://github.com/fy0/python_lite) - [WIP] A simple, lightweight implementation of python3 language.
 - [s](https://github.com/rain-1/s) - the s shell
@@ -447,7 +447,7 @@
 - [skype4pidgin](https://github.com/EionRobb/skype4pidgin) - Skype Plugin for Pidgin, libpurple and more
 - [LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 - [ubridge](https://github.com/GNS3/ubridge) - Bridge for UDP tunnels, Ethernet, TAP and VMnet interfaces.
-- [cmdtree](https://github.com/jb55/cmdtree) - X11 trie command launcher
+- [cmdtree](https://github.com/jb55/cmdtree) - X11 command launcher with tree-like bindings
 - [inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [pacemaker](https://github.com/ClusterLabs/pacemaker) - Pacemaker is an advanced, scalable High-Availability cluster resource manager
 - [casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
@@ -1078,7 +1078,7 @@
 - [kbd-audio](https://github.com/ggerganov/kbd-audio) - Tools for capturing and analysing keyboard input paired with microphone capture  🎤⌨️
 - [hardware-effects](https://github.com/Kobzol/hardware-effects) - Demonstration of various hardware effects.
 - [imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
-- [one](https://github.com/OpenNebula/one) - OpenNebula cloud management platform
+- [one](https://github.com/OpenNebula/one) - The open source Cloud Management Platform developed for the Enterprise :rocket:
 - [x11-canvas-screencast](https://github.com/rprichard/x11-canvas-screencast) - UNIX-to-HTML5-Canvas screencasting (X11 or OS X)
 - [BlobTools](https://github.com/AndroidRoot/BlobTools) - Tools for unpacking & repacking blobs used for updating "hidden" partitions on ASUS Transformer
 - [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
@@ -1319,7 +1319,7 @@
 - [Natron](https://github.com/MrKepzie/Natron) - Open-source compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
 - [minetest](https://github.com/minetest/minetest) - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
 - [keepassx](https://github.com/keepassx/keepassx) - KeePassX is a cross platform port of the windows application “Keepass Password Safe”.
-- [clang-tools-extra](https://github.com/llvm-mirror/clang-tools-extra) - Mirror of official clang-tools-extra git repository located at http://llvm.org/git/clang-tools-extra. Updated every five minutes.
+- [clang-tools-extra](https://github.com/llvm-mirror/clang-tools-extra) - Mirror kept for legacy. Moved to https://github.com/llvm/llvm-project
 - [android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux
 - [cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD Client
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
@@ -4310,6 +4310,7 @@
 - [git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [org-minimal-html-theme](https://github.com/caffo/org-minimal-html-theme) - Simple and beautiful orgmode HTML export theme
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+- [webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
 - [pykwiki](https://github.com/nullism/pykwiki) - PyKwiki, a static file Python MarkDown wiki rendered by Jinja2
 - [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
@@ -4480,7 +4481,7 @@
 - [MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - Let supported push service run system-ly on every Android devices
 - [openj9](https://github.com/eclipse/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 - [ScalingLayout](https://github.com/iammert/ScalingLayout) - With Scaling Layout scale your layout on user interaction.
-- [Interview-Questions](https://github.com/rishabh115/Interview-Questions) - Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
+- [SDE-Interview-Questions](https://github.com/rishabh115/SDE-Interview-Questions) - Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
 - [VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 - [jvm-profiler](https://github.com/uber-common/jvm-profiler) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter
 - [TextPathView](https://github.com/totond/TextPathView) - A View with text path animation!
@@ -4799,7 +4800,7 @@
 - [tabcenter-redux](https://github.com/eoger/tabcenter-redux) - Vertical Tabs extension for Firefox
 - [refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) - Chrome and Firefox extension that improves Bitbucket's user experience
 - [gooreplacer](https://github.com/jiacai2050/gooreplacer) - ⚡️⚡️A Firefox/Chrome extension to modify HTTP requests :-)
-- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of a complete web page as a single HTML file
+- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [vimperator-labs](https://github.com/vimperator/vimperator-labs) - Vimperator
 - [Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
 - [bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox) - Bypass Paywalls for Firefox
@@ -4966,7 +4967,7 @@
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [serve](https://github.com/zeit/serve) - Static file serving and directory listing
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [snowpack](https://github.com/pikapkg/snowpack) - 📦✨ Build web applications with less tooling and 10x faster iteration. No bundler required.
+- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The fastest, simplest way to build a web application.
 - [llthw](https://github.com/LispTO/llthw) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -5390,7 +5391,7 @@
 - [java-guide](https://github.com/forax/java-guide) - A guide of modern Java (Java 17)
 - [python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - Basic Cheat Sheet for Python (PDF, Markdown and Jupyter Notebook)
 - [cl-jupyter](https://github.com/fredokun/cl-jupyter) - An enhanced interactive Shell for Common Lisp (based on the Jupyter protocol)
-- [jupyter-book](https://github.com/jupyter/jupyter-book) - Create an online book with Jupyter Notebooks and Jekyll
+- [jupyter-book](https://github.com/ExecutableBookProject/jupyter-book) - Create an online book with Jupyter Notebooks and Jekyll
 - [imongo](https://github.com/gusutabopb/imongo) - A MongoDB kernel for Jupyter
 - [jupyterWith](https://github.com/tweag/jupyterWith) - declarative and reproducible Jupyter environments - powered by Nix
 - [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
@@ -5881,7 +5882,7 @@
 - [awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
 - [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - This repository was created and developed by All The Community Members Who Shared resources And Wrote Articles And What I ONLY did @cry__pto is Searching And Uploading Files. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
 - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
@@ -6628,7 +6629,6 @@
 - [Expose](https://github.com/Jack000/Expose) - A simple static site generator for photoessays
 - [gitolite](https://github.com/sitaramc/gitolite) - Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 - [bmo](https://github.com/mozilla-bteam/bmo) - bugzilla.mozilla.org source - report issues here: https://bugzilla.mozilla.org/enter_bug.cgi?product=bugzilla.mozilla.org
-- [webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [p5-Sisimai](https://github.com/sisimai/p5-Sisimai) - Mail Analyzing Interface for email bounce: A Perl module to parse RFC5322 bounce mails and generating structured data as JSON from parsed results. Formerly known as bounceHammer 4: an error mail analyzer.
 - [mailgraph](https://github.com/schweikert/mailgraph) - Mail plotting script
 - [mailnesia.com](https://github.com/Gilwyad/mailnesia.com) - Anonymous Email in Seconds
@@ -6776,7 +6776,7 @@
 - [ru_transformers](https://github.com/mgrankin/ru_transformers) - 
 - [fav-up](https://github.com/pielco11/fav-up) - IP lookup by favicon using Shodan
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
-- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Multi-Modal, and Conversational AI
+- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Language Generation, Multi-Modal, and Conversational AI
 - [jc](https://github.com/kellyjonbrazil/jc) - This tool serializes the output of popular gnu linux command line tools and file types to structured JSON output. This allows piping of output to tools like jq.
 - [stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
 - [Sorting-Algorithm-Visualizer](https://github.com/test123/Sorting-Algorithm-Visualizer) - 
@@ -9040,7 +9040,7 @@
 - [backupninja](https://github.com/lelutin/backupninja) - My sandbox on the official backupninja repository
 - [ubuntu](https://github.com/boxcutter/ubuntu) - Virtual machine templates for Ubuntu
 - [dotzsh](https://github.com/dotphiles/dotzsh) - A community driven framework for zsh
-- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - A tool for building the most useful CLI possible, customized for you.
+- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [yasnippets-latex](https://github.com/madsdk/yasnippets-latex) - LaTeX snippets for use with the yasnippet Emacs plugin
 - [yasnippets-orgmode](https://github.com/yyr/yasnippets-orgmode) - Fork of YASnippet bundle for Emacs org-mode (own copy)
