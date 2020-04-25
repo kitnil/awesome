@@ -566,7 +566,7 @@
 - [flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
 - [3proxy](https://github.com/z3APA3A/3proxy) - 3proxy - tiny free proxy server
 - [igraph](https://github.com/igraph/igraph) - Library for the analysis of networks
-- [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer.
+- [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.
 - [SmallerC](https://github.com/alexfru/SmallerC) - Simple C compiler
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders shaders
 - [rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
@@ -1752,6 +1752,8 @@
 
 ## Emacs Lisp 
 
+- [orderless](https://github.com/oantolin/orderless) - Emacs completion style that matches multiple regexps in any order
+- [s3ed](https://github.com/mattusifer/s3ed) - An interface to s3 from emacs
 - [dotfiles](https://github.com/wandersoncferreira/dotfiles) - Literate Emacs configuration with EXWM
 - [xwwp](https://github.com/canatella/xwwp) - Enhance the Emacs xwidget-webkit browser
 - [emacs-lisp-local](https://github.com/lispunion/emacs-lisp-local) - Allow different Lisp indentation in each buffer
@@ -3675,6 +3677,7 @@
 - [configor](https://github.com/jinzhu/configor) - Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
 - [skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
 - [yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
+- [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
 - [scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway | v2 in beta =&gt;
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -4060,7 +4063,7 @@
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
 - [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-- [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
+- [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
 - [meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
@@ -4260,6 +4263,7 @@
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [EverOrg](https://github.com/aladine/EverOrg) - Evernote to Org mode migration tool
 - [phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
+- [jsonpath-online-evaluator](https://github.com/ashphy/jsonpath-online-evaluator) - JSONPath Online Evaluator
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
 - [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
@@ -4811,7 +4815,6 @@
 - [git-history-browser-extension](https://github.com/LuisReinoso/git-history-browser-extension) - Agrega un botón a la interfáz de archivos de github para ver su historial / Add a button to the github file interface to see its history
 - [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
 - [just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
-- [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [mobile-first-animation](https://github.com/aholachek/mobile-first-animation) - Gesture-driven animation on the mobile web (React Conf 2019)
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
@@ -4967,7 +4970,7 @@
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [serve](https://github.com/zeit/serve) - Static file serving and directory listing
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The fastest, simplest way to build a web application.
+- [snowpack](https://github.com/pikapkg/snowpack) - ⛰ The fastest way to build a web application. Get a 10x faster dev environment.
 - [llthw](https://github.com/LispTO/llthw) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -5009,7 +5012,6 @@
 - [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.
 - [learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
-- [jsonpath-online-evaluator](https://github.com/ashphy/jsonpath-online-evaluator) - JSONPath Online Evaluator
 - [emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook) - An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [hero-engine](https://github.com/CommandLineHeroes/hero-engine) - Open-source HTML5 adventure game engine
@@ -5699,7 +5701,7 @@
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
 - [30-seconds-of-php](https://github.com/30-seconds/30-seconds-of-php) - Short PHP code snippets for all your development needs
-- [TaiChi](https://github.com/taichi-framework/TaiChi) - A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.0
+- [TaiChi](https://github.com/taichi-framework/TaiChi) - A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.
 - [resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
 - [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
 - [app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -8035,6 +8037,7 @@
 
 ## Racket 
 
+- [wasm-adventure](https://github.com/euhmeuh/wasm-adventure) - My adventure into the marvelous world of Web Assembly
 - [awesome-racket](https://github.com/avelino/awesome-racket) - A curated list of awesome Racket frameworks, libraries and software, maintained by Community
 - [racket-rash](https://github.com/willghatch/racket-rash) - The Reckless Racket Shell
 - [learn-racket](https://github.com/xuchunyang/learn-racket) - Random code in Racket for learning the language
@@ -8263,7 +8266,7 @@
 - [azul](https://github.com/maps4print/azul) - Desktop GUI Framework
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/jasonwilliams/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
-- [tide](https://github.com/http-rs/tide) - Serve the web – ergonomic async http server framework
+- [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast tool for building observability pipelines
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
@@ -8278,7 +8281,7 @@
 - [case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
 - [zz](https://github.com/zetzit/zz) - 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output
-- [surf](https://github.com/http-rs/surf) - Surf the web – HTTP client framework
+- [surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust
 - [silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [atm-cli](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.
 - [rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
@@ -9075,7 +9078,7 @@
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
-- [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Debian, Ubuntu and CentOS
+- [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora
 - [git-recent](https://github.com/paulirish/git-recent) - See your latest local git branches, formatted real fancy
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [Wallhaven-Downloader](https://github.com/macearl/Wallhaven-Downloader) - A simple download Script for Wallhaven.cc
