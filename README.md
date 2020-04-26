@@ -5724,7 +5724,7 @@
 - [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
 - [how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
-- [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈Updated daily! A list of popular public BitTorrent trackers. / 每天更新！全网热门公共 BitTorrent Tracker 列表！
+- [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers. / 每天更新！全网热门 BT Tracker 列表！
 - [kubernetes-production-best-practices](https://github.com/learnk8s/kubernetes-production-best-practices) - A checklist of Kubernetes best practices to help you release to production
 - [awesome-webpack-perf](https://github.com/iamakulov/awesome-webpack-perf) - A curated list of webpack tools for web performance
 - [README-template.md](https://github.com/scottydocs/README-template.md) - A README template for anyone to copy and use.
@@ -8788,7 +8788,7 @@
 - [docker-statsd-influxdb-grafana](https://github.com/samuelebistoletti/docker-statsd-influxdb-grafana) - Docker Image with Telegraf (StatsD), InfluxDB and Grafana
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [grafana-dashboards](https://github.com/mlabouardy/grafana-dashboards) - List of Grafana Dashboards 📺
-- [jsproxy](https://github.com/EtherDream/jsproxy) - 
+- [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
 - [docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [st2-docker](https://github.com/StackStorm/st2-docker) - Demo all-in-one Docker container for StackStorm
 - [docker-cups](https://github.com/thbe/docker-cups) - Creates an Alpine Linux CUPS server
