@@ -163,6 +163,8 @@
 
 ## C 
 
+- [puny-gui](https://github.com/ahungry/puny-gui) - A Puny GUI System
+- [ktsuss](https://github.com/nomius/ktsuss) - ktsuss stands for "keep the su simple, stupid", and as the name says, is a graphical version (frontend) of su written in C and GTK+ 2. The idea of the project is to remain simple and bug free.
 - [hummingbird](https://github.com/mariusae/hummingbird) - no bullshit, minimalistic HTTP load generator
 - [ircd-seven](https://github.com/freenode/ircd-seven) - freenode's IRC server daemon
 - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -1484,6 +1486,7 @@
 
 ## Common Lisp 
 
+- [common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter) - A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels.
 - [lucerne](https://github.com/eudoxia0/lucerne) - A web framework for Common Lisp, built on Clack
 - [web-toolkit](https://github.com/xh4/web-toolkit) - Lisp Web Toolkit
 - [weir](https://github.com/inconvergent/weir) - A system for making generative systems
@@ -1752,6 +1755,8 @@
 
 ## Emacs Lisp 
 
+- [grugru](https://github.com/ROCKTAKEY/grugru) - Rotate text at point in Emacs.
+- [lsp-latex](https://github.com/ROCKTAKEY/lsp-latex) - Emacs lsp-mode client for LaTeX.
 - [orderless](https://github.com/oantolin/orderless) - Emacs completion style that matches multiple regexps in any order
 - [s3ed](https://github.com/mattusifer/s3ed) - An interface to s3 from emacs
 - [dotfiles](https://github.com/wandersoncferreira/dotfiles) - Literate Emacs configuration with EXWM
@@ -1763,7 +1768,7 @@
 - [emacs-pdb-capf](https://github.com/muffinmad/emacs-pdb-capf) - Completion-at-point function for pdb (Python debugger)
 - [ctrlf](https://github.com/raxod502/ctrlf) - ⌨️ Emacs finally learns how to ctrl+F.
 - [frog-menu](https://github.com/clemera/frog-menu) - Quickly pick items from ad hoc menus in Emacs
-- [shrface](https://github.com/chenyanming/shrface) - It is a shr faces package that helps you apply your favourite org faces to shr, dash-docs, eww, nov.el and mu4e.
+- [shrface](https://github.com/chenyanming/shrface) - Extend shr/eww/nov with org features and analysis capability.
 - [gomacro-mode](https://github.com/storvik/gomacro-mode) - Emacs package for working with gomacro REPL.
 - [dashboard-ls](https://github.com/jcs-elpa/dashboard-ls) - Display files/directories in current directory on Dashboard.
 - [org-spacer.el](https://github.com/dustinlacewell/org-spacer.el) - Enforce the number of blank lines between elements in an org-mode document
@@ -4054,7 +4059,7 @@
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [mole](https://github.com/davrodpin/mole) - cli app to create ssh tunnels
 - [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
-- [writefreely](https://github.com/writeas/writefreely) - Build a community writing space on the web.
+- [writefreely](https://github.com/writeas/writefreely) - A platform for writing communities.
 - [discord-cli](https://github.com/Rivalo/discord-cli) - Minimalistic Command-Line Interface for Discord
 - [gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
 - [mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
@@ -4503,7 +4508,7 @@
 - [ok-gradle](https://github.com/scana/ok-gradle) - IntelliJ/Android Studio plugin for searching artifacts ids of popular Java libraries.
 - [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android) - AnyChart Android Chart is an amazing data visualization library for easily creating interactive charts in Android apps. It runs on API 19+ (Android 4.4) and features dozens of built-in chart types.
 - [PiracyChecker](https://github.com/javiersantos/PiracyChecker) - An Android library that prevents your app from being pirated / cracked using Google Play Licensing (LVL), APK signature protection and more. API 14+ required.
-- [WorldEdit](https://github.com/EngineHub/WorldEdit) - An in-game voxel map editor for Minecraft
+- [WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development
 - [che](https://github.com/eclipse/che) - Eclipse Che: Next-generation Eclipse IDE.  Open source workspace server and cloud IDE.
 - [piggymetrics](https://github.com/sqshq/piggymetrics) - Microservice Architecture with Spring Boot, Spring Cloud and Docker
@@ -5668,6 +5673,7 @@
 
 ## Others 
 
+- [rstats-ed](https://github.com/rstudio-education/rstats-ed) - List of courses teaching R
 - [make-emacs](https://github.com/mariusae/make-emacs) - simple, self-contained, relocatable emacs
 - [OnionIRC](https://github.com/dustyfresh/OnionIRC) - Docker container for running an IRC server as a Tor hidden service
 - [awesome-risk-quantification](https://github.com/veeral-patel/awesome-risk-quantification) - A collection of awesome projects, blog posts, books, and talks on quantifying risk
@@ -6153,7 +6159,6 @@
 - [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
 - [awesome-web-storage](https://github.com/softvar/awesome-web-storage) - :sunglasses: Everything you need to know about Client-side Storage.
-- [awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) - Curated list of all things public domain
 - [awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo) - A curated list of awesome deep vision web demo
@@ -7077,7 +7082,7 @@
 - [cipherscan](https://github.com/mozilla/cipherscan) - A very simple way to find out which SSL ciphersuites are supported by a target.
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [multiscanner](https://github.com/mitre/multiscanner) - Modular file scanning/analysis framework
-- [screenshot](https://github.com/alexdelorenzo/screenshot) - Better macOS screenshots via the Terminal - Programmatically capture screenshots of apps and specific windows
+- [screenshot](https://github.com/alexdelorenzo/screenshot) - 📸 Better macOS screenshots via the Terminal - Programmatically capture screenshots of apps and specific windows
 - [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask.
 - [http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
 - [eht-imaging](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry
@@ -8500,6 +8505,7 @@
 
 ## Shell 
 
+- [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor
 - [inspircd-docker](https://github.com/inspircd/inspircd-docker) - InspIRCd Docker Image
 - [docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd) - Docker Pure-ftpd Server
 - [docker-toran-proxy](https://github.com/cedvan/docker-toran-proxy) - Docker image to launch a toran proxy application self hosted to manage PHP dependencies
@@ -8924,6 +8930,7 @@
 - [wikitools](https://github.com/Smile4ever/wikitools) - Wikipedia tools
 - [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - This Windows Batchscript helps setup a MinGW compiler environment for building ffmpeg and other media tools under Windows.
 - [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides) - :clipboard: A list of styleguides
 - [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
