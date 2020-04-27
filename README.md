@@ -1387,7 +1387,6 @@
 - [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.
 - [nix-pills](https://github.com/NixOS/nix-pills) - 
 - [spacemacs-content](https://github.com/practicalli/spacemacs-content) - Content for the book - Clojure Development with Spacemacs
-- [emacs.sexy](https://github.com/picandocodigo/emacs.sexy) - Emacs.sexy
 - [Emacs-Elisp-Programming](https://github.com/caiorss/Emacs-Elisp-Programming) - Tutorial about programming Elisp and Emacs text editor customization.
 - [docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
@@ -1486,6 +1485,19 @@
 
 ## Common Lisp 
 
+- [halftone](https://github.com/Shinmera/halftone) - A simple image viewer in Common Lisp.
+- [iclendar](https://github.com/Shinmera/iclendar) - iCalendar/RFC5545 file format library for Common Lisp
+- [language-codes](https://github.com/Shinmera/language-codes) - A simple library mapping ISO language codes to language names.
+- [legit](https://github.com/Shinmera/legit) - CL interface to the GIT binary.
+- [parasol](https://github.com/Shinmera/parasol) - A Common Lisp painting application
+- [system-load](https://github.com/Shinmera/system-load) - A simple library to access the underlying system's CPU and memory usage.
+- [system-locale](https://github.com/Shinmera/system-locale) - A library to retrieve the system's configured locale and language settings
+- [vitae](https://github.com/Shinmera/vitae) - Project to organise biographical data
+- [chirp](https://github.com/Shinmera/chirp) - A twitter client library for Common Lisp
+- [font-discovery](https://github.com/Shinmera/font-discovery) - Find and list system font files
+- [feeder](https://github.com/Shinmera/feeder) - RSS, Atom and general feed parsing and generating
+- [qtools](https://github.com/Shinmera/qtools) - Qtools is a collection of utilities to aid development with CommonQt
+- [cl-netstat](https://github.com/D4ryus/cl-netstat) - Curses-Tool to visualize network traffic
 - [common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter) - A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels.
 - [lucerne](https://github.com/eudoxia0/lucerne) - A web framework for Common Lisp, built on Clack
 - [web-toolkit](https://github.com/xh4/web-toolkit) - Lisp Web Toolkit
@@ -1755,8 +1767,9 @@
 
 ## Emacs Lisp 
 
+- [toml-mode.el](https://github.com/dryman/toml-mode.el) - Emacs Mojor mode for editing TOML files
 - [grugru](https://github.com/ROCKTAKEY/grugru) - Rotate text at point in Emacs.
-- [lsp-latex](https://github.com/ROCKTAKEY/lsp-latex) - Emacs lsp-mode client for LaTeX.
+- [lsp-latex](https://github.com/ROCKTAKEY/lsp-latex) - Emacs lsp-mode client for LaTeX, on texlab.
 - [orderless](https://github.com/oantolin/orderless) - Emacs completion style that matches multiple regexps in any order
 - [s3ed](https://github.com/mattusifer/s3ed) - An interface to s3 from emacs
 - [dotfiles](https://github.com/wandersoncferreira/dotfiles) - Literate Emacs configuration with EXWM
@@ -4023,7 +4036,7 @@
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [gist-fs](https://github.com/ueokande/gist-fs) - Gist as file system
-- [license](https://github.com/nishanths/license) - Create LICENSE files from the command line
+- [license](https://github.com/nishanths/license) - Command line LICENSE file generator
 - [termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [libnetwork](https://github.com/moby/libnetwork) - networking for containers
@@ -4306,6 +4319,7 @@
 - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon
 - [json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [ensime.github.io](https://github.com/ensime/ensime.github.io) - ENSIME Documentation
+- [emacs.sexy](https://github.com/picandocodigo/emacs.sexy) - Emacs.sexy
 - [emacs4developers](https://github.com/pierre-lecocq/emacs4developers) - A document to help developers to use Emacs as a developer
 - [fonts](https://github.com/google/fonts) - Font files available from Google Fonts
 - [rwot5-boston](https://github.com/WebOfTrustInfo/rwot5-boston) - RWOT5 in Boston, Massachusetts (October 2017)
@@ -4975,7 +4989,7 @@
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [serve](https://github.com/zeit/serve) - Static file serving and directory listing
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [snowpack](https://github.com/pikapkg/snowpack) - ⛰ The fastest way to build a web application. Get a 10x faster dev environment.
+- [snowpack](https://github.com/pikapkg/snowpack) - ⛰ The fastest way to build a web app.
 - [llthw](https://github.com/LispTO/llthw) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -5319,7 +5333,7 @@
 - [lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [itsalltext](https://github.com/docwhat/itsalltext) - It's All Text! - Edit textareas in your browser with your favorite editor!
 - [gnome-shell-extension-redshift](https://github.com/tommie-lie/gnome-shell-extension-redshift) - redshift integration for GNOME Shell
-- [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview
+- [abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [static-publisher](https://github.com/static-publisher/static-publisher) - Automated deployment server for static site generators
 - [wp-desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop
 - [copy-as-org-mode](https://github.com/kuanyui/copy-as-org-mode) - Copy Link, Image and Table in Page as Org-mode Format!
@@ -5374,7 +5388,7 @@
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
 - [arch-wiki-md-repo](https://github.com/greg-js/arch-wiki-md-repo) - All arch-wiki articles in markdown format, updated every week
 
 ## Julia 
@@ -6636,7 +6650,7 @@
 - [Expose](https://github.com/Jack000/Expose) - A simple static site generator for photoessays
 - [gitolite](https://github.com/sitaramc/gitolite) - Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 - [bmo](https://github.com/mozilla-bteam/bmo) - bugzilla.mozilla.org source - report issues here: https://bugzilla.mozilla.org/enter_bug.cgi?product=bugzilla.mozilla.org
-- [p5-Sisimai](https://github.com/sisimai/p5-Sisimai) - Mail Analyzing Interface for email bounce: A Perl module to parse RFC5322 bounce mails and generating structured data as JSON from parsed results. Formerly known as bounceHammer 4: an error mail analyzer.
+- [p5-sisimai](https://github.com/sisimai/p5-sisimai) - Mail Analyzing Interface for email bounce: A Perl module to parse RFC5322 bounce mails and generating structured data as JSON from parsed results. Formerly known as bounceHammer 4: an error mail analyzer.
 - [mailgraph](https://github.com/schweikert/mailgraph) - Mail plotting script
 - [mailnesia.com](https://github.com/Gilwyad/mailnesia.com) - Anonymous Email in Seconds
 - [dada-mail](https://github.com/justingit/dada-mail) - Self-Hosted, Full Featured, Email Mailing List Manager. Announcement + Discussion Lists, Web-based Installer, Installs with minimal dependencies, sendmail/SMTP/Amazon SES supported
@@ -7524,7 +7538,7 @@
 - [netflix-proxy](https://github.com/ab77/netflix-proxy) - Smart DNS proxy to watch Netflix
 - [ChinaDNS-Python](https://github.com/shadowsocks/ChinaDNS-Python) - Protect yourself against DNS poisoning in China.
 - [dnspython](https://github.com/rthalley/dnspython) - a powerful DNS toolkit for python
-- [dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting typo squatting, phishing and corporate espionage
+- [dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [dnsteal](https://github.com/m57/dnsteal) - DNS Exfiltration tool for stealthily sending files over DNS requests.
 - [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) - Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.
 - [twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
