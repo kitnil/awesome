@@ -163,6 +163,7 @@
 
 ## C 
 
+- [vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
 - [puny-gui](https://github.com/ahungry/puny-gui) - A Puny GUI System
 - [ktsuss](https://github.com/nomius/ktsuss) - ktsuss stands for "keep the su simple, stupid", and as the name says, is a graphical version (frontend) of su written in C and GTK+ 2. The idea of the project is to remain simple and bug free.
 - [hummingbird](https://github.com/mariusae/hummingbird) - no bullshit, minimalistic HTTP load generator
@@ -1767,6 +1768,7 @@
 
 ## Emacs Lisp 
 
+- [Emacs-LanguageTool.el](https://github.com/PillFall/Emacs-LanguageTool.el) - LanguageTool correction integrated with Emacs
 - [toml-mode.el](https://github.com/dryman/toml-mode.el) - Emacs Mojor mode for editing TOML files
 - [grugru](https://github.com/ROCKTAKEY/grugru) - Rotate text at point in Emacs.
 - [lsp-latex](https://github.com/ROCKTAKEY/lsp-latex) - Emacs lsp-mode client for LaTeX, on texlab.
@@ -3499,7 +3501,7 @@
 - [gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data
 - [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
-- [tilt](https://github.com/windmilleng/tilt) - Local Kubernetes development with no stress
+- [tilt](https://github.com/windmilleng/tilt) - Kubernetes for Prod, Tilt for Dev
 - [shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [crossplane](https://github.com/crossplane/crossplane) - The open source control plane to manage your infrastructure and applications the Kubernetes way.
 - [tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
@@ -3755,7 +3757,7 @@
 - [binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go
 - [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [git-octopus](https://github.com/lesfurets/git-octopus) - The continuous merge workflow
 - [poussetaches](https://github.com/tsileo/poussetaches) - Lightweight asynchronous task execution service
 - [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
@@ -5284,7 +5286,7 @@
 - [dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [hexo-renderer-org](https://github.com/coldnew/hexo-renderer-org) - Hexo renderer plugin for emacs org-mode
-- [gnome-shell-volume-mixer](https://github.com/aleho/gnome-shell-volume-mixer) - GNOME Shell Extension allowing separate configuration of pulseaudio devices
+- [gnome-shell-volume-mixer](https://github.com/aleho/gnome-shell-volume-mixer) - GNOME Shell Extension allowing separate configuration of PulseAudio devices
 - [randwall](https://github.com/rodakorn/randwall) - Gnome shell extension "Random Walls" for gnome 3
 - [gnome-shell-extension-super-tab-launcher](https://github.com/dsboger/gnome-shell-extension-super-tab-launcher) - A GNOME Shell extension that shows favorite app launchers in Super+Tab popup.
 - [apt-update-indicator](https://github.com/franglais125/apt-update-indicator) - Apt Update Indicator
@@ -5974,7 +5976,7 @@
 - [awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
-- [package-managers](https://github.com/ipfs/package-managers) - [ARCHIVED] 📦 IPFS Package Managers Task Force
+- [package-managers](https://github.com/ipfs-inactive/package-managers) - [ARCHIVED] 📦 IPFS Package Managers Task Force
 - [dashboard-cleanup](https://github.com/littlebizzy/dashboard-cleanup) - Cleans up the WP Admin backend by disabling various core WP and WC bloat features including Automattic spam, nag notices, tracking, and other items.
 - [Xresources-themes](https://github.com/logico-dev/Xresources-themes) - A big (huge) collection of rxvt / xterm terminal themes
 - [awesome-urxvt](https://github.com/bookercodes/awesome-urxvt) - :book: A community-driven collection of extensions and learning resources for the popular urxvt terminal window.
@@ -6561,6 +6563,7 @@
 
 ## Perl 
 
+- [apt-mirror](https://github.com/apt-mirror/apt-mirror) - Official apt-mirror source.
 - [urxvt-font-size](https://github.com/majutsushi/urxvt-font-size) - Change the urxvt font size on the fly
 - [pixload](https://github.com/chinarulezzz/pixload) - Image Payload Creating/Injecting tools
 - [hydra-backup](https://github.com/svanderburg/hydra-backup) - My custom hydra backup scripts
