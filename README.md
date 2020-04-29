@@ -422,7 +422,7 @@
 - [xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [nemesis](https://github.com/troglobit/nemesis) - A command-line network packet crafting and injection utility
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [nnn](https://github.com/jarun/nnn) - :tangerine: The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - n³ The missing terminal file manager for X.
 - [ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [LISP](https://github.com/krig/LISP) - Lisp interpreter in less than 500 lines of C, including a copying garbage collector and an implementation of LISP 1.5 from 1962.
 - [h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
@@ -923,12 +923,12 @@
 - [chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for twitch.tv
 - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [BlueshiftEngine](https://github.com/PolygonTek/BlueshiftEngine) - Blueshift is a cross-platform 3D game engine implemented in C++. it's free, open-source, and works on Windows, macOS, iOS, and Android. The project is currently in an early stage of development.
-- [mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that adds full network multiplayer functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found.
+- [mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 - [dg](https://github.com/mchalupa/dg) - [LLVM Static Slicer] Dependence graph for programs. A set of generic program analyses and a static slicer for LLVM bitcode.
 - [SVF](https://github.com/SVF-tools/SVF) - Static Value-Flow Analysis for C and C++ Programs
 - [TscanCode](https://github.com/Tencent/TscanCode) - A static code analyzer for C++, C#, Lua
 - [WickedEngine](https://github.com/turanszkij/WickedEngine) - C++ game engine focusing on modern rendering techniques and performance.
-- [q5Go](https://github.com/bernds/q5Go) - An improved port of qGo to Qt5: SGF editor, analysis tool, IGS client
+- [q5Go](https://github.com/bernds/q5Go) - A tool for Go players: SGF editor, analysis tool, IGS client
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [umoria](https://github.com/dungeons-of-moria/umoria) - Moria: a roguelike Dungeon Crawler game | Umoria Source Code
@@ -2535,7 +2535,7 @@
 - [sass-mode](https://github.com/nex3/sass-mode) - Emacs mode for Sass
 - [pocket-mode](https://github.com/lujun9972/pocket-mode) - Manage your pocket
 - [on-screen.el](https://github.com/michael-heerdegen/on-screen.el) - guide your eyes while scrolling
-- [puppet-mode](https://github.com/voxpupuli/puppet-mode) - Edit Puppet 3 manifests with GNU Emacs 24
+- [puppet-mode](https://github.com/voxpupuli/puppet-mode) - Edit Puppet manifests with GNU Emacs 24
 - [elbank](https://github.com/NicolasPetton/elbank) - Elbank is a personal finances application for Emacs
 - [wanderlust](https://github.com/wanderlust/wanderlust) - Wanderlust Development Repository
 - [semantic-refactor](https://github.com/tuhdo/semantic-refactor) - Semantic Refactor is a refactoring tool based on Semantic parser framework
@@ -4271,6 +4271,7 @@
 - [youtube-realtime](https://github.com/akshatmittal/youtube-realtime) - YouTube Realtime Subscriber Count
 - [django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is an open-source application vulnerability correlation and security orchestration tool.
 - [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
+- [archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
 - [dropcss](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner
 - [awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
 - [json2xml](https://github.com/vinitkumar/json2xml) - json to xml converter in python3
@@ -4699,6 +4700,7 @@
 
 ## JavaScript 
 
+- [kiwibnc](https://github.com/kiwiirc/kiwibnc) - 
 - [ViewImage](https://github.com/bijij/ViewImage) - Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 - [wdio](https://github.com/blueimp/wdio) - Docker setup for WebdriverIO with automatic screenshots, image diffing and screen recording support for containerized versions of Chrome and Firefox, Mobile Safari and Mobile Chrome via Appium, Safari on MacOS as well as Edge, Edge Legacy and Internet Explorer on Windows 10.
 - [savescreenshot](https://github.com/M-Reimer/savescreenshot) - Firefox "Save Screenshot" Addon. Simple website screenshot maker for Firefox.
@@ -4937,7 +4939,6 @@
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [hogwatch](https://github.com/akshaykmr/hogwatch) - find out what's hogging your internet connection.
-- [archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
 - [falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [sqltabs](https://github.com/sasha-alias/sqltabs) - Rich SQL client for Postgresql, MySQL, MS SQL, Amazon Redshift, Google Firebase (Firestore)
 - [laxxx](https://github.com/alexfoxy/laxxx) - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
@@ -4991,7 +4992,7 @@
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [serve](https://github.com/zeit/serve) - Static file serving and directory listing
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [snowpack](https://github.com/pikapkg/snowpack) - ⛰ The fastest way to build a web app.
+- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The fast, simple dev environment for modern web apps.
 - [llthw](https://github.com/LispTO/llthw) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -5414,7 +5415,6 @@
 - [java-guide](https://github.com/forax/java-guide) - A guide of modern Java (Java 17)
 - [python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - Basic Cheat Sheet for Python (PDF, Markdown and Jupyter Notebook)
 - [cl-jupyter](https://github.com/fredokun/cl-jupyter) - An enhanced interactive Shell for Common Lisp (based on the Jupyter protocol)
-- [jupyter-book](https://github.com/ExecutableBookProject/jupyter-book) - Create an online book with Jupyter Notebooks and Jekyll
 - [imongo](https://github.com/gusutabopb/imongo) - A MongoDB kernel for Jupyter
 - [jupyterWith](https://github.com/tweag/jupyterWith) - declarative and reproducible Jupyter environments - powered by Nix
 - [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
@@ -5524,7 +5524,7 @@
 - [lua-lsp](https://github.com/Alloyed/lua-lsp) - A Lua language server
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [ObAddon](https://github.com/caligari87/ObAddon) - A repository of community-built prefabs and other enhancements for Oblige 7.70
-- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits
+- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits  (带学习功能的快速路径切换工具)
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [mpv-repl](https://github.com/rossy/mpv-repl) - A graphical REPL for mpv input commands
 - [mpv-playlistmanager](https://github.com/jonniek/mpv-playlistmanager) - Mpv lua script to create and manage playlists
@@ -6463,7 +6463,7 @@
 - [symfony-console-autocomplete](https://github.com/bamarni/symfony-console-autocomplete) - Shell autocompletion for Symfony Console based scripts
 - [countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [webshell](https://github.com/tennc/webshell) - This is a webshell open source project
-- [secDevLabs](https://github.com/globocom/secDevLabs) - A laboratory for learning secure web development in a practical manner.
+- [secDevLabs](https://github.com/globocom/secDevLabs) - A laboratory for learning secure web and mobile development in a practical manner.
 - [CORS-vulnerable-Lab](https://github.com/incredibleindishell/CORS-vulnerable-Lab) - Sample vulnerable code and its exploit code
 - [speed-demon](https://github.com/littlebizzy/speed-demon) - A powerful bundle of lightweight tweaks that drastically improve the loading speed of WordPress by reducing bloat and improving overall efficiency.
 - [WebShell](https://github.com/xl7dev/WebShell) - Webshell && Backdoor Collection
@@ -6856,6 +6856,7 @@
 - [voluptuous](https://github.com/alecthomas/voluptuous) - CONTRIBUTIONS ONLY: Voluptuous, despite the name, is a Python data validation library.
 - [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 - [qtconsole](https://github.com/jupyter/qtconsole) - Jupyter Qt Console
+- [jupyter-book](https://github.com/ExecutableBookProject/jupyter-book) - Building interactive, publication-quality documents from Jupyter Notebooks
 - [jupyter_console](https://github.com/jupyter/jupyter_console) - Jupyter Terminal Console
 - [repo2docker](https://github.com/jupyter/repo2docker) - Turn repositories into Jupyter enabled Docker Images
 - [jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
@@ -7279,7 +7280,6 @@
 - [ivre](https://github.com/cea-sec/ivre) - Network recon framework.
 - [zabbix-mongodb](https://github.com/omni-lchen/zabbix-mongodb) - 
 - [alignak](https://github.com/Alignak-monitoring/alignak) - Monitoring tool, highly flexible and new standard oriented
-- [py-zabbix](https://github.com/adubkov/py-zabbix) - Python modules for zabbix.
 - [radian](https://github.com/randy3k/radian) - A 21 century R console
 - [miniircd](https://github.com/jrosdahl/miniircd) - A very simple Internet Relay Chat (IRC) server
 - [uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
@@ -9145,6 +9145,7 @@
 ## TSQL 
 
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
+- [py-zabbix](https://github.com/adubkov/py-zabbix) - Python modules for zabbix.
 
 ## Tcl 
 
@@ -9381,6 +9382,7 @@
 
 ## Vue 
 
+- [kiwiirc](https://github.com/kiwiirc/kiwiirc) - 🥝 Next generation of the Kiwi IRC web client
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
