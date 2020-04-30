@@ -884,6 +884,7 @@
 
 ## C++ 
 
+- [LuaFormatter](https://github.com/Koihik/LuaFormatter) - Code formatter for Lua
 - [inspircd](https://github.com/inspircd/inspircd) - A modular C++ IRC server (ircd).
 - [hrktorrent](https://github.com/hrkfdn/hrktorrent) - hrktorrent is a light console torrent client written in C++, using rasterbar's libtorrent.
 - [multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
@@ -1206,7 +1207,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.3.0.33941, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.3.0.34220, 3.3.5 = 3.3.5a.12340)
 - [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -3454,6 +3455,7 @@
 - [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/BSD/MacOS/Windows/Android/iOS) proxy/vpn software. Zero-Configuration.
 - [gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
+- [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [Go-SCP](https://github.com/OWASP/Go-SCP) - Go programming language secure coding practices guide
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
@@ -3645,7 +3647,7 @@
 - [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library in Go
 - [unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
-- [goatcounter](https://github.com/zgoat/goatcounter) - Simple web statistics. No tracking of personal data.
+- [goatcounter](https://github.com/zgoat/goatcounter) - Simple web analytics. No tracking of personal data.
 - [irccat](https://github.com/irccloud/irccat) - cat to IRC
 - [streamhut](https://github.com/streamhut/streamhut) - Stream your terminal to web without installing anything
 - [go-mongodbatlas](https://github.com/akshaykarle/go-mongodbatlas) - A Go client library for the MongoDB Atlas API
@@ -4813,7 +4815,7 @@
 - [Rotten-Soup](https://github.com/Larkenx/Rotten-Soup) - A roguelike built with Vue, Vuetify, Tiled, rot.js, and PixiJS! Playable at https://rottensoup.herokuapp.com/
 - [crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
 - [lessmd](https://github.com/linuxenko/lessmd) - A small markdown viewer/converter for unix terminal.
-- [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [legit](https://github.com/captainsafia/legit) - Add licenses to projects at the command line
 - [serverless-libreoffice](https://github.com/vladgolubev/serverless-libreoffice) - Run LibreOffice in AWS Lambda to create PDFs & convert documents
 - [shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
@@ -5648,6 +5650,7 @@
 - [home-manager](https://github.com/rycee/home-manager) - Manage a user environment using Nix
 - [not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix
+- [ofborg](https://github.com/NixOS/ofborg) - @grahamcofborg tooling automation https://monitoring.nix.ci/dashboard/db/ofborg
 - [nixGL](https://github.com/guibou/nixGL) - A wrapper tool for nix OpenGL application
 - [nixos-mailserver](https://github.com/r-raymond/nixos-mailserver) - A complete and Simple Nixos Mailserver
 - [node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
@@ -6856,7 +6859,7 @@
 - [voluptuous](https://github.com/alecthomas/voluptuous) - CONTRIBUTIONS ONLY: Voluptuous, despite the name, is a Python data validation library.
 - [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 - [qtconsole](https://github.com/jupyter/qtconsole) - Jupyter Qt Console
-- [jupyter-book](https://github.com/ExecutableBookProject/jupyter-book) - Building interactive, publication-quality documents from Jupyter Notebooks
+- [jupyter-book](https://github.com/executablebooks/jupyter-book) - Building interactive, publication-quality documents from Jupyter Notebooks
 - [jupyter_console](https://github.com/jupyter/jupyter_console) - Jupyter Terminal Console
 - [repo2docker](https://github.com/jupyter/repo2docker) - Turn repositories into Jupyter enabled Docker Images
 - [jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
@@ -8393,7 +8396,6 @@
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [emacs-pool](https://github.com/cfal/emacs-pool) - An emacs daemon pool for fast emacs startups, written in Rust.
 - [typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
-- [ofborg](https://github.com/NixOS/ofborg) - @grahamcofborg tooling automation https://monitoring.nix.ci/dashboard/db/ofborg
 - [warp](https://github.com/dgiagio/warp) - Create self-contained single binary applications
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
@@ -8538,7 +8540,6 @@
 - [rofi](https://github.com/adi1090x/rofi) - Rofi Based Custom Applets And Menus.
 - [awesome-docker-lamp](https://github.com/khaledalam/awesome-docker-lamp) - A Docker image with simple script to build LAMP stack apps (Ubuntu, Apache, PHP and MySql) using single docker image.
 - [TablaZinc](https://github.com/senshu/TablaZinc) - Generate guitar tablatures using a constraint solver
-- [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [linux-surface](https://github.com/jakeday/linux-surface) - Linux Kernel for Surface Devices
 - [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - macOS Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2017 & 2018
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
@@ -9228,7 +9229,7 @@
 - [spectro](https://github.com/calebj0seph/spectro) - 🎶 Real-time audio spectrogram generator for the web
 - [outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
-- [grafana-image-renderer](https://github.com/grafana/grafana-image-renderer) - A Grafana Backend Plugin that handles rendering of panels & dashboards to PNGs using headless chrome
+- [grafana-image-renderer](https://github.com/grafana/grafana-image-renderer) - A Grafana backend plugin that handles rendering of panels & dashboards to PNGs using headless browser (Chromium/Chrome)
 - [jcasc-vscode-extension](https://github.com/jenkinsci/jcasc-vscode-extension) - A VSCode Plugin for Jenkins Integration
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [sshmon](https://github.com/hpello/sshmon) - Manage and monitor SSH connections.
