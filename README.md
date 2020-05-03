@@ -1377,6 +1377,7 @@
 - [cpp-compilation](https://github.com/green7ea/cpp-compilation) - A short description of the C++ build process
 - [equilux-firefox](https://github.com/cj-sv/equilux-firefox) - A neutral dark balanced color scheme for Firefox based on the Equilux GTK Theme.
 - [conkeror-theme-zenburn](https://github.com/ivoarch/conkeror-theme-zenburn) - Zenburn theme for conkeror
+- [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [raleigh-reloaded](https://github.com/vlastavesely/raleigh-reloaded) - Raleigh Reloaded is a conservative GTK-3.20 theme aiming to revive the Raleigh theme, the default theme of GTK-2.0.
 - [tokumei](https://github.com/tokumeico/tokumei) - Anonymous microblogging platform
 - [haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com) - haxeflixel.com docpad source
@@ -3434,7 +3435,7 @@
 
 - [oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
-- [shotizam](https://github.com/bradfitz/shotizam) - Shotizam analyze the size of Go binaries
+- [shotizam](https://github.com/bradfitz/shotizam) - Shotizam analyzes the size of Go binaries
 - [terraform-provider-gpg](https://github.com/invidian/terraform-provider-gpg) - GPG Terraform provider
 - [etrace](https://github.com/canonical/etrace) - Utility for tracing execution of apps
 - [influxdb-subscription-cleaner](https://github.com/jeremyd/influxdb-subscription-cleaner) - delete all influxdb subscriptions with command line tool
@@ -5726,7 +5727,6 @@
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
-- [30-seconds-of-php](https://github.com/30-seconds/30-seconds-of-php) - Short PHP code snippets for all your development needs
 - [TaiChi](https://github.com/taichi-framework/TaiChi) - A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.
 - [resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
 - [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
@@ -6118,7 +6118,6 @@
 - [books-pdf](https://github.com/huyubing/books-pdf) - books pdf
 - [org-scraps](https://github.com/eschulte/org-scraps) - Collection of Org-mode snippets
 - [lets-support-emacs](https://github.com/tareefdev/lets-support-emacs) - Support your favorite editor and packages
-- [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs
 - [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
@@ -6445,6 +6444,7 @@
 - [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [rector](https://github.com/rectorphp/rector) - Instant Upgrades and Instant Refactoring of any PHP 5.3+ code
 - [xdebug-handler](https://github.com/composer/xdebug-handler) - Restart a CLI process without loading the xdebug extension.
+- [30-seconds-of-php](https://github.com/30-seconds/30-seconds-of-php) - Short PHP code snippets for all your development needs
 - [phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [docker](https://github.com/spatie/docker) - Manage docker containers with PHP
 - [ssh](https://github.com/spatie/ssh) - A lightweight package to execute commands over an SSH connection
@@ -7405,7 +7405,7 @@
 - [ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 - [bambam](https://github.com/porridge/bambam) - keyboard mashing and doodling game for babies
-- [stgit](https://github.com/ctmarinas/stgit) - Stacked Git
+- [stgit](https://github.com/stacked-git/stgit) - Stacked Git
 - [LeetCode](https://github.com/kamyu104/LeetCode) - :pencil: Python / C++ 11 Solutions of All LeetCode Questions
 - [rust-python-example](https://github.com/rochacbruno/rust-python-example) - Example of using Rust to Extend Python
 - [coala-bears](https://github.com/coala/coala-bears) - Bears for coala
