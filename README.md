@@ -2100,7 +2100,7 @@
 - [undo-propose-el](https://github.com/jackkamm/undo-propose-el) - Navigate the emacs undo history by staging undo's in a temporary buffer
 - [dired-toggle](https://github.com/fasheng/dired-toggle) - Show dired as sidebar and will not create new buffers when changing directory
 - [elisp-latch](https://github.com/skeeto/elisp-latch) - Promises and latches for Emacs Lisp
-- [lsp-python-ms](https://github.com/emacs-lsp/lsp-python-ms) - emacs lsp-mode client for Microsoft's python language server
+- [lsp-python-ms](https://github.com/emacs-lsp/lsp-python-ms) - lsp-mode :heart: Microsoft's python language server
 - [magit-reviewboard](https://github.com/jtamagnan/magit-reviewboard) - Magit Reviewboard
 - [back-button](https://github.com/rolandwalker/back-button) - Visual navigation through mark rings in Emacs
 - [nswbuff](https://github.com/joostkremers/nswbuff) - Quick buffer switching for Emacs.
@@ -4232,7 +4232,6 @@
 - [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Repo / Main Web Site
 - [OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
-- [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 - [awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
@@ -4961,7 +4960,6 @@
 - [whatspup](https://github.com/sarfraznawaz2005/whatspup) - :white_square_button: WhatsApp chat from commandline/console/cli using GoogleChrome puppeteer
 - [tslide](https://github.com/tslide/tslide) - Terminal SlideDeck, supporting markdown.
 - [good-first-issue](https://github.com/cutenode/good-first-issue) - 🖥 CLI for finding good first issues
-- [datauri](https://github.com/data-uri/datauri) - Generate Data-URI scheme via terminal or node.js
 - [iponmap](https://github.com/nogizhopaboroda/iponmap) - commandline IP location finder
 - [licensed](https://github.com/plibither8/licensed) - ⚖️ ✔️ licensed is an interactive command line tool to help you choose and add licenses to your projects
 - [gitlab-time-tracker](https://github.com/kriskbx/gitlab-time-tracker) - 🦊🕘 A command line interface for GitLab's time tracking feature.
@@ -6569,6 +6567,7 @@
 
 ## Perl 
 
+- [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
 - [apt-mirror](https://github.com/apt-mirror/apt-mirror) - Official apt-mirror source.
 - [urxvt-font-size](https://github.com/majutsushi/urxvt-font-size) - Change the urxvt font size on the fly
 - [pixload](https://github.com/chinarulezzz/pixload) - Image Payload Creating/Injecting tools
@@ -8117,6 +8116,7 @@
 - [docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
 - [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [dryrun](https://github.com/cesarferreira/dryrun) - :cloud: Try the demo project of any Android Library
+- [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mastodon and Twitter
 - [machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby) - Curated list: Resources for machine learning in Ruby
 - [awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
@@ -8144,7 +8144,7 @@
 - [json-graph-specification](https://github.com/jsongraph/json-graph-specification) - A proposal for representing graph structure (nodes / edges) in JSON.
 - [redmine-slack](https://github.com/sciyoshi/redmine-slack) - Slack notification plugin for Redmine
 - [fake-s3](https://github.com/jubos/fake-s3) - A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies
-- [seml](https://github.com/loganbraga/seml) - S-Expression Markup Language
+- [seml](https://github.com/logan-montellimard-braga/seml) - S-Expression Markup Language
 - [foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
 - [maximum-awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux.
@@ -8322,7 +8322,7 @@
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [rustybox](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust 🦀
 - [kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
-- [zoxide](https://github.com/ajeetdsouza/zoxide) - A fast cd command that learns your habits
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@jD91mZM2]
 - [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - Instant startup time for nix-shell
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - An experimental Rust compiler front-end for IDEs
@@ -9275,6 +9275,7 @@
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [scaffdog](https://github.com/cats-oss/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
+- [datauri](https://github.com/data-uri/datauri) - Generate Data-URI scheme via terminal or node.js
 - [npmvet](https://github.com/harksys/npmvet) - A simple CLI tool for vetting npm package versions
 - [graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
 - [fly](https://github.com/superfly/fly) - Fly is a runtime for global applications. Use it to build CDNs, smart proxy applications, and be a little more geo-neutral.
