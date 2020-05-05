@@ -1396,7 +1396,7 @@
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
 - [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [emacs-bootstrap](https://github.com/editor-bootstrap/emacs-bootstrap) - Your on-the-fly Emacs development environment.
-- [blog](https://github.com/felix11h/blog) - 3 Diagrams Per Page, my personal blog. Posts are written in Emacs Org-mode and then exported to HTML. The site is generated with Jekyll, using an adaption of the Lanyon theme.
+- [blog](https://github.com/felix11h/blog) - Personal blog, "3 Diagrams Per Page". Posts are written in Emacs Org-mode and exported to HTML. The site is generated with Jekyll.
 - [literate-programming-examples](https://github.com/limist/literate-programming-examples) - A collection of literate programming examples using Emacs Org mode; these examples are directly usable (copy and start hacking), and/or can serve as educational literate programs.  Clojure will be the preferred language.
 - [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme now lives on at https://github.com/chriskempson/base16
 - [magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
@@ -3517,7 +3517,7 @@
 - [makisu](https://github.com/uber/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [kubectl-debug](https://github.com/aylei/kubectl-debug) - Debug your pod by a new container with every troubleshooting tools pre-installed
-- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel written in Go
+- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
 - [cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
 - [lefthook](https://github.com/Arkweid/lefthook) - Fast and powerful Git hooks manager for any type of projects.
@@ -4783,7 +4783,7 @@
 - [webtelnet](https://github.com/mudchina/webtelnet) - Proxy server to bridge websocket to telnet, enable visiting telnet / MUD servers with browsers.
 - [jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
 - [sshwifty](https://github.com/niruix/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
-- [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit
+- [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [liman](https://github.com/salihciftci/liman) - Self-hosted web application for monitoring docker.
 - [cookie-quick-manager](https://github.com/ysard/cookie-quick-manager) - An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -4932,6 +4932,7 @@
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [ws-repl](https://github.com/rowanthorpe/ws-repl) - Arbitrary REPL in a web-page using websocketd
 - [janeway](https://github.com/11ways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
+- [ocsms](https://github.com/nextcloud/ocsms) - 📱 Nextcloud/ownCloud PhoneSync server application
 - [kulfon](https://github.com/kulfonjs/kulfon) - :japanese_ogre: :frog: JavaScript static site generator with Org Mode & Markdown support  (α) :boom:
 - [scihub-firefox](https://github.com/bekicot/scihub-firefox) - Open scihub page in a new tab for current page's url.
 - [KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - This is **DEPRECATED**! Please go to https://github.com/kiwiirc/kiwiirc
@@ -6486,7 +6487,6 @@
 - [php-malware-scanner](https://github.com/scr34m/php-malware-scanner) - Scans PHP files for malwares and known threats
 - [PsyshBundle](https://github.com/theofidry/PsyshBundle) - A command line REPL bundle for Symfony using PsySH.
 - [Jupyter-PHP](https://github.com/Litipk/Jupyter-PHP) - A PHP Kernel for Jupyter
-- [ocsms](https://github.com/nextcloud/ocsms) - 📱 Nextcloud/ownCloud PhoneSync server application
 - [iniscan](https://github.com/psecio/iniscan) - A php.ini scanner for best security practices
 - [wp-super-cache](https://github.com/Automattic/wp-super-cache) - A very fast caching engine for WordPress that produces static html files.
 - [keep-a-changelog](https://github.com/phly/keep-a-changelog) - Tools for manipulating CHANGELOG.md files in Keep A Changelog format, including tagging and releasing.
@@ -6567,6 +6567,7 @@
 
 ## Perl 
 
+- [ddclient-curl](https://github.com/astlinux-project/ddclient-curl) - Fork of ddclient using curl for network IO
 - [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
 - [apt-mirror](https://github.com/apt-mirror/apt-mirror) - Official apt-mirror source.
 - [urxvt-font-size](https://github.com/majutsushi/urxvt-font-size) - Change the urxvt font size on the fly
@@ -7558,7 +7559,7 @@
 - [powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [bugwarrior](https://github.com/ralphbean/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
 - [fuzzyfinder](https://github.com/amjith/fuzzyfinder) - Fuzzy Finder implemented in Python
-- [grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them.
+- [grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [cumodoro](https://github.com/gisodal/cumodoro) - Curses interface to pomodoro timer
 - [openstack](https://github.com/openstack/openstack) - Repository containing OpenStack repositories
