@@ -65,6 +65,7 @@
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
+  - [OpenSCAD](#openscad)
   - [Others](#others)
   - [PHP](#php)
   - [Pascal](#pascal)
@@ -75,6 +76,7 @@
   - [PostScript](#postscript)
   - [PowerShell](#powershell)
   - [Prolog](#prolog)
+  - [Protocol Buffer](#protocol-buffer)
   - [Puppet](#puppet)
   - [PureScript](#purescript)
   - [Python](#python)
@@ -164,6 +166,7 @@
 
 ## C 
 
+- [keynav](https://github.com/jordansissel/keynav) - retire your mouse.
 - [vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
 - [puny-gui](https://github.com/ahungry/puny-gui) - A Puny GUI System
 - [ktsuss](https://github.com/nomius/ktsuss) - ktsuss stands for "keep the su simple, stupid", and as the name says, is a graphical version (frontend) of su written in C and GTK+ 2. The idea of the project is to remain simple and bug free.
@@ -267,6 +270,7 @@
 - [gideros](https://github.com/gideros/gideros) - Gideros Release version
 - [zork](https://github.com/devshane/zork) - The DUNGEON (Zork I) source
 - [space-nerds-in-space](https://github.com/smcameron/space-nerds-in-space) - Multi-player spaceship bridge simulator. Captain your starship through adventures with your friends.  See https://smcameron.github.io/space-nerds-in-space
+- [xiphos](https://github.com/crosswire/xiphos) - Xiphos is a Bible study tool written for Linux, UNIX, and Windows using GTK, offering a rich and featureful environment for reading, study, and research using modules from The SWORD Project and elsewhere.
 - [hidemyass](https://github.com/pannzh/hidemyass) - A post-exploit tool that carefully clean *NIX access logs
 - [editline](https://github.com/troglobit/editline) - A small replacement for GNU readline() for UNIX
 - [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
@@ -296,7 +300,6 @@
 - [peg-markdown](https://github.com/jgm/peg-markdown) - An implementation of markdown in C, using a PEG grammar
 - [pecl-file_formats-yaml](https://github.com/php/pecl-file_formats-yaml) - YAML-1.1 parser and emitter
 - [libvterm](https://github.com/neovim/libvterm) - https://github.com/neovim/neovim/wiki/Deps#forks
-- [edgefs](https://github.com/Nexenta/edgefs) - EdgeFS - decentralized, scalable data fabric platform for Edge/IoT Computing and Kubernetes apps
 - [dmrconfig](https://github.com/sergev/dmrconfig) - Configuration utility for DMR radios
 - [shmux](https://github.com/shmux/shmux) - shell multiplexor
 - [wasm](https://github.com/fourtf/wasm) - Web assembly interpreter in C. Unfunctional and discontinued.
@@ -1101,7 +1104,7 @@
 - [xkblayout-state](https://github.com/nonpop/xkblayout-state) - A small command-line program to get/set the current keyboard layout.
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
 - [UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
-- [atomspace](https://github.com/opencog/atomspace) - The OpenCog hypergraph database, query system and rule engine
+- [atomspace](https://github.com/opencog/atomspace) - The OpenCog (hyper-)graph database and graph rewriting system
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [xray-162](https://github.com/Im-dex/xray-162) - XRay engine 1.6.2 (S.T.A.L.K.E.R: Call of Pripyat) evolution
 - [gobby](https://github.com/gobby/gobby) - Gobby collaborative editor
@@ -1341,7 +1344,7 @@
 
 ## COBOL 
 
-- [cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) - COBOL Programming Course
+- [cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) - Training materials and labs for a "Getting Started" level course on COBOL
 - [Cisp](https://github.com/lauryndbrown/Cisp) - A Common Lisp Interpreter Built in COBOL
 
 ## CSS 
@@ -1360,7 +1363,7 @@
 - [Learn-Something-Every-Day](https://github.com/kevintpeng/Learn-Something-Every-Day) - 📝 A compilation of everything that I learn; Computer Science, Software Development, Engineering, Math, and Coding in General.  Read the rendered results here -&gt;
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
-- [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [ultracompact-firefox](https://github.com/yjp20/ultracompact-firefox) - 
 - [water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer
 - [minetest.github.io](https://github.com/minetest/minetest.github.io) - Official Minetest website hosted by Github Pages
@@ -1518,7 +1521,7 @@
 - [file-select](https://github.com/Shinmera/file-select) - A library to invoke the native system file dialog to select or create files.
 - [cl-github-v3](https://github.com/hanshuebner/cl-github-v3) - 
 - [asteroids](https://github.com/andyhd/asteroids) - Asteroids game in Common Lisp
-- [shcl](https://github.com/bradleyjensen/shcl) - SHell in Common Lisp
+- [shcl](https://github.com/SquircleSpace/shcl) - SHell in Common Lisp
 - [makelisp](https://github.com/shinh/makelisp) - Lisp implementation in GNU make
 - [cl-lsp](https://github.com/cxxxr/cl-lsp) - An implementation of the Language Server Protocol for Common Lisp
 - [moppu](https://github.com/srcnalt/moppu) - Autumn Lisp Game Jam 2019 Entry, Pixel Art Platformer Game
@@ -1769,6 +1772,13 @@
 
 ## Emacs Lisp 
 
+- [inform](https://github.com/dieter-wilhelm/inform) - A lips package for the Emacs editor creating  links from symbols in Info viewer to their help documentation
+- [friendly-shell](https://github.com/p3r7/friendly-shell) - :shell: More convenient Emacs shell APIs
+- [another-emacs-server](https://github.com/xuchunyang/another-emacs-server) - An Emacs server built on HTTP and JSON
+- [ihy-mode](https://github.com/SerialDev/ihy-mode) - Hy inferior mode repl support
+- [magit-status-advice](https://github.com/jdenen/magit-status-advice) - Version control pleasantry as a minor mode
+- [emacs-webkit-katex-render](https://github.com/fuxialexander/emacs-webkit-katex-render) - An instant latex previewer for Emacs, based on xwidget and child-frame
+- [nothing.el](https://github.com/jaredgorski/nothing.el) - Monochrome emacs
 - [blacken](https://github.com/pythonic-emacs/blacken) - Python Black for Emacs
 - [Emacs-LanguageTool.el](https://github.com/PillFall/Emacs-LanguageTool.el) - LanguageTool correction integrated with Emacs
 - [toml-mode.el](https://github.com/dryman/toml-mode.el) - Emacs Mojor mode for editing TOML files
@@ -3433,6 +3443,9 @@
 
 ## Go 
 
+- [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.
+- [docker-image-resource](https://github.com/concourse/docker-image-resource) - a resource for docker images
+- [json-patch](https://github.com/evanphx/json-patch) - A Go library to apply RFC6902 patches and create and apply RFC7386 patches
 - [oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 - [shotizam](https://github.com/bradfitz/shotizam) - Shotizam analyzes the size of Go binaries
@@ -3453,7 +3466,7 @@
 - [gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
-- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/BSD/MacOS/Windows/Android/iOS) proxy/vpn software. Zero-Configuration.
+- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
 - [gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
@@ -3547,7 +3560,7 @@
 - [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
 - [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster.
-- [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems with detailed solutions, test cases, and program analysis
+- [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems
 - [gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc)  7天用Go动手写/从零实现系列
 - [k3sup](https://github.com/alexellis/k3sup) - from Zero to KUBECONFIG in &lt; 1 min 🚀
@@ -3650,7 +3663,7 @@
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [goatcounter](https://github.com/zgoat/goatcounter) - Simple web analytics. No tracking of personal data.
 - [irccat](https://github.com/irccloud/irccat) - cat to IRC
-- [streamhut](https://github.com/streamhut/streamhut) - Stream your terminal to web without installing anything
+- [streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything
 - [go-mongodbatlas](https://github.com/akshaykarle/go-mongodbatlas) - A Go client library for the MongoDB Atlas API
 - [gojsondiff](https://github.com/yudai/gojsondiff) - Go JSON Diff
 - [terraform-provider-mysql](https://github.com/terraform-providers/terraform-provider-mysql) - Terraform MySQL provider
@@ -3701,7 +3714,7 @@
 - [skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
 - [yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide
 - [scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway | v2 in beta =&gt;
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [anki-md](https://github.com/erroneousboat/anki-md) - A markdown to anki flash cards converter
@@ -4144,7 +4157,7 @@
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [origin](https://github.com/openshift/origin) - Images for OpenShift 3 and 4 - see openshift/okd for more
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [psiphon-tunnel-core](https://github.com/Psiphon-Labs/psiphon-tunnel-core) - Psiphon client and server components implemented in Go. These components provides core tunnel functionality, handling all aspects of evading blocking and relaying traffic through Psiphon.
+- [psiphon-tunnel-core](https://github.com/Psiphon-Labs/psiphon-tunnel-core) - Psiphon is an Internet censorship circumvention system.
 - [photobak](https://github.com/mholt/photobak) - Back up your content from Google Photos - DEPRECATED: use Timeliner
 - [snapd](https://github.com/snapcore/snapd) - The snapd and snap tools enable systems to work with .snap files.
 - [EverOrg](https://github.com/mgmart/EverOrg) - Evernote to Org mode migration tool
@@ -4703,6 +4716,8 @@
 
 ## JavaScript 
 
+- [kibana-object-format](https://github.com/istresearch/kibana-object-format) - A Kibana plugin for displaying objects and arrays of objects.
+- [on-reddit](https://github.com/caisah/on-reddit) - Firefex Addon which checks if the current URL was submitted to reddit
 - [kiwibnc](https://github.com/kiwiirc/kiwibnc) - 
 - [ViewImage](https://github.com/bijij/ViewImage) - Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 - [wdio](https://github.com/blueimp/wdio) - Docker setup for WebdriverIO with automatic screenshots, image diffing and screen recording support for containerized versions of Chrome and Firefox, Mobile Safari and Mobile Chrome via Appium, Safari on MacOS as well as Edge, Edge Legacy and Internet Explorer on Windows 10.
@@ -5015,7 +5030,7 @@
 - [mathsteps](https://github.com/socraticorg/mathsteps) - Step by step math solutions for everyone
 - [mr-provisioner](https://github.com/mr-provisioner/mr-provisioner) - Bare metal provisioning tool
 - [elasticdriver](https://github.com/YaroslavGaponov/elasticdriver) - access to ElasticSearch via Filesystem API
-- [elasticsearch-dump](https://github.com/taskrabbit/elasticsearch-dump) - Import and export tools for elasticsearch
+- [elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
 - [sotoki](https://github.com/openzim/sotoki) - Create a ZIM of StackExchange websites
 - [learn-react-app](https://github.com/tyroprogrammer/learn-react-app) - Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!
 - [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
@@ -5690,6 +5705,10 @@
 ## Objective-C++ 
 
 - [concordia](https://github.com/makrohn/concordia) - Valley of Concordia video game, based upon the Flare Engine
+
+## OpenSCAD 
+
+- [nixos-artwork](https://github.com/NixOS/nixos-artwork) - Nix related artwork
 
 ## Others 
 
@@ -6700,6 +6719,10 @@
 
 - [lisprolog](https://github.com/triska/lisprolog) - Interpreter for a simple Lisp. Written in Prolog.
 
+## Protocol Buffer 
+
+- [eventd-rfc](https://github.com/evanphx/eventd-rfc) - A RFC of a syslog replacement
+
 ## Puppet 
 
 - [stun-vm](https://github.com/mozilla/stun-vm) - Tools for creating and managing STUN servers
@@ -6810,7 +6833,7 @@
 - [ru_transformers](https://github.com/mgrankin/ru_transformers) - 
 - [fav-up](https://github.com/pielco11/fav-up) - IP lookup by favicon using Shodan
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
-- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Language Generation, Multi-Modal, and Conversational AI
+- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI
 - [jc](https://github.com/kellyjonbrazil/jc) - This tool serializes the output of popular gnu linux command line tools and file types to structured JSON output. This allows piping of output to tools like jq.
 - [stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
 - [Sorting-Algorithm-Visualizer](https://github.com/test123/Sorting-Algorithm-Visualizer) - 
@@ -6827,7 +6850,7 @@
 - [vardbg](https://github.com/CCExtractor/vardbg) - A simple Python debugger and profiler that generates animated visualizations of program flow, useful for algorithm learning.
 - [Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [inlinec](https://github.com/georgek42/inlinec) - Effortlessly write inline C functions in Python
-- [snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT)
+- [snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [glitch-this](https://github.com/TotallyNotChase/glitch-this) - :camera: Glitchify images and GIF, highly customizable options!
 - [dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
@@ -7038,7 +7061,7 @@
 - [LaunchCold](https://github.com/earvingad/LaunchCold) - FullScreen App Launcher for Openbox.
 - [kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check) - A tool for checking the hardening options in the Linux kernel config
 - [Discurses](https://github.com/topisani/Discurses) - A Python discord CLI focused on usability
-- [wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat plugin for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
+- [wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Automate Scrubbing your Facebook Presence
 - [BrainDamage](https://github.com/mehulj94/BrainDamage) - Remote administration tool which uses Telegram as a C&C server
@@ -7476,7 +7499,7 @@
 - [ImageScraper](https://github.com/sananth12/ImageScraper) - :scissors: High performance, multi-threaded image scraper
 - [dex](https://github.com/jceb/dex) - DesktopEntry Execution
 - [ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
-- [nixops](https://github.com/NixOS/nixops) - NixOps, the NixOS-based cloud deployment tool
+- [nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [mangaki](https://github.com/mangaki/mangaki) - Site de recommandation de mangas et d'anime
 - [cpython](https://github.com/python/cpython) - The Python programming language
@@ -8109,6 +8132,7 @@
 
 ## Ruby 
 
+- [pleaserun](https://github.com/jordansissel/pleaserun) - An attempt to abstract this "init" script madness.
 - [transmuter](https://github.com/kalbasit/transmuter) - The Alien device to convert Markdown and Textile files to HTML or PDF
 - [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
@@ -8463,7 +8487,6 @@
 - [guile-json](https://github.com/aconchillo/guile-json) - JSON module for Guile
 - [pink](https://github.com/namin/pink) - Collapsing Towers of Interpreters (in Scheme)
 - [single_cream](https://github.com/rain-1/single_cream) - single file scheme interpreter with tail call optimization
-- [xiphos](https://github.com/crosswire/xiphos) - Xiphos is a Bible study tool written for Linux, UNIX, and Windows using GTK, offering a rich and featureful environment for reading, study, and research using modules from The SWORD Project and elsewhere.
 - [ol](https://github.com/yuriy-chumak/ol) - Otus Lisp (Ol in short) is a purely* functional dialect of Lisp.
 - [sigscheme](https://github.com/uim/sigscheme) - A R5RS Scheme interpreter for embedded use
 - [guix-channel](https://github.com/jsoo1/guix-channel) - My corner of guix packages. They are either works in progress or have licenses that do not necessarily belong in a libre distribution.
@@ -8531,6 +8554,7 @@
 
 ## Shell 
 
+- [fex](https://github.com/jordansissel/fex) - fex - flexible field/token extraction
 - [nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor
 - [inspircd-docker](https://github.com/inspircd/inspircd-docker) - InspIRCd Docker Image
@@ -8655,7 +8679,7 @@
 - [composure](https://github.com/erichs/composure) - Don't fear the Unix chainsaw
 - [mongo-sync](https://github.com/sheharyarn/mongo-sync) - Sync Remote and Local MongoDB Databases :fire:
 - [gdub](https://github.com/dougborg/gdub) - A gradlew / gradle wrapper.
-- [wp-dev-lib](https://github.com/xwp/wp-dev-lib) - Common code used during development of WordPress plugins and themes
+- [wp-dev-lib](https://github.com/xwp/wp-dev-lib) - 🛠️ Common code used during development of WordPress plugins and themes
 - [lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
 - [systemd-swap](https://github.com/Nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
 - [auto-gitlab-backup](https://github.com/sund/auto-gitlab-backup) - A simple script to backup your Gitlab data. This script will copy the backup archives of your gitlab installation via rsync, or scp. Also, you can copy backups to Backblaze’s B2 Cloud Storage service.
@@ -8978,7 +9002,7 @@
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [kodi-cli](https://github.com/nawar/kodi-cli) - Kodi/XBMC bash script to send Kodi commands from the command line
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 200 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio
+- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 225 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio
 - [docker-emacsen](https://github.com/larsbrinkhoff/docker-emacsen) - Multiple versions of Emacs in a Docker image
 - [eless](https://github.com/kaushalmodi/eless) - A Better 'less' - A bash script that loads emacs with minimal view-mode config - Created with Org mode
 - [docker-emacs](https://github.com/JAremko/docker-emacs) - Dockerized Emacs (GUI)
