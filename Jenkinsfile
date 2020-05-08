@@ -8,6 +8,7 @@ pipeline {
     }
     stages {
         stage("Update README.md") {
+            agent { label "guixsd" }
             steps {
                 dir("${Constants.homeDir}/src/awesome") {
                     sh "starred --token=$GITHUB_TOKEN_STARRED --username wigust --sort > README.md"
