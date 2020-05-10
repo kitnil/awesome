@@ -1232,7 +1232,7 @@
 - [variant](https://github.com/mapbox/variant) - C++11/C++14 Variant
 - [tiled](https://github.com/bjorn/tiled) - A flexible level editor
 - [cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
-- [GamePlay](https://github.com/gameplay3d/GamePlay) - Open-source, cross-platform, C++ game engine for creating 2D/3D games.
+- [gameplay](https://github.com/gameplay3d/gameplay) - Open-source, cross-platform, C++ game engine for creating 2D/3D games.
 - [spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine
 - [Torque2D](https://github.com/GarageGames/Torque2D) - MIT Licensed Open Source version of Torque 2D game engine from GarageGames
 - [Torque3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames
@@ -1772,6 +1772,7 @@
 
 ## Emacs Lisp 
 
+- [gnus-notes](https://github.com/deusmax/gnus-notes) - Keep handy notes of Gnus articles with helm and org
 - [inform](https://github.com/dieter-wilhelm/inform) - A lips package for the Emacs editor creating  links from symbols in Info viewer to their help documentation
 - [friendly-shell](https://github.com/p3r7/friendly-shell) - :shell: More convenient Emacs shell APIs
 - [another-emacs-server](https://github.com/xuchunyang/another-emacs-server) - An Emacs server built on HTTP and JSON
@@ -1810,7 +1811,7 @@
 - [emacs-rime](https://github.com/DogLooksGood/emacs-rime) - RIME ㄓ in Emacs
 - [emacs-vega-view](https://github.com/applied-science/emacs-vega-view) - A mode to facilitate interactive data visualization using Vega from within emacs
 - [Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN) - A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译
-- [org-roam](https://github.com/jethrokuan/org-roam) - Rudimentary Roam replica with Org-mode
+- [org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [separedit.el](https://github.com/twlz0ne/separedit.el) - Edit comment or string/docstring or code block inside them in separate buffer with your favorite mode
 - [tongbu.el](https://github.com/xuchunyang/tongbu.el) - Share text/file between your computer and phone
 - [curl-to-elisp](https://github.com/xuchunyang/curl-to-elisp) - Convert cURL command to Emacs Lisp code
@@ -2976,7 +2977,7 @@
 - [emacs-doom-themes](https://github.com/hlissner/emacs-doom-themes) - An opinionated pack of modern color-themes
 - [emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
 - [spaceline-all-the-icons.el](https://github.com/domtronn/spaceline-all-the-icons.el) - A Spaceline Mode Line theme using All The Icons for Emacs
-- [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs configuration for the stubborn martian vimmer
+- [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [download-region](https://github.com/zk-phi/download-region) - [Emacs] simple in-buffer download manager for Emacs
 - [iplayer-el](https://github.com/csrhodes/iplayer-el) - Emacs interface to the BBC's iPlayer (uses get_iplayer)
 - [init-loader](https://github.com/emacs-jp/init-loader) - Original is http://coderepos.org/share/browser/lang/elisp/init-loader/init-loader.el
@@ -3370,7 +3371,7 @@
 - [magit](https://github.com/magit/magit) - It's Magit! A Git porcelain inside Emacs.
 - [fill-column-indicator](https://github.com/alpaker/fill-column-indicator) - An Emacs minor mode that graphically indicates the fill column.
 - [engine-mode](https://github.com/hrs/engine-mode) - Minor mode for defining and querying search engines through Emacs.
-- [xml-rpc-el](https://github.com/hexmode/xml-rpc-el) - An elisp implementation of clientside XML-RPC
+- [xml-rpc-el](https://github.com/xml-rpc-el/xml-rpc-el) - An elisp implementation of clientside XML-RPC
 - [eshell-git-prompt](https://github.com/xuchunyang/eshell-git-prompt) - Some Eshell prompts for Git users
 - [ohai-emacs](https://github.com/bodil/ohai-emacs) - The finest hand crafted artisanal emacs.d for your editing pleasure
 - [erc-social-graph](https://github.com/vibhavp/erc-social-graph) - Social graphs for ERC
@@ -3952,7 +3953,7 @@
 - [jaggr](https://github.com/rs/jaggr) - JSON Aggregation CLI
 - [grumble](https://github.com/desertbit/grumble) - A powerful modern CLI and SHELL
 - [spotctl](https://github.com/jingweno/spotctl) - A command-line interface to Spotify, written in Go
-- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh) - including shfmt
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh), including shfmt
 - [dosxvpn](https://github.com/dan-v/dosxvpn) - Easily deploy your own personal VPN server with DNS adblocking running on DigitalOcean
 - [perfops-cli](https://github.com/ProspectOne/perfops-cli) - A simple command line tool to interact with hundreds of servers around the world.
 - [jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions
@@ -5153,7 +5154,7 @@
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (April 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (May 2020)
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
 - [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -5638,6 +5639,7 @@
 - [naersk](https://github.com/nmattia/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly.
 - [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [hello](https://github.com/jwiegley/hello) - Hello world project templates for getting started quickly with Nix
+- [nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [stack2nix](https://github.com/input-output-hk/stack2nix) - Generate nix expressions for Haskell projects
 - [nixos-mailserver](https://github.com/flyingcircusio/nixos-mailserver) - Fork of https://gitlab.com/simple-nixos-mailserver/nixos-mailserver
@@ -5855,7 +5857,7 @@
 - [awesome-thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome
 - [awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [awesome-css-in-js](https://github.com/tuchk4/awesome-css-in-js) - Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision
-- [awesome-web-performance-metrics](https://github.com/palfi-ltd/awesome-web-performance-metrics) - ⚡Metrics to help understand page speed and user experience
+- [awesome-pagespeed-metrics](https://github.com/palfi-ltd/awesome-pagespeed-metrics) - ⚡Metrics to help understand page speed and user experience
 - [awesome-radare2](https://github.com/radareorg/awesome-radare2) - A curated list of awesome projects, articles and the other materials powered by Radare2
 - [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [awesome-nim](https://github.com/VPashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
@@ -8609,7 +8611,6 @@
 - [docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [org-el-cache](https://github.com/l3kn/org-el-cache) - Persistent cache for data derived from org-elements
-- [nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
 - [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [ Originally owned by @kennethreitz ]
 - [monkeysphere](https://github.com/dkg/monkeysphere) - use the OpenPGP web of trust to verify ssh connections
@@ -9194,7 +9195,7 @@
 - [differential-calculus](https://github.com/luizperes/differential-calculus) - Some resolutions of differential calculus for SFU MATH 150 (Jens Bauch) - Spring 2017
 - [talks](https://github.com/Shinmera/talks) - Documents related to talks I gave or will give
 - [Refcards](https://github.com/goerz/Refcards) - Various original reference cards (cheat sheets)
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) - Cheat Sheets
+- [Data-Science--Cheat-Sheet](https://github.com/datasciencescoop/Data-Science--Cheat-Sheet) - Cheat Sheets
 - [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 - [literate-programming-tutorials](https://github.com/Literate-DevOps/literate-programming-tutorials) - Literate Programming Tutorials
