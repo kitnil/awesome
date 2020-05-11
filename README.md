@@ -109,6 +109,7 @@
   - [VimL](#viml)
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
+  - [YAML](#yaml)
   - [YASnippet](#yasnippet)
   - [Zig](#zig)
   - [sed](#sed)
@@ -166,6 +167,9 @@
 
 ## C 
 
+- [colorpicker](https://github.com/Jack12816/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
+- [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
+- [octopus](https://github.com/duncanthrax/octopus) - Simple networked Keyboard/Mouse sharing
 - [keynav](https://github.com/jordansissel/keynav) - retire your mouse.
 - [vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
 - [puny-gui](https://github.com/ahungry/puny-gui) - A Puny GUI System
@@ -888,6 +892,7 @@
 
 ## C++ 
 
+- [scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
 - [LuaFormatter](https://github.com/Koihik/LuaFormatter) - Code formatter for Lua
 - [inspircd](https://github.com/inspircd/inspircd) - A modular C++ IRC server (ircd).
 - [hrktorrent](https://github.com/hrkfdn/hrktorrent) - hrktorrent is a light console torrent client written in C++, using rasterbar's libtorrent.
@@ -1492,6 +1497,7 @@
 
 ## Common Lisp 
 
+- [common-lisp-heroku-example](https://github.com/fstamour/common-lisp-heroku-example) - Example of Common Lisp server on Heroku using Docker
 - [halftone](https://github.com/Shinmera/halftone) - A simple image viewer in Common Lisp.
 - [iclendar](https://github.com/Shinmera/iclendar) - iCalendar/RFC5545 file format library for Common Lisp
 - [language-codes](https://github.com/Shinmera/language-codes) - A simple library mapping ISO language codes to language names.
@@ -1749,7 +1755,6 @@
 - [lisp-images](https://github.com/fisxoj/lisp-images) - Docker images for common lisp development
 - [docker-emacs](https://github.com/Silex/docker-emacs) - Run Emacs in docker containers!
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [guix-docker](https://github.com/rudolfolah/guix-docker) - Dockerfile for GNU Guix
 - [stackage](https://github.com/commercialhaskell/stackage) - "Stable Hackage": vetted consistent packages from Hackage
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
@@ -1804,7 +1809,7 @@
 - [elf-mode](https://github.com/abo-abo/elf-mode) - Show symbol list when opening a binary file in Emacs
 - [flycheck-elsa](https://github.com/emacs-elsa/flycheck-elsa) - Flycheck integration for Elsa---Emacs lisp static analyzer
 - [edit-chrome-textarea.el](https://github.com/xuchunyang/edit-chrome-textarea.el) - Edit Chrome Textarea with Emacs
-- [pp-html](https://github.com/Kinneyzhang/pp-html) - pretty print html with elisp list
+- [pp-html](https://github.com/Kinneyzhang/pp-html) - A html template language based on Emacs-Lisp
 - [selectrum](https://github.com/raxod502/selectrum) - 🔔 Better solution for incremental narrowing in Emacs.
 - [sxiv](https://github.com/emacsmirror/sxiv) - Run the sxiv image viewer
 - [emacs-ascii-table](https://github.com/lassik/emacs-ascii-table) - Interactive ASCII table in Emacs
@@ -1853,7 +1858,7 @@
 - [org-starter](https://github.com/akirak/org-starter) - Configure files and directories in Org mode more easily
 - [.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
 - [github-explorer](https://github.com/TxGVNN/github-explorer) - Explore Github repositories on the fly in Emacs
-- [leaf.el](https://github.com/conao3/leaf.el) - Support your setting init.el like use-package
+- [leaf.el](https://github.com/conao3/leaf.el) - Flexible, declarative, and modern init.el package configuration
 - [apheleia](https://github.com/raxod502/apheleia) - 🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.
 - [anki-connect.el](https://github.com/lujun9972/anki-connect.el) - AnkiConnect API for Emacs
 - [use-package-secrets](https://github.com/a13/use-package-secrets) - :secret keyword for use-package
@@ -2816,7 +2821,6 @@
 - [gotest.el](https://github.com/nlamirault/gotest.el) - Emacs mode to go unit test command line tool
 - [emacs-themes-site](https://github.com/emacs-themes/emacs-themes-site) - Source code for https://emacsthemes.com
 - [multi-line](https://github.com/IvanMalison/multi-line) - multi-line everything from function invocations and definitions to array and map literals in a wide variety of languages
-- [org-doing](https://github.com/rudolfolah/org-doing) - keep track of what you're doing right now and what you've worked on before
 - [ripgrep.el](https://github.com/nlamirault/ripgrep.el) - Emacs front-end for ripgrep, a command line search tool
 - [ido-at-point](https://github.com/katspaugh/ido-at-point) - ido-at-point
 - [hledger-mode](https://github.com/narendraj9/hledger-mode) - An Emacs major mode for Hledger
@@ -2828,7 +2832,6 @@
 - [emacs-firefox-controller](https://github.com/cute-jumper/emacs-firefox-controller) - An improved Firefox controller for Emacs
 - [pangu-spacing](https://github.com/coldnew/pangu-spacing) - emacs minor-mode to add space between Chinese and English characters.
 - [emacs-wttrin](https://github.com/bcbcarl/emacs-wttrin) - Emacs frontend for weather web service wttr.in.
-- [emacs-sos](https://github.com/rudolfolah/emacs-sos) - StackOverflow Search (SOS) mode for Emacs.
 - [corral](https://github.com/nivekuil/corral) - Quickly surround text with delimiters in emacs
 - [fcitx.el](https://github.com/cute-jumper/fcitx.el) - Better fcitx integration for Emacs.
 - [nginx-mode](https://github.com/ajc/nginx-mode) - Emacs editing mode for Nginx config files
@@ -4264,7 +4267,6 @@
 - [badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [glastoselenium](https://github.com/thomasms/glastoselenium) - A bot for booking Glastonbury tickets using selenium
 - [dockerfile](https://github.com/mritd/dockerfile) - some personally made dockerfile
-- [deploy](https://github.com/ansistrano/deploy) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
 - [phpinfo-compare](https://github.com/brettalton/phpinfo-compare) - Compare two phpinfo files across the internet (or localhost)
 - [Org-mode-all-the-thingz](https://github.com/nickanderson/Org-mode-all-the-thingz) - 
 - [uix](https://github.com/roman01la/uix) - Idiomatic ClojureScript interface to modern React.js
@@ -4513,6 +4515,7 @@
 
 ## Java 
 
+- [WebcamStudio](https://github.com/adelq/WebcamStudio) - WebcamStudio is a virtual webcam software that you can use with Skype or flash website like UStream or Stickam to create a professional looking broadcast, including banners, animations, transitions, etc...
 - [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) - A scrollable list of items that centers the current element and provides easy-to-use APIs for cool item animations.
 - [Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [Matisse](https://github.com/zhihu/Matisse) - :fireworks: A well-designed local image and video selector for Android
@@ -4849,7 +4852,6 @@
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [vimperator-labs](https://github.com/vimperator/vimperator-labs) - Vimperator
 - [Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
-- [bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox) - Bypass Paywalls for Firefox
 - [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting
 - [melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
 - [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
@@ -4960,7 +4962,7 @@
 - [hogwatch](https://github.com/akshaykmr/hogwatch) - find out what's hogging your internet connection.
 - [falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [sqltabs](https://github.com/sasha-alias/sqltabs) - Rich SQL client for Postgresql, MySQL, MS SQL, Amazon Redshift, Google Firebase (Firestore)
-- [laxxx](https://github.com/alexfoxy/laxxx) - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
+- [lax.js](https://github.com/alexfoxy/lax.js) - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
 - [himalaya](https://github.com/andrejewski/himalaya) - JavaScript HTML to JSON Parser
 - [gdpr-cli](https://github.com/mirkoschubert/gdpr-cli) - A command line tool for checking your website for GDPR compliance.
 - [ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
@@ -5971,6 +5973,7 @@
 - [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [haskell-companies](https://github.com/erkmos/haskell-companies) - A gently curated list of companies using Haskell in industry
 - [Powerful-Plugins](https://github.com/Hack-with-Github/Powerful-Plugins) - Powerful plugins and add-ons for hackers
+- [bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox) - Bypass Paywalls for Firefox
 - [geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
 - [project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c) - A curated list of project-based tutorials in C
 - [b1fipl](https://github.com/marcpaq/b1fipl) - A Bestiary of Single-File Implementations of Programming Languages
@@ -6697,7 +6700,7 @@
 
 ## PicoLisp 
 
-- [Particle](https://github.com/Seteeri/Particle) - PicoLisp presentation-based userland
+- [Particle](https://github.com/Seteeri/Particle) - PicoLisp presentation-based AST userland
 
 ## Pony 
 
@@ -7197,7 +7200,7 @@
 - [cbox](https://github.com/shmuelamar/cbox) - convert any python function to unix-style command
 - [tably](https://github.com/narimiran/tably) - Python command-line script for converting .csv data to LaTeX tables
 - [FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
-- [instapy-cli](https://github.com/instagrambot/instapy-cli) - :sparkles: Python library and CLI to upload photo and video on Instagram. W/o a phone!  https://likeup.me/?ref=github
+- [instapy-cli](https://github.com/instagrambot/instapy-cli) - :sparkles: Python library and CLI to upload photo and video on Instagram. W/o a phone!
 - [git-deps](https://github.com/aspiers/git-deps) - git commit dependency analysis tool
 - [mech](https://github.com/mechboxes/mech) - Easy command line virtual machines for VMWare
 - [pycycle](https://github.com/bndr/pycycle) - Tool for pinpointing circular imports in Python. Find cyclic imports in any project
@@ -7268,7 +7271,7 @@
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything awesome about web-application firewalls (WAF).
 - [keepassxc-browser-client](https://github.com/varjolintu/keepassxc-browser-client) - Python client library for KeePassXC's new browser integration interface
-- [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video. 自动同步字幕与视频。
+- [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video. 自动同步字幕与视频。
 - [SC-FEGAN](https://github.com/run-youngjoo/SC-FEGAN) - SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color (ICCV2019)
 - [toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF.
@@ -9434,6 +9437,10 @@
 
 - [wasm](https://github.com/sdiehl/wasm) - Haskell compiler infastructure for WebAssembly
 - [spec](https://github.com/WebAssembly/spec) - WebAssembly specification, reference interpreter, and test suite.
+
+## YAML 
+
+- [deploy](https://github.com/ansistrano/deploy) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
 
 ## YASnippet 
 
