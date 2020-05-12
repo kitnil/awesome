@@ -964,7 +964,7 @@
 - [xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine – game engine used in world famous S.T.A.L.K.E.R. game series by GSC Game World.
 - [stressapptest](https://github.com/stressapptest/stressapptest) - Stressful Application Test - userspace memory and IO test
 - [oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
-- [differential-privacy](https://github.com/google/differential-privacy) - Google's C++ differential privacy library.
+- [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy library.
 - [fmit](https://github.com/gillesdegottex/fmit) - Free Music Instrument Tuner (FMIT)
 - [open_spiel](https://github.com/deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 - [pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
@@ -1054,7 +1054,7 @@
 - [Rubeus](https://github.com/sdslabs/Rubeus) - A cross platform 2D game engine written in C++ for beginners
 - [Doomsday-Engine](https://github.com/skyjake/Doomsday-Engine) - A portable, enhanced source port of Doom, Heretic and Hexen.
 - [xray-15](https://github.com/OpenXRay/xray-15) - X-Ray Engine 1.5 expansion. Original version was used in S.T.A.L.K.E.R.: Clear Sky.
-- [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) - 3D strange attractors GPU scout and hypercomplex fractals - over 200 Million particles
+- [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) - 3D GPUs Strange Attractors and Hypercomplex Fractals explorer - up to 256 Million particles in RealTime
 - [Engine](https://github.com/Shervanator/Engine) - A basic cross-platform 3D game engine
 - [FishEngine](https://github.com/yushroom/FishEngine) - Simple, Unity-like Game Engine.
 - [opensr](https://github.com/zddhub/opensr) - Open Sketch Recognize
@@ -4361,6 +4361,7 @@
 
 ## Haskell 
 
+- [geordi](https://github.com/Eelis/geordi) - IRC C++ eval bot
 - [summoner](https://github.com/kowainik/summoner) - 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects
 - [nixpkgs-update](https://github.com/ryantm/nixpkgs-update) - Updating nixpkgs packages since 2018
 - [obelisk](https://github.com/obsidiansystems/obelisk) - Obelisk provides an easy way to develop and deploy your Reflex project for web and mobile
@@ -5012,7 +5013,7 @@
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [serve](https://github.com/zeit/serve) - Static file serving and directory listing
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The fast, simple dev environment for modern web apps.
+- [snowpack](https://github.com/pikapkg/snowpack) - The fastest dev environment for modern web apps.
 - [llthw](https://github.com/LispTO/llthw) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -8559,6 +8560,7 @@
 
 ## Shell 
 
+- [lostfiles](https://github.com/graysky2/lostfiles) - Simple script that identifies files not owned by any Arch Linux package.
 - [fex](https://github.com/jordansissel/fex) - fex - flexible field/token extraction
 - [nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor
@@ -9301,7 +9303,7 @@
 - [quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [pyright](https://github.com/microsoft/pyright) - Static type checker for Python
-- [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
+- [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [scaffdog](https://github.com/cats-oss/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
 - [datauri](https://github.com/data-uri/datauri) - Generate Data-URI scheme via terminal or node.js
