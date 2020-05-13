@@ -25,6 +25,7 @@
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common-lisp)
   - [Coq](#coq)
+  - [Crystal](#crystal)
   - [D](#d)
   - [DIGITAL Command Language](#digital-command-language)
   - [DM](#dm)
@@ -961,7 +962,7 @@
 - [desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [hiptext](https://github.com/jart/hiptext) - Turn images into text better than caca/aalib
 - [RetroShare](https://github.com/RetroShare/RetroShare) - RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.
-- [xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine – game engine used in world famous S.T.A.L.K.E.R. game series by GSC Game World.
+- [xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World.
 - [stressapptest](https://github.com/stressapptest/stressapptest) - Stressful Application Test - userspace memory and IO test
 - [oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
 - [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy library.
@@ -1672,6 +1673,10 @@
 - [corn](https://github.com/coq-community/corn) - Coq Repository at Nijmegen [maintainers=@spitters,@VincentSe]
 - [pnp](https://github.com/ilyasergey/pnp) - Lecture notes for a short course on proving/programming in Coq via SSReflect.
 
+## Crystal 
+
+- [invidious](https://github.com/omarroth/invidious) - Invidious is an alternative front-end to YouTube
+
 ## D 
 
 - [dagon](https://github.com/gecko0307/dagon) - 3D game engine for D
@@ -1777,6 +1782,12 @@
 
 ## Emacs Lisp 
 
+- [ytel](https://github.com/gRastello/ytel) - Youtube "front-end" for Emacs
+- [iceberg-theme.el](https://github.com/conao3/iceberg-theme.el) - Well-designed, eye-friendly, dark blue color scheme
+- [anyconnect](https://github.com/sebasmonia/anyconnect) - Wrapper for "vpncli". Connect to your VPN from Emacs!
+- [gmail-mode](https://github.com/Malabarba/gmail-mode) - A major-mode for editing gmail messages using markdown syntax (in emacs).
+- [elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
+- [regexp-expand](https://github.com/danielmartin/regexp-expand) - Show the ELisp regular expression at point in rx form.
 - [gnus-notes](https://github.com/deusmax/gnus-notes) - Keep handy notes of Gnus articles with helm and org
 - [inform](https://github.com/dieter-wilhelm/inform) - A lips package for the Emacs editor creating  links from symbols in Info viewer to their help documentation
 - [friendly-shell](https://github.com/p3r7/friendly-shell) - :shell: More convenient Emacs shell APIs
@@ -1809,7 +1820,7 @@
 - [elf-mode](https://github.com/abo-abo/elf-mode) - Show symbol list when opening a binary file in Emacs
 - [flycheck-elsa](https://github.com/emacs-elsa/flycheck-elsa) - Flycheck integration for Elsa---Emacs lisp static analyzer
 - [edit-chrome-textarea.el](https://github.com/xuchunyang/edit-chrome-textarea.el) - Edit Chrome Textarea with Emacs
-- [pp-html](https://github.com/Kinneyzhang/pp-html) - A html template language based on Emacs-Lisp
+- [pp-html](https://github.com/Kinneyzhang/pp-html) - A html template language in Emacs-Lisp
 - [selectrum](https://github.com/raxod502/selectrum) - 🔔 Better solution for incremental narrowing in Emacs.
 - [sxiv](https://github.com/emacsmirror/sxiv) - Run the sxiv image viewer
 - [emacs-ascii-table](https://github.com/lassik/emacs-ascii-table) - Interactive ASCII table in Emacs
@@ -4148,7 +4159,7 @@
 - [goorgeous](https://github.com/chaseadamsio/goorgeous) - [DEPRECATED] A go org syntax parser to html
 - [dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
 - [grimd](https://github.com/looterz/grimd) - :zap: fast dns proxy that can run anywhere, built to black-hole internet advertisements and malware servers
-- [singularity](https://github.com/sylabs/singularity) - Singularity: Application containers for Linux
+- [singularity](https://github.com/hpcng/singularity) - Singularity: Application containers for Linux
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [poseidon](https://github.com/Qihoo360/poseidon) - A search engine which can hold 100 trillion lines of log data.
 - [magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
@@ -5473,7 +5484,7 @@
 - [dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) - Repo for the Deep Reinforcement Learning Nanodegree program
-- [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
+- [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [octave_kernel](https://github.com/Calysto/octave_kernel) - An Octave kernel for IPython
 - [notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra) - 线性代数笔记
 - [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
@@ -6532,7 +6543,7 @@
 - [alltube](https://github.com/Rudloff/alltube) - HTML GUI for youtube-dl
 - [MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
 - [poweradmin](https://github.com/poweradmin/poweradmin) - A web-based control panel for PowerDNS
-- [wp2static](https://github.com/WP2Static/wp2static) - WordPress plugin allowing static site generation w/ security, performance and cost benefits
+- [wp2static](https://github.com/WP2Static/wp2static) - WordPress static site generator for security, performance and cost benefits
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [synknot](https://github.com/besthostingcz/synknot) - SynKnot utility for DNS and PTR synchronization with Knot DNS
 - [Chat-API](https://github.com/mgp25/Chat-API) - WhatsApp's Private API
