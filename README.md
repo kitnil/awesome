@@ -267,7 +267,7 @@
 - [core](https://github.com/metacall/core) - A library for providing inter-language foreign function interface calls.
 - [pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 - [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc / 24kb compiled!).
-- [rpminspect](https://github.com/rpminspect/rpminspect) - RPM build deviation analysis tools
+- [rpminspect](https://github.com/rpminspect/rpminspect) - RPM (single RPMs, SRPMs, Koji builds, Fedora modules) build deviation analysis tools
 - [mininim](https://github.com/oitofelix/mininim) - The Advanced Prince of Persia Engine (a childhood dream)
 - [OpenGOO](https://github.com/Mandarancio/OpenGOO) - A free clone of World Of Goo
 - [SDLPoP](https://github.com/NagyD/SDLPoP) - An open-source port of Prince of Persia, based on the disassembly of the DOS version.
@@ -275,7 +275,6 @@
 - [gideros](https://github.com/gideros/gideros) - Gideros Release version
 - [zork](https://github.com/devshane/zork) - The DUNGEON (Zork I) source
 - [space-nerds-in-space](https://github.com/smcameron/space-nerds-in-space) - Multi-player spaceship bridge simulator. Captain your starship through adventures with your friends.  See https://smcameron.github.io/space-nerds-in-space
-- [xiphos](https://github.com/crosswire/xiphos) - Xiphos is a Bible study tool written for Linux, UNIX, and Windows using GTK, offering a rich and featureful environment for reading, study, and research using modules from The SWORD Project and elsewhere.
 - [hidemyass](https://github.com/pannzh/hidemyass) - A post-exploit tool that carefully clean *NIX access logs
 - [editline](https://github.com/troglobit/editline) - A small replacement for GNU readline() for UNIX
 - [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
@@ -1714,7 +1713,7 @@
 - [onionize-docker](https://github.com/torservers/onionize-docker) - Tor v3 onion services (hidden services) for Docker containers
 - [docker-tor-simple](https://github.com/osminogin/docker-tor-simple) - Simplest minimal container for Tor anonymity software
 - [aind](https://github.com/aind-containers/aind) - AinD: Android in Docker. Ain't an emulator.
-- [elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳 Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics Exporters.
+- [elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳 Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics. Up with a Single Command.
 - [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli support, and 9 MB size. All built on the bleeding edge for max performance. Built on the edge, for the edge.
 - [localdots](https://github.com/luisfarzati/localdots) - HTTPS domains for localhost. 🏠
 - [dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
@@ -5270,7 +5269,7 @@
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [lbry-desktop](https://github.com/lbryio/lbry-desktop) - A browser and wallet for LBRY, the decentralized, user-controlled content marketplace.
 - [emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
-- [insomnia](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL Client
+- [insomnia](https://github.com/Kong/insomnia) - Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST
 - [graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system
 - [codebox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
 - [weallbehave](https://github.com/WeAllJS/weallbehave) - CODE_OF_CONDUCT.md generator
@@ -6217,7 +6216,7 @@
 - [awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) - Curated list of all things public domain
 - [awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo) - A curated list of awesome deep vision web demo
-- [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking) - :unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
+- [awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking) - :unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
 - [awesome-startup](https://github.com/KrishMunot/awesome-startup) - :sunglasses: All the required resources to build your own startup
 - [TreehouseShow](https://github.com/MHM5000/TreehouseShow) - TeamTreeHouse's Weekly show notes
 - [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
@@ -6725,7 +6724,7 @@
 
 ## PowerShell 
 
-- [packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Win10, Server 2016, 1709, 1803, 1809, 2019, 1903, 1909, Insider with Docker
+- [packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Win10, Server 2016, 1709, 1803, 1809, 2019, 1903, 1909, 2004, Insider with Docker
 - [windows-docker-machine](https://github.com/StefanScherer/windows-docker-machine) - Work with Windows containers and LCOW on Mac/Linux/Windows
 - [ConPtyShell](https://github.com/antonioCoco/ConPtyShell) - ConPtyShell - Fully Interactive Reverse Shell for Windows
 - [Internal-Pentest-Playbook](https://github.com/sdcampbell/Internal-Pentest-Playbook) - Internal Network Penetration Test Playbook
@@ -8504,6 +8503,7 @@
 - [guile-json](https://github.com/aconchillo/guile-json) - JSON module for Guile
 - [pink](https://github.com/namin/pink) - Collapsing Towers of Interpreters (in Scheme)
 - [single_cream](https://github.com/rain-1/single_cream) - single file scheme interpreter with tail call optimization
+- [xiphos](https://github.com/crosswire/xiphos) - Xiphos is a Bible study tool written for Linux, UNIX, and Windows using GTK, offering a rich and featureful environment for reading, study, and research using modules from The SWORD Project and elsewhere.
 - [ol](https://github.com/yuriy-chumak/ol) - Otus Lisp (Ol in short) is a purely* functional dialect of Lisp.
 - [sigscheme](https://github.com/uim/sigscheme) - A R5RS Scheme interpreter for embedded use
 - [guix-channel](https://github.com/jsoo1/guix-channel) - My corner of guix packages. They are either works in progress or have licenses that do not necessarily belong in a libre distribution.
@@ -8970,7 +8970,7 @@
 - [mangle](https://github.com/alphapapa/mangle) - Mangle man pages to show just the parts you need (suitable for aliasing to "man")
 - [ansible-vault-tools](https://github.com/building5/ansible-vault-tools) - Tools for working with ansible-vault
 - [bashinator](https://github.com/wschlich/bashinator) - Bashinator: Bash Shell Script Framework
-- [git-archive-all.sh](https://github.com/meitar/git-archive-all.sh) - A bash shell script wrapper for git-archive that archives a git superproject and its submodules, if it has any.
+- [git-archive-all.sh](https://github.com/fabacab/git-archive-all.sh) - A bash shell script wrapper for git-archive that archives a git superproject and its submodules, if it has any.
 - [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [gh](https://github.com/jdxcode/gh) - Easily manage your local git repos
