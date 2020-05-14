@@ -1075,7 +1075,7 @@
 - [halley](https://github.com/amzeratul/halley) - A lightweight game engine written in modern C++
 - [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [Vangers](https://github.com/KranX/Vangers) - Video game that combines elements of the racing and role-playing genres.
-- [immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++
+- [immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++ — value semantics at scale
 - [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(5 KLOC) for all platforms
 - [freeminer](https://github.com/freeminer/freeminer) - Freeminer is an open source sandbox game inspired by Minecraft.
@@ -3672,7 +3672,7 @@
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [pacgo](https://github.com/danicat/pacgo) - A Pac Man clone written in Go (with emojis!)
 - [dungeonfs](https://github.com/ChrisRx/dungeonfs) - A FUSE filesystem and dungeon crawling adventure game engine
-- [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library in Go
+- [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library for Go
 - [unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [goatcounter](https://github.com/zgoat/goatcounter) - Simple web analytics. No tracking of personal data.
@@ -5077,7 +5077,6 @@
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [percollate](https://github.com/danburzo/percollate) - 🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs
 - [js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
-- [grafana-zabbix](https://github.com/alexanderzobnin/grafana-zabbix) - Zabbix plugin for Grafana dashboard
 - [updatescanner](https://github.com/sneakypete81/updatescanner) - Firefox addon to monitor web pages for updates.
 - [profiler](https://github.com/firefox-devtools/profiler) - Firefox Profiler — Web app for Firefox performance analysis
 - [addons-linter](https://github.com/mozilla/addons-linter) - 🔍 Firefox Add-ons linter, written in JavaScript. 👁
@@ -6855,7 +6854,7 @@
 - [Sorting-Algorithm-Visualizer](https://github.com/test123/Sorting-Algorithm-Visualizer) - 
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
-- [checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build time - Terraform & Cloudformation static analysis
+- [checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [andriller](https://github.com/den4uk/andriller) - Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
 - [YouTube-Report](https://github.com/A3M4/YouTube-Report) - :bar_chart: Generate a personal YouTube report from your Google Takeout data
 - [Silver](https://github.com/s0md3v/Silver) - Mass scan IPs for vulnerable services
@@ -9333,6 +9332,7 @@
 - [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line. :hammer:
 - [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
+- [grafana-zabbix](https://github.com/alexanderzobnin/grafana-zabbix) - Zabbix plugin for Grafana dashboard
 - [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [PaWebControl](https://github.com/Siot/PaWebControl) - PulseAudio Web Volume Control
