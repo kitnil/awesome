@@ -168,6 +168,7 @@
 
 ## C 
 
+- [ksuperkey](https://github.com/hanschen/ksuperkey) - Linux utility that allows you to use the Super key both to open the start menu and as a modifier key in keyboard shortcuts
 - [colorpicker](https://github.com/Jack12816/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
 - [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [octopus](https://github.com/duncanthrax/octopus) - Simple networked Keyboard/Mouse sharing
@@ -552,7 +553,7 @@
 - [moosefs](https://github.com/moosefs/moosefs) - MooseFS – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System
 - [openjpeg](https://github.com/uclouvain/openjpeg) - Official repository of the OpenJPEG project
 - [arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
-- [etlegacy-deprecated](https://github.com/etlegacy/etlegacy-deprecated) - Archived repository. For current repo, see:
+- [etlegacy-deprecated](https://github.com/etlegacy/etlegacy-deprecated) - Archived repository. For current repo, see: https://github.com/etlegacy/etlegacy
 - [dnscrypt-wrapper](https://github.com/cofyc/dnscrypt-wrapper) - This is dnscrypt wrapper (server-side dnscrypt proxy), which helps to add dnscrypt support to any name resolver.
 - [Cloak](https://github.com/pfultz2/Cloak) - A mini-preprocessor library to demostrate the recursive capabilites of the preprocessor
 - [e](https://github.com/hellerve/e) - A dead simple editor
@@ -823,7 +824,7 @@
 - [nudoku](https://github.com/jubalh/nudoku) - ncurses based sudoku game
 - [PunchAndKick](https://github.com/lc-soft/PunchAndKick) - A simple 2D Fighting Game.
 - [cave-story-md](https://github.com/andwn/cave-story-md) - A fan port of Cave Story for the Sega Mega Drive
-- [AsteroidsCocos2D-x](https://github.com/clawoo/AsteroidsCocos2D-x) - An Asteroids game implemented in Cocos2D-x
+- [AsteroidsCocos2D-x](https://github.com/alinradut/AsteroidsCocos2D-x) - An Asteroids game implemented in Cocos2D-x
 - [quetoo](https://github.com/jdolan/quetoo) - Quetoo ("Q2") is a free first person shooter based on id Tech2. GPL v2 license.
 - [hostile-takeover](https://github.com/spiffcode/hostile-takeover) - Open Source Real Time Strategy game based on Warfare Incorporated
 - [caesaria-game](https://github.com/dalerank/caesaria-game) - Caesar III (Open source remake)
@@ -892,6 +893,7 @@
 
 ## C++ 
 
+- [termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
 - [LuaFormatter](https://github.com/Koihik/LuaFormatter) - Code formatter for Lua
 - [inspircd](https://github.com/inspircd/inspircd) - A modular C++ IRC server (ircd).
@@ -1840,6 +1842,7 @@
 - [vcard](https://github.com/emacsmirror/vcard) - Utilities for working with vCard files
 - [emacsit](https://github.com/SidharthArya/emacsit) - A Toy Package Manager for Emacs.
 - [metapost-png-preview](https://github.com/johanvts/metapost-png-preview) - png-based preview of metapost in emacs.
+- [command-center](https://github.com/lukaszkorecki/command-center) - ~/.emacs.d & ~/.bashrc & more
 - [emacs-php-doc-block](https://github.com/moskalyovd/emacs-php-doc-block) - PHPDocBlock generator
 - [elgantt](https://github.com/legalnonsense/elgantt) - A Gantt Chart (Calendar) for Org Mode
 - [org-deadsync](https://github.com/legalnonsense/org-deadsync) - Sync deadlines in orgmode files
@@ -3531,7 +3534,7 @@
 - [gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data
 - [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
-- [tilt](https://github.com/windmilleng/tilt) - Kubernetes for Prod, Tilt for Dev
+- [tilt](https://github.com/tilt-dev/tilt) - Kubernetes for Prod, Tilt for Dev
 - [shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [crossplane](https://github.com/crossplane/crossplane) - The open source control plane to manage your infrastructure and applications the Kubernetes way.
 - [tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
@@ -3554,7 +3557,7 @@
 - [submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
 - [crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [red](https://github.com/antonmedv/red) - Terminal log analysis tools
-- [conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
+- [conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
 - [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
@@ -4039,7 +4042,7 @@
 - [ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [jid](https://github.com/simeji/jid) - json incremental digger
-- [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
+- [gvisor](https://github.com/google/gvisor) - Application Kernel & Container Runtime
 - [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go
 - [rss](https://github.com/SlyMarbo/rss) - A Go library for fetching, parsing, and updating RSS feeds.
 - [learn-opengl-golang](https://github.com/raedatoui/learn-opengl-golang) - Learn OpenGL Tutorials in Go
@@ -4730,6 +4733,7 @@
 
 ## JavaScript 
 
+- [noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [kibana-object-format](https://github.com/istresearch/kibana-object-format) - A Kibana plugin for displaying objects and arrays of objects.
 - [on-reddit](https://github.com/caisah/on-reddit) - Firefex Addon which checks if the current URL was submitted to reddit
 - [kiwibnc](https://github.com/kiwiirc/kiwibnc) - 
@@ -5425,7 +5429,7 @@
 
 ## Julia 
 
-- [Gen](https://github.com/probcomp/Gen) - A general-purpose probabilistic programming system with programmable inference
+- [Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
 - [ssd](https://github.com/SawfishWM/ssd) - Sawfish Session Dialog (provides nice logout & Co. UI) for any WM
 
 ## Jupyter Notebook 
@@ -5473,7 +5477,7 @@
 - [roguelike-universe](https://github.com/Spaxe/roguelike-universe) - Understanding game design inspiration of roguelike games via web scraping and network analysis.
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-- [lessons](https://github.com/madewithml/lessons) - 📚 Learn ML with clean code, simplified math and illustrative visuals. As you learn, work on interesting projects and share them on https://madewithml.com for the community to discover and learn from!
+- [basics](https://github.com/madewithml/basics) - 📚 Learn ML with clean code, simplified math and illustrative visuals. As you learn, work on interesting projects and share them on https://madewithml.com for the community to discover and learn from!
 - [DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [Hello-world](https://github.com/Aniket965/Hello-world) - Add any  Program in any language you like or add a hello world Program ❣️ if you like give us :star:
 - [ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments) - Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.
@@ -6709,7 +6713,7 @@
 
 ## PicoLisp 
 
-- [Particle](https://github.com/Seteeri/Particle) - PicoLisp presentation-based AST userland
+- [particle](https://github.com/Seteeri/particle) - PicoLisp presentation-based AST userland
 
 ## Pony 
 
@@ -6854,7 +6858,7 @@
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-- [andriller](https://github.com/den4uk/andriller) - Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
+- [andriller](https://github.com/den4uk/andriller) - 📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
 - [YouTube-Report](https://github.com/A3M4/YouTube-Report) - :bar_chart: Generate a personal YouTube report from your Google Takeout data
 - [Silver](https://github.com/s0md3v/Silver) - Mass scan IPs for vulnerable services
 - [scalene](https://github.com/emeryberger/scalene) - a high-performance, high-precision CPU and memory profiler for Python
@@ -7464,7 +7468,7 @@
 - [Urho3D-Blender](https://github.com/reattiva/Urho3D-Blender) - Blender to Urho3D mesh exporter
 - [pentesting-multitool](https://github.com/ffmancera/pentesting-multitool) - Different utility scripts for pentesting and hacking.
 - [Hippocampe](https://github.com/TheHive-Project/Hippocampe) - Threat Feed Aggregation, Made Easy
-- [tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists 🔥
+- [tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
 - [python-chess](https://github.com/niklasf/python-chess) - A pure Python chess library with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing and UCI/XBoard engine communication
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
@@ -8626,12 +8630,11 @@
 - [mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [org-el-cache](https://github.com/l3kn/org-el-cache) - Persistent cache for data derived from org-elements
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
-- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [ Originally owned by @kennethreitz ]
+- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [ Originally owned by @ken-reitz]
 - [monkeysphere](https://github.com/dkg/monkeysphere) - use the OpenPGP web of trust to verify ssh connections
 - [JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [fontpreview](https://github.com/sdushantha/fontpreview) - 🔡 Highly customizable and minimal font previewer written in bash
 - [git-issue](https://github.com/dspinellis/git-issue) - Git-based decentralized issue management
-- [command-center](https://github.com/lukaszkorecki/command-center) - ~/.emacs.d & ~/.bashrc & more
 - [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +4.1K awesome resources for geeks and software crafters :beer:
 - [gherkin](https://github.com/alandipert/gherkin) - a functional programming language and interpreter written in GNU Bash 4
 - [flk](https://github.com/chr15m/flk) - A LISP that runs wherever Bash is
