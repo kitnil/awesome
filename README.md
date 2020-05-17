@@ -1441,6 +1441,7 @@
 
 ## Clojure 
 
+- [PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure
 - [mcss](https://github.com/DogLooksGood/mcss) - Macro your CSS
 - [konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [babashka](https://github.com/borkdude/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
@@ -1471,6 +1472,7 @@
 - [flower](https://github.com/PositiveTechnologies/flower) - Flower is a Clojure (and Emacs) library for integration with Github, Gitlab, Atlassian Jira, Microsoft TFS, Microsoft Exchange and Slack. It also may be used from Java. More integrations with task trackers, repositories and messaging systems coming soon!
 - [closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
 - [lux](https://github.com/LuxLang/lux) - The Lux Programming Language
+- [themecreator](https://github.com/mswift42/themecreator) - https://mswift42.github.io/themecreator/ create themes for intellij, textmate, atom, emacs, vim and gnome terminal.
 - [Nightweb](https://github.com/oakes/Nightweb) - An anonymous P2P social network in Clojure
 - [incanter](https://github.com/incanter/incanter) - Clojure-based, R-like statistical computing and graphics environment for the JVM
 - [lein-figwheel](https://github.com/bhauman/lein-figwheel) - Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!
@@ -1499,6 +1501,8 @@
 
 ## Common Lisp 
 
+- [jscl-react](https://github.com/nilesr/jscl-react) - A web framework for writing react components in common lisp using jscl
+- [asdf-linguist](https://github.com/eudoxia0/asdf-linguist) - ASDF extensions.
 - [common-lisp-heroku-example](https://github.com/fstamour/common-lisp-heroku-example) - Example of Common Lisp server on Heroku using Docker
 - [halftone](https://github.com/Shinmera/halftone) - A simple image viewer in Common Lisp.
 - [iclendar](https://github.com/Shinmera/iclendar) - iCalendar/RFC5545 file format library for Common Lisp
@@ -3460,6 +3464,8 @@
 
 ## Go 
 
+- [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - A beginner friendly introduction to prometheus 🔥
+- [jsondiff](https://github.com/nsf/jsondiff) - JsonDiff library
 - [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.
 - [docker-image-resource](https://github.com/concourse/docker-image-resource) - a resource for docker images
 - [json-patch](https://github.com/evanphx/json-patch) - A Go library to apply RFC6902 patches and create and apply RFC7386 patches
@@ -4248,6 +4254,7 @@
 
 ## HTML 
 
+- [easybank-learning-sass](https://github.com/LeonidasEsteban/easybank-learning-sass) - I'm learning sass in a live streaming
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
 - [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 450 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -4528,6 +4535,8 @@
 
 ## Java 
 
+- [jbot](https://github.com/rampatra/jbot) - Make Slack and Facebook Bots in Java.
+- [keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 - [WebcamStudio](https://github.com/adelq/WebcamStudio) - WebcamStudio is a virtual webcam software that you can use with Skype or flash website like UStream or Stickam to create a professional looking broadcast, including banners, animations, transitions, etc...
 - [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) - A scrollable list of items that centers the current element and provides easy-to-use APIs for cool item animations.
 - [Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
@@ -4733,6 +4742,10 @@
 
 ## JavaScript 
 
+- [sci-hub-now](https://github.com/0x01h/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅
+- [xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
+- [CursedChrome](https://github.com/mandatoryprogrammer/CursedChrome) - Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.
+- [G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
 - [noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [kibana-object-format](https://github.com/istresearch/kibana-object-format) - A Kibana plugin for displaying objects and arrays of objects.
 - [on-reddit](https://github.com/caisah/on-reddit) - Firefex Addon which checks if the current URL was submitted to reddit
@@ -5128,7 +5141,7 @@
 - [config-conkeror](https://github.com/thorkill/config-conkeror) - 
 - [player-mode](https://github.com/scottjad/player-mode) - Conkeror page-mode for controlling media players
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
-- [compiler-explorer](https://github.com/mattgodbolt/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [craftscape](https://github.com/pyalot/craftscape) - WebGL GPU landscaping and erosion
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
@@ -5190,7 +5203,6 @@
 - [livedown](https://github.com/shime/livedown) - Live Markdown previews for your favorite editor.
 - [BOOLR](https://github.com/GGBRW/BOOLR) - A digital logic simulator
 - [biwascheme](https://github.com/biwascheme/biwascheme) - Scheme interpreter written in JavaScript
-- [themecreator](https://github.com/mswift42/themecreator) - https://mswift42.github.io/themecreator/ create themes for intellij, textmate, atom, emacs, vim and gnome terminal.
 - [eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
 - [freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
@@ -5261,7 +5273,6 @@
 - [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [crossfire-chrome](https://github.com/mallowlabs/crossfire-chrome) - CrossFire for Chrome allows you to move to the next link with a keyboard.
-- [color-links](https://github.com/therynamo/color-links) - 🔗 Help Individuals With Color Blindness See Visited Links
 - [Check-My-Links](https://github.com/PageModifiedOfficial/Check-My-Links) - A Google Chrome extension which allows you to check webpages for broken links (Response Code 404 etc)
 - [linkclump](https://github.com/benblack86/linkclump) - Google chrome extension that allows the user to open multiple links at once.
 - [copy-as-markdown](https://github.com/chitsaou/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
@@ -5503,6 +5514,7 @@
 
 ## Kotlin 
 
+- [Notally](https://github.com/OmGodse/Notally) - A minimalistic notes app
 - [AnimeXStream](https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.
 - [vlc-android](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
 - [Foodium](https://github.com/PatilShreyas/Foodium) - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
@@ -5648,6 +5660,8 @@
 
 ## Nix 
 
+- [mavenix](https://github.com/nix-community/mavenix) - Deterministic Maven builds using Nix [maintainer=@icetan]
+- [linuxkit-nix](https://github.com/nix-community/linuxkit-nix) - An easy to use Linux builder for macOS [maintainer=@nicknovitski]
 - [shabka](https://github.com/kalbasit/shabka) - Shabka. Declaritive description of my network, workstations and servers.
 - [crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
 - [simple-twitter](https://github.com/Gabriel439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
@@ -6754,6 +6768,9 @@
 
 ## Python 
 
+- [Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
+- [zipfly](https://github.com/BuzonIO/zipfly) - ZipFly module
+- [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - A language agnostic test suite for the JSON Schema specifications
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [Twitch-Python](https://github.com/PetterKraabol/Twitch-Python) - Object-oriented Twitch API for Python developers
@@ -8150,6 +8167,7 @@
 
 ## Ruby 
 
+- [sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [pleaserun](https://github.com/jordansissel/pleaserun) - An attempt to abstract this "init" script madness.
 - [transmuter](https://github.com/kalbasit/transmuter) - The Alien device to convert Markdown and Textile files to HTML or PDF
 - [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
@@ -8323,6 +8341,10 @@
 
 ## Rust 
 
+- [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+- [desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
+- [micro-mitten](https://github.com/doctorn/micro-mitten) - you might not need your garbage collector
 - [ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [magicpak](https://github.com/coord-e/magicpak) - :hammer: Build minimal docker images without static linking
 - [cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code
@@ -8573,6 +8595,7 @@
 
 ## Shell 
 
+- [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - Simple bash script to set a Dynamic Wallpaper according to certain conditions.
 - [lostfiles](https://github.com/graysky2/lostfiles) - Simple script that identifies files not owned by any Arch Linux package.
 - [fex](https://github.com/jordansissel/fex) - fex - flexible field/token extraction
 - [nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
@@ -9352,6 +9375,7 @@
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [staticsitegenerators-website](https://github.com/bevry/staticsitegenerators-website) - Website containing the complete listing of static site generators
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [color-links](https://github.com/therynamo/color-links) - 🔗 Help Individuals With Color Blindness See Visited Links
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
