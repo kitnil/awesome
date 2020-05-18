@@ -168,6 +168,7 @@
 
 ## C 
 
+- [spacefm](https://github.com/IgnorantGuru/spacefm) - SpaceFM File Manager
 - [ksuperkey](https://github.com/hanschen/ksuperkey) - Linux utility that allows you to use the Super key both to open the start menu and as a modifier key in keyboard shortcuts
 - [colorpicker](https://github.com/Jack12816/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
 - [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
@@ -505,7 +506,7 @@
 - [raptor_waf](https://github.com/CoolerVoid/raptor_waf) - Raptor - WAF - Web application firewall using DFA [ Current version ] - Beta
 - [foundation_lib](https://github.com/mjansson/foundation_lib) - Cross-platform public domain foundation library in C providing basic support data types and functions to write applications and games in a platform-independent fashion.
 - [glfm](https://github.com/brackeen/glfm) - OpenGL ES and input for iOS, tvOS, Android, and WebGL
-- [lvgl](https://github.com/littlevgl/lvgl) - Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
+- [lvgl](https://github.com/lvgl/lvgl) - Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
 - [facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
 - [lambdapp](https://github.com/graphitemaster/lambdapp) - Anonymous functions in C
 - [editorconfig-core-c](https://github.com/editorconfig/editorconfig-core-c) - EditorConfig core library written in C (for use by plugins supporting EditorConfig parsing)
@@ -3542,7 +3543,7 @@
 - [Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
 - [tilt](https://github.com/tilt-dev/tilt) - Kubernetes for Prod, Tilt for Dev
 - [shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
-- [crossplane](https://github.com/crossplane/crossplane) - The open source control plane to manage your infrastructure and applications the Kubernetes way.
+- [crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
 - [tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
 - [goweight](https://github.com/jondot/goweight) - A tool to analyze and troubleshoot a Go binary size.
 - [avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
@@ -3684,7 +3685,7 @@
 - [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library for Go
 - [unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
-- [goatcounter](https://github.com/zgoat/goatcounter) - Simple web analytics. No tracking of personal data.
+- [goatcounter](https://github.com/zgoat/goatcounter) - Easy web analytics. No tracking of personal data.
 - [irccat](https://github.com/irccloud/irccat) - cat to IRC
 - [streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything
 - [go-mongodbatlas](https://github.com/akshaykarle/go-mongodbatlas) - A Go client library for the MongoDB Atlas API
@@ -4048,7 +4049,7 @@
 - [ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [jid](https://github.com/simeji/jid) - json incremental digger
-- [gvisor](https://github.com/google/gvisor) - Application Kernel & Container Runtime
+- [gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go
 - [rss](https://github.com/SlyMarbo/rss) - A Go library for fetching, parsing, and updating RSS feeds.
 - [learn-opengl-golang](https://github.com/raedatoui/learn-opengl-golang) - Learn OpenGL Tutorials in Go
@@ -4599,7 +4600,7 @@
 - [ssh-slaves-plugin](https://github.com/jenkinsci/ssh-slaves-plugin) - SSH Build Agents Plugin for Jenkins
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [loyalty-card-locker](https://github.com/brarcher/loyalty-card-locker) - Stores your barcode-based store/loyalty cards on your phone
-- [SonarJS](https://github.com/SonarSource/SonarJS) - JavaScript and TypeScript Analyzer for SonarQube
+- [SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
 - [phpinspectionsea](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP (a PhpStorm/Idea Plugin)
 - [spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 - [pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
@@ -4867,7 +4868,7 @@
 - [serverless-libreoffice](https://github.com/vladgolubev/serverless-libreoffice) - Run LibreOffice in AWS Lambda to create PDFs & convert documents
 - [shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [contain-google](https://github.com/containers-everywhere/contain-google) - Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party cookies.
 - [ca-archive](https://github.com/JustOff/ca-archive) - Catalog of classic Firefox add-ons created before WebExtensions apocalypse
 - [ff-password-exporter](https://github.com/kspearrin/ff-password-exporter) - Easily export your passwords from Firefox.
@@ -6891,7 +6892,7 @@
 - [updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
 - [Hades](https://github.com/zsdlove/Hades) - Static code auditing system
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
-- [Tool-X](https://github.com/rajkumardusad/Tool-X) - Tool-X is a kali linux hacking Tool installer. Tool-X developed for termux and other android terminals. using Tool-X you can install almost 370+ hacking tools in termux app and other linux based distributions.
+- [Tool-X](https://github.com/rajkumardusad/Tool-X) - Tool-X is a kali linux hacking Tool installer. Tool-X developed for termux and other Linux based systems. using Tool-X you can install almost 370+ hacking tools in termux app and other linux based distributions.
 - [Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [exploits](https://github.com/XiphosResearch/exploits) - Miscellaneous exploit code
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
