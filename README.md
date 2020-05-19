@@ -1502,6 +1502,7 @@
 
 ## Common Lisp 
 
+- [cl-liballegro](https://github.com/resttime/cl-liballegro) - Common Lisp bindings and interface to the Allegro 5 game programming library
 - [jscl-react](https://github.com/nilesr/jscl-react) - A web framework for writing react components in common lisp using jscl
 - [asdf-linguist](https://github.com/eudoxia0/asdf-linguist) - ASDF extensions.
 - [common-lisp-heroku-example](https://github.com/fstamour/common-lisp-heroku-example) - Example of Common Lisp server on Heroku using Docker
@@ -3541,7 +3542,7 @@
 - [gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data
 - [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
-- [tilt](https://github.com/tilt-dev/tilt) - Kubernetes for Prod, Tilt for Dev
+- [tilt](https://github.com/tilt-dev/tilt) - A multi-service dev environment for teams on Kubernetes
 - [shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
 - [tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
