@@ -8,6 +8,7 @@
   - [ANTLR](#antlr)
   - [Ada](#ada)
   - [Agda](#agda)
+  - [AppleScript](#applescript)
   - [Arc](#arc)
   - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
@@ -126,6 +127,10 @@
 ## Agda 
 
 - [cedille](https://github.com/cedille/cedille) - Cedille, a dependently typed programming languages based on the Calculus of Dependent Lambda Eliminations
+
+## AppleScript 
+
+- [emacs-grammarly](https://github.com/mmagnus/emacs-grammarly) - an Emacs extension to send a text to/from Grammarly
 
 ## Arc 
 
@@ -2783,7 +2788,6 @@
 - [eslintd-fix](https://github.com/aaronjensen/eslintd-fix) - Emacs minor-mode to automatically fix javascript with eslint_d.
 - [godoctor.el](https://github.com/microamp/godoctor.el) - Emacs frontend for godoctor
 - [fix-word](https://github.com/mrkkrp/fix-word) - Transform words in Emacs (upcase, downcase, capitalize, etc.)
-- [emacs-grammarly](https://github.com/mmagnus/emacs-grammarly) - an Emacs extension to send a text to Grammarly
 - [ivy-lobsters](https://github.com/julienXX/ivy-lobsters) - Browse lobste.rs stories from emacs with ivy
 - [circadian.el](https://github.com/guidoschmidt/circadian.el) - Theme-switching for Emacs based on daytime
 - [emacs-pug-mode](https://github.com/hlissner/emacs-pug-mode) - Pug support for Emacs, based on slim-mode.
@@ -5159,7 +5163,7 @@
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
-- [boardgame.io](https://github.com/nicolodavis/boardgame.io) - Open Source Game Engine for Turn-Based Games
+- [boardgame.io](https://github.com/nicolodavis/boardgame.io) - State Management for Turn-Based Games
 - [shelltile](https://github.com/emasab/shelltile) - A tiling window extension for GNOME Shell
 - [engine](https://github.com/playcanvas/engine) - Fast and lightweight WebGL game engine
 - [awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
@@ -5699,7 +5703,7 @@
 - [home-manager](https://github.com/rycee/home-manager) - Manage a user environment using Nix
 - [not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix
-- [ofborg](https://github.com/NixOS/ofborg) - @grahamcofborg tooling automation https://monitoring.nix.ci/dashboard/db/ofborg
+- [ofborg](https://github.com/NixOS/ofborg) - @ofborg tooling automation https://monitoring.nix.ci/dashboard/db/ofborg
 - [nixGL](https://github.com/guibou/nixGL) - A wrapper tool for nix OpenGL application
 - [nixos-mailserver](https://github.com/r-raymond/nixos-mailserver) - A complete and Simple Nixos Mailserver
 - [node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
@@ -5987,7 +5991,6 @@
 - [shell-book](https://github.com/52fhy/shell-book) - ❤️Shell脚本学习系列教程：6小节内容轻松掌握shell编程。
 - [git-pushdemont](https://github.com/voghDev/git-pushdemont) - Custom Git command that marks your commits as pushed, then reverts the process after 8 seconds
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
-- [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [awesome-discord](https://github.com/jacc/awesome-discord) - 🕹 A curated list of awesome things on Discord.
 - [game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games
 - [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
@@ -9315,6 +9318,7 @@
 - [forget-me-not](https://github.com/Lusito/forget-me-not) - Make the browser forget website data, except for the data you want to keep.
 - [codelyzer](https://github.com/mgechev/codelyzer) - Static analysis for Angular projects.
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
+- [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from "terraform plan" and converting it to JSON.
 - [deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
