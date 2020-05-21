@@ -749,7 +749,7 @@
 - [libglvnd](https://github.com/NVIDIA/libglvnd) - The GL Vendor-Neutral Dispatch library
 - [UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris command-line controller and library for vlc, audacious, bmp, cmus, spotify and others.
-- [catimg](https://github.com/posva/catimg) - :squirrel: Insanely fast image printing in your terminal
+- [catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
 - [GNUSim8085](https://github.com/GNUSim8085/GNUSim8085) - A graphical simulator, assembler and debugger for the Intel 8085 microprocessor
 - [pigeonhole](https://github.com/dovecot/pigeonhole) - Pigeonhole project: Sieve support for Dovecot.
 - [MakiseGUI](https://github.com/SL-RU/MakiseGUI) - Graphics and GUI library for embed systems.
@@ -1331,7 +1331,6 @@
 - [scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - [scribus-plugin-export-epub](https://github.com/aoloe/scribus-plugin-export-epub) - epub export plugin for scribu
 - [dvisvgm](https://github.com/mgieseki/dvisvgm) - A fast DVI, EPS, and PDF to SVG converter
-- [kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
 - [qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 - [Yakuake](https://github.com/panzi/Yakuake) - This is a git mirror of Yakuake, the Quake like shell for KDE. It also contains some little improvements over the original (hopefully they will be merged).
 - [mfx_dispatch](https://github.com/lu-zero/mfx_dispatch) - Intel media sdk dispatcher
@@ -3637,7 +3636,7 @@
 - [go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient
 - [awesome-go-linters](https://github.com/golangci/awesome-go-linters) - A curated list of awesome Go linters. More than 60 linters and tools!
 - [docket](https://github.com/netvarun/docket) - Docket - Custom docker registry that allows for lightning fast deploys through bittorrent
-- [lstags](https://github.com/ivanilves/lstags) - Manipulate Docker images across different registries
+- [lstags](https://github.com/ivanilves/lstags) - Explore Docker registries and manipulate Docker images!
 - [dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 - [container-web-tty](https://github.com/wrfly/container-web-tty) - Connect your containers via a web-tty
 - [docker-ls](https://github.com/mayflower/docker-ls) - Tools for browsing and manipulating docker registries.
@@ -6477,6 +6476,7 @@
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [ansible-role-python](https://github.com/fubarhouse/ansible-role-python) - Ansible role which provisions python and pip modules using pyenv
 - [mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
+- [kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [-archived-chromium](https://github.com/chromium/-archived-chromium) - Old and archived, see https://github.com/chromium/chromium instead.
 - [spacemacs-cheatsheet](https://github.com/abingham/spacemacs-cheatsheet) - Just my notes while learning spacemacs (i.e. vim in emacs)
@@ -6773,6 +6773,15 @@
 
 ## Python 
 
+- [interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
+- [napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
+- [steam](https://github.com/ValvePython/steam) - ☁️ Python package for interacting with Steam
+- [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
+- [gsutil](https://github.com/GoogleCloudPlatform/gsutil) - A command line tool for interacting with cloud storage services.
+- [bpython](https://github.com/bpython/bpython) - bpython - A fancy curses interface to the Python interactive interpreter
+- [profiling](https://github.com/what-studio/profiling) - An interactive continuous Python profiler.
+- [oppia](https://github.com/oppia/oppia) - Tool for collaboratively building interactive lessons.
+- [interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials
 - [Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 - [zipfly](https://github.com/BuzonIO/zipfly) - Writing large ZIP archives without memory inflation
 - [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
