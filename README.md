@@ -8186,6 +8186,7 @@
 
 ## Ruby 
 
+- [htty](https://github.com/htty/htty) - htty is the HTTP TTY, a console application for interacting with web servers.
 - [sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [pleaserun](https://github.com/jordansissel/pleaserun) - An attempt to abstract this "init" script madness.
 - [transmuter](https://github.com/kalbasit/transmuter) - The Alien device to convert Markdown and Textile files to HTML or PDF
@@ -8818,7 +8819,7 @@
 - [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
 - [pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like wrapper for many package managers
-- [nexus-tools](https://github.com/corbindavenport/nexus-tools) - Bash script for quickly installing ADB and Fastboot on macOS and Linux.
+- [nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB and Fastboot on Linux, macOS, and Chrome OS
 - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
