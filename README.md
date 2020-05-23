@@ -493,7 +493,7 @@
 - [turtle-arena-code](https://github.com/Turtle-Arena/turtle-arena-code) - Turtle Arena is a free and open source cross-platform third-person action game using the Spearmint engine.
 - [obs-linuxbrowser](https://github.com/bazukas/obs-linuxbrowser) - OBS Linux Browser Plugin
 - [pulseaudio-android](https://github.com/pelya/pulseaudio-android) - PulseAudio server for Android, built as user-land executable, using NDK
-- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, Plex servers and Chromecast devices.
+- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeart, Plex servers and Chromecast devices.
 - [cwm](https://github.com/leahneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager
 - [zathura](https://github.com/pwmt/zathura) - a document viewer
 - [guile-ssh](https://github.com/artyom-poptsov/guile-ssh) - Guile-SSH is a library that provides access to the SSH protocol for GNU Guile programs.
@@ -1334,7 +1334,6 @@
 - [scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - [scribus-plugin-export-epub](https://github.com/aoloe/scribus-plugin-export-epub) - epub export plugin for scribu
 - [dvisvgm](https://github.com/mgieseki/dvisvgm) - A fast DVI, EPS, and PDF to SVG converter
-- [kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
 - [qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 - [Yakuake](https://github.com/panzi/Yakuake) - This is a git mirror of Yakuake, the Quake like shell for KDE. It also contains some little improvements over the original (hopefully they will be merged).
 - [mfx_dispatch](https://github.com/lu-zero/mfx_dispatch) - Intel media sdk dispatcher
@@ -4669,6 +4668,7 @@
 - [multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform Multicast-enabled VNC viewer using wxWidgets and libvncclient . It runs on Unix, Mac OS X and Windows. Features include support for most encodings, ZeroConf service discovery and a seamless edge control mode á la x2vnc. There also is a mobile (Android) version with a different feature set available.
 - [java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8
 - [connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
+- [Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
 - [cucumber-reports-plugin](https://github.com/jenkinsci/cucumber-reports-plugin) - Jenkins plugin to generate cucumber-jvm reports
 - [performance-plugin](https://github.com/jenkinsci/performance-plugin) - Performance Test Running and Reporting for Jenkins CI
 - [jenkins-rest](https://github.com/cdancy/jenkins-rest) - Java client, built on top of jclouds, for working with Jenkins REST API
@@ -4975,7 +4975,6 @@
 - [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [awesome-berlin](https://github.com/marlonbernardes/awesome-berlin) - 🇩🇪 A guide aiming to help newcomers to have a successful start in Berlin!
 - [flightplan](https://github.com/pstadler/flightplan) - Run sequences of shell commands against local and remote hosts.
-- [Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
 - [faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
 - [community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Golang + EmberJS
 - [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
@@ -5169,7 +5168,6 @@
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
-- [boardgame.io](https://github.com/nicolodavis/boardgame.io) - State Management for Turn-Based Games
 - [shelltile](https://github.com/emasab/shelltile) - A tiling window extension for GNOME Shell
 - [engine](https://github.com/playcanvas/engine) - Fast and lightweight WebGL game engine
 - [awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
@@ -6483,6 +6481,7 @@
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [ansible-role-python](https://github.com/fubarhouse/ansible-role-python) - Ansible role which provisions python and pip modules using pyenv
 - [mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
+- [kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [-archived-chromium](https://github.com/chromium/-archived-chromium) - Old and archived, see https://github.com/chromium/chromium instead.
 - [spacemacs-cheatsheet](https://github.com/abingham/spacemacs-cheatsheet) - Just my notes while learning spacemacs (i.e. vim in emacs)
@@ -6898,7 +6897,7 @@
 - [andriller](https://github.com/den4uk/andriller) - 📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
 - [YouTube-Report](https://github.com/A3M4/YouTube-Report) - :bar_chart: Generate a personal YouTube report from your Google Takeout data
 - [Silver](https://github.com/s0md3v/Silver) - Mass scan IPs for vulnerable services
-- [scalene](https://github.com/emeryberger/scalene) - a high-performance, high-precision CPU and memory profiler for Python
+- [scalene](https://github.com/emeryberger/scalene) - Scalene: a high-performance, high-precision CPU and memory profiler for Python
 - [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [dlinject](https://github.com/DavidBuchanan314/dlinject) - Inject a shared library (i.e. arbitrary code) into a live linux process, without ptrace
 - [dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
@@ -7283,7 +7282,7 @@
 - [clize](https://github.com/epsy/clize) - CLIze: Turn Python functions into command-line interfaces
 - [Discline](https://github.com/mitchweaver/Discline) - 🐍  A terminal Discord client that you can actually use.
 - [python-progressbar](https://github.com/WoLpH/python-progressbar) - Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"
-- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity 不疯了似地管理多个git库
+- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos with sanity 不疯了似地管理多个git库
 - [lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
 - [mssql-cli](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting
 - [BoopSuite](https://github.com/MisterBianco/BoopSuite) - A Suite of Tools written in Python for wireless auditing and security testing.
@@ -8620,7 +8619,7 @@
 - [lostfiles](https://github.com/graysky2/lostfiles) - Simple script that identifies files not owned by any Arch Linux package.
 - [fex](https://github.com/jordansissel/fex) - fex - flexible field/token extraction
 - [nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
-- [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor
+- [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX resource monitor
 - [inspircd-docker](https://github.com/inspircd/inspircd-docker) - InspIRCd Docker Image
 - [docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd) - Docker Pure-ftpd Server
 - [docker-toran-proxy](https://github.com/cedvan/docker-toran-proxy) - Docker image to launch a toran proxy application self hosted to manage PHP dependencies
@@ -9387,6 +9386,7 @@
 - [PaWebControl](https://github.com/Siot/PaWebControl) - PulseAudio Web Volume Control
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
+- [boardgame.io](https://github.com/nicolodavis/boardgame.io) - State Management for Turn-Based Games
 - [stryker](https://github.com/stryker-mutator/stryker) - Mutation testing for JavaScript and friends
 - [chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
 - [hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
