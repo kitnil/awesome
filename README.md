@@ -4545,6 +4545,7 @@
 
 ## Java 
 
+- [mpv-remote-app](https://github.com/mcastorina/mpv-remote-app) - Android app to control mpv running on another computer
 - [zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [jbot](https://github.com/rampatra/jbot) - Make Slack and Facebook Bots in Java.
 - [keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
@@ -5050,7 +5051,7 @@
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [serve](https://github.com/zeit/serve) - Static file serving and directory listing
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [snowpack](https://github.com/pikapkg/snowpack) - The fastest dev environment for modern web apps.
+- [snowpack](https://github.com/pikapkg/snowpack) - ☶ A faster dev environment for modern web apps.
 - [llthw](https://github.com/LispTO/llthw) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -5557,6 +5558,7 @@
 
 ## Lua 
 
+- [simple-mpv-webui](https://github.com/open-dynaMIX/simple-mpv-webui) - ...is a web based user interface with controls for the mpv mediaplayer.
 - [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
 - [nvimux](https://github.com/Vigemus/nvimux) - Neovim as a TMUX replacement
@@ -7282,7 +7284,7 @@
 - [clize](https://github.com/epsy/clize) - CLIze: Turn Python functions into command-line interfaces
 - [Discline](https://github.com/mitchweaver/Discline) - 🐍  A terminal Discord client that you can actually use.
 - [python-progressbar](https://github.com/WoLpH/python-progressbar) - Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"
-- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos with sanity 不疯了似地管理多个git库
+- [gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 不疯了似地管理多个git库
 - [lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
 - [mssql-cli](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting
 - [BoopSuite](https://github.com/MisterBianco/BoopSuite) - A Suite of Tools written in Python for wireless auditing and security testing.
