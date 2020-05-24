@@ -1006,7 +1006,7 @@
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
 - [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
-- [gitstatus](https://github.com/romkatv/gitstatus) - 10x faster implementation of `git status` command
+- [gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux
 - [EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
@@ -6780,6 +6780,7 @@
 
 ## Python 
 
+- [sexpdata](https://github.com/jd-boyd/sexpdata) - S-expression parser for Python
 - [interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
 - [napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
 - [steam](https://github.com/ValvePython/steam) - ☁️ Python package for interacting with Steam
@@ -6809,7 +6810,7 @@
 - [Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 - [jqed](https://github.com/Wazzaps/jqed) - json interactive stream editor (jq + up) - for Linux and MacOS
 - [python-twitch](https://github.com/ingwinlu/python-twitch) - python-twitch is an python module for simple interaction with twitch.
-- [Tweet-Locator](https://github.com/JuanBenitez97/Tweet-Locator) - Tweet locator using Python, Flask and Twitter API
+- [Tweet-Locator](https://github.com/JuanBenitezDev/Tweet-Locator) - Tweet locator using Python, Flask and Twitter API
 - [superimposer](https://github.com/jonhoo/superimposer) - 
 - [snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text
 - [dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
