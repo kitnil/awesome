@@ -4390,6 +4390,8 @@
 
 ## Haskell 
 
+- [pretty-simple](https://github.com/cdepillabout/pretty-simple) - pretty-printer for Haskell data types that have a Show instance
+- [termonad](https://github.com/cdepillabout/termonad) - Terminal emulator configurable in Haskell.
 - [geordi](https://github.com/Eelis/geordi) - IRC C++ eval bot
 - [summoner](https://github.com/kowainik/summoner) - 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects
 - [nixpkgs-update](https://github.com/ryantm/nixpkgs-update) - Updating nixpkgs packages since 2018
@@ -5672,6 +5674,7 @@
 
 ## Nix 
 
+- [nix-reverse-deps-of-haskell-package](https://github.com/cdepillabout/nix-reverse-deps-of-haskell-package) - Find or build all reverse dependencies of a Haskell package using Nix
 - [mavenix](https://github.com/nix-community/mavenix) - Deterministic Maven builds using Nix [maintainer=@icetan]
 - [linuxkit-nix](https://github.com/nix-community/linuxkit-nix) - An easy to use Linux builder for macOS [maintainer=@nicknovitski]
 - [shabka](https://github.com/kalbasit/shabka) - Shabka. Declaritive description of my network, workstations and servers.
@@ -5709,7 +5712,6 @@
 - [home-manager](https://github.com/rycee/home-manager) - Manage a user environment using Nix
 - [not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix
-- [ofborg](https://github.com/NixOS/ofborg) - @ofborg tooling automation https://monitoring.nix.ci/dashboard/db/ofborg
 - [nixGL](https://github.com/guibou/nixGL) - A wrapper tool for nix OpenGL application
 - [nixos-mailserver](https://github.com/r-raymond/nixos-mailserver) - A complete and Simple Nixos Mailserver
 - [node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
@@ -8195,7 +8197,7 @@
 - [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
-- [chatwoot](https://github.com/chatwoot/chatwoot) - Simple and elegant live chat software 🔥💬
+- [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software 🔥💬
 - [docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
 - [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [dryrun](https://github.com/cesarferreira/dryrun) - :cloud: Try the demo project of any Android Library
@@ -8363,6 +8365,7 @@
 
 ## Rust 
 
+- [nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix store --query --tree`
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
@@ -8383,7 +8386,7 @@
 - [swc](https://github.com/swc-project/swc) - Super-fast typescript / javascript compiler written in rust
 - [azul](https://github.com/maps4print/azul) - Desktop GUI Framework
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
-- [boa](https://github.com/jasonwilliams/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
+- [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast tool for building observability pipelines
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
@@ -8489,6 +8492,7 @@
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [emacs-pool](https://github.com/cfal/emacs-pool) - An emacs daemon pool for fast emacs startups, written in Rust.
 - [typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
+- [ofborg](https://github.com/NixOS/ofborg) - @ofborg tooling automation https://monitoring.nix.ci/dashboard/db/ofborg
 - [warp](https://github.com/dgiagio/warp) - Create self-contained single binary applications
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
