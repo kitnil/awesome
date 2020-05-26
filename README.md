@@ -1509,6 +1509,7 @@
 
 ## Common Lisp 
 
+- [docbrowser](https://github.com/lokedhs/docbrowser) - Browse Common Lisp docstrings
 - [cl-liballegro](https://github.com/resttime/cl-liballegro) - Common Lisp bindings and interface to the Allegro 5 game programming library
 - [jscl-react](https://github.com/nilesr/jscl-react) - A web framework for writing react components in common lisp using jscl
 - [asdf-linguist](https://github.com/eudoxia0/asdf-linguist) - ASDF extensions.
@@ -4707,7 +4708,7 @@
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [liferay-portal](https://github.com/liferay/liferay-portal) - 
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 - [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) - 🔥 A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).
@@ -5458,6 +5459,7 @@
 
 ## Jupyter Notebook 
 
+- [fuzzbench](https://github.com/google/fuzzbench) - FuzzBench - Fuzzer benchmarking as a service.
 - [covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [automl](https://github.com/google/automl) - Google Brain AutoML
 - [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
@@ -5516,6 +5518,7 @@
 - [al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) - :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/
 - [HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK
 - [pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
+- [pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [ML-Tutorial-Experiment](https://github.com/jiqizhixin/ML-Tutorial-Experiment) - Coding the Machine Learning Tutorial for Learning to Learn
 - [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [ox-ipynb](https://github.com/jkitchin/ox-ipynb) - org-mode exporter to Jupyter notebooks
@@ -6808,7 +6811,6 @@
 - [ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining parameters from dark corners of Web Archives
 - [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
 - [speedometer](https://github.com/wardi/speedometer) - Chart network TX/RX and file download rates on the console
-- [fuzzbench](https://github.com/google/fuzzbench) - FuzzBench - Fuzzer benchmarking as a service.
 - [Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 - [jqed](https://github.com/Wazzaps/jqed) - json interactive stream editor (jq + up) - for Linux and MacOS
 - [python-twitch](https://github.com/ingwinlu/python-twitch) - python-twitch is an python module for simple interaction with twitch.
@@ -7558,7 +7560,6 @@
 - [dex](https://github.com/jceb/dex) - DesktopEntry Execution
 - [ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
-- [pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [mangaki](https://github.com/mangaki/mangaki) - Site de recommandation de mangas et d'anime
 - [cpython](https://github.com/python/cpython) - The Python programming language
 - [lieer](https://github.com/gauteh/lieer) - Fast email-fetching and sending and two-way tag synchronization between notmuch and GMail
@@ -8369,7 +8370,7 @@
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
-- [micro-mitten](https://github.com/doctorn/micro-mitten) - you might not need your garbage collector
+- [micro-mitten](https://github.com/doctorn/micro-mitten) - You might not need your garbage collector
 - [ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [magicpak](https://github.com/coord-e/magicpak) - :hammer: Build minimal docker images without static linking
 - [cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code
@@ -8908,7 +8909,7 @@
 - [grafana-dashboards](https://github.com/mlabouardy/grafana-dashboards) - List of Grafana Dashboards 📺
 - [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
 - [docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
-- [st2-docker](https://github.com/StackStorm/st2-docker) - Demo all-in-one Docker container for StackStorm
+- [st2-docker](https://github.com/StackStorm/st2-docker) - DEPRECATED! Demo all-in-one Docker container for StackStorm
 - [docker-cups](https://github.com/thbe/docker-cups) - Creates an Alpine Linux CUPS server
 - [docker-tor-privoxy-alpine](https://github.com/rdsubhas/docker-tor-privoxy-alpine) - The smallest (15 MB!!) docker image with Tor and Privoxy on Alpine Linux
 - [torproxy](https://github.com/dperson/torproxy) - 
@@ -9256,6 +9257,7 @@
 
 ## TeX 
 
+- [gnu-apl-refcard](https://github.com/jpellegrini/gnu-apl-refcard) - 
 - [os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 - [ixy-languages](https://github.com/ixy-languages/ixy-languages) - A high-speed network driver written in C, Rust, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python
 - [gitdags](https://github.com/jubobs/gitdags) - A package for drawing educational Git history graphs
