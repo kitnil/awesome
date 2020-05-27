@@ -931,7 +931,7 @@
 - [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 - [JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
 - [Game-Networking-Resources](https://github.com/MFatihMAR/Game-Networking-Resources) - A Curated List of Game Network Programming Resources
-- [raceintospace](https://github.com/raceintospace/raceintospace) - This is the GitHub home of Race Into Space, the computer version of the Liftoff! board game by Fritz Bronner. It was developed by Strategic Visions and published by Interplay as a disk-based game in 1993 and a CD-ROM in 1994.
+- [raceintospace](https://github.com/raceintospace/raceintospace) - This is the GitHub home of Race Into Space, the computer version of the Liftoff! board game by Fritz Bronner. It was developed by Strategic Visions and published by Interplay as a disk-based game in 1993 and a CD-ROM in 1994.  It was open-sourced in 2005 and a number of improvements have been made over the original.
 - [openfodder](https://github.com/OpenFodder/openfodder) - Open Fodder: An open source port of Cannon Fodder
 - [SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
 - [percona-xtrabackup](https://github.com/percona/percona-xtrabackup) - Open source hot backup tool for InnoDB and XtraDB databases
@@ -1509,6 +1509,7 @@
 
 ## Common Lisp 
 
+- [magicl](https://github.com/rigetti/magicl) - Matrix Algebra proGrams In Common Lisp.
 - [docbrowser](https://github.com/lokedhs/docbrowser) - Browse Common Lisp docstrings
 - [cl-liballegro](https://github.com/resttime/cl-liballegro) - Common Lisp bindings and interface to the Allegro 5 game programming library
 - [jscl-react](https://github.com/nilesr/jscl-react) - A web framework for writing react components in common lisp using jscl
@@ -1926,7 +1927,7 @@
 - [emacs-conflict](https://github.com/ibizaman/emacs-conflict) - Resolve conflicts happening when using file synchronization tools
 - [apparmor-mode](https://github.com/alexmurray/apparmor-mode) - Emacs major mode for editing AppArmor Policies
 - [site.org](https://github.com/dmacvicar/site.org) - Website in org mode
-- [auto-dim-other-buffers](https://github.com/emacsmirror/auto-dim-other-buffers) - Makes non-current buffers less prominent
+- [auto-dim-other-buffers](https://github.com/emacsmirror/auto-dim-other-buffers) - Makes windows without focus less prominent
 - [highlight-focus](https://github.com/kriyative/highlight-focus) - Emacs Lisp package for highlighting the active buffer
 - [kiwix.el](https://github.com/stardiviner/kiwix.el) - Use kiwix in your Emacs
 - [compdef](https://github.com/emacsmirror/compdef) - A local completion definer
@@ -3859,7 +3860,7 @@
 - [goffmpeg](https://github.com/xfrr/goffmpeg) - FFMPEG wrapper written in GO
 - [go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
 - [marathon-consul](https://github.com/allegro/marathon-consul) - Integrates Marathon apps with Consul service discovery.
-- [filetype](https://github.com/h2non/filetype) - Fast, dependency-free, small Go package to infer binary file types based on the magic numbers signature
+- [filetype](https://github.com/h2non/filetype) - Fast, dependency-free, small Go package to infer the binary file type based on its magic numbers signature
 - [ssh-auditor](https://github.com/ncsa/ssh-auditor) - The best way to scan for weak ssh passwords on your network
 - [telegram-middleman-bot](https://github.com/muety/telegram-middleman-bot) - 🤖 A Telegram bot which translates push messages sent as simple HTTP calls into Telegram messages you can subscribe to.
 - [owl](https://github.com/TalkingData/owl) - distributed monitoring system
@@ -4203,7 +4204,7 @@
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
 - [gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
-- [gitql](https://github.com/cloudson/gitql) - 💊 A git query language
+- [gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
 - [aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
 - [ftpgrab](https://github.com/ftpgrab/ftpgrab) - ⚡ Grab your files periodically from a remote FTP or SFTP server easily
 - [cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
@@ -9048,7 +9049,7 @@
 - [git-recall](https://github.com/Fakerr/git-recall) - An interactive way to peruse your git history from the terminal
 - [wallabag2_ynh](https://github.com/YunoHost-Apps/wallabag2_ynh) - Wallabag v2 package for YunoHost
 - [wikitools](https://github.com/Smile4ever/wikitools) - Wikipedia tools
-- [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - This Windows Batchscript helps setup a MinGW compiler environment for building ffmpeg and other media tools under Windows.
+- [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.
 - [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides) - :clipboard: A list of styleguides
@@ -9064,7 +9065,7 @@
 - [emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
 - [baphomet](https://github.com/paxperscientiam/baphomet) - BAPHOMET -- manage your emacs daemons
 - [voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
-- [blackweb](https://github.com/maravento/blackweb) - Blacklist for Squid-Cache
+- [blackweb](https://github.com/maravento/blackweb) - Blacklist Domains for Squid-Cache
 - [guile-aspell](https://github.com/spk121/guile-aspell) - Guile bindings for the aspell library
 - [gecko-dev](https://github.com/stransky/gecko-dev) - Firefox trunk with experimental patches. Sponsored by Red Hat, Inc.
 - [google-hosts](https://github.com/txthinking/google-hosts) - Google hosts generator
@@ -9293,7 +9294,7 @@
 - [book](https://github.com/HoTT/book) - A textbook on informal homotopy type theory
 - [stat-cookbook](https://github.com/mavam/stat-cookbook) - :orange_book: The probability and statistics cookbook
 - [the-little-mongodb-book](https://github.com/karlseguin/the-little-mongodb-book) - The Little MongoDB Book
-- [CleverAlgorithms](https://github.com/clever-algorithms/CleverAlgorithms) - An open source book that describes a large number of algorithmic techniques from the the fields of Biologically Inspired Computation, Computational Intelligence and Metaheuristics in a complete, consistent, and centralized manner such that they are accessible, usable, and understandable.
+- [CleverAlgorithms](https://github.com/clever-algorithms/CleverAlgorithms) - Clever Algorithms: Nature-Inspired Programming Recipes
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Classical equations and diagrams in machine learning
 - [book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
 - [mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
@@ -9351,7 +9352,7 @@
 - [dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [zero](https://github.com/sinclairzx81/zero) - 3D Graphics Rendering Pipeline. Implemented in JavaScript. Run in a terminal.
-- [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 8+
+- [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 9+
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build custom ML tools
 - [setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
