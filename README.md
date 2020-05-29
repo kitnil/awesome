@@ -1334,6 +1334,7 @@
 - [scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - [scribus-plugin-export-epub](https://github.com/aoloe/scribus-plugin-export-epub) - epub export plugin for scribu
 - [dvisvgm](https://github.com/mgieseki/dvisvgm) - A fast DVI, EPS, and PDF to SVG converter
+- [kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
 - [qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 - [Yakuake](https://github.com/panzi/Yakuake) - This is a git mirror of Yakuake, the Quake like shell for KDE. It also contains some little improvements over the original (hopefully they will be merged).
 - [mfx_dispatch](https://github.com/lu-zero/mfx_dispatch) - Intel media sdk dispatcher
@@ -1449,6 +1450,7 @@
 
 ## Clojure 
 
+- [floki](https://github.com/denisidoro/floki) - A JSON/EDN browser for the terminal
 - [PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure
 - [mcss](https://github.com/DogLooksGood/mcss) - Macro your CSS
 - [konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
@@ -1801,6 +1803,8 @@
 
 ## Emacs Lisp 
 
+- [emacs-retrie](https://github.com/Ailrun/emacs-retrie) - An Emacs package to refactor Haskell code with retrie
+- [organic-green-theme](https://github.com/kostafey/organic-green-theme) - Low-contrast green color theme for Emacs.
 - [emacs](https://github.com/masm11/emacs) - Mirror of GNU Emacs
 - [explain-pause-mode](https://github.com/lastquestion/explain-pause-mode) - Emacs minor mode that watches for long pauses and reports them.
 - [envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
@@ -4399,6 +4403,7 @@
 
 ## Haskell 
 
+- [retrie](https://github.com/facebookincubator/retrie) - Retrie is a powerful, easy-to-use codemodding tool for Haskell.
 - [pretty-simple](https://github.com/cdepillabout/pretty-simple) - pretty-printer for Haskell data types that have a Show instance
 - [termonad](https://github.com/cdepillabout/termonad) - Terminal emulator configurable in Haskell.
 - [geordi](https://github.com/Eelis/geordi) - IRC C++ eval bot
@@ -5080,7 +5085,7 @@
 - [statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [influxdb-ui](https://github.com/danesparza/influxdb-ui) - :racehorse: A simple UI for InfluxDB
 - [vega](https://github.com/vega/vega) - A visualization grammar.
-- [mathsteps](https://github.com/socraticorg/mathsteps) - Step by step math solutions for everyone
+- [mathsteps](https://github.com/google/mathsteps) - Step by step math solutions for everyone
 - [mr-provisioner](https://github.com/mr-provisioner/mr-provisioner) - Bare metal provisioning tool
 - [elasticdriver](https://github.com/YaroslavGaponov/elasticdriver) - access to ElasticSearch via Filesystem API
 - [elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
@@ -5420,7 +5425,7 @@
 - [Caret](https://github.com/thomaswilburn/Caret) - A sublime text editor for Chrome OS
 - [wasavi](https://github.com/akahuku/wasavi) - wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.
 - [save-as-ebook](https://github.com/alexadam/save-as-ebook) - Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension
-- [thegreatsuspender](https://github.com/deanoemcke/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
+- [thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 - [nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
 - [vimium](https://github.com/philc/vimium) - The hacker's browser.
@@ -5779,7 +5784,7 @@
 - [algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 - [awesome-remote-work](https://github.com/zenika-open-source/awesome-remote-work) - 😎 Awesome lists about remote work
-- [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentations from Hugging Face's weekly science day
+- [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
 - [reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 - [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
 - [awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc) - ✍️ A curated list of CVE PoCs.
@@ -6496,7 +6501,6 @@
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [ansible-role-python](https://github.com/fubarhouse/ansible-role-python) - Ansible role which provisions python and pip modules using pyenv
 - [mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
-- [kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [-archived-chromium](https://github.com/chromium/-archived-chromium) - Old and archived, see https://github.com/chromium/chromium instead.
 - [spacemacs-cheatsheet](https://github.com/abingham/spacemacs-cheatsheet) - Just my notes while learning spacemacs (i.e. vim in emacs)
@@ -7246,7 +7250,7 @@
 - [xml2json](https://github.com/hay/xml2json) - Python script converts XML to JSON or the other way around
 - [sublert](https://github.com/yassineaboukir/sublert) - Sublert is a security and reconnaissance tool which leverages certificate transparency to automatically monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate.
 - [pyfiscan](https://github.com/fgeek/pyfiscan) - Free web-application vulnerability and version scanner
-- [tsrc](https://github.com/TankerHQ/tsrc) - Manage several git repositories / review automation
+- [tsrc](https://github.com/TankerHQ/tsrc) - Manage groups of git repositories
 - [csv2ofx](https://github.com/reubano/csv2ofx) - A Python library and command line tool for converting csv to ofx and qif files
 - [colorize](https://github.com/lonetwin/colorize) - *nixy filter that adds color to its standard input by rows or columns
 - [python-draftlog](https://github.com/cooperhammond/python-draftlog) - :scroll: Update your previous lines in the terminal.
@@ -9409,7 +9413,7 @@
 - [hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [shellshape](https://github.com/timbertson/shellshape) - tiling window manager extension for gnome-shell
-- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension/Addon that deletes cookies as soon as the tab closes, domain changes, browser restart, or a combination of those events.
+- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension/Addon that deletes cookies as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [academic-bloggers-toolkit](https://github.com/dsifford/academic-bloggers-toolkit) - WordPress plugin providing an all-in-one solution for effective academic blogging.
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
