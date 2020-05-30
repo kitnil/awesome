@@ -1334,7 +1334,6 @@
 - [scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - [scribus-plugin-export-epub](https://github.com/aoloe/scribus-plugin-export-epub) - epub export plugin for scribu
 - [dvisvgm](https://github.com/mgieseki/dvisvgm) - A fast DVI, EPS, and PDF to SVG converter
-- [kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
 - [qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 - [Yakuake](https://github.com/panzi/Yakuake) - This is a git mirror of Yakuake, the Quake like shell for KDE. It also contains some little improvements over the original (hopefully they will be merged).
 - [mfx_dispatch](https://github.com/lu-zero/mfx_dispatch) - Intel media sdk dispatcher
@@ -1513,7 +1512,6 @@
 
 - [hypertest](https://github.com/fouric/hypertest) - automatically run tests when redefining common lisp functions
 - [magicl](https://github.com/rigetti/magicl) - Matrix Algebra proGrams In Common Lisp.
-- [docbrowser](https://github.com/lokedhs/docbrowser) - Browse Common Lisp docstrings
 - [cl-liballegro](https://github.com/resttime/cl-liballegro) - Common Lisp bindings and interface to the Allegro 5 game programming library
 - [jscl-react](https://github.com/nilesr/jscl-react) - A web framework for writing react components in common lisp using jscl
 - [asdf-linguist](https://github.com/eudoxia0/asdf-linguist) - ASDF extensions.
@@ -1803,6 +1801,12 @@
 
 ## Emacs Lisp 
 
+- [scratch-comment.el](https://github.com/conao3/scratch-comment.el) - Insert Elisp result and princ contents as comment in scratch buffer.
+- [journalctl-mode](https://github.com/SebastianMeisel/journalctl-mode) - Major mode to view journalctl's output in Emacs
+- [chezmoi.el](https://github.com/tuh8888/chezmoi.el) - An emacs package for interacting with chezmoi.
+- [chrome.el](https://github.com/anticomputer/chrome.el) - Emacs remote tab control for Google Chrome
+- [emacs-selenium-controller](https://github.com/noonker/emacs-selenium-controller) - Control your browser with emacs and selenium.
+- [marionette.el](https://github.com/xuchunyang/marionette.el) - 
 - [emacs-retrie](https://github.com/Ailrun/emacs-retrie) - An Emacs package to refactor Haskell code with retrie
 - [organic-green-theme](https://github.com/kostafey/organic-green-theme) - Low-contrast green color theme for Emacs.
 - [emacs](https://github.com/masm11/emacs) - Mirror of GNU Emacs
@@ -2230,7 +2234,7 @@
 - [org-msg](https://github.com/jeremy-compostella/org-msg) - OrgMsg is a GNU/Emacs global minor mode mixing up Org mode and Message mode to compose and reply to emails in a Outlook HTML friendly style.
 - [glsl-mode](https://github.com/jimhourihan/glsl-mode) - GLSL emacs mode
 - [reazon](https://github.com/nickdrozd/reazon) - miniKanren for Emacs
-- [wucuo](https://github.com/redguardtoo/wucuo) - Spell check your camel case  code to WuCuo (无错, no typo)
+- [wucuo](https://github.com/redguardtoo/wucuo) - Fastest solution to spell check camel case code or plain text
 - [terminal-focus-reporting.el](https://github.com/veelenga/terminal-focus-reporting.el) - Minor mode for terminal focus reporting
 - [emacs-home-end](https://github.com/Boruch-Baum/emacs-home-end) - emacs: turn home and end keys to multi-use navigation keys
 - [crystal-playground](https://github.com/jasonrobot/crystal-playground) - Emacs mode to create a quick Crystal-lang app playground environment.
@@ -4277,6 +4281,7 @@
 
 ## HTML 
 
+- [docbrowser](https://github.com/lokedhs/docbrowser) - Browse Common Lisp docstrings
 - [easybank-learning-sass](https://github.com/LeonidasEsteban/easybank-learning-sass) - I'm learning sass in a live streaming
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
@@ -5867,7 +5872,7 @@
 - [command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
 - [awesome-vault-tools](https://github.com/gites/awesome-vault-tools) - Awesome tools around HashiCorp Vault
 - [chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions
-- [awesome-biology](https://github.com/raivivek/awesome-biology) - Curated list of resources for Biology.
+- [awesome-biology](https://github.com/raivivek/awesome-biology) - Curated (meta)list of resources for Biology.
 - [awesome-sites](https://github.com/Gherciu/awesome-sites) - 📑😻 A list of useful and awesome sites
 - [awesome-devops-br](https://github.com/devops-br/awesome-devops-br) - Lista de recursos (links, livros, Q&A) discutidos no canal do Telegram Devops-BR (https://t.me/devopsbr)
 - [generated-awesomeness](https://github.com/orsinium-labs/generated-awesomeness) - List of autogenerated awesome lists.
@@ -6100,7 +6105,7 @@
 - [re-mote](https://github.com/re-ops/re-mote) - Re-mote operations using SSH and Re-gent
 - [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 - [AgileLite](https://github.com/davebs/AgileLite) - Agile software development without all the burnout.
-- [hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers and other online garbage
+- [hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 - [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [TNFE-Weekly](https://github.com/tnfe/TNFE-Weekly) - 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
@@ -6501,6 +6506,7 @@
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [ansible-role-python](https://github.com/fubarhouse/ansible-role-python) - Ansible role which provisions python and pip modules using pyenv
 - [mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
+- [kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [-archived-chromium](https://github.com/chromium/-archived-chromium) - Old and archived, see https://github.com/chromium/chromium instead.
 - [spacemacs-cheatsheet](https://github.com/abingham/spacemacs-cheatsheet) - Just my notes while learning spacemacs (i.e. vim in emacs)
@@ -6797,6 +6803,10 @@
 
 ## Python 
 
+- [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
+- [snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a fully Python userspace
+- [next_word_prediction](https://github.com/renatoviolin/next_word_prediction) - Using transformers to predict next word and predict &lt;mask&gt; word
+- [detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
 - [sexpdata](https://github.com/jd-boyd/sexpdata) - S-expression parser for Python
 - [interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
 - [napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
@@ -8636,6 +8646,7 @@
 
 ## Shell 
 
+- [lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
 - [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - Simple bash script to set a Dynamic Wallpaper according to certain conditions.
 - [lostfiles](https://github.com/graysky2/lostfiles) - Simple script that identifies files not owned by any Arch Linux package.
 - [fex](https://github.com/jordansissel/fex) - fex - flexible field/token extraction
@@ -9438,7 +9449,7 @@
 
 ## Vala 
 
-- [tootle](https://github.com/bleakgrey/tootle) - GTK3 client for Mastodon
+- [tootle](https://github.com/bleakgrey/tootle) - [WIP] GTK3 client for Mastodon
 - [sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala
 - [pamac](https://github.com/manjaro/pamac) - This repo has been archived. Our code is now hosted at
 - [finalterm](https://github.com/p-e-w/finalterm) - At last – a modern terminal emulator (NO LONGER MAINTAINED)
