@@ -275,7 +275,7 @@
 - [bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
 - [core](https://github.com/metacall/core) - A library for providing inter-language foreign function interface calls.
 - [pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
-- [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc / 24kb compiled!).
+- [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [rpminspect](https://github.com/rpminspect/rpminspect) - RPM (single RPMs, SRPMs, Koji builds, Fedora modules) build deviation analysis tools
 - [mininim](https://github.com/oitofelix/mininim) - The Advanced Prince of Persia Engine (a childhood dream)
 - [OpenGOO](https://github.com/Mandarancio/OpenGOO) - A free clone of World Of Goo
@@ -1380,7 +1380,7 @@
 - [StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [ultracompact-firefox](https://github.com/yjp20/ultracompact-firefox) - 
-- [water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer
+- [water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [minetest.github.io](https://github.com/minetest/minetest.github.io) - Official Minetest website hosted by Github Pages
 - [docs.influxdata.com](https://github.com/influxdata/docs.influxdata.com) - 1.x docs for InfluxData
 - [markserv](https://github.com/markserv/markserv) - 🏁  serve markdown as html (GitHub style), index directories, live-reload as you edit
@@ -2919,7 +2919,7 @@
 - [outshine](https://github.com/alphapapa/outshine) - Org-mode for non-Org buffers
 - [company-irony-c-headers](https://github.com/hotpxl/company-irony-c-headers) - Company mode backend for C/C++ header files with Irony
 - [emacs-epc](https://github.com/kiwanami/emacs-epc) - A RPC stack for Emacs Lisp
-- [highlight-thing.el](https://github.com/fgeller/highlight-thing.el) - Global minor mode to highlight thing under point.
+- [highlight-thing.el](https://github.com/fgeller/highlight-thing.el) - Emacs global minor mode to highlight thing under point.
 - [eval-in-repl](https://github.com/kaz-yos/eval-in-repl) - Consistent ESS-like eval interface for various REPLs
 - [evil-easymotion](https://github.com/PythonNut/evil-easymotion) - :fast_forward: A port of vim easymotion to Emacs' evil-mode
 - [yafolding.el](https://github.com/zenozeng/yafolding.el) - Yet another folding extension for Emacs
@@ -5034,7 +5034,7 @@
 - [wikibase-cli](https://github.com/maxlath/wikibase-cli) - read and edit a Wikibase instance from the command line
 - [urcli](https://github.com/trolster/urcli) - CLI tool for the Udacity Reviews API
 - [trino](https://github.com/eneserdogan/trino) - Trino: Master your translations with command line!
-- [jsonexport](https://github.com/kauegimenes/jsonexport) - :page_facing_up: Makes easy to convert JSON to CSV
+- [jsonexport](https://github.com/kauegimenes/jsonexport) - {} → :page_facing_up: it's easy to convert JSON to CSV
 - [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects
 - [whatspup](https://github.com/sarfraznawaz2005/whatspup) - :white_square_button: WhatsApp chat from commandline/console/cli using GoogleChrome puppeteer
 - [tslide](https://github.com/tslide/tslide) - Terminal SlideDeck, supporting markdown.
@@ -5214,7 +5214,7 @@
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (May 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (June 2020)
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
 - [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -5504,7 +5504,7 @@
 - [ml-class](https://github.com/lukas/ml-class) - Machine learning lessons and teaching projects designed for engineers
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [dashboards](https://github.com/jupyter-attic/dashboards) - [RETIRED] See Voilà as a supported replacement
-- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
+- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [IElixir](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language
 - [AdvancedMath](https://github.com/nicoguaro/AdvancedMath) - This is a repository with material for the course Advanced Mathematics for Engineers
@@ -6526,6 +6526,7 @@
 
 ## PHP 
 
+- [howdoi](https://github.com/san-kumar/howdoi) - Get quick answers to common linux related questions, right inside your terminal by typing "howdoi [your question]".
 - [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [rector](https://github.com/rectorphp/rector) - Instant Upgrades and Instant Refactoring of any PHP 5.3+ code
 - [xdebug-handler](https://github.com/composer/xdebug-handler) - Restart a CLI process without loading the xdebug extension.
@@ -6803,6 +6804,7 @@
 
 ## Python 
 
+- [shotlooter](https://github.com/utkusen/shotlooter) - a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
 - [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
 - [snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a fully Python userspace
 - [next_word_prediction](https://github.com/renatoviolin/next_word_prediction) - Using transformers to predict next word and predict &lt;mask&gt; word
@@ -7375,7 +7377,7 @@
 - [ansible-docker](https://github.com/nickjj/ansible-docker) - Install / Configure Docker and Docker Compose using Ansible.
 - [ansible-zabbix-proxy](https://github.com/dj-wasabi/ansible-zabbix-proxy) - Installing and maintaining zabbix-proxy for RedHat/Debian/Ubuntu.
 - [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
-- [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul
+- [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [curator](https://github.com/elastic/curator) - Curator: Tending your Elasticsearch indices
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
@@ -8646,6 +8648,17 @@
 
 ## Shell 
 
+- [docker-artifact](https://github.com/tomwillfixit/docker-artifact) - Tool to get individual files from a Docker Image in Docker Hub without pulling the image
+- [api-test](https://github.com/subeshb1/api-test) - A simple bash script to test JSON API from terminal in a structured and organized way.
+- [dockerLogs](https://github.com/psalias2006/dockerLogs) - Log multiple Docker containers on the same host
+- [bonsai](https://github.com/mitchweaver/bonsai) - :seedling: a tiny distro-independent package manager
+- [subs](https://github.com/mitchweaver/subs) - :tv: YouTube subscription manager via dmenu and mpv, no Google account needed.
+- [git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
+- [app-get](https://github.com/terroo/app-get) - AppImages manager via command line
+- [tmux-colortag](https://github.com/Determinant/tmux-colortag) - A plug-and-play, minimal tmux plugin/theme that automatically colors the window tags.
+- [screenshot-actions](https://github.com/jrodal98/screenshot-actions) - Dunst actions for screenshots (OCR, upload to 0x0.st, delete, rename, move to/from clipboard)
+- [shell-checker](https://github.com/MarounMaroun/shell-checker) - ✅ GitHub action for running ShellCheck on shell files in your PR
+- [axiom](https://github.com/pry0cc/axiom) - A dynamic infrastructure toolkit for red teamers and bug bounty hunters!
 - [lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
 - [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - Simple bash script to set a Dynamic Wallpaper according to certain conditions.
 - [lostfiles](https://github.com/graysky2/lostfiles) - Simple script that identifies files not owned by any Arch Linux package.
