@@ -12,22 +12,14 @@ pipeline {
         stage("Update README.md") {
             steps {
                 dir("${Constants.homeDir}/src/awesome") {
-                    sh "starred --token=$GITHUB_TOKEN_STARRED --username wigust --sort > README.md"
-                    catchError(buildResult: "SUCCESS", stageResult: "FAILURE")    {
-                        sh 'git commit -m "Update" README.md'
+                    script {
+                        sh "starred --token=$GITHUB_TOKEN_STARRED --username wigust --sort > README.md"
+                        catchError(buildResult: "SUCCESS", stageResult: "FAILURE") {
+                            sh 'git commit -m "Update" README.md'
+                        }
+                        sh 'sshpass -Ppassphrase -p"$(pass show github/ssh/id_rsa_github)" git push github'
+                        slackMessages += "${GROUP_NAME}/${PROJECT_NAME} pushed to github.com"
                     }
-                }
-            }
-        }
-        stage("Publish on the Internet") {
-            when { branch "master" }
-            steps {
-                script {
-                    comGithub.push (
-                        group: Constants.githubOrganization,
-                        name: "awesome"
-                    )
-                    slackMessages += "${GROUP_NAME}/${PROJECT_NAME} pushed to github.com"
                 }
             }
         }
