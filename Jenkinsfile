@@ -1,3 +1,5 @@
+def slackMessages = []
+
 pipeline {
     agent { label "guixsd" }
     triggers {
