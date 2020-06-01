@@ -1334,6 +1334,7 @@
 - [scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - [scribus-plugin-export-epub](https://github.com/aoloe/scribus-plugin-export-epub) - epub export plugin for scribu
 - [dvisvgm](https://github.com/mgieseki/dvisvgm) - A fast DVI, EPS, and PDF to SVG converter
+- [kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
 - [qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 - [Yakuake](https://github.com/panzi/Yakuake) - This is a git mirror of Yakuake, the Quake like shell for KDE. It also contains some little improvements over the original (hopefully they will be merged).
 - [mfx_dispatch](https://github.com/lu-zero/mfx_dispatch) - Intel media sdk dispatcher
@@ -3613,7 +3614,7 @@
 - [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems
 - [gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc)  7天用Go动手写/从零实现系列
-- [k3sup](https://github.com/alexellis/k3sup) - from Zero to KUBECONFIG in &lt; 1 min 🚀
+- [k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
 - [v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [longcat](https://github.com/mattn/longcat) - Looooooooooooooooooooooooooooooooooooooooooooooong cat
 - [sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization
@@ -4285,7 +4286,7 @@
 - [easybank-learning-sass](https://github.com/LeonidasEsteban/easybank-learning-sass) - I'm learning sass in a live streaming
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 450 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [photo-stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream
 - [pyptex](https://github.com/sloisel/pyptex) - Python Preprocessor for LaTeX
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
@@ -5072,7 +5073,7 @@
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [snowpack](https://github.com/pikapkg/snowpack) - ☶ A faster dev environment for modern web apps.
+- [snowpack](https://github.com/pikapkg/snowpack) - ☶ A faster build system for the modern web.
 - [llthw](https://github.com/LispTO/llthw) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -5584,7 +5585,7 @@
 - [simple-mpv-webui](https://github.com/open-dynaMIX/simple-mpv-webui) - ...is a web based user interface with controls for the mpv mediaplayer.
 - [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
-- [nvimux](https://github.com/Vigemus/nvimux) - Neovim as a TMUX replacement
+- [nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
 - [hw](https://github.com/hedgewars/hw) - Official Hedgewars mirror for GitHub!
 - [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices) - 
 - [digestif](https://github.com/astoff/digestif) - A language server for LaTeX
@@ -6506,7 +6507,6 @@
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [ansible-role-python](https://github.com/fubarhouse/ansible-role-python) - Ansible role which provisions python and pip modules using pyenv
 - [mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
-- [kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [-archived-chromium](https://github.com/chromium/-archived-chromium) - Old and archived, see https://github.com/chromium/chromium instead.
 - [spacemacs-cheatsheet](https://github.com/abingham/spacemacs-cheatsheet) - Just my notes while learning spacemacs (i.e. vim in emacs)
