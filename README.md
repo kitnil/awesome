@@ -4315,6 +4315,7 @@
 - [fuzzdata](https://github.com/MozillaSecurity/fuzzdata) - Fuzzing resources for feeding various fuzzers with input. 🔧
 - [badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [glastoselenium](https://github.com/thomasms/glastoselenium) - A bot for booking Glastonbury tickets using selenium
+- [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [dockerfile](https://github.com/mritd/dockerfile) - some personally made dockerfile
 - [phpinfo-compare](https://github.com/brettalton/phpinfo-compare) - Compare two phpinfo files across the internet (or localhost)
 - [Org-mode-all-the-thingz](https://github.com/nickanderson/Org-mode-all-the-thingz) - 
@@ -4777,6 +4778,7 @@
 
 ## JavaScript 
 
+- [WALC](https://github.com/cstayyab/WALC) - An unofficial WhatsApp Desktop client for linux systems.
 - [sci-hub-now](https://github.com/0x01h/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅
 - [xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
 - [CursedChrome](https://github.com/mandatoryprogrammer/CursedChrome) - Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.
@@ -4933,7 +4935,6 @@
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [pickr](https://github.com/Simonwep/pickr) - 🎨 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!
 - [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
-- [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [nnnotifier](https://github.com/Rob--W/nnnotifier) - Firefox addon that disables native desktop notifications in favor of XUL-based notifications.
 - [Twitch-Streams-Extension](https://github.com/nir94/Twitch-Streams-Extension) - Firefox extension to show active twitch streams using new api (WebExtensions)
 - [yet-another-jenkins-notifier](https://github.com/ggirou/yet-another-jenkins-notifier) - This extension monitors Jenkins jobs and notifies you of build results.
