@@ -412,7 +412,7 @@
 - [glslcookbook](https://github.com/daw42/glslcookbook) - Example code for the OpenGL Shading Language Cookbook - 2nd Edition (3rd Edition now available)
 - [antons_opengl_tutorials_book](https://github.com/capnramses/antons_opengl_tutorials_book) - Anton's OpenGL 4 Tutorials book - Demo Code
 - [Bulllord-Engine](https://github.com/MarilynDafa/Bulllord-Engine) - lightspeed lightweight elegant  game engine in pure c
-- [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL 3.3 RTS game engine written in C
+- [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
 - [Remotery](https://github.com/Celtoys/Remotery) - Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
 - [herebedragons](https://github.com/kosua20/herebedragons) - A basic 3D scene implemented with various engines, frameworks or APIs.
 - [VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
@@ -915,6 +915,7 @@
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction,for All Traffics(TCP/UDP/ICMP)
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
+- [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - macOS Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2017 & 2018
 - [retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [AnyQ](https://github.com/baidu/AnyQ) - FAQ-based Question Answering System
 - [SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured desktop IDE for HLSL and GLSL shaders
@@ -1203,7 +1204,7 @@
 - [bzflag](https://github.com/BZFlag-Dev/bzflag) - 3D multi-player tank battle game
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 - [teeworlds](https://github.com/teeworlds/teeworlds) - A retro multiplayer shooter
-- [godot-cpp](https://github.com/GodotNativeTools/godot-cpp) - C++ bindings for the Godot script API
+- [godot-cpp](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API
 - [alephone](https://github.com/Aleph-One-Marathon/alephone) - Aleph One is the open source continuation of Bungie’s Marathon 2 game engine.
 - [stratagus](https://github.com/Wargus/stratagus) - The Stratagus strategy game engine
 - [PenumbraOverture](https://github.com/FrictionalGames/PenumbraOverture) - Penumbra: Overture is a first person horror game, using the HPL1 Engine.
@@ -6352,7 +6353,7 @@
 - [awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists
 - [awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
-- [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
+- [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 - [must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) - A useful list of must-watch talks about CSS
 - [channels](https://github.com/andrew--r/channels) - 📺 A collection of useful YouTube channels for javascript developers and web designers
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
@@ -8680,7 +8681,6 @@
 - [awesome-docker-lamp](https://github.com/khaledalam/awesome-docker-lamp) - A Docker image with simple script to build LAMP stack apps (Ubuntu, Apache, PHP and MySql) using single docker image.
 - [TablaZinc](https://github.com/senshu/TablaZinc) - Generate guitar tablatures using a constraint solver
 - [linux-surface](https://github.com/jakeday/linux-surface) - Linux Kernel for Surface Devices
-- [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - macOS Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2017 & 2018
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [formation](https://github.com/minamarkham/formation) - 💻 macOS setup script for front-end development
 - [generate-ssl-certs-for-local-development](https://github.com/kingkool68/generate-ssl-certs-for-local-development) - A bash script for generating trusted self-signed SSL certs for local development on your Mac
@@ -8736,7 +8736,7 @@
 - [android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [cleanreg](https://github.com/hcguersoy/cleanreg) - A small tool to clean up Docker Registries (v2).
 - [git-splits](https://github.com/ajdruff/git-splits) - Extracts multiple directories of a git repo into a new branch
-- [godaddy-ddns](https://github.com/michaudg/godaddy-ddns) - 
+- [godaddy-ddns](https://github.com/gu1ll0me/godaddy-ddns) - 
 - [history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
 - [autossh](https://github.com/FeeiCN/autossh) - Password-free automatic login SSH（免密登陆SSH）
 - [vm-bhyve](https://github.com/churchers/vm-bhyve) - Shell based, minimal dependency bhyve manager
@@ -9132,7 +9132,6 @@
 - [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
 - [ganeti-instance-guix](https://github.com/mbakke/ganeti-instance-guix) - When you want to try Guix System, but all you have is a Ganeti cluster..
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
-- [hosts](https://github.com/sy618/hosts) - 已停更
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
@@ -9254,7 +9253,6 @@
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
-- [dotfiles](https://github.com/gotbletu/dotfiles) - Linux configs v4 ; modular design for GNU stow
 - [hhighlighter](https://github.com/paoloantinori/hhighlighter) - A command line tool to highlight terms
 - [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 
@@ -9518,6 +9516,7 @@
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
+- [dotfiles](https://github.com/gotbletu/dotfiles) - Linux configs v4 ; modular design for GNU stow
 - [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 
 ## VimL 
