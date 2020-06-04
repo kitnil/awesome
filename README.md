@@ -1228,7 +1228,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.3.0.34220, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.3.0.34601, 3.3.5 = 3.3.5a.12340)
 - [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -1396,6 +1396,7 @@
 - [css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
 - [cpp-compilation](https://github.com/green7ea/cpp-compilation) - A short description of the C++ build process
 - [equilux-firefox](https://github.com/cj-sv/equilux-firefox) - A neutral dark balanced color scheme for Firefox based on the Equilux GTK Theme.
+- [nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [conkeror-theme-zenburn](https://github.com/ivoarch/conkeror-theme-zenburn) - Zenburn theme for conkeror
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [raleigh-reloaded](https://github.com/vlastavesely/raleigh-reloaded) - Raleigh Reloaded is a conservative GTK-3.20 theme aiming to revive the Raleigh theme, the default theme of GTK-2.0.
@@ -4779,6 +4780,7 @@
 
 ## JavaScript 
 
+- [variety](https://github.com/variety/variety) - A schema analyzer for MongoDB
 - [WALC](https://github.com/cstayyab/WALC) - An unofficial WhatsApp Desktop client for linux systems.
 - [sci-hub-now](https://github.com/0x01h/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅
 - [xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
@@ -5165,7 +5167,6 @@
 - [DomTerm](https://github.com/PerBothner/DomTerm) - DOM/JavaScript-based terminal-emulator/console
 - [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
 - [lispyscript](https://github.com/santoshrajan/lispyscript) - A javascript with Lispy syntax and macros
-- [nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [dokieli](https://github.com/linkeddata/dokieli) - :bulb: dokieli is a clientside editor for decentralised article publishing, annotations and social interactions
 - [sockethub](https://github.com/sockethub/sockethub) - A protocol gateway for the Web.
 - [luminous](https://github.com/gbaptista/luminous) - Identify, analyze and block code execution and event collection through JavaScript in your browser with code interception.
@@ -6806,7 +6807,7 @@
 ## Python 
 
 - [shotlooter](https://github.com/utkusen/shotlooter) - a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
-- [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
+- [textshot](https://github.com/ianzhao05/textshot) - Cross-platform Python tool for grabbing text via screenshot
 - [snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a fully Python userspace
 - [next_word_prediction](https://github.com/renatoviolin/next_word_prediction) - Using transformers to predict next word and predict &lt;mask&gt; word
 - [detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
@@ -6994,6 +6995,7 @@
 - [wrapc](https://github.com/meeuw/wrapc) - Wrapper script for starting a command line tool with bash completion
 - [repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
 - [webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
+- [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
 - [manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [gogextract](https://github.com/Yepoleb/gogextract) - Script for unpacking GOG Linux installers
 - [nixops-libvirtd](https://github.com/nix-community/nixops-libvirtd) - NixOps libvirtd backend plugin [maintainer=@AmineChikhaoui]
@@ -7265,7 +7267,7 @@
 - [tsrc](https://github.com/TankerHQ/tsrc) - Manage groups of git repositories
 - [csv2ofx](https://github.com/reubano/csv2ofx) - A Python library and command line tool for converting csv to ofx and qif files
 - [colorize](https://github.com/lonetwin/colorize) - *nixy filter that adds color to its standard input by rows or columns
-- [python-draftlog](https://github.com/cooperhammond/python-draftlog) - :scroll: Update your previous lines in the terminal.
+- [python-draftlog](https://github.com/cooperhammond/python-draftlog) - :scroll: Fancy logs with expandable tools. Bring life to your terminal!
 - [cum](https://github.com/Hamuko/cum) - comic updater, mangafied
 - [pubs](https://github.com/pubs/pubs) - Your bibliography on the command line
 - [pipenv-pipes](https://github.com/gtalarico/pipenv-pipes) - A PipEnv Environment Switcher
@@ -7541,7 +7543,7 @@
 - [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
 - [pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
-- [notifiers](https://github.com/notifiers/notifiers) - The easy way to send notifications
+- [notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [twitterscraper](https://github.com/taspinar/twitterscraper) - Scrape Twitter for Tweets
 - [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.
 - [erpnext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP
@@ -8453,7 +8455,7 @@
 - [rusted-ruins](https://github.com/garkimasera/rusted-ruins) - Extensible open world rogue like game with pixel art. Players can explore the wilderness and ruins.
 - [veloren](https://github.com/veloren/veloren) - [Mirror] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World
 - [sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
-- [fcat](https://github.com/mre/fcat) - fcat (short for fastcat) - A 3x faster implementation of cat, using splice
+- [fcat](https://github.com/mre/fcat) - A 3x faster implementation of cat, using splice
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [LambdaCore](https://github.com/Pebaz/LambdaCore) - An interpreted language written in Rust inspired by the Lisp family of languages.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -8741,7 +8743,6 @@
 - [autossh](https://github.com/FeeiCN/autossh) - Password-free automatic login SSH（免密登陆SSH）
 - [vm-bhyve](https://github.com/churchers/vm-bhyve) - Shell based, minimal dependency bhyve manager
 - [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
-- [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
 - [dind](https://github.com/jpetazzo/dind) - Docker in Docker
 - [nsenter](https://github.com/jpetazzo/nsenter) - 
 - [netbootcd](https://github.com/IsaacSchemm/netbootcd) - The build files for NetbootCD (except the CorePlus ISO)
@@ -9516,7 +9517,6 @@
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
-- [dotfiles](https://github.com/gotbletu/dotfiles) - Linux configs v4 ; modular design for GNU stow
 - [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 
 ## VimL 
