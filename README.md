@@ -343,7 +343,7 @@
 - [tree-sitter.el](https://github.com/karlotness/tree-sitter.el) - An Emacs dynamic module exposing tree-sitter.
 - [ics-openvpn](https://github.com/schwabe/ics-openvpn) - OpenVPN for Android
 - [core](https://github.com/cfengine/core) - CFEngine Community
-- [orbital](https://github.com/AlexAltea/orbital) - Experimental PlayStation 4 emulator
+- [orbital](https://github.com/AlexAltea/orbital) - Experimental PlayStation 4 emulator.
 - [cbatticon](https://github.com/valr/cbatticon) - A lightweight and fast battery icon that sits in your system tray
 - [mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
@@ -947,7 +947,7 @@
 - [BlueshiftEngine](https://github.com/PolygonTek/BlueshiftEngine) - Blueshift is a cross-platform 3D game engine implemented in C++. it's free, open-source, and works on Windows, macOS, iOS, and Android. The project is currently in an early stage of development.
 - [mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 - [dg](https://github.com/mchalupa/dg) - [LLVM Static Slicer] Various program analyses, construction of dependence graphs and program slicing of LLVM bitcode.
-- [SVF](https://github.com/SVF-tools/SVF) - Static Value-Flow Analysis for C and C++ Programs
+- [SVF](https://github.com/SVF-tools/SVF) - Static Value-Flow Analysis Framework for Source Code
 - [TscanCode](https://github.com/Tencent/TscanCode) - A static code analyzer for C++, C#, Lua
 - [WickedEngine](https://github.com/turanszkij/WickedEngine) - C++ game engine focusing on modern rendering techniques and performance.
 - [q5Go](https://github.com/bernds/q5Go) - A tool for Go players: SGF editor, analysis tool, IGS client
@@ -1676,7 +1676,7 @@
 - [snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
 - [kommissar](https://github.com/olewhalehunter/kommissar) - browser automation library and tool in Common Lisp on Emacs
 - [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io Common Lisp client
-- [next](https://github.com/atlas-engineer/next) - Next browser - Be productive.
+- [next](https://github.com/atlas-engineer/next) - Nyxt browser - Be productive.
 - [breakout](https://github.com/sebity/breakout) - A Remake of the Classic Game Breakout
 - [coleslaw](https://github.com/coleslaw-org/coleslaw) - Flexible Lisp Blogware
 - [stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager
@@ -3704,7 +3704,7 @@
 - [rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [elvish](https://github.com/elves/elvish) - Friendly Interactive Shell and Expressive Programming Language
 - [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
-- [werf](https://github.com/flant/werf) - GitOps delivery tool
+- [werf](https://github.com/werf/werf) - GitOps delivery tool
 - [torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
 - [container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images
 - [machine](https://github.com/docker/machine) - Machine management for a container-centric world
@@ -3739,7 +3739,7 @@
 - [terraform-provider-vsphere](https://github.com/terraform-providers/terraform-provider-vsphere) - Terraform VMware vSphere provider
 - [terraform-provider-oci](https://github.com/terraform-providers/terraform-provider-oci) - Terraform Oracle Cloud Infrastructure provider
 - [terraform-provisioner-ansible](https://github.com/radekg/terraform-provisioner-ansible) - Marrying Ansible with Terraform 0.12.x
-- [terraform-provider-helm](https://github.com/terraform-providers/terraform-provider-helm) - Terraform Helm provider
+- [terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) - Terraform Helm provider
 - [terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - Terraform provider to provision infrastructure with Linux's KVM using libvirt
 - [tflint](https://github.com/terraform-linters/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform &gt;= 0.12)
 - [terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
@@ -4098,7 +4098,7 @@
 - [fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [gitin](https://github.com/isacikgoz/gitin) - commit/branch/workdir explorer for git
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
-- [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool (self-hosted)
+- [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices
 - [esbulk](https://github.com/miku/esbulk) - Bulk indexing command line tool for elasticsearch
@@ -4355,7 +4355,6 @@
 - [phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [jsonpath-online-evaluator](https://github.com/ashphy/jsonpath-online-evaluator) - JSONPath Online Evaluator
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
-- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
 - [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
@@ -8859,7 +8858,7 @@
 - [RootHelper](https://github.com/NullArray/RootHelper) - A  Bash script that downloads and unzips scripts that will aid with privilege escalation on a Linux system.
 - [ProxyMan](https://github.com/himanshub16/ProxyMan) - Configuring proxy settings made easy.
 - [zabbix-slack-alertscript](https://github.com/ericoc/zabbix-slack-alertscript) - Zabbix AlertScript for Slack.com chat
-- [Bashark](https://github.com/TheSecondSun/Bashark) - Bash post exploitation toolkit
+- [Bashark](https://github.com/wintrmvte/Bashark) - Bash post exploitation toolkit
 - [FFcast](https://github.com/lolilolicon/FFcast) - Run command on rectangular screen regions
 - [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
@@ -9537,6 +9536,7 @@
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
 - [logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
+- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
