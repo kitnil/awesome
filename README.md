@@ -1676,7 +1676,7 @@
 - [snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
 - [kommissar](https://github.com/olewhalehunter/kommissar) - browser automation library and tool in Common Lisp on Emacs
 - [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io Common Lisp client
-- [next](https://github.com/atlas-engineer/next) - Nyxt browser - Be productive.
+- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt browser - Be productive.
 - [breakout](https://github.com/sebity/breakout) - A Remake of the Classic Game Breakout
 - [coleslaw](https://github.com/coleslaw-org/coleslaw) - Flexible Lisp Blogware
 - [stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager
@@ -1804,6 +1804,7 @@
 
 ## Emacs Lisp 
 
+- [elmine](https://github.com/leoc/elmine) - Access redmine Rest API via elisp in your favorite editor.
 - [scratch-comment.el](https://github.com/conao3/scratch-comment.el) - Insert Elisp result and princ contents as comment in scratch buffer.
 - [journalctl-mode](https://github.com/SebastianMeisel/journalctl-mode) - Major mode to view journalctl's output in Emacs
 - [chezmoi.el](https://github.com/tuh8888/chezmoi.el) - An emacs package for interacting with chezmoi.
@@ -6805,9 +6806,10 @@
 
 ## Python 
 
+- [Keebie](https://github.com/robinuniverse/Keebie) - Easy Second Keyboard support in Linux (With layers!)
 - [shotlooter](https://github.com/utkusen/shotlooter) - a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
-- [textshot](https://github.com/ianzhao05/textshot) - Cross-platform Python tool for grabbing text via screenshot
-- [snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a fully Python userspace
+- [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
+- [snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a Python-based userspace
 - [next_word_prediction](https://github.com/renatoviolin/next_word_prediction) - Using transformers to predict next word and predict &lt;mask&gt; word
 - [detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
 - [sexpdata](https://github.com/jd-boyd/sexpdata) - S-expression parser for Python
