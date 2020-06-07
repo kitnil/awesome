@@ -173,6 +173,7 @@
 
 ## C 
 
+- [printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
 - [qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser
 - [nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
 - [spacefm](https://github.com/IgnorantGuru/spacefm) - SpaceFM File Manager
@@ -1335,7 +1336,6 @@
 - [scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - [scribus-plugin-export-epub](https://github.com/aoloe/scribus-plugin-export-epub) - epub export plugin for scribu
 - [dvisvgm](https://github.com/mgieseki/dvisvgm) - A fast DVI, EPS, and PDF to SVG converter
-- [kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
 - [qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 - [Yakuake](https://github.com/panzi/Yakuake) - This is a git mirror of Yakuake, the Quake like shell for KDE. It also contains some little improvements over the original (hopefully they will be merged).
 - [mfx_dispatch](https://github.com/lu-zero/mfx_dispatch) - Intel media sdk dispatcher
@@ -1452,6 +1452,8 @@
 
 ## Clojure 
 
+- [hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Clojure
+- [firn](https://github.com/theiceshelf/firn) - Org Mode Static Site Generator
 - [floki](https://github.com/denisidoro/floki) - A JSON/EDN browser for the terminal
 - [PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure
 - [mcss](https://github.com/DogLooksGood/mcss) - Macro your CSS
@@ -1737,7 +1739,7 @@
 - [docker-tor-simple](https://github.com/osminogin/docker-tor-simple) - Simplest minimal container for Tor anonymity software
 - [aind](https://github.com/aind-containers/aind) - AinD: Android in Docker. Ain't an emulator.
 - [elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳 Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics. Up with a Single Command.
-- [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli support, and 9 MB size. All built on the bleeding edge for max performance. Built on the edge, for the edge.
+- [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli, NJS support, and 9 MB size. All built on the bleeding edge for max performance. Built on the edge, for the edge.
 - [localdots](https://github.com/luisfarzati/localdots) - HTTPS domains for localhost. 🏠
 - [dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
@@ -2027,7 +2029,7 @@
 - [plantuml-mode](https://github.com/skuro/plantuml-mode) - A major mode for editing PlantUML sources in Emacs
 - [flymake-quickdef](https://github.com/karlotness/flymake-quickdef) - Quickly define a new Flymake backend
 - [magit-circleci](https://github.com/abrochard/magit-circleci) - Magit extension for CircleCI
-- [emacs-tree-sitter](https://github.com/ubolonton/emacs-tree-sitter) - Emacs Lisp binding and tooling for tree-sitter
+- [emacs-tree-sitter](https://github.com/ubolonton/emacs-tree-sitter) - Tree-sitter for Emacs
 - [org-thesis](https://github.com/dangom/org-thesis) - Writing a Ph.D. thesis with Org Mode
 - [nnreddit](https://github.com/dickmao/nnreddit) - A Gnus backend for Reddit
 - [orgmine](https://github.com/kametoku/orgmine) - Emacs minor mode for org-mode with redmine integration
@@ -2246,7 +2248,7 @@
 - [picpocket](https://github.com/johanclaesson/picpocket) - Image viewer for Emacs
 - [pretty-mode](https://github.com/pretty-mode/pretty-mode) - Redisplay parts of the Emacs buffer as pretty symbols.
 - [wdl-mode](https://github.com/zhanxw/wdl-mode) - WDL (Workflow Description Language) major mode
-- [renpy-mode](https://github.com/treymerkley/renpy-mode) - Emacs major mode for editing Ren'Py files
+- [renpy-mode](https://github.com/Reagankm/renpy-mode) - Emacs major mode for editing Ren'Py files
 - [comb](https://github.com/cyrus-and/comb) - Interactive code auditing and grep tool in Emacs Lisp
 - [speed-type](https://github.com/hagleitn/speed-type) - Practice touch/speed typing in emacs
 - [structured-haskell-mode](https://github.com/projectional-haskell/structured-haskell-mode) - Structured editing minor mode for Haskell in Emacs
@@ -5326,7 +5328,6 @@
 - [webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
 - [Legacy-Research-Engine](https://github.com/WorldBrain/Legacy-Research-Engine) - WorldBrain's Chrome Extension to full-text search through your browser history & bookmarks.
 - [parinfer](https://github.com/shaunlebron/parinfer) - Let's simplify the way we write Lisp
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [mozrepl](https://github.com/bard/mozrepl) - [NB: END-OF-LIFE, SEE README] Remotely control Firefox and other Mozilla apps with JavaScript.
 - [agendav](https://github.com/agendav/agendav) - A CalDAV web client similar to Google Calendar
 - [discord-irc](https://github.com/reactiflux/discord-irc) - Connects Discord and IRC channels by sending messages back and forth.
@@ -6509,6 +6510,7 @@
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [ansible-role-python](https://github.com/fubarhouse/ansible-role-python) - Ansible role which provisions python and pip modules using pyenv
 - [mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
+- [kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [-archived-chromium](https://github.com/chromium/-archived-chromium) - Old and archived, see https://github.com/chromium/chromium instead.
 - [spacemacs-cheatsheet](https://github.com/abingham/spacemacs-cheatsheet) - Just my notes while learning spacemacs (i.e. vim in emacs)
@@ -7718,7 +7720,7 @@
 - [plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents
 - [live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
-- [todoman](https://github.com/pimutils/todoman) - 🗹 A simple, standards-based, cli todo (aka: task) manager.
+- [todoman](https://github.com/pimutils/todoman) - ✅ A simple, standards-based, cli todo (aka: task) manager.
 - [pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [python-oauth2](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
@@ -8394,6 +8396,7 @@
 
 ## Rust 
 
+- [dyn-wall-rs](https://github.com/RAR27/dyn-wall-rs) - Helps user set a dynamic wallpaper and lockscreen.
 - [nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix store --query --tree`
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
@@ -9447,6 +9450,7 @@
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
