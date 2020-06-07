@@ -18,7 +18,7 @@ pipeline {
                             sh 'git commit -m "Update" README.md'
                         }
                         sh 'sshpass -Ppassphrase -p"$(pass show github/ssh/id_rsa_github)" git push github'
-                        slackMessages += "${GROUP_NAME}/${PROJECT_NAME} pushed to github.com"
+                        slackMessages += "wigust/awesome pushed to github.com"
                     }
                 }
             }
