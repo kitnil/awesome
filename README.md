@@ -1808,6 +1808,8 @@
 
 ## Emacs Lisp 
 
+- [flymake-shellcheck](https://github.com/federicotdn/flymake-shellcheck) - A ShellCheck-powered backend for Flymake
+- [erc-status-sidebar](https://github.com/drewbarbs/erc-status-sidebar) - A hexchat-like activity overview for ERC channels
 - [elmine](https://github.com/leoc/elmine) - Access redmine Rest API via elisp in your favorite editor.
 - [scratch-comment.el](https://github.com/conao3/scratch-comment.el) - Insert Elisp result and princ contents as comment in scratch buffer.
 - [journalctl-mode](https://github.com/SebastianMeisel/journalctl-mode) - Major mode to view journalctl's output in Emacs
@@ -1975,7 +1977,7 @@
 - [company-sourcekit](https://github.com/nathankot/company-sourcekit) - Completion for Swift projects via SourceKit with the help of SourceKitten
 - [swift-mode](https://github.com/swift-emacs/swift-mode) - Emacs support for Apple's Swift programming language.
 - [markovkeyboard](https://github.com/shapr/markovkeyboard) - keyboard layout that changes by markov frequency
-- [frontmacs](https://github.com/thefrontside/frontmacs) - A package-based, web-centric, customizable, awesome-by-default, acceptance-tested Emacs distribution curated by your friends at Frontside.
+- [frontmacs](https://github.com/thefrontside/frontmacs) - Package-based, web-centric, customizable, awesome-by-default, acceptance-tested Emacs distribution
 - [tide](https://github.com/ananthakumaran/tide) - Tide - TypeScript Interactive Development Environment for Emacs
 - [sunrise-commander](https://github.com/sunrise-commander/sunrise-commander) - Twin-pane file manager for Emacs based on Dired and inspired by Midnight Commander
 - [shen-elisp](https://github.com/deech/shen-elisp) - 
@@ -3681,7 +3683,7 @@
 - [docker-fetchurl](https://github.com/moretea/docker-fetchurl) - Helper image to fetch & verify URL's
 - [heka](https://github.com/mozilla-services/heka) - DEPRECATED: Data collection and processing made easy.
 - [go-libvirt](https://github.com/digitalocean/go-libvirt) - Package libvirt provides a pure Go interface for interacting with Libvirt.  Apache 2.0 Licensed.
-- [git-hound](https://github.com/tillson/git-hound) - GitHound pinpoints exposed API keys on GitHub using pattern matching, commit history searching, and a unique result scoring system. A batch-catching, pattern-matching, patch-attacking secret snatcher.
+- [git-hound](https://github.com/tillson/git-hound) - Reconnaissance tool for GitHub code search. Finds exposed API keys using pattern matching, commit history searching, and a unique result scoring system.
 - [hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [ssh2docker](https://github.com/moul/ssh2docker) - :whale: standalone SSH server that connects you to your Docker containers
 - [gortal](https://github.com/TNK-Studio/gortal) - 🚪A super lightweight jumpserver service developed using the Go language.  一个使用 Go 语言开发的，超级轻量的跳板机服务。
@@ -3743,7 +3745,7 @@
 - [terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [terraform-provider-virtualbox](https://github.com/terra-farm/terraform-provider-virtualbox) - VirtualBox provider for Terraform
 - [tfnotify](https://github.com/mercari/tfnotify) - A CLI command to parse Terraform execution result and notify it to GitHub
-- [terraform-provider-vsphere](https://github.com/terraform-providers/terraform-provider-vsphere) - Terraform VMware vSphere provider
+- [terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere) - Terraform VMware vSphere provider
 - [terraform-provider-oci](https://github.com/terraform-providers/terraform-provider-oci) - Terraform Oracle Cloud Infrastructure provider
 - [terraform-provisioner-ansible](https://github.com/radekg/terraform-provisioner-ansible) - Marrying Ansible with Terraform 0.12.x
 - [terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) - Terraform Helm provider
@@ -5116,7 +5118,7 @@
 - [CustomJSforFx](https://github.com/Aris-t2/CustomJSforFx) - custom scripts
 - [floccus](https://github.com/marcelklehr/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
 - [Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
-- [duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome, Safari.
+- [duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
 - [RESTer](https://github.com/frigus02/RESTer) - A REST client for almost any web service (Firefox and Chrome Extension)
 - [Steward](https://github.com/solobat/Steward) - A command launcher for Chrome
 - [live-css-editor](https://github.com/webextensions/live-css-editor) - Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
@@ -6710,7 +6712,7 @@
 - [dotdotpwn](https://github.com/wireghoul/dotdotpwn) - DotDotPwn - The Directory Traversal Fuzzer
 - [ls--](https://github.com/trapd00r/ls--) - ls on steroids
 - [convos](https://github.com/Nordaaker/convos) - Convos :busts_in_silhouette: is the simplest way to use IRC in your browser
-- [nipe](https://github.com/GouveaHeitor/nipe) - A engine to make Tor network your default gateway
+- [nipe](https://github.com/GouveaHeitor/nipe) - An engine to make Tor network your default gateway
 - [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
 - [wat](https://github.com/pbrisbin/wat) - Show upgrades since recent -Syu
@@ -8773,7 +8775,7 @@
 - [git-slack-hook](https://github.com/chriseldredge/git-slack-hook) - Git receive hook to notify Slack channels
 - [jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 - [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-- [zfsnap](https://github.com/zfsnap/zfsnap) - [UNMAINTAINED] A portable, performant script to make rolling ZFS snapshots easy.
+- [zfsnap](https://github.com/zfsnap/zfsnap) - [UNMAINTAINED] A portable, performant script to make rolling ZFS snapshots easy. (https://github.com/zfsnap/zfsnap/issues/109)
 - [android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [cleanreg](https://github.com/hcguersoy/cleanreg) - A small tool to clean up Docker Registries (v2).
 - [git-splits](https://github.com/ajdruff/git-splits) - Extracts multiple directories of a git repo into a new branch
@@ -9501,6 +9503,7 @@
 
 ## Vala 
 
+- [sideload](https://github.com/elementary/sideload) - Sideload Flatpaks on elementary OS
 - [tootle](https://github.com/bleakgrey/tootle) - [WIP] GTK3 client for Mastodon
 - [sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala
 - [pamac](https://github.com/manjaro/pamac) - This repo has been archived. Our code is now hosted at
