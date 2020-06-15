@@ -152,7 +152,7 @@
 
 ## AutoHotkey 
 
-- [ewow](https://github.com/zk-phi/ewow) - use Emacs command (almost) everywhere
+- [ewow](https://github.com/zk-phi/ewow) - [AHK] Use Emacs command (almost) everywhere
 - [dual](https://github.com/lydell/dual) - Dual is an AutoHotkey script that lets you define dual-role modifier keys easily.
 
 ## Awk 
@@ -174,6 +174,9 @@
 
 ## C 
 
+- [binbloom](https://github.com/quarkslab/binbloom) - Raw binary firmware analysis software
+- [libmish](https://github.com/buserror/libmish) - Libmish adds a command prompt to your program, and telnet access. With your own commands.
+- [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
 - [printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
 - [qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser
 - [nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
@@ -903,6 +906,7 @@
 
 ## C++ 
 
+- [emacsbridge](https://github.com/aardsoft/emacsbridge) - An application to bridge between the Android and Emacs world
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
@@ -1370,7 +1374,6 @@
 
 - [emacs-manuals](https://github.com/xuchunyang/emacs-manuals) - Versioned GNU Emacs Manuals
 - [rofi-themes](https://github.com/davatorium/rofi-themes) - Themes for Rofi
-- [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook
 - [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 - [missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
@@ -1517,6 +1520,7 @@
 
 ## Common Lisp 
 
+- [cl-ledger](https://github.com/ledger/cl-ledger) - Port of the Ledger accounting system (see project "ledger") to Common Lisp
 - [hypertest](https://github.com/fouric/hypertest) - automatically run tests when redefining common lisp functions
 - [magicl](https://github.com/rigetti/magicl) - Matrix Algebra proGrams In Common Lisp.
 - [cl-liballegro](https://github.com/resttime/cl-liballegro) - Common Lisp bindings and interface to the Allegro 5 game programming library
@@ -1680,7 +1684,7 @@
 - [snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
 - [kommissar](https://github.com/olewhalehunter/kommissar) - browser automation library and tool in Common Lisp on Emacs
 - [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io Common Lisp client
-- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt browser - Be productive.
+- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - Be productive.
 - [breakout](https://github.com/sebity/breakout) - A Remake of the Classic Game Breakout
 - [coleslaw](https://github.com/coleslaw-org/coleslaw) - Flexible Lisp Blogware
 - [stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager
@@ -1808,6 +1812,11 @@
 
 ## Emacs Lisp 
 
+- [valign](https://github.com/casouri/valign) - Pixel-perfect visual alignment for Org and Markdown tables.
+- [flycheck-guile](https://github.com/flatwhatson/flycheck-guile) - A Flycheck checker for GNU Guile
+- [lazyflymake](https://github.com/redguardtoo/lazyflymake) - Lightweight syntax checker for Emacs, alternative of `flymake-mode'
+- [vimish-fold](https://github.com/seregaxvm/vimish-fold) - Vim-like text folding for Emacs
+- [keg.el](https://github.com/conao3/keg.el) - Modern Elisp package development system
 - [flymake-shellcheck](https://github.com/federicotdn/flymake-shellcheck) - A ShellCheck-powered backend for Flymake
 - [erc-status-sidebar](https://github.com/drewbarbs/erc-status-sidebar) - A hexchat-like activity overview for ERC channels
 - [elmine](https://github.com/leoc/elmine) - Access redmine Rest API via elisp in your favorite editor.
@@ -2681,25 +2690,25 @@
 - [pulseaudio-control](https://github.com/flexibeast/pulseaudio-control) - Control PulseAudio volumes from Emacs, via `pactl`.
 - [racket-mode](https://github.com/greghendershott/racket-mode) - GNU Emacs major modes for Racket: Edit and REPL.
 - [discover.el](https://github.com/mickeynp/discover.el) - Discover more of emacs with context menus!
-- [zombie](https://github.com/zk-phi/zombie) - [Emacs] major mode for editing ZOMBIE programs
-- [scratch-palette](https://github.com/zk-phi/scratch-palette) - [emacs] add notes on each files
-- [phi-rectangle](https://github.com/zk-phi/phi-rectangle) - [emacs] another rectangle-mark command
+- [zombie](https://github.com/zk-phi/zombie) - [Emacs] Major mode for editing ZOMBIE programs
+- [scratch-palette](https://github.com/zk-phi/scratch-palette) - [Emacs] Add notes on each files
+- [phi-rectangle](https://github.com/zk-phi/phi-rectangle) - [Emacs] Another rectangle-mark command
 - [scad-preview](https://github.com/zk-phi/scad-preview) - [Emacs] Preview SCAD models in real-time in Emacs
-- [cedit](https://github.com/zk-phi/cedit) - [emacs] [experimental] paredit-like commands for C-like languages
-- [key-combo-web](https://github.com/zk-phi/key-combo-web) - [Emacs] per-language key(-combo) bindings for web-mode
+- [cedit](https://github.com/zk-phi/cedit) - [Emacs] paredit-like commands for C-like languages
+- [key-combo-web](https://github.com/zk-phi/key-combo-web) - [Emacs] Per-language key(-combo) bindings for web-mode
 - [electric-align](https://github.com/zk-phi/electric-align) - [Emacs] Insert a certain amout of spaces at once to easily align columns
-- [jaword](https://github.com/zk-phi/jaword) - [emacs] minor-mode for handling Japanese words better
-- [scratch-pop](https://github.com/zk-phi/scratch-pop) - [emacs] popup scratch buffer
-- [rpn-calc](https://github.com/zk-phi/rpn-calc) - [emacs] quick RPN calculator for hackers
-- [phi-grep](https://github.com/zk-phi/phi-grep) - [Emacs] interactively-editable recursive grep implementation in elisp
-- [electric-spacing](https://github.com/zk-phi/electric-spacing) - [Emacs] insert spaces automatically between user-defined patterns
-- [include-anywhere](https://github.com/zk-phi/include-anywhere) - [Emacs] include from anywhere
-- [highlight-stages](https://github.com/zk-phi/highlight-stages) - [emacs] highlight staged (quasi-quoted) expressions
-- [git-context-switch](https://github.com/zk-phi/git-context-switch) - [git] context switch for git
+- [jaword](https://github.com/zk-phi/jaword) - [Emacs] Minor-mode for handling Japanese words better
+- [scratch-pop](https://github.com/zk-phi/scratch-pop) - [Emacs] Popup scratch buffer
+- [rpn-calc](https://github.com/zk-phi/rpn-calc) - [Emacs] Handy RPN calculator for hackers
+- [phi-grep](https://github.com/zk-phi/phi-grep) - [Emacs] Interactively-editable recursive grep implementation in elisp
+- [electric-spacing](https://github.com/zk-phi/electric-spacing) - [Emacs] Insert spaces automatically between user-defined patterns
+- [include-anywhere](https://github.com/zk-phi/include-anywhere) - [Emacs] Include from anywhere
+- [highlight-stages](https://github.com/zk-phi/highlight-stages) - [Emacs] Highlight staged (quasi-quoted) expressions
+- [git-context-switch](https://github.com/zk-phi/git-context-switch) - [Git] context switch for git
 - [git-complete](https://github.com/zk-phi/git-complete) - [Emacs] Yet another completion engine powered by "git grep"
-- [key-chord](https://github.com/zk-phi/key-chord) - zk-phi's fork of key-chord with `safety-interval'
-- [togetherly](https://github.com/zk-phi/togetherly) - [Emacs] allow multiple clients to edit a single file on-line
-- [phi-search](https://github.com/zk-phi/phi-search) - [emacs] another incremental search command, compatible with “multiple-cursors”
+- [key-chord](https://github.com/zk-phi/key-chord) - [Emacs] zk-phi's fork of key-chord with `safety-interval'
+- [togetherly](https://github.com/zk-phi/togetherly) - [Emacs] Allow multiple clients to edit a single file on-line
+- [phi-search](https://github.com/zk-phi/phi-search) - [Emacs] Another incremental search command, compatible with “multiple-cursors”
 - [emacs-config](https://github.com/alezost/emacs-config) - My ".emacs"
 - [emms-player-simple-mpv](https://github.com/momomo5717/emms-player-simple-mpv) - An extension of emms-player-simple.el for mpv JSON IPC
 - [lentic](https://github.com/phillord/lentic) - Create views of the same content in two Emacs buffers
@@ -3034,7 +3043,7 @@
 - [emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
 - [spaceline-all-the-icons.el](https://github.com/domtronn/spaceline-all-the-icons.el) - A Spaceline Mode Line theme using All The Icons for Emacs
 - [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
-- [download-region](https://github.com/zk-phi/download-region) - [Emacs] simple in-buffer download manager for Emacs
+- [download-region](https://github.com/zk-phi/download-region) - [Emacs] Simple in-buffer download manager for Emacs
 - [iplayer-el](https://github.com/csrhodes/iplayer-el) - Emacs interface to the BBC's iPlayer (uses get_iplayer)
 - [init-loader](https://github.com/emacs-jp/init-loader) - Original is http://coderepos.org/share/browser/lang/elisp/init-loader/init-loader.el
 - [benchmark-init-el](https://github.com/dholm/benchmark-init-el) - Benchmark your Emacs initialization
@@ -3255,7 +3264,7 @@
 - [orgit](https://github.com/magit/orgit) - Support for Org links to Magit buffers
 - [docker.el](https://github.com/Silex/docker.el) - Manage docker from Emacs.
 - [Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [symon](https://github.com/zk-phi/symon) - [Emacs] tiny graphical system monitor
+- [symon](https://github.com/zk-phi/symon) - [Emacs] Tiny graphical system monitor
 - [eshell-up](https://github.com/peterwvj/eshell-up) - Quickly go to a specific parent directory in eshell
 - [git-modes](https://github.com/magit/git-modes) - Emacs major modes for Git configuration files
 - [git-link](https://github.com/sshaw/git-link) - Emacs package to get the GitHub/Bitbucket/GitLab/... URL for a buffer location
@@ -3264,7 +3273,7 @@
 - [git-gutter-fringe](https://github.com/emacsorphanage/git-gutter-fringe) - Fringe version of git-gutter.el
 - [origami.el](https://github.com/gregsexton/origami.el) - A folding minor mode for Emacs
 - [Highlight-Indentation-for-Emacs](https://github.com/antonj/Highlight-Indentation-for-Emacs) - Minor modes to highlight indentation guides in emacs.
-- [indent-guide](https://github.com/zk-phi/indent-guide) - [emacs] show vertical lines to guide indentation
+- [indent-guide](https://github.com/zk-phi/indent-guide) - [Emacs] Show vertical lines to guide indentation
 - [whitespace-cleanup-mode](https://github.com/purcell/whitespace-cleanup-mode) - In Emacs, intelligently call whitespace-cleanup on save
 - [smart-scan](https://github.com/mickeynp/smart-scan) - Jumps between other symbols found at point in Emacs
 - [web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
@@ -3273,7 +3282,7 @@
 - [ztree](https://github.com/fourier/ztree) - Directory tree comparison mode for Emacs
 - [emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
 - [PG](https://github.com/ProofGeneral/PG) - This repo is the new home of Proof General
-- [magic-latex-buffer](https://github.com/zk-phi/magic-latex-buffer) - [Emacs] magical syntax highlighting for LaTeX-mode buffers
+- [magic-latex-buffer](https://github.com/zk-phi/magic-latex-buffer) - [Emacs] Magical syntax highlighting for LaTeX-mode buffers
 - [expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
 - [blog-admin](https://github.com/xcodebuild/blog-admin) - Write blog in emacs with hexo/org-page/nikola
 - [quelpa](https://github.com/quelpa/quelpa) - Build and install your Emacs Lisp packages on-the-fly directly from source
@@ -3364,7 +3373,7 @@
 - [emacs-ycmd](https://github.com/abingham/emacs-ycmd) - Emacs client for ycmd, the code completion system.
 - [drag-stuff.el](https://github.com/rejeep/drag-stuff.el) - Drag stuff around in Emacs
 - [emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
-- [sublimity](https://github.com/zk-phi/sublimity) - [emacs] smooth-scrolling and minimap like sublime editor
+- [sublimity](https://github.com/zk-phi/sublimity) - [Emacs] Smooth-scrolling and minimap like sublime editor
 - [org-protocol-capture-html](https://github.com/alphapapa/org-protocol-capture-html) - Capture HTML from the browser selection into Emacs as org-mode content
 - [mu4e-maildirs-extension](https://github.com/agpchil/mu4e-maildirs-extension) - Show mu4e maildirs summary in mu4e-main-view
 - [cclookup](https://github.com/tsgates/cclookup) - C++ Reference Document Lookup Mode
@@ -3629,7 +3638,7 @@
 - [v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [longcat](https://github.com/mattn/longcat) - Looooooooooooooooooooooooooooooooooooooooooooooong cat
 - [sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization
-- [inlets-operator](https://github.com/inlets/inlets-operator) - Public IPs for your private Kubernetes Services
+- [inlets-operator](https://github.com/inlets/inlets-operator) - Add a public LoadBalancer to any Kubernetes Service
 - [gitops-engine](https://github.com/argoproj/gitops-engine) - 
 - [docx2md](https://github.com/mattn/docx2md) - Convert Microsoft Word Document to Markdown
 - [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres EXPLAIN ANALYZE output.
@@ -3761,7 +3770,7 @@
 - [monkey](https://github.com/haifenghuang/monkey) - Interpreter with support for class, linq, sql, net, http, fmt, json and A realtime syntax highlighting REPL.
 - [goruby](https://github.com/goruby/goruby) - GoRuby, an implementation of Ruby written in Go
 - [goawk](https://github.com/benhoyt/goawk) - GoAWK: an AWK interpreter written in Go
-- [joker](https://github.com/candid82/joker) - Small Clojure interpreter and linter
+- [joker](https://github.com/candid82/joker) - Small Clojure interpreter, linter and formatter.
 - [yaegi](https://github.com/containous/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [oh](https://github.com/michaelmacinnis/oh) - A new Unix shell.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing
@@ -4425,7 +4434,7 @@
 - [geordi](https://github.com/Eelis/geordi) - IRC C++ eval bot
 - [summoner](https://github.com/kowainik/summoner) - 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects
 - [nixpkgs-update](https://github.com/ryantm/nixpkgs-update) - Updating nixpkgs packages since 2018
-- [obelisk](https://github.com/obsidiansystems/obelisk) - Obelisk provides an easy way to develop and deploy your Reflex project for web and mobile
+- [obelisk](https://github.com/obsidiansystems/obelisk) - Obelisk is an opinionated, batteries-included framework for building production-ready web and mobile applications in Haskell.
 - [haskell-language-server](https://github.com/haskell/haskell-language-server) - Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
 - [hnix-store](https://github.com/haskell-nix/hnix-store) - Haskell implementation of the nix store API
 - [duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
@@ -4990,6 +4999,7 @@
 - [live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 - [AutoFullscreen](https://github.com/tazeat/AutoFullscreen) - 
 - [ModernKiosk](https://github.com/racketlogger/ModernKiosk) - Kiosk-like WebExtension for Firefox
+- [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [userChrome.js](https://github.com/ardiman/userChrome.js) - Skripte für die Firefox-Erweiterung userChromeJS
 - [entropic](https://github.com/entropic-dev/entropic) - 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
@@ -5659,6 +5669,7 @@
 - [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [twemoji-color-font](https://github.com/eosrei/twemoji-color-font) - Twitter Unicode 12 emoji color SVGinOT font for Linux/MacOS/Windows
 - [ports](https://github.com/openbsd/ports) - Public git conversion mirror of OpenBSD's official cvs ports repository. Pull requests not accepted - send diffs to the ports@ mailing list.
+- [docker-ce-packaging](https://github.com/docker/docker-ce-packaging) - Packaging scripts for Docker CE
 - [terraform-makefile](https://github.com/pgporada/terraform-makefile) - Helps me actually use terraform for multiple environments
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
 - [browserpass-native](https://github.com/browserpass/browserpass-native) - Browserpass native client app
@@ -5725,7 +5736,7 @@
 - [php-sbeditor](https://github.com/svanderburg/php-sbeditor) - Simple embeddable HTML editor
 - [static-haskell-nix](https://github.com/nh2/static-haskell-nix) - easily build most Haskell programs into fully static Linux executables
 - [nixflk](https://github.com/nrdxp/nixflk) - highly structured NixOS configuration database
-- [reflex-platform](https://github.com/reflex-frp/reflex-platform) - Reflex FRP is a composable, cross-platform functional reactive programming framework for Haskell.  It allows you to build interactive components in pure functional style, working in harmony with established Haskell techniques and improving the quality and elegance of your applications.
+- [reflex-platform](https://github.com/reflex-frp/reflex-platform) - reflex-platform is a curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.
 - [mobile-nixos](https://github.com/NixOS/mobile-nixos) - Questions? #nixos-aarch64 (or #nixos) on Freenode!
 - [nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
@@ -6070,7 +6081,6 @@
 - [awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 - [awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
-- [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - Android performance optimization  tutorials, videos and tools list(Android性能优化视频，文档以及工具)
 - [awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
@@ -6566,7 +6576,7 @@
 - [CORS-vulnerable-Lab](https://github.com/incredibleindishell/CORS-vulnerable-Lab) - Sample vulnerable code and its exploit code
 - [speed-demon](https://github.com/littlebizzy/speed-demon) - A powerful bundle of lightweight tweaks that drastically improve the loading speed of WordPress by reducing bloat and improving overall efficiency.
 - [WebShell](https://github.com/xl7dev/WebShell) - Webshell && Backdoor Collection
-- [social](https://github.com/nextcloud/social) - 🎉 Nextcloud becomes part of the federated social networks!
+- [social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [planiverse](https://github.com/FuzzJunket/planiverse) - A minimalist, no-JS front-end for Mastodon.
 - [easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 - [laravel-backup](https://github.com/spatie/laravel-backup) - A package to backup your Laravel app
@@ -6816,6 +6826,8 @@
 
 ## Python 
 
+- [pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
+- [fabtools](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files
 - [Keebie](https://github.com/robinuniverse/Keebie) - Easy Second Keyboard support in Linux (With layers!)
 - [shotlooter](https://github.com/utkusen/shotlooter) - a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
 - [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
@@ -7134,7 +7146,7 @@
 - [BillCipher](https://github.com/GitHackTools/BillCipher) - Information Gathering tool for a Website or IP address
 - [yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [docker-label-inspector](https://github.com/garethr/docker-label-inspector) - Docker Label Inspector is a tool to help ensure you're providing your Docker images with the metadata they will need out in the wilds of the internet.
-- [webrecorder](https://github.com/webrecorder/webrecorder) - Web Archiving For All!
+- [conifer](https://github.com/webrecorder/conifer) - Collect and revisit web pages.
 - [LeakLooker](https://github.com/woj-ciech/LeakLooker) - Find open databases - Powered by Binaryedge.io
 - [grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
 - [handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
@@ -8406,6 +8418,7 @@
 
 ## Rust 
 
+- [topngx](https://github.com/gsquire/topngx) - top for NGINX
 - [dyn-wall-rs](https://github.com/RAR27/dyn-wall-rs) - Helps user set a dynamic wallpaper and lockscreen.
 - [nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix store --query --tree`
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
@@ -8839,7 +8852,7 @@
 - [shml](https://github.com/odb/shml) - SHell Markup Language | Style Framework for The Terminal
 - [unifi-pfsense](https://github.com/gozoinks/unifi-pfsense) - A script that installs the UniFi Controller software on pfSense and other FreeBSD systems
 - [ipset-blacklist](https://github.com/trick77/ipset-blacklist) - A bash script to ban large numbers of IP addresses published in blacklists.
-- [tldr](https://github.com/raylee/tldr) - Simplified and community-driven man pages
+- [tldr-sh-client](https://github.com/raylee/tldr-sh-client) - Simplified and community-driven man pages
 - [graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
 - [ddos-deflate](https://github.com/jgmdev/ddos-deflate) - Fork of DDoS Deflate with fixes, improvements and new features.
 - [demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment.
@@ -8871,9 +8884,8 @@
 - [docker2singularity](https://github.com/singularityhub/docker2singularity) - A docker image for converting docker images to singularity images.
 - [bspwm_border_color](https://github.com/Kody-Quintana/bspwm_border_color) - VIM mode indicator for bspwm
 - [docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
-- [shoreman](https://github.com/chrismytton/shoreman) - foreman in shell
+- [shoreman](https://github.com/chrismytton/shoreman) - :shell: foreman in shell
 - [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
-- [docker-ce-packaging](https://github.com/docker/docker-ce-packaging) - Packaging scripts for Docker CE
 - [polygott](https://github.com/replit/polygott) - Base Docker image for the Repl.it evaluation server
 - [DB-based-replicated-filesystem](https://github.com/samzyy/DB-based-replicated-filesystem) - 
 - [ttcopy](https://github.com/greymd/ttcopy) - Provide copying and pasting within multiple hosts through the Web.
@@ -9224,7 +9236,7 @@
 - [blog](https://github.com/mattalcock/blog) - My personal blog
 - [baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [gentoo](https://github.com/gentoo/gentoo) - [MIRROR] Official Gentoo ebuild repository
-- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [mac-dev-setup](https://github.com/nicolashery/mac-dev-setup) - A beginner's guide to setting up a development environment on macOS
 - [docker-brew-mageia](https://github.com/juanluisbaptiste/docker-brew-mageia) - Scripts and files to create Mageia official docker base images.
@@ -9575,7 +9587,7 @@
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder used by 60k+ developers (web alternative to Postman) https://postwoman.io
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
