@@ -3525,6 +3525,37 @@
 
 ## Go 
 
+- [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
+- [pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
+- [livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
+- [nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework
+- [hacks](https://github.com/tomnomnom/hacks) - A collection of hacks and one-off scripts
+- [triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
+- [trumail](https://github.com/trumail/trumail) - :email: :white_check_mark: A Fast and Free Email Verification API written in Go
+- [alfred-web-searches](https://github.com/nikitavoloboev/alfred-web-searches) - Alfred workflow to search through any website (easily extendable list)
+- [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
+- [air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
+- [dnsfs](https://github.com/benjojo/dnsfs) - Store your data in others DNS revolvers cache
+- [fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
+- [gendry](https://github.com/didi/gendry) - a golang library for sql builder
+- [fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
+- [go-bindata](https://github.com/go-bindata/go-bindata) - Turn data file into go code.
+- [go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
+- [bed](https://github.com/itchyny/bed) - Binary editor written in Go
+- [termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
+- [jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
+- [app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
+- [kaf](https://github.com/birdayz/kaf) - Modern CLI for Apache Kafka, written in Go.
+- [shellz](https://github.com/evilsocket/shellz) - shellz is a small utility to track and control your ssh, telnet, web and custom shells and tunnels.
+- [go-sniffer](https://github.com/40t/go-sniffer) - 🔎Sniffing and parsing mysql,redis,http,mongodb etc protocol. 抓包截取项目中的数据库请求并解析成相应的语句。
+- [parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
+- [GTRS](https://github.com/mthbernardes/GTRS) - GTRS - Google Translator Reverse Shell
+- [pingtunnel](https://github.com/esrrhs/pingtunnel) - 流量转发加速工具.a tool that advertises tcp/udp/socks5 traffic as icmp traffic for forwarding.
+- [uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
+- [go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
+- [cordless](https://github.com/Bios-Marcel/cordless) - The Discord terminal client you never knew you wanted.
+- [3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
+- [tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [noverify](https://github.com/VKCOM/noverify) - Pretty fast linter (code static analysis utility) for PHP
 - [grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
@@ -6885,6 +6916,8 @@
 
 ## Python 
 
+- [rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
+- [legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [self-driving-desktop](https://github.com/hofstadter-io/self-driving-desktop) - Desktop Automation Framework. Drive your mouse and keyboard with an easy to use language.
 - [SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
 - [tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
