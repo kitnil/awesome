@@ -176,6 +176,11 @@
 
 ## C 
 
+- [owl](https://github.com/ianh/owl) - A parser generator for visibly pushdown languages.
+- [wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
+- [clib](https://github.com/clibs/clib) - C package manager-ish
+- [C](https://github.com/TheAlgorithms/C) - All Algorithms implemented in C
+- [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [mg](https://github.com/hboetes/mg) - Portable version of the OpenBSD maintained mg, micro emacs clone
 - [binbloom](https://github.com/quarkslab/binbloom) - Raw binary firmware analysis software
@@ -1466,6 +1471,7 @@
 
 ## Clojure 
 
+- [play-cljc](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
 - [hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Clojure
 - [firn](https://github.com/theiceshelf/firn) - Org Mode Static Site Generator
 - [floki](https://github.com/denisidoro/floki) - A JSON/EDN browser for the terminal
@@ -1825,6 +1831,7 @@
 
 ## Emacs Lisp 
 
+- [org-books](https://github.com/lepisma/org-books) - Reading list management with org mode
 - [magit-delta](https://github.com/dandavison/magit-delta) - Use delta (https://github.com/dandavison/delta) when viewing diffs in Magit
 - [doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [icomplete-vertical](https://github.com/oantolin/icomplete-vertical) - Global Emacs minor mode to display icomplete candidates vertically
@@ -3525,6 +3532,10 @@
 
 ## Go 
 
+- [govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
+- [gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
+- [lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code.
+- [dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
 - [pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
@@ -4380,6 +4391,7 @@
 
 ## HTML 
 
+- [ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
 - [docbrowser](https://github.com/lokedhs/docbrowser) - Browse Common Lisp docstrings
 - [easybank-learning-sass](https://github.com/LeonidasEsteban/easybank-learning-sass) - I'm learning sass in a live streaming
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -4664,6 +4676,7 @@
 
 ## Java 
 
+- [validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML, CSS, and SVG
 - [mpv-remote-app](https://github.com/mcastorina/mpv-remote-app) - Android app to control mpv running on another computer
 - [zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [jbot](https://github.com/rampatra/jbot) - Make Slack and Facebook Bots in Java.
@@ -4874,6 +4887,7 @@
 
 ## JavaScript 
 
+- [dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
 - [play-with](https://github.com/grmat/play-with) - WebExtension to open a video stream on a web page with an external player.
 - [torrent-mount](https://github.com/mafintosh/torrent-mount) - Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse. AKA MAD SCIENCE!
 - [variety](https://github.com/variety/variety) - A schema analyzer for MongoDB
@@ -6916,6 +6930,10 @@
 
 ## Python 
 
+- [maya](https://github.com/timofurrer/maya) - Datetimes for Humans™
+- [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
+- [igcommit](https://github.com/innogames/igcommit) - Git pre-receive hook to check commits and code style
+- [flake8](https://github.com/PyCQA/flake8) - The official GitHub mirror of https://gitlab.com/pycqa/flake8
 - [rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
 - [legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [self-driving-desktop](https://github.com/hofstadter-io/self-driving-desktop) - Desktop Automation Framework. Drive your mouse and keyboard with an easy to use language.
@@ -8276,6 +8294,7 @@
 
 ## R 
 
+- [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R
 - [datapasta](https://github.com/MilesMcBain/datapasta) - On top of spaghetti, all covered in cheese....
 - [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
 - [gitsum](https://github.com/lorenzwalthert/gitsum) - parse and summarise git repository history
@@ -8348,6 +8367,8 @@
 
 ## Ruby 
 
+- [reek](https://github.com/troessner/reek) - Code smell detector for Ruby
+- [standard](https://github.com/testdouble/standard) - 🌟 Ruby Style Guide, with linter & automatic code fixer
 - [maphosts](https://github.com/mpscholten/maphosts) - Keeps your project hostnames in sync with /etc/hosts
 - [htty](https://github.com/htty/htty) - htty is the HTTP TTY, a console application for interacting with web servers.
 - [sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
@@ -8524,6 +8545,7 @@
 
 ## Rust 
 
+- [rustodon](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
 - [tztail](https://github.com/thecasualcoder/tztail) - tztail (TimeZoneTAIL) allows you to view logs in the timezone you want
 - [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 - [rua](https://github.com/vn971/rua) - Build tool for Arch Linux providing control, review and jailed build options
@@ -8840,6 +8862,7 @@
 
 ## Shell 
 
+- [PenTestKit](https://github.com/maldevel/PenTestKit) - Useful tools and scripts during Penetration Testing engagements
 - [terraform-makefile](https://github.com/paulRbr/terraform-makefile) - Makefile to use as a simple interface for Terraform
 - [maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
 - [linux-kernel-lab](https://github.com/bannsec/linux-kernel-lab) - Lab Environment For Learning About The Linux Kernel
@@ -9557,6 +9580,9 @@
 
 ## TypeScript 
 
+- [meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
+- [cherow](https://github.com/cherow/cherow) - Very fast and lightweight, standards-compliant, self-hosted javascript parser with high focus on both performance and stability
+- [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [orgajs](https://github.com/orgapp/orgajs) - parse org-mode content into AST
 - [codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
