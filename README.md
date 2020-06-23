@@ -145,6 +145,7 @@
 - [its](https://github.com/PDP-10/its) - Incompatible Timesharing System
 - [x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) - Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup
 - [arpilisp](https://github.com/marcpaq/arpilisp) - A Lisp interpreter for Raspberry Pi implemented in a single ARM assembly file
+- [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [mammon.github.com](https://github.com/mammon/mammon.github.com) - Papers on reverse engineering and assembly language programming
 - [mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
@@ -176,6 +177,7 @@
 
 ## C 
 
+- [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [owl](https://github.com/ianh/owl) - A parser generator for visibly pushdown languages.
 - [wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 - [clib](https://github.com/clibs/clib) - C package manager-ish
@@ -1436,7 +1438,7 @@
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
 - [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [emacs-bootstrap](https://github.com/editor-bootstrap/emacs-bootstrap) - Your on-the-fly Emacs development environment.
-- [blog](https://github.com/felix11h/blog) - Personal blog, "3 Diagrams Per Page". Posts are written in Emacs Org-mode and exported to HTML. The site is generated with Jekyll.
+- [blog](https://github.com/felix11h/blog) - Personal blog, 3 Diagrams Per Page. Written in Emacs Org-mode and exported to HTML as an org-project. Published on GitHub Pages.
 - [literate-programming-examples](https://github.com/limist/literate-programming-examples) - A collection of literate programming examples using Emacs Org mode; these examples are directly usable (copy and start hacking), and/or can serve as educational literate programs.  Clojure will be the preferred language.
 - [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme now lives on at https://github.com/chriskempson/base16
 - [magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
@@ -3591,7 +3593,7 @@
 - [apkurlgrep](https://github.com/ndelphit/apkurlgrep) - Extract endpoints from APK files
 - [stonks](https://github.com/ericm/stonks) - Stonks is a terminal based stock visualizer and tracker that displays realtime stocks in graph format in a terminal. See how fast your stonks will crash.
 - [gopherdance](https://github.com/80at8/gopherdance) - some dancing gophers in your terminal
-- [vssh](https://github.com/yahoo/vssh) - Go library to handle tens of thousands SSH connections and execute the command(s) with higher-level API for building network device / server automation.
+- [vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
 - [containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way
 - [urlprobe](https://github.com/1ndianl33t/urlprobe) - Urls status code & content length checker
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -3720,7 +3722,7 @@
 - [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
 - [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster.
-- [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems
+- [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
 - [gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc)  7天用Go动手写/从零实现系列
 - [k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
@@ -4005,7 +4007,7 @@
 - [minishift](https://github.com/minishift/minishift) - Run OpenShift 3.x locally
 - [stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
-- [Yearning](https://github.com/cookieY/Yearning) - 🦄 A most popular sql audit platform for mysql
+- [Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Prow, Skaffold and Helm
 - [tsuru](https://github.com/tsuru/tsuru) - Open source, extensible and Docker-based Platform as a Service (PaaS).
@@ -4594,7 +4596,6 @@
 - [dynamic](https://github.com/chrisdone/dynamic) - Dynamic typing in Haskell
 - [kit](https://github.com/kitlang/kit) - Kit: a magical, high performance programming language, designed for game development. Pre-alpha!
 - [Ane-Language](https://github.com/caotic123/Ane-Language) - A tool for analyze lambda calculus terms
-- [luna](https://github.com/luna/luna) - Looking for Luna, the WYSIWYG language for data processing? Development has moved :point_right:
 - [givegif](https://github.com/passy/givegif) - GIFs on the command line
 - [unused](https://github.com/joshuaclayton/unused) - Deprecated; see https://github.com/unused-code/unused
 - [xmobar](https://github.com/jaor/xmobar) - A minimalistic, mostly text-based status bar
@@ -5291,7 +5292,6 @@
 - [config-conkeror](https://github.com/thorkill/config-conkeror) - 
 - [player-mode](https://github.com/scottjad/player-mode) - Conkeror page-mode for controlling media players
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
-- [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [craftscape](https://github.com/pyalot/craftscape) - WebGL GPU landscaping and erosion
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
@@ -5414,7 +5414,6 @@
 - [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
 - [Alembic](https://github.com/awkward/Alembic) - ⚗️ Extract a color palette from Sketch images
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [r2](https://github.com/mikeal/r2) - HTTP client. Spiritual successor to request.
 - [Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
@@ -7287,6 +7286,7 @@
 - [cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [packer-build](https://github.com/tylert/packer-build) - Packer Automated VM Image and Vagrant Box Builds
 - [xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
+- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [torf-cli](https://github.com/rndusr/torf-cli) - CLI tool for creating, reading and editing torrent files
 - [torf](https://github.com/rndusr/torf) - Python module to create, parse and edit torrent files and magnet links
@@ -7594,7 +7594,7 @@
 - [remarshal](https://github.com/dbohdan/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
 - [deduplicated](https://github.com/eduardoklosowski/deduplicated) - Check duplicated files
 - [camelot](https://github.com/atlanhq/camelot) - Camelot: PDF Table Extraction for Humans
-- [boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 240+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
+- [boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [dbxfs](https://github.com/rianhunter/dbxfs) - User-space file system for Dropbox
 - [networkx](https://github.com/networkx/networkx) - Official NetworkX source code repository.
 - [yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
@@ -7786,7 +7786,7 @@
 - [domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
-- [uritemplate](https://github.com/python-hyper/uritemplate) - URI template parsing per RFC6750
+- [uritemplate](https://github.com/python-hyper/uritemplate) - URI template parsing per RFC6570
 - [github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 2.7, 3.4, 3.5, 3.6, and 3.7 (and maybe 3.8?)
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
@@ -8776,6 +8776,7 @@
 - [intellij-haskell](https://github.com/rikvdkleij/intellij-haskell) - IntelliJ plugin for Haskell
 - [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [metals](https://github.com/scalameta/metals) - Scala language server with rich IDE features 🚀
+- [luna](https://github.com/luna/luna) - Hybrid visual and textual functional programming.
 - [abandon](https://github.com/hrj/abandon) - :relieved: Simple and Robust Accounting
 - [lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [scaladiagrams](https://github.com/mikeyhu/scaladiagrams) - Generate class diagrams from scala source code
@@ -9156,7 +9157,6 @@
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
-- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
@@ -9688,6 +9688,7 @@
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [staticsitegenerators-website](https://github.com/bevry/staticsitegenerators-website) - Website containing the complete listing of static site generators
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [color-links](https://github.com/therynamo/color-links) - 🔗 Help Individuals With Color Blindness See Visited Links
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
