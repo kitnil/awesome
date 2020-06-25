@@ -345,7 +345,7 @@
 - [littlefs](https://github.com/ARMmbed/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [libfb-bsd](https://github.com/p120ph37/libfb-bsd) - Console framebuffer graphics library for FreeBSD
 - [mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
-- [flecs](https://github.com/SanderMertens/flecs) - A Multithreaded Entity Component System for C89/99 and C++11
+- [flecs](https://github.com/SanderMertens/flecs) - High performance Entity Component System for C89/99 and C++11
 - [2bwm](https://github.com/venam/2bwm) - A fast floating WM written over the XCB library and derived from mcwm.
 - [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - Thin wrapper over Nuklear for Common Lisp
 - [zabbix-module-systemd](https://github.com/cavaliercoder/zabbix-module-systemd) - Native systemd monitoring for Zabbix
@@ -999,7 +999,6 @@
 - [xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World.
 - [stressapptest](https://github.com/stressapptest/stressapptest) - Stressful Application Test - userspace memory and IO test
 - [oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
-- [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy library.
 - [fmit](https://github.com/gillesdegottex/fmit) - Free Music Instrument Tuner (FMIT)
 - [open_spiel](https://github.com/deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 - [pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
@@ -2569,7 +2568,7 @@
 - [syntactic-close](https://github.com/emacs-berlin/syntactic-close) - Insert closing delimiter
 - [volume.el](https://github.com/dbrock/volume.el) - Tweak your loudness with GNU Emacs ("the best Emacs package ever")
 - [org-ql](https://github.com/alphapapa/org-ql) - An Org-mode query language, including search commands and saved views
-- [citeproc-org](https://github.com/andras-simonyi/citeproc-org) - Render Org-mode citations in CSL styles using citeproc-el.
+- [citeproc-org](https://github.com/andras-simonyi/citeproc-org) - Renders Org-mode citations in CSL styles using citeproc-el.
 - [citeproc-el](https://github.com/andras-simonyi/citeproc-el) - A  CSL 1.01 Citation Processor for Emacs.
 - [helm-autoload-commands](https://github.com/emacs-helm/helm-autoload-commands) - Load library and command in runtime.
 - [helm-slime](https://github.com/emacs-helm/helm-slime) - Helm for SLIME
@@ -3927,6 +3926,7 @@
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+- [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy library.
 - [go-getter](https://github.com/hashicorp/go-getter) - Package for downloading things from a string URL using a variety of protocols.
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
@@ -4412,7 +4412,7 @@
 - [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more
 - [CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
-- [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Repo / Main Web Site
+- [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
@@ -4681,6 +4681,7 @@
 
 ## Java 
 
+- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML, CSS, and SVG
 - [mpv-remote-app](https://github.com/mcastorina/mpv-remote-app) - Android app to control mpv running on another computer
 - [zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
@@ -5073,7 +5074,7 @@
 - [slack-toggle-sidebar](https://github.com/marlosoft/slack-toggle-sidebar) - Toggle show or hide Slack's channel sidebar
 - [tanasinn](https://github.com/saitoha/tanasinn) - 三 ┏( ^o^)┛ ＜ Terminal emulator extension for Firefox / Thunderbird / SeaMonkey.
 - [FirefoxColor](https://github.com/mozilla/FirefoxColor) - Theming demo for Firefox Quantum and beyond
-- [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
+- [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
 - [lintnode](https://github.com/keturn/lintnode) - a JSLint server for more expedient linting
 - [orgmodeweb](https://github.com/borablanca/orgmodeweb) - Web app to view, edit and search org files.
 - [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
@@ -6932,6 +6933,7 @@
 
 ## Python 
 
+- [nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the nginx configurations files without cli.
 - [maya](https://github.com/timofurrer/maya) - Datetimes for Humans™
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [igcommit](https://github.com/innogames/igcommit) - Git pre-receive hook to check commits and code style
@@ -6942,7 +6944,7 @@
 - [SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
 - [tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
 - [gilot](https://github.com/hirokidaichi/gilot) - a tool to analyze and visualize git logs.
-- [pathfinder.vim](https://github.com/AlphaMycelium/pathfinder.vim) - Vim plugin which gives suggestions to improve your movements
+- [pathfinder.vim](https://github.com/AlphaMycelium/pathfinder.vim) - Vim plugin to suggest better movements
 - [hardcodes](https://github.com/s0md3v/hardcodes) - find hardcoded strings from source code
 - [isomorphic-copy](https://github.com/ms-jpq/isomorphic-copy) - Cross platform clipboard | networkless! remote copy
 - [unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface and Library to remove silent parts of a media file 🔈
@@ -8867,6 +8869,11 @@
 
 ## Shell 
 
+- [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+- [swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager
+- [dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
+- [HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
+- [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [PenTestKit](https://github.com/maldevel/PenTestKit) - Useful tools and scripts during Penetration Testing engagements
 - [terraform-makefile](https://github.com/paulRbr/terraform-makefile) - Makefile to use as a simple interface for Terraform
 - [maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
