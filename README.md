@@ -660,7 +660,7 @@
 - [GENie](https://github.com/bkaradzic/GENie) - GENie - Project generator tool
 - [undaemonize](https://github.com/nickstenning/undaemonize) - A tiny utility to undaemonize misbehaving programs
 - [fvwm](https://github.com/fvwmorg/fvwm) - Official FVWM repository
-- [godot_headers](https://github.com/GodotNativeTools/godot_headers) - Headers for the Godot API supplied by the GDNative module.
+- [godot_headers](https://github.com/godotengine/godot_headers) - Headers for the Godot API supplied by the GDNative module.
 - [glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [rdesktop](https://github.com/rdesktop/rdesktop) - 🚨 rdesktop is in need of a new maintainter. Please see the home page for more details. 🚨
 - [FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
@@ -1199,7 +1199,6 @@
 - [quickviewer](https://github.com/kanryu/quickviewer) - A image/comic viewer application for Windows, Mac and Linux, it can show images very fast
 - [radiotray-ng](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux
 - [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
-- [xray-oxygen](https://github.com/xrOxygen/xray-oxygen) - :cyclone: Oxygen Engine 2.0. [Preview] Discord: https://discord.gg/P3aMf66
 - [client](https://github.com/owncloud/client) - :computer: Desktop Syncing Client for ownCloud
 - [mame](https://github.com/mamedev/mame) - MAME
 - [gImageReader](https://github.com/manisandro/gImageReader) - A Gtk/Qt front-end to tesseract-ocr.
@@ -1838,6 +1837,9 @@
 
 ## Emacs Lisp 
 
+- [orgit-forge](https://github.com/magit/orgit-forge) - Org links to Forge Issue buffers.
+- [org-generate.el](https://github.com/conao3/org-generate.el) - Generate template files/folders from one org document
+- [sysctl.el](https://github.com/dantecatalfamo/sysctl.el) - Manage sysctl through Emacs
 - [org-books](https://github.com/lepisma/org-books) - Reading list management with org mode
 - [magit-delta](https://github.com/dandavison/magit-delta) - Use delta (https://github.com/dandavison/delta) when viewing diffs in Magit
 - [doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
@@ -3539,6 +3541,8 @@
 
 ## Go 
 
+- [fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
+- [infracost](https://github.com/aliscott/infracost) - Get cost estimates from a Terraform project
 - [govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
 - [gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code.
@@ -3869,7 +3873,7 @@
 - [yaegi](https://github.com/containous/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [oh](https://github.com/michaelmacinnis/oh) - A new Unix shell.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing
-- [unparam](https://github.com/mvdan/unparam) - Find unused function parameters and results in Go code
+- [unparam](https://github.com/mvdan/unparam) - Find unused parameters in Go
 - [image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 - [zygomys](https://github.com/glycerine/zygomys) - Zygo is a Lisp interpreter written in 100% Go. Central use case: dynamically compose Go struct trees in a zygo script, then invoke compiled Go functions on those trees. Makes Go reflection easy.
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -4520,6 +4524,7 @@
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
+- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [pykwiki](https://github.com/nullism/pykwiki) - PyKwiki, a static file Python MarkDown wiki rendered by Jinja2
 - [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 
@@ -4893,6 +4898,7 @@
 
 ## JavaScript 
 
+- [shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
 - [gopassbridge](https://github.com/gopasspw/gopassbridge) - A web extension for firefox and chrome to insert login credentials from gopass
 - [dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
 - [play-with](https://github.com/grmat/play-with) - WebExtension to open a video stream on a web page with an external player.
@@ -5196,7 +5202,7 @@
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The Instant dev environment for modern JavaScript. A faster build system for the modern web.
+- [snowpack](https://github.com/pikapkg/snowpack) - The near-instant build tool for modern web apps.
 - [llthw](https://github.com/LispTO/llthw) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -5336,7 +5342,7 @@
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (June 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2020)
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
 - [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -5569,14 +5575,14 @@
 - [react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 - [chrome-app-samples](https://github.com/GoogleChrome/chrome-app-samples) - Chrome Apps
 - [json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON/JSONP easy to read.
-- [chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) tokens from URL query strings
+- [chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) parameters, and various other click tracking tokens, from URL query strings
 - [chrome-link-copy](https://github.com/ma08/chrome-link-copy) - 
 - [Clean-Feed-for-VK.com](https://github.com/EvgenyOrekhov/Clean-Feed-for-VK.com) - Чистые Новости для VK.com — расширение для Google Chrome, которое очищает захламлённые новости ВКонтакте от отстойных репостов ваших друзей
 - [twitch-now](https://github.com/Ndragomirov/twitch-now) - twitch now extension
 - [hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
 - [Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
-- [enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Chrome extension to display size of each file, download link and copy file contents directly to clipboard
+- [enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Chrome extension to display size of each file, download link and copy file contents directly to the clipboard
 - [atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [Google-Play-Music-Desktop-Player-UNOFFICIAL-](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - A beautiful cross platform Desktop Player for Google Play Music
 - [safe_launcher](https://github.com/maidsafe-archive/safe_launcher) - Node.js App for SAFE Launcher
@@ -5903,6 +5909,8 @@
 
 ## Others 
 
+- [dockerbomb](https://github.com/amoffat/dockerbomb) - Similar to a fork bomb, but for Docker.  A simple experiment in recursive docker images.
+- [senior-software-developer-questions](https://github.com/bmarvinb/senior-software-developer-questions) - A lot of questions and links to get ready for a senior position.
 - [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) - A curated list of Google Earth Engine resources
@@ -6933,6 +6941,12 @@
 
 ## Python 
 
+- [jtbl](https://github.com/kellyjonbrazil/jtbl) - A simple cli tool to print JSON and JSON Lines data as a table in the terminal
+- [nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
+- [Inspect-Shell](https://github.com/amoffat/Inspect-Shell) - Inspect Shell lets you easily use a shell to inspect a process as it's running
+- [pykeylogger](https://github.com/amoffat/pykeylogger) - A pure python keylogger for linux
+- [sh](https://github.com/amoffat/sh) - Python process launching
+- [grap](https://github.com/QuoSecGmbH/grap) - grap: define and match graph patterns within binaries
 - [nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the nginx configurations files without cli.
 - [maya](https://github.com/timofurrer/maya) - Datetimes for Humans™
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
@@ -7292,6 +7306,7 @@
 - [packer-build](https://github.com/tylert/packer-build) - Packer Automated VM Image and Vagrant Box Builds
 - [xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
 - [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [torf-cli](https://github.com/rndusr/torf-cli) - CLI tool for creating, reading and editing torrent files
 - [torf](https://github.com/rndusr/torf) - Python module to create, parse and edit torrent files and magnet links
@@ -7825,7 +7840,7 @@
 - [grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [cumodoro](https://github.com/gisodal/cumodoro) - Curses interface to pomodoro timer
-- [openstack](https://github.com/openstack/openstack) - Repository containing OpenStack repositories
+- [openstack](https://github.com/openstack/openstack) - Repository containing OpenStack repositories. Mirror of code maintained at opendev.org.
 - [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [atmosphere](https://github.com/cyverse/atmosphere) - Where cloud lives.
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
@@ -8080,7 +8095,6 @@
 - [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
-- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [maildir-deduplicate](https://github.com/kdeldycke/maildir-deduplicate) - :e-mail: CLI to deduplicate mails from maildir folders.
@@ -8551,6 +8565,7 @@
 
 ## Rust 
 
+- [TermUI](https://github.com/Teln0/TermUI) - TermUI : A Window manager for the command line.
 - [rustodon](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
 - [tztail](https://github.com/thecasualcoder/tztail) - tztail (TimeZoneTAIL) allows you to view logs in the timezone you want
 - [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
@@ -8792,6 +8807,7 @@
 
 ## Scheme 
 
+- [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
 - [charlie](https://github.com/m455/charlie) - An IRC bot in Chicken Scheme
 - [torrent](https://github.com/o-nly/torrent) - 
 - [texmacs-converter-tm2md](https://github.com/PikachuHy/texmacs-converter-tm2md) - a converter to markdown format for TeXmacs.
@@ -8869,6 +8885,10 @@
 
 ## Shell 
 
+- [txt2regex](https://github.com/aureliojargas/txt2regex) - Regex wizard for the terminal, written in Bash
+- [clitest](https://github.com/aureliojargas/clitest) - Command Line Tester
+- [aviary.sh](https://github.com/team-video/aviary.sh) - Minimal distributed configuration management in bash
+- [drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
 - [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager
 - [dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
@@ -9168,7 +9188,6 @@
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
 - [docker-bitlbee](https://github.com/mbologna/docker-bitlbee) - Run bitlbee with TLS and custom protocols in a container
@@ -9827,6 +9846,7 @@
 
 ## sed 
 
+- [sedsed](https://github.com/aureliojargas/sedsed) - Debugger and code formatter for sed scripts
 - [bach.sed](https://github.com/laserbat/bach.sed) - Bach's prelude in C major from WTC book I, written in pure sed
 
 
