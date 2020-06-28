@@ -183,7 +183,7 @@
 - [owl](https://github.com/ianh/owl) - A parser generator for visibly pushdown languages.
 - [wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 - [clib](https://github.com/clibs/clib) - C package manager-ish
-- [C](https://github.com/TheAlgorithms/C) - All Algorithms implemented in C
+- [C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [mg](https://github.com/hboetes/mg) - Portable version of the OpenBSD maintained mg, micro emacs clone
@@ -280,7 +280,7 @@
 - [crown](https://github.com/dbartolini/crown) - The flexible game engine.
 - [sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
-- [rtty](https://github.com/zhaojh329/rtty) - Access your device's terminal from anywhere via the web.
+- [rtty](https://github.com/zhaojh329/rtty) - Access your terminal from anywhere via the web.
 - [headmore](https://github.com/HouzuoGuo/headmore) - Top geek’s VNC client that runs in Linux terminal (Linux VT console, xterm, and more)
 - [img2xterm](https://github.com/rossy/img2xterm) - Displays images on your 256-color terminal with Unicode block characters.
 - [vde-2](https://github.com/virtualsquare/vde-2) - 
@@ -6188,6 +6188,7 @@
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [book](https://github.com/linuxboot/book) - LinuxBoot book which contains the documentation in markdown format
 - [awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
+- [LeakLooker](https://github.com/woj-ciech/LeakLooker) - Find open databases - Powered by Binaryedge.io
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
@@ -7293,7 +7294,6 @@
 - [yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [docker-label-inspector](https://github.com/garethr/docker-label-inspector) - Docker Label Inspector is a tool to help ensure you're providing your Docker images with the metadata they will need out in the wilds of the internet.
 - [conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
-- [LeakLooker](https://github.com/woj-ciech/LeakLooker) - Find open databases - Powered by Binaryedge.io
 - [grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
 - [handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
 - [UGATIT-pytorch](https://github.com/znxlwm/UGATIT-pytorch) - Official PyTorch implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
