@@ -1804,7 +1804,7 @@
 - [dockerfiles](https://github.com/justinribeiro/dockerfiles) - Various dockerfiles including chrome-headless, lighthouse and other tooling.
 - [docker-nexus](https://github.com/sonatype/docker-nexus) - Docker image for Sonatype Nexus
 - [docker-openresty](https://github.com/openresty/docker-openresty) - Docker tooling for OpenResty
-- [docker-compose.yamls](https://github.com/Trantect/docker-compose.yamls) - Useful services for an IT company or organization.
+- [DevOps-Tools](https://github.com/Trantect/DevOps-Tools) - You know some good tools for a smart company.
 - [giropops-monitoring](https://github.com/badtuxx/giropops-monitoring) - Full stack tools for monitoring containers and other stuff. ;)
 - [docker-symfony](https://github.com/maxpou/docker-symfony) - :whale: A docker multicontainer with NGINX, PHP7-FPM, MySQL and ELK (Elasticsearch Logstash and Kibana)
 - [php-apache-mysql-containerized](https://github.com/mzazon/php-apache-mysql-containerized) - A brief demo of containerizing php apache and mysql with Docker using some best practices.
@@ -3783,6 +3783,7 @@
 - [dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 - [container-web-tty](https://github.com/wrfly/container-web-tty) - Connect your containers via a web-tty
 - [docker-ls](https://github.com/mayflower/docker-ls) - Tools for browsing and manipulating docker registries.
+- [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
@@ -3809,7 +3810,7 @@
 - [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
 - [gosec](https://github.com/securego/gosec) - Golang security checker
 - [nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
-- [go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering
+- [go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering. also shitty static site generator.
 - [wash](https://github.com/puppetlabs/wash) - Wide Area SHell: a cloud-native shell for bringing remote infrastructure to your terminal.
 - [vsh](https://github.com/fishi0x01/vsh) - vsh - HashiCorp Vault interactive shell
 - [tj](https://github.com/sgreben/tj) - stdin line timestamps. single binary, no dependencies. osx & linux & windows. plays well with jq.
@@ -3990,6 +3991,7 @@
 - [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+- [pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
 - [gocode](https://github.com/mdempsky/gocode) - An autocompletion daemon for the Go programming language
 - [godit](https://github.com/nsf/godit) - A very religious text editor
 - [archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
@@ -6025,7 +6027,7 @@
 - [ProjectSoundtracks](https://github.com/sarthology/ProjectSoundtracks) - 🎧 List of best Soundtracks to boost your Productivity and Focus
 - [awesome-list](https://github.com/component-driven/awesome-list) - Curated list of links on component-driven development and design systems
 - [awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions) - Awesome R packages that offer extended UI or server components for the R web framework Shiny
-- [awesome-slack](https://github.com/filipelinhares/awesome-slack) - 🕶️ A list of communities powered by Slack.
+- [awesome-slack](https://github.com/filipelinhares/awesome-slack) - 🕶️  List of communities powered by Slack.
 - [awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome) - My curated list of awesome links, resources and tools on infosec related topics
 - [awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) - A curated list of awesome Fuzzing(or Fuzz Testing) for software security
@@ -7330,7 +7332,6 @@
 - [rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch
 - [urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
 - [ledger-autosync](https://github.com/egh/ledger-autosync) - Synchronize your ledger-cli files with your bank.
-- [pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
 - [machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
 - [pykaldi](https://github.com/pykaldi/pykaldi) - A Python wrapper for Kaldi
 - [tcconfig](https://github.com/thombashi/tcconfig) - A tc command wrapper. Make it easy to set up traffic control of network bandwidth/latency/packet-loss/packet-corruption/etc. to a network-interface/Docker-container(veth).
@@ -9035,7 +9036,7 @@
 - [docker-matrix](https://github.com/silvio/docker-matrix) - docker image for matrix.org
 - [MIDA-Multitool](https://github.com/NullArray/MIDA-Multitool) - Bash script purposed for system enumeration, vulnerability identification and privilege escalation.
 - [hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
-- [Adebar](https://github.com/IzzySoft/Adebar) - Android DEvice Backup And Report, using Bash and ADB
+- [Adebar](https://github.com/IzzySoft/Adebar) - Android DEvice Backup And Report, using Bash and ADB. Moved to https://codeberg.org/izzy/Adebar -- this is only a mirror now.
 - [PE-Linux](https://github.com/WazeHell/PE-Linux) - Linux Privilege Escalation Tool By WazeHell
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu percentage and icon indicator for Tmux.
 - [PartyLoud](https://github.com/realtho/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
@@ -9811,7 +9812,6 @@
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
-- [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
 - [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 60k+ developers. https://postwoman.io
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
