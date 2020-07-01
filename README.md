@@ -159,7 +159,6 @@
 
 ## Awk 
 
-- [sax](https://github.com/jherrlin/sax) - An intuitive way to find your beloved shell commands.
 - [awk-html-generator](https://github.com/333-9/awk-html-generator) - generates html sites from markdown-like syntax
 - [awk-raycaster](https://github.com/TheMozg/awk-raycaster) - Pseudo-3D shooter written completely in gawk using raycasting technique
 - [Log-Dissector](https://github.com/PaulReiber/Log-Dissector) - awk-based tool for extracting knowledge from logfiles
@@ -178,6 +177,7 @@
 
 ## C 
 
+- [emacs-libyaml](https://github.com/syohex/emacs-libyaml) - libyaml binding of Emacs Lisp
 - [proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [owl](https://github.com/ianh/owl) - A parser generator for visibly pushdown languages.
@@ -826,7 +826,7 @@
 - [checkedc](https://github.com/microsoft/checkedc) - Checked C is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses.  This repo has a wiki for Checked C, sample code, the specification, and test code.
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-- [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+- [redis](https://github.com/redis-io/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [gnome-twitch](https://github.com/vinszent/gnome-twitch) - Enjoy Twitch on your GNU/Linux desktop
 - [argparse](https://github.com/cofyc/argparse) - Command-line arguments parsing library.
@@ -1837,6 +1837,8 @@
 
 ## Emacs Lisp 
 
+- [ivy-emms](https://github.com/franburstall/ivy-emms) - Choose and play EMMS tracks with ivy
+- [org-krita](https://github.com/lepisma/org-krita) - Krita sketches in Org
 - [orgit-forge](https://github.com/magit/orgit-forge) - Org links to Forge Issue buffers.
 - [org-generate.el](https://github.com/conao3/org-generate.el) - Generate template files/folders from one org document
 - [sysctl.el](https://github.com/dantecatalfamo/sysctl.el) - Manage sysctl through Emacs
@@ -3541,6 +3543,8 @@
 
 ## Go 
 
+- [read-mongo-logs](https://github.com/kevinburke/read-mongo-logs) - Tail Mongo database logs
+- [terradb](https://github.com/camptocamp/terradb) - A unified database for Terraform data
 - [fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 - [infracost](https://github.com/aliscott/infracost) - Get cost estimates from a Terraform project
 - [govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
@@ -3783,7 +3787,6 @@
 - [dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 - [container-web-tty](https://github.com/wrfly/container-web-tty) - Connect your containers via a web-tty
 - [docker-ls](https://github.com/mayflower/docker-ls) - Tools for browsing and manipulating docker registries.
-- [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
@@ -4689,7 +4692,7 @@
 ## Java 
 
 - [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-- [validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML, CSS, and SVG
+- [validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [mpv-remote-app](https://github.com/mcastorina/mpv-remote-app) - Android app to control mpv running on another computer
 - [zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [jbot](https://github.com/rampatra/jbot) - Make Slack and Facebook Bots in Java.
@@ -5256,7 +5259,7 @@
 - [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts.
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
-- [percollate](https://github.com/danburzo/percollate) - 🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs
+- [percollate](https://github.com/danburzo/percollate) - A command-line tool to make web pages into beautifully formatted PDFs
 - [js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [updatescanner](https://github.com/sneakypete81/updatescanner) - Firefox addon to monitor web pages for updates.
 - [profiler](https://github.com/firefox-devtools/profiler) - Firefox Profiler — Web app for Firefox performance analysis
@@ -5711,7 +5714,7 @@
 - [tmux-filetree](https://github.com/PhilipRoman/tmux-filetree) - Simple, non-intrusive dynamic file tree which always tracks your active Tmux pane
 - [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [mpv-notify-send](https://github.com/emilazy/mpv-notify-send) - A Lua script for mpv to send notifications with notify-send(1).
-- [simple-mpv-webui](https://github.com/open-dynaMIX/simple-mpv-webui) - ...is a web based user interface with controls for the mpv mediaplayer.
+- [simple-mpv-webui](https://github.com/open-dynaMIX/simple-mpv-webui) - A web based user interface with controls for the mpv mediaplayer.
 - [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
 - [nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
@@ -6569,13 +6572,14 @@
 - [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [javascript](https://github.com/GitbookIO/javascript) - GitBook teaching programming basics with Javascript
 - [going-to-production](https://github.com/mtdvio/going-to-production) - A reference checklist for topics which should be covered before going to production.
-- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [CSS-Guidelines](https://github.com/csswizardry/CSS-Guidelines) - High-level guidelines for writing manageable, maintainable CSS
 - [sites-using-cloudflare](https://github.com/pirate/sites-using-cloudflare) - :broken_heart: Archived list of domains using Cloudflare DNS at the time of the CloudBleed announcement.
 - [awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [pydoc](https://github.com/statmobile/pydoc) - Emacs mode for navigating Python documentation through pydoc.
 - [rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
+- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [docker-and-containers-ebooks](https://github.com/thenewstack/docker-and-containers-ebooks) - A series of ebooks on Docker and the container ecosystem.
 - [swcarpentry](https://github.com/swcarpentry/swcarpentry) - A meta-repository to help navigate the many lessons and repos of the Software Carpentry Community
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
@@ -6793,7 +6797,7 @@
 
 ## Perl 
 
-- [iperl](https://github.com/LvMalware/iperl) - Interactive Perl interpreter
+- [iperl](https://github.com/LvMalware/iperl) - Run Perl interactively
 - [ddclient-curl](https://github.com/astlinux-project/ddclient-curl) - Fork of ddclient using curl for network IO
 - [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
 - [apt-mirror](https://github.com/apt-mirror/apt-mirror) - Official apt-mirror source.
@@ -8625,7 +8629,7 @@
 - [autopilot-deno](https://github.com/divy-work/autopilot-deno) - :rocket: Cross-platform desktop automation library for Deno.
 - [glsp](https://github.com/fleabitdev/glsp) - The GameLisp scripting language
 - [topngx](https://github.com/gsquire/topngx) - top for NGINX
-- [dyn-wall-rs](https://github.com/RAR27/dyn-wall-rs) - Helps user set a dynamic wallpaper and lockscreen.
+- [dyn-wall-rs](https://github.com/RAR27/dyn-wall-rs) - Helps user set a dynamic wallpaper and more.
 - [nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix store --query --tree`
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
@@ -8898,6 +8902,7 @@
 - [PenTestKit](https://github.com/maldevel/PenTestKit) - Useful tools and scripts during Penetration Testing engagements
 - [terraform-makefile](https://github.com/paulRbr/terraform-makefile) - Makefile to use as a simple interface for Terraform
 - [maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
+- [sax](https://github.com/jherrlin/sax) - An intuitive way to find your beloved shell commands.
 - [linux-kernel-lab](https://github.com/bannsec/linux-kernel-lab) - Lab Environment For Learning About The Linux Kernel
 - [ssh-agent-relay](https://github.com/anaisbetts/ssh-agent-relay) - Make your WSL installation use your Windows SSH Agent
 - [rofi-chrome](https://github.com/tcode2k16/rofi-chrome) - a browser extension for better tab navigation without injecting javascript code on every tab you open
@@ -9062,7 +9067,7 @@
 - [pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
 - [composure](https://github.com/erichs/composure) - Don't fear the Unix chainsaw
 - [mongo-sync](https://github.com/sheharyarn/mongo-sync) - Sync Remote and Local MongoDB Databases :fire:
-- [gdub](https://github.com/dougborg/gdub) - A gradlew / gradle wrapper.
+- [gdub](https://github.com/gdubw/gdub) - A gradlew / gradle wrapper.
 - [wp-dev-lib](https://github.com/xwp/wp-dev-lib) - 🛠️ Common code used during development of WordPress plugins and themes
 - [lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
 - [systemd-swap](https://github.com/Nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
@@ -9722,7 +9727,6 @@
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [color-links](https://github.com/therynamo/color-links) - 🔗 Help Individuals With Color Blindness See Visited Links
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
-- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
@@ -9812,6 +9816,7 @@
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
+- [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
 - [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 60k+ developers. https://postwoman.io
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
