@@ -5916,7 +5916,7 @@
 ## Others 
 
 - [dockerbomb](https://github.com/amoffat/dockerbomb) - Similar to a fork bomb, but for Docker.  A simple experiment in recursive docker images.
-- [senior-software-developer-questions](https://github.com/bmarvinb/senior-software-developer-questions) - A lot of questions and links to get ready for a senior position.
+- [software-engineer-interview-questions](https://github.com/bmarvinb/software-engineer-interview-questions) - A lot of questions and links to get ready for a senior position.
 - [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) - A curated list of Google Earth Engine resources
@@ -7623,7 +7623,7 @@
 - [camelot](https://github.com/atlanhq/camelot) - Camelot: PDF Table Extraction for Humans
 - [boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [dbxfs](https://github.com/rianhunter/dbxfs) - User-space file system for Dropbox
-- [networkx](https://github.com/networkx/networkx) - Official NetworkX source code repository.
+- [networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
 - [PyFxA](https://github.com/mozilla/PyFxA) - Python library for interacting with the Firefox Accounts ecosystem
 - [awesome-algorithm](https://github.com/apachecn/awesome-algorithm) - 项目永久冻结，迁移至新地址：
@@ -8504,7 +8504,7 @@
 - [awesome-blockchains](https://github.com/openblockchains/awesome-blockchains) - A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized.
 - [rails](https://github.com/rails/rails) - Ruby on Rails
 - [octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
-- [sonic-pi](https://github.com/samaaron/sonic-pi) - Code. Music. Live.
+- [sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [puppet-lint](https://github.com/rodjek/puppet-lint) - Check that your Puppet manifests conform to the style guide
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
