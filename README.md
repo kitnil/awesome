@@ -177,6 +177,9 @@
 
 ## C 
 
+- [yad](https://github.com/v1cont/yad) - Yet Another Dialog
+- [xtmon](https://github.com/vimist/xtmon) - An EWMH compliant X window title monitoring tool.
+- [mustardwatch](https://github.com/shachaf/mustardwatch) - Detect what files a program uses and rerun it when they change
 - [emacs-libyaml](https://github.com/syohex/emacs-libyaml) - libyaml binding of Emacs Lisp
 - [proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
@@ -1537,6 +1540,7 @@
 
 ## Common Lisp 
 
+- [teddy](https://github.com/40ants/teddy) - A data framework for Common Lisp
 - [cl-covid19](https://github.com/dnaeon/cl-covid19) - Explore COVID-19 data in Common Lisp
 - [cl-ledger](https://github.com/ledger/cl-ledger) - Port of the Ledger accounting system (see project "ledger") to Common Lisp
 - [hypertest](https://github.com/fouric/hypertest) - automatically run tests when redefining common lisp functions
@@ -1752,6 +1756,7 @@
 
 ## Dockerfile 
 
+- [golang-docker-cache](https://github.com/montanaflynn/golang-docker-cache) - Improved docker Golang module dependency cache for faster builds.
 - [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [kde-in-docker](https://github.com/ms-jpq/kde-in-docker) - So you can run KDE inside a browser
 - [Find-Python-syntax-errors-action](https://github.com/cclauss/Find-Python-syntax-errors-action) - A GitHub Action that finds Python syntax errors and undefined names in your repo
@@ -1849,7 +1854,7 @@
 - [valign](https://github.com/casouri/valign) - Pixel-perfect visual alignment for Org and Markdown tables.
 - [flycheck-guile](https://github.com/flatwhatson/flycheck-guile) - A Flycheck checker for GNU Guile
 - [lazyflymake](https://github.com/redguardtoo/lazyflymake) - Lightweight syntax checker for Emacs, alternative of `flymake-mode'
-- [vimish-fold](https://github.com/seregaxvm/vimish-fold) - Vim-like text folding for Emacs
+- [vimish-fold](https://github.com/matsievskiysv/vimish-fold) - Vim-like text folding for Emacs
 - [keg.el](https://github.com/conao3/keg.el) - Modern Elisp package development system
 - [flymake-shellcheck](https://github.com/federicotdn/flymake-shellcheck) - A ShellCheck-powered backend for Flymake
 - [erc-status-sidebar](https://github.com/drewbarbs/erc-status-sidebar) - A hexchat-like activity overview for ERC channels
@@ -1863,7 +1868,7 @@
 - [emacs-retrie](https://github.com/Ailrun/emacs-retrie) - An Emacs package to refactor Haskell code with retrie
 - [organic-green-theme](https://github.com/kostafey/organic-green-theme) - Low-contrast green color theme for Emacs.
 - [emacs](https://github.com/masm11/emacs) - Mirror of GNU Emacs
-- [explain-pause-mode](https://github.com/lastquestion/explain-pause-mode) - Emacs minor mode that watches for long pauses and reports them.
+- [explain-pause-mode](https://github.com/lastquestion/explain-pause-mode) - top, but for Emacs.
 - [envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
 - [embark](https://github.com/oantolin/embark) - Emacs Mini-Buffer Actions Rooted in Keymaps
 - [live-completions](https://github.com/oantolin/live-completions) - Live updating of the *Completions* buffer
@@ -3543,6 +3548,11 @@
 
 ## Go 
 
+- [grafana-kiosk](https://github.com/grafana/grafana-kiosk) - Kiosk Utility for Grafana
+- [memplot](https://github.com/0x0f0f0f/memplot) - Generate image plots of processes' memory usage very quickly, within a single binary.
+- [sql2slack](https://github.com/alash3al/sql2slack) - send sql results periodically to slack
+- [obs-wormhole](https://github.com/pion/obs-wormhole) - Supercharge OBS with WebRTC. Remote WebRTC Sources and Serverless Broadcasting
+- [gitqlite](https://github.com/augmentable-dev/gitqlite) - Query git repositories with SQL. Uses SQLite virtual tables and go-git
 - [read-mongo-logs](https://github.com/kevinburke/read-mongo-logs) - Tail Mongo database logs
 - [terradb](https://github.com/camptocamp/terradb) - A unified database for Terraform data
 - [fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
@@ -4535,6 +4545,7 @@
 
 ## Haskell 
 
+- [nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of your Nix derivations.
 - [retrie](https://github.com/facebookincubator/retrie) - Retrie is a powerful, easy-to-use codemodding tool for Haskell.
 - [pretty-simple](https://github.com/cdepillabout/pretty-simple) - pretty-printer for Haskell data types that have a Show instance
 - [termonad](https://github.com/cdepillabout/termonad) - Terminal emulator configurable in Haskell.
@@ -4903,6 +4914,7 @@
 
 ## JavaScript 
 
+- [postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS, Linux and Windows
 - [shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
 - [gopassbridge](https://github.com/gopasspw/gopassbridge) - A web extension for firefox and chrome to insert login credentials from gopass
 - [dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
@@ -5915,6 +5927,9 @@
 
 ## Others 
 
+- [awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software
+- [tcpip-study](https://github.com/chenshuo/tcpip-study) - Shuo's learning notes on Linux TCP/IP stack
+- [fetch-all-the-things](https://github.com/domsson/fetch-all-the-things) - A list of *nix fetch utilities
 - [dockerbomb](https://github.com/amoffat/dockerbomb) - Similar to a fork bomb, but for Docker.  A simple experiment in recursive docker images.
 - [software-engineer-interview-questions](https://github.com/bmarvinb/software-engineer-interview-questions) - A lot of questions and links to get ready for a senior position.
 - [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
@@ -6949,6 +6964,13 @@
 
 ## Python 
 
+- [pdiff](https://github.com/netspooky/pdiff) - Binary Protocol Differ
+- [Text-file-to-handwritten-pdf-file](https://github.com/sharanya02/Text-file-to-handwritten-pdf-file) - Converts a text file to a handwritten pdf file.
+- [cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
+- [WhatsApp-Scheduler](https://github.com/XtremePwnership/WhatsApp-Scheduler) - Schedule WhatsApp messages using a Telegram Bot.
+- [pygooglenews](https://github.com/kotartemiy/pygooglenews) - If Google News had a Python library
+- [degoogle](https://github.com/deepseagirl/degoogle) - search Google and extract results directly. skip all the click-through links and other sketchiness
+- [parso](https://github.com/davidhalter/parso) - A Python Parser
 - [jtbl](https://github.com/kellyjonbrazil/jtbl) - A simple cli tool to print JSON and JSON Lines data as a table in the terminal
 - [nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 - [Inspect-Shell](https://github.com/amoffat/Inspect-Shell) - Inspect Shell lets you easily use a shell to inspect a process as it's running
@@ -7070,7 +7092,7 @@
 - [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection research papers with implementations.
 - [image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
 - [music-dl](https://github.com/0xHJK/music-dl) - search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐、咪咕音乐等搜索和下载歌曲
-- [bullet](https://github.com/Mckinsey666/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
+- [bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [wesng](https://github.com/bitsadmin/wesng) - Windows Exploit Suggester - Next Generation
 - [lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [mathematics_dataset](https://github.com/deepmind/mathematics_dataset) - This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
@@ -7464,7 +7486,7 @@
 - [pycycle](https://github.com/bndr/pycycle) - Tool for pinpointing circular imports in Python. Find cyclic imports in any project
 - [ascii_py](https://github.com/ProfOak/ascii_py) - Make some ascii arts
 - [jinja2-cli](https://github.com/mattrobenolt/jinja2-cli) - CLI for Jinja2
-- [vocabs](https://github.com/Mckinsey666/vocabs) - 📚 A lightweight online dictionary integration to the command line. No browsers. No paperbacks.
+- [vocabs](https://github.com/bchao1/vocabs) - 📚 A lightweight online dictionary integration to the command line. No browsers. No paperbacks.
 - [crudini](https://github.com/pixelb/crudini) - A utility for manipulating ini files
 - [lyricwikia](https://github.com/enricobacis/lyricwikia) - Python API to get song lyrics from LyricWikia
 - [spotify-cli-linux](https://github.com/pwittchen/spotify-cli-linux) - 🎶 A command line interface to Spotify on Linux
@@ -8891,6 +8913,18 @@
 
 ## Shell 
 
+- [bash-preprocessor](https://github.com/dodie/bash-preprocessor) - replace Bash snippets in a script file with their output
+- [minirss](https://github.com/132ikl/minirss) - A minuscule RSS notifier
+- [sticky-notes](https://github.com/tom-on-the-internet/sticky-notes) - Sticky Notes on your tiling window manager
+- [nginx-rtmp](https://github.com/theonemule/nginx-rtmp) - A containerize NGINX server with the RTMP plugin to allow live streams to multiple providers such as Twitch, Facebook, or YouTube simultaneously from a single source.
+- [scripthunter](https://github.com/robre/scripthunter) - Tool to find JavaScript files on Websites
+- [bash-server](https://github.com/wf-yamaday/bash-server) - A simple web server with ShellScript (Bash).
+- [centerText](https://github.com/Teledurak/centerText) - Center your text easily with this bash script
+- [pod-tcpdump](https://github.com/pbertera/pod-tcpdump) - 
+- [rofi-blurry-powermenu](https://github.com/lu0/rofi-blurry-powermenu) - Blurry fullscreen Powermenu for Rofi
+- [dohot](https://github.com/alecmuffett/dohot) - DoHoT: making practical use of DNS over HTTPS over Tor
+- [get-gitlab-forks](https://github.com/yurug/get-gitlab-forks) - Retrieve all the forks of a gitlab project
+- [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release as seen on YouTube
 - [txt2regex](https://github.com/aureliojargas/txt2regex) - Regex wizard for the terminal, written in Bash
 - [clitest](https://github.com/aureliojargas/clitest) - Command Line Tester
 - [aviary.sh](https://github.com/team-video/aviary.sh) - Minimal distributed configuration management in bash
@@ -9617,6 +9651,7 @@
 
 ## TypeScript 
 
+- [rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire:
 - [meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 - [cherow](https://github.com/cherow/cherow) - Very fast and lightweight, standards-compliant, self-hosted javascript parser with high focus on both performance and stability
 - [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
