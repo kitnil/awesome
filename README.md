@@ -1842,6 +1842,9 @@
 
 ## Emacs Lisp 
 
+- [logstash-sample-mode](https://github.com/chester755/logstash-sample-mode) - logstash-conf-mode recreated version
+- [pytest-emacs](https://github.com/antocuni/pytest-emacs) - 
+- [company-tip](https://github.com/liushihao456/company-tip) - Popup documentation for completion candidates using emacs overlays
 - [ivy-emms](https://github.com/franburstall/ivy-emms) - Choose and play EMMS tracks with ivy
 - [org-krita](https://github.com/lepisma/org-krita) - Krita sketches in Org
 - [orgit-forge](https://github.com/magit/orgit-forge) - Org links to Forge Issue buffers.
@@ -3548,6 +3551,11 @@
 
 ## Go 
 
+- [xtermcolor](https://github.com/tomnomnom/xtermcolor) - Golang package and command to convert color.Colour to the nearest xterm/bash/shell color
+- [comb](https://github.com/tomnomnom/comb) - Combine the lines from two files in every combination
+- [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers
+- [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
+- [gf](https://github.com/tomnomnom/gf) - A wrapper around grep, to help you grep for things
 - [grafana-kiosk](https://github.com/grafana/grafana-kiosk) - Kiosk Utility for Grafana
 - [memplot](https://github.com/0x0f0f0f/memplot) - Generate image plots of processes' memory usage very quickly, within a single binary.
 - [sql2slack](https://github.com/alash3al/sql2slack) - send sql results periodically to slack
@@ -4702,6 +4710,7 @@
 
 ## Java 
 
+- [directory-watcher](https://github.com/gmethvin/directory-watcher) - A cross-platform Java recursive directory watcher, with a JNA macOS watcher and Scala better-files integration
 - [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [mpv-remote-app](https://github.com/mcastorina/mpv-remote-app) - Android app to control mpv running on another computer
@@ -5360,7 +5369,7 @@
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2020)
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
 - [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -5791,6 +5800,7 @@
 ## Makefile 
 
 - [awesome-dtrace](https://github.com/xen0l/awesome-dtrace) - A curated list of awesome DTrace books, articles, videos, tools and resources.
+- [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [twemoji-color-font](https://github.com/eosrei/twemoji-color-font) - Twitter Unicode 12 emoji color SVGinOT font for Linux/MacOS/Windows
 - [ports](https://github.com/openbsd/ports) - Public git conversion mirror of OpenBSD's official cvs ports repository. Pull requests not accepted - send diffs to the ports@ mailing list.
@@ -6127,7 +6137,6 @@
 - [books](https://github.com/learn-anything/books) - Awesome Books
 - [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
-- [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [awesome-fish](https://github.com/jorgebucaran/awesome-fish) - A curated list of packages, prompts, and resources for the fish shell.
 - [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection
 - [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
@@ -6964,6 +6973,7 @@
 
 ## Python 
 
+- [apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 - [pdiff](https://github.com/netspooky/pdiff) - Binary Protocol Differ
 - [Text-file-to-handwritten-pdf-file](https://github.com/sharanya02/Text-file-to-handwritten-pdf-file) - Converts a text file to a handwritten pdf file.
 - [cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
@@ -8593,6 +8603,17 @@
 
 ## Rust 
 
+- [fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
+- [realm](https://github.com/zhboner/realm) - A network relay tool
+- [vimnail](https://github.com/TanTanDev/vimnail) - A vim like image editor, for creating thumbnails, or even animated thumbnails. Written in Rust
+- [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
+- [wwm](https://github.com/TimUntersberger/wwm) - Windows window manager
+- [gtkwhats](https://github.com/gigitux/gtkwhats) - A simple wrapper written in rust and gtk-rs for whatsapp web
+- [jtab](https://github.com/wlezzar/jtab) - Print any json data as a table from the command line
+- [vim-tips-wiki](https://github.com/DanilaMihailov/vim-tips-wiki) - 1500+ tips downloaded from Vim Tips Wiki, parsed and formatted to look and work like native Vim help files
+- [repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
+- [drep](https://github.com/maxpert/drep) - dynamic regular expression print
+- [so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 - [TermUI](https://github.com/Teln0/TermUI) - TermUI : A Window manager for the command line.
 - [rustodon](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
 - [tztail](https://github.com/thecasualcoder/tztail) - tztail (TimeZoneTAIL) allows you to view logs in the timezone you want
@@ -8636,7 +8657,7 @@
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [commit_artist](https://github.com/rnitta/commit_artist) - Beautify Your Git Commits.
 - [fast_rsync](https://github.com/dropbox/fast_rsync) - An optimized implementation of librsync in pure Rust.
-- [gitui](https://github.com/extrawurst/gitui) - blazing fast terminal-ui for git written in rust
+- [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [explaine.rs](https://github.com/jrvidal/explaine.rs) - An interactive Rust syntax playground
 - [dirscan](https://github.com/orf/dirscan) - A high performance tool for summarizing large directories or drives
 - [gitout](https://github.com/JakeWharton/gitout) - A command-line tool and Docker image to automatically backup Git repositories from GitHub or anywhere
@@ -8646,7 +8667,7 @@
 - [dmux](https://github.com/zdcthomas/dmux) - A tmux workspace manager
 - [ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
 - [rash](https://github.com/rash-sh/rash) - Declarative shell scripting container oriented
-- [blindfold](https://github.com/Eoin-McMahon/blindfold) - 📑 Gitignore file generator written in rust
+- [blindfold](https://github.com/Eoin-McMahon/blindfold) - 🔎 Gitignore file generator written in rust
 - [i3-bindings](https://github.com/tupini07/i3-bindings) - Simple tool that reads the i3 config files and shows a table with the bindings defined therein
 - [learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
 - [autopilot-deno](https://github.com/divy-work/autopilot-deno) - :rocket: Cross-platform desktop automation library for Deno.
@@ -8913,6 +8934,21 @@
 
 ## Shell 
 
+- [latest-releases](https://github.com/nickjj/latest-releases) - A command line tool that lets you keep tabs on the latest releases of your favorite tools and libraries.
+- [gen_perl](https://github.com/purpleroc/gen_perl) - A script to generate perl script for execute ELF in memory.
+- [ssrt](https://github.com/budlabs/ssrt) - Wrapper script for Simplescreenrecorder
+- [crystal](https://github.com/salman-abedin/crystal) - Window manager agnostic clear transparent workflow for Unix
+- [runc](https://github.com/alcover/runc) - compile and run C code
+- [termux-archlinux](https://github.com/Flytreels/termux-archlinux) - Run ArchLinux in Termux.
+- [qsreplace](https://github.com/tomnomnom/qsreplace) - Accept URLs on stdin, replace all query string values with a user-supplied value
+- [findom-xss](https://github.com/dwisiswant0/findom-xss) - A fast DOM based XSS vulnerability scanner with simplicity.
+- [prepycheck](https://github.com/daorejuela1/prepycheck) - Script to check content of .py files
+- [apply](https://github.com/lloeki/apply) - Simple zero-dependency tool to provision *nix machines
+- [madsw](https://github.com/MinimalAndroidDevelopment/madsw) - Mad showcase. A minimal android application that uses neovim(Instead of android studio) and madpm(instead of gradle).
+- [tmux-translator](https://github.com/sainnhe/tmux-translator) - Tmux translation plugin powered by popup window.
+- [audio_augment](https://github.com/zhaoyi2/audio_augment) - A tool/script for batch speech data enhancement
+- [tofu](https://github.com/periish/tofu) - Tofu window manager for X11.
+- [LinuxPostInstalls](https://github.com/Lennoard/LinuxPostInstalls) - Linux post-install scripts
 - [bash-preprocessor](https://github.com/dodie/bash-preprocessor) - replace Bash snippets in a script file with their output
 - [minirss](https://github.com/132ikl/minirss) - A minuscule RSS notifier
 - [sticky-notes](https://github.com/tom-on-the-internet/sticky-notes) - Sticky Notes on your tiling window manager
