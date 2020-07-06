@@ -922,6 +922,7 @@
 
 ## C++ 
 
+- [crawl](https://github.com/crawl/crawl) - Dungeon Crawl: Stone Soup official repository
 - [robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
 - [Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5) - A cross-platform socks5/http/ss/ssr/vmess/trojan/snell GUI client based on Shadowsocks-qt5.
 - [pridecat](https://github.com/lunasorcery/pridecat) - 🏳️‍🌈 Like cat but more colorful! ✨
@@ -1785,7 +1786,7 @@
 - [nginx-unit-nodejs](https://github.com/mrchoke/nginx-unit-nodejs) - Demo app for Nginx Unit NodeJs
 - [Dockerfile](https://github.com/jumpserver/Dockerfile) - Jumpserver all in one Dockerfile
 - [docker-bitlbee-libpurple](https://github.com/ezkrg/docker-bitlbee-libpurple) - bitlbee with libpurple and plugins
-- [shpod](https://github.com/jpetazzo/shpod) - Container image to get a consistent training environment to work on Kubernetes
+- [shpod](https://github.com/jpetazzo/shpod) - Container image to get a consistent training environment to work on Kubernetes.
 - [docker-alpine](https://github.com/smebberson/docker-alpine) - Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers.
 - [webdav](https://github.com/tadly/webdav) - Docker: A alpine linux based webdav server.
 - [syncthing-srv](https://github.com/tadly/syncthing-srv) - Docker: A alpine linux based syncthing relay and discovery server.
@@ -1842,6 +1843,16 @@
 
 ## Emacs Lisp 
 
+- [newline-dwim](https://github.com/emacs-php/newline-dwim) - Insert a newline and DWIM characters
+- [robots-txt-mode](https://github.com/emacs-php/robots-txt-mode) - Emacs major mode for editing robots.txt
+- [phpactor.el](https://github.com/emacs-php/phpactor.el) - Interface to Phpactor (an intelligent code-completion and refactoring tool for PHP)
+- [jetbrains.el](https://github.com/emacs-php/jetbrains.el) - Emacs-JetBrains IDE bridge
+- [ob-html-chrome](https://github.com/nikclayton/ob-html-chrome) - Export Org HTML SRC blocks as PNG files using Chrome in "headless" mode.
+- [ob-translate](https://github.com/stardiviner/ob-translate) - Allows you to translate blocks of text within org-mode.
+- [emacs-bump-version](https://github.com/atykhonov/emacs-bump-version) - Bump version via Emacs
+- [org-link-beautify](https://github.com/stardiviner/org-link-beautify) - Beautify org links with colors and icons.
+- [arduino-mode](https://github.com/stardiviner/arduino-mode) - Emacs major mode for editing Arduino sketches.
+- [emacs-rainbow-fart](https://github.com/stardiviner/emacs-rainbow-fart) - 一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。Inspired from vscode-rainbow-fart
 - [logstash-sample-mode](https://github.com/chester755/logstash-sample-mode) - logstash-conf-mode recreated version
 - [pytest-emacs](https://github.com/antocuni/pytest-emacs) - 
 - [company-tip](https://github.com/liushihao456/company-tip) - Popup documentation for completion candidates using emacs overlays
@@ -3884,7 +3895,7 @@
 - [terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [lsp](https://github.com/dborzov/lsp) - lsp is like ls command but more human-friendly
 - [jobber](https://github.com/dshearer/jobber) - An alternative to cron, with sophisticated status-reporting and error-handling
-- [sftpgo](https://github.com/drakkan/sftpgo) - Full featured and highly configurable SFTP server
+- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server
 - [goscheme](https://github.com/xrlin/goscheme) - Just another scheme interpreter.
 - [iris](https://github.com/islisp-dev/iris) - The interpreter of ISLisp
 - [gobasic](https://github.com/skx/gobasic) - A BASIC interpreter written in golang.
@@ -4478,7 +4489,6 @@
 - [html](https://github.com/whatwg/html) - HTML Standard
 - [nginx-rate-limit-sandbox](https://github.com/sportebois/nginx-rate-limit-sandbox) - Docker image with various NGINX rate limit settings to play with burst and nodelay settings
 - [magento-malware-scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest collection of Magento malware
-- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 - [public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
 - [youtube-realtime](https://github.com/akshatmittal/youtube-realtime) - YouTube Realtime Subscriber Count
 - [django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is an open-source application vulnerability correlation and security orchestration tool.
@@ -5164,6 +5174,7 @@
 - [Firefox-RunWith](https://github.com/waldner/Firefox-RunWith) - Firefox WebExtension to run external programs on contextual items
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
+- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [ws-repl](https://github.com/rowanthorpe/ws-repl) - Arbitrary REPL in a web-page using websocketd
 - [janeway](https://github.com/11ways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
@@ -7202,7 +7213,7 @@
 - [wrapc](https://github.com/meeuw/wrapc) - Wrapper script for starting a command line tool with bash completion
 - [repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
 - [webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
-- [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
+- [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [gogextract](https://github.com/Yepoleb/gogextract) - Script for unpacking GOG Linux installers
 - [nixops-libvirtd](https://github.com/nix-community/nixops-libvirtd) - NixOps libvirtd backend plugin [maintainer=@AmineChikhaoui]
@@ -9687,7 +9698,7 @@
 
 ## TypeScript 
 
-- [rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire:
+- [rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 - [cherow](https://github.com/cherow/cherow) - Very fast and lightweight, standards-compliant, self-hosted javascript parser with high focus on both performance and stability
 - [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
@@ -9746,7 +9757,7 @@
 - [setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
 - [SOSML](https://github.com/SOSML/SOSML) - The Online Interpreter for Standard ML, written in TypeScript.
 - [discord-term](https://github.com/cloudrex/discord-term) - Extensible Discord terminal client
-- [ext-saladict](https://github.com/crimx/ext-saladict) - Feature-rich inline translator.
+- [ext-saladict](https://github.com/crimx/ext-saladict) - Feature-rich professional inline translator.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
@@ -9815,6 +9826,7 @@
 
 ## Vala 
 
+- [easyssh](https://github.com/muriloventuroso/easyssh) - The SSH connection manager to make your life easier.
 - [vala-samples](https://github.com/bitwalk123/vala-samples) - 
 - [sideload](https://github.com/elementary/sideload) - Sideload Flatpaks on elementary OS
 - [tootle](https://github.com/bleakgrey/tootle) - [WIP] GTK3 client for Mastodon
