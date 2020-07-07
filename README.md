@@ -1052,11 +1052,11 @@
 - [drogon](https://github.com/an-tao/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [openclonk](https://github.com/openclonk/openclonk) - A free multiplayer action game where you control small and nimble humanoids
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
-- [JUCE](https://github.com/juce-framework/JUCE) - The JUCE cross-platform C++ framework
+- [JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.
 - [timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Reporting
 - [exiv2](https://github.com/Exiv2/exiv2) - Image metadata library and tools
 - [ldb](https://github.com/heapwolf/ldb) - A C++ REPL / CLI for LevelDB
-- [eiskaltdcpp](https://github.com/eiskaltdcpp/eiskaltdcpp) - EiskaltDC++ is a cross-platform program that uses the Direct Connect and ADC protocols
+- [eiskaltdcpp](https://github.com/eiskaltdcpp/eiskaltdcpp) - File sharing program using DC and ADC protocols
 - [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) - Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings. You can use it for characters in computer games, in animated cartoons, or in any other project that requires animating mouths based on existing recordings.
 - [clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
 - [argh](https://github.com/adishavit/argh) - Argh! A minimalist argument handler.
@@ -1843,6 +1843,13 @@
 
 ## Emacs Lisp 
 
+- [goto-line-preview](https://github.com/jcs-elpa/goto-line-preview) - Preview line when executing `goto-line` command.
+- [helm-file-preview](https://github.com/jcs-elpa/helm-file-preview) - Preview the current helm file selection.
+- [company-quickhelp-terminal](https://github.com/jcs-elpa/company-quickhelp-terminal) - Terminal support for `company-quickhelp'.
+- [line-reminder](https://github.com/jcs-elpa/line-reminder) - Line annotation similar to Visual Studio.
+- [transwin](https://github.com/jcs-elpa/transwin) - Make window/frame transparent.
+- [emacs-udev-mode](https://github.com/benley/emacs-udev-mode) - Emacs major mode for editing udev rules files
+- [company-manually](https://github.com/yanghaoxie/company-manually) - 
 - [newline-dwim](https://github.com/emacs-php/newline-dwim) - Insert a newline and DWIM characters
 - [robots-txt-mode](https://github.com/emacs-php/robots-txt-mode) - Emacs major mode for editing robots.txt
 - [phpactor.el](https://github.com/emacs-php/phpactor.el) - Interface to Phpactor (an intelligent code-completion and refactoring tool for PHP)
@@ -5389,7 +5396,6 @@
 - [chrome-fast-tab-switcher](https://github.com/BinaryMuse/chrome-fast-tab-switcher) - :keyboard: React-based extension to quickly switch to other open Chrome tabs with just your keyboard
 - [github-repo-size](https://github.com/harshjv/github-repo-size) - 🚀 Chrome extension to display repository size on GitHub
 - [GayHub](https://github.com/jawil/GayHub) - An awesome chrome extension for github :octocat:
-- [stylebot](https://github.com/ankit/stylebot) - Change the appearance of websites instantly.   Preview and install styles created by users for your favorite websites
 - [toggl-button](https://github.com/toggl/toggl-button) - Toggl Button extension for Chrome and Firefox
 - [dirac](https://github.com/binaryage/dirac) - A Chrome DevTools fork for ClojureScript developers
 - [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
@@ -9908,6 +9914,7 @@
 - [logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+- [stylebot](https://github.com/ankit/stylebot) - Change the appearance of websites instantly.   Preview and install styles created by users for your favorite websites
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
 ## WebAssembly 
