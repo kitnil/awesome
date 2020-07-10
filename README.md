@@ -6959,7 +6959,7 @@
 
 ## PicoLisp 
 
-- [particle](https://github.com/Seteeri/particle) - PicoLisp presentation-based userland
+- [particle](https://github.com/Seteeri/particle) - PicoLisp presentation tree userland
 
 ## Pony 
 
