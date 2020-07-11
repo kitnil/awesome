@@ -925,6 +925,10 @@
 
 ## C++ 
 
+- [Heimer](https://github.com/juzzlin/Heimer) - Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
+- [Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
+- [rcrl](https://github.com/onqtam/rcrl) - Read-Compile-Run-Loop: tiny and powerful interactive C++ compiler (REPL)
+- [lxqt-sudo](https://github.com/lxqt/lxqt-sudo) - GUI frontend for sudo/su
 - [crawl](https://github.com/crawl/crawl) - Dungeon Crawl: Stone Soup official repository
 - [robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
 - [Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5) - A cross-platform socks5/http/ss/ssr/vmess/trojan/snell GUI client based on Shadowsocks-qt5.
@@ -1395,6 +1399,7 @@
 
 ## CSS 
 
+- [productive-twitter](https://github.com/sdras/productive-twitter) - Chrome extension: Minimal and friendly theme for productive twitter use
 - [emacs-manuals](https://github.com/xuchunyang/emacs-manuals) - Versioned GNU Emacs Manuals
 - [rofi-themes](https://github.com/davatorium/rofi-themes) - Themes for Rofi
 - [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
@@ -3566,6 +3571,7 @@
 
 ## Gherkin 
 
+- [git-town](https://github.com/git-town/git-town) - Generic, high-level Git workflow support!
 - [vagrant-exec](https://github.com/p0deje/vagrant-exec) - Execute commands in Vagrant synced folder
 
 ## Gnuplot 
@@ -3574,6 +3580,19 @@
 
 ## Go 
 
+- [dargs](https://github.com/aelsabbahy/dargs) - Enhance any command with dynamic arguments
+- [standup-raven](https://github.com/standup-raven/standup-raven) - A Mattermost plugin for communicating daily standups across teams
+- [proji](https://github.com/nikoksr/proji) - A powerful cross-platform CLI project templating tool.
+- [tubekit](https://github.com/reconquest/tubekit) - 🧪 kubectl alternative with quick context switching, kubectl on steroids
+- [resh](https://github.com/curusarn/resh) - Rich Enhanced Shell History - Contextual shell history for zsh and bash
+- [protolock](https://github.com/nilslice/protolock) - Protocol Buffer companion tool. Track your .proto files and prevent changes to messages and services which impact API compatibility.
+- [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
+- [sudosh](https://github.com/cloudposse/sudosh) - Shell wrapper to run a login shell with `sudo` as the current user for the purpose of audit logging
+- [jqview](https://github.com/fiatjaf/jqview) - simplest possible native GUI for inspecting JSON objects with jq
+- [browsertunnel](https://github.com/veggiedefender/browsertunnel) - Surreptitiously exfiltrate data from the browser over DNS
+- [oneshot](https://github.com/raphaelreyna/oneshot) - A first-come-first-serve single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
+- [binclude](https://github.com/lu4p/binclude) - Include files in your binary the easy way
+- [GoSH](https://github.com/wintrmvte/GoSH) - Golang reverse/bind shell generator
 - [manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
 - [ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files
 - [ini](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go.
@@ -4452,6 +4471,7 @@
 
 ## HTML 
 
+- [webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 - [ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
 - [docbrowser](https://github.com/lokedhs/docbrowser) - Browse Common Lisp docstrings
 - [easybank-learning-sass](https://github.com/LeonidasEsteban/easybank-learning-sass) - I'm learning sass in a live streaming
@@ -4579,6 +4599,8 @@
 
 ## Haskell 
 
+- [Haskell](https://github.com/BartoszMilewski/Haskell) - Haskell exercises
+- [goldplate](https://github.com/fugue/goldplate) - a cute and simple golden test runner for CLI applications
 - [nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of your Nix derivations.
 - [retrie](https://github.com/facebookincubator/retrie) - Retrie is a powerful, easy-to-use codemodding tool for Haskell.
 - [pretty-simple](https://github.com/cdepillabout/pretty-simple) - pretty-printer for Haskell data types that have a Show instance
@@ -4736,6 +4758,7 @@
 
 ## Java 
 
+- [dev-tools](https://github.com/reugn/dev-tools) - Common development tools in one app
 - [directory-watcher](https://github.com/gmethvin/directory-watcher) - A cross-platform Java recursive directory watcher, with a JNA macOS watcher and Scala better-files integration
 - [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
@@ -4949,6 +4972,22 @@
 
 ## JavaScript 
 
+- [youtube_time_tracker](https://github.com/makaroni4/youtube_time_tracker) - Chrome Extension that tracks time you spent on Youtube.
+- [gnome-shell-extension-docker](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers
+- [check-it-out](https://github.com/jwu910/check-it-out) - A command line interface for Git Checkout. See branches available for checkout.
+- [cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
+- [Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
+- [block-options](https://github.com/phpbits/block-options) - EditorsKit — a toolkit for the Gutenberg block editor.
+- [like-on-github](https://github.com/Idnan/like-on-github) - Chrome extension - Link a repository with the extension and automatically save the links to content you like
+- [webcatalog](https://github.com/atomery/webcatalog) - Run Web Apps like Real Apps
+- [Sandman](https://github.com/alexanderepstein/Sandman) - An Application Built With Late Night Developers In Mind
+- [gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
+- [meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?
+- [marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome
+- [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favorite messaging services into one application
+- [chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
+- [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+- [franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [unsung-kingdom](https://github.com/laineus/unsung-kingdom) - RPG written in JavaScript
 - [rofi-blurry-powermenu](https://github.com/lu0/rofi-blurry-powermenu) - Blurry fullscreen Powermenu for Rofi
 - [postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS, Linux and Windows
@@ -5727,6 +5766,8 @@
 
 ## Kotlin 
 
+- [noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noises.
+- [tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [Notally](https://github.com/OmGodse/Notally) - A minimalistic notes app
 - [AnimeXStream](https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.
 - [vlc-android](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
@@ -5759,6 +5800,7 @@
 
 ## Lua 
 
+- [keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [tmux-filetree](https://github.com/PhilipRoman/tmux-filetree) - Simple, non-intrusive dynamic file tree which always tracks your active Tmux pane
 - [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [mpv-notify-send](https://github.com/emilazy/mpv-notify-send) - A Lua script for mpv to send notifications with notify-send(1).
@@ -5964,6 +6006,11 @@
 
 ## Others 
 
+- [automation-arsenal](https://github.com/dkorobtsov/automation-arsenal) - Curated list of popular Java and Kotlin frameworks, libraries and tools related to software testing, quality assurance and adjacent processes automation.
+- [guide-to-staying-productive](https://github.com/jonschlinkert/guide-to-staying-productive) - If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
+- [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) - List of all tools (apps, services) that startups should use.
+- [android-dev-sources](https://github.com/ParaskP7/android-dev-sources) - All those Android development sources that you need to be and stay awesome!
+- [daily](https://github.com/dailydotdev/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
 - [awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software
 - [tcpip-study](https://github.com/chenshuo/tcpip-study) - Shuo's learning notes on Linux TCP/IP stack
 - [fetch-all-the-things](https://github.com/domsson/fetch-all-the-things) - A list of *nix fetch utilities
@@ -6718,6 +6765,7 @@
 
 ## PHP 
 
+- [leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.
 - [howdoi](https://github.com/san-kumar/howdoi) - Get quick answers to common linux related questions, right inside your terminal by typing "howdoi [your question]".
 - [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [rector](https://github.com/rectorphp/rector) - Instant Upgrades and Instant Refactoring of any PHP 5.3+ code
@@ -6959,7 +7007,7 @@
 
 ## PicoLisp 
 
-- [particle](https://github.com/Seteeri/particle) - PicoLisp presentation tree userland
+- [particle](https://github.com/Seteeri/particle) - PicoLisp presentation/projection tree UI
 
 ## Pony 
 
@@ -7000,6 +7048,23 @@
 
 ## Python 
 
+- [inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) - Inkscape shorcut manager
+- [pydoro](https://github.com/JaDogg/pydoro) - 🍅 pydoro - Terminal Pomodoro Timer
+- [snaptile](https://github.com/jakebian/snaptile) - Versatile window tiling for X11 with powerful keyboard controls
+- [pomodoro](https://github.com/mehdidc/pomodoro) - simple command line pomodoro app with visualization of statistics
+- [pyprind](https://github.com/rasbt/pyprind) - PyPrind - Python Progress Indicator Utility
+- [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
+- [activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [concentration](https://github.com/timothycrosley/concentration) - Stay focused on work when you want, and goof off when you don't.
+- [x5092json](https://github.com/jcrowgey/x5092json) - Parse TLS X509 Certificates; Output JSON
+- [isort](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
+- [acme-nosudo](https://github.com/diafygi/acme-nosudo) - Free HTTPS certificates without having to trust the letsencrypt cli with sudo/root
+- [Voltorb](https://github.com/egeoz/Voltorb) - A simple GUI for undervolting on GNU/Linux
+- [YAS](https://github.com/wintrmvte/YAS) - Yet Another Sniffer for monitoring network traffic
+- [VTSCAN](https://github.com/wintrmvte/VTSCAN) - VirusTotal API script
+- [Shellab](https://github.com/wintrmvte/Shellab) - Linux and Windows shellcode enrichment utility
+- [Netenum](https://github.com/wintrmvte/Netenum) - A tool to passively discover active hosts on a network
 - [selinux-notebook](https://github.com/SELinuxProject/selinux-notebook) - The SELinux Notebook
 - [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
@@ -8381,6 +8446,7 @@
 
 ## R 
 
+- [trackmd](https://github.com/ropenscilabs/trackmd) - Tools for tracking changes in Markdown format within RStudio
 - [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R
 - [datapasta](https://github.com/MilesMcBain/datapasta) - On top of spaghetti, all covered in cheese....
 - [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
@@ -8454,6 +8520,8 @@
 
 ## Ruby 
 
+- [polo](https://github.com/IFTTT/polo) - Polo travels through your database and creates sample snapshots so you can work with real world data in development.
+- [duckrails](https://github.com/iridakos/duckrails) - Development tool to mock API endpoints quickly and easily (docker image available)
 - [reek](https://github.com/troessner/reek) - Code smell detector for Ruby
 - [standard](https://github.com/testdouble/standard) - 🌟 Ruby Style Guide, with linter & automatic code fixer
 - [maphosts](https://github.com/mpscholten/maphosts) - Keeps your project hostnames in sync with /etc/hosts
@@ -8632,6 +8700,9 @@
 
 ## Rust 
 
+- [timetrack](https://github.com/JoshMcguigan/timetrack) - Automatically track how you are spending your time by watching the file system
+- [fw](https://github.com/brocode/fw) - workspace productivity booster
+- [rust-gc](https://github.com/Manishearth/rust-gc) - Simple tracing (mark and sweep) garbage collector for Rust
 - [fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [realm](https://github.com/zhboner/realm) - A network relay tool
 - [vimnail](https://github.com/TanTanDev/vimnail) - A vim like image editor, for creating thumbnails, or even animated thumbnails. Written in Rust
@@ -8868,6 +8939,8 @@
 
 ## Scala 
 
+- [izumi](https://github.com/7mind/izumi) - Productivity-oriented collection of lightweight fancy stuff for Scala toolchain
+- [bloop](https://github.com/scalacenter/bloop) - Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.
 - [sbt](https://github.com/sbt/sbt) - sbt, the interactive build tool
 - [simple-docker-ui](https://github.com/felixgborrego/simple-docker-ui) - Native Docker UI for Windows, macOS and Linux implemented using Scala.js, React and Electron
 - [coursier](https://github.com/coursier/coursier) - Pure Scala Artifact Fetching
@@ -8963,6 +9036,16 @@
 
 ## Shell 
 
+- [synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
+- [jinx](https://github.com/pretzelhands/jinx) - ✨jinx - a magical nginx wrapper
+- [prm](https://github.com/EivindArvesen/prm) - A minimal project manager for the terminal.
+- [zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
+- [notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
+- [sudo-stealer](https://github.com/vk496/sudo-stealer) - POC of sudo password stealer
+- [SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo
+- [misterio](https://github.com/daitangio/misterio) - Docker-compose based Ansible alternative. It hates spiders
+- [bash-numpad-input](https://github.com/TDGalea/bash-numpad-input) - Solely available for people to view the source code.
+- [Revssl](https://github.com/wintrmvte/Revssl) - A simple script that automates generation of OpenSSL reverse shells
 - [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. Can run commands, copy files, tunnel ports and connect.
 - [latest-releases](https://github.com/nickjj/latest-releases) - A command line tool that lets you keep tabs on the latest releases of your favorite tools and libraries.
 - [gen_perl](https://github.com/purpleroc/gen_perl) - A script to generate perl script for execute ELF in memory.
@@ -9716,6 +9799,18 @@
 
 ## TypeScript 
 
+- [njt](https://github.com/kachkaev/njt) - njt (npm jump to): a quick navigation tool for npm packages
+- [backport](https://github.com/sqren/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
+- [gauzy](https://github.com/ever-co/gauzy) - Gauzy™ - Open-Source Business Management Platform (ERP/CRM) focused on Fairness and Transparency
+- [linux-window-session-manager](https://github.com/johannesjo/linux-window-session-manager) - A tool to store and reload open windows and window positions for x11 desktops like unity and gnome.
+- [isolate](https://github.com/seenaburns/isolate) - Lightweight image browser
+- [form-filler](https://github.com/husainshabbir/form-filler) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
+- [mindmapp](https://github.com/Mindmapp/mindmapp) - :rocket: Web application to draw mind maps.
+- [pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
+- [xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
+- [leasot](https://github.com/pgilad/leasot) - Parse and output TODOs and FIXMEs from comments in your files
+- [vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
+- [super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
 - [rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 - [cherow](https://github.com/cherow/cherow) - Very fast and lightweight, standards-compliant, self-hosted javascript parser with high focus on both performance and stability
@@ -9845,6 +9940,7 @@
 
 ## Vala 
 
+- [gnome-sudoku](https://github.com/GNOME/gnome-sudoku) - Test your logic skills in this number grid puzzle
 - [easyssh](https://github.com/muriloventuroso/easyssh) - The SSH connection manager to make your life easier.
 - [vala-samples](https://github.com/bitwalk123/vala-samples) - 
 - [sideload](https://github.com/elementary/sideload) - Sideload Flatpaks on elementary OS
@@ -9887,7 +9983,7 @@
 - [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 - [vim-haskellConcealPlus](https://github.com/enomsg/vim-haskellConcealPlus) - Extended Haskell Conceal feature for Vim
-- [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
+- [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [vimagit](https://github.com/jreybert/vimagit) - Ease your git workflow within Vim
 - [spacevim](https://github.com/ctjhoa/spacevim) - Spacemacs for vim
@@ -9914,6 +10010,8 @@
 
 ## Vue 
 
+- [devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
+- [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [kiwiirc](https://github.com/kiwiirc/kiwiirc) - 🥝 Next generation of the Kiwi IRC web client
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
