@@ -3580,6 +3580,8 @@
 
 ## Go 
 
+- [pmy](https://github.com/relastle/pmy) - :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
+- [1build](https://github.com/gopinath-langote/1build) - Frictionless way of managing project-specific commands
 - [dargs](https://github.com/aelsabbahy/dargs) - Enhance any command with dynamic arguments
 - [standup-raven](https://github.com/standup-raven/standup-raven) - A Mattermost plugin for communicating daily standups across teams
 - [proji](https://github.com/nikoksr/proji) - A powerful cross-platform CLI project templating tool.
@@ -4972,6 +4974,9 @@
 
 ## JavaScript 
 
+- [vertical-tabs-chrome-extension](https://github.com/lxieyang/vertical-tabs-chrome-extension) - A chrome extension that presents your tabs vertically. Problem solved.
+- [ducky](https://github.com/RameshAditya/ducky) - Chrome extension to overlay a (super adorable) rubber duck, as a virtual companion during rubber duck debugging.
+- [meteorite](https://github.com/nickzuber/meteorite) - :sparkles::seedling: Smarter GitHub notifications. Organize and score notifications based on importance and relevance.
 - [youtube_time_tracker](https://github.com/makaroni4/youtube_time_tracker) - Chrome Extension that tracks time you spent on Youtube.
 - [gnome-shell-extension-docker](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers
 - [check-it-out](https://github.com/jwu910/check-it-out) - A command line interface for Git Checkout. See branches available for checkout.
@@ -4989,7 +4994,6 @@
 - [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [unsung-kingdom](https://github.com/laineus/unsung-kingdom) - RPG written in JavaScript
-- [rofi-blurry-powermenu](https://github.com/lu0/rofi-blurry-powermenu) - Blurry fullscreen Powermenu for Rofi
 - [postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS, Linux and Windows
 - [shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
 - [gopassbridge](https://github.com/gopasspw/gopassbridge) - A web extension for firefox and chrome to insert login credentials from gopass
@@ -8700,6 +8704,7 @@
 
 ## Rust 
 
+- [baelte](https://github.com/kennethlarsen/baelte) - CLI tool for svelte to help you be productive
 - [timetrack](https://github.com/JoshMcguigan/timetrack) - Automatically track how you are spending your time by watching the file system
 - [fw](https://github.com/brocode/fw) - workspace productivity booster
 - [rust-gc](https://github.com/Manishearth/rust-gc) - Simple tracing (mark and sweep) garbage collector for Rust
@@ -9036,6 +9041,7 @@
 
 ## Shell 
 
+- [nb](https://github.com/xwmx/nb) - CLI note-taking, bookmarking, and archiving with encryption, advanced search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
 - [synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
 - [jinx](https://github.com/pretzelhands/jinx) - ✨jinx - a magical nginx wrapper
 - [prm](https://github.com/EivindArvesen/prm) - A minimal project manager for the terminal.
@@ -9070,6 +9076,7 @@
 - [bash-server](https://github.com/wf-yamaday/bash-server) - A simple web server with ShellScript (Bash).
 - [centerText](https://github.com/Teledurak/centerText) - Center your text easily with this bash script
 - [pod-tcpdump](https://github.com/pbertera/pod-tcpdump) - 
+- [rofi-blurry-powermenu](https://github.com/lu0/rofi-blurry-powermenu) - Blurry fullscreen Powermenu for Rofi
 - [dohot](https://github.com/alecmuffett/dohot) - DoHoT: making practical use of DNS over HTTPS over Tor
 - [get-gitlab-forks](https://github.com/yurug/get-gitlab-forks) - Retrieve all the forks of a gitlab project
 - [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release as seen on YouTube
@@ -9804,7 +9811,7 @@
 - [gauzy](https://github.com/ever-co/gauzy) - Gauzy™ - Open-Source Business Management Platform (ERP/CRM) focused on Fairness and Transparency
 - [linux-window-session-manager](https://github.com/johannesjo/linux-window-session-manager) - A tool to store and reload open windows and window positions for x11 desktops like unity and gnome.
 - [isolate](https://github.com/seenaburns/isolate) - Lightweight image browser
-- [form-filler](https://github.com/husainshabbir/form-filler) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
+- [form-filler](https://github.com/FakeFiller/form-filler) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 - [mindmapp](https://github.com/Mindmapp/mindmapp) - :rocket: Web application to draw mind maps.
 - [pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
 - [xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
