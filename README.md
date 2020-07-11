@@ -904,6 +904,8 @@
 
 ## C# # 
 
+- [gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
+- [EyeAuras](https://github.com/iXab3r/EyeAuras) - EyeAuras is a program which allows you to clone windows and keep them always-on-top while working with other applications
 - [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
@@ -925,6 +927,7 @@
 
 ## C++ 
 
+- [httpflow](https://github.com/six-ddc/httpflow) - A command line utility helps to capture and dump HTTP stream
 - [Heimer](https://github.com/juzzlin/Heimer) - Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
 - [Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
 - [rcrl](https://github.com/onqtam/rcrl) - Read-Compile-Run-Loop: tiny and powerful interactive C++ compiler (REPL)
@@ -1399,6 +1402,7 @@
 
 ## CSS 
 
+- [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [productive-twitter](https://github.com/sdras/productive-twitter) - Chrome extension: Minimal and friendly theme for productive twitter use
 - [emacs-manuals](https://github.com/xuchunyang/emacs-manuals) - Versioned GNU Emacs Manuals
 - [rofi-themes](https://github.com/davatorium/rofi-themes) - Themes for Rofi
@@ -3580,6 +3584,9 @@
 
 ## Go 
 
+- [dolt](https://github.com/liquidata-inc/dolt) - Dolt – It's Git for Data
+- [joe](https://github.com/karan/joe) - :running: A .gitignore magician in your command line
+- [gits](https://github.com/rafi/gits) - A Fast CLI Git manager for multiple repositories
 - [pmy](https://github.com/relastle/pmy) - :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
 - [1build](https://github.com/gopinath-langote/1build) - Frictionless way of managing project-specific commands
 - [dargs](https://github.com/aelsabbahy/dargs) - Enhance any command with dynamic arguments
@@ -4473,6 +4480,7 @@
 
 ## HTML 
 
+- [SplitUp](https://github.com/onaralili/SplitUp) - ✨ SplitUp! is a browser extension allows a user to split tabs into a different window, save session, export tabs, supports multiple screens, dark mode etc. ✨
 - [webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 - [ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
 - [docbrowser](https://github.com/lokedhs/docbrowser) - Browse Common Lisp docstrings
@@ -4601,6 +4609,72 @@
 
 ## Haskell 
 
+- [graphmod](https://github.com/yav/graphmod) - A utility for displaying the module dependencies of Haskell programs.
+- [leksah](https://github.com/leksah/leksah) - Haskell IDE
+- [vty](https://github.com/jtdaugherty/vty) - A high-level ncurses alternative written in Haskell
+- [ThreadScope](https://github.com/haskell/ThreadScope) - A graphical tool for profiling parallel Haskell programs
+- [lamdu](https://github.com/lamdu/lamdu) - lamdu - towards the next generation IDE
+- [optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser
+- [call-haskell-from-anything](https://github.com/nh2/call-haskell-from-anything) - Call Haskell functions from any programming language via serialization and dynamic libraries
+- [tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell
+- [cgrep](https://github.com/awgn/cgrep) - Cgrep: a context-aware grep for source codes
+- [hslua](https://github.com/hslua/hslua) - Lua interpreter interface for Haskell
+- [erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
+- [ghc-vis](https://github.com/def-/ghc-vis) - Visualize live Haskell data structures in GHCi
+- [nix-script](https://github.com/bennofs/nix-script) - A shebang for running scripts inside nix-shell with defined dependencies
+- [repline](https://github.com/sdiehl/repline) - Haskeline wrapper for GHCi-like REPL interfaces
+- [ghcid](https://github.com/ndmitchell/ghcid) - Very low feature GHCi based IDE
+- [jsontsv](https://github.com/danchoi/jsontsv) - Convert JSON to TSV / CSV / DSV
+- [git-vogue](https://github.com/christian-marie/git-vogue) - Make your Haskell git repositories fashionable.
+- [git-mediate](https://github.com/Peaker/git-mediate) - Become a conflict resolution hero
+- [nvim-hs](https://github.com/neovimhaskell/nvim-hs) - Neovim API for Haskell plugins as well as the plugin provider
+- [gipeda](https://github.com/nomeata/gipeda) - Git Performance Dashboard
+- [frp-arduino](https://github.com/frp-arduino/frp-arduino) - Arduino programming without the hassle of C.
+- [Haskell-Turtle-Library](https://github.com/Gabriel439/Haskell-Turtle-Library) - Shell programming, Haskell style
+- [haskell-tools](https://github.com/haskell-tools/haskell-tools) - Developer tools for Haskell
+- [verve-lang](https://github.com/tadeuzagallo/verve-lang) - A functional language for the working hacker
+- [bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool
+- [wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available
+- [klfc](https://github.com/39aldo39/klfc) - Keyboard Layout Files Creator
+- [haskell-lsp](https://github.com/alanz/haskell-lsp) - Haskell library for the Microsoft Language Server Protocol
+- [DeepDarkFantasy](https://github.com/ThoughtWorksInc/DeepDarkFantasy) - A Programming Language for Deep Learning
+- [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
+- [bartlett](https://github.com/Nike-Inc/bartlett) - A simple Jenkins command line client to serve your needs.
+- [10-minute-vim-exercises](https://github.com/steveshogren/10-minute-vim-exercises) - The exercise files from 10 Minute Vim, for convenience of readers
+- [styx](https://github.com/jyp/styx) - A nix-based Haskell project manager
+- [alga](https://github.com/snowleopard/alga) - Algebraic graphs
+- [linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
+- [Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
+- [tart](https://github.com/jtdaugherty/tart) - Tart - draw ASCII art in the terminal with your mouse!
+- [curl-runnings](https://github.com/aviaviavi/curl-runnings) - A declarative test framework for quickly and easily writing integration tests against JSON API's.
+- [espial](https://github.com/jonschoning/espial) - Espial is an open-source, web-based bookmarking server.
+- [gi-gtk-declarative](https://github.com/owickstrom/gi-gtk-declarative) - Declarative GTK+ programming in Haskell
+- [ascii-runner](https://github.com/smallhadroncollider/ascii-runner) - An infinite runner in your terminal
+- [bulletproofs](https://github.com/adjoint-io/bulletproofs) - Bulletproofs are short non-interactive zero-knowledge proofs that require no trusted setup
+- [zero-to-quake-3](https://github.com/ocharles/zero-to-quake-3) - Implementing Quake 3 in Haskell & Vulkan
+- [komposition](https://github.com/owickstrom/komposition) - The video editor built for screencasters
+- [LtuPatternFactory](https://github.com/thma/LtuPatternFactory) - Lambda the ultimate Pattern Factory: FP, Haskell, Typeclassopedia vs Software Design Patterns
+- [tex](https://github.com/alpacaaa/tex) - Minimalistic file explorer, written in Haskell.
+- [ghc-compiler-notes](https://github.com/myuon/ghc-compiler-notes) - A collection of Notes on GHC
+- [brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
+- [haskell-trainings](https://github.com/google/haskell-trainings) - Haskell 101 and 102: slides and codelabs
+- [scarf](https://github.com/aviaviavi/scarf) - A cross platform package manager that helps open-source developers distribute and monetize their software
+- [hatrace](https://github.com/nh2/hatrace) - scriptable strace
+- [cmt](https://github.com/smallhadroncollider/cmt) - Write consistent git commit messages based on a custom template
+- [ptghci](https://github.com/litxio/ptghci) - High-powered REPL for Haskell, inspired by IPython
+- [reanimate](https://github.com/reanimate/reanimate) - Haskell library for building declarative animations based on SVG graphics
+- [all-hies](https://github.com/Infinisil/all-hies) - Cached Haskell IDE Engine Nix builds for all GHC versions
+- [monad-validate](https://github.com/hasura/monad-validate) - A Haskell monad transformer library for data validation
+- [haskell-phrasebook](https://github.com/typeclasses/haskell-phrasebook) - The Haskell Phrasebook: a quick intro to Haskell via small annotated example programs
+- [api.unverified.email](https://github.com/honest-technology/api.unverified.email) - A service to help with testing of sending the right emails
+- [aeson-yaml](https://github.com/clovyr/aeson-yaml) - Encode any Aeson (JSON) value as YAML (in pure Haskell)
+- [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
+- [cut-the-crap](https://github.com/jappeace/cut-the-crap) - Automated video editing for streamers
+- [ghc-nix](https://github.com/ocharles/ghc-nix) - Exploring the options for incremental Haskell builds using Nix
+- [finkel](https://github.com/finkel-lang/finkel) - Haskell in S-expression
+- [WhyHaskellMatters](https://github.com/thma/WhyHaskellMatters) - In this article I try to explain why Haskell keeps being such an important language by presenting some of its most important and distinguishing features and detailing them with working code examples.  The presentation aims to be self-contained and does not require any previous knowledge of the language.
+- [nixos-manager](https://github.com/pmiddend/nixos-manager) - Manage your NixOS packages and configuration via a simple, intuitive UI
+- [neut](https://github.com/u2zv1wx/neut) - A dependently-typed programming language with compile-time malloc/free determination
 - [Haskell](https://github.com/BartoszMilewski/Haskell) - Haskell exercises
 - [goldplate](https://github.com/fugue/goldplate) - a cute and simple golden test runner for CLI applications
 - [nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of your Nix derivations.
@@ -4760,6 +4834,10 @@
 
 ## Java 
 
+- [gitblit](https://github.com/gitblit/gitblit) - pure java git solution
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
+- [chibe](https://github.com/raatmarien/chibe) - An Android application that reminds you of the time
+- [mindful-android-launcher](https://github.com/maysax/mindful-android-launcher) - Siempo Android Launcher - Smartphone interface for mental health and wellbeing
 - [dev-tools](https://github.com/reugn/dev-tools) - Common development tools in one app
 - [directory-watcher](https://github.com/gmethvin/directory-watcher) - A cross-platform Java recursive directory watcher, with a JNA macOS watcher and Scala better-files integration
 - [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
@@ -4974,6 +5052,11 @@
 
 ## JavaScript 
 
+- [standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
+- [nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
+- [time-to-leave](https://github.com/thamara/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live.
+- [moodle-downloader](https://github.com/harsilspatel/moodle-downloader) - A chrome extension for batch downloading Moodle resources 💾
+- [hubnav](https://github.com/cheshire137/hubnav) - A Chrome extension for navigating github.com via keyboard shortcuts. Quickly access issues for multiple repos, as well as your org's pages.
 - [vertical-tabs-chrome-extension](https://github.com/lxieyang/vertical-tabs-chrome-extension) - A chrome extension that presents your tabs vertically. Problem solved.
 - [ducky](https://github.com/RameshAditya/ducky) - Chrome extension to overlay a (super adorable) rubber duck, as a virtual companion during rubber duck debugging.
 - [meteorite](https://github.com/nickzuber/meteorite) - :sparkles::seedling: Smarter GitHub notifications. Organize and score notifications based on importance and relevance.
@@ -5624,7 +5707,6 @@
 - [gnome-shell-imgur](https://github.com/OttoAllmendinger/gnome-shell-imgur) - Deprecated, see gnome-shell-screeshot
 - [gnome-shell-minimum-workspaces](https://github.com/philbot9/gnome-shell-minimum-workspaces) - Set a minimum number of dynamic workspaces.
 - [gs-extensions-drop-down-terminal](https://github.com/zzrough/gs-extensions-drop-down-terminal) - Drop Down Terminal extension for the Gnome Shell
-- [scalatron](https://github.com/scalatron/scalatron) - Scalatron, a multi-player programming game in which coders pit bot programs (written in Scala) against each other
 - [Firemacs](https://github.com/kazu-yamamoto/Firemacs) - An extension to add Emacs's editing features to Firefox
 - [pixel-saver](https://github.com/pixel-saver/pixel-saver) - Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way
 - [docker-compose-ui](https://github.com/francescou/docker-compose-ui) - web interface for Docker Compose
@@ -5770,6 +5852,7 @@
 
 ## Kotlin 
 
+- [GitExplorer-Android](https://github.com/Shashank02051997/GitExplorer-Android) - Find the right git commands 🔥 without digging through the web.😊😊😉
 - [noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noises.
 - [tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [Notally](https://github.com/OmGodse/Notally) - A minimalistic notes app
@@ -6010,6 +6093,7 @@
 
 ## Others 
 
+- [gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [automation-arsenal](https://github.com/dkorobtsov/automation-arsenal) - Curated list of popular Java and Kotlin frameworks, libraries and tools related to software testing, quality assurance and adjacent processes automation.
 - [guide-to-staying-productive](https://github.com/jonschlinkert/guide-to-staying-productive) - If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
 - [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) - List of all tools (apps, services) that startups should use.
@@ -6769,6 +6853,8 @@
 
 ## PHP 
 
+- [versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
+- [remote-manager](https://github.com/lazy-ants/remote-manager) - This tool is intended for mass management and monitoring of remote servers. Getting information about the status of remote servers, analyze it, provide maintenance as easily as possible, extend for your needs.
 - [leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.
 - [howdoi](https://github.com/san-kumar/howdoi) - Get quick answers to common linux related questions, right inside your terminal by typing "howdoi [your question]".
 - [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
@@ -7024,6 +7110,7 @@
 
 ## PowerShell 
 
+- [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Win10, Server 2016, 1709, 1803, 1809, 2019, 1903, 1909, 2004, Insider with Docker
 - [windows-docker-machine](https://github.com/StefanScherer/windows-docker-machine) - Work with Windows containers and LCOW on Mac/Linux/Windows
 - [ConPtyShell](https://github.com/antonioCoco/ConPtyShell) - ConPtyShell - Fully Interactive Reverse Shell for Windows
@@ -7052,6 +7139,14 @@
 
 ## Python 
 
+- [gitinspector](https://github.com/ejwa/gitinspector) - :bar_chart: The statistical analysis tool for git repositories
+- [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
+- [git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
+- [sauron](https://github.com/sananth12/sauron) - :eyes: Reminds the user to take regular breaks and helps prevent eye strain
+- [catacomb](https://github.com/mitchjeitani/catacomb) - A minimalistic CLI tool for storing shell commands.
+- [loghub](https://github.com/spyder-ide/loghub) - Changelog generator based on github milestones or tags.
+- [pyimgscan](https://github.com/sammdu/pyimgscan) - Take any phone-taken picture and turn it into a document scan.
+- [brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) - Inkscape shorcut manager
 - [pydoro](https://github.com/JaDogg/pydoro) - 🍅 pydoro - Terminal Pomodoro Timer
 - [snaptile](https://github.com/jakebian/snaptile) - Versatile window tiling for X11 with powerful keyboard controls
@@ -8524,6 +8619,7 @@
 
 ## Ruby 
 
+- [lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
 - [polo](https://github.com/IFTTT/polo) - Polo travels through your database and creates sample snapshots so you can work with real world data in development.
 - [duckrails](https://github.com/iridakos/duckrails) - Development tool to mock API endpoints quickly and easily (docker image available)
 - [reek](https://github.com/troessner/reek) - Code smell detector for Ruby
@@ -8959,6 +9055,7 @@
 - [scaladiagrams](https://github.com/mikeyhu/scaladiagrams) - Generate class diagrams from scala source code
 - [gitbucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+- [scalatron](https://github.com/scalatron/scalatron) - Scalatron, a multi-player programming game in which coders pit bot programs (written in Scala) against each other
 - [breeze](https://github.com/scalanlp/breeze) - Breeze is a numerical processing library for Scala.
 
 ## Scheme 
@@ -9806,12 +9903,13 @@
 
 ## TypeScript 
 
+- [tabToWindow](https://github.com/acarabott/tabToWindow) - Chrome extension to move the current tab to a new window using the command API
 - [njt](https://github.com/kachkaev/njt) - njt (npm jump to): a quick navigation tool for npm packages
 - [backport](https://github.com/sqren/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [gauzy](https://github.com/ever-co/gauzy) - Gauzy™ - Open-Source Business Management Platform (ERP/CRM) focused on Fairness and Transparency
 - [linux-window-session-manager](https://github.com/johannesjo/linux-window-session-manager) - A tool to store and reload open windows and window positions for x11 desktops like unity and gnome.
 - [isolate](https://github.com/seenaburns/isolate) - Lightweight image browser
-- [form-filler](https://github.com/FakeFiller/form-filler) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
+- [fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 - [mindmapp](https://github.com/Mindmapp/mindmapp) - :rocket: Web application to draw mind maps.
 - [pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
 - [xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
@@ -9921,6 +10019,7 @@
 - [commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [shellshape](https://github.com/timbertson/shellshape) - tiling window manager extension for gnome-shell
 - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension/Addon that deletes cookies as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
+- [stylebot](https://github.com/ankit/stylebot) - Change the appearance of websites instantly.   Preview and install styles created by users for your favorite websites
 - [academic-bloggers-toolkit](https://github.com/dsifford/academic-bloggers-toolkit) - WordPress plugin providing an all-in-one solution for effective academic blogging.
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
@@ -10032,7 +10131,6 @@
 - [logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
-- [stylebot](https://github.com/ankit/stylebot) - Change the appearance of websites instantly.   Preview and install styles created by users for your favorite websites
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
 ## WebAssembly 
