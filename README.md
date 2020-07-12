@@ -1278,7 +1278,7 @@
 - [goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 - [astroid](https://github.com/astroidmail/astroid) - A graphical threads-with-tags style, lightweight and fast, e-mail client for Notmuch
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
-- [mumble](https://github.com/mumble-voip/mumble) - Mumble is an open source, low-latency, high quality voice chat software
+- [mumble](https://github.com/mumble-voip/mumble) - Mumble is an Open Source, low-latency, high quality voice chat software
 - [par2cmdline](https://github.com/Parchive/par2cmdline) - fork of the original par2cmdline CVS repo
 - [ewig](https://github.com/arximboldi/ewig) - The eternal text editor — Didactic Ersatz Emacs to show immutable data-structures and the single-atom architecture
 - [xkeymacs](https://github.com/fujieda/xkeymacs) - 
@@ -3759,7 +3759,7 @@
 - [Data-Structures-and-Algorithms](https://github.com/floyernick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
 - [subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
-- [kubesphere](https://github.com/kubesphere/kubesphere) - Easy-to-use Production Ready Container Platform
+- [kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise-grade container platform tailored for multicloud and multi-cluster management
 - [google-ctf](https://github.com/google/google-ctf) - Google CTF
 - [gojay](https://github.com/francoispqt/gojay) - fastest JSON encoder/decoder with powerful stream API for Golang
 - [gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data
@@ -5650,7 +5650,7 @@
 - [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
-- [Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:   Download Youtube Subtitle (still work in 2020) (work best at Chrome + Tampermonkey) **Looking for maintainer**
+- [Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Download Youtube Subtitle (Still work in 2020!) (Work best on Chrome + Tampermonkey) **Looking for maintainer**
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [searchfirefoxbookmarks](https://github.com/sciancio/searchfirefoxbookmarks) - A gnome-shell extension which searches the firefox bookmarks and provides results in your shell overview
 - [wikipedia-search-provider](https://github.com/awamper/wikipedia-search-provider) - GNOME Shell extension. Wikipedia Search Provider.
@@ -10019,7 +10019,6 @@
 - [commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [shellshape](https://github.com/timbertson/shellshape) - tiling window manager extension for gnome-shell
 - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension/Addon that deletes cookies as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
-- [stylebot](https://github.com/ankit/stylebot) - Change the appearance of websites instantly.   Preview and install styles created by users for your favorite websites
 - [academic-bloggers-toolkit](https://github.com/dsifford/academic-bloggers-toolkit) - WordPress plugin providing an all-in-one solution for effective academic blogging.
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
@@ -10131,6 +10130,7 @@
 - [logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+- [stylebot](https://github.com/ankit/stylebot) - Change the appearance of websites instantly.   Preview and install styles created by users for your favorite websites
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
 ## WebAssembly 
