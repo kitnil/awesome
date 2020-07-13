@@ -53,6 +53,7 @@
   - [Hy](#hy)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jsonnet](#jsonnet)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
@@ -1767,6 +1768,7 @@
 
 ## Dhall 
 
+- [dhall-lang](https://github.com/dhall-lang/dhall-lang) - Maintainable configuration files
 - [dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Maintainable configuration files
 
 ## Dockerfile 
@@ -3584,6 +3586,7 @@
 
 ## Go 
 
+- [go-jsonnet](https://github.com/google/go-jsonnet) - 
 - [dolt](https://github.com/liquidata-inc/dolt) - Dolt – It's Git for Data
 - [joe](https://github.com/karan/joe) - :running: A .gitignore magician in your command line
 - [gits](https://github.com/rafi/gits) - A Fast CLI Git manager for multiple repositories
@@ -5775,6 +5778,10 @@
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
 - [arch-wiki-md-repo](https://github.com/greg-js/arch-wiki-md-repo) - All arch-wiki articles in markdown format, updated every week
 
+## Jsonnet 
+
+- [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
+
 ## Julia 
 
 - [Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
@@ -6382,7 +6389,7 @@
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
-- [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+- [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2020年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
 - [awesome-android-tips](https://github.com/jiang111/awesome-android-tips) - some code tips for android 💯
 - [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) - A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
 - [awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
@@ -8269,6 +8276,7 @@
 - [portage](https://github.com/gentoo/portage) - [MIRROR] Package management system
 - [numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
+- [book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
 - [game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -9896,7 +9904,6 @@
 - [the-little-mongodb-book](https://github.com/karlseguin/the-little-mongodb-book) - The Little MongoDB Book
 - [CleverAlgorithms](https://github.com/clever-algorithms/CleverAlgorithms) - Clever Algorithms: Nature-Inspired Programming Recipes
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Classical equations and diagrams in machine learning
-- [book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
 - [mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
 - [draft](https://github.com/cplusplus/draft) - C++ standards drafts
 - [ThinkPython2](https://github.com/AllenDowney/ThinkPython2) - LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.
