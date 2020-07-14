@@ -1554,7 +1554,6 @@
 
 ## Common Lisp 
 
-- [CL-GPT-3](https://github.com/gregcman/CL-GPT-3) - GPT-3: Prompt Programming Library
 - [kai](https://github.com/komi1230/kai) - A high-level plotter library for Common Lisp.
 - [teddy](https://github.com/40ants/teddy) - A data framework for Common Lisp
 - [cl-covid19](https://github.com/dnaeon/cl-covid19) - Explore COVID-19 data in Common Lisp
@@ -4208,7 +4207,7 @@
 - [dosxvpn](https://github.com/dan-v/dosxvpn) - Easily deploy your own personal VPN server with DNS adblocking running on DigitalOcean
 - [perfops-cli](https://github.com/ProspectOne/perfops-cli) - A simple command line tool to interact with hundreds of servers around the world.
 - [jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions
-- [scmpuff](https://github.com/mroth/scmpuff) - :1234: add numbered shortcuts to common git commands
+- [scmpuff](https://github.com/mroth/scmpuff) - :1234: Numeric file shortcuts for common git commands
 - [pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [sentences](https://github.com/neurosnap/sentences) - A multilingual command line sentence tokenizer in Golang
@@ -4716,7 +4715,7 @@
 - [LambdaNet](https://github.com/jbarrow/LambdaNet) - Purely functional artificial neural network library implemented in Haskell.
 - [jl](https://github.com/chrisdone/jl) - Functional sed for JSON
 - [HaskellR](https://github.com/tweag/HaskellR) - The full power of R in Haskell.
-- [hindent](https://github.com/chrisdone/hindent) - Haskell pretty printer
+- [hindent](https://github.com/mihaimaruseac/hindent) - Haskell pretty printer
 - [legion](https://github.com/aviaviavi/legion) - Simple blockchain server written in haskell
 - [kaleidoscope](https://github.com/sdiehl/kaleidoscope) - Haskell LLVM JIT Compiler Tutorial
 - [articles](https://github.com/quchen/articles) - Miscellaneous articles. The readme is the table of contents.
@@ -6850,7 +6849,7 @@
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
-- [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition
+- [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
 - [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Development has moved to Gitlab
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
