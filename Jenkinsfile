@@ -11,7 +11,7 @@ pipeline {
     stages {
         stage("Update README.md") {
             steps {
-                dir("${Constants.homeDir}/src/awesome") {
+                dir(library('jenkins-wi-shared-library').Constants.homeDir + "/src/awesome") {
                     script {
                         sh "starred --token=$GITHUB_TOKEN_STARRED --username wigust --sort > README.md"
                         catchError(buildResult: "SUCCESS", stageResult: "FAILURE") {
