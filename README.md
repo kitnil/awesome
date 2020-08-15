@@ -1947,6 +1947,10 @@
 
 ## Emacs Lisp 
 
+- [templatel](https://github.com/clarete/templatel) - Jinja inspired template language for Emacs Lisp
+- [org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD using org-mode (beta)
+- [find-trace-paths](https://github.com/ration/find-trace-paths) - Find paths from error traces and allow to scroll through and click into them
+- [echo-sth.el](https://github.com/ThibautVerron/echo-sth.el) - Make use of an empty echo area to display some information
 - [emacs-tmux-pane](https://github.com/laishulu/emacs-tmux-pane) - Fuse emacs windows with tmux panes.
 - [elfeed-score](https://github.com/sp1ff/elfeed-score) - Gnus-style scoring for elfeed
 - [lsp-pyright](https://github.com/emacs-lsp/lsp-pyright) - lsp-mode :heart: pyright
@@ -7678,7 +7682,6 @@
 - [wrapc](https://github.com/meeuw/wrapc) - Wrapper script for starting a command line tool with bash completion
 - [repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
 - [webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
-- [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [gogextract](https://github.com/Yepoleb/gogextract) - Script for unpacking GOG Linux installers
 - [nixops-libvirtd](https://github.com/nix-community/nixops-libvirtd) - NixOps libvirtd backend plugin [maintainer=@AmineChikhaoui]
@@ -8912,6 +8915,7 @@
 
 ## Ruby 
 
+- [zotxt](https://github.com/egh/zotxt) - zotxt: a Zotero extension for text
 - [sqlint](https://github.com/purcell/sqlint) - Simple SQL linter supporting ANSI and PostgreSQL syntaxes
 - [lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
 - [polo](https://github.com/IFTTT/polo) - Polo travels through your database and creates sample snapshots so you can work with real world data in development.
@@ -9493,7 +9497,7 @@
 - [bash-server](https://github.com/wf-yamaday/bash-server) - A simple web server with ShellScript (Bash).
 - [centerText](https://github.com/Teledurak/centerText) - Center your text easily with this bash script
 - [pod-tcpdump](https://github.com/pbertera/pod-tcpdump) - 
-- [rofi-blurry-powermenu](https://github.com/lu0/rofi-blurry-powermenu) - Blurry fullscreen Powermenu for Rofi
+- [rofi-blurry-powermenu](https://github.com/lu0/rofi-blurry-powermenu) - Fullscreen Powermenu with blur effect made with Rofi
 - [dohot](https://github.com/alecmuffett/dohot) - DoHoT: making practical use of DNS over HTTPS over Tor
 - [get-gitlab-forks](https://github.com/yurug/get-gitlab-forks) - Retrieve all the forks of a gitlab project
 - [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release as seen on YouTube
@@ -9632,6 +9636,7 @@
 - [autossh](https://github.com/FeeiCN/autossh) - Password-free automatic login SSH（免密登陆SSH）
 - [vm-bhyve](https://github.com/churchers/vm-bhyve) - Shell based, minimal dependency bhyve manager
 - [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
+- [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [dind](https://github.com/jpetazzo/dind) - Docker in Docker
 - [nsenter](https://github.com/jpetazzo/nsenter) - 
 - [netbootcd](https://github.com/IsaacSchemm/netbootcd) - The build files for NetbootCD (except the CorePlus ISO)
