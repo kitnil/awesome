@@ -1048,7 +1048,7 @@
 - [griefly](https://github.com/griefly/griefly) - Griefly: Yet Another Space Station Remake
 - [StealthGameUdemy](https://github.com/tomlooman/StealthGameUdemy) - C++ Stealth Game in Unreal Engine (Udemy Project)
 - [cathook](https://github.com/nullworks/cathook) - Training Software for the game Team Fortress 2
-- [OpMon](https://github.com/OpMonTeam/OpMon) - The free and open source Pokémon clone!
+- [OpMon](https://github.com/OpMonTeam/OpMon) - Currently moving the project to https://github.com/OpMonTeam/OpMon-Godot
 - [forgottenserver](https://github.com/otland/forgottenserver) - A free and open-source MMORPG server emulator written in C++
 - [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake
 - [OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
@@ -2305,8 +2305,6 @@
 - [side-notes](https://github.com/rnkn/side-notes) - Easy access to a notes file in Emacs
 - [tramp-term.el](https://github.com/randymorris/tramp-term.el) - Provides a quick way to create an ansi-term containing an ssh session with remote directory tracking already configured.
 - [wand](https://github.com/cmpitg/wand) - Execute actions based on text patterns, for Emacs
-- [po-mode](https://github.com/emacsmirror/po-mode) - Major mode for GNU gettext PO files
-- [smart-compile](https://github.com/emacsmirror/smart-compile) - An interface to `compile'
 - [emacs-whois](https://github.com/lassik/emacs-whois) - Extends the whois functionality of Emacs
 - [advice-patch](https://github.com/emacsmirror/advice-patch) - Use patches to advise the inside of functions
 - [ewal](https://github.com/emacsmirror/ewal) - A pywal-based theme generator
@@ -3781,7 +3779,7 @@
 - [go-sniffer](https://github.com/40t/go-sniffer) - 🔎Sniffing and parsing mysql,redis,http,mongodb etc protocol. 抓包截取项目中的数据库请求并解析成相应的语句。
 - [parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
 - [GTRS](https://github.com/mthbernardes/GTRS) - GTRS - Google Translator Reverse Shell
-- [pingtunnel](https://github.com/esrrhs/pingtunnel) - 流量转发加速工具.ping tunnel is a tool that advertises tcp/udp/socks5 traffic as icmp traffic for forwarding.
+- [pingtunnel](https://github.com/esrrhs/pingtunnel) - 流量转发加速工具 ping tunnel is a tool that advertises tcp/udp/socks5 traffic as icmp traffic for forwarding.
 - [uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
 - [cordless](https://github.com/Bios-Marcel/cordless) - The Discord terminal client you never knew you wanted.
@@ -7760,7 +7758,7 @@
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [keyring](https://github.com/jaraco/keyring) - 
-- [pdfarranger](https://github.com/jeromerobert/pdfarranger) - Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
+- [pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
 - [notifymuch](https://github.com/kspi/notifymuch) - Display desktop notifications for unread mail in notmuch database
 - [audible-activator](https://github.com/inAudible-NG/audible-activator) - Retrieves your activation data (activation_bytes) from Audible servers. Using https://github.com/inAudible-NG/tables project instead is recommended.
 - [sc-docker](https://github.com/Games-and-Simulations/sc-docker) - Multi-platform Version of StarCraft: Brood War in a Docker Container, ready to use for bot play simulations.
