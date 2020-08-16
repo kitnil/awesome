@@ -143,6 +143,7 @@
 
 ## Assembly 
 
+- [asmlib](https://github.com/Number571/asmlib) - Little library for assembly language (fasm, x86-64, linux).
 - [bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
 - [coursera_learning](https://github.com/raventid/coursera_learning) - Used to be my Coursera's homeworks and notes. Now it's a knowledge kitchen sink :)
 - [unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
@@ -968,6 +969,7 @@
 
 ## C++ 
 
+- [qterminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator
 - [Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
 - [sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
 - [fheroes2](https://github.com/ihhub/fheroes2) - Free implementation of Heroes of the Might and Magic II game engine
@@ -6322,7 +6324,7 @@
 
 - [bash-insulter](https://github.com/hkbakke/bash-insulter) - Insults the user when typing wrong command
 - [ui-ux-hackfest-2020](https://github.com/jenkinsci/ui-ux-hackfest-2020) - Jenkins UI/UX Hackfest (May 25-29, 2020)
-- [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of awesome little special effects
+- [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [FreezeG](https://github.com/bryandlee/FreezeG) - Freezing generator for pseudo image translation
 - [ABigSurvey](https://github.com/NiuTrans/ABigSurvey) - A collection of 300+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
