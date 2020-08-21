@@ -1948,6 +1948,12 @@
 
 ## Emacs Lisp 
 
+- [treefactor](https://github.com/cyberthal/treefactor) - Treefactor for Emacs refactors prose and incrementally refiles
+- [with-simulated-input](https://github.com/DarwinAwardWinner/with-simulated-input) - Test your interactive elisp functions non-interactively!
+- [org-ml](https://github.com/ndwarshuis/org-ml) - (formerly om.el) A functional library for org-mode
+- [org-linked-tasks](https://github.com/mskorzhinskiy/org-linked-tasks) - 
+- [org-pandoc-import](https://github.com/tecosaur/org-pandoc-import) - Save yourself from non-org formats, thanks to pandoc
+- [mousemacs](https://github.com/corvideon/mousemacs) - A mouse driven Emacs
 - [templatel](https://github.com/clarete/templatel) - Jinja inspired template language for Emacs Lisp
 - [org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD using org-mode (beta)
 - [find-trace-paths](https://github.com/ration/find-trace-paths) - Find paths from error traces and allow to scroll through and click into them
@@ -8916,6 +8922,7 @@
 
 ## Ruby 
 
+- [ronn-ng](https://github.com/apjanke/ronn-ng) - Ronn-NG: An updated fork of ronn. Build man pages from Markdown.
 - [zotxt](https://github.com/egh/zotxt) - zotxt: a Zotero extension for text
 - [sqlint](https://github.com/purcell/sqlint) - Simple SQL linter supporting ANSI and PostgreSQL syntaxes
 - [lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
