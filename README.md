@@ -697,7 +697,7 @@
 - [xash3d](https://github.com/FWGS/xash3d) - DEPRECATED in favor of https://github.com/FWGS/xash3d-fwgs. Only bugfixes are accepted.
 - [dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net
-- [john](https://github.com/openwall/john) - This is the official repo for John the Ripper jumbo. The "bleeding-jumbo" branch is based on 1.9.0-jumbo-1, which was released on May 14, 2019. An import of John the Ripper core that this jumbo was based on is found in the "core" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/).
+- [john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [source](https://github.com/lede-project/source) - Mirror of https://git.lede-project.org/?p=source.git Please send your PRs against this tree. They will be merged via staging trees and appear in this tree once the staging trees get merged back into source.git
 - [janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
@@ -1011,7 +1011,7 @@
 - [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - macOS Big Sur & Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2017 & 2018
 - [retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [AnyQ](https://github.com/baidu/AnyQ) - FAQ-based Question Answering System
-- [SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured desktop IDE for HLSL and GLSL shaders
+- [SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
 - [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
 - [zetasql](https://github.com/google/zetasql) - ZetaSQL - Analyzer Framework for SQL
 - [quinesnake](https://github.com/taylorconor/quinesnake) - A quine that plays snake over its own source!
@@ -5741,7 +5741,7 @@
 - [badgeyay](https://github.com/fossasia/badgeyay) - Attendee Badge Generator for Conferences http://badgeyay.com Backend: http://badgeyay-dev.herokuapp.com
 - [livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
 - [standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
-- [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
+- [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books everyone should read!
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1) - Explore how machine learning works, live in the browser. No coding required.
 - [HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML
@@ -7448,7 +7448,7 @@
 - [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [concentration](https://github.com/timothycrosley/concentration) - Stay focused on work when you want, and goof off when you don't.
 - [x5092json](https://github.com/jcrowgey/x5092json) - Parse TLS X509 Certificates; Output JSON
-- [isort](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
+- [isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [acme-nosudo](https://github.com/diafygi/acme-nosudo) - Free HTTPS certificates without having to trust the letsencrypt cli with sudo/root
 - [Voltorb](https://github.com/egeoz/Voltorb) - A simple GUI for undervolting on GNU/Linux
 - [YAS](https://github.com/wintrmvte/YAS) - Yet Another Sniffer for monitoring network traffic
@@ -7509,7 +7509,7 @@
 - [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [gsutil](https://github.com/GoogleCloudPlatform/gsutil) - A command line tool for interacting with cloud storage services.
 - [bpython](https://github.com/bpython/bpython) - bpython - A fancy curses interface to the Python interactive interpreter
-- [profiling](https://github.com/what-studio/profiling) - An interactive continuous Python profiler.
+- [profiling](https://github.com/what-studio/profiling) - Was an interactive continuous Python profiler.
 - [oppia](https://github.com/oppia/oppia) - Tool for collaboratively building interactive lessons.
 - [interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials
 - [Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
