@@ -2077,7 +2077,7 @@
 - [curl-to-elisp](https://github.com/xuchunyang/curl-to-elisp) - Convert cURL command to Emacs Lisp code
 - [company-emoji](https://github.com/dunn/company-emoji) - company-mode backend for emoji
 - [org-superstar-mode](https://github.com/integral-dw/org-superstar-mode) - Make org-mode stars a little more super
-- [emacs-gdscript-mode](https://github.com/GDQuest/emacs-gdscript-mode) - An Emacs package to get GDScript support and syntax highlighting.
+- [emacs-gdscript-mode](https://github.com/godotengine/emacs-gdscript-mode) - An Emacs package to get GDScript support and syntax highlighting.
 - [remind-bindings.el](https://github.com/mtekman/remind-bindings.el) - Reminders for your init bindings
 - [share2computer](https://github.com/tumashu/share2computer) - 
 - [seml-mode.el](https://github.com/conao3/seml-mode.el) - Major mode for editing SEML (S-Expression Markup Language) files
@@ -5877,7 +5877,6 @@
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [cuckoo](https://github.com/cuckoosandbox/cuckoo) - Cuckoo Sandbox is an automated dynamic malware analysis system
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [disable-webrtc-firefox](https://github.com/ChrisAntaki/disable-webrtc-firefox) - :lock: WebRTC leaks your actual IP addresses from behind your VPN, by default.
 - [searchlinkfix](https://github.com/palant/searchlinkfix) - Browser extension that prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks.
 - [sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
@@ -7062,6 +7061,7 @@
 - [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [readable-licenses](https://github.com/nevir/readable-licenses) - Make your open source license text more pleasant to read.
+- [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [GitHubExtIns](https://github.com/diegocr/GitHubExtIns) - Install Browser Extensions straight from GitHub Repositories.
 - [Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - 📜 Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
 - [dotaliases](https://github.com/algotech/dotaliases) - Helpful bash aliases for true professionals.
@@ -7844,7 +7844,7 @@
 - [wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Automate Scrubbing your Facebook Presence
 - [BrainDamage](https://github.com/mehulj94/BrainDamage) - Remote administration tool which uses Telegram as a C&C server
-- [phpsploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
+- [phpsploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp:
 - [Stitch](https://github.com/nathanlopez/Stitch) - Python Remote Administration Tool (RAT)
 - [Osmedeus](https://github.com/j3ssie/Osmedeus) - Fully automated offensive security framework for reconnaissance and vulnerability scanning
 - [uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64
