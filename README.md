@@ -1179,7 +1179,7 @@
 - [openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [halley](https://github.com/amzeratul/halley) - A lightweight game engine written in modern C++
 - [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
-- [Vangers](https://github.com/KranX/Vangers) - Video game that combines elements of the racing and role-playing genres.
+- [Vangers](https://github.com/KranX/Vangers) - The video game that combines elements of the racing and role-playing genres.
 - [immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++ — value semantics at scale
 - [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(5 KLOC) for all platforms
@@ -5358,7 +5358,7 @@
 - [node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
 - [webtelnet](https://github.com/mudchina/webtelnet) - Proxy server to bridge websocket to telnet, enable visiting telnet / MUD servers with browsers.
 - [jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
-- [sshwifty](https://github.com/niruix/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
+- [sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [liman](https://github.com/salihciftci/liman) - Self-hosted web application for monitoring docker.
 - [cookie-quick-manager](https://github.com/ysard/cookie-quick-manager) - An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
@@ -10021,7 +10021,7 @@
 - [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, Nix, i3, Kitty, Fish, Neovim and more
 - [pentestpackage](https://github.com/leonteale/pentestpackage) - a package of Pentest scripts I have made or  commonly use
 - [Meterpreter_Paranoid_Mode-SSL](https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL) - Meterpreter Paranoid Mode - SSL/TLS connections
-- [opam-repository](https://github.com/ocaml/opam-repository) - Main public package repository for OPAM, the source package manager of OCaml.
+- [opam-repository](https://github.com/ocaml/opam-repository) - Main public package repository for opam, the source package manager of OCaml.
 - [uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 - [pass-update](https://github.com/roddhjav/pass-update) - A pass extension that provides an easy flow for updating passwords.
@@ -10476,7 +10476,7 @@
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
 - [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io by @liyasthomas
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
