@@ -182,6 +182,8 @@
 
 ## C 
 
+- [st](https://github.com/jaimecgomezz/st) - A patch-friendly st distribution
+- [dmenu](https://github.com/jaimecgomezz/dmenu) - A patch-friendly dmenu distribution
 - [openempire](https://github.com/glouw/openempire) - A multiplayer lockstep RTS engine compatible with the Age of Empires II Trial assets
 - [littlewolf](https://github.com/glouw/littlewolf) - A tiny software graphics and game engine
 - [pyalpm](https://github.com/archlinux/pyalpm) - Python 3 bindings for libalpm
@@ -733,6 +735,7 @@
 - [tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
 - [kiss_sdl](https://github.com/actsl/kiss_sdl) - Simple generic GUI widget toolkit for SDL2
+- [cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
 - [emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
 - [wget2](https://github.com/rockdaboot/wget2) - The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍
 - [guile-curl](https://github.com/spk121/guile-curl) - A language binding for the CURL network client library for the Guile version of the Scheme language
@@ -969,6 +972,7 @@
 
 ## C++ 
 
+- [structopt](https://github.com/p-ranav/structopt) - Parse command line arguments by defining a struct
 - [qterminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator
 - [Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
 - [sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
@@ -3706,6 +3710,15 @@
 
 ## Go 
 
+- [shellhub](https://github.com/shellhub-io/shellhub) - :computer: ShellHub enables teams to easily access any Linux device behind firewall and NAT.
+- [tracesite](https://github.com/kalbhor/tracesite) - Go implementation of the traceroute tool
+- [go-fileserver](https://github.com/prdpx7/go-fileserver) - A simple HTTP Server to share files over WiFi via Qr Code
+- [gitsee](https://github.com/g14a/gitsee) - The backend service for a Github Visualization tool made for fun, but can be used to get an overview of a candidate during a hiring process.
+- [nschecker](https://github.com/ichikaway/nschecker) - DNS record changing detection tool with slack notification.
+- [glab](https://github.com/profclems/glab) - An open source GitLab CLI tool written in Go (golang)
+- [slacksh](https://github.com/dwisiswant0/slacksh) - Interactivity with *nix shell system flexibly via Slack slash commands.
+- [cisgo-ios](https://github.com/tbotnz/cisgo-ios) - simple concurrent ssh server posing as cisco ios
+- [webify](https://github.com/beefsack/webify) - Turn a shell command into a web service
 - [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 - [periscope](https://github.com/anishathalye/periscope) - Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭
@@ -4099,7 +4112,7 @@
 - [skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
 - [yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go Study Guide
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [anki-md](https://github.com/erroneousboat/anki-md) - A markdown to anki flash cards converter
@@ -5100,7 +5113,6 @@
 - [spring-shell](https://github.com/spring-projects/spring-shell) - Spring based interactive shell
 - [eclipse.jdt.ls](https://github.com/eclipse/eclipse.jdt.ls) - Java language server
 - [Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
-- [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [docker-plugin](https://github.com/jenkinsci/docker-plugin) - Jenkins Cloud Plugin for Docker
 - [docker-swarm-plugin](https://github.com/jenkinsci/docker-swarm-plugin) - Jenkins plugin which allows to add a Docker Swarm as a cloud agent provider
 - [ksql](https://github.com/confluentinc/ksql) - The event streaming database purpose-built for stream processing applications
@@ -5219,6 +5231,8 @@
 
 ## JavaScript 
 
+- [mogollar](https://github.com/dashersw/mogollar) - A MongoDB UI built with Electron
+- [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [habitica-cli](https://github.com/charlespwd/habitica-cli) - An immersive command line interface for Habitica :zap::fire:
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -5704,7 +5718,6 @@
 - [starmark](https://github.com/ryanmcdermott/starmark) - :octocat: Turn your GitHub stars into Chrome bookmarks
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
-- [cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2020)
@@ -5993,6 +6006,7 @@
 - [cl-jupyter](https://github.com/fredokun/cl-jupyter) - An enhanced interactive Shell for Common Lisp (based on the Jupyter protocol)
 - [imongo](https://github.com/gusutabopb/imongo) - A MongoDB kernel for Jupyter
 - [jupyterWith](https://github.com/tweag/jupyterWith) - declarative and reproducible Jupyter environments - powered by Nix
+- [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
@@ -6045,6 +6059,8 @@
 
 ## Kotlin 
 
+- [TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device
+- [dependency-tree-diff](https://github.com/JakeWharton/dependency-tree-diff) - An intelligent diff tool for the output of Gradle's dependencies task
 - [habitica-android](https://github.com/HabitRPG/habitica-android) - Native Android app for Habitica
 - [GitExplorer-Android](https://github.com/Shashank02051997/GitExplorer-Android) - Find the right git commands 🔥 without digging through the web.😊😊😉
 - [noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noises.
@@ -6213,6 +6229,7 @@
 
 ## Nix 
 
+- [devshell](https://github.com/numtide/devshell) - 
 - [nix-hs](https://github.com/pjones/nix-hs) - Haskell + nixpkgs = nix-hs
 - [shabitica](https://github.com/headcounter/shabitica) - Run your own self-hosted Habitica instance
 - [novault](https://github.com/vitiral/novault) - ultra simple and secure vaultless password manager (beta)
@@ -6326,6 +6343,8 @@
 
 ## Others 
 
+- [get-a-software-engineering-job](https://github.com/workattech/get-a-software-engineering-job) - Get a Software Engineering Job - Ultimate Guide
+- [javascript-dev-bookmarks](https://github.com/didicodes/javascript-dev-bookmarks) - A collection of articles that will help you get better at JavaScript.
 - [bash-insulter](https://github.com/hkbakke/bash-insulter) - Insults the user when typing wrong command
 - [ui-ux-hackfest-2020](https://github.com/jenkinsci/ui-ux-hackfest-2020) - Jenkins UI/UX Hackfest (May 25-29, 2020)
 - [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
@@ -7410,6 +7429,8 @@
 
 ## Python 
 
+- [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
+- [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
 - [tomatych](https://github.com/dmi3/tomatych) - Simple Hackable Pomodoro Timer with Slack and Habitica integrations
 - [AnkiHabitica](https://github.com/eshapard/AnkiHabitica) - Anki 2.0/2.1 add-on for use with HabitRPG. Automatically scores habits when you reach the end of your Anki timebox and when you review all cards in a deck.
@@ -7509,7 +7530,7 @@
 - [gsutil](https://github.com/GoogleCloudPlatform/gsutil) - A command line tool for interacting with cloud storage services.
 - [bpython](https://github.com/bpython/bpython) - bpython - A fancy curses interface to the Python interactive interpreter
 - [profiling](https://github.com/what-studio/profiling) - Was an interactive continuous Python profiler.
-- [oppia](https://github.com/oppia/oppia) - Tool for collaboratively building interactive lessons.
+- [oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials
 - [Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 - [zipfly](https://github.com/BuzonIO/zipfly) - Writing large ZIP archives without memory inflation
@@ -8006,7 +8027,7 @@
 - [clize](https://github.com/epsy/clize) - CLIze: Turn Python functions into command-line interfaces
 - [Discline](https://github.com/mitchweaver/Discline) - 🐍  A terminal Discord client that you can actually use.
 - [python-progressbar](https://github.com/WoLpH/python-progressbar) - Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"
-- [gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 理智管理多个git库
+- [gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
 - [mssql-cli](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting
 - [BoopSuite](https://github.com/MisterBianco/BoopSuite) - A Suite of Tools written in Python for wireless auditing and security testing.
@@ -9103,6 +9124,7 @@
 
 ## Rust 
 
+- [manix](https://github.com/mlvzk/manix) - A fast CLI documentation searcher for Nix.
 - [cookie_dough](https://github.com/gamozolabs/cookie_dough) - A fuzzing introspection tool
 - [rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
 - [orgize](https://github.com/PoiScript/orgize) - A Rust library for parsing orgmode files.
@@ -9463,6 +9485,9 @@
 
 ## Shell 
 
+- [sysbox](https://github.com/nestybox/sysbox) - Sysbox repository
+- [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
+- [registrish](https://github.com/jpetazzo/registrish) - Dirty hack to run a read-only, public Docker registry on almost any static file hosting service (e.g. NGINX, Netlify, S3...)
 - [tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
 - [tc-gen](https://github.com/hkbakke/tc-gen) - Modern linux traffic shaping made easy
 - [packaging](https://github.com/jenkinsci/packaging) - Native packaging for Jenkins
