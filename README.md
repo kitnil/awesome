@@ -182,6 +182,8 @@
 
 ## C 
 
+- [xbanish](https://github.com/jcs/xbanish) - banish the mouse cursor when typing, show it again when the mouse moves
+- [sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
 - [st](https://github.com/jaimecgomezz/st) - A patch-friendly st distribution
 - [dmenu](https://github.com/jaimecgomezz/dmenu) - A patch-friendly dmenu distribution
 - [openempire](https://github.com/glouw/openempire) - A multiplayer lockstep RTS engine compatible with the Age of Empires II Trial assets
@@ -1435,7 +1437,7 @@
 - [ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [Natron](https://github.com/MrKepzie/Natron) - Open-source compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
-- [minetest](https://github.com/minetest/minetest) - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
+- [minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
 - [keepassx](https://github.com/keepassx/keepassx) - KeePassX is a cross platform port of the windows application “Keepass Password Safe”.
 - [clang-tools-extra](https://github.com/llvm-mirror/clang-tools-extra) - Mirror kept for legacy. Moved to https://github.com/llvm/llvm-project
 - [android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux
@@ -3718,7 +3720,7 @@
 - [glab](https://github.com/profclems/glab) - An open source GitLab CLI tool written in Go (golang)
 - [slacksh](https://github.com/dwisiswant0/slacksh) - Interactivity with *nix shell system flexibly via Slack slash commands.
 - [cisgo-ios](https://github.com/tbotnz/cisgo-ios) - simple concurrent ssh server posing as cisco ios
-- [webify](https://github.com/beefsack/webify) - Turn a shell command into a web service
+- [webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 - [periscope](https://github.com/anishathalye/periscope) - Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭
@@ -4667,7 +4669,6 @@
 - [OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
-- [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 - [awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
 - [awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [git-history-editor](https://github.com/bokub/git-history-editor) - :pencil2: Online commit editor, intuitive and easy to use
@@ -6551,6 +6552,7 @@
 - [awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
 - [awesome-human-pose-estimation](https://github.com/cbsudux/awesome-human-pose-estimation) - A collection of awesome resources in Human Pose estimation.
 - [awesome-charting](https://github.com/zingchart/awesome-charting) - A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries
+- [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
 - [awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems) - Awesome list of distributed systems resources
 - [awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
 - [awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
@@ -7429,6 +7431,9 @@
 
 ## Python 
 
+- [pynet](https://github.com/ktbyers/pynet) - Python for Network Engineers
+- [netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
+- [xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server
 - [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
@@ -9485,6 +9490,7 @@
 
 ## Shell 
 
+- [screen-workdir.sh](https://github.com/gutierri/screen-workdir.sh) - Utility to create session with the current folder name on GNU Screen
 - [sysbox](https://github.com/nestybox/sysbox) - Sysbox repository
 - [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
 - [registrish](https://github.com/jpetazzo/registrish) - Dirty hack to run a read-only, public Docker registry on almost any static file hosting service (e.g. NGINX, Netlify, S3...)
