@@ -143,6 +143,7 @@
 
 ## Assembly 
 
+- [micro-coreutils](https://github.com/mystor/micro-coreutils) - An implementation of the unix commands yes, cat, and echo in as few bytes of executable as possible
 - [asmlib](https://github.com/Number571/asmlib) - Little library for assembly language (fasm, x86-64, linux).
 - [bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
 - [coursera_learning](https://github.com/raventid/coursera_learning) - Used to be my Coursera's homeworks and notes. Now it's a knowledge kitchen sink :)
@@ -182,6 +183,7 @@
 
 ## C 
 
+- [lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
 - [xbanish](https://github.com/jcs/xbanish) - banish the mouse cursor when typing, show it again when the mouse moves
 - [sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
 - [st](https://github.com/jaimecgomezz/st) - A patch-friendly st distribution
@@ -3712,6 +3714,8 @@
 
 ## Go 
 
+- [quickhook](https://github.com/dirk/quickhook) - Faster Git hook (pre-commit, etc.) runner
+- [dockerfile](https://github.com/asottile/dockerfile) - Parse a dockerfile into a high-level representation using the official go parser
 - [shellhub](https://github.com/shellhub-io/shellhub) - :computer: ShellHub enables teams to easily access any Linux device behind firewall and NAT.
 - [tracesite](https://github.com/kalbhor/tracesite) - Go implementation of the traceroute tool
 - [go-fileserver](https://github.com/prdpx7/go-fileserver) - A simple HTTP Server to share files over WiFi via Qr Code
@@ -5004,6 +5008,7 @@
 
 ## Java 
 
+- [UMLGraph](https://github.com/dspinellis/UMLGraph) - Declarative specification and drawing of UML diagrams
 - [peertube-android](https://github.com/sschueller/peertube-android) - Thorium, a PeerTube Android Client
 - [davos](https://github.com/linuxserver/davos) - Web-based FTP automation for Linux servers.
 - [jenkinsfile-runner](https://github.com/jenkinsci/jenkinsfile-runner) - A command line tool to run Jenkinsfile as a function
@@ -5232,6 +5237,7 @@
 
 ## JavaScript 
 
+- [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [mogollar](https://github.com/dashersw/mogollar) - A MongoDB UI built with Electron
 - [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
@@ -7431,6 +7437,11 @@
 
 ## Python 
 
+- [pytest-picked](https://github.com/anapaulagomes/pytest-picked) - Run the tests related to the changed files (according to Git) 🤓
+- [git-code-debt](https://github.com/asottile/git-code-debt) - A dashboard for monitoring code debt in a git repository.
+- [all-repos](https://github.com/asottile/all-repos) - Clone all your repositories and apply sweeping changes.
+- [python-cookbook](https://github.com/dabeaz/python-cookbook) - Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly & Associates, May, 2013.
+- [pythonic-news](https://github.com/sebst/pythonic-news) - A Hacker News lookalike written in Python/Django, powering https://news.python.sc
 - [pynet](https://github.com/ktbyers/pynet) - Python for Network Engineers
 - [netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
 - [xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server
@@ -8946,6 +8957,7 @@
 
 ## Ruby 
 
+- [rush](https://github.com/adamwiggins/rush) - Ruby replacement for bash+ssh
 - [ronn-ng](https://github.com/apjanke/ronn-ng) - Ronn-NG: An updated fork of ronn. Build man pages from Markdown.
 - [zotxt](https://github.com/egh/zotxt) - zotxt: a Zotero extension for text
 - [sqlint](https://github.com/purcell/sqlint) - Simple SQL linter supporting ANSI and PostgreSQL syntaxes
@@ -9129,6 +9141,7 @@
 
 ## Rust 
 
+- [deucalion](https://github.com/team-code/deucalion) - A JRPG engine written with Rust and SFML, scriptable in Lua
 - [manix](https://github.com/mlvzk/manix) - A fast CLI documentation searcher for Nix.
 - [cookie_dough](https://github.com/gamozolabs/cookie_dough) - A fuzzing introspection tool
 - [rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
@@ -9490,6 +9503,10 @@
 
 ## Shell 
 
+- [charpicker](https://github.com/NoraCodes/charpicker) - A fast, simple Emoji and special character picker for X and Wayland
+- [git-deploy](https://github.com/benrady/git-deploy) - An ultra-lightweight continuous deployment tool packaged as a git plugin
+- [cleandiff](https://github.com/masukomi/cleandiff) - CleanDiff is a better diffing tool, that's easier on your brain.
+- [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [screen-workdir.sh](https://github.com/gutierri/screen-workdir.sh) - Utility to create session with the current folder name on GNU Screen
 - [sysbox](https://github.com/nestybox/sysbox) - Sysbox repository
 - [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
