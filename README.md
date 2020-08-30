@@ -681,7 +681,7 @@
 - [cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
 - [pianobar](https://github.com/PromyLOPh/pianobar) - Console-based pandora.com player
 - [Collections-C](https://github.com/srdja/Collections-C) - A library of generic data structures.
-- [libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org websocket library
+- [libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
 - [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [ultrajson](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
@@ -3716,6 +3716,7 @@
 
 ## Go 
 
+- [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [quickhook](https://github.com/dirk/quickhook) - Faster Git hook (pre-commit, etc.) runner
 - [dockerfile](https://github.com/asottile/dockerfile) - Parse a dockerfile into a high-level representation using the official go parser
 - [shellhub](https://github.com/shellhub-io/shellhub) - :computer: ShellHub enables teams to easily access any Linux device behind firewall and NAT.
@@ -5010,6 +5011,7 @@
 
 ## Java 
 
+- [ircbot-plugin](https://github.com/jenkinsci/ircbot-plugin) - Jenkins ircbot plugin
 - [UMLGraph](https://github.com/dspinellis/UMLGraph) - Declarative specification and drawing of UML diagrams
 - [peertube-android](https://github.com/sschueller/peertube-android) - Thorium, a PeerTube Android Client
 - [davos](https://github.com/linuxserver/davos) - Web-based FTP automation for Linux servers.
@@ -6514,7 +6516,6 @@
 - [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [awesome-linux-rootkits](https://github.com/milabs/awesome-linux-rootkits) - awesome-linux-rootkits
 - [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) - 👻 A curated list of awesome FFmpeg resources.
-- [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [awesome-very-deep-learning](https://github.com/daviddao/awesome-very-deep-learning) - ♾A curated list of papers and code about very deep neural networks
 - [awesome-writing](https://github.com/jenniferlynparsons/awesome-writing) - An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials
 - [awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa) - 🗣Curated list of awesome resources for the Amazon Alexa platform.
@@ -7440,6 +7441,10 @@
 
 ## Python 
 
+- [evilpass](https://github.com/ddevault/evilpass) - Slightly evil password strength checker
+- [ansi2html](https://github.com/ralphbean/ansi2html) - Convert text with ansi color codes to HTML
+- [pykeepass](https://github.com/libkeepass/pykeepass) - Python library to interact with keepass databases (supports KDBX3 and KDBX4)
+- [ffpass](https://github.com/louisabraham/ffpass) - Import and Export passwords for Firefox Quantum 🔑
 - [shell](https://github.com/toastdriven/shell) - A better way to run shell commands in Python.
 - [imapy](https://github.com/vladimarius/imapy) - Imapy: Imap for Humans
 - [pytest-picked](https://github.com/anapaulagomes/pytest-picked) - Run the tests related to the changed files (according to Git) 🤓
@@ -7688,6 +7693,7 @@
 - [jenkins-autojobs](https://github.com/gvalkov/jenkins-autojobs) - Automatically create Jenkins jobs from template jobs and branches in a SCM repository
 - [pdf2image](https://github.com/Belval/pdf2image) - A python module that wraps the pdftoppm utility to convert PDF to PIL Image object
 - [bridgy](https://github.com/wagoodman/bridgy) - cloud inventory + ssh + tmux + sshfs
+- [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [devblogs](https://github.com/abdelhai/devblogs) - +2600 developer-related blogs and publications.
 - [awesome-dash](https://github.com/ucg8j/awesome-dash) - A curated list of awesome Dash (plotly) resources
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
