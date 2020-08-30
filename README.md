@@ -976,6 +976,7 @@
 
 ## C++ 
 
+- [QtPass](https://github.com/IJHack/QtPass) - QtPass is a multi-platform GUI for pass, the standard unix password manager.
 - [structopt](https://github.com/p-ranav/structopt) - Parse command line arguments by defining a struct
 - [qterminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator
 - [Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
@@ -1955,6 +1956,7 @@
 
 ## Emacs Lisp 
 
+- [calibredb.el](https://github.com/chenyanming/calibredb.el) - Yet Another calibre client - An Ebook Management Solution in Emacs.
 - [treefactor](https://github.com/cyberthal/treefactor) - Treefactor for Emacs refactors prose and incrementally refiles
 - [with-simulated-input](https://github.com/DarwinAwardWinner/with-simulated-input) - Test your interactive elisp functions non-interactively!
 - [org-ml](https://github.com/ndwarshuis/org-ml) - (formerly om.el) A functional library for org-mode
@@ -6066,6 +6068,7 @@
 
 ## Kotlin 
 
+- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - :iphone: KeePass implementation for android with material design and deluxe features
 - [TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device
 - [dependency-tree-diff](https://github.com/JakeWharton/dependency-tree-diff) - An intelligent diff tool for the output of Gradle's dependencies task
 - [habitica-android](https://github.com/HabitRPG/habitica-android) - Native Android app for Habitica
@@ -6137,7 +6140,7 @@
 - [luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
 - [lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
 - [awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
-- [nvim-lsp](https://github.com/neovim/nvim-lsp) - Nvim LSP client configurations
+- [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Collection of (useful, but unsupported) configurations for the Nvim LSP client
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 - [lua-lsp](https://github.com/Alloyed/lua-lsp) - A Lua language server
@@ -7437,6 +7440,8 @@
 
 ## Python 
 
+- [shell](https://github.com/toastdriven/shell) - A better way to run shell commands in Python.
+- [imapy](https://github.com/vladimarius/imapy) - Imapy: Imap for Humans
 - [pytest-picked](https://github.com/anapaulagomes/pytest-picked) - Run the tests related to the changed files (according to Git) 🤓
 - [git-code-debt](https://github.com/asottile/git-code-debt) - A dashboard for monitoring code debt in a git repository.
 - [all-repos](https://github.com/asottile/all-repos) - Clone all your repositories and apply sweeping changes.
@@ -7752,6 +7757,7 @@
 - [shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessible via git.
 - [ShellPop](https://github.com/0x00-0x00/ShellPop) - Pop shells like a master.
+- [whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
 - [aurman](https://github.com/polygamma/aurman) - AUR Helper
 - [vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Set latest wallpapers from Unsplash from the commandline
@@ -9764,7 +9770,6 @@
 - [kyrat](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX
 - [junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs upon any Linux distros without root access
 - [pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
-- [whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
 - [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [nave](https://github.com/isaacs/nave) - Virtual Environments for Node
 - [gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
