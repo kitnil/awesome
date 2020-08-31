@@ -976,6 +976,7 @@
 
 ## C++ 
 
+- [xca](https://github.com/chris2511/xca) - X Certificate and Key management
 - [QtPass](https://github.com/IJHack/QtPass) - QtPass is a multi-platform GUI for pass, the standard unix password manager.
 - [structopt](https://github.com/p-ranav/structopt) - Parse command line arguments by defining a struct
 - [qterminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator
@@ -1143,7 +1144,7 @@
 - [Nuclear-Engine](https://github.com/Zone-organization/Nuclear-Engine) - Fast, customizable, cross-platform game engine powered by Nuclear Fuel! 🚀♨🔥
 - [thunder](https://github.com/eprikazchikov/thunder) - An open source game engine is written in C++ with a flexible architecture
 - [azteroids](https://github.com/rodrigosetti/azteroids) - Simple Asteroids game in C++ and OpenGL
-- [RaZ](https://github.com/Razakhel/RaZ) - Modern & multiplatform 3D engine in C++17
+- [RaZ](https://github.com/Razakhel/RaZ) - Modern & multiplatform game engine in C++17
 - [rewind-viewer](https://github.com/kswaldemar/rewind-viewer) - Fast match viewer with rewinding support for Russian AI Cup championship series
 - [Mycraft](https://github.com/Clapeysron/Mycraft) - A minecraft clone project based on modern OpenGL completed in ZJU computer graphics course.
 - [ManaPlus](https://github.com/ManaPlus/ManaPlus) - Advanced client for The Mana World and Evol Online (Mirror from https://gitlab.com/manaplus/manaplus)
@@ -1294,7 +1295,7 @@
 - [recastnavigation](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh Toolset for Games
 - [Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine.
 - [massgate](https://github.com/ubisoft/massgate) - Massgate is the online backend server for the Massive Entertainment game World in Conflict, and is now open-source to make it possible for anyone to host their own Massgate server.
-- [LumixEngine](https://github.com/nem0/LumixEngine) - 3D Game Engine - yet another open source game engine
+- [LumixEngine](https://github.com/nem0/LumixEngine) - 3D C++ Game Engine - yet another open source game engine
 - [Bacon2D](https://github.com/Bacon2D/Bacon2D) - Bacon2D is a framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
 - [Polycode](https://github.com/ivansafrin/Polycode) - Polycode is a cross-platform framework for creative code.
 - [gamekit](https://github.com/gamekit-developers/gamekit) - See http://gamekit.org or http://gamekit.googlecode.com A basic cross-platform 3D game engine around Lua, Bullet, .blend files, Ogre or Irrlicht.
@@ -1956,6 +1957,7 @@
 
 ## Emacs Lisp 
 
+- [notmuch-maildir](https://github.com/emacsmirror/notmuch-maildir) - Visualize maildirs as a tree
 - [calibredb.el](https://github.com/chenyanming/calibredb.el) - Yet Another calibre client - An Ebook Management Solution in Emacs.
 - [treefactor](https://github.com/cyberthal/treefactor) - Treefactor for Emacs refactors prose and incrementally refiles
 - [with-simulated-input](https://github.com/DarwinAwardWinner/with-simulated-input) - Test your interactive elisp functions non-interactively!
@@ -2144,7 +2146,7 @@
 - [ox-json](https://github.com/jlumpe/ox-json) - JSON export back end for Emacs Org mode
 - [boxquote.el](https://github.com/davep/boxquote.el) - Quote text with a semi-box.
 - [maxframe.el](https://github.com/rmm5t/maxframe.el) - :left_right_arrow::arrow_up_down: [Elisp] maxframe provides the ability to maximize the emacs frame and stay within the display resolution.
-- [counsel-jq](https://github.com/200ok-ch/counsel-jq) - Quickly test queries and traverse a complex JSON structure whilst having live feedback
+- [counsel-jq](https://github.com/200ok-ch/counsel-jq) - Traverse complex JSON structures with live feedback
 - [multi-project](https://github.com/emacsmirror/multi-project) - Find files, compile, and search for multiple projects
 - [visual-indentation-mode](https://github.com/skeeto/visual-indentation-mode) - Emacs minor mode to visualize source indentation
 - [tramp-auto-auth](https://github.com/oitofelix/tramp-auto-auth) - TRAMP automatic authentication library
@@ -3716,6 +3718,10 @@
 
 ## Go 
 
+- [rod](https://github.com/go-rod/rod) - A Devtools driver to make web automation and scraping easy
+- [screenshot](https://github.com/kbinani/screenshot) - Go library to capture desktop to image
+- [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites
+- [cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera
 - [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [quickhook](https://github.com/dirk/quickhook) - Faster Git hook (pre-commit, etc.) runner
 - [dockerfile](https://github.com/asottile/dockerfile) - Parse a dockerfile into a high-level representation using the official go parser
@@ -4455,7 +4461,7 @@
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
 - [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
-- [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices
+- [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [esbulk](https://github.com/miku/esbulk) - Bulk indexing command line tool for elasticsearch
 - [aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine.
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -5241,6 +5247,8 @@
 
 ## JavaScript 
 
+- [chrome-har-capturer](https://github.com/cyrus-and/chrome-har-capturer) - Capture HAR files from a Chrome instance
+- [old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [mogollar](https://github.com/dashersw/mogollar) - A MongoDB UI built with Electron
 - [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
@@ -7441,6 +7449,7 @@
 
 ## Python 
 
+- [volti](https://github.com/gen2brain/volti) - Volti is GTK+ application for controlling audio volume from system tray/notification area
 - [evilpass](https://github.com/ddevault/evilpass) - Slightly evil password strength checker
 - [ansi2html](https://github.com/ralphbean/ansi2html) - Convert text with ansi color codes to HTML
 - [pykeepass](https://github.com/libkeepass/pykeepass) - Python library to interact with keepass databases (supports KDBX3 and KDBX4)
@@ -10364,7 +10373,7 @@
 - [dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [zero](https://github.com/sinclairzx81/zero) - 3D Graphics Rendering Pipeline. Implemented in JavaScript. Run in a terminal.
-- [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 9+
+- [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
