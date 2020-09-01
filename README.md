@@ -284,7 +284,7 @@
 - [gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
 - [libleakmydata](https://github.com/DavidBuchanan314/libleakmydata) - A simple LD_PRELOAD library to disable SSL certificate verification. Inspired by libeatmydata.
 - [thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
-- [basque](https://github.com/ryanpcmcquen/basque) - A top-down 2d game engine, written from scratch in under 1000 lines of C.
+- [basque](https://github.com/ryanpcmcquen/basque) - A top-down 2d game engine, written from scratch in under 1000 lines of C. Development of the game based on this engine is streamed on Twitch: https://www.twitch.tv/ryanpcmcquen
 - [quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
 - [quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable adaptive merge sort which is faster than quicksort.
 - [DungeonRush](https://github.com/Rapiz1/DungeonRush) - 👾🐍 A opensource game inspired by Snake, written in pure C with SDL
@@ -365,7 +365,6 @@
 - [lisp-interpreter](https://github.com/justinmeiners/lisp-interpreter) - Embeddable lisp/scheme interpreter written in C.
 - [lpp-vita](https://github.com/Rinnegatamante/lpp-vita) - Lua Player Plus for PSVITA. Documentation on: http://rinnegatamante.github.io/lpp-vita/
 - [python_lite](https://github.com/fy0/python_lite) - [WIP] A simple, lightweight implementation of python3 language.
-- [s](https://github.com/rain-1/s) - the s shell
 - [my_basic](https://github.com/paladin-t/my_basic) - A lightweight BASIC interpreter written in standard C in dual files. Aimed to be embeddable, extendable and portable.
 - [q3vm](https://github.com/jnz/q3vm) - Q3VM - Single file (vm.c) bytecode virtual machine/interpreter for C-language input
 - [bic](https://github.com/hexagonal-sun/bic) - A C interpreter and API explorer.
@@ -4221,7 +4220,6 @@
 - [bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [prybar](https://github.com/replit/prybar) - Pry open those interpreters.
 - [badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
 - [wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
@@ -4878,7 +4876,7 @@
 - [discord-haskell](https://github.com/aquarial/discord-haskell) - Haskell library for writing Discord bots
 - [asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
 - [ormolu](https://github.com/tweag/ormolu) - A formatter for Haskell source code
-- [ghcide](https://github.com/digital-asset/ghcide) - A library for building Haskell IDE tooling
+- [ghcide](https://github.com/haskell/ghcide) - A library for building Haskell IDE tooling
 - [irc-core](https://github.com/glguy/irc-core) - Haskell IRC library and console client - Join us on Freenode #haskell-irc
 - [eta](https://github.com/typelead/eta) - The Eta Programming Language, a dialect of Haskell on the JVM
 - [gitlib](https://github.com/jwiegley/gitlib) - 
@@ -5499,6 +5497,7 @@
 - [helm-chrome-control](https://github.com/xuchunyang/helm-chrome-control) - Control Chrome tabs with Helm
 - [cloudserver](https://github.com/scality/cloudserver) - Zenko CloudServer, an open-source Node.js implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.
 - [pathephone-desktop](https://github.com/pathephone/pathephone-desktop) - Distributed audio player
+- [prybar](https://github.com/replit/prybar) - Pry open those interpreters.
 - [nativescript-cli](https://github.com/NativeScript/nativescript-cli) - Command-line interface for building NativeScript apps
 - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
@@ -6737,7 +6736,7 @@
 - [awesome-glsl](https://github.com/radixzz/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
 - [Guide-to-Modern-OpenGL-Functions](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions) - A guide to using modern OpenGL functions.
 - [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Awesome Vulkan ecosystem
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
 - [ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
 - [awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
 - [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -8308,7 +8307,7 @@
 - [awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
 - [buildinfo.debian.net](https://github.com/lamby/buildinfo.debian.net) - Proof-of-concept .buildinfo server
-- [pypi2nix](https://github.com/nix-community/pypi2nix) - Abandoned! Generate Nix expressions for Python packages
+- [pypi2nix](https://github.com/nix-community/pypi2nix) - Abandoned! Generate Nix expressions for Python packages [maintainer=@seppeljordan]
 - [webmacs](https://github.com/parkouss/webmacs) - webmacs - keyboard driven (emacs key bindings) browser, https://webmacs.readthedocs.io/en/latest/
 - [pss](https://github.com/eliben/pss) - pss is a power-tool for searching inside source code files.
 - [fofix](https://github.com/fofix/fofix) - Frets on Fire X: a fork of Frets on Fire with many added features and capabilities
@@ -8350,7 +8349,7 @@
 - [wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [starless](https://github.com/rantonels/starless) - Starless is a CPU black hole raytracer in numpy suitable for both informative diagrams and decent wallpaper material.
 - [Zope](https://github.com/zopefoundation/Zope) - Zope is an open-source web application server.
-- [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
+- [searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [Python_Basics](https://github.com/learnbyexample/Python_Basics) - :snake: Syntax, working with Shell commands, Files, Text Processing, and more...
 - [ProjectFib](https://github.com/anantdgoel/ProjectFib) - Chrome extension to flag fake news on Facebook. Built at HackPrinceton '16
 - [OSCP](https://github.com/ihack4falafel/OSCP) - Collection of things made during my OSCP journey
@@ -10379,7 +10378,7 @@
 - [setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
 - [SOSML](https://github.com/SOSML/SOSML) - The Online Interpreter for Standard ML, written in TypeScript.
 - [discord-term](https://github.com/cloudrex/discord-term) - Extensible Discord terminal client
-- [ext-saladict](https://github.com/crimx/ext-saladict) - Feature-rich professional inline translator.
+- [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional inline translator.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
@@ -10445,7 +10444,7 @@
 
 ## V 
 
-- [vid](https://github.com/vlang/vid) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
+- [ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
 - [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## VCL 
