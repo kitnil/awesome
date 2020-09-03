@@ -5669,7 +5669,7 @@
 - [greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-- [headless-recorder](https://github.com/checkly/headless-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
+- [headless-recorder](https://github.com/checkly/headless-recorder) - Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
@@ -8681,7 +8681,7 @@
 - [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
-- [maildir-deduplicate](https://github.com/kdeldycke/maildir-deduplicate) - :e-mail: CLI to deduplicate mails from maildir folders.
+- [mail-deduplicate](https://github.com/kdeldycke/mail-deduplicate) - :e-mail: CLI to deduplicate mails from maildir folders.
 - [git-multimail](https://github.com/git-multimail/git-multimail) - Send notification emails for pushes to a git repository (an improved version of post-receive-mail)
 - [mailnag](https://github.com/pulb/mailnag) - An extensible mail notification daemon
 - [mailthon](https://github.com/eugene-eeo/mailthon) - elegant email sending for Python
@@ -8800,7 +8800,7 @@
 - [coil](https://github.com/getnikola/coil) - A user-friendly CMS frontend for Nikola.
 - [tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
 - [Coherence](https://github.com/coherence-project/Coherence) - DLNA/UPnP Media Server and Framework for the Digital Living
-- [offlineimap](https://github.com/OfflineIMAP/offlineimap) - Read/sync your IMAP mailboxes
+- [offlineimap](https://github.com/OfflineIMAP/offlineimap) - Read/sync your IMAP mailboxes (python2)
 - [bups](https://github.com/emersion/bups) - Simple GUI for Bup, a very efficient backup system.
 - [repren](https://github.com/jlevy/repren) - Rename anything
 - [tvnamer](https://github.com/dbr/tvnamer) - Automatic TV episode file renamer, uses data from thetvdb.com via tvdb_api
@@ -8854,6 +8854,7 @@
 - [qBittorrent-RuTracker-plugin](https://github.com/Skymirrh/qBittorrent-RuTracker-plugin) - qBittorrent search engine plugin for rutracker.org.
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
+- [dotfiles](https://github.com/kaushalmodi/dotfiles) - 
 - [livecd-tools](https://github.com/livecd-tools/livecd-tools) - Tools for building live CDs using DNF
 - [prospector](https://github.com/PyCQA/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
@@ -10195,7 +10196,6 @@
 - [dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-- [dotfiles](https://github.com/kaushalmodi/dotfiles) - 
 - [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 - [almostontop](https://github.com/Valiev/almostontop) - almostontop zsh plugin
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
