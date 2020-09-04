@@ -183,6 +183,7 @@
 
 ## C 
 
+- [soloud](https://github.com/jarikomppa/soloud) - Free, easy, portable audio engine for games
 - [lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
 - [xbanish](https://github.com/jcs/xbanish) - banish the mouse cursor when typing, show it again when the mouse moves
 - [sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
@@ -4671,7 +4672,7 @@
 - [easybank-learning-sass](https://github.com/LeonidasEsteban/easybank-learning-sass) - I'm learning sass in a live streaming
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 650 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [photo-stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream
 - [pyptex](https://github.com/sloisel/pyptex) - Python Preprocessor for LaTeX
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
@@ -6439,7 +6440,7 @@
 - [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
 - [how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
-- [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers. / 每天更新！全网热门 BT Tracker 列表！
+- [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [kubernetes-production-best-practices](https://github.com/learnk8s/kubernetes-production-best-practices) - A checklist of Kubernetes best practices to help you release to production
 - [awesome-webpack-perf](https://github.com/iamakulov/awesome-webpack-perf) - A curated list of webpack tools for web performance
 - [README-template.md](https://github.com/scottydocs/README-template.md) - A README template for anyone to copy and use.
@@ -8681,7 +8682,7 @@
 - [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
-- [mail-deduplicate](https://github.com/kdeldycke/mail-deduplicate) - :e-mail: CLI to deduplicate mails from maildir folders.
+- [mail-deduplicate](https://github.com/kdeldycke/mail-deduplicate) - :e-mail: CLI to deduplicate mails from maildir folders
 - [git-multimail](https://github.com/git-multimail/git-multimail) - Send notification emails for pushes to a git repository (an improved version of post-receive-mail)
 - [mailnag](https://github.com/pulb/mailnag) - An extensible mail notification daemon
 - [mailthon](https://github.com/eugene-eeo/mailthon) - elegant email sending for Python
@@ -8719,7 +8720,7 @@
 - [pypi2deb](https://github.com/p1otr/pypi2deb) - PyPI to Debian converter
 - [gitfs](https://github.com/presslabs/gitfs) - Version controlled file system
 - [jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
-- [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites
+- [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [logster](https://github.com/etsy/logster) - Parse log files, generate metrics for Graphite and Ganglia
 - [pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [lektor](https://github.com/lektor/lektor) - The lektor static file content management system
