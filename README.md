@@ -1630,6 +1630,7 @@
 
 ## Common Lisp 
 
+- [fuzzy-match](https://github.com/vindarel/fuzzy-match) - Fuzzy match candidates from an input string.
 - [trivial-snake](https://github.com/ryukinix/trivial-snake) - A trivial snake game written in Common Lisp built on top of trivial-gamekit
 - [Concrete-Syntax-Tree](https://github.com/s-expressionists/Concrete-Syntax-Tree) - 
 - [Github-API-CL](https://github.com/ccqpein/Github-API-CL) - Common Lisp Github API Client
@@ -1875,7 +1876,6 @@
 - [kde-in-docker](https://github.com/ms-jpq/kde-in-docker) - So you can run KDE inside a browser
 - [Find-Python-syntax-errors-action](https://github.com/cclauss/Find-Python-syntax-errors-action) - A GitHub Action that finds Python syntax errors and undefined names in your repo
 - [lisp-devel-docker](https://github.com/daewok/lisp-devel-docker) - Docker images for Lisp development
-- [gentoo-docker-images](https://github.com/gentoo/gentoo-docker-images) - [MIRROR] Common effort to get an official and automated gentoo base docker container
 - [android](https://github.com/bitrise-io/android) - Android Docker image
 - [nginx-rtmp-docker](https://github.com/tiangolo/nginx-rtmp-docker) - Docker image with Nginx using the nginx-rtmp-module module for live multimedia (video) streaming.
 - [AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
@@ -1957,6 +1957,14 @@
 
 ## Emacs Lisp 
 
+- [org-fc](https://github.com/l3kn/org-fc) - Spaced Repetition System for Emacs org-mode
+- [literate-calc-mode.el](https://github.com/sulami/literate-calc-mode.el) - 🧮 Literate programming for M-x calc
+- [nox](https://github.com/manateelazycat/nox) - Nox is a lightweight, high-performance LSP client for Emacs
+- [doct](https://github.com/progfolio/doct) - DOCT: Declarative Org Capture Templates for Emacs
+- [vuiet](https://github.com/mihaiolteanu/vuiet) - The music player and explorer for Emacs
+- [go-translate](https://github.com/lorniu/go-translate) - Improved Google Translate interface with asynchronous request and better user experience.
+- [eshell-syntax-highlighting](https://github.com/akreisher/eshell-syntax-highlighting) - Syntax highlighting for Eshell
+- [ligature.el](https://github.com/mickeynp/ligature.el) - Display typographical ligatures in Emacs
 - [modern-sh](https://github.com/damon-kwok/modern-sh) - :guitar: An Emacs minor mode for editing shell script.
 - [flycheck-projectile](https://github.com/nbfalcon/flycheck-projectile) - Project-wide flycheck errors
 - [gitlab-pipeline](https://github.com/TxGVNN/gitlab-pipeline) - Emacs tool to show gitlab-pipeline
@@ -3722,6 +3730,11 @@
 
 ## Go 
 
+- [wordlistgen](https://github.com/ethicalhackingplayground/wordlistgen) - Generates target specific word lists for Fuzzing with fuff
+- [meg](https://github.com/tomnomnom/meg) - Fetch many paths for many hosts - without killing the hosts
+- [waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
+- [anew](https://github.com/tomnomnom/anew) - A tool for adding new lines to files, skipping duplicates
+- [GoPurple](https://github.com/sh4hin/GoPurple) - Yet another shellcode runner consists of different techniques for evaluating detection capabilities of endpoint security solutions
 - [rod](https://github.com/go-rod/rod) - A Devtools driver to make web automation and scraping easy
 - [screenshot](https://github.com/kbinani/screenshot) - Go library to capture desktop to image
 - [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites
@@ -4649,6 +4662,7 @@
 
 ## HTML 
 
+- [18S191](https://github.com/mitmath/18S191) - Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:
 - [disaster-radio](https://github.com/sudomesh/disaster-radio) - A work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
 - [cert-expiry-date](https://github.com/xuchunyang/cert-expiry-date) - A website to check cert expir date
 - [imap2maildir](https://github.com/rtucker/imap2maildir) - Backs up an IMAP mailbox to a maildir.  Useful for backing up mail stored on free webmail providers, etc.
@@ -5250,6 +5264,7 @@
 
 ## JavaScript 
 
+- [github-search](https://github.com/gwen001/github-search) - Tools to perform basic search on GitHub.
 - [chrome-har-capturer](https://github.com/cyrus-and/chrome-har-capturer) - Capture HAR files from a Chrome instance
 - [old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
@@ -6366,6 +6381,8 @@
 
 ## Others 
 
+- [HowToHunt](https://github.com/KathanP19/HowToHunt) - Tutorials and Things to Do while Hunting Vulnerability.
+- [companies-sponsoring-visas](https://github.com/shubheksha/companies-sponsoring-visas) - A list of companies that sponsor employees from other countries.
 - [get-a-software-engineering-job](https://github.com/workattech/get-a-software-engineering-job) - Get a Software Engineering Job - Ultimate Guide
 - [javascript-dev-bookmarks](https://github.com/didicodes/javascript-dev-bookmarks) - A collection of articles that will help you get better at JavaScript.
 - [bash-insulter](https://github.com/hkbakke/bash-insulter) - Insults the user when typing wrong command
@@ -7452,6 +7469,10 @@
 
 ## Python 
 
+- [minotaur](https://github.com/giannitedesco/minotaur) - A pythonic, asynchronous, inotify interface
+- [chatding](https://github.com/sheuronazxe/chatding) - A simple chat notifier for Twitch streamers without viewers
+- [surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
+- [autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [volti](https://github.com/gen2brain/volti) - Volti is GTK+ application for controlling audio volume from system tray/notification area
 - [evilpass](https://github.com/ddevault/evilpass) - Slightly evil password strength checker
 - [ansi2html](https://github.com/ralphbean/ansi2html) - Convert text with ansi color codes to HTML
@@ -7913,7 +7934,7 @@
 - [rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch
 - [urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
 - [ledger-autosync](https://github.com/egh/ledger-autosync) - Synchronize your ledger-cli files with your bank.
-- [machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
+- [machine-learning-course](https://github.com/instillai/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
 - [pykaldi](https://github.com/pykaldi/pykaldi) - A Python wrapper for Kaldi
 - [tcconfig](https://github.com/thombashi/tcconfig) - A tc command wrapper. Make it easy to set up traffic control of network bandwidth/latency/packet-loss/packet-corruption/etc. to a network-interface/Docker-container(veth).
 - [pymux](https://github.com/prompt-toolkit/pymux) - A terminal multiplexer (like tmux) in Python
@@ -9166,6 +9187,7 @@
 
 ## Rust 
 
+- [asroute](https://github.com/stevenpack/asroute) - Interpret traceroute output to show names of ASN traversed
 - [deucalion](https://github.com/team-code/deucalion) - A JRPG engine written with Rust and SFML, scriptable in Lua
 - [manix](https://github.com/mlvzk/manix) - A fast CLI documentation searcher for Nix.
 - [cookie_dough](https://github.com/gamozolabs/cookie_dough) - A fuzzing introspection tool
@@ -9529,6 +9551,8 @@
 
 ## Shell 
 
+- [wikiman](https://github.com/filiparag/wikiman) - Wikiman is an offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation.
+- [stay-at-home](https://github.com/junhoyeo/stay-at-home) - 🏠 This shell script makes sure you stay at home, safely.
 - [charpicker](https://github.com/NoraCodes/charpicker) - A fast, simple Emoji and special character picker for X and Wayland
 - [git-deploy](https://github.com/benrady/git-deploy) - An ultra-lightweight continuous deployment tool packaged as a git plugin
 - [cleandiff](https://github.com/masukomi/cleandiff) - CleanDiff is a better diffing tool, that's easier on your brain.
@@ -9644,6 +9668,7 @@
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [inspircd-docker](https://github.com/inspircd/inspircd-docker) - InspIRCd Docker Image
 - [docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd) - Docker Pure-ftpd Server
+- [gentoo-docker-images](https://github.com/gentoo/gentoo-docker-images) - [MIRROR] Common effort to get an official and automated gentoo base docker container
 - [docker-toran-proxy](https://github.com/cedvan/docker-toran-proxy) - Docker image to launch a toran proxy application self hosted to manage PHP dependencies
 - [pacwall](https://github.com/Kharacternyk/pacwall) - A dependency graph of installed packages wallpaper creator.
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
