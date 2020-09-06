@@ -183,6 +183,7 @@
 
 ## C 
 
+- [facebooc](https://github.com/jserv/facebooc) - Yet another Facebook clone written in C
 - [soloud](https://github.com/jarikomppa/soloud) - Free, easy, portable audio engine for games
 - [lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
 - [xbanish](https://github.com/jcs/xbanish) - banish the mouse cursor when typing, show it again when the mouse moves
@@ -509,7 +510,7 @@
 - [xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [nemesis](https://github.com/libnet/nemesis) - A command-line network packet crafting and injection utility
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [nnn](https://github.com/jarun/nnn) - n³ The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [LISP](https://github.com/krig/LISP) - Lisp interpreter in less than 500 lines of C, including a copying garbage collector and an implementation of LISP 1.5 from 1962.
 - [h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
@@ -524,7 +525,7 @@
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [Interplanetary-Postal-Service](https://github.com/s-macke/Interplanetary-Postal-Service) - Lunar lander type game with computational fluid dynamics
-- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing.
+- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from standard input or file and creates an interactive selection window at the cursor location without clearing the screen. The selected word(s) are sent to standard output for further processing.
 - [ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
 - [litetree](https://github.com/aergoio/litetree) - SQLite with Branches
 - [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -1553,6 +1554,7 @@
 
 ## Clojure 
 
+- [clj-yaml](https://github.com/clj-commons/clj-yaml) - YAML encoding and decoding for Clojure
 - [workspaces](https://github.com/nubank/workspaces) - Live development environment for Clojurescript
 - [clojure-scheme](https://github.com/takeoutweight/clojure-scheme) - Clojure to Scheme to C to the bare metal.
 - [code-maat](https://github.com/adamtornhill/code-maat) - A command line tool to mine and analyze data from version-control systems
@@ -2196,7 +2198,7 @@
 - [json-process-client](https://github.com/emacsmirror/json-process-client) - Interact with a TCP process using JSON
 - [with-proxy.el](https://github.com/twlz0ne/with-proxy.el) - Evaluate expressions with proxy
 - [emacs-vdiff-magit](https://github.com/justbur/emacs-vdiff-magit) - Magit integration for vdiff
-- [elinter](https://github.com/akirak/elinter) - Experimental Nix-based CI and local testing framework for Emacs Lisp projects
+- [elinter](https://github.com/akirak/elinter) - [experimental] Nix-based CI and local testing framework for Emacs Lisp projects
 - [wakib-emacs](https://github.com/darkstego/wakib-emacs) - Emacs Starter Kit based on Wakib keybindings
 - [erc-yt](https://github.com/yhvh/erc-yt) - 
 - [emacs-mini-modeline](https://github.com/kiennq/emacs-mini-modeline) - Display emacs mode line in minibuffer
@@ -3730,6 +3732,7 @@
 
 ## Go 
 
+- [dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
 - [wordlistgen](https://github.com/ethicalhackingplayground/wordlistgen) - Generates target specific word lists for Fuzzing with fuff
 - [meg](https://github.com/tomnomnom/meg) - Fetch many paths for many hosts - without killing the hosts
 - [waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
@@ -4805,6 +4808,7 @@
 
 ## Haskell 
 
+- [arch-hs](https://github.com/berberman/arch-hs) - Generating PKGBUILD for hackage packages.
 - [prettyprinter](https://github.com/quchen/prettyprinter) - A modern, extensible and well-documented prettyprinter.
 - [dhall-ssh-config](https://github.com/robertjlooby/dhall-ssh-config) - 
 - [OpenGL](https://github.com/haskell-opengl/OpenGL) - Haskell bindings to OpenGL
@@ -5079,7 +5083,7 @@
 - [30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8) - 30 seconds to collect useful Java 8 snippet.
 - [bundletool](https://github.com/google/bundletool) - Bundletool is a command-line tool to manipulate Android App Bundles
 - [Android-Cheat-sheet](https://github.com/anitaa1990/Android-Cheat-sheet) - Cheat Sheet for Android Interviews
-- [jdk](https://github.com/openjdk/jdk) - Read-only mirror of https://hg.openjdk.java.net/jdk/jdk
+- [jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix) - An image to LaTeX tool by MathpixOCR API and JavaFX
 - [ElysiumMall](https://github.com/JackZhu426/ElysiumMall) - My Own Online Mall Project Using SpringBoot
@@ -6193,7 +6197,7 @@
 - [l2l](https://github.com/meric/l2l) - Lisp is Lisp. Lua is Lua. Lisp and Lua as One.
 - [lsyncd](https://github.com/axkibe/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [company-lua](https://github.com/ptrv/company-lua) - company-mode completion backend for Lua
-- [LDoc](https://github.com/stevedonovan/LDoc) - A LuaDoc-compatible documentation generation system
+- [LDoc](https://github.com/lunarmodules/LDoc) - A LuaDoc-compatible documentation generation system
 - [awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [doomrl](https://github.com/chaosforgeorg/doomrl) - D**m, the Roguelike
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
@@ -6268,6 +6272,7 @@
 
 ## Nix 
 
+- [comma](https://github.com/Shopify/comma) - 
 - [devshell](https://github.com/numtide/devshell) - 
 - [nix-hs](https://github.com/pjones/nix-hs) - Haskell + nixpkgs = nix-hs
 - [shabitica](https://github.com/headcounter/shabitica) - Run your own self-hosted Habitica instance
@@ -7440,6 +7445,7 @@
 
 ## PowerShell 
 
+- [tunic](https://github.com/mikeslattery/tunic) - Install Linux from a running Windows system, without need for a live USB.
 - [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Win10, Server 2016, 1709, 1803, 1809, 2019, 1903, 1909, 2004, Insider with Docker
 - [windows-docker-machine](https://github.com/StefanScherer/windows-docker-machine) - Work with Windows containers and LCOW on Mac/Linux/Windows
@@ -9469,6 +9475,7 @@
 
 ## Scheme 
 
+- [international-scheme](https://github.com/metaphorm/international-scheme) - Translating the Scheme programming language to every human language.
 - [metabash](https://github.com/artyom-poptsov/metabash) - M#!  Distributed shell pipelines with GNU Guile.
 - [srfi-test](https://github.com/srfi-explorations/srfi-test) - Collecting up-to-date test suites for SRFIs
 - [scheme-lib](https://github.com/evilbinary/scheme-lib) - 鸭库 duck lib scheme for gui gles gl slib openal socket web mongodb box2d game glfw mysql libevent  libuv uv json http client  server android osx linux chezscheme scheme-lib
@@ -10533,7 +10540,7 @@
 - [vim-game-code-break](https://github.com/johngrib/vim-game-code-break) - Block-breaking game in vim 8.0
 - [vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
-- [vim-practice](https://github.com/oldratlee/vim-practice) - 💘 Vim is awesome! Here is my awesome practice and study log.
+- [vim-practice](https://github.com/oldratlee/vim-practice) - 💘 Vim is awesome! Here is my practice and study log.
 - [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 - [vim-haskellConcealPlus](https://github.com/enomsg/vim-haskellConcealPlus) - Extended Haskell Conceal feature for Vim
