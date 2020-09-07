@@ -3805,7 +3805,7 @@
 - [read-mongo-logs](https://github.com/kevinburke/read-mongo-logs) - Tail Mongo database logs
 - [terradb](https://github.com/camptocamp/terradb) - A unified database for Terraform data
 - [fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
-- [infracost](https://github.com/infracost/infracost) - Cloud cost estimation for Terraform
+- [infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests 💰📉
 - [govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
 - [gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code.
@@ -4947,7 +4947,7 @@
 - [pLam](https://github.com/slovnicki/pLam) - An interpreter for learning and exploring pure λ-calculus
 - [Juicy.Pixels](https://github.com/Twinside/Juicy.Pixels) - Haskell library to load & save pictures
 - [cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
-- [smos](https://github.com/NorfairKing/smos) - A comprehensive self-management System in a TUI
+- [smos](https://github.com/NorfairKing/smos) - A comprehensive self-management System
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [hisp](https://github.com/otaviopace/hisp) - 🌵 A lisp REPL interpreter made in Haskell
 - [small-lisp](https://github.com/luizperes/small-lisp) - Small Lisp REPL written in Haskell
@@ -5268,6 +5268,7 @@
 
 ## JavaScript 
 
+- [auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [github-search](https://github.com/gwen001/github-search) - Tools to perform basic search on GitHub.
 - [chrome-har-capturer](https://github.com/cyrus-and/chrome-har-capturer) - Capture HAR files from a Chrome instance
 - [old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
@@ -7475,6 +7476,7 @@
 
 ## Python 
 
+- [zscroll](https://github.com/noctuid/zscroll) - A text scroller for panels or terminals
 - [minotaur](https://github.com/giannitedesco/minotaur) - A pythonic, asynchronous, inotify interface
 - [chatding](https://github.com/sheuronazxe/chatding) - A simple chat notifier for Twitch streamers without viewers
 - [surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
@@ -9558,6 +9560,8 @@
 
 ## Shell 
 
+- [multilockscreen](https://github.com/jeffmhubbard/multilockscreen) - :lock: i3lock wrapper with multi-monitor support
+- [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [wikiman](https://github.com/filiparag/wikiman) - Wikiman is an offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation.
 - [stay-at-home](https://github.com/junhoyeo/stay-at-home) - 🏠 This shell script makes sure you stay at home, safely.
 - [charpicker](https://github.com/NoraCodes/charpicker) - A fast, simple Emoji and special character picker for X and Wayland
@@ -10105,7 +10109,7 @@
 - [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [gentoo-haskell](https://github.com/gentoo-haskell/gentoo-haskell) - official gentoo haskell overlay
 - [emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
-- [baphomet](https://github.com/paxperscientiam/baphomet) - BAPHOMET -- manage your emacs daemons
+- [baphomet](https://github.com/quidprobros/baphomet) - BAPHOMET -- manage your emacs daemons
 - [voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [blackweb](https://github.com/maravento/blackweb) - Blacklist Domains for Squid-Cache
 - [guile-aspell](https://github.com/spk121/guile-aspell) - Guile bindings for the aspell library
