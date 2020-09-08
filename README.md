@@ -59,6 +59,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [LLVM](#llvm)
+  - [Less](#less)
   - [LiveScript](#livescript)
   - [Lua](#lua)
   - [M4](#m4)
@@ -97,6 +98,7 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
@@ -1477,7 +1479,6 @@
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
 - [gShort](https://github.com/someone-stole-my-name/gShort) - URL Shortener without all the crap
 - [widegithub](https://github.com/fabiocchetti/widegithub) - Makes GitHub layout fluid and responsive on Mozilla Firefox.
-- [pipeline-stage-view-plugin](https://github.com/jenkinsci/pipeline-stage-view-plugin) - Visualizes Jenkins pipelines
 - [ezprompt](https://github.com/jmatth/ezprompt) - An easy to use webapp for creating simple bash prompts.
 - [all-exit-error-codes](https://github.com/arzzen/all-exit-error-codes) - List of all Error/Exit Codes
 - [Learn-Something-Every-Day](https://github.com/kevintpeng/Learn-Something-Every-Day) - 📝 A compilation of everything that I learn; Computer Science, Software Development, Engineering, Math, and Coding in General.  Read the rendered results here -&gt;
@@ -1535,7 +1536,6 @@
 - [devfreebooks.github.io](https://github.com/devfreebooks/devfreebooks.github.io) - A huge collection of free books for developers
 - [pelican-themes](https://github.com/getpelican/pelican-themes) - Themes for Pelican
 - [minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
-- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [kactus](https://github.com/nickbalestra/kactus) - Cactus's default theme on Jekyll
 - [jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
 - [org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
@@ -4701,6 +4701,7 @@
 - [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
+- [ansible-role-hardening](https://github.com/konstruktoid/ansible-role-hardening) - Ansible role to apply a security baseline. Systemd edition.
 - [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
 - [awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
@@ -4715,6 +4716,7 @@
 - [the-federation.info](https://github.com/thefederationinfo/the-federation.info) - Statistics hub for the Fediverse
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
 - [fuzzdata](https://github.com/MozillaSecurity/fuzzdata) - Fuzzing resources for feeding various fuzzers with input. 🔧
+- [ansible-role-nginx](https://github.com/nginxinc/ansible-role-nginx) - Ansible role for NGINX
 - [badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [glastoselenium](https://github.com/thomasms/glastoselenium) - A bot for booking Glastonbury tickets using selenium
 - [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
@@ -4722,6 +4724,7 @@
 - [phpinfo-compare](https://github.com/brettalton/phpinfo-compare) - Compare two phpinfo files across the internet (or localhost)
 - [Org-mode-all-the-thingz](https://github.com/nickanderson/Org-mode-all-the-thingz) - 
 - [uix](https://github.com/roman01la/uix) - Idiomatic ClojureScript interface to modern React.js
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [favioli](https://github.com/ivebencrazy/favioli) - Emoji Favicons for the web. 👊🤯
 - [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
@@ -5095,7 +5098,7 @@
 - [PiracyChecker](https://github.com/javiersantos/PiracyChecker) - An Android library that prevents your app from being pirated / cracked using Google Play Licensing (LVL), APK signature protection and more. API 14+ required.
 - [WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development
-- [che](https://github.com/eclipse/che) - Eclipse Che: Next-generation Eclipse IDE.  Open source workspace server and cloud IDE.
+- [che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
 - [piggymetrics](https://github.com/sqshq/piggymetrics) - Microservice Architecture with Spring Boot, Spring Cloud and Docker
 - [build-failure-analyzer-plugin](https://github.com/jenkinsci/build-failure-analyzer-plugin) - 
 - [jenkins-build-monitor-plugin](https://github.com/jan-molak/jenkins-build-monitor-plugin) - Jenkins CI Build Monitor Plugin
@@ -5307,7 +5310,7 @@
 - [Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [block-options](https://github.com/phpbits/block-options) - EditorsKit — a toolkit for the Gutenberg block editor.
 - [like-on-github](https://github.com/Idnan/like-on-github) - Chrome extension - Link a repository with the extension and automatically save the links to content you like
-- [webcatalog](https://github.com/atomery/webcatalog) - Run Web Apps like Real Apps
+- [webcatalog](https://github.com/atomery/webcatalog) - Turn Websites into Real Apps
 - [Sandman](https://github.com/alexanderepstein/Sandman) - An Application Built With Late Night Developers In Mind
 - [gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?
@@ -5360,7 +5363,7 @@
 - [fiddly](https://github.com/SaraVieira/fiddly) - Create beautiful and simple HTML pages from your Readme.md files
 - [foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [FunctionScript](https://github.com/FunctionScript/FunctionScript) - A language and specification for turning JavaScript functions into typed HTTP APIs
-- [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl
+- [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - OBSOLETE - Interactively select the quality and format for youtube-dl
 - [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
 - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2020)
 - [diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers
@@ -6138,6 +6141,10 @@
 
 - [pil21](https://github.com/picolisp/pil21) - PicoLisp on LLVM (prototype)
 
+## Less 
+
+- [pipeline-stage-view-plugin](https://github.com/jenkinsci/pipeline-stage-view-plugin) - Visualizes Jenkins pipelines
+
 ## LiveScript 
 
 - [ramda-cli](https://github.com/raine/ramda-cli) - :ram: A CLI tool for processing data with functional pipelines
@@ -6323,7 +6330,7 @@
 - [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS.
 - [nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [nixpkgs-channels](https://github.com/NixOS/nixpkgs-channels) - A read-only mirror of NixOS/nixpkgs tracking the released channels. Send issues and PRs to
-- [home-manager](https://github.com/rycee/home-manager) - Manage a user environment using Nix
+- [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix
 - [not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix
 - [nixGL](https://github.com/guibou/nixGL) - A wrapper tool for nix OpenGL application
@@ -7919,7 +7926,6 @@
 - [cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [packer-build](https://github.com/tylert/packer-build) - Packer Automated VM Image and Vagrant Box Builds
 - [xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [torf-cli](https://github.com/rndusr/torf-cli) - CLI tool for creating, reading and editing torrent files
 - [torf](https://github.com/rndusr/torf) - Python module to create, parse and edit torrent files and magnet links
@@ -9448,6 +9454,10 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
 - [q3](https://github.com/jeaye/q3) - A Quake 3 like game with voxelized destructible maps
 
+## SCSS 
+
+- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+
 ## Scala 
 
 - [conscript](https://github.com/foundweekends/conscript) - Scala at your command
@@ -9717,7 +9727,6 @@
 - [vagrant-docker-swarm](https://github.com/tdi/vagrant-docker-swarm) - Vagrant playground for Docker Swarm
 - [my-cheat-sheets](https://github.com/JeffDeCola/my-cheat-sheets) - A place to keep all my cheat sheets on everything you need for the complete development of ASIC hardware or a software App/Service.
 - [hands-on-DevOps](https://github.com/nemonik/hands-on-DevOps) - A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Packer, Vagrant, VirtualBox, Ansible, Kubernetes, K3s, MetalLB, Traefik, Docker-Compose, Docker, Taiga, GitLab, Drone CI, SonarQube, Selenium, InSpec, Alpine 3.10, Ubuntu-bionic, CentOS 7...
-- [ansible-role-hardening](https://github.com/konstruktoid/ansible-role-hardening) - Ansible role to apply a security baseline. Systemd edition.
 - [gitlab-ci-stack](https://github.com/jonashackt/gitlab-ci-stack) - Full CI pipeline project based on Gitlab & Gitlab CI running Docker, completely automated setup by Vagrant & Ansible, providing Let´s Encrypt certificates for private Servers, multiple Gitlab-Runners and the Gitlab Container Registry, incl. GitLab Pages
 - [vagrant-elastic-stack](https://github.com/xeraa/vagrant-elastic-stack) - Giving the Elastic Stack a try in Vagrant
 - [arch-boxes](https://github.com/archlinux/arch-boxes) - Arch-boxes provides automated builds of the Arch Linux releases for different providers and post-processors (read-only mirror)
@@ -9884,7 +9893,6 @@
 - [devops_public](https://github.com/dennyzhang/devops_public) - :tophat: DevOps Scripts
 - [rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
 - [docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
-- [ansible-role-nginx](https://github.com/nginxinc/ansible-role-nginx) - Ansible role for NGINX
 - [dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you to keep the whole tree of password encrypted inside a tomb.
