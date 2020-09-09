@@ -1890,7 +1890,7 @@
 - [onionize-docker](https://github.com/torservers/onionize-docker) - Tor v3 onion services (hidden services) for Docker containers
 - [docker-tor-simple](https://github.com/osminogin/docker-tor-simple) - Simplest minimal container for Tor anonymity software
 - [aind](https://github.com/aind-containers/aind) - AinD: Android in Docker. Ain't an emulator.
-- [elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳 Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics. Up with a Single Command.
+- [elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics. Up with a Single Command.
 - [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx 1.19.2 (mainline) with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli, NJS support, and 10 MB size. All built on the bleeding edge for max performance. Built on the edge, for the edge.
 - [localdots](https://github.com/luisfarzati/localdots) - HTTPS domains for localhost. 🏠
 - [dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
@@ -4459,7 +4459,7 @@
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [jid](https://github.com/simeji/jid) - json incremental digger
 - [gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go
+- [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [rss](https://github.com/SlyMarbo/rss) - A Go library for fetching, parsing, and updating RSS feeds.
 - [learn-opengl-golang](https://github.com/raedatoui/learn-opengl-golang) - Learn OpenGL Tutorials in Go
 - [conways-gol](https://github.com/KyleBanks/conways-gol) - Conway's Game of Life implemented with Go and OpenGL.
@@ -4741,6 +4741,7 @@
 - [magento-malware-scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest collection of Magento malware
 - [public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
 - [youtube-realtime](https://github.com/akshatmittal/youtube-realtime) - YouTube Realtime Subscriber Count
+- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is an open-source application vulnerability correlation and security orchestration tool.
 - [archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
 - [dropcss](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner
@@ -5766,7 +5767,7 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2020)
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
 - [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -6330,7 +6331,7 @@
 - [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS.
 - [nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [nixpkgs-channels](https://github.com/NixOS/nixpkgs-channels) - A read-only mirror of NixOS/nixpkgs tracking the released channels. Send issues and PRs to
-- [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix
+- [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix
 - [nixGL](https://github.com/guibou/nixGL) - A wrapper tool for nix OpenGL application
@@ -8270,7 +8271,7 @@
 - [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
 - [urlscan](https://github.com/firecat53/urlscan) - Mutt and terminal url selector (similar to urlview)
 - [lutris](https://github.com/lutris/lutris) - Lutris client - Open Source gaming platform for GNU/Linux
-- [byob](https://github.com/malwaredllc/byob) - BYOB (Build Your Own Botnet)
+- [byob](https://github.com/malwaredllc/byob) - Post-exploitation framework.
 - [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
@@ -8953,7 +8954,7 @@
 - [desc](https://github.com/r-lib/desc) - Manipulate DESCRIPTION files
 - [charlatan](https://github.com/ropensci/charlatan) - Create fake data in R
 - [sjmisc](https://github.com/strengejacke/sjmisc) - Data transformation and utility functions for R
-- [ggeffects](https://github.com/strengejacke/ggeffects) - Tidy Data Frames of Marginal Effects for ggplot2
+- [ggeffects](https://github.com/strengejacke/ggeffects) - Estimated Marginal Means and Marginal Effects from Regression Models for ggplot2
 - [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching
 - [pathfindR](https://github.com/egeulgen/pathfindR) - pathfindR: Enrichment Analysis Utilizing Active Subnetworks
 - [sjPlot](https://github.com/strengejacke/sjPlot) - sjPlot - Data Visualization for Statistics in Social Science
@@ -9995,7 +9996,6 @@
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [samba](https://github.com/dperson/samba) - Samba docker container
 - [StayAlive](https://github.com/mwitmer/StayAlive) - A roguelike game written in Guile Scheme
-- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [prowler](https://github.com/toniblyx/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains all CIS controls listed here https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf and more than 100 additional checks that help on GDPR, HIPAA and other security requirements.
 - [nix-in-termux](https://github.com/t184256/nix-in-termux) - A script to install Nix package manager inside a Termux installation (on Android, aarch64)
 - [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
