@@ -5441,7 +5441,7 @@
 - [learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [web-console](https://github.com/nickola/web-console) - Simple web-based shell, remote shell in your browser
-- [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal
+- [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - library for creating web based terminals
 - [clear-browsing-data](https://github.com/dessant/clear-browsing-data) - Browser extension for clearing browsing data
 - [search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Edge, Chrome and Firefox
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
