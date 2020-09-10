@@ -1488,7 +1488,6 @@
 - [ultracompact-firefox](https://github.com/yjp20/ultracompact-firefox) - 
 - [water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [minetest.github.io](https://github.com/minetest/minetest.github.io) - Official Minetest website hosted by Github Pages
-- [docs.influxdata.com](https://github.com/influxdata/docs.influxdata.com) - 1.x docs for InfluxData
 - [markserv](https://github.com/markserv/markserv) - 🏁  serve markdown as html (GitHub style), index directories, live-reload as you edit
 - [whmcs-addon](https://github.com/gogetssl/whmcs-addon) - GOGETSSL WHMCS SSL Addon
 - [ClassicThemeRestorer](https://github.com/Aris-t2/ClassicThemeRestorer) - Classic Theme Restorer for Australis UI (Firefox/Waterfox/Basilisk versions 45.x-56.x only!)
@@ -4735,6 +4734,7 @@
 - [Cookbook](https://github.com/DevDungeon/Cookbook) - Code snippets for various programming languages and libraries
 - [webperl](https://github.com/haukex/webperl) - Run Perl in the browser with WebPerl!
 - [computefreely](https://github.com/snwh/computefreely) - The source of Compute Freely website
+- [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [modular-admin-html](https://github.com/modularcode/modular-admin-html) - ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version
 - [html](https://github.com/whatwg/html) - HTML Standard
 - [nginx-rate-limit-sandbox](https://github.com/sportebois/nginx-rate-limit-sandbox) - Docker image with various NGINX rate limit settings to play with burst and nodelay settings
@@ -6145,6 +6145,7 @@
 ## Less 
 
 - [pipeline-stage-view-plugin](https://github.com/jenkinsci/pipeline-stage-view-plugin) - Visualizes Jenkins pipelines
+- [docs.influxdata.com](https://github.com/influxdata/docs.influxdata.com) - ARCHIVE - 1.x docs for InfluxData
 
 ## LiveScript 
 
@@ -6405,7 +6406,7 @@
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [ABigSurvey](https://github.com/NiuTrans/ABigSurvey) - A collection of 300+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
 - [awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
-- [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & articles of companies sharing their work on applied data science & machine learning.
+- [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers of companies sharing their work on applied data science & machine learning.
 - [developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
 - [awesome-dhall](https://github.com/dhall-lang/awesome-dhall) - A curated list of awesome dhall-lang
 - [gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
@@ -8271,7 +8272,7 @@
 - [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
 - [urlscan](https://github.com/firecat53/urlscan) - Mutt and terminal url selector (similar to urlview)
 - [lutris](https://github.com/lutris/lutris) - Lutris client - Open Source gaming platform for GNU/Linux
-- [byob](https://github.com/malwaredllc/byob) - Post-exploitation framework.
+- [byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
@@ -9963,7 +9964,6 @@
 - [awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [docker-statsd-influxdb-grafana](https://github.com/samuelebistoletti/docker-statsd-influxdb-grafana) - Docker Image with Telegraf (StatsD), InfluxDB and Grafana
-- [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [grafana-dashboards](https://github.com/mlabouardy/grafana-dashboards) - List of Grafana Dashboards 📺
 - [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
 - [docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
