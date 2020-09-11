@@ -262,6 +262,7 @@
 - [ircd-seven](https://github.com/freenode/ircd-seven) - freenode's IRC server daemon
 - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [docker-tor-hiddenservice-nginx](https://github.com/opsxcq/docker-tor-hiddenservice-nginx) - Easily setup a hidden service inside the Tor network
+- [pacwall](https://github.com/Kharacternyk/pacwall) - A live wallpaper that shows the dependency graph and status of installed packages.
 - [libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
 - [earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [ff-proxy](https://github.com/TimeToogo/ff-proxy) - A UDP to TCP proxy server for sending HTTP requests with zero roundtrips
@@ -2902,7 +2903,7 @@
 - [shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
 - [itail](https://github.com/re5et/itail) - An interactive tail mode that allows you to filter the tail with unix pipes and highlight the contents of the tailed file. Works locally or on remote files using tramp.
 - [pulseaudio-control](https://github.com/flexibeast/pulseaudio-control) - Control PulseAudio volumes from Emacs, via `pactl`.
-- [racket-mode](https://github.com/greghendershott/racket-mode) - GNU Emacs major modes for Racket: Edit and REPL.
+- [racket-mode](https://github.com/greghendershott/racket-mode) - Various Emacs major/minor modes for Racket: edit, REPL, check-syntax, debug, profile, and more.
 - [discover.el](https://github.com/mickeynp/discover.el) - Discover more of emacs with context menus!
 - [zombie](https://github.com/zk-phi/zombie) - [Emacs] Major mode for editing ZOMBIE programs
 - [scratch-palette](https://github.com/zk-phi/scratch-palette) - [Emacs] Add notes on each files
@@ -4808,6 +4809,7 @@
 - [webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
 - [pykwiki](https://github.com/nullism/pykwiki) - PyKwiki, a static file Python MarkDown wiki rendered by Jinja2
+- [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
 - [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 
 ## Haskell 
@@ -6183,7 +6185,7 @@
 - [luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
 - [lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
 - [awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
-- [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Collection of (useful, but unsupported) configurations for the Nvim LSP client
+- [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 - [lua-lsp](https://github.com/Alloyed/lua-lsp) - A Lua language server
@@ -8007,7 +8009,7 @@
 - [cipherscan](https://github.com/mozilla/cipherscan) - A very simple way to find out which SSL ciphersuites are supported by a target.
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [multiscanner](https://github.com/mitre/multiscanner) - Modular file scanning/analysis framework
-- [screenshot](https://github.com/alexdelorenzo/screenshot) - 📸 Automate the capture of screenshots of apps and windows on macOS
+- [screenshot](https://github.com/alexdelorenzo/screenshot) - 📸 Automate taking screenshots of apps and windows on macOS
 - [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask.
 - [http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
 - [eht-imaging](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry
@@ -8864,7 +8866,6 @@
 - [plugins](https://github.com/getnikola/plugins) - Extra plugins for Nikola
 - [nikola](https://github.com/getnikola/nikola) - A static website and blog generator
 - [docvert](https://github.com/holloway/docvert) - Docvert for Python 2: Converts Office files to DocBook and clean HTML, diagrams to SVG/PNG, etc.
-- [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
 - [odt2wordpress](https://github.com/tshrinivasan/odt2wordpress) - ODT file to Wordpress Blog Post Publisher
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [unknown-horizons](https://github.com/unknown-horizons/unknown-horizons) - Unknown Horizons official code repository
@@ -9293,7 +9294,7 @@
 - [glsp](https://github.com/fleabitdev/glsp) - The GameLisp scripting language
 - [topngx](https://github.com/gsquire/topngx) - top for NGINX
 - [dyn-wall-rs](https://github.com/RAR27/dyn-wall-rs) - Helps user set a dynamic wallpaper and more.
-- [nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix store --query --tree`
+- [nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix-store --query --tree`
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
@@ -9430,7 +9431,7 @@
 - [cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - Static analysis tools for all programming languages, build tools, config files and more.
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis tools for all programming languages, config files, build tools, and more.
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [cancer](https://github.com/meh/cancer) - It's terminal.
 - [nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
@@ -9693,7 +9694,6 @@
 - [docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd) - Docker Pure-ftpd Server
 - [gentoo-docker-images](https://github.com/gentoo/gentoo-docker-images) - [MIRROR] Common effort to get an official and automated gentoo base docker container
 - [docker-toran-proxy](https://github.com/cedvan/docker-toran-proxy) - Docker image to launch a toran proxy application self hosted to manage PHP dependencies
-- [pacwall](https://github.com/Kharacternyk/pacwall) - A dependency graph of installed packages wallpaper creator.
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
 - [open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
@@ -10127,7 +10127,7 @@
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [kodi-cli](https://github.com/nawar/kodi-cli) - Kodi/XBMC bash script to send Kodi commands from the command line
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 225 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
+- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 230 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 - [docker-emacsen](https://github.com/larsbrinkhoff/docker-emacsen) - Multiple versions of Emacs in a Docker image
 - [eless](https://github.com/kaushalmodi/eless) - A Better 'less' - A bash script that loads emacs with minimal view-mode config - Created with Org mode
 - [docker-emacs](https://github.com/JAremko/docker-emacs) - Dockerized Emacs (GUI)
