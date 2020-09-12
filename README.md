@@ -2578,7 +2578,7 @@
 - [emms-player-mpv-jp-radios](https://github.com/momomo5717/emms-player-mpv-jp-radios) - EMMS players and stream lists of Japan radio stations
 - [package-build](https://github.com/melpa/package-build) - Tools for assembling a package archive
 - [company-suggest](https://github.com/juergenhoetzel/company-suggest) - company-mode back-end for auto-completing using search engine suggestions.
-- [whole-line-or-region](https://github.com/purcell/whole-line-or-region) - Operate on current line if region undefined
+- [whole-line-or-region](https://github.com/purcell/whole-line-or-region) - In Emacs, operate on current line if no region is active
 - [frameshot](https://github.com/tarsius/frameshot) - Take screenshots of a frame
 - [f3](https://github.com/cosmicexplorer/f3) - find files fast with helm and find in emacs
 - [iasm-mode](https://github.com/RAttab/iasm-mode) - Interactive assembly mode for emacs
@@ -4109,7 +4109,7 @@
 - [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers
 - [terraform-variables-generator](https://github.com/alexandrst88/terraform-variables-generator) - Simple Tool for Generate Variables file from Terraform Configuration
 - [terraform-provider-github](https://github.com/terraform-providers/terraform-provider-github) - Terraform GitHub provider
-- [terraform-provider-openstack](https://github.com/terraform-providers/terraform-provider-openstack) - Terraform OpenStack provider
+- [terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Terraform OpenStack provider
 - [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
 - [terraform-provider-vault](https://github.com/terraform-providers/terraform-provider-vault) - Terraform Vault provider
 - [terraform-provider-ansible](https://github.com/nbering/terraform-provider-ansible) - "Logical" provider for integrating with an Ansible Dynamic Inventory script.
@@ -5331,6 +5331,7 @@
 - [torrent-mount](https://github.com/mafintosh/torrent-mount) - Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse. AKA MAD SCIENCE!
 - [variety](https://github.com/variety/variety) - A schema analyzer for MongoDB
 - [WALC](https://github.com/cstayyab/WALC) - An unofficial WhatsApp Desktop client for linux systems.
+- [simple-mpv-webui](https://github.com/open-dynaMIX/simple-mpv-webui) - A web based user interface with controls for the mpv mediaplayer.
 - [sci-hub-now](https://github.com/0x01h/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅
 - [xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
 - [CursedChrome](https://github.com/mandatoryprogrammer/CursedChrome) - Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.
@@ -6167,7 +6168,6 @@
 - [tmux-filetree](https://github.com/PhilipRoman/tmux-filetree) - Simple, non-intrusive dynamic file tree which always tracks your active Tmux pane
 - [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [mpv-notify-send](https://github.com/emilazy/mpv-notify-send) - A Lua script for mpv to send notifications with notify-send(1).
-- [simple-mpv-webui](https://github.com/open-dynaMIX/simple-mpv-webui) - A web based user interface with controls for the mpv mediaplayer.
 - [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
 - [nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
@@ -6408,7 +6408,7 @@
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [ABigSurvey](https://github.com/NiuTrans/ABigSurvey) - A collection of 300+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
 - [awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
-- [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers of companies sharing their work on applied data science & machine learning.
+- [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers by organizations sharing their work on applied data science & machine learning.
 - [developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
 - [awesome-dhall](https://github.com/dhall-lang/awesome-dhall) - A curated list of awesome dhall-lang
 - [gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
@@ -9648,7 +9648,7 @@
 - [ssh-agent-relay](https://github.com/anaisbetts/ssh-agent-relay) - Make your WSL installation use your Windows SSH Agent
 - [rofi-chrome](https://github.com/tcode2k16/rofi-chrome) - a browser extension for better tab navigation without injecting javascript code on every tab you open
 - [bedtime-story](https://github.com/mafintosh/bedtime-story) - Run a command and make your computer go to sleep
-- [hosts](https://github.com/xwmx/hosts) - A command line hosts file editor in a single portable script.
+- [hosts](https://github.com/xwmx/hosts) - A command line hosts file editor in one portable script.
 - [git-push-deploy](https://github.com/mafintosh/git-push-deploy) - Setup a remote repo you can git push deploy to
 - [chag](https://github.com/mtdowling/chag) - Use your changelog as the canonical source of change data. With pure Bash.
 - [runner](https://github.com/stylemistake/runner) - Simple, lightweight task runner for Bash.
