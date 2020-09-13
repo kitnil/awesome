@@ -6,6 +6,7 @@
 ## Contents
 
   - [ANTLR](#antlr)
+  - [ASL](#asl)
   - [Ada](#ada)
   - [Agda](#agda)
   - [AppleScript](#applescript)
@@ -127,6 +128,10 @@
 
 - [grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 
+## ASL 
+
+- [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - macOS Big Sur & Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2017 & 2018
+
 ## Ada 
 
 - [steamsky](https://github.com/thindil/steamsky) - Roguelike in sky with a steampunk setting
@@ -185,6 +190,7 @@
 
 ## C 
 
+- [ripMIME](https://github.com/inflex/ripMIME) - MIME/email package decoder
 - [facebooc](https://github.com/jserv/facebooc) - Yet another Facebook clone written in C
 - [soloud](https://github.com/jarikomppa/soloud) - Free, easy, portable audio engine for games
 - [lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
@@ -980,6 +986,7 @@
 
 ## C++ 
 
+- [jq.el](https://github.com/p-baleine/jq.el) - Emacs Lisp bindings for jq.
 - [xca](https://github.com/chris2511/xca) - X Certificate and Key management
 - [QtPass](https://github.com/IJHack/QtPass) - QtPass is a multi-platform GUI for pass, the standard unix password manager.
 - [structopt](https://github.com/p-ranav/structopt) - Parse command line arguments by defining a struct
@@ -1022,7 +1029,6 @@
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction,for All Traffics(TCP/UDP/ICMP)
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
-- [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - macOS Big Sur & Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2017 & 2018
 - [retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [AnyQ](https://github.com/baidu/AnyQ) - FAQ-based Question Answering System
 - [SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
@@ -1179,7 +1185,7 @@
 - [opensr](https://github.com/zddhub/opensr) - Open Sketch Recognize
 - [limonEngine](https://github.com/enginmanap/limonEngine) - 3D FPS game engine with full dynamic lighting and shadows
 - [imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [zep](https://github.com/cmaughan/zep) - Zep - An embeddable editor, with optional support for using vim keystrokes.
+- [zep](https://github.com/Rezonality/zep) - Zep - An embeddable editor, with optional support for using vim keystrokes.
 - [glPortal](https://github.com/GlPortal/glPortal) - :video_game: Open Source teleportation based first person puzzle-platformer
 - [ouzel](https://github.com/elnormous/ouzel) - C++ game engine for Windows, macOS, Linux, iOS, tvOS, Android, and web browsers
 - [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) - AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more
@@ -1632,6 +1638,7 @@
 
 ## Common Lisp 
 
+- [with-c-syntax](https://github.com/y2q-actionman/with-c-syntax) - C language syntax in Common Lisp
 - [fuzzy-match](https://github.com/vindarel/fuzzy-match) - Fuzzy match candidates from an input string.
 - [trivial-snake](https://github.com/ryukinix/trivial-snake) - A trivial snake game written in Common Lisp built on top of trivial-gamekit
 - [Concrete-Syntax-Tree](https://github.com/s-expressionists/Concrete-Syntax-Tree) - 
@@ -1868,7 +1875,7 @@
 - [docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [docker-clion-dev](https://github.com/shuhaoliu/docker-clion-dev) - Debugging C++ in a Docker Container with CLion IDE
 - [cocalc-docker](https://github.com/sagemathinc/cocalc-docker) - Docker setup for running CoCalc as downloadable software on your own computer
-- [aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser
+- [aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [microscanner](https://github.com/aquasecurity/microscanner) - Scan your container images for package vulnerabilities with Aqua Security
 - [docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
 - [jenkinsfile-runner-github-actions](https://github.com/jenkinsci/jenkinsfile-runner-github-actions) - Jenkins single-shot master GitHub Action POC
@@ -1959,6 +1966,10 @@
 
 ## Emacs Lisp 
 
+- [polybrain.el](https://github.com/dustinlacewell/polybrain.el) - Polymode support for Org-brain
+- [tower-of-babix](https://github.com/dustinlacewell/tower-of-babix) - Run snippets for many languages with Emacs and Nix
+- [jqcuo](https://github.com/redguardtoo/jqcuo) - Powerful and simple solution to spell check code in command line
+- [license-templates](https://github.com/jcs-elpa/license-templates) - Create LICENSE using GitHub API
 - [org-fc](https://github.com/l3kn/org-fc) - Spaced Repetition System for Emacs org-mode
 - [literate-calc-mode.el](https://github.com/sulami/literate-calc-mode.el) - 🧮 Literate programming for M-x calc
 - [nox](https://github.com/manateelazycat/nox) - Nox is a lightweight, high-performance LSP client for Emacs
@@ -3732,6 +3743,11 @@
 
 ## Go 
 
+- [supermonkey](https://github.com/cch123/supermonkey) - Patch all Go functions for testing
+- [qelk](https://github.com/serdarkkts/qelk) - A terminal UI to monitor and query Elasticsearch.
+- [yaml5](https://github.com/quasilyte/yaml5) - YAML5 - use YAML like it's JSON5.
+- [ProxyFor](https://github.com/0xsha/ProxyFor) - Validate proxies for specific target
+- [depaware](https://github.com/tailscale/depaware) - depaware makes you aware of your Go dependencies
 - [dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
 - [wordlistgen](https://github.com/ethicalhackingplayground/wordlistgen) - Generates target specific word lists for Fuzzing with fuff
 - [meg](https://github.com/tomnomnom/meg) - Fetch many paths for many hosts - without killing the hosts
@@ -6233,7 +6249,7 @@
 - [awesome-dtrace](https://github.com/xen0l/awesome-dtrace) - A curated list of awesome DTrace books, articles, videos, tools and resources.
 - [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
-- [twemoji-color-font](https://github.com/eosrei/twemoji-color-font) - Twitter Unicode 12 emoji color SVGinOT font for Linux/MacOS/Windows
+- [twemoji-color-font](https://github.com/eosrei/twemoji-color-font) - Twitter Unicode 13 emoji color SVGinOT font for Linux/MacOS/Windows
 - [ports](https://github.com/openbsd/ports) - Public git conversion mirror of OpenBSD's official cvs ports repository. Pull requests not accepted - send diffs to the ports@ mailing list.
 - [docker-ce-packaging](https://github.com/docker/docker-ce-packaging) - Packaging scripts for Docker CE
 - [terraform-makefile](https://github.com/pgporada/terraform-makefile) - Helps me actually use terraform for multiple environments
@@ -7782,7 +7798,7 @@
 - [firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
 - [SSH-telnet-proxy-tunnel](https://github.com/dischoen/SSH-telnet-proxy-tunnel) - Tunnel SSH connections through a telnet tunnel
 - [Aker](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver
-- [JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Tool for scraping job websites, and filtering and reviewing the job listings
+- [JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates.
 - [wrapc](https://github.com/meeuw/wrapc) - Wrapper script for starting a command line tool with bash completion
 - [repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
 - [webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
@@ -8146,7 +8162,7 @@
 - [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [SC-FEGAN](https://github.com/run-youngjoo/SC-FEGAN) - SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color (ICCV2019)
 - [toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
-- [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF.
+- [WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
 - [gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [sos](https://github.com/sosreport/sos) - A unified tool for collecting system logs and other debug information
@@ -9573,6 +9589,7 @@
 
 ## Shell 
 
+- [git-autocommit](https://github.com/mujtaba1747/git-autocommit) - A bash script to automate pushing changes to github
 - [multilockscreen](https://github.com/jeffmhubbard/multilockscreen) - :lock: i3lock wrapper with multi-monitor support
 - [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [wikiman](https://github.com/filiparag/wikiman) - Wikiman is an offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation.
@@ -9683,7 +9700,7 @@
 - [tmux-colortag](https://github.com/Determinant/tmux-colortag) - A plug-and-play, minimal tmux plugin/theme that automatically colors the window tags.
 - [screenshot-actions](https://github.com/jrodal98/screenshot-actions) - Dunst actions for screenshots (OCR, upload to 0x0.st, delete, rename, move to/from clipboard)
 - [shell-checker](https://github.com/MarounMaroun/shell-checker) - ✅ GitHub action for running ShellCheck on shell files in your PR
-- [axiom](https://github.com/pry0cc/axiom) - A dynamic infrastructure toolkit for red teamers and bug bounty hunters!
+- [axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for anybody!
 - [lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
 - [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - Simple bash script to set a Dynamic Wallpaper according to certain conditions.
 - [lostfiles](https://github.com/graysky2/lostfiles) - Simple script that identifies files not owned by any Arch Linux package.
@@ -10566,7 +10583,7 @@
 - [dotmatrix](https://github.com/hashrocket/dotmatrix) - Hashrocket Dot Files
 - [dotfiles](https://github.com/garybernhardt/dotfiles) - ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/.
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
-- [tagbar](https://github.com/majutsushi/tagbar) - Vim plugin that displays tags in a window, ordered by scope
+- [tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [vim-instant-markdown](https://github.com/suan/vim-instant-markdown) - Instant Markdown previews from VIm!
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
