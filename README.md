@@ -604,7 +604,7 @@
 - [dbus-broker](https://github.com/bus1/dbus-broker) - Linux D-Bus Message Broker
 - [jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [flac](https://github.com/xiph/flac) - Free Lossless Audio Codec
-- [i3lock-color](https://github.com/Raymo111/i3lock-color) - Improved i3lock with color customization
+- [i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default lockscreen.
 - [lightnet](https://github.com/explosion/lightnet) - 🌓 Bringing pjreddie's DarkNet out of the shadows #yolo
 - [inadyn](https://github.com/troglobit/inadyn) - Dynamic DNS client with SSL/TLS support
 - [Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86_64)
@@ -5122,7 +5122,7 @@
 - [build-failure-analyzer-plugin](https://github.com/jenkinsci/build-failure-analyzer-plugin) - 
 - [jenkins-build-monitor-plugin](https://github.com/jan-molak/jenkins-build-monitor-plugin) - Jenkins CI Build Monitor Plugin
 - [scriptler-plugin](https://github.com/jenkinsci/scriptler-plugin) - Jenkins scriptler plugin
-- [mastering-junit5](https://github.com/bonigarcia/mastering-junit5) - Code examples of Mastering Software Testing with JUnit 5
+- [mastering-junit5](https://github.com/bonigarcia/mastering-junit5) - A comprehensive collection of test examples created with JUnit 5
 - [next-executions-plugin](https://github.com/jenkinsci/next-executions-plugin) - 
 - [spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [configuration-as-code-groovy-plugin](https://github.com/jenkinsci/configuration-as-code-groovy-plugin) - Extension for Jenkins Configuration-as-Code plugin that allows running Groovy scripts
@@ -7257,7 +7257,7 @@
 - [alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
 - [MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
 - [poweradmin](https://github.com/poweradmin/poweradmin) - A web-based control panel for PowerDNS
-- [wp2static](https://github.com/WP2Static/wp2static) - WordPress static site generator for security, performance and cost benefits
+- [wp2static](https://github.com/leonstafford/wp2static) - WordPress static site generator for security, performance and cost benefits
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [synknot](https://github.com/besthostingcz/synknot) - SynKnot utility for DNS and PTR synchronization with Knot DNS
 - [Chat-API](https://github.com/mgp25/Chat-API) - WhatsApp's Private API
@@ -9485,7 +9485,7 @@
 - [sbt-docker](https://github.com/marcuslonnberg/sbt-docker) - Create Docker images directly from sbt
 - [OpenComputers](https://github.com/MightyPirates/OpenComputers) - Home of the OpenComputers mod for Minecraft.
 - [delta](https://github.com/delta-io/delta) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
-- [shadowsocksr-v2ray-android](https://github.com/xxf098/shadowsocksr-v2ray-android) - A ShadowsocksR, V2Ray and Trojan client for Android
+- [shadowsocksr-v2ray-trojan-android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android) - A ShadowsocksR, V2Ray and Trojan client for Android
 - [izumi](https://github.com/7mind/izumi) - Productivity-oriented collection of lightweight fancy stuff for Scala toolchain
 - [bloop](https://github.com/scalacenter/bloop) - Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.
 - [sbt](https://github.com/sbt/sbt) - sbt, the interactive build tool
@@ -9589,6 +9589,7 @@
 
 ## Shell 
 
+- [fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
 - [git-autocommit](https://github.com/mujtaba1747/git-autocommit) - A bash script to automate pushing changes to github
 - [multilockscreen](https://github.com/jeffmhubbard/multilockscreen) - :lock: i3lock wrapper with multi-monitor support
 - [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
@@ -9802,7 +9803,7 @@
 - [Adebar](https://github.com/IzzySoft/Adebar) - Android DEvice Backup And Report, using Bash and ADB. Moved to https://codeberg.org/izzy/Adebar -- this is only a mirror now.
 - [PE-Linux](https://github.com/WazeHell/PE-Linux) - Linux Privilege Escalation Tool By WazeHell
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu percentage and icon indicator for Tmux.
-- [PartyLoud](https://github.com/realtho/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
+- [PartyLoud](https://github.com/davideolgiati/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
 - [googliser](https://github.com/teracow/googliser) - a fast BASH multiple-image downloader
 - [zabbix-haproxy](https://github.com/anapsix/zabbix-haproxy) - HAProxy Zabbix Discovery and Template
 - [shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) - Shell入门教程（Shell tutorial book）
@@ -10444,7 +10445,7 @@
 - [setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
 - [SOSML](https://github.com/SOSML/SOSML) - The Online Interpreter for Standard ML, written in TypeScript.
 - [discord-term](https://github.com/cloudrex/discord-term) - Extensible Discord terminal client
-- [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional inline translator.
+- [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional translator.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
@@ -10467,7 +10468,7 @@
 - [graphql-cli](https://github.com/Urigo/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
 - [cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - An Electron based Mastodon and Pleroma client for Windows, Mac and Linux
-- [snowpack](https://github.com/pikapkg/snowpack) - The faster frontend build tool. Unbundled web development ✌️
+- [snowpack](https://github.com/pikapkg/snowpack) - A new kind of frontend build tool. Fast, lightweight, unbundled. ✌️
 - [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
 - [docker-cloudflare](https://github.com/joshuaavalon/docker-cloudflare) - Cloudflare DDNS minimal docker.
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
