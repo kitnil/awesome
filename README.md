@@ -810,7 +810,6 @@
 - [iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
 - [astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
-- [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [emacs-libpq](https://github.com/anse1/emacs-libpq) - An Emacs 25 module for accessing postgres via libpq.
 - [emacsql](https://github.com/skeeto/emacsql) - A high-level Emacs Lisp RDBMS front-end
 - [postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
@@ -5488,7 +5487,7 @@
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [vimperator-labs](https://github.com/vimperator/vimperator-labs) - Vimperator
 - [Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
-- [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting
+- [user.js](https://github.com/arkenfox/user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting
 - [melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
 - [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
 - [organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
@@ -5593,7 +5592,7 @@
 - [KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - This is **DEPRECATED**! Please go to https://github.com/kiwiirc/kiwiirc
 - [youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions) - This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 - [elastalert-kibana-plugin](https://github.com/bitsensor/elastalert-kibana-plugin) - ElastAlert Kibana Plugin
-- [terminal-discord](https://github.com/xynxynxyn/terminal-discord) - Simple terminal client for discord with a minimal look and UI
+- [terminal-discord](https://github.com/xynxynxyn/terminal-discord) - NOT MAINTAINED Simple terminal client for discord with a minimal look and UI
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [hogwatch](https://github.com/akshaykmr/hogwatch) - find out what's hogging your internet connection.
@@ -8472,6 +8471,7 @@
 - [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) - Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.
 - [twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
 - [ten-rules](https://github.com/rougier/ten-rules) - Ten simple rules for better figures
+- [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [bugwarrior](https://github.com/ralphbean/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
 - [fuzzyfinder](https://github.com/amjith/fuzzyfinder) - Fuzzy Finder implemented in Python
@@ -9333,7 +9333,7 @@
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast binary for building observability pipelines
+- [vector](https://github.com/timberio/vector) - An ultra-performant, vendor-neutral tool for building observability pipelines.
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
