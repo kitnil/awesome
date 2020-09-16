@@ -1220,7 +1220,7 @@
 - [BlobTools](https://github.com/AndroidRoot/BlobTools) - Tools for unpacking & repacking blobs used for updating "hidden" partitions on ASUS Transformer
 - [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [android-simg2img](https://github.com/anestisb/android-simg2img) - Tool to convert Android sparse images to raw images
-- [gzdoom](https://github.com/coelckers/gzdoom) - GZDoom adds an OpenGL renderer to the ZDoom source port.
+- [gzdoom](https://github.com/coelckers/gzdoom) - GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities
 - [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
 - [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
@@ -1965,6 +1965,8 @@
 
 ## Emacs Lisp 
 
+- [validate-html](https://github.com/arthurgleckler/validate-html) - 
+- [orgstrap](https://github.com/tgbugs/orgstrap) - minimal bootstrap for orgmode
 - [polybrain.el](https://github.com/dustinlacewell/polybrain.el) - Polymode support for Org-brain
 - [tower-of-babix](https://github.com/dustinlacewell/tower-of-babix) - Run snippets for many languages with Emacs and Nix
 - [jqcuo](https://github.com/redguardtoo/jqcuo) - Powerful and simple solution to spell check code in command line
@@ -4148,7 +4150,7 @@
 - [goruby](https://github.com/goruby/goruby) - GoRuby, an implementation of Ruby written in Go
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
 - [joker](https://github.com/candid82/joker) - Small Clojure interpreter, linter and formatter.
-- [yaegi](https://github.com/containous/yaegi) - Yaegi is Another Elegant Go Interpreter
+- [yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [oh](https://github.com/michaelmacinnis/oh) - A new Unix shell.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing
 - [unparam](https://github.com/mvdan/unparam) - Find unused parameters in Go
@@ -4584,7 +4586,7 @@
 - [c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [sshtron](https://github.com/zachlatta/sshtron) - Play Tron over SSH
-- [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [httpdump](https://github.com/hsiafan/httpdump) - Capture and parse http traffics
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
@@ -4680,6 +4682,7 @@
 
 ## HTML 
 
+- [nsedit](https://github.com/tuxis-ie/nsedit) - DNS Editor working with PowerDNS's new API
 - [18S191](https://github.com/mitmath/18S191) - Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:
 - [disaster-radio](https://github.com/sudomesh/disaster-radio) - A work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
 - [cert-expiry-date](https://github.com/xuchunyang/cert-expiry-date) - A website to check cert expir date
@@ -5384,7 +5387,7 @@
 - [FunctionScript](https://github.com/FunctionScript/FunctionScript) - A language and specification for turning JavaScript functions into typed HTTP APIs
 - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - OBSOLETE - Interactively select the quality and format for youtube-dl
 - [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2020)
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (September 2020)
 - [diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers
 - [Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage. Now with protected boxes.
@@ -5448,7 +5451,7 @@
 - [rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
 - [github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
 - [import-js](https://github.com/Galooshi/import-js) - A tool to simplify importing JS modules
-- [iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 4000+ publicly available IPTV channels from all over the world
 - [eslint-config-standard-react](https://github.com/standard/eslint-config-standard-react) - ESLint Shareable Config for React/JSX support in JavaScript Standard Style
 - [eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
 - [EasyDockerWeb](https://github.com/qfdk/EasyDockerWeb) - A simple Web Ui for Docker using xterm.js, Node.js, dockerode and Socket.io
@@ -6468,7 +6471,7 @@
 - [hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 - [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
-- [python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure) - A short guide on features of Python 3 with examples (updated for python 3.7)
+- [python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure) - A short guide on features of Python 3 with examples
 - [RSPapers](https://github.com/hongleizhang/RSPapers) - Must-read papers on Recommender System.
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
@@ -7186,6 +7189,8 @@
 
 ## PHP 
 
+- [phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
+- [pdns-gui](https://github.com/odoucet/pdns-gui) - pdns-gui fork
 - [versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
 - [remote-manager](https://github.com/lazy-ants/remote-manager) - This tool is intended for mass management and monitoring of remote servers. Getting information about the status of remote servers, analyze it, provide maintenance as easily as possible, extend for your needs.
 - [leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.
@@ -7502,6 +7507,7 @@
 
 ## Python 
 
+- [stashboard](https://github.com/twilio/stashboard) - An open-source status dashboard running on App Engine
 - [zscroll](https://github.com/noctuid/zscroll) - A text scroller for panels or terminals
 - [minotaur](https://github.com/giannitedesco/minotaur) - A pythonic, asynchronous, inotify interface
 - [chatding](https://github.com/sheuronazxe/chatding) - A simple chat notifier for Twitch streamers without viewers
@@ -9333,7 +9339,7 @@
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [vector](https://github.com/timberio/vector) - An ultra-performant, vendor-neutral tool for building observability pipelines.
+- [vector](https://github.com/timberio/vector) - High-performance, vendor-neutral observability pipelines.
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -9589,6 +9595,7 @@
 
 ## Shell 
 
+- [tmpmail](https://github.com/sdushantha/tmpmail) - ✉️  A temporary email right from your terminal
 - [fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
 - [git-autocommit](https://github.com/mujtaba1747/git-autocommit) - A bash script to automate pushing changes to github
 - [multilockscreen](https://github.com/jeffmhubbard/multilockscreen) - :lock: i3lock wrapper with multi-monitor support
@@ -9610,7 +9617,7 @@
 - [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - A one-click script that installs a remote desktop environment on a Linux server with browser/VNC access.
 - [easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC+musl for static executables
-- [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, advanced search, Git-backed versioning and syncing, Pandoc-backed conversion, and more, in a single portable script.
+- [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
 - [synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
 - [jinx](https://github.com/pretzelhands/jinx) - ✨jinx - a magical nginx wrapper
 - [prm](https://github.com/EivindArvesen/prm) - A minimal project manager for the terminal.
