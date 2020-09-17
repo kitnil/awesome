@@ -5242,7 +5242,7 @@
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [liferay-portal](https://github.com/liferay/liferay-portal) - 
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 - [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) - 🔥 A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).
@@ -5292,6 +5292,7 @@
 
 ## JavaScript 
 
+- [togglecache](https://github.com/M-Reimer/togglecache) - Firefox Addon to toggle the browser cache
 - [auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [github-search](https://github.com/gwen001/github-search) - Tools to perform basic search on GitHub.
 - [chrome-har-capturer](https://github.com/cyrus-and/chrome-har-capturer) - Capture HAR files from a Chrome instance
@@ -9339,7 +9340,7 @@
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [vector](https://github.com/timberio/vector) - High-performance, vendor-neutral observability pipelines.
+- [vector](https://github.com/timberio/vector) - A high-performance, vendor-neutral tool for building observability pipelines.
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -9419,7 +9420,7 @@
 - [fui](https://github.com/xliiv/fui) - Add CLI & form interface to your program. Docs: https://docs.rs/fui
 - [alert-after](https://github.com/frewsxcv/alert-after) - Get a desktop notification after a command finishes executing.
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
-- [miniserve](https://github.com/svenstaro/miniserve) - :star2: For when you really just want to serve some files over HTTP right now!
+- [miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs
 - [diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
@@ -9437,7 +9438,7 @@
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [recover-youtube-videos](https://github.com/cjbassi/recover-youtube-videos) - A cli app that helps you recover privated and deleted videos from your YouTube playlists
-- [genact](https://github.com/svenstaro/genact) - :cyclone: A nonsense activity generator
+- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [rust-simple-game-dev-tutorial](https://github.com/sunjay/rust-simple-game-dev-tutorial) - Rust game development tutorial with specs ECS and SDL2
 - [Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
