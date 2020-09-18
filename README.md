@@ -3747,7 +3747,7 @@
 - [supermonkey](https://github.com/cch123/supermonkey) - Patch all Go functions for testing
 - [qelk](https://github.com/serdarkkts/qelk) - A terminal UI to monitor and query Elasticsearch.
 - [yaml5](https://github.com/quasilyte/yaml5) - YAML5 - use YAML like it's JSON5.
-- [ProxyFor](https://github.com/0xsha/ProxyFor) - Validate proxies for specific target
+- [ProxyFor](https://github.com/0xsha/ProxyFor) - Validate proxies for specific domain
 - [depaware](https://github.com/tailscale/depaware) - depaware makes you aware of your Go dependencies
 - [dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
 - [wordlistgen](https://github.com/ethicalhackingplayground/wordlistgen) - Generates target specific word lists for Fuzzing with fuff
@@ -3769,7 +3769,7 @@
 - [nschecker](https://github.com/ichikaway/nschecker) - DNS record changing detection tool with slack notification.
 - [glab](https://github.com/profclems/glab) - An open-source GitLab command line tool
 - [slacksh](https://github.com/dwisiswant0/slacksh) - Interactivity with *nix shell system flexibly via Slack slash commands.
-- [cisgo-ios](https://github.com/tbotnz/cisgo-ios) - simple concurrent ssh server posing as cisco ios
+- [cisshgo](https://github.com/tbotnz/cisshgo) - simple concurrent ssh server posing as cisco ios
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
@@ -4707,7 +4707,6 @@
 - [easybank-learning-sass](https://github.com/LeonidasEsteban/easybank-learning-sass) - I'm learning sass in a live streaming
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [photo-stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream
 - [pyptex](https://github.com/sloisel/pyptex) - Python Preprocessor for LaTeX
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
@@ -5362,6 +5361,7 @@
 - [ViewImage](https://github.com/bijij/ViewImage) - Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 - [wdio](https://github.com/blueimp/wdio) - Docker setup for WebdriverIO with automatic screenshots, image diffing and screen recording support for containerized versions of Chrome and Firefox, Mobile Safari and Mobile Chrome via Appium, Safari on MacOS as well as Edge, Edge Legacy and Internet Explorer on Windows 10.
 - [savescreenshot](https://github.com/M-Reimer/savescreenshot) - Firefox "Save Screenshot" Addon. Simple website screenshot maker for Firefox.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ymlx](https://github.com/matthewadams/ymlx) - Command-line YAML processor
 - [eat](https://github.com/antonmedv/eat) - Eat everything 🧀
 - [chrome-jenkins-relative-links](https://github.com/danybony/chrome-jenkins-relative-links) - Display web-accessible links in Jenkins jobs console
@@ -5452,7 +5452,7 @@
 - [rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
 - [github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
 - [import-js](https://github.com/Galooshi/import-js) - A tool to simplify importing JS modules
-- [iptv](https://github.com/iptv-org/iptv) - Collection of 4000+ publicly available IPTV channels from all over the world
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [eslint-config-standard-react](https://github.com/standard/eslint-config-standard-react) - ESLint Shareable Config for React/JSX support in JavaScript Standard Style
 - [eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
 - [EasyDockerWeb](https://github.com/qfdk/EasyDockerWeb) - A simple Web Ui for Docker using xterm.js, Node.js, dockerode and Socket.io
@@ -6303,6 +6303,7 @@
 
 ## Nix 
 
+- [thunderbird-extensions](https://github.com/ngi-nix/thunderbird-extensions) - 
 - [comma](https://github.com/Shopify/comma) - 
 - [devshell](https://github.com/numtide/devshell) - 
 - [nix-hs](https://github.com/pjones/nix-hs) - Haskell + nixpkgs = nix-hs
@@ -7894,6 +7895,7 @@
 - [rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
 - [google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported. The goal is to provide a stable and consistent interface abstraction to Ansible.
+- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix implementation for direnv [maintainer=@Mic92]
 - [ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
 - [orgparse](https://github.com/karlicoss/orgparse) - Python module for reading Emacs org-mode files
@@ -9340,7 +9342,7 @@
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [vector](https://github.com/timberio/vector) - A high-performance, vendor-neutral tool for building observability pipelines.
+- [vector](https://github.com/timberio/vector) - High-performance, vendor-neutral observability pipelines.
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -9596,6 +9598,20 @@
 
 ## Shell 
 
+- [projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
+- [dmenufm](https://github.com/huijunchen9260/dmenufm) - A simple file manager using dmenu
+- [cloudmacs](https://github.com/karlicoss/cloudmacs) - Selfhost your Emacs and access it in browser
+- [uDork](https://github.com/m3n0sd0n4ld/uDork) - uDork is a script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories, find IoT devices, detect versions of web applications, and so on.
+- [cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
+- [vesper](https://github.com/chris-rock/vesper) - 🍸Vesper - HTTP Framework for Bash Shell
+- [docker-gphotos-sync](https://github.com/JakeWharton/docker-gphotos-sync) - A Docker image for synchronizing your original-quality Google Photos
+- [kitty-cat](https://github.com/adi1090x/kitty-cat) - Simple script to change color-schemes and fonts for kitty terminal.
+- [quickemu](https://github.com/wimpysworld/quickemu) - The amazing Quickemu; as seen on YouTube
+- [Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - Stupid AI
+- [bash-utility](https://github.com/labbots/bash-utility) - Bash library which provides utility functions and helpers for functional programming in Bash.
+- [git-scanner](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open .git repositories available in public
+- [kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
+- [shsh](https://github.com/soraxas/shsh) - A multi-threaded manager for shell scripts, functions, standalone binaries, tab-completions, and more.
 - [tmpmail](https://github.com/sdushantha/tmpmail) - ✉️  A temporary email right from your terminal
 - [fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
 - [git-autocommit](https://github.com/mujtaba1747/git-autocommit) - A bash script to automate pushing changes to github
@@ -10449,7 +10465,6 @@
 - [zero](https://github.com/sinclairzx81/zero) - 3D Graphics Rendering Pipeline. Implemented in JavaScript. Run in a terminal.
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
-- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
 - [SOSML](https://github.com/SOSML/SOSML) - The Online Interpreter for Standard ML, written in TypeScript.
 - [discord-term](https://github.com/cloudrex/discord-term) - Extensible Discord terminal client
