@@ -1151,7 +1151,7 @@
 - [stepmania](https://github.com/stepmania/stepmania) - Advanced rhythm game for Windows, Linux and OS X. Designed for both home and arcade use.
 - [ulisp-esp](https://github.com/technoblogy/ulisp-esp) - A version of the Lisp programming language for ESP8266 and ESP32-based boards.
 - [Nuclear-Engine](https://github.com/Zone-organization/Nuclear-Engine) - Fast, customizable, cross-platform game engine powered by Nuclear Fuel! 🚀♨🔥
-- [thunder](https://github.com/eprikazchikov/thunder) - An open source game engine is written in C++ with a flexible architecture
+- [thunder](https://github.com/thunder-engine/thunder) - An open source game engine is written in C++ with a flexible architecture
 - [azteroids](https://github.com/rodrigosetti/azteroids) - Simple Asteroids game in C++ and OpenGL
 - [RaZ](https://github.com/Razakhel/RaZ) - Modern & multiplatform game engine in C++17
 - [rewind-viewer](https://github.com/kswaldemar/rewind-viewer) - Fast match viewer with rewinding support for Russian AI Cup championship series
@@ -1892,7 +1892,7 @@
 - [docker-headphones](https://github.com/linuxserver/docker-headphones) - 
 - [docker-ssh-agent](https://github.com/jenkinsci/docker-ssh-agent) - Docker image for Jenkins agents connected over SSH
 - [docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - 🐳 JetBrains License Server Docker image
-- [dockerfiles](https://github.com/ilyaglow/dockerfiles) - 🌊 Dockerfiles for apps I use
+- [dockerfiles](https://github.com/ilyaglow/dockerfiles) - 🌊 Dockerfiles for apps I use. Also take a look at https://github.com/security-dockerfiles
 - [onionize-docker](https://github.com/torservers/onionize-docker) - Tor v3 onion services (hidden services) for Docker containers
 - [docker-tor-simple](https://github.com/osminogin/docker-tor-simple) - Simplest minimal container for Tor anonymity software
 - [aind](https://github.com/aind-containers/aind) - AinD: Android in Docker. Ain't an emulator.
@@ -6299,7 +6299,7 @@
 - [vim_cubed](https://github.com/oakes/vim_cubed) - Vim rendered on a cube for no reason
 - [boomer](https://github.com/tsoding/boomer) - Zoomer application for Linux
 - [ntangle](https://github.com/OrgTangle/ntangle) - Command-line utility for Tangling of Org documents — programmed in Nim.
-- [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
+- [Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 
 ## Nix 
 
@@ -6565,7 +6565,7 @@
 - [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
 - [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) - A curated list of awesome Web Components tools, articles and resources.
 - [awesome-code-reading](https://github.com/CodeReaderMe/awesome-code-reading) - A curated list of high-quality codebases to read and study. Read more code!
-- [awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application/API security in NGINX environment.
+- [awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
 - [awesome-gradle](https://github.com/ksoichiro/awesome-gradle) - A curated list of awesome Gradle plugins and resources for a better development workflow automation.
 - [awesome-explorables](https://github.com/sp4ke/awesome-explorables) - A curated list of awesome explorable explanations.
 - [awesome-android-ui](https://github.com/thanhtoan1196/awesome-android-ui) - :sunglasses: A curated list of awesome Android UI/UX libraries
@@ -10633,7 +10633,7 @@
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
 - [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
