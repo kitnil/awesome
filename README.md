@@ -190,6 +190,7 @@
 
 ## C 
 
+- [robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [ripMIME](https://github.com/inflex/ripMIME) - MIME/email package decoder
 - [facebooc](https://github.com/jserv/facebooc) - Yet another Facebook clone written in C
 - [soloud](https://github.com/jarikomppa/soloud) - Free, easy, portable audio engine for games
@@ -3744,6 +3745,8 @@
 
 ## Go 
 
+- [selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
+- [yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL
 - [supermonkey](https://github.com/cch123/supermonkey) - Patch all Go functions for testing
 - [qelk](https://github.com/serdarkkts/qelk) - A terminal UI to monitor and query Elasticsearch.
 - [yaml5](https://github.com/quasilyte/yaml5) - YAML5 - use YAML like it's JSON5.
@@ -4682,6 +4685,7 @@
 
 ## HTML 
 
+- [nofussbm](https://github.com/mapio/nofussbm) - No Fuss Bookmarks
 - [nsedit](https://github.com/tuxis-ie/nsedit) - DNS Editor working with PowerDNS's new API
 - [18S191](https://github.com/mitmath/18S191) - Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:
 - [disaster-radio](https://github.com/sudomesh/disaster-radio) - A work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
@@ -4729,6 +4733,7 @@
 - [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [shell-novice](https://github.com/swcarpentry/shell-novice) - The Unix Shell
+- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
 - [awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
 - [the-federation.info](https://github.com/thefederationinfo/the-federation.info) - Statistics hub for the Fediverse
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
@@ -5291,6 +5296,9 @@
 
 ## JavaScript 
 
+- [awesome-rss](https://github.com/shgysk8zer0/awesome-rss) - Puts an RSS/Atom subscribe button back in URL bar
+- [OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
+- [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [togglecache](https://github.com/M-Reimer/togglecache) - Firefox Addon to toggle the browser cache
 - [auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [github-search](https://github.com/gwen001/github-search) - Tools to perform basic search on GitHub.
@@ -7191,6 +7199,7 @@
 
 ## PHP 
 
+- [LibreSignage](https://github.com/eerotal/LibreSignage) - An open source digital signage solution
 - [phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [pdns-gui](https://github.com/odoucet/pdns-gui) - pdns-gui fork
 - [versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
@@ -7509,6 +7518,8 @@
 
 ## Python 
 
+- [shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts!
+- [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 - [stashboard](https://github.com/twilio/stashboard) - An open-source status dashboard running on App Engine
 - [zscroll](https://github.com/noctuid/zscroll) - A text scroller for panels or terminals
 - [minotaur](https://github.com/giannitedesco/minotaur) - A pythonic, asynchronous, inotify interface
@@ -9078,7 +9089,6 @@
 - [rubocop](https://github.com/rubocop-hq/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [jenkins-backup-script](https://github.com/sue445/jenkins-backup-script) - archive jenkins setting and plugins
 - [open-shell-book](https://github.com/tinyclub/open-shell-book) - 开源书籍：《Shell 编程范例》，面向操作对象学 Shell！
-- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
 - [foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
 - [infrastructure-as-code-training](https://github.com/gruntwork-io/infrastructure-as-code-training) - Materials for learning how to use infrastructure-as-code
 - [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Test Kitchen plugins for testing Terraform configurations
@@ -9342,7 +9352,7 @@
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [vector](https://github.com/timberio/vector) - High-performance, vendor-neutral observability pipelines.
+- [vector](https://github.com/timberio/vector) - Unified, vendor-neutral observability pipelines.
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -9667,7 +9677,7 @@
 - [nginx-rtmp](https://github.com/theonemule/nginx-rtmp) - A containerize NGINX server with the RTMP plugin to allow live streams to multiple providers such as Twitch, Facebook, or YouTube simultaneously from a single source.
 - [scripthunter](https://github.com/robre/scripthunter) - Tool to find JavaScript files on Websites
 - [bash-server](https://github.com/wf-yamaday/bash-server) - A simple web server with ShellScript (Bash).
-- [centerText](https://github.com/Teledurak/centerText) - Center your text easily with this bash script
+- [centerText](https://github.com/tdrkDev/centerText) - Center your text easily with this bash script
 - [pod-tcpdump](https://github.com/pbertera/pod-tcpdump) - 
 - [rofi-blurry-powermenu](https://github.com/lu0/rofi-blurry-powermenu) - Fullscreen Powermenu with blur effect made with Rofi
 - [dohot](https://github.com/alecmuffett/dohot) - DoHoT: making practical use of DNS over HTTPS over Tor
@@ -10393,6 +10403,7 @@
 
 ## TypeScript 
 
+- [1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
