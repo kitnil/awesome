@@ -525,6 +525,7 @@
 - [ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [LISP](https://github.com/krig/LISP) - Lisp interpreter in less than 500 lines of C, including a copying garbage collector and an implementation of LISP 1.5 from 1962.
 - [h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
+- [imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
 - [zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
 - [mangband](https://github.com/mangband/mangband) - A free online multi-player realtime roguelike game based on Angband
 - [uzbl](https://github.com/uzbl/uzbl) - A web browser that adheres to the unix philosophy.
@@ -1216,7 +1217,6 @@
 - [curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 - [kbd-audio](https://github.com/ggerganov/kbd-audio) - Tools for capturing and analysing keyboard input paired with microphone capture  🎤⌨️
 - [hardware-effects](https://github.com/Kobzol/hardware-effects) - Demonstration of various hardware effects.
-- [imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
 - [one](https://github.com/OpenNebula/one) - The open source Cloud Management Platform developed for the Enterprise :rocket:
 - [x11-canvas-screencast](https://github.com/rprichard/x11-canvas-screencast) - UNIX-to-HTML5-Canvas screencasting (X11 or OS X)
 - [BlobTools](https://github.com/AndroidRoot/BlobTools) - Tools for unpacking & repacking blobs used for updating "hidden" partitions on ASUS Transformer
@@ -1516,7 +1516,6 @@
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
 - [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
-- [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [vimix-gtk-themes](https://github.com/vinceliuice/vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
 - [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
 - [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.
@@ -4596,7 +4595,7 @@
 - [c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [sshtron](https://github.com/zachlatta/sshtron) - Play Tron over SSH
-- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [httpdump](https://github.com/hsiafan/httpdump) - Capture and parse http traffics
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
@@ -4896,7 +4895,7 @@
 - [ghc-compiler-notes](https://github.com/myuon/ghc-compiler-notes) - A collection of Notes on GHC
 - [brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
 - [haskell-trainings](https://github.com/google/haskell-trainings) - Haskell 101 and 102: slides and codelabs
-- [scarf](https://github.com/aviaviavi/scarf) - A cross platform package manager that helps open-source developers distribute and monetize their software
+- [scarf](https://github.com/scarf-sh/scarf) - A cross platform package manager that helps open-source developers distribute and monetize their software
 - [hatrace](https://github.com/nh2/hatrace) - scriptable strace
 - [cmt](https://github.com/smallhadroncollider/cmt) - Write consistent git commit messages based on a custom template
 - [ptghci](https://github.com/litxio/ptghci) - High-powered REPL for Haskell, inspired by IPython
@@ -5348,7 +5347,7 @@
 - [Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [block-options](https://github.com/phpbits/block-options) - EditorsKit — a toolkit for the Gutenberg block editor.
 - [like-on-github](https://github.com/Idnan/like-on-github) - Chrome extension - Link a repository with the extension and automatically save the links to content you like
-- [webcatalog](https://github.com/webcatalog/webcatalog) - Turn Websites into Real Apps
+- [webcatalog](https://github.com/atomery/webcatalog) - Turn Websites into Real Apps
 - [Sandman](https://github.com/alexanderepstein/Sandman) - An Application Built With Late Night Developers In Mind
 - [gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?
@@ -6153,7 +6152,7 @@
 - [GitExplorer-Android](https://github.com/Shashank02051997/GitExplorer-Android) - Find the right git commands 🔥 without digging through the web.😊😊😉
 - [noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noises.
 - [tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
-- [Notally](https://github.com/OmGodse/Notally) - A minimalistic notes app
+- [Notally](https://github.com/OmGodse/Notally) - A beautiful notes app
 - [AnimeXStream](https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.
 - [vlc-android](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
 - [Foodium](https://github.com/PatilShreyas/Foodium) - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
@@ -8061,7 +8060,7 @@
 - [cipherscan](https://github.com/mozilla/cipherscan) - A very simple way to find out which SSL ciphersuites are supported by a target.
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [multiscanner](https://github.com/mitre/multiscanner) - Modular file scanning/analysis framework
-- [screenshot](https://github.com/alexdelorenzo/screenshot) - 📸 Automate taking screenshots of apps and windows on macOS
+- [screenshot](https://github.com/alexdelorenzo/screenshot) - 📸 Automate capturing screenshots of apps and windows on macOS
 - [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask.
 - [http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
 - [eht-imaging](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry
@@ -9369,7 +9368,7 @@
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [vector](https://github.com/timberio/vector) - Unified, vendor-neutral observability pipelines.
+- [vector](https://github.com/timberio/vector) - High-performance, vendor-neutral observability pipelines.
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -9511,6 +9510,7 @@
 
 ## SCSS 
 
+- [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
 ## Scala 
