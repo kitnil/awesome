@@ -190,7 +190,7 @@
 
 ## C 
 
-- [xnotify](https://github.com/phillbush/xnotify) - popup a notification on the screen
+- [xnotify](https://github.com/phillbush/xnotify) - read notifications from stdin and display them on the screen
 - [robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [ripMIME](https://github.com/inflex/ripMIME) - MIME/email package decoder
 - [facebooc](https://github.com/jserv/facebooc) - Yet another Facebook clone written in C
@@ -614,7 +614,7 @@
 - [keylogger](https://github.com/caseyscarborough/keylogger) - A no-frills keylogger for Mac OS X.
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [restful-doom](https://github.com/jeff-1amstudios/restful-doom) - HTTP+JSON API hosted inside the 1993 DOOM engine!
-- [terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
+- [terminology](https://github.com/borisfaure/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
 - [OS67](https://github.com/SilverRainZ/OS67) - An unix-like toy kernel.
 - [lxcfs](https://github.com/lxc/lxcfs) - FUSE filesystem for LXC
 - [bitlbee-facebook](https://github.com/bitlbee/bitlbee-facebook) - Facebook protocol plugin for BitlBee
@@ -1065,7 +1065,7 @@
 - [SVF](https://github.com/SVF-tools/SVF) - Static Value-Flow Analysis Framework for Source Code
 - [TscanCode](https://github.com/Tencent/TscanCode) - A static code analyzer for C++, C#, Lua
 - [WickedEngine](https://github.com/turanszkij/WickedEngine) - C++ game engine focusing on modern rendering techniques and performance.
-- [q5Go](https://github.com/bernds/q5Go) - A tool for Go players: SGF editor, analysis tool, IGS client
+- [q5Go](https://github.com/bernds/q5Go) - A tool for Go players: SGF editor, analysis tool, game database and pattern search tool, IGS client
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [umoria](https://github.com/dungeons-of-moria/umoria) - Moria: a roguelike Dungeon Crawler game | Umoria Source Code
@@ -3796,7 +3796,7 @@
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [go-jsonnet](https://github.com/google/go-jsonnet) - 
-- [dolt](https://github.com/liquidata-inc/dolt) - Dolt – It's Git for Data
+- [dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [joe](https://github.com/karan/joe) - :running: A .gitignore magician in your command line
 - [gits](https://github.com/rafi/gits) - A Fast CLI Git manager for multiple repositories
 - [pmy](https://github.com/relastle/pmy) - :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
@@ -4513,7 +4513,7 @@
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [gist-fs](https://github.com/ueokande/gist-fs) - Gist as file system
-- [license](https://github.com/nishanths/license) - Command line LICENSE text generator
+- [license](https://github.com/nishanths/license) - Command line license text generator
 - [termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [libnetwork](https://github.com/moby/libnetwork) - networking for containers
@@ -7529,7 +7529,7 @@
 ## Python 
 
 - [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager
+- [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [textual-switcher](https://github.com/levioctl/textual-switcher) - An incremental search window (and browser tabs) switcher for Linux (textual "Alt+Tab").
 - [onhold](https://github.com/alexdelorenzo/onhold) - 🔊 Play sounds while and after shell jobs complete
 - [npyscreen](https://github.com/npcole/npyscreen) - Automatically exported from code.google.com/p/npyscreen
@@ -9645,7 +9645,7 @@
 - [git-scanner](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open .git repositories available in public
 - [kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
 - [shsh](https://github.com/soraxas/shsh) - A multi-threaded manager for shell scripts, functions, standalone binaries, tab-completions, and more.
-- [tmpmail](https://github.com/sdushantha/tmpmail) - ✉️  A temporary email right from your terminal
+- [tmpmail](https://github.com/sdushantha/tmpmail) - 📬 A temporary email right from your terminal written in POSIX sh
 - [fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
 - [git-autocommit](https://github.com/mujtaba1747/git-autocommit) - A bash script to automate pushing changes to github
 - [multilockscreen](https://github.com/jeffmhubbard/multilockscreen) - :lock: i3lock wrapper with multi-monitor support
