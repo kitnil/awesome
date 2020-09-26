@@ -108,6 +108,7 @@
   - [Solidity](#solidity)
   - [Standard ML](#standard-ml)
   - [Starlark](#starlark)
+  - [Swift](#swift)
   - [TSQL](#tsql)
   - [Tcl](#tcl)
   - [TeX](#tex)
@@ -1512,7 +1513,6 @@
 - [raleigh-reloaded](https://github.com/vlastavesely/raleigh-reloaded) - Raleigh Reloaded is a conservative GTK-3.20 theme aiming to revive the Raleigh theme, the default theme of GTK-2.0.
 - [tokumei](https://github.com/tokumeico/tokumei) - Anonymous microblogging platform
 - [haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com) - haxeflixel.com docpad source
-- [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
 - [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
@@ -6186,6 +6186,7 @@
 - [pipeline-stage-view-plugin](https://github.com/jenkinsci/pipeline-stage-view-plugin) - Visualizes Jenkins pipelines
 - [docs.influxdata.com](https://github.com/influxdata/docs.influxdata.com) - ARCHIVE - 1.x docs for InfluxData
 - [nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
+- [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 
 ## LiveScript 
 
@@ -7430,7 +7431,7 @@
 - [check_rbl](https://github.com/matteocorti/check_rbl) - check_rbl is a Nagios plugin to check if an SMTP server is blacklisted
 - [vidir](https://github.com/trapd00r/vidir) - edit directory in $EDITOR (better than vim . with netrw)
 - [stow](https://github.com/aspiers/stow) - GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches
-- [vbscan](https://github.com/rezasp/vbscan) - OWASP VBScan is a Black Box vBulletin Vulnerability Scanner
+- [vbscan](https://github.com/Ali-Razmjoo/vbscan) - OWASP VBScan is a Black Box vBulletin Vulnerability Scanner
 - [zbx-smartctl](https://github.com/v-zhuravlev/zbx-smartctl) - Templates and scripts for monitoring disks health with Zabbix and smartmontools
 - [git-spark](https://github.com/kablamo/git-spark) - Plot your commit history on the command line with sparklines.  A mash up of git and spark and Perl.
 - [clyrics](https://github.com/trizen/clyrics) - An extensible lyrics fetcher, with daemon support for cmus and mocp.
@@ -7480,7 +7481,7 @@
 
 ## Perl 6 
 
-- [joomscan](https://github.com/rezasp/joomscan) - OWASP Joomla Vulnerability Scanner Project
+- [joomscan](https://github.com/Ali-Razmjoo/joomscan) - OWASP Joomla Vulnerability Scanner Project
 
 ## PicoLisp 
 
@@ -7528,6 +7529,7 @@
 
 ## Python 
 
+- [blaecksprutte](https://github.com/teythoon/blaecksprutte) - spam-tagger working on notmuch databases
 - [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [textual-switcher](https://github.com/levioctl/textual-switcher) - An incremental search window (and browser tabs) switcher for Linux (textual "Alt+Tab").
@@ -9341,7 +9343,7 @@
 - [blindfold](https://github.com/Eoin-McMahon/blindfold) - 🔎 Gitignore file generator written in rust
 - [i3-bindings](https://github.com/tupini07/i3-bindings) - Simple tool that reads the i3 config files and shows a table with the bindings defined therein
 - [learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
-- [autopilot-deno](https://github.com/divy-work/autopilot-deno) - :rocket: Cross-platform desktop automation library for Deno.
+- [autopilot-deno](https://github.com/littledivy/autopilot-deno) - :rocket: Cross-platform desktop automation library for Deno.
 - [glsp](https://github.com/fleabitdev/glsp) - The GameLisp scripting language
 - [topngx](https://github.com/gsquire/topngx) - top for NGINX
 - [dyn-wall-rs](https://github.com/RAR27/dyn-wall-rs) - Helps user set a dynamic wallpaper and more.
@@ -9625,6 +9627,7 @@
 
 ## Shell 
 
+- [plan9-on-qemu](https://github.com/danieljamespost/plan9-on-qemu) - This is a guide for setting up a Plan 9 desktop environment using Qemu
 - [monkey-shell](https://github.com/spyx/monkey-shell) - 
 - [workflow-aggregator-plugin](https://github.com/jenkinsci/workflow-aggregator-plugin) - 
 - [bashttpd](https://github.com/avleen/bashttpd) - A web server written in bash
@@ -10370,6 +10373,10 @@
 - [rules_haskell](https://github.com/tweag/rules_haskell) - Haskell rules for Bazel.
 - [livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
+
+## Swift 
+
+- [Hello-Goodbye](https://github.com/bcye/Hello-Goodbye) - Available for Chrome, Firefox and Safari and as a blocklist to integrate into existing blockers.
 
 ## TSQL 
 
