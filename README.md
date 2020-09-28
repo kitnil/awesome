@@ -191,6 +191,7 @@
 
 ## C 
 
+- [abduco](https://github.com/martanne/abduco) - abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. Together with dvtm it provides a simpler and cleaner alternative to tmux or screen.
 - [xnotify](https://github.com/phillbush/xnotify) - read notifications from stdin and display them on the screen
 - [robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [ripMIME](https://github.com/inflex/ripMIME) - MIME/email package decoder
@@ -368,7 +369,7 @@
 - [gideros](https://github.com/gideros/gideros) - Gideros Release version
 - [zork](https://github.com/devshane/zork) - The DUNGEON (Zork I) source
 - [space-nerds-in-space](https://github.com/smcameron/space-nerds-in-space) - Multi-player spaceship bridge simulator. Captain your starship through adventures with your friends.  See https://smcameron.github.io/space-nerds-in-space
-- [hidemyass](https://github.com/pannzh/hidemyass) - A little post-exploit tool that carefully clean *NIX access logs
+- [hidemyass](https://github.com/evilpan/hidemyass) - A little post-exploit tool that carefully clean *NIX access logs
 - [editline](https://github.com/troglobit/editline) - A small replacement for GNU readline() for UNIX
 - [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
 - [mongolite](https://github.com/jeroen/mongolite) - Fast and Simple MongoDB Client for R
@@ -1507,6 +1508,7 @@
 - [readline-cheat-sheet](https://github.com/kablamo/readline-cheat-sheet) - A mobile friendly cheat sheet for the GNU Readline library
 - [css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
 - [cpp-compilation](https://github.com/green7ea/cpp-compilation) - A short description of the C++ build process
+- [algo-zh](https://github.com/apachecn/algo-zh) - 结构化算法刷题训练指南
 - [equilux-firefox](https://github.com/cj-sv/equilux-firefox) - A neutral dark balanced color scheme for Firefox based on the Equilux GTK Theme.
 - [conkeror-theme-zenburn](https://github.com/ivoarch/conkeror-theme-zenburn) - Zenburn theme for conkeror
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
@@ -2196,7 +2198,6 @@
 - [auto-dim-other-buffers](https://github.com/emacsmirror/auto-dim-other-buffers) - Makes windows without focus less prominent
 - [highlight-focus](https://github.com/kriyative/highlight-focus) - Emacs Lisp package for highlighting the active buffer
 - [kiwix.el](https://github.com/stardiviner/kiwix.el) - Use kiwix in your Emacs
-- [compdef](https://github.com/emacsmirror/compdef) - A local completion definer
 - [lisp-mode-snippets](https://github.com/nibbula/lisp-mode-snippets) - Some yasnippets for Common Lisp
 - [go-snippets](https://github.com/toumorokoshi/go-snippets) - yasnippet snippets for Go
 - [php-auto-yasnippets](https://github.com/emacs-php/php-auto-yasnippets) - Dynamically Generated YASnippets for PHP Code in GNU Emacs
@@ -2352,7 +2353,6 @@
 - [wand](https://github.com/cmpitg/wand) - Execute actions based on text patterns, for Emacs
 - [emacs-whois](https://github.com/lassik/emacs-whois) - Extends the whois functionality of Emacs
 - [advice-patch](https://github.com/emacsmirror/advice-patch) - Use patches to advise the inside of functions
-- [ewal](https://github.com/emacsmirror/ewal) - A pywal-based theme generator
 - [rotate-text.el](https://github.com/nschum/rotate-text.el) - Emacs: cycle through words, symbols and patterns
 - [eshell-toggle](https://github.com/4DA/eshell-toggle) - Show/hide eshell at the bottom of active window with directory of its buffer
 - [ros](https://github.com/LionyxML/ros) - screenshot / copy & paste tool for org-mode files
@@ -2916,7 +2916,7 @@
 - [shr-tag-pre-highlight.el](https://github.com/xuchunyang/shr-tag-pre-highlight.el) - Syntax highlighting code block in HTML for shr/eww
 - [itail](https://github.com/re5et/itail) - An interactive tail mode that allows you to filter the tail with unix pipes and highlight the contents of the tailed file. Works locally or on remote files using tramp.
 - [pulseaudio-control](https://github.com/flexibeast/pulseaudio-control) - Control PulseAudio volumes from Emacs, via `pactl`.
-- [racket-mode](https://github.com/greghendershott/racket-mode) - Various Emacs major/minor modes for Racket: edit, REPL, check-syntax, debug, profile, and more.
+- [racket-mode](https://github.com/greghendershott/racket-mode) - Emacs major and minor modes for Racket: edit, REPL, check-syntax, debug, profile, and more.
 - [discover.el](https://github.com/mickeynp/discover.el) - Discover more of emacs with context menus!
 - [zombie](https://github.com/zk-phi/zombie) - [Emacs] Major mode for editing ZOMBIE programs
 - [scratch-palette](https://github.com/zk-phi/scratch-palette) - [Emacs] Add notes on each files
@@ -4842,7 +4842,7 @@
 
 ## Haskell 
 
-- [arch-hs](https://github.com/berberman/arch-hs) - Generating PKGBUILD for hackage packages.
+- [arch-hs](https://github.com/berberman/arch-hs) - Generating PKGBUILD for hackage packages
 - [prettyprinter](https://github.com/quchen/prettyprinter) - A modern, extensible and well-documented prettyprinter.
 - [dhall-ssh-config](https://github.com/robertjlooby/dhall-ssh-config) - 
 - [OpenGL](https://github.com/haskell-opengl/OpenGL) - Haskell bindings to OpenGL
@@ -5303,6 +5303,7 @@
 
 ## JavaScript 
 
+- [docable-notebooks](https://github.com/ottomatica/docable-notebooks) - 
 - [undollar](https://github.com/ImFeelingDucky/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
 - [awesome-rss](https://github.com/shgysk8zer0/awesome-rss) - Puts an RSS/Atom subscribe button back in URL bar
 - [OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
@@ -5377,7 +5378,7 @@
 - [ViewImage](https://github.com/bijij/ViewImage) - Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 - [wdio](https://github.com/blueimp/wdio) - Docker setup for WebdriverIO with automatic screenshots, image diffing and screen recording support for containerized versions of Chrome and Firefox, Mobile Safari and Mobile Chrome via Appium, Safari on MacOS as well as Edge, Edge Legacy and Internet Explorer on Windows 10.
 - [savescreenshot](https://github.com/M-Reimer/savescreenshot) - Firefox "Save Screenshot" Addon. Simple website screenshot maker for Firefox.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 750 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ymlx](https://github.com/matthewadams/ymlx) - Command-line YAML processor
 - [eat](https://github.com/antonmedv/eat) - Eat everything 🧀
 - [chrome-jenkins-relative-links](https://github.com/danybony/chrome-jenkins-relative-links) - Display web-accessible links in Jenkins jobs console
@@ -7529,6 +7530,9 @@
 
 ## Python 
 
+- [uwsgitop](https://github.com/xrmx/uwsgitop) - top-like app for monitoring uWSGI instances
+- [ptmv](https://github.com/kal39/ptmv) - An utf-8/truecolor image and video viewer for the terminal
+- [archivy](https://github.com/Uzay-G/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [blaecksprutte](https://github.com/teythoon/blaecksprutte) - spam-tagger working on notmuch databases
 - [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
@@ -8294,7 +8298,6 @@
 - [networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
 - [PyFxA](https://github.com/mozilla/PyFxA) - Python library for interacting with the Firefox Accounts ecosystem
-- [awesome-algorithm](https://github.com/apachecn/awesome-algorithm) - 项目永久冻结，迁移至新地址：
 - [curdling](https://github.com/clarete/curdling) - Concurrent package manager for Python
 - [sclack](https://github.com/haskellcamargo/sclack) - The best CLI client for Slack, because everything is terrible!
 - [chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games in browser.
@@ -8755,7 +8758,7 @@
 - [ytfs](https://github.com/rasguanabana/ytfs) - YouTube File System
 - [pinry](https://github.com/pinry/pinry) - The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
 - [gitless](https://github.com/gitless-vcs/gitless) - A simple version control system built on top of Git
-- [Mathics](https://github.com/mathics/Mathics) - a general-purpose computer algebra system
+- [Mathics](https://github.com/mathics/Mathics) - A general-purpose computer algebra system.
 - [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, europeandataportal.eu/data, data.humdata.org among many other sites.
 - [quokka](https://github.com/quokkaproject/quokka) - LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
