@@ -108,7 +108,6 @@
   - [Solidity](#solidity)
   - [Standard ML](#standard-ml)
   - [Starlark](#starlark)
-  - [Swift](#swift)
   - [TSQL](#tsql)
   - [Tcl](#tcl)
   - [TeX](#tex)
@@ -5087,7 +5086,6 @@
 - [umlbot](https://github.com/taichi/umlbot) - uml generator bot for slack
 - [halo](https://github.com/halo-dev/halo) - ✍  An excellent open source blog publishing application. | 一个优秀的开源博客发布应用。
 - [gitblit](https://github.com/gitblit/gitblit) - pure java git solution
-- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [chibe](https://github.com/raatmarien/chibe) - An Android application that reminds you of the time
 - [mindful-android-launcher](https://github.com/maysax/mindful-android-launcher) - Siempo Android Launcher - Smartphone interface for mental health and wellbeing
 - [dev-tools](https://github.com/reugn/dev-tools) - Common development tools in one app
@@ -5304,6 +5302,7 @@
 ## JavaScript 
 
 - [docable-notebooks](https://github.com/ottomatica/docable-notebooks) - 
+- [Hello-Goodbye](https://github.com/bcye/Hello-Goodbye) - Available for Chrome, Firefox and Safari and as a blocklist to integrate into existing blockers.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
 - [awesome-rss](https://github.com/shgysk8zer0/awesome-rss) - Puts an RSS/Atom subscribe button back in URL bar
 - [OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
@@ -6114,7 +6113,6 @@
 - [headlines](https://github.com/udibr/headlines) - Automatically generate headlines to short articles
 - [pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank for phrase extraction and summarization of text documents
 - [adjustText](https://github.com/Phlya/adjustText) - A small library for automatically adjustment of text position in matplotlib plots to minimize overlaps.
-- [radon](https://github.com/rubik/radon) - Various code metrics for Python code
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [MIT_OCW_Linear_Algebra_18_06](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - IPython notebooks on Gilbert Strang's MIT course on linear algebra (18.06)
 - [roguelike-universe](https://github.com/Spaxe/roguelike-universe) - Understanding game design inspiration of roguelike games via web scraping and network analysis.
@@ -6185,7 +6183,7 @@
 ## Less 
 
 - [pipeline-stage-view-plugin](https://github.com/jenkinsci/pipeline-stage-view-plugin) - Visualizes Jenkins pipelines
-- [docs.influxdata.com](https://github.com/influxdata/docs.influxdata.com) - ARCHIVE - 1.x docs for InfluxData
+- [docs.influxdata.com-ARCHIVE](https://github.com/influxdata/docs.influxdata.com-ARCHIVE) - ARCHIVE - 1.x docs for InfluxData
 - [nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 
@@ -7565,7 +7563,7 @@
 - [xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server
 - [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
-- [mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
+- [mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender (mirror only, please post your issues and merge requests at https://gitlab.com/ubisoft-animation-studio/mixer)
 - [tomatych](https://github.com/dmi3/tomatych) - Simple Hackable Pomodoro Timer with Slack and Habitica integrations
 - [AnkiHabitica](https://github.com/eshapard/AnkiHabitica) - Anki 2.0/2.1 add-on for use with HabitRPG. Automatically scores habits when you reach the end of your Anki timebox and when you review all cards in a deck.
 - [habitica-github](https://github.com/niteshpatel/habitica-github) - Score a Habitica Task when GitHub commits are pushed
@@ -7587,6 +7585,7 @@
 - [gitinspector](https://github.com/ejwa/gitinspector) - :bar_chart: The statistical analysis tool for git repositories
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [sauron](https://github.com/sananth12/sauron) - :eyes: Reminds the user to take regular breaks and helps prevent eye strain
 - [catacomb](https://github.com/mitchjeitani/catacomb) - A minimalistic CLI tool for storing shell commands.
 - [loghub](https://github.com/spyder-ide/loghub) - Changelog generator based on github milestones or tags.
@@ -8178,6 +8177,7 @@
 - [crayons](https://github.com/MasterOdin/crayons) - Text UI colors for Python.
 - [lmdb-embeddings](https://github.com/ThoughtRiver/lmdb-embeddings) - Fast word vectors with little memory usage in Python
 - [TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
+- [radon](https://github.com/rubik/radon) - Various code metrics for Python code
 - [mongoaudit](https://github.com/stampery/mongoaudit) - 🔥 A powerful MongoDB auditing and pentesting tool 🔥
 - [aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
@@ -9670,7 +9670,7 @@
 - [tc-gen](https://github.com/hkbakke/tc-gen) - Modern linux traffic shaping made easy
 - [packaging](https://github.com/jenkinsci/packaging) - Native packaging for Jenkins
 - [habash](https://github.com/natfarleydev/habash) - A habitica terminal client written entirely in bash.
-- [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - A one-click script that installs a remote desktop environment on a Linux server with browser/VNC access.
+- [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - A one-click script that installs a remote desktop environment on a Linux server with browser/RDP/VNC access.
 - [easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC+musl for static executables
 - [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
@@ -10377,10 +10377,6 @@
 - [livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
-## Swift 
-
-- [Hello-Goodbye](https://github.com/bcye/Hello-Goodbye) - Available for Chrome, Firefox and Safari and as a blocklist to integrate into existing blockers.
-
 ## TSQL 
 
 - [py-zabbix](https://github.com/adubkov/py-zabbix) - Python modules for zabbix.
@@ -10558,7 +10554,7 @@
 - [commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [shellshape](https://github.com/timbertson/shellshape) - tiling window manager extension for gnome-shell
-- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension/Addon that deletes cookies as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
+- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [academic-bloggers-toolkit](https://github.com/dsifford/academic-bloggers-toolkit) - WordPress plugin providing an all-in-one solution for effective academic blogging.
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
