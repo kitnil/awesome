@@ -1176,7 +1176,7 @@
 - [fhDOOM](https://github.com/eXistence/fhDOOM) - Modernized DOOM3/idTech4 engine: ported to modern OpenGL (core profile), enhanced visual effects, improved performance, improved editor, more to come
 - [OpenRaider](https://github.com/xythobuz/OpenRaider) - Open Source Tomb Raider Engine
 - [Castor3D](https://github.com/DragonJoker/Castor3D) - Multi-OS 3D engine.
-- [octoon](https://github.com/octoon/octoon) - Modern C++ Game Engine with Entity Component System Framework
+- [RabbitToolbox](https://github.com/ray-cast/RabbitToolbox) - 集成骨骼动画，反向运动学，立体声，物理基于的离线渲染，多层材质，AI降噪的动画渲染软件
 - [FlexEngine](https://github.com/ajweeks/FlexEngine) - A personal game engine
 - [RadixEngine](https://github.com/GlPortal/RadixEngine) - A free and open game engine.
 - [xrtl](https://github.com/google/xrtl) - Cross-platform Real-Time Rendering Library
@@ -1363,7 +1363,7 @@
 - [xkeymacs](https://github.com/fujieda/xkeymacs) - 
 - [variant](https://github.com/mapbox/variant) - C++11/C++14 Variant
 - [tiled](https://github.com/bjorn/tiled) - A flexible level editor
-- [cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
+- [cosmos](https://github.com/OpenGenus/cosmos) - | Contribute toward Hacktoberfest and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
 - [gameplay](https://github.com/gameplay3d/gameplay) - Open-source, cross-platform, C++ game engine for creating 2D/3D games.
 - [spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine
 - [Torque2D](https://github.com/GarageGames/Torque2D) - MIT Licensed Open Source version of Torque 2D game engine from GarageGames
@@ -4867,7 +4867,7 @@
 ## Haskell 
 
 - [haskell](https://github.com/lotz84/haskell) - A curated list of awesome things related to Haskell.
-- [arch-hs](https://github.com/berberman/arch-hs) - Generating PKGBUILD for hackage packages
+- [arch-hs](https://github.com/berberman/arch-hs) - Distribute hackage packages to archlinux
 - [prettyprinter](https://github.com/quchen/prettyprinter) - A modern, extensible and well-documented prettyprinter.
 - [dhall-ssh-config](https://github.com/robertjlooby/dhall-ssh-config) - 
 - [OpenGL](https://github.com/haskell-opengl/OpenGL) - Haskell bindings to OpenGL
@@ -5398,7 +5398,7 @@
 - [Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [block-options](https://github.com/phpbits/block-options) - EditorsKit — a toolkit for the Gutenberg block editor.
 - [like-on-github](https://github.com/Idnan/like-on-github) - Chrome extension - Link a repository with the extension and automatically save the links to content you like
-- [webcatalog](https://github.com/atomery/webcatalog) - Turn Websites into Real Apps
+- [webcatalog-app](https://github.com/webcatalog/webcatalog-app) - Official WebCatalog app.
 - [Sandman](https://github.com/alexanderepstein/Sandman) - An Application Built With Late Night Developers In Mind
 - [gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?
@@ -5471,7 +5471,6 @@
 - [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
-- [30-seconds-of-angular](https://github.com/30-seconds/30-seconds-of-angular) - [WIP] Curated collection of Angular snippets that you can understand in 30 seconds or less
 - [awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor) - 🔨  Open source WEB editor summary 🐛
 - [awesome-captcha](https://github.com/ZYSzys/awesome-captcha) - :key: Curated list of awesome captcha libraries and crack tools.
 - [awesome-web-animation](https://github.com/sergey-pimenov/awesome-web-animation) - A list of awesome web animation libraries, books, apps etc.
@@ -6430,7 +6429,7 @@
 - [kubenix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using nix
 - [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS.
 - [nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
-- [nixpkgs-channels](https://github.com/NixOS/nixpkgs-channels) - A read-only mirror of NixOS/nixpkgs tracking the released channels. Send issues and PRs to
+- [nixpkgs-channels](https://github.com/NixOS/nixpkgs-channels) - DEPRECATED! This is an obsolete, read-only mirror of the NixOS/nixpkgs repository.
 - [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix
@@ -7822,6 +7821,7 @@
 
 ## Python 
 
+- [zabbix-dnscheck](https://github.com/nobodysu/zabbix-dnscheck) - External check for monitoring host's dns entries without access to the server. Supports A, AAAA, PTR, MX and TXT records. With LLD and bulk data sending.
 - [awesome-italy-events](https://github.com/ildoc/awesome-italy-events) - Curated list of tech related events in Italy
 - [awesome-scoop](https://github.com/tapannallan/awesome-scoop) - A collection of awesome resources for the scoop package manager for windows
 - [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research) - A curated list of Multimodal Related Research.
@@ -9629,7 +9629,7 @@
 - [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
-- [crush](https://github.com/liljencrantz/crush) - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
+- [crush](https://github.com/liljencrantz/crush) - Crush is a command line shell that is also a powerful modern programming language.
 - [suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [bayard](https://github.com/bayard-search/bayard) - A full-text search and indexing server written in Rust.
@@ -9819,7 +9819,7 @@
 - [hematite](https://github.com/PistonDevelopers/hematite) - A simple Minecraft written in Rust with the Piston game engine
 - [piston](https://github.com/PistonDevelopers/piston) - A modular game engine written in Rust
 - [fireplace](https://github.com/Drakulix/fireplace) - Modular wayland window manager written in rust
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [q3](https://github.com/jeaye/q3) - A Quake 3 like game with voxelized destructible maps
 
 ## SCSS 
@@ -9865,7 +9865,6 @@
 - [srfi-test](https://github.com/srfi-explorations/srfi-test) - Collecting up-to-date test suites for SRFIs
 - [scheme-lib](https://github.com/evilbinary/scheme-lib) - 鸭库 duck lib scheme for gui gles gl slib openal socket web mongodb box2d game glfw mysql libevent  libuv uv json http client  server android osx linux chezscheme scheme-lib
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
-- [charlie](https://github.com/m455/charlie) - An IRC bot in Chicken Scheme
 - [torrent](https://github.com/o-nly/torrent) - 
 - [texmacs-converter-tm2md](https://github.com/PikachuHy/texmacs-converter-tm2md) - a converter to markdown format for TeXmacs.
 - [guile-daemon](https://github.com/alezost/guile-daemon) - Evaluate code in a running Guile process
