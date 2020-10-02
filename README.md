@@ -515,7 +515,6 @@
 - [bitlbee-discord](https://github.com/sm00th/bitlbee-discord) - Bitlbee plugin for Discord (http://discordapp.com)
 - [toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
 - [GtkRadiant](https://github.com/TTimo/GtkRadiant) - The open source, cross platform level editor for idtech games
-- [aerc](https://github.com/ddevault/aerc) - Asynchronous email client for your terminal
 - [systemshock](https://github.com/Interrupt/systemshock) - Shockolate - Same great System Shock, new great taste.
 - [UnNetHack](https://github.com/UnNetHack/UnNetHack) - NetHack fork that is in development
 - [nodm](https://github.com/spanezz/nodm) - Automatic display manager
@@ -654,7 +653,7 @@
 - [apulse](https://github.com/i-rinat/apulse) - PulseAudio emulation for ALSA
 - [asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit:
 - [opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
-- [EasyLogger](https://github.com/armink/EasyLogger) - A ultra-lightweight(ROM&lt;1.6K, RAM&lt;0.3k), high-performance C/C++ log library. | 一款超轻量级(ROM&lt;1.6K, RAM&lt;0.3k)、高性能的 C/C++ 日志库
+- [EasyLogger](https://github.com/armink/EasyLogger) - An ultra-lightweight(ROM&lt;1.6K, RAM&lt;0.3k), high-performance C/C++ log library. | 一款超轻量级(ROM&lt;1.6K, RAM&lt;0.3k)、高性能的 C/C++ 日志库
 - [lsh](https://github.com/brenns10/lsh) - Simple shell implementation.  Tutorial here -&gt;
 - [groonga](https://github.com/groonga/groonga) - An embeddable fulltext search engine. Groonga is the successor project to Senna.
 - [picotcp](https://github.com/tass-belgium/picotcp) - PicoTCP is a free TCP/IP stack implementation
@@ -2476,7 +2475,7 @@
 - [dap-mode](https://github.com/emacs-lsp/dap-mode) - Emacs :heart: Debug Adapter Protocol
 - [quack](https://github.com/emacsmirror/quack) - Enhanced support for editing and running Scheme code
 - [helm-ido-like-guide](https://github.com/clemera/helm-ido-like-guide) - Guide to get an intuitive and more ido-like helm interface in Emacs. Recommends configurations and packages to improve helms default interface.
-- [objed](https://github.com/clemera/objed) - Navigate and edit text objects with Emacs
+- [objed](https://github.com/clemera/objed) - Navigate and edit text objects with Emacs. Development on pause.
 - [bln-mode](https://github.com/mgrachten/bln-mode) - Minor mode for binary line navigation in Emacs
 - [parrot](https://github.com/dp12/parrot) - A package to rotate text and party with parrots at the same time
 - [yaml-imenu.el](https://github.com/knu/yaml-imenu.el) - Enhancement for the imenu support in yaml-mode
@@ -5335,6 +5334,7 @@
 
 ## JavaScript 
 
+- [gc-viz](https://github.com/kenfox/gc-viz) - Animated visualizations of several garbage collection algorithms
 - [app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [awesome-vue](https://github.com/rmjordas/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [didecentral.github.io](https://github.com/didecentral/didecentral.github.io) - Curating Decentralized, Self-Sovereign, and Blockchain Identity
@@ -5428,7 +5428,7 @@
 - [ViewImage](https://github.com/bijij/ViewImage) - Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 - [wdio](https://github.com/blueimp/wdio) - Docker setup for WebdriverIO with automatic screenshots, image diffing and screen recording support for containerized versions of Chrome and Firefox, Mobile Safari and Mobile Chrome via Appium, Safari on MacOS as well as Edge, Edge Legacy and Internet Explorer on Windows 10.
 - [savescreenshot](https://github.com/M-Reimer/savescreenshot) - Firefox "Save Screenshot" Addon. Simple website screenshot maker for Firefox.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 850 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ymlx](https://github.com/matthewadams/ymlx) - Command-line YAML processor
 - [eat](https://github.com/antonmedv/eat) - Eat everything 🧀
 - [chrome-jenkins-relative-links](https://github.com/danybony/chrome-jenkins-relative-links) - Display web-accessible links in Jenkins jobs console
@@ -7849,7 +7849,6 @@
 - [surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
 - [autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [volti](https://github.com/gen2brain/volti) - Volti is GTK+ application for controlling audio volume from system tray/notification area
-- [evilpass](https://github.com/ddevault/evilpass) - Slightly evil password strength checker
 - [ansi2html](https://github.com/ralphbean/ansi2html) - Convert text with ansi color codes to HTML
 - [pykeepass](https://github.com/libkeepass/pykeepass) - Python library to interact with keepass databases (supports KDBX3 and KDBX4)
 - [ffpass](https://github.com/louisabraham/ffpass) - Import and Export passwords for Firefox Quantum 🔑
@@ -8650,7 +8649,6 @@
 - [picamera](https://github.com/waveform80/picamera) - A pure Python interface to the Raspberry Pi camera module
 - [conkeror-bookmarks](https://github.com/bjornedstrom/conkeror-bookmarks) - Bookmark managing for the conkeror web browser
 - [afew](https://github.com/afewmail/afew) - an initial tagging script for notmuch mail
-- [pass-rotate](https://github.com/ddevault/pass-rotate) - A tool and library for rotating your password on online services
 - [monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
 - [dnsviz](https://github.com/dnsviz/dnsviz) - 
 - [subdl](https://github.com/alexanderwink/subdl) - subdl - command-line tool to download subtitles from opensubtitles.org  Official support for subdl seems to have been dropped. This site is intended for the future use of subdl with community driven support.
