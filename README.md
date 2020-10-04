@@ -191,6 +191,8 @@
 
 ## C 
 
+- [simplefs](https://github.com/psankar/simplefs) - A simple, kernel-space, on-disk filesystem from the scratch
+- [winfsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy - FUSE for Windows
 - [keysniffer](https://github.com/jarun/keysniffer) - :eyes: Linux kernel mode debugfs keylogger
 - [unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [abduco](https://github.com/martanne/abduco) - abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. Together with dvtm it provides a simpler and cleaner alternative to tmux or screen.
@@ -991,6 +993,8 @@
 
 ## C++ 
 
+- [mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+- [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [traceshark](https://github.com/cunctator/traceshark) - This is a tool for Linux kernel ftrace and perf events visualization
 - [orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [lite](https://github.com/TerminalStudio/lite) - 🔬Experimental cross-platform terminal emulator application written in Flutter.
@@ -2708,7 +2712,7 @@
 - [sudden-death.el](https://github.com/yewton/sudden-death.el) - 
 - [sly-repl-ansi-color](https://github.com/PuercoPop/sly-repl-ansi-color) - ansi-color support for the sly-mrepl
 - [rubik-mode](https://github.com/Kurvivor19/rubik-mode) - Rubik's cube puzzle for emacs
-- [ivy-posframe](https://github.com/tumashu/ivy-posframe) - ivy-posframe is a ivy extension, which let ivy use posframe to show its candidate menu.
+- [ivy-posframe](https://github.com/tumashu/ivy-posframe) - ivy-posframe is a ivy extension, which let ivy use posframe to show its candidate menu, ivy-posframe is a **GNU ELPA** package.
 - [ibuffer-sidebar](https://github.com/jojojames/ibuffer-sidebar) - A sidebar for IBuffer
 - [emacs-gif-screencast](https://github.com/Ambrevar/emacs-gif-screencast) - [MOVED TO GITLAB] One-frame-per-action GIF recording for optimal quality/size ratio
 - [cobalt.el](https://github.com/cobalt-org/cobalt.el) - Emacs interface for Cobalt.rs
@@ -3759,6 +3763,69 @@
 
 ## Go 
 
+- [log-pilot](https://github.com/AliyunContainerService/log-pilot) - Collect logs for docker containers
+- [mgob](https://github.com/stefanprodan/mgob) - MongoDB dockerized backup agent. Runs schedule backups with retention, S3 & SFTP upload, notifications, instrumentation with Prometheus and more.
+- [supercronic](https://github.com/aptible/supercronic) - Cron for containers
+- [amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available.
+- [soundscape](https://github.com/soundscapecloud/soundscape) - Soundscape - a personal music streaming server
+- [kube-prompt](https://github.com/c-bata/kube-prompt) - An interactive kubernetes client featuring auto-complete.
+- [gotest](https://github.com/rakyll/gotest) - go test with colors
+- [memviz](https://github.com/bradleyjkemp/memviz) - Visualize your Go data structures using graphviz
+- [beeep](https://github.com/gen2brain/beeep) - Go cross-platform library for sending desktop notifications, alerts and beeps
+- [cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
+- [goquiz.github.io](https://github.com/goquiz/goquiz.github.io) - Go Interview Questions and Answers
+- [pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
+- [gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
+- [glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
+- [goscan](https://github.com/marco-lancini/goscan) - Interactive Network Scanner
+- [go-structure-examples](https://github.com/katzien/go-structure-examples) - Examples for my talk on structuring go apps
+- [golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
+- [nftables](https://github.com/google/nftables) - This package manipulates Linux nftables (the iptables successor)
+- [gphotos-uploader-cli](https://github.com/gphotosuploader/gphotos-uploader-cli) - Command line tool to mass upload media folders to your google photos account(s) (Mac OS / Linux)
+- [testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers is a Golang library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
+- [Gorsair](https://github.com/Ullaakut/Gorsair) - Gorsair hacks its way into remote docker containers that expose their APIs
+- [cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
+- [life](https://github.com/perlin-network/life) - A secure WebAssembly VM catered for decentralized applications.
+- [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
+- [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
+- [dbdot](https://github.com/akarki15/dbdot) - Generate DOT description for postgres db schema
+- [mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
+- [pst](https://github.com/skanehira/pst) - TUI process monitor written in Go
+- [docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for docker
+- [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
+- [gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
+- [open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
+- [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
+- [bingo](https://github.com/saibing/bingo) - Bingo is a Go language server that speaks Language Server Protocol.
+- [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | https://golang.design/under-the-hood
+- [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [image2ascii](https://github.com/qeesung/image2ascii) - :foggy: Convert image to ASCII
+- [awesome-golang-algorithm](https://github.com/kylesliu/awesome-golang-algorithm) - :memo: LeetCode of algorithms with golang solution(updating).
+- [txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
+- [dstask](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task
+- [gmailfilters](https://github.com/jessfraz/gmailfilters) - A tool to sync Gmail filters from a config file to your account.
+- [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
+- [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
+- [DNSGrep](https://github.com/erbbysam/DNSGrep) - Quickly Search Large DNS Datasets
+- [docker-debug](https://github.com/zeromake/docker-debug) - use new container attach on already container go on debug
+- [ytt](https://github.com/k14s/ytt) - YAML templating tool that works on YAML structure instead of text
+- [redis-tui](https://github.com/mylxsw/redis-tui) - A Redis Text-based UI client in CLI
+- [run](https://github.com/TekWizely/run) - Easily manage and invoke small scripts and wrappers
+- [mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
+- [webfs](https://github.com/brendoncarroll/webfs) - A Filesystem Built On Top of the Web.
+- [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
+- [jaeles](https://github.com/jaeles-project/jaeles) - The Swiss Army knife for automated Web Application Testing
+- [hakrevdns](https://github.com/hakluke/hakrevdns) - Small, fast tool for performing reverse DNS lookups en masse.
+- [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
+- [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
+- [terraform-ls](https://github.com/hashicorp/terraform-ls) - Terraform Language Server
+- [gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+- [dark](https://github.com/K-Phoen/dark) - (grafana) Dashboards As Resources in Kubernetes
+- [commit-stream](https://github.com/x1sec/commit-stream) - #OSINT tool for finding Github repositories by extracting commit logs in real time from the Github event API
+- [lazynpm](https://github.com/jesseduffield/lazynpm) - terminal UI for npm
+- [dbcore](https://github.com/eatonphil/dbcore) - Generate applications powered by your database.
+- [nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend any game or application.
 - [sinker](https://github.com/plexsystems/sinker) - A tool to sync images from one container registry to another
 - [ligolo](https://github.com/sysdream/ligolo) - Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/
 - [firewalld-rest](https://github.com/prashantgupta24/firewalld-rest) - A rest application to update firewalld rules on a linux server
@@ -3853,7 +3920,7 @@
 - [browsertunnel](https://github.com/veggiedefender/browsertunnel) - Surreptitiously exfiltrate data from the browser over DNS
 - [oneshot](https://github.com/raphaelreyna/oneshot) - A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
 - [binclude](https://github.com/lu4p/binclude) - Include files in your binary the easy way
-- [GoSH](https://github.com/wintrmvte/GoSH) - Golang reverse/bind shell generator
+- [GoSH](https://github.com/redcode-labs/GoSH) - Golang reverse/bind shell generator
 - [manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
 - [ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files
 - [ini](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go.
@@ -3882,6 +3949,7 @@
 - [nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework
 - [hacks](https://github.com/tomnomnom/hacks) - A collection of hacks and one-off scripts
 - [triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
+- [trumail](https://github.com/trumail/trumail) - :email: :white_check_mark: A Fast and Free Email Verification API written in Go
 - [trumail](https://github.com/trumail/trumail) - :email: :white_check_mark: A Fast and Free Email Verification API written in Go
 - [alfred-web-searches](https://github.com/nikitavoloboev/alfred-web-searches) - Alfred workflow to search through any website (easily extendable list)
 - [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
@@ -5175,7 +5243,7 @@
 - [MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - Let supported push service run system-ly on every Android devices
 - [openj9](https://github.com/eclipse/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 - [ScalingLayout](https://github.com/iammert/ScalingLayout) - With Scaling Layout scale your layout on user interaction.
-- [SDE-Interview-Questions](https://github.com/rishabh115/SDE-Interview-Questions) - Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
+- [SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions) - Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
 - [VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 - [jvm-profiler](https://github.com/uber-common/jvm-profiler) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter
 - [TextPathView](https://github.com/totond/TextPathView) - A View with text path animation!
@@ -5368,6 +5436,7 @@
 
 ## JavaScript 
 
+- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [docker-browser](https://github.com/pfrayer/docker-browser) - Visualize your containers/images/volumes/networks and see which ones uses which ones
 - [sqleton](https://github.com/inukshuk/sqleton) - Visualize your SQLite database schema
 - [alicemq](https://github.com/alicelabs/alicemq) - RabbitMQ Visualizer
@@ -6609,7 +6678,7 @@
 - [awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects
 - [angular-awesome-list](https://github.com/Angular-RU/angular-awesome-list) - Список ресурсов по Angular на русском
 - [awesome-weekly-robotics](https://github.com/msadowski/awesome-weekly-robotics) - A list of projects that were or will be featured in Weekly Robotics newsletter
-- [awesome-hacktoberfest-2020](https://github.com/OtacilioN/awesome-hacktoberfest-2020) - A curated list of awesome Hacktoberfest 2020 repositories
+- [awesome-hacktoberfest-2020](https://github.com/OtacilioN/awesome-hacktoberfest-2020) - A curated list of awesome Hacktoberfest 2020 repositories, guides and resources
 - [awesome-immigration](https://github.com/acacess/awesome-immigration) - An Awesome list of long-term visas
 - [awesome-algorithms-education](https://github.com/gaerae/awesome-algorithms-education) - A curated list to learning and practicing about algorithm.
 - [awesome-digitalocean](https://github.com/jonleibowitz/awesome-digitalocean) - A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin
@@ -7132,7 +7201,6 @@
 - [bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right!
 - [curriculum](https://github.com/HackYourFuture/curriculum) - Overview of the HackYourFuture program.
 - [awesome-toolkits](https://github.com/reyronald/awesome-toolkits) - A curated list of open source, high-quality, popular and well maintained "zero-configuration" (#0CJS) toolkits
-- [awesome-toolkits](https://github.com/reyronald/awesome-toolkits) - A curated list of open source, high-quality, popular and well maintained "zero-configuration" (#0CJS) toolkits
 - [fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [russian_news_corpus](https://github.com/maxoodf/russian_news_corpus) - Russian mass media stemmed texts corpus / Корпус лемматизированных (морфологически нормализованных) текстов российских СМИ
 - [portabletext](https://github.com/portabletext/portabletext) - Portable Text is a JSON based rich text specification for modern content editing platforms.
@@ -7539,6 +7607,7 @@
 
 ## PHP 
 
+- [flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 - [LibreSignage](https://github.com/eerotal/LibreSignage) - An open source digital signage solution
 - [phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [pdns-gui](https://github.com/odoucet/pdns-gui) - pdns-gui fork
@@ -7861,6 +7930,11 @@
 
 ## Python 
 
+- [org-du](https://github.com/novoid/org-du) - Visualizing Emacs Org-mode heading lines using du and xdu
+- [integratethis](https://github.com/novoid/integratethis) - Integrate programs or scripts into common tools like Windows Explorer context menu
+- [python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
+- [diskover](https://github.com/shirosaidev/diskover) - File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
+- [pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology) - Network topology collector and visualizer. Collects network topology data from dynamic mesh routing protocols or other popular networking software like OpenVPN, allows to visualize the network graph, save daily snapshots that can be viewed in the future and more.
 - [multidiff](https://github.com/juhakivekas/multidiff) - Binary data diffing for multiple objects or streams of data
 - [git-ftp](https://github.com/ezyang/git-ftp) - A quick and efficient way of pushing changed files to a website via FTP
@@ -7956,10 +8030,10 @@
 - [isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [acme-nosudo](https://github.com/diafygi/acme-nosudo) - Free HTTPS certificates without having to trust the letsencrypt cli with sudo/root
 - [Voltorb](https://github.com/egeoz/Voltorb) - A simple GUI for undervolting on GNU/Linux
-- [YAS](https://github.com/wintrmvte/YAS) - Yet Another Sniffer for monitoring network traffic
-- [VTSCAN](https://github.com/wintrmvte/VTSCAN) - VirusTotal API script
-- [Shellab](https://github.com/wintrmvte/Shellab) - Linux and Windows shellcode enrichment utility
-- [Netenum](https://github.com/wintrmvte/Netenum) - A tool to passively discover active hosts on a network
+- [YAS](https://github.com/redcode-labs/YAS) - Yet Another Sniffer for monitoring network traffic
+- [VTSCAN](https://github.com/redcode-labs/VTSCAN) - VirusTotal API script
+- [Shellab](https://github.com/redcode-labs/Shellab) - Linux and Windows shellcode enrichment utility
+- [Netenum](https://github.com/redcode-labs/Netenum) - A tool to passively discover active hosts on a network
 - [selinux-notebook](https://github.com/SELinuxProject/selinux-notebook) - The SELinux Notebook
 - [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
@@ -9579,6 +9653,7 @@
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
 - [linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab REST API
 - [github-preview](https://github.com/kei-s/github-preview) - Instant Preview for GitHub's README formats
 - [vagrant-hostmanager](https://github.com/devopsgroup-io/vagrant-hostmanager) - :pencil: A Vagrant plugin that manages hosts files within a multi-machine environment.
@@ -9640,6 +9715,7 @@
 
 ## Rust 
 
+- [notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [hola](https://github.com/saanuregh/hola) - Windows Hello™ style facial authentication for Linux written in Rust
 - [arcane_fortune](https://github.com/cody2007/arcane_fortune) - Arcane Fortune is a game of empire building, diplomacy, conquest, construction, and deconstruction.
 - [github-changelist](https://github.com/yoshuawuyts/github-changelist) - Generate a list of merged PRs since the last release
@@ -10082,7 +10158,7 @@
 - [SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo
 - [misterio](https://github.com/daitangio/misterio) - Docker-compose based Ansible alternative. It hates spiders
 - [bash-numpad-input](https://github.com/TDGalea/bash-numpad-input) - Solely available for people to view the source code.
-- [Revssl](https://github.com/wintrmvte/Revssl) - A script that automates generation of OpenSSL reverse shells
+- [Revssl](https://github.com/redcode-labs/Revssl) - A script that automates generation of OpenSSL reverse shells
 - [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. Can run commands, copy files, tunnel ports and connect.
 - [latest-releases](https://github.com/nickjj/latest-releases) - A command line tool that lets you keep tabs on the latest releases of your favorite tools and libraries.
 - [gen_perl](https://github.com/purpleroc/gen_perl) - A script to generate perl script for execute ELF in memory.
@@ -10359,7 +10435,7 @@
 - [RootHelper](https://github.com/NullArray/RootHelper) - A  Bash script that downloads and unzips scripts that will aid with privilege escalation on a Linux system.
 - [ProxyMan](https://github.com/himanshub16/ProxyMan) - Configuring proxy settings made easy.
 - [zabbix-slack-alertscript](https://github.com/ericoc/zabbix-slack-alertscript) - Zabbix AlertScript for Slack.com chat
-- [Bashark](https://github.com/wintrmvte/Bashark) - Bash post exploitation toolkit
+- [Bashark](https://github.com/redcode-labs/Bashark) - Bash post exploitation toolkit
 - [FFcast](https://github.com/lolilolicon/FFcast) - Run command on rectangular screen regions
 - [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
