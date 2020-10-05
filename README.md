@@ -1166,7 +1166,7 @@
 - [stepmania](https://github.com/stepmania/stepmania) - Advanced rhythm game for Windows, Linux and OS X. Designed for both home and arcade use.
 - [ulisp-esp](https://github.com/technoblogy/ulisp-esp) - A version of the Lisp programming language for ESP8266 and ESP32-based boards.
 - [Nuclear-Engine](https://github.com/Zone-organization/Nuclear-Engine) - Fast, customizable, cross-platform game engine powered by Nuclear Fuel! 🚀♨🔥
-- [thunder](https://github.com/thunder-engine/thunder) - An open source game engine is written in C++ with a flexible architecture
+- [thunder](https://github.com/thunder-engine/thunder) - An open-source game engine is written in C++ with a flexible architecture
 - [azteroids](https://github.com/rodrigosetti/azteroids) - Simple Asteroids game in C++ and OpenGL
 - [RaZ](https://github.com/Razakhel/RaZ) - Modern & multiplatform game engine in C++17
 - [rewind-viewer](https://github.com/kswaldemar/rewind-viewer) - Fast match viewer with rewinding support for Russian AI Cup championship series
@@ -3763,6 +3763,16 @@
 
 ## Go 
 
+- [realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
+- [lf](https://github.com/gokcehan/lf) - Terminal file manager
+- [dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
+- [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
+- [Go](https://github.com/TheAlgorithms/Go) - Algorithms Implemented in GoLang
+- [overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
+- [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+- [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
+- [repo-security-scanner](https://github.com/UKHomeOffice/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
+- [go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [log-pilot](https://github.com/AliyunContainerService/log-pilot) - Collect logs for docker containers
 - [mgob](https://github.com/stefanprodan/mgob) - MongoDB dockerized backup agent. Runs schedule backups with retention, S3 & SFTP upload, notifications, instrumentation with Prometheus and more.
 - [supercronic](https://github.com/aptible/supercronic) - Cron for containers
@@ -3792,7 +3802,6 @@
 - [mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
 - [pst](https://github.com/skanehira/pst) - TUI process monitor written in Go
 - [docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for docker
-- [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
@@ -3949,7 +3958,6 @@
 - [nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework
 - [hacks](https://github.com/tomnomnom/hacks) - A collection of hacks and one-off scripts
 - [triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
-- [trumail](https://github.com/trumail/trumail) - :email: :white_check_mark: A Fast and Free Email Verification API written in Go
 - [trumail](https://github.com/trumail/trumail) - :email: :white_check_mark: A Fast and Free Email Verification API written in Go
 - [alfred-web-searches](https://github.com/nikitavoloboev/alfred-web-searches) - Alfred workflow to search through any website (easily extendable list)
 - [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
@@ -5436,6 +5444,7 @@
 
 ## JavaScript 
 
+- [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [docker-browser](https://github.com/pfrayer/docker-browser) - Visualize your containers/images/volumes/networks and see which ones uses which ones
 - [sqleton](https://github.com/inukshuk/sqleton) - Visualize your SQLite database schema
@@ -5561,7 +5570,7 @@
 - [FunctionScript](https://github.com/FunctionScript/FunctionScript) - A language and specification for turning JavaScript functions into typed HTTP APIs
 - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - OBSOLETE - Interactively select the quality and format for youtube-dl
 - [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (September 2020)
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (October 2020)
 - [diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers
 - [Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage. Now with protected boxes.
@@ -5962,7 +5971,7 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2020)
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
 - [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -6314,7 +6323,7 @@
 - [Notally](https://github.com/OmGodse/Notally) - A beautiful notes app
 - [AnimeXStream](https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.
 - [vlc-android](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
-- [Foodium](https://github.com/PatilShreyas/Foodium) - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
+- [Foodium](https://github.com/PatilShreyas/Foodium) - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2/Hilt, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
 - [p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 - [tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
 - [filebox](https://github.com/lyrebirdstudio/filebox) - Async file downloader for Android
@@ -9653,7 +9662,6 @@
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
 - [linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab REST API
 - [github-preview](https://github.com/kei-s/github-preview) - Instant Preview for GitHub's README formats
 - [vagrant-hostmanager](https://github.com/devopsgroup-io/vagrant-hostmanager) - :pencil: A Vagrant plugin that manages hosts files within a multi-machine environment.
@@ -10989,7 +10997,7 @@
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
 - [SOSML](https://github.com/SOSML/SOSML) - The Online Interpreter for Standard ML, written in TypeScript.
-- [discord-term](https://github.com/cloudrex/discord-term) - Extensible Discord terminal client
+- [discord-term](https://github.com/atlx/discord-term) - Extensible Discord terminal client
 - [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional translator.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
