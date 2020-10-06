@@ -191,6 +191,8 @@
 
 ## C 
 
+- [fio](https://github.com/axboe/fio) - Flexible I/O Tester
+- [ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [simplefs](https://github.com/psankar/simplefs) - A simple, kernel-space, on-disk filesystem from the scratch
 - [winfsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy - FUSE for Windows
 - [keysniffer](https://github.com/jarun/keysniffer) - :eyes: Linux kernel mode debugfs keylogger
@@ -350,7 +352,6 @@
 - [UnicornConsole](https://github.com/Gigoteur/UnicornConsole) - Unicorn Console: create quick game !
 - [crown](https://github.com/dbartolini/crown) - The flexible game engine.
 - [sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
-- [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [rtty](https://github.com/zhaojh329/rtty) - Access your terminal from anywhere via the web.
 - [headmore](https://github.com/HouzuoGuo/headmore) - Top geek’s VNC client that runs in Linux terminal (Linux VT console, xterm, and more)
 - [img2xterm](https://github.com/rossy/img2xterm) - Displays images on your 256-color terminal with Unicode block characters.
@@ -1933,7 +1934,6 @@
 - [guix](https://github.com/metacall/guix) - Docker image for using GuixSD in a CI/CD environment.
 - [docker-tor](https://github.com/mko-x/docker-tor) - Setup a Tor relay Server/Service easily. Support Tor!!
 - [docker-nginx-simple](https://github.com/mko-x/docker-nginx-simple) - Simple nginx serving static content in just a few lines of code.
-- [docker-clamav](https://github.com/mko-x/docker-clamav) - Dockerized open source antivirus for use with file sharing containers, REST API or TCP.
 - [xubuntu-vnc](https://github.com/accetto/xubuntu-vnc) - Headless Ubuntu/Xfce containers with VNC and various applications
 - [xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc) - Headless Ubuntu/Xfce containers with VNC/noVNC and various applications
 - [docker-pxe](https://github.com/ferrarimarco/docker-pxe) - A virtualized implementation of PXE supported by DNSMasq
@@ -3763,6 +3763,10 @@
 
 ## Go 
 
+- [shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
+- [arkade](https://github.com/alexellis/arkade) - Your one-stop CLI for Kubernetes
+- [goreman](https://github.com/mattn/goreman) - foreman clone written in go language
+- [devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
 - [lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
@@ -3802,6 +3806,7 @@
 - [mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
 - [pst](https://github.com/skanehira/pst) - TUI process monitor written in Go
 - [docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for docker
+- [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
@@ -3848,7 +3853,6 @@
 - [logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [crumbs](https://github.com/lucasepe/crumbs) - Turn asterisk-indented text lines into mind maps
 - [modgv](https://github.com/lucasepe/modgv) - Converts 'go mod graph' output into Graphviz's DOT language
-- [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go
 - [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [norouter](https://github.com/norouter/norouter) - The easiest multi-host & multi-cloud networking ever. No root privilege is required.
 - [gitjacker](https://github.com/liamg/gitjacker) - 🔪 :octocat: Leak git repositories from misconfigured websites
@@ -4112,7 +4116,7 @@
 - [lefthook](https://github.com/Arkweid/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
-- [tfsec](https://github.com/liamg/tfsec) - 🔒🌍 Static analysis powered security scanner for your terraform code
+- [tfsec](https://github.com/tfsec/tfsec) - 🔒🌍 Static analysis powered security scanner for your terraform code
 - [submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
 - [crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [red](https://github.com/antonmedv/red) - Terminal log analysis tools
@@ -4138,7 +4142,7 @@
 - [hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster.
 - [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
 - [gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
-- [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc)  7天用Go动手写/从零实现系列
+- [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
 - [v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [longcat](https://github.com/mattn/longcat) - Looooooooooooooooooooooooooooooooooooooooooooooong cat
@@ -5206,6 +5210,9 @@
 
 ## Java 
 
+- [wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux performance monitoring system
+- [liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
+- [flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [MusicDNA](https://github.com/harjot-oberai/MusicDNA) - A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.
 - [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central and jCenter Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison. Can be used for automation qa tests.
 - [audio_recorder](https://github.com/ZaraclaJ/audio_recorder) - 
@@ -5444,7 +5451,6 @@
 
 ## JavaScript 
 
-- [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [docker-browser](https://github.com/pfrayer/docker-browser) - Visualize your containers/images/volumes/networks and see which ones uses which ones
 - [sqleton](https://github.com/inukshuk/sqleton) - Visualize your SQLite database schema
@@ -5752,7 +5758,6 @@
 - [p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
 - [frontail](https://github.com/mthenw/frontail) - 📝 streaming logs to the browser
 - [multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
-- [shortkeys](https://github.com/mikecrittenden/shortkeys) - A browser extension for custom keyboard shortcuts
 - [pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon
 - [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [awesome-berlin](https://github.com/marlonbernardes/awesome-berlin) - 🇩🇪 A guide aiming to help newcomers to have a successful start in Berlin!
@@ -6363,6 +6368,7 @@
 
 ## Lua 
 
+- [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [Monstercat-Visualizer](https://github.com/marcopixel/Monstercat-Visualizer) - A real time audio visualizer for Rainmeter similar to the ones used in the Monstercat videos.
 - [awesome-config](https://github.com/tony/awesome-config) - :closed_book: Example awesome wm configuration. Includes personalization support (personal.vim), theme, polyglot unicode taglists, mpd support.
 - [awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
@@ -6393,6 +6399,7 @@
 - [vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
 - [luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
 - [lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
+- [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
 - [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
@@ -6609,6 +6616,7 @@
 
 ## Others 
 
+- [awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [Must_Know_Resources](https://github.com/ACES-DYPCOE/Must_Know_Resources) - The repository contains a learning path for some domains and interesting must do things in the tech field as a college Student
 - [hardware-hacking](https://github.com/koutto/hardware-hacking) - Some stuff about Hardware Hacking
 - [browser-resources](https://github.com/azu/browser-resources) - A Collection of official Resources/Status/Issues for browsers.
@@ -7840,7 +7848,7 @@
 - [check_rbl](https://github.com/matteocorti/check_rbl) - check_rbl is a Nagios plugin to check if an SMTP server is blacklisted
 - [vidir](https://github.com/trapd00r/vidir) - edit directory in $EDITOR (better than vim . with netrw)
 - [stow](https://github.com/aspiers/stow) - GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches
-- [vbscan](https://github.com/Ali-Razmjoo/vbscan) - OWASP VBScan is a Black Box vBulletin Vulnerability Scanner
+- [vbscan](https://github.com/hblankenship/vbscan) - OWASP VBScan is a Black Box vBulletin Vulnerability Scanner
 - [zbx-smartctl](https://github.com/v-zhuravlev/zbx-smartctl) - Templates and scripts for monitoring disks health with Zabbix and smartmontools
 - [git-spark](https://github.com/kablamo/git-spark) - Plot your commit history on the command line with sparklines.  A mash up of git and spark and Perl.
 - [clyrics](https://github.com/trizen/clyrics) - An extensible lyrics fetcher, with daemon support for cmus and mocp.
@@ -7890,7 +7898,7 @@
 
 ## Perl 6 
 
-- [joomscan](https://github.com/Ali-Razmjoo/joomscan) - OWASP Joomla Vulnerability Scanner Project
+- [joomscan](https://github.com/hblankenship/joomscan) - OWASP Joomla Vulnerability Scanner Project
 
 ## PicoLisp 
 
@@ -7939,6 +7947,7 @@
 
 ## Python 
 
+- [kapitan](https://github.com/deepmind/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [org-du](https://github.com/novoid/org-du) - Visualizing Emacs Org-mode heading lines using du and xdu
 - [integratethis](https://github.com/novoid/integratethis) - Integrate programs or scripts into common tools like Windows Explorer context menu
 - [python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
@@ -10105,6 +10114,7 @@
 
 ## Shell 
 
+- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak, and DevOps tools built various distros: Alpine, CentOS, Debian, Fedora, Ubuntu
 - [vtoyboot](https://github.com/ventoy/vtoyboot) - Work with ventoy to support boot Linux distros in a vdisk file (vhd/vdi/raw ...)
 - [Host-enumeration](https://github.com/IvanGlinkin/Host-enumeration) - 
 - [Docker-eyeOS](https://github.com/sickcodes/Docker-eyeOS) - Run iPhone (xnu-arm64) in a Docker container! Supports KVM + iOS kernel debugging (GDB)! Run xnu-qemu-arm64 in Docker! Works on ANY device.
@@ -10415,6 +10425,7 @@
 - [docker2singularity](https://github.com/singularityhub/docker2singularity) - A docker image for converting docker images to singularity images.
 - [bspwm_border_color](https://github.com/Kody-Quintana/bspwm_border_color) - VIM mode indicator for bspwm
 - [docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
+- [docker-clamav](https://github.com/mko-x/docker-clamav) - Dockerized open source antivirus for use with file sharing containers, REST API or TCP.
 - [shoreman](https://github.com/chrismytton/shoreman) - :shell: foreman in shell
 - [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [polygott](https://github.com/replit/polygott) - Base Docker image for the Repl.it evaluation server
@@ -10917,6 +10928,8 @@
 
 ## TypeScript 
 
+- [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
+- [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go
 - [mwoffliner](https://github.com/openzim/mwoffliner) - Scrape any online Mediawiki motorised wiki (like Wikipedia) to your local filesystem
 - [awesome-chrome-extension-boilerplate](https://github.com/tjx666/awesome-chrome-extension-boilerplate) - Use react + typescript + webpack to enhance your chrome extension development experience
 - [awesome-travel](https://github.com/unseen1980/awesome-travel) - Do you want to build a travel app?
@@ -11170,6 +11183,7 @@
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
+- [shortkeys](https://github.com/mikecrittenden/shortkeys) - A browser extension for custom keyboard shortcuts
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
 - [logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
