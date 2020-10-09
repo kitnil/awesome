@@ -1186,7 +1186,7 @@
 - [fhDOOM](https://github.com/eXistence/fhDOOM) - Modernized DOOM3/idTech4 engine: ported to modern OpenGL (core profile), enhanced visual effects, improved performance, improved editor, more to come
 - [OpenRaider](https://github.com/xythobuz/OpenRaider) - Open Source Tomb Raider Engine
 - [Castor3D](https://github.com/DragonJoker/Castor3D) - Multi-OS 3D engine.
-- [RabbitToolbox](https://github.com/ray-cast/RabbitToolbox) - 集成骨骼动画，反向运动学，立体声，物理基于的离线渲染，多层材质，AI降噪的动画渲染软件
+- [RabbitToolbox](https://github.com/ray-cast/RabbitToolbox) - 🤸🏾‍♀️👗开源的动画渲染软件，提倡以简单、易用，高质量的物理演算以及渲染质量和性能，为喜爱二次元动画的用户降低视频制作门槛
 - [FlexEngine](https://github.com/ajweeks/FlexEngine) - A personal game engine
 - [RadixEngine](https://github.com/GlPortal/RadixEngine) - A free and open game engine.
 - [xrtl](https://github.com/google/xrtl) - Cross-platform Real-Time Rendering Library
@@ -1440,7 +1440,7 @@
 - [MathForGameDevelopers](https://github.com/BSVino/MathForGameDevelopers) - Sample code for my YouTube series.
 - [openrw](https://github.com/rwengine/openrw) - OpenRW "Open ReWrite" is an un-official open source recreation of the classic Grand Theft Auto III game executable
 - [pienoon](https://github.com/google/pienoon) - Multiplayer party game where you can throw pies at your friends.
-- [warzone2100](https://github.com/Warzone2100/warzone2100) - Warzone 2100 - a free and open source real time strategy game.
+- [warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
 - [OpenSkyscraper](https://github.com/fabianschuiki/OpenSkyscraper) - Open source tower simulation game inspired by SimTower.
 - [QSanguosha](https://github.com/Mogara/QSanguosha) - An open source online version of the famous board game Sanguosha
 - [pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure
@@ -2731,7 +2731,7 @@
 - [xresources-theme](https://github.com/cqql/xresources-theme) - Use your .Xresources as your emacs theme
 - [multi-run](https://github.com/sagarjha/multi-run) - Run same command in multiple emacs eshell terminals
 - [pipenv.el](https://github.com/pwalsh/pipenv.el) - A Pipenv porcelain inside Emacs.
-- [posframe](https://github.com/tumashu/posframe) - Pop a posframe (just a child-frame) at point
+- [posframe](https://github.com/tumashu/posframe) - Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!
 - [recentf-remove-sudo-tramp-prefix](https://github.com/ncaq/recentf-remove-sudo-tramp-prefix) - normalize recentf history
 - [info-colors](https://github.com/ubolonton/info-colors) - Extra colors for Emacs's Info-mode
 - [youtube-dl-emacs](https://github.com/skeeto/youtube-dl-emacs) - Emacs youtube-dl download manager
@@ -3854,7 +3854,7 @@
 - [crumbs](https://github.com/lucasepe/crumbs) - Turn asterisk-indented text lines into mind maps
 - [modgv](https://github.com/lucasepe/modgv) - Converts 'go mod graph' output into Graphviz's DOT language
 - [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
-- [norouter](https://github.com/norouter/norouter) - The easiest multi-host & multi-cloud networking ever. No root privilege is required.
+- [norouter](https://github.com/norouter/norouter) - NoRouter: IP-over-Stdio. The easiest multi-host & multi-cloud networking ever. No root privilege is required.
 - [gitjacker](https://github.com/liamg/gitjacker) - 🔪 :octocat: Leak git repositories from misconfigured websites
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [stashbox](https://github.com/zpeters/stashbox) - Your personal Internet Archive
@@ -4322,6 +4322,7 @@
 - [rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [hil](https://github.com/hashicorp/hil) - HIL is a small embedded language for string interpolations.
 - [ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
+- [terraform-provider-external](https://github.com/hashicorp/terraform-provider-external) - Terraform external provider
 - [firefox-history-merger](https://github.com/crazy-max/firefox-history-merger) - 🦊 Merge Firefox history and repair missing favicons with ease
 - [travis-wait-enhanced](https://github.com/crazy-max/travis-wait-enhanced) - ⏰ Prevent Travis CI from thinking a long-running process has stalled
 - [regresql](https://github.com/dimitri/regresql) - Regression Testing your SQL queries
@@ -6806,7 +6807,7 @@
 - [awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
 - [Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
 - [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture
-- [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list containing awesome YouTubers that teach about technology
+- [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list containing awesome YouTubers that teach about technology.
 - [awesome-phpstorm](https://github.com/WyriHaximus/awesome-phpstorm) - A curated list of amazingly awesome PHPStorm plugins, resources and other shiny things.
 - [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [awesome-composer](https://github.com/jakoch/awesome-composer) - :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.
@@ -10484,7 +10485,6 @@
 - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
 - [MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
 - [nix-venient](https://github.com/holidaycheck/nix-venient) - A collection of convenient commands for working with nix/nixpkgs
-- [terraform-provider-external](https://github.com/hashicorp/terraform-provider-external) - Terraform external provider
 - [postgres](https://github.com/docker-library/postgres) - Docker Official Image packaging for Postgres
 - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
 - [WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
@@ -10932,7 +10932,7 @@
 
 - [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
-- [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go
+- [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [mwoffliner](https://github.com/openzim/mwoffliner) - Scrape any online Mediawiki motorised wiki (like Wikipedia) to your local filesystem
 - [awesome-chrome-extension-boilerplate](https://github.com/tjx666/awesome-chrome-extension-boilerplate) - Use react + typescript + webpack to enhance your chrome extension development experience
 - [awesome-travel](https://github.com/unseen1980/awesome-travel) - Do you want to build a travel app?
@@ -11037,7 +11037,7 @@
 - [graphql-cli](https://github.com/Urigo/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
 - [cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - An Electron based Mastodon and Pleroma client for Windows, Mac and Linux
-- [snowpack](https://github.com/pikapkg/snowpack) - A new kind of frontend build tool. Fast, lightweight, unbundled. ✌️
+- [snowpack](https://github.com/pikapkg/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
 - [docker-cloudflare](https://github.com/joshuaavalon/docker-cloudflare) - Cloudflare DDNS minimal docker.
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
