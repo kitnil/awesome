@@ -243,6 +243,7 @@
 - [OpenGL-Registry](https://github.com/KhronosGroup/OpenGL-Registry) - OpenGL, OpenGL ES, and OpenGL ES-SC API and Extension Registry
 - [azimuth](https://github.com/mdsteele/azimuth) - A metroidvania with vector graphics
 - [emacs-sqlite3-api](https://github.com/pekingduck/emacs-sqlite3-api) - SQLite3 API for GNU Emacs 25+
+- [hslua](https://github.com/hslua/hslua) - Lua interpreter interface for Haskell
 - [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution.
 - [NtLua](https://github.com/can1357/NtLua) - Lua in kernel-mode because why not.
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -1358,7 +1359,7 @@
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [exult](https://github.com/exult/exult) - Exult is a project to recreate Ultima 7 for modern operating systems, using the game's original plot, data, and graphics files.
 - [musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
@@ -1912,7 +1913,7 @@
 - [dockerfiles](https://github.com/vgist/dockerfiles) - 🐳 A collection of delicious docker recipes.
 - [docker-headphones](https://github.com/linuxserver/docker-headphones) - 
 - [docker-ssh-agent](https://github.com/jenkinsci/docker-ssh-agent) - Docker image for Jenkins agents connected over SSH
-- [docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - 🐳 JetBrains License Server Docker image
+- [docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image
 - [dockerfiles](https://github.com/ilyaglow/dockerfiles) - 🌊 Dockerfiles for apps I use. Also take a look at https://github.com/security-dockerfiles
 - [onionize-docker](https://github.com/torservers/onionize-docker) - Tor v3 onion services (hidden services) for Docker containers
 - [docker-tor-simple](https://github.com/osminogin/docker-tor-simple) - Simplest minimal container for Tor anonymity software
@@ -1942,11 +1943,11 @@
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate) - Awesome Nginx configuration template
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
-- [docker-loop](https://github.com/crazy-max/docker-loop) - 🐳 Simple loop for dummy services
-- [docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - 🐳 rTorrent and ruTorrent Docker image based on Alpine Linux
-- [docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - 🐳 Nextcloud Docker image based on Alpine Linux and Nginx with advanced features
-- [docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - 🐳 Firefox Sync Server Docker image based on Python Alpine Linux
-- [docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - 🐳 Fail2ban Docker image based on Alpine Linux
+- [docker-loop](https://github.com/crazy-max/docker-loop) - Simple loop for dummy services
+- [docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image based on Alpine Linux
+- [docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features
+- [docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image based on Python Alpine Linux
+- [docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image based on Alpine Linux
 - [dockerfiles](https://github.com/justinribeiro/dockerfiles) - Various dockerfiles including chrome-headless, lighthouse and other tooling.
 - [docker-nexus](https://github.com/sonatype/docker-nexus) - Docker image for Sonatype Nexus
 - [docker-openresty](https://github.com/openresty/docker-openresty) - Docker tooling for OpenResty
@@ -1985,6 +1986,7 @@
 
 ## Emacs Lisp 
 
+- [jetbrains-darcula-emacs-theme](https://github.com/ianpan870102/jetbrains-darcula-emacs-theme) - A complete port of the default JetBrains Darcula theme for Emacs
 - [org-starless](https://github.com/TonCherAmi/org-starless) - Hide heading stars in org-mode.
 - [validate-html](https://github.com/arthurgleckler/validate-html) - 
 - [orgstrap](https://github.com/tgbugs/orgstrap) - minimal bootstrap for orgmode
@@ -4323,8 +4325,8 @@
 - [hil](https://github.com/hashicorp/hil) - HIL is a small embedded language for string interpolations.
 - [ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [terraform-provider-external](https://github.com/hashicorp/terraform-provider-external) - Terraform external provider
-- [firefox-history-merger](https://github.com/crazy-max/firefox-history-merger) - 🦊 Merge Firefox history and repair missing favicons with ease
-- [travis-wait-enhanced](https://github.com/crazy-max/travis-wait-enhanced) - ⏰ Prevent Travis CI from thinking a long-running process has stalled
+- [firefox-history-merger](https://github.com/crazy-max/firefox-history-merger) - Merge Firefox history and repair missing favicons with ease
+- [travis-wait-enhanced](https://github.com/crazy-max/travis-wait-enhanced) - Prevent Travis CI from thinking a long-running process has stalled
 - [regresql](https://github.com/dimitri/regresql) - Regression Testing your SQL queries
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system.
 - [dingo](https://github.com/pforemski/dingo) - A DNS client in Go that supports Google DNS over HTTPS
@@ -4752,7 +4754,7 @@
 - [gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
 - [gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
 - [aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
-- [ftpgrab](https://github.com/crazy-max/ftpgrab) - ⚡ Grab your files periodically from a remote FTP or SFTP server easily
+- [ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily
 - [cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [MusicRepair](https://github.com/kalbhor/MusicRepair) - Fixes music metadata and adds album art.
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -4992,7 +4994,6 @@
 - [call-haskell-from-anything](https://github.com/nh2/call-haskell-from-anything) - Call Haskell functions from any programming language via serialization and dynamic libraries
 - [tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell
 - [cgrep](https://github.com/awgn/cgrep) - Cgrep: a context-aware grep for source codes
-- [hslua](https://github.com/hslua/hslua) - Lua interpreter interface for Haskell
 - [erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
 - [ghc-vis](https://github.com/def-/ghc-vis) - Visualize live Haskell data structures in GHCi
 - [nix-script](https://github.com/bennofs/nix-script) - A shebang for running scripts inside nix-shell with defined dependencies
@@ -5010,7 +5011,7 @@
 - [bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool
 - [wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available
 - [klfc](https://github.com/39aldo39/klfc) - Keyboard Layout Files Creator
-- [haskell-lsp](https://github.com/alanz/haskell-lsp) - Haskell library for the Microsoft Language Server Protocol
+- [lsp](https://github.com/alanz/lsp) - Haskell library for the Microsoft Language Server Protocol
 - [DeepDarkFantasy](https://github.com/ThoughtWorksInc/DeepDarkFantasy) - A Programming Language for Deep Learning
 - [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
 - [bartlett](https://github.com/Nike-Inc/bartlett) - A simple Jenkins command line client to serve your needs.
@@ -10117,6 +10118,7 @@
 
 ## Shell 
 
+- [logstash-test-runner](https://github.com/agolo/logstash-test-runner) - Logstash configuration testing framework
 - [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak, and DevOps tools built various distros: Alpine, CentOS, Debian, Fedora, Ubuntu
 - [vtoyboot](https://github.com/ventoy/vtoyboot) - Work with ventoy to support boot Linux distros in a vdisk file (vhd/vdi/raw ...)
 - [Host-enumeration](https://github.com/IvanGlinkin/Host-enumeration) - 
@@ -11014,7 +11016,7 @@
 - [setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
 - [SOSML](https://github.com/SOSML/SOSML) - The Online Interpreter for Standard ML, written in TypeScript.
 - [discord-term](https://github.com/atlx/discord-term) - Extensible Discord terminal client
-- [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional translator.
+- [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
