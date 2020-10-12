@@ -191,11 +191,14 @@
 
 ## C 
 
+- [amqp-client](https://github.com/galtet/amqp-client) - A wrapper for then amqp rabbitmqlib in lua
+- [doslinux](https://github.com/charliesome/doslinux) - Run Linux programs on DOS
+- [minigolf](https://github.com/mgerdes/minigolf) - A minigolf game written without a game engine in C
 - [fio](https://github.com/axboe/fio) - Flexible I/O Tester
 - [ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [simplefs](https://github.com/psankar/simplefs) - A simple, kernel-space, on-disk filesystem from the scratch
 - [winfsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy - FUSE for Windows
-- [keysniffer](https://github.com/jarun/keysniffer) - :eyes: Linux kernel mode debugfs keylogger
+- [spy](https://github.com/jarun/spy) - :eyes: Linux kernel mode debugfs keylogger
 - [unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [abduco](https://github.com/martanne/abduco) - abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. Together with dvtm it provides a simpler and cleaner alternative to tmux or screen.
 - [xnotify](https://github.com/phillbush/xnotify) - read notifications from stdin and display them on the screen
@@ -1447,7 +1450,7 @@
 - [pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure
 - [endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
-- [openmw](https://github.com/OpenMW/openmw) - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind.
+- [openmw](https://github.com/OpenMW/openmw) - This is a read-only mirror of OpenMW. For latest releases, issue tracking and development, visit our Gitlab page below.
 - [cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [mysql-workbench](https://github.com/mysql/mysql-workbench) - MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more.
@@ -1658,6 +1661,8 @@
 
 ## Common Lisp 
 
+- [format-colors](https://github.com/vindarel/format-colors) - (format t "~/blue/ :)" "Hello")
+- [invidious-handler](https://github.com/kssytsrk/invidious-handler) - invidious-handler, a redirector from Youtube to Invidious for Nyxt browser
 - [with-c-syntax](https://github.com/y2q-actionman/with-c-syntax) - C language syntax in Common Lisp
 - [fuzzy-match](https://github.com/vindarel/fuzzy-match) - Fuzzy match candidates from an input string.
 - [trivial-snake](https://github.com/ryukinix/trivial-snake) - A trivial snake game written in Common Lisp built on top of trivial-gamekit
@@ -3765,6 +3770,9 @@
 
 ## Go 
 
+- [sploit](https://github.com/zznop/sploit) - Go package that aids in binary analysis and exploitation
+- [git-ci](https://github.com/moul/git-ci) - git subcommand to interract with CI/CD from command line
+- [kubecolor](https://github.com/dty1er/kubecolor) - colorizes kubectl output
 - [shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
 - [arkade](https://github.com/alexellis/arkade) - Your one-stop CLI for Kubernetes
 - [goreman](https://github.com/mattn/goreman) - foreman clone written in go language
@@ -4976,6 +4984,7 @@
 
 ## Haskell 
 
+- [lisk](https://github.com/DSCRV/lisk) - an educational lisp interpreter written in haskell
 - [dnscheck](https://github.com/NorfairKing/dnscheck) - A quick, declarative DNS checker to run continuously for monitoring.
 - [autorecorder](https://github.com/NorfairKing/autorecorder) - An automatic declarative ASCIInema recorder
 - [learn4haskell](https://github.com/kowainik/learn4haskell) - 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
@@ -5460,7 +5469,7 @@
 - [didecentral.github.io](https://github.com/didecentral/didecentral.github.io) - Curating Decentralized, Self-Sovereign, and Blockchain Identity
 - [awesome-women-in-tech](https://github.com/WWCodeSeoul/awesome-women-in-tech) - 국내외 테크 분야 여성들의 활약상을 아카이빙 합니다.
 - [passw0rd](https://github.com/djadmin/passw0rd) - 🔑securely checks a password to see if it has been previously exposed in a data breach
-- [Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020) - :octocat: Simply add your details to readme and stand a chance to earn a free tee! ✅
+- [Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020) - :octocat: Welcome to Open-source! Simply add your details to contributors | Repo for Hacktoberfest 2020 ✅
 - [awesome](https://github.com/Level/awesome) - An open list of awesome Level modules and resources.
 - [awesome-moleculer](https://github.com/moleculerjs/awesome-moleculer) - :rocket: A list of awesome things related to Moleculer microservices framework
 - [warezz](https://github.com/xuac/warezz) - It's illegal cuz they can't tax you!
@@ -6367,6 +6376,8 @@
 
 ## Lua 
 
+- [geopattern](https://github.com/azoyan/geopattern) - Generate beautiful SVG patterns from a string on Lua (5.1 - 5.4 and LuaJIT)
+- [lua-resty-jq](https://github.com/bungle/lua-resty-jq) - LuaJIT FFI bindings to jq
 - [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [Monstercat-Visualizer](https://github.com/marcopixel/Monstercat-Visualizer) - A real time audio visualizer for Rainmeter similar to the ones used in the Monstercat videos.
 - [awesome-config](https://github.com/tony/awesome-config) - :closed_book: Example awesome wm configuration. Includes personalization support (personal.vim), theme, polyglot unicode taglists, mpd support.
@@ -7144,6 +7155,7 @@
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@zimbatm]
 - [lisp-tips](https://github.com/lisp-tips/lisp-tips) - Common Lisp tips. Share !
+- [WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [emax64](https://github.com/m-parashar/emax64) - 64-bit Emacs for Windows with ImageMagick 7
 - [emacs-101-beginner-survival-guide](https://github.com/emacs-tw/emacs-101-beginner-survival-guide) - Emacs 101 新手求生指南 - 一本讓你學 Emacs 不再學得靠北靠母的美好的新手求生指南
 - [for-linux](https://github.com/docker/for-linux) - Docker for Linux
@@ -7949,6 +7961,8 @@
 
 ## Python 
 
+- [timezones-cli](https://github.com/yankeexe/timezones-cli) - CLI Tool to store and glance date time from multiple time zones.
+- [jsonresume-fake](https://github.com/jsonresume/jsonresume-fake) - Fully generated fake resumes using machine learning models trained off ~6000 JSON resumes.
 - [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
 - [kapitan](https://github.com/deepmind/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [org-du](https://github.com/novoid/org-du) - Visualizing Emacs Org-mode heading lines using du and xdu
@@ -9736,6 +9750,7 @@
 
 ## Rust 
 
+- [Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [hola](https://github.com/saanuregh/hola) - Windows Hello™ style facial authentication for Linux written in Rust
 - [arcane_fortune](https://github.com/cody2007/arcane_fortune) - Arcane Fortune is a game of empire building, diplomacy, conquest, construction, and deconstruction.
@@ -10118,6 +10133,9 @@
 
 ## Shell 
 
+- [rtmp-social-multicast](https://github.com/HorusGoul/rtmp-social-multicast) - Want to stream to Twitch, YouTube, and/or Periscope at the same time? That's what this project allows you to do!
+- [userreconOG](https://github.com/Graey/userreconOG) - A script to find usernames across over 75 social networks.
+- [ad-honeypot-autodeploy](https://github.com/tothi/ad-honeypot-autodeploy) - Deploy a small, intentionally insecure, vulnerable Windows Domain for RDP Honeypot fully automatically.
 - [logstash-test-runner](https://github.com/agolo/logstash-test-runner) - Logstash configuration testing framework
 - [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak, and DevOps tools built various distros: Alpine, CentOS, Debian, Fedora, Ubuntu
 - [vtoyboot](https://github.com/ventoy/vtoyboot) - Work with ventoy to support boot Linux distros in a vdisk file (vhd/vdi/raw ...)
@@ -10489,7 +10507,6 @@
 - [nix-venient](https://github.com/holidaycheck/nix-venient) - A collection of convenient commands for working with nix/nixpkgs
 - [postgres](https://github.com/docker-library/postgres) - Docker Official Image packaging for Postgres
 - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
-- [WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [mariadb](https://github.com/docker-library/mariadb) - Docker Official Image packaging for MariaDB
 - [docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [osht](https://github.com/coryb/osht) - Bash Testing with TAP/Junit output
@@ -10698,7 +10715,7 @@
 - [emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
 - [baphomet](https://github.com/quidprobros/baphomet) - BAPHOMET -- manage your emacs daemons
 - [voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
-- [blackweb](https://github.com/maravento/blackweb) - Blacklist Domains for Squid-Cache
+- [blackweb](https://github.com/maravento/blackweb) - Domains Blocklist for Squid-Cache
 - [guile-aspell](https://github.com/spk121/guile-aspell) - Guile bindings for the aspell library
 - [gecko-dev](https://github.com/stransky/gecko-dev) - Firefox trunk with experimental patches. Sponsored by Red Hat, Inc.
 - [google-hosts](https://github.com/txthinking/google-hosts) - Google hosts generator
@@ -11075,7 +11092,7 @@
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
