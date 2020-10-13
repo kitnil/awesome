@@ -191,6 +191,7 @@
 
 ## C 
 
+- [io](https://github.com/IoLanguage/io) - Io programming language. Inspired by Self, Smalltalk and LISP.
 - [amqp-client](https://github.com/galtet/amqp-client) - A wrapper for then amqp rabbitmqlib in lua
 - [doslinux](https://github.com/charliesome/doslinux) - Run Linux programs on DOS
 - [minigolf](https://github.com/mgerdes/minigolf) - A minigolf game written without a game engine in C
@@ -3770,6 +3771,8 @@
 
 ## Go 
 
+- [v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+- [ktunnel](https://github.com/omrikiei/ktunnel) - A cli that exposes your local resources to kubernetes
 - [sploit](https://github.com/zznop/sploit) - Go package that aids in binary analysis and exploitation
 - [git-ci](https://github.com/moul/git-ci) - git subcommand to interract with CI/CD from command line
 - [kubecolor](https://github.com/dty1er/kubecolor) - colorizes kubectl output
@@ -4980,6 +4983,7 @@
 - [DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
 - [pykwiki](https://github.com/nullism/pykwiki) - PyKwiki, a static file Python MarkDown wiki rendered by Jinja2
 - [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
+- [ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 - [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 
 ## Haskell 
@@ -5213,12 +5217,14 @@
 
 ## Hy 
 
+- [org-network](https://github.com/ionling/org-network) - 
 - [j2do](https://github.com/Pebaz/j2do) - Use Jinja2 templates from the command line!
 - [HyREPL](https://github.com/Foxboron/HyREPL) - NREPL for Hy
 - [hydiomatic](https://github.com/hylang/hydiomatic) - The Hy Transformer
 
 ## Java 
 
+- [DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
 - [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具
 - [liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
@@ -6253,6 +6259,7 @@
 
 ## Jupyter Notebook 
 
+- [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
 - [awesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab) - A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
 - [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) - A curated list of awesome embedding models tutorials, projects and communities.
 - [examples](https://github.com/elastic/examples) - Home for Elasticsearch examples available to everyone. It's a great way to get started.
@@ -7309,7 +7316,7 @@
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) - 2019 年成為 Web 開發人員的路線圖
-- [awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources) - Curated list of anime streaming/downloading websites.
+- [awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources) - A curated list of everything anime.
 - [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [books-pdf](https://github.com/huyubing/books-pdf) - books pdf
@@ -8196,7 +8203,7 @@
 - [darts](https://github.com/quark0/darts) - Differentiable architecture search for convolutional and recurrent networks
 - [trfl](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning
 - [dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
-- [pytheory](https://github.com/Zelgius/pytheory) - Music Theory for Humans.
+- [pytheory](https://github.com/MasonEgger/pytheory) - Music Theory for Humans.
 - [ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
 - [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection research papers with implementations.
 - [image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
@@ -9522,7 +9529,7 @@
 - [russian-lang](https://github.com/Kalimehtar/russian-lang) - Programming language based on russian language
 - [xiden](https://github.com/zyrolasting/xiden) - An evolving functional package management system for Racket with similar goals to Nix/Guix
 - [SICP-2020](https://github.com/codereport/SICP-2020) - Repository for material related to Programming Languages Virtual Meetup coverage of the Structure and Interpretation of Computer Programs textbook.
-- [drracket-customization](https://github.com/Raymo111/drracket-customization) - Various customizations for DrRacket to make life easier
+- [cs135-drtools](https://github.com/Raymo111/cs135-drtools) - DrRacket Tools for CS 135 course at UWaterloo
 - [racket-android](https://github.com/jeapostrophe/racket-android) - deploying Racket on Android
 - [wasm-adventure](https://github.com/euhmeuh/wasm-adventure) - My adventure into the marvelous world of Web Assembly
 - [awesome-racket](https://github.com/avelino/awesome-racket) - A curated list of awesome Racket frameworks, libraries and software, maintained by Community
@@ -9750,6 +9757,7 @@
 
 ## Rust 
 
+- [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders etc.
 - [Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [hola](https://github.com/saanuregh/hola) - Windows Hello™ style facial authentication for Linux written in Rust
@@ -10840,7 +10848,6 @@
 - [almostontop](https://github.com/Valiev/almostontop) - almostontop zsh plugin
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-- [ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 - [dist-git](https://github.com/release-engineering/dist-git) - DistGit provides home for linux distribution packages.
 - [pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 - [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
