@@ -214,7 +214,7 @@
 - [dmenu](https://github.com/jaimecgomezz/dmenu) - A patch-friendly dmenu distribution
 - [openempire](https://github.com/glouw/openempire) - A multiplayer lockstep RTS engine compatible with the Age of Empires II Trial assets
 - [littlewolf](https://github.com/glouw/littlewolf) - A tiny software graphics and game engine
-- [pyalpm](https://github.com/archlinux/pyalpm) - Python 3 bindings for libalpm
+- [pyalpm](https://github.com/archlinux/pyalpm) - Python 3 bindings for libalpm (read-only mirror)
 - [r-yaml](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML
 - [usbview](https://github.com/gregkh/usbview) - usb viewer for Linux
 - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from MongoDB's GridFS
@@ -330,7 +330,7 @@
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Terminal based bit manipulator in ncurses
-- [bcal](https://github.com/jarun/bcal) - :1234: Storage and regular CLI calculator
+- [bcal](https://github.com/jarun/bcal) - :1234: Storage and general-purpose calculator
 - [ipdecap](https://github.com/lpefferkorn/ipdecap) - Decapsulate traffic encapsulated within GRE, IPIP, 6in4, ESP (ipsec) protocols, can also remove IEEE 802.1Q (virtual lan) header. Works with pcap files.
 - [wrk2](https://github.com/yicwang/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [solaris-userland](https://github.com/oracle/solaris-userland) - Open Source software in Solaris using gmake based build system to drive building various software components.
@@ -1363,7 +1363,7 @@
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [exult](https://github.com/exult/exult) - Exult is a project to recreate Ultima 7 for modern operating systems, using the game's original plot, data, and graphics files.
 - [musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
@@ -5465,6 +5465,7 @@
 
 ## JavaScript 
 
+- [drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [docker-browser](https://github.com/pfrayer/docker-browser) - Visualize your containers/images/volumes/networks and see which ones uses which ones
 - [sqleton](https://github.com/inukshuk/sqleton) - Visualize your SQLite database schema
@@ -7113,7 +7114,7 @@
 - [awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
 - [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
 - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
@@ -7944,6 +7945,7 @@
 - [windows-docker-machine](https://github.com/StefanScherer/windows-docker-machine) - Work with Windows containers and LCOW on Mac/Linux/Windows
 - [ConPtyShell](https://github.com/antonioCoco/ConPtyShell) - ConPtyShell - Fully Interactive Reverse Shell for Windows
 - [Internal-Pentest-Playbook](https://github.com/sdcampbell/Internal-Pentest-Playbook) - Internal Network Penetration Test Playbook
+- [discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.
 - [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [oscp](https://github.com/ferreirasc/oscp) - oscp study
 
@@ -8490,7 +8492,6 @@
 - [netdisco](https://github.com/home-assistant/netdisco) - :mag_right: Python library to scan local network for services and devices.
 - [getaltname](https://github.com/franccesco/getaltname) - Extract subdomains from SSL certificates in HTTPS sites.
 - [setup.py](https://github.com/navdeep-G/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
-- [AuditSQL](https://github.com/lazzyfu/AuditSQL) - 基于Python开发的MySQL WEB版本的工单审核执行平台
 - [awesome-scripts](https://github.com/superhj1987/awesome-scripts) - useful scripts for Linux op
 - [netaddr](https://github.com/netaddr/netaddr) - A network address manipulation library for Python
 - [AndroidViewClient](https://github.com/dtmilano/AndroidViewClient) - Android ViewServer client
@@ -8860,7 +8861,7 @@
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
 - [notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [twitterscraper](https://github.com/taspinar/twitterscraper) - Scrape Twitter for Tweets
-- [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.
+- [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and ReactJS.
 - [erpnext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP
 - [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions
 - [SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
@@ -9527,7 +9528,7 @@
 - [gophwr](https://github.com/erkin/gophwr) - A graphical gopher client in Racket
 - [marionette](https://github.com/Bogdanp/marionette) - A Racket library that lets you control Firefox via the Marionette Protocol.
 - [russian-lang](https://github.com/Kalimehtar/russian-lang) - Programming language based on russian language
-- [xiden](https://github.com/zyrolasting/xiden) - An evolving functional package management system for Racket with similar goals to Nix/Guix
+- [xiden](https://github.com/zyrolasting/xiden) - A Guix-like dependency manager for Racket with Windows support and edition-centric versioning
 - [SICP-2020](https://github.com/codereport/SICP-2020) - Repository for material related to Programming Languages Virtual Meetup coverage of the Structure and Interpretation of Computer Programs textbook.
 - [cs135-drtools](https://github.com/Raymo111/cs135-drtools) - DrRacket Tools for CS 135 course at UWaterloo
 - [racket-android](https://github.com/jeapostrophe/racket-android) - deploying Racket on Android
@@ -9571,6 +9572,7 @@
 
 ## Ruby 
 
+- [mina](https://github.com/mina-deploy/mina) - Blazing fast application deployment tool.
 - [puppet-debugger](https://github.com/nwops/puppet-debugger) - A interactive live debugger and REPL for the puppet language
 - [nlp-with-ruby](https://github.com/arbox/nlp-with-ruby) - Curated List: Practical Natural Language Processing done in Ruby
 - [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
@@ -9763,7 +9765,7 @@
 - [hola](https://github.com/saanuregh/hola) - Windows Hello™ style facial authentication for Linux written in Rust
 - [arcane_fortune](https://github.com/cody2007/arcane_fortune) - Arcane Fortune is a game of empire building, diplomacy, conquest, construction, and deconstruction.
 - [github-changelist](https://github.com/yoshuawuyts/github-changelist) - Generate a list of merged PRs since the last release
-- [rusolver](https://github.com/Edu4rdSHL/rusolver) - Fast DNS resolver written in Rust.
+- [rusolver](https://github.com/Edu4rdSHL/rusolver) - Fast and accurate DNS resolver.
 - [show](https://github.com/hello-rust/show) - 🍿 Show notes, code, and future topic ideas for "Hello Rust!", a YouTube channel about the Rust programming language.
 - [snatch](https://github.com/derniercri/snatch) - A simple, fast and interruptable download accelerator, written in Rust
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -10586,7 +10588,6 @@
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
-- [discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.
 - [rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
@@ -10886,7 +10887,7 @@
 
 ## Solidity 
 
-- [aragonOS](https://github.com/aragon/aragonOS) - Reference implementation for aragonOS: a Solidity framework for building complex dApps and protocols
+- [aragonOS](https://github.com/aragon/aragonOS) - (Aragon 1) Reference implementation for aragonOS: a Solidity framework for building complex dApps and protocols
 
 ## Standard ML 
 
@@ -11212,6 +11213,7 @@
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [shortkeys](https://github.com/mikecrittenden/shortkeys) - A browser extension for custom keyboard shortcuts
+- [YaSQL](https://github.com/lazzyfu/YaSQL) - 基于Python开发的MySQL WEB版本的工单审核执行平台
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
 - [logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
