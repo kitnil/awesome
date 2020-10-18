@@ -1079,7 +1079,7 @@
 - [quassel](https://github.com/quassel/quassel) - Quassel IRC: Chat comfortably.  Everywhere.
 - [znc-push](https://github.com/jreese/znc-push) - Push notification service module for ZNC
 - [redsea](https://github.com/windytan/redsea) - A lightweight RDS to JSON decoder
-- [chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for twitch.tv
+- [chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [BlueshiftEngine](https://github.com/PolygonTek/BlueshiftEngine) - Blueshift is a cross-platform 3D game engine implemented in C++. it's free, open-source, and works on Windows, macOS, iOS, and Android. The project is currently in an early stage of development.
 - [mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
@@ -3912,7 +3912,7 @@
 - [waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
 - [anew](https://github.com/tomnomnom/anew) - A tool for adding new lines to files, skipping duplicates
 - [GoPurple](https://github.com/sh4hin/GoPurple) - Yet another shellcode runner consists of different techniques for evaluating detection capabilities of endpoint security solutions
-- [rod](https://github.com/go-rod/rod) - A Devtools driver to make web automation and scraping easy
+- [rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [screenshot](https://github.com/kbinani/screenshot) - Go library to capture desktop to image
 - [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites
 - [cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera
@@ -4175,7 +4175,7 @@
 - [v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [longcat](https://github.com/mattn/longcat) - Looooooooooooooooooooooooooooooooooooooooooooooong cat
 - [sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization
-- [inlets-operator](https://github.com/inlets/inlets-operator) - Get Kubernetes LoadBalancers from within your private network
+- [inlets-operator](https://github.com/inlets/inlets-operator) - Add public LoadBalancers to your local Kubernetes clusters.
 - [gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps
 - [docx2md](https://github.com/mattn/docx2md) - Convert Microsoft Word Document to Markdown
 - [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres EXPLAIN ANALYZE output.
@@ -4881,7 +4881,7 @@
 - [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
 - [photo-stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream
 - [pyptex](https://github.com/sloisel/pyptex) - Python Preprocessor for LaTeX
-- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
+- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
 - [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
 - [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
@@ -5008,6 +5008,7 @@
 
 ## Haskell 
 
+- [nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [lisk](https://github.com/DSCRV/lisk) - an educational lisp interpreter written in haskell
 - [dnscheck](https://github.com/NorfairKing/dnscheck) - A quick, declarative DNS checker to run continuously for monitoring.
 - [autorecorder](https://github.com/NorfairKing/autorecorder) - An automatic declarative ASCIInema recorder
@@ -5495,7 +5496,7 @@
 - [gc-viz](https://github.com/kenfox/gc-viz) - Animated visualizations of several garbage collection algorithms
 - [app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [awesome-vue](https://github.com/rmjordas/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-- [didecentral.github.io](https://github.com/didecentral/didecentral.github.io) - Curating Decentralized, Self-Sovereign, and Blockchain Identity
+- [decentralized-id.github.io](https://github.com/Decentralized-ID/decentralized-id.github.io) - Curating Decentralized, Self-Sovereign, and Blockchain Identity
 - [awesome-women-in-tech](https://github.com/WWCodeSeoul/awesome-women-in-tech) - 국내외 테크 분야 여성들의 활약상을 아카이빙 합니다.
 - [passw0rd](https://github.com/djadmin/passw0rd) - 🔑securely checks a password to see if it has been previously exposed in a data breach
 - [Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020) - :octocat: Welcome to Open-source! Simply add your details to contributors | Repo for Hacktoberfest 2020 ✅
@@ -9629,6 +9630,8 @@
 
 ## Ruby 
 
+- [spotifeed](https://github.com/timdorr/spotifeed) - A simple service to serve up Spotify podcasts as RSS feeds for use in any podcast app.
+- [repl](https://github.com/rubyapi/repl) - Ruby code execution as a service
 - [oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
 - [mina](https://github.com/mina-deploy/mina) - Blazing fast application deployment tool.
 - [puppet-debugger](https://github.com/nwops/puppet-debugger) - A interactive live debugger and REPL for the puppet language
@@ -9817,6 +9820,11 @@
 
 ## Rust 
 
+- [code-minimap](https://github.com/wfxr/code-minimap) - 🛰  A high performance code minimap render.
+- [neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust
+- [RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Day Port Scanner 🤖
+- [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders etc.
 - [Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
@@ -11121,7 +11129,7 @@
 - [graphql-cli](https://github.com/Urigo/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
 - [cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - An Electron based Mastodon and Pleroma client for Windows, Mac and Linux
-- [snowpack](https://github.com/pikapkg/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
+- [snowpack](https://github.com/snowpackjs/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
 - [docker-cloudflare](https://github.com/joshuaavalon/docker-cloudflare) - Cloudflare DDNS minimal docker.
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
