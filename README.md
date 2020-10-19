@@ -50,6 +50,7 @@
   - [Groovy](#groovy)
   - [HCL](#hcl)
   - [HTML](#html)
+  - [Haml](#haml)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
   - [Hy](#hy)
@@ -417,7 +418,7 @@
 - [ngrep](https://github.com/jpr5/ngrep) - ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop.
 - [dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
-- [littlefs](https://github.com/ARMmbed/littlefs) - A little fail-safe filesystem designed for microcontrollers
+- [littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [libfb-bsd](https://github.com/p120ph37/libfb-bsd) - Console framebuffer graphics library for FreeBSD
 - [mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
 - [flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
@@ -4109,7 +4110,7 @@
 - [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, ...)
-- [miniflux](https://github.com/miniflux/miniflux) - Minimalist and opinionated feed reader
+- [v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [fireworq](https://github.com/fireworq/fireworq) - Fireworq is a lightweight, high-performance, language-independent job queue system.
 - [fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
 - [roadrunner](https://github.com/spiral/roadrunner) - High-performance PHP application server, load-balancer and process manager written in Golang
@@ -4170,7 +4171,7 @@
 - [hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster.
 - [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
 - [gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
-- [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
+- [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
 - [v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [longcat](https://github.com/mattn/longcat) - Looooooooooooooooooooooooooooooooooooooooooooooong cat
@@ -4895,7 +4896,6 @@
 - [awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
 - [awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [git-history-editor](https://github.com/bokub/git-history-editor) - :pencil2: Online commit editor, intuitive and easy to use
-- [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 - [meilix-generator](https://github.com/fossasia/meilix-generator) - WebApp for generating a custom ISO image based on Meilix http://meilix.org
 - [quassel-webserver](https://github.com/magne4000/quassel-webserver) - A web server/client for Quassel
 - [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
@@ -5005,6 +5005,10 @@
 - [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
 - [ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 - [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
+
+## Haml 
+
+- [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 
 ## Haskell 
 
@@ -5562,7 +5566,7 @@
 - [gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?
 - [marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome
-- [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favorite messaging services into one application
+- [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 - [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
@@ -6818,12 +6822,12 @@
 - [awesome-webauthn](https://github.com/herrjemand/awesome-webauthn) - A curated list of awesome WebAuthn/FIDO2 resources
 - [awesome](https://github.com/alpine-collective/awesome) - 🚀A curated list of awesome resources related to Alpine.
 - [awesome-prolog](https://github.com/klaussinani/awesome-prolog) - Curated list of Prolog packages and resources
-- [awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings
+- [awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
 - [awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) - Awesome list of ActivityPub based projects
 - [awesome-scrapy](https://github.com/AccordBox/awesome-scrapy) - A curated list of awesome packages, articles, and other cool resources from the Scrapy community.
 - [anything_about_game](https://github.com/killop/anything_about_game) - 一群快乐小松鼠的窝：主要收集了一些游戏相关的网上资源
-- [awesome-shopify](https://github.com/julionc/awesome-shopify) - A curated list of awesome Shopify resources, libraries and open source projects.
+- [awesome-shopify](https://github.com/julionc/awesome-shopify) - 📌✨A curated list of awesome Shopify resources, libraries and open source projects.
 - [list](https://github.com/awesome-yii/list) - A curated list of awesome Yii Framework extensions, tutorials and other nice things
 - [awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) - A curated list of awesome programmers and software projects you can support!
 - [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps.
@@ -7560,7 +7564,6 @@
 - [nix-cheatsheet](https://github.com/knedlsepp/nix-cheatsheet) - Cheatsheet for the nix toolset
 - [awesome-speakers](https://github.com/karlhorky/awesome-speakers) - Awesome speakers in the programming and design communities
 - [quicklisp-projects](https://github.com/quicklisp/quicklisp-projects) - Metadata for projects tracked by Quicklisp.
-- [moebius](https://github.com/MoonchildProductions/moebius) - UXP - initial dev repo
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [xaml-standard](https://github.com/microsoft/xaml-standard) - XAML Standard : a set of principles that drive XAML dialect alignment
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
