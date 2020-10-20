@@ -4133,7 +4133,7 @@
 - [goweight](https://github.com/jondot/goweight) - A tool to analyze and troubleshoot a Go binary size.
 - [avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
 - [rendora](https://github.com/rendora/rendora) - dynamic server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites
-- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [makisu](https://github.com/uber/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
@@ -6403,7 +6403,7 @@
 - [dependency-tree-diff](https://github.com/JakeWharton/dependency-tree-diff) - An intelligent diff tool for the output of Gradle's dependencies task
 - [habitica-android](https://github.com/HabitRPG/habitica-android) - Native Android app for Habitica
 - [GitExplorer-Android](https://github.com/Shashank02051997/GitExplorer-Android) - Find the right git commands 🔥 without digging through the web.😊😊😉
-- [noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noises.
+- [noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noise.
 - [tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [Notally](https://github.com/OmGodse/Notally) - A beautiful notes app
 - [AnimeXStream](https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.
@@ -11075,7 +11075,7 @@
 - [pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
 - [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [qawolf](https://github.com/qawolf/qawolf) - 🐺Create browser tests 10x faster
-- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A free, open source notes app for the web.
+- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A free, open-source notes app for the web.
 - [apk-mitm](https://github.com/shroudedcode/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
 - [hex-engine](https://github.com/suchipi/hex-engine) - A modern 2D game engine for the browser.
