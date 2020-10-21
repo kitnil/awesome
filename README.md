@@ -192,6 +192,7 @@
 
 ## C 
 
+- [devour](https://github.com/salman-abedin/devour) - X11 window swallower
 - [io](https://github.com/IoLanguage/io) - Io programming language. Inspired by Self, Smalltalk and LISP.
 - [amqp-client](https://github.com/galtet/amqp-client) - A wrapper for the amqp rabbitmqlib in lua
 - [doslinux](https://github.com/charliesome/doslinux) - Run Linux programs on DOS
@@ -1542,7 +1543,6 @@
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [raleigh-reloaded](https://github.com/vlastavesely/raleigh-reloaded) - Raleigh Reloaded is a conservative GTK-3.20 theme aiming to revive the Raleigh theme, the default theme of GTK-2.0.
 - [tokumei](https://github.com/tokumeico/tokumei) - Anonymous microblogging platform
-- [haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com) - haxeflixel.com docpad source
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
 - [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
@@ -1975,6 +1975,7 @@
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [stackage](https://github.com/commercialhaskell/stackage) - "Stable Hackage": vetted consistent packages from Hackage
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [ansible-tower](https://github.com/ybalt/ansible-tower) - Ansible Tower dockerized
@@ -3178,7 +3179,7 @@
 - [monky](https://github.com/ananthakumaran/monky) - Magit for Hg
 - [es-mode](https://github.com/dakrone/es-mode) - An Emacs major mode for interacting with Elasticsearch
 - [ac-php](https://github.com/xcwen/ac-php) - emacs auto-complete  & company-mode  for php
-- [fountain-mode](https://github.com/rnkn/fountain-mode) - Emacs major mode for scriptwriting in Fountain plain-text markup
+- [fountain-mode](https://github.com/rnkn/fountain-mode) - Emacs major mode for screenwriting in Fountain plain-text markup
 - [emacs-theme-gruvbox](https://github.com/greduan/emacs-theme-gruvbox) - Gruvbox is a retro groove color scheme for Emacs. Port of the Vim version.
 - [jdee](https://github.com/jdee-emacs/jdee) - The JDEE is an add-on software package that turns Emacs into a comprehensive system for creating, editing, debugging, and documenting Java applications.
 - [emacs-racer](https://github.com/racer-rust/emacs-racer) - Racer support for Emacs
@@ -6439,6 +6440,7 @@
 - [pipeline-stage-view-plugin](https://github.com/jenkinsci/pipeline-stage-view-plugin) - Visualizes Jenkins pipelines
 - [docs.influxdata.com-ARCHIVE](https://github.com/influxdata/docs.influxdata.com-ARCHIVE) - ARCHIVE - 1.x docs for InfluxData
 - [nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
+- [haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com) - haxeflixel.com docpad source
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 
 ## LiveScript 
@@ -9189,7 +9191,6 @@
 - [tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [FreeWifi](https://github.com/kylemcdonald/FreeWifi) - How to get free wifi.
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [retext](https://github.com/retext-project/retext) - ReText: Simple but powerful editor for Markdown and reStructuredText
 - [pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
@@ -9823,9 +9824,12 @@
 
 ## Rust 
 
+- [rshark](https://github.com/pesos/rshark) - Simple Packet Monitoring Tool
+- [taizen](https://github.com/NerdyPepper/taizen) - curses based mediawiki browser
+- [xcursorlocate](https://github.com/NerdyPepper/xcursorlocate) - cursor location indicator for x11
 - [code-minimap](https://github.com/wfxr/code-minimap) - 🛰  A high performance code minimap render.
 - [neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust
-- [RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Day Port Scanner 🤖
+- [RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders etc.
@@ -10417,7 +10421,7 @@
 - [mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [org-el-cache](https://github.com/l3kn/org-el-cache) - Persistent cache for data derived from org-elements
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
-- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Originally owned by @ken-reitz]
+- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Author @ken-reitz]
 - [monkeysphere](https://github.com/dkg/monkeysphere) - use the OpenPGP web of trust to verify ssh connections
 - [JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [fontpreview](https://github.com/sdushantha/fontpreview) - 🔡 Highly customizable and minimal font previewer written in bash
