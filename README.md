@@ -192,6 +192,7 @@
 
 ## C 
 
+- [xwinwrap](https://github.com/ujjwal96/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
 - [berry](https://github.com/JLErvin/berry) - :strawberry: A healthy, byte-sized window manager
 - [jgmenu](https://github.com/johanmalm/jgmenu) - A simple X11 menu
 - [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
@@ -1507,6 +1508,7 @@
 
 ## CSS 
 
+- [termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
 - [lib4dev](https://github.com/amitmishrg/lib4dev) - Find awesome libraries and make your development fast.
 - [gitark](https://github.com/imfunniee/gitark) - :octocat: Dark theme for Github
@@ -8487,7 +8489,6 @@
 - [PcapXray](https://github.com/Srinivas11789/PcapXray) - :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
 - [PcapViz](https://github.com/mateuszk87/PcapViz) - Visualize network topologies and collect graph statistics based on pcap files
 - [shyaml](https://github.com/0k/shyaml) - YAML for command line
-- [shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [pandocfilters](https://github.com/jgm/pandocfilters) - A python module for writing pandoc filters, with a collection of examples
 - [ansible-live-output-demo](https://github.com/lucasbasquerotto/ansible-live-output-demo) - Running an ansible playbook and seeing output in real time (Demo)
 - [orger](https://github.com/karlicoss/orger) - Tool to convert data into searchable and interactive org-mode views
@@ -8580,7 +8581,6 @@
 - [BrainDamage](https://github.com/mehulj94/BrainDamage) - Remote administration tool which uses Telegram as a C&C server
 - [phpsploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor
 - [Stitch](https://github.com/nathanlopez/Stitch) - Python Remote Administration Tool (RAT)
-- [Osmedeus](https://github.com/j3ssie/Osmedeus) - Fully automated offensive security framework for reconnaissance and vulnerability scanning
 - [Osmedeus](https://github.com/j3ssie/Osmedeus) - Fully automated offensive security framework for reconnaissance and vulnerability scanning
 - [uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
@@ -10264,6 +10264,7 @@
 
 ## Shell 
 
+- [farge](https://github.com/sdushantha/farge) - 🎨 Click on a pixel on your screen and show its color value
 - [rtmp-social-multicast](https://github.com/HorusGoul/rtmp-social-multicast) - Want to stream to Twitch, YouTube, and/or Periscope at the same time? That's what this project allows you to do!
 - [userreconOG](https://github.com/Graey/userreconOG) - A script to find usernames across over 75 social networks.
 - [ad-honeypot-autodeploy](https://github.com/tothi/ad-honeypot-autodeploy) - Deploy a small, intentionally insecure, vulnerable Windows Domain for RDP Honeypot fully automatically.
@@ -11027,7 +11028,7 @@
 ## Tcl 
 
 - [build-your-own-shell](https://github.com/tokenrove/build-your-own-shell) - Guidance for mollusks (WIP)
-- [sqawk](https://github.com/dbohdan/sqawk) - Like Awk, but with SQL and table joins
+- [sqawk](https://github.com/dbohdan/sqawk) - Like Awk but with SQL and table joins
 
 ## TeX 
 
