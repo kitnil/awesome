@@ -192,6 +192,9 @@
 
 ## C 
 
+- [berry](https://github.com/JLErvin/berry) - :strawberry: A healthy, byte-sized window manager
+- [jgmenu](https://github.com/johanmalm/jgmenu) - A simple X11 menu
+- [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
 - [devour](https://github.com/salman-abedin/devour) - X11 window swallower
 - [io](https://github.com/IoLanguage/io) - Io programming language. Inspired by Self, Smalltalk and LISP.
 - [amqp-client](https://github.com/galtet/amqp-client) - A wrapper for the amqp rabbitmqlib in lua
@@ -1002,6 +1005,9 @@
 
 ## C++ 
 
+- [clip](https://github.com/dacap/clip) - Cross-platform C++ library to copy/paste clipboard content
+- [ksnip](https://github.com/ksnip/ksnip) - Ksnip is a Qt based cross-platform screenshot tool that provides many annotation features for your screenshots.
+- [wmderland](https://github.com/aesophor/wmderland) - 🌳 X11 tiling window manager using space partitioning trees
 - [Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples) - One stop solution for all Vulkan samples
 - [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - 
 - [AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) - 
@@ -3788,6 +3794,12 @@
 
 ## Go 
 
+- [dewm](https://github.com/driusan/dewm) - A pure go autotiling window manager written with literate programming
+- [dnsping](https://github.com/fortio/dnsping) - DNS Ping: to check packet loss and latency issues with DNS servers
+- [file-server](https://github.com/codenoid/file-server) - Multi-source file server [💾 | 💽 | 💿] 🧐
+- [repull](https://github.com/jdevelop/repull) - A tool to restart a Docker container with a newer version of the image
+- [GoCrawler](https://github.com/el10savio/GoCrawler) - A distributed web crawler implemented using Go, Postgres, RabbitMQ and Docker
+- [go-audio](https://github.com/Harry-027/go-audio) - An offline solution to convert pdfs into audiobooks
 - [v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [ktunnel](https://github.com/omrikiei/ktunnel) - A cli that exposes your local resources to kubernetes
 - [sploit](https://github.com/zznop/sploit) - Go package that aids in binary analysis and exploitation
@@ -4146,7 +4158,7 @@
 - [lefthook](https://github.com/Arkweid/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
-- [tfsec](https://github.com/tfsec/tfsec) - 🔒🌍 Static analysis powered security scanner for your terraform code
+- [tfsec](https://github.com/tfsec/tfsec) - 🔒🌍 Security scanner for your Terraform code
 - [submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
 - [crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [red](https://github.com/antonmedv/red) - Terminal log analysis tools
@@ -4808,6 +4820,32 @@
 
 ## Groovy 
 
+- [geb](https://github.com/geb/geb) - Very Groovy Browser Automation
+- [betamax](https://github.com/betamaxteam/betamax) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests. The project was inspired by the VCR library for Ruby.
+- [json-io](https://github.com/jdereg/json-io) - Convert Java to JSON. Convert JSON to Java.  Pretty print JSON.  Java JSON serializer.
+- [sshoogr](https://github.com/sshoogr/sshoogr) - A Groovy-based DSL for working with remote SSH servers.
+- [grgit](https://github.com/ajoberstar/grgit) - The Groovy way to use Git.
+- [lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
+- [ansible-role-jenkins](https://github.com/geerlingguy/ansible-role-jenkins) - Ansible Role - Jenkins CI
+- [jenkins-pipeline-library](https://github.com/fabric8io/jenkins-pipeline-library) - a collection of reusable jenkins pipelines and pipeline functions
+- [gradle-docker](https://github.com/palantir/gradle-docker) - a Gradle plugin for orchestrating docker builds and pushes.
+- [docker-ci-tool-stack](https://github.com/marcelbirkner/docker-ci-tool-stack) - Docker Infrastructure via docker-compose (Jenkins, SonarQube, Nexus, GitLab, Selenium Grid)
+- [gradle-docker-compose-plugin](https://github.com/avast/gradle-docker-compose-plugin) - Simplifies usage of Docker Compose for integration testing in Gradle environment.
+- [jenkins-script-console-scripts](https://github.com/samrocketman/jenkins-script-console-scripts) - A repository of one-off script console scripts for Jenkins.
+- [gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin) - A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts.
+- [drawable-optimizer](https://github.com/fabiomsr/drawable-optimizer) - Gradle plugin to optimize png files and reduce resultant apk size within an Android project.
+- [jenkins-scripts](https://github.com/cloudbees/jenkins-scripts) - 
+- [pipeline-examples](https://github.com/jenkinsci/pipeline-examples) - A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin
+- [jenkins-configuration](https://github.com/edx/jenkins-configuration) - A collection of utilities for configuring a Jenkins instance and its plugins
+- [jenkins-dsl](https://github.com/jessfraz/jenkins-dsl) - Jenkins DSLs for my Jenkins instance, keeps forks up to date, mirrors repositories to private git, builds all Dockerfiles and more.
+- [fabric8-jenkinsfile-library](https://github.com/fabric8io/fabric8-jenkinsfile-library) - This repository contains a library of reusable Jenkinsfiles that you can use on your projects. Its reused by the fabric8 console to associate Jenkinsfiles to projects
+- [jenkins-course](https://github.com/wardviaene/jenkins-course) - This is the repository with all the resources for the Jenkins training on Udemy
+- [JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit) - Framework for unit testing Jenkins pipelines
+- [jenny](https://github.com/bmustiata/jenny) - Command line Jenkinsfile runner written in groovy. Does not need a Jenkins installation to run the Jenkinsfile.
+- [jenkinsfile-examples](https://github.com/hoto/jenkinsfile-examples) - Executable examples of Jenkinsfiles.
+- [jenkins-pipeline-library](https://github.com/wcm-io-devops/jenkins-pipeline-library) - wcm.io Jenkins Pipeline Library for CI/CD
+- [cheatsheet-jenkins-groovy-A4](https://github.com/dennyzhang/cheatsheet-jenkins-groovy-A4) - :book: Groovy CheatSheet For Jenkins Usage In A4
+- [devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [gradle-docker-plugin](https://github.com/bmuschko/gradle-docker-plugin) - Gradle plugin for managing Docker images and containers.
 - [gradle-nexus-plugin](https://github.com/bmuschko/gradle-nexus-plugin) - Gradle plugin for configuring and uploading artifacts to Sonatype Nexus
 - [gradle-vagrant-plugin](https://github.com/bmuschko/gradle-vagrant-plugin) - Gradle plugin for managing Vagrant boxes.
@@ -5013,6 +5051,8 @@
 
 ## Haskell 
 
+- [write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
+- [LambdaCalculus](https://github.com/Kwasniok/LambdaCalculus) - lambda calculus in haskell
 - [nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [lisk](https://github.com/DSCRV/lisk) - an educational lisp interpreter written in haskell
 - [dnscheck](https://github.com/NorfairKing/dnscheck) - A quick, declarative DNS checker to run continuously for monitoring.
@@ -5251,6 +5291,7 @@
 
 ## Java 
 
+- [crewmate](https://github.com/crewmate-srv/crewmate) - An open-source implementation of the Among Us server in Java.
 - [DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
 - [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具
 - [liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
@@ -5492,6 +5533,7 @@
 
 ## JavaScript 
 
+- [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [wizzy](https://github.com/grafana-wizzy/wizzy) - Manage & automate Grafana with easy wizzy
 - [drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
@@ -5518,7 +5560,7 @@
 - [yjs](https://github.com/yjs/yjs) - Peer-to-peer shared types
 - [docable-notebooks](https://github.com/ottomatica/docable-notebooks) - 
 - [Hello-Goodbye](https://github.com/bcye/Hello-Goodbye) - Available for Chrome, Firefox and Safari and as a blocklist to integrate into existing blockers.
-- [undollar](https://github.com/ImFeelingDucky/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
+- [undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
 - [awesome-rss](https://github.com/shgysk8zer0/awesome-rss) - Puts an RSS/Atom subscribe button back in URL bar
 - [OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
 - [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
@@ -5718,7 +5760,7 @@
 - [tabcenter-redux](https://github.com/eoger/tabcenter-redux) - Vertical Tabs extension for Firefox
 - [refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) - Chrome and Firefox extension that improves Bitbucket's user experience
 - [gooreplacer](https://github.com/jiacai2050/gooreplacer) - ⚡️⚡️A browser extension to modify HTTP requests :-)
-- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [vimperator-labs](https://github.com/vimperator/vimperator-labs) - Vimperator
 - [Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
 - [user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
@@ -6585,9 +6627,10 @@
 
 ## Nix 
 
+- [staskell](https://github.com/jmackie/staskell) - 👷‍♀️ Nix helpers for building static Haskell executables
 - [thunderbird-extensions](https://github.com/ngi-nix/thunderbird-extensions) - 
 - [comma](https://github.com/Shopify/comma) - 
-- [devshell](https://github.com/numtide/devshell) - 
+- [devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [nix-hs](https://github.com/pjones/nix-hs) - Haskell + nixpkgs = nix-hs
 - [shabitica](https://github.com/headcounter/shabitica) - Run your own self-hosted Habitica instance
 - [novault](https://github.com/vitiral/novault) - ultra simple and secure vaultless password manager (beta)
@@ -7035,7 +7078,7 @@
 - [awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
 - [awesome-seml](https://github.com/SE-ML/awesome-seml) - A curated list of articles that cover the software engineering best practices for building machine learning applications.
 - [DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
-- [Windows-Kernel-Explorer](https://github.com/AxtMueller/Windows-Kernel-Explorer) - A free but powerful Windows kernel research tool.
+- [Windows-Kernel-Explorer](https://github.com/AxtMueller/Windows-Kernel-Explorer) - A free but powerful Windows kernel research tool. --------------------------------------- NOTE: When VBS is enabled, WKE will cause BSOD. After WINDOWS 20H2 is released, WKE will be updated.
 - [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening) - A curated list of awesome Security Hardening techniques for Windows.
 - [kali-linux-cheatsheet](https://github.com/NoorQureshi/kali-linux-cheatsheet) - Kali Linux Cheat Sheet for Penetration Testers
 - [curl-cheat-sheet](https://github.com/curl/curl-cheat-sheet) - A single page document with the most important curl options for HTTP explained
@@ -7080,7 +7123,7 @@
 - [awesome-c](https://github.com/Bfgeshka/awesome-c) - A curated list of awesome C resources
 - [ProjectSoundtracks](https://github.com/sarthology/ProjectSoundtracks) - 🎧 List of best Soundtracks to boost your Productivity and Focus
 - [awesome-list](https://github.com/component-driven/awesome-list) - Curated list of links on component-driven development and design systems
-- [awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions) - Awesome R packages that offer extended UI or server components for the R web framework Shiny
+- [awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions) - 🐝 Awesome R packages that offer extended UI or server components for the R web framework Shiny
 - [awesome-slack](https://github.com/filipelinhares/awesome-slack) - 🕶️  List of communities powered by Slack.
 - [awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome) - My curated list of awesome links, resources and tools on infosec related topics
@@ -7849,6 +7892,7 @@
 
 ## Perl 
 
+- [Lepr](https://github.com/dnmfarrell/Lepr) - A tiny Lisp like written in Perl
 - [iomonitor](https://github.com/osresearch/iomonitor) - Trace IO calls in a process
 - [gitbuilder](https://github.com/apenwarr/gitbuilder) - Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.
 - [git-number](https://github.com/holygeek/git-number) - Use numbers for dealing with files in git
@@ -8031,6 +8075,7 @@
 
 ## Python 
 
+- [autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts)
 - [designate](https://github.com/openstack/designate) - OpenStack DNS As A Service (Designate). Mirror of code maintained at opendev.org.
 - [timezones-cli](https://github.com/yankeexe/timezones-cli) - CLI Tool to store and glance date time from multiple time zones.
@@ -8442,6 +8487,7 @@
 - [PcapXray](https://github.com/Srinivas11789/PcapXray) - :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
 - [PcapViz](https://github.com/mateuszk87/PcapViz) - Visualize network topologies and collect graph statistics based on pcap files
 - [shyaml](https://github.com/0k/shyaml) - YAML for command line
+- [shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [pandocfilters](https://github.com/jgm/pandocfilters) - A python module for writing pandoc filters, with a collection of examples
 - [ansible-live-output-demo](https://github.com/lucasbasquerotto/ansible-live-output-demo) - Running an ansible playbook and seeing output in real time (Demo)
 - [orger](https://github.com/karlicoss/orger) - Tool to convert data into searchable and interactive org-mode views
@@ -8534,6 +8580,7 @@
 - [BrainDamage](https://github.com/mehulj94/BrainDamage) - Remote administration tool which uses Telegram as a C&C server
 - [phpsploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor
 - [Stitch](https://github.com/nathanlopez/Stitch) - Python Remote Administration Tool (RAT)
+- [Osmedeus](https://github.com/j3ssie/Osmedeus) - Fully automated offensive security framework for reconnaissance and vulnerability scanning
 - [Osmedeus](https://github.com/j3ssie/Osmedeus) - Fully automated offensive security framework for reconnaissance and vulnerability scanning
 - [uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
@@ -9824,6 +9871,7 @@
 
 ## Rust 
 
+- [xshell](https://github.com/matklad/xshell) - 
 - [rshark](https://github.com/pesos/rshark) - Simple Packet Monitoring Tool
 - [taizen](https://github.com/NerdyPepper/taizen) - curses based mediawiki browser
 - [xcursorlocate](https://github.com/NerdyPepper/xcursorlocate) - cursor location indicator for x11
@@ -9855,7 +9903,7 @@
 - [rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
-- [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
 - [headcrab](https://github.com/headcrab-rs/headcrab) - A modern Rust debugging library 🦀
 - [baelte](https://github.com/kennethlarsen/baelte) - CLI tool for svelte to help you be productive
@@ -11189,6 +11237,8 @@
 
 ## Vala 
 
+- [connections](https://github.com/GNOME/connections) - Read-only mirror of https://gitlab.gnome.org/GNOME/connections
+- [Sherlock](https://github.com/sergius02/Sherlock) - Sherlock helps you to find information of public IP address, elementary! 🕵️
 - [timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 - [Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and Gtk
 - [vala-language-server](https://github.com/benwaffle/vala-language-server) - Code Intelligence for Vala & Genie
