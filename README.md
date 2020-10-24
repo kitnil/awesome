@@ -192,6 +192,7 @@
 
 ## C 
 
+- [ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
 - [xwinwrap](https://github.com/ujjwal96/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
 - [berry](https://github.com/JLErvin/berry) - :strawberry: A healthy, byte-sized window manager
 - [jgmenu](https://github.com/johanmalm/jgmenu) - A simple X11 menu
@@ -1938,7 +1939,7 @@
 - [docker-tor-simple](https://github.com/osminogin/docker-tor-simple) - Simplest minimal container for Tor anonymity software
 - [aind](https://github.com/aind-containers/aind) - AinD: Android in Docker. Ain't an emulator.
 - [elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics. Up with a Single Command.
-- [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx 1.19.2 (mainline) with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli, NJS support, and 10 MB size. All built on the bleeding edge for max performance. Built on the edge, for the edge.
+- [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx 1.19.3 (mainline) with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli, NJS support, and 10 MB size. All built on the bleeding edge for max performance. Built on the edge, for the edge.
 - [localdots](https://github.com/luisfarzati/localdots) - HTTPS domains for localhost. 🏠
 - [dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
@@ -4315,7 +4316,7 @@
 - [terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [lsp](https://github.com/dborzov/lsp) - lsp is like ls command but more human-friendly
 - [jobber](https://github.com/dshearer/jobber) - An alternative to cron, with sophisticated status-reporting and error-handling
-- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem, S3, GCS
+- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem, S3, GCS, Azure Blob
 - [goscheme](https://github.com/xrlin/goscheme) - Just another scheme interpreter.
 - [iris](https://github.com/islisp-dev/iris) - The interpreter of ISLisp
 - [gobasic](https://github.com/skx/gobasic) - A BASIC interpreter written in golang.
@@ -5293,6 +5294,7 @@
 
 ## Java 
 
+- [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [crewmate](https://github.com/crewmate-srv/crewmate) - An open-source implementation of the Among Us server in Java.
 - [DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
 - [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具
@@ -6151,6 +6153,7 @@
 - [grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
 - [gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 - [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+- [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [crossfire-chrome](https://github.com/mallowlabs/crossfire-chrome) - CrossFire for Chrome allows you to move to the next link with a keyboard.
 - [Check-My-Links](https://github.com/PageModifiedOfficial/Check-My-Links) - A Google Chrome extension which allows you to check webpages for broken links (Response Code 404 etc)
 - [linkclump](https://github.com/benblack86/linkclump) - Google chrome extension that allows you to open multiple links at once.
@@ -7753,7 +7756,7 @@
 ## PHP 
 
 - [flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
-- [LibreSignage](https://github.com/eerotal/LibreSignage) - An open source digital signage solution
+- [LibreSignage](https://github.com/eerotal/LibreSignage) - A free and open source digital signage solution.
 - [phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [pdns-gui](https://github.com/odoucet/pdns-gui) - pdns-gui fork
 - [versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
@@ -7977,7 +7980,7 @@
 - [check_rbl](https://github.com/matteocorti/check_rbl) - check_rbl is a Nagios plugin to check if an SMTP server is blacklisted
 - [vidir](https://github.com/trapd00r/vidir) - edit directory in $EDITOR (better than vim . with netrw)
 - [stow](https://github.com/aspiers/stow) - GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches
-- [vbscan](https://github.com/hblankenship/vbscan) - OWASP VBScan is a Black Box vBulletin Vulnerability Scanner
+- [vbscan](https://github.com/OWASP/vbscan) - OWASP VBScan is a Black Box vBulletin Vulnerability Scanner
 - [zbx-smartctl](https://github.com/v-zhuravlev/zbx-smartctl) - Templates and scripts for monitoring disks health with Zabbix and smartmontools
 - [git-spark](https://github.com/kablamo/git-spark) - Plot your commit history on the command line with sparklines.  A mash up of git and spark and Perl.
 - [clyrics](https://github.com/trizen/clyrics) - An extensible lyrics fetcher, with daemon support for cmus and mocp.
@@ -8027,7 +8030,7 @@
 
 ## Perl 6 
 
-- [joomscan](https://github.com/hblankenship/joomscan) - OWASP Joomla Vulnerability Scanner Project
+- [joomscan](https://github.com/OWASP/joomscan) - OWASP Joomla Vulnerability Scanner Project
 
 ## PicoLisp 
 
@@ -8664,7 +8667,6 @@
 - [binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [PasteHunter](https://github.com/kevthehermit/PasteHunter) - Scanning pastebin with yara rules
 - [youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
-- [youtube-audio-dl](https://github.com/jcalazan/youtube-audio-dl) - A Django web application for converting YouTube videos to MP3 audio.
 - [youtube](https://github.com/engineer-man/youtube) - Code from the Engineer Man YouTube channel
 - [feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
@@ -11216,7 +11218,6 @@
 - [staticsitegenerators-website](https://github.com/bevry/staticsitegenerators-website) - Website containing the complete listing of static site generators
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
-- [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [color-links](https://github.com/therynamo/color-links) - 🔗 Help Individuals With Color Blindness See Visited Links
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
