@@ -1945,7 +1945,6 @@
 - [alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [dockerfiles](https://github.com/Kaixhin/dockerfiles) - Compilation of Dockerfiles with automated builds enabled on the Docker Registry
 - [awesome-cloudrun](https://github.com/steren/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
-- [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [nginx-unit-nodejs](https://github.com/mrchoke/nginx-unit-nodejs) - Demo app for Nginx Unit NodeJs
 - [Dockerfile](https://github.com/jumpserver/Dockerfile) - Jumpserver all in one Dockerfile
 - [docker-bitlbee-libpurple](https://github.com/ezkrg/docker-bitlbee-libpurple) - bitlbee with libpurple and plugins
@@ -4316,7 +4315,7 @@
 - [terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [lsp](https://github.com/dborzov/lsp) - lsp is like ls command but more human-friendly
 - [jobber](https://github.com/dshearer/jobber) - An alternative to cron, with sophisticated status-reporting and error-handling
-- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem, S3, GCS, Azure Blob
+- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem, S3, Google Cloud Storage, Azure Blob
 - [goscheme](https://github.com/xrlin/goscheme) - Just another scheme interpreter.
 - [iris](https://github.com/islisp-dev/iris) - The interpreter of ISLisp
 - [gobasic](https://github.com/skx/gobasic) - A BASIC interpreter written in golang.
@@ -6998,7 +6997,7 @@
 - [ui-ux-hackfest-2020](https://github.com/jenkinsci/ui-ux-hackfest-2020) - Jenkins UI/UX Hackfest (May 25-29, 2020)
 - [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
-- [ABigSurvey](https://github.com/NiuTrans/ABigSurvey) - A collection of 300+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
+- [ABigSurvey](https://github.com/NiuTrans/ABigSurvey) - A collection of 400+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
 - [awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
 - [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers by organizations sharing their work on applied data science & machine learning.
 - [developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
@@ -7008,7 +7007,7 @@
 - [guide-to-staying-productive](https://github.com/jonschlinkert/guide-to-staying-productive) - If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
 - [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) - List of all tools (apps, services) that startups should use.
 - [android-dev-sources](https://github.com/ParaskP7/android-dev-sources) - All those Android development sources that you need to be and stay awesome!
-- [daily](https://github.com/dailydotdev/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
+- [daily](https://github.com/dailydotdev/daily) - Discover dev news with zero effort 👩🏽‍💻
 - [awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software
 - [tcpip-study](https://github.com/chenshuo/tcpip-study) - Shuo's learning notes on Linux TCP/IP stack
 - [fetch-all-the-things](https://github.com/domsson/fetch-all-the-things) - A list of *nix fetch utilities
@@ -7104,7 +7103,7 @@
 - [awesome-lisp-companies](https://github.com/azzamsa/awesome-lisp-companies) - Awesome Lisp Companies
 - [awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools) - :fire: :books: All the tools, processes and resources you need to create an awesome API & Project documentation
 - [awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome) - A curated list of awesome lists of awesome lists.
-- [awesome-management](https://github.com/kdeldycke/awesome-management) - 👔 Engineering Team Management Knowledge Base
+- [awesome-management](https://github.com/kdeldycke/awesome-management) - 👔 Awesome Engineering Team Management
 - [awesome-cocos-creator](https://github.com/potato47/awesome-cocos-creator) - Cocos Creator 资源汇总
 - [awesome-tor](https://github.com/ajvb/awesome-tor) - A list of awesome Tor related projects, articles, papers, etc
 - [awesome-networking](https://github.com/nyquist/awesome-networking) - Curated list of awesome computer networking resources
@@ -10490,6 +10489,7 @@
 - [zfsnap](https://github.com/zfsnap/zfsnap) - A portable, performant script to make rolling ZFS snapshots easy. (https://github.com/zfsnap/zfsnap/issues/109)
 - [android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [cleanreg](https://github.com/hcguersoy/cleanreg) - A small tool to clean up Docker Registries (v2).
+- [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [git-splits](https://github.com/ajdruff/git-splits) - Extracts multiple directories of a git repo into a new branch
 - [godaddy-ddns](https://github.com/gu1ll0me/godaddy-ddns) - 
 - [history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
@@ -11100,7 +11100,7 @@
 - [linux-window-session-manager](https://github.com/johannesjo/linux-window-session-manager) - A tool to store and reload open windows and window positions for x11 desktops like unity and gnome.
 - [isolate](https://github.com/seenaburns/isolate) - Lightweight image browser
 - [fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
-- [mindmapp](https://github.com/Mindmapp/mindmapp) - :rocket: Web application to draw mind maps.
+- [mindmapp](https://github.com/cedoor/mindmapp) - :rocket: Web application to draw mind maps.
 - [pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
 - [xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
 - [leasot](https://github.com/pgilad/leasot) - Parse and output TODOs and FIXMEs from comments in your files
@@ -11130,7 +11130,7 @@
 - [pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
 - [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [qawolf](https://github.com/qawolf/qawolf) - 🐺Create browser tests 10x faster
-- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A free, open-source notes app for the web.
+- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A free, open-source notes app for the web. (Demo only)
 - [apk-mitm](https://github.com/shroudedcode/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
 - [hex-engine](https://github.com/suchipi/hex-engine) - A modern 2D game engine for the browser.
