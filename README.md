@@ -3949,7 +3949,7 @@
 - [periscope](https://github.com/anishathalye/periscope) - Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭
 - [todocheck](https://github.com/preslavmihaylov/todocheck) - A static code analyzer for annotated TODO comments
 - [dbus](https://github.com/godbus/dbus) - Native Go bindings for D-Bus
-- [go-querystring](https://github.com/google/go-querystring) - go-querystring is Go library for encoding structs into URL query parameters.
+- [go-querystring](https://github.com/google/go-querystring) - go-querystring is Go library for encoding structs into URL query strings.
 - [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
 - [feedpushr](https://github.com/ncarlier/feedpushr) - A simple feed aggregator daemon with sugar on top.
 - [plumber](https://github.com/batchcorp/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
@@ -4376,7 +4376,7 @@
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
-- [terraform-provider-null](https://github.com/hashicorp/terraform-provider-null) - Terraform null provider
+- [terraform-provider-null](https://github.com/hashicorp/terraform-provider-null) - Provides constructs that intentionally do nothing, useful in various situations to help orchestrate tricky behavior or work around limitations. This provider is maintained by the HashiCorp Terraform Team.
 - [go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert go test output to junit xml
 - [slipscheme](https://github.com/coryb/slipscheme) - Json Schema to Go Struct conversion tool
 - [echoip](https://github.com/mpolden/echoip) - IP address lookup service
@@ -4949,6 +4949,7 @@
 - [fuzzdata](https://github.com/MozillaSecurity/fuzzdata) - Fuzzing resources for feeding various fuzzers with input. 🔧
 - [ansible-role-nginx](https://github.com/nginxinc/ansible-role-nginx) - Ansible role for NGINX
 - [badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
+- [docs](https://github.com/dapr/docs) - Dapr user documentation, used to build docs.dapr.io
 - [glastoselenium](https://github.com/thomasms/glastoselenium) - A bot for booking Glastonbury tickets using selenium
 - [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [dockerfile](https://github.com/mritd/dockerfile) - some personally made dockerfile
@@ -5714,7 +5715,6 @@
 - [node-bcat](https://github.com/kessler/node-bcat) - A pipe to browser utility
 - [node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
 - [webtelnet](https://github.com/mudchina/webtelnet) - Proxy server to bridge websocket to telnet, enable visiting telnet / MUD servers with browsers.
-- [jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
 - [sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [liman](https://github.com/salihciftci/liman) - Self-hosted web application for monitoring docker.
@@ -7273,7 +7273,6 @@
 - [project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c) - A curated list of project-based tutorials in C
 - [b1fipl](https://github.com/marcpaq/b1fipl) - A Bestiary of Single-File Implementations of Programming Languages
 - [language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
-- [docs](https://github.com/dapr/docs) - User documentation for Dapr
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@zimbatm]
 - [lisp-tips](https://github.com/lisp-tips/lisp-tips) - Common Lisp tips. Share !
@@ -7308,7 +7307,7 @@
 - [awesome-learning](https://github.com/Lets-DevOps/awesome-learning) - A curated list for DevOps learning resources. Join the slack channel to discuss more.
 - [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
 - [server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
-- [interview](https://github.com/andreis/interview) - Everything you need to prepare for your technical interview
+- [interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
 - [devops](https://github.com/gofunct/devops) - Study Guides for DevOps Proffessionals https://gofunct.github.io/devops/.
 - [awesome-devops](https://github.com/AcalephStorage/awesome-devops) - A curated list of resources for Devops
 - [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps) - View roadmaps about developer roles to help you learn
@@ -7441,6 +7440,7 @@
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
+- [mailaprop](https://github.com/kfogel/mailaprop) - Please see https://code.librehq.com/kfogel/mailaprop for the latest version of this package.  It is no longer hosted on GitHub.
 - [Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox 💧 source code repository
 - [donate](https://github.com/joshtronic/donate) - Just a list of Free Software, Open Source Software and other technology-related things you can contribute money to.
 - [awesome-free-services](https://github.com/hql287/awesome-free-services) - Awesome free online services for startups and freelancers!
@@ -8113,7 +8113,7 @@
 - [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [uwsgitop](https://github.com/xrmx/uwsgitop) - top-like app for monitoring uWSGI instances
 - [ptmv](https://github.com/kal39/ptmv) - An utf-8/truecolor image and video viewer for the terminal
-- [archivy](https://github.com/Uzay-G/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
+- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [blaecksprutte](https://github.com/teythoon/blaecksprutte) - spam-tagger working on notmuch databases
 - [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
@@ -8419,6 +8419,7 @@
 - [firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
 - [SSH-telnet-proxy-tunnel](https://github.com/dischoen/SSH-telnet-proxy-tunnel) - Tunnel SSH connections through a telnet tunnel
 - [Aker](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver
+- [jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
 - [JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates.
 - [wrapc](https://github.com/meeuw/wrapc) - Wrapper script for starting a command line tool with bash completion
 - [repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
@@ -8631,7 +8632,7 @@
 - [scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point_right:
 - [amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
 - [testinfra](https://github.com/philpep/testinfra) - Testinfra test your infrastructures
-- [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Developer Kit for Python
+- [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
 - [test-playbooks](https://github.com/ansible/test-playbooks) - playbook-tests
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]
@@ -8955,7 +8956,6 @@
 - [pynt](https://github.com/ebanner/pynt) - Bridging the gap between jupyter notebooks and text editors/IDEs.
 - [key-mon](https://github.com/scottkirkwood/key-mon) - Automatically exported from code.google.com/p/key-mon
 - [key-mon](https://github.com/critiqjo/key-mon) - Automatically exported from code.google.com/p/key-mon
-- [mailaprop](https://github.com/kfogel/mailaprop) - Modern autofill behavior for email addresses in Emacs.
 - [oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language and runtime.
 - [notifico](https://github.com/TkTech/notifico) - My personal http://cia.vc replacement. Now used by over 3000 projects.
 - [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
@@ -10070,7 +10070,7 @@
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [memory-profiler](https://github.com/koute/memory-profiler) - 
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
-- [rust-web-developer-roadmap](https://github.com/pepsighan/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2020
+- [rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2020
 - [rusti](https://github.com/murarth/rusti) - REPL for the Rust programming language
 - [org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
