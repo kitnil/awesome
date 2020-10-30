@@ -982,6 +982,7 @@
 
 ## C# # 
 
+- [sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 - [bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
@@ -1598,6 +1599,7 @@
 
 ## Clojure 
 
+- [puget](https://github.com/greglook/puget) - Canonical Colorizing Clojure Printer
 - [clj-yaml](https://github.com/clj-commons/clj-yaml) - YAML encoding and decoding for Clojure
 - [workspaces](https://github.com/nubank/workspaces) - Live development environment for Clojurescript
 - [clojure-scheme](https://github.com/takeoutweight/clojure-scheme) - Clojure to Scheme to C to the bare metal.
@@ -1952,7 +1954,7 @@
 - [docker-alpine](https://github.com/smebberson/docker-alpine) - Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers.
 - [webdav](https://github.com/tadly/webdav) - Docker: A alpine linux based webdav server.
 - [syncthing-srv](https://github.com/tadly/syncthing-srv) - Docker: A alpine linux based syncthing relay and discovery server.
-- [guix](https://github.com/metacall/guix) - Docker image for using GuixSD in a CI/CD environment.
+- [guix](https://github.com/metacall/guix) - Docker image for using Guix in a CI/CD environment.
 - [docker-tor](https://github.com/mko-x/docker-tor) - Setup a Tor relay Server/Service easily. Support Tor!!
 - [docker-nginx-simple](https://github.com/mko-x/docker-nginx-simple) - Simple nginx serving static content in just a few lines of code.
 - [xubuntu-vnc](https://github.com/accetto/xubuntu-vnc) - Headless Ubuntu/Xfce containers with VNC and various applications
@@ -2016,6 +2018,7 @@
 
 ## Emacs Lisp 
 
+- [elisp-docstring-server.el](https://github.com/xuchunyang/elisp-docstring-server.el) - An HTTP server for Emacs Lisp Docstring
 - [org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle org-mode latex fragment previews as the cursor enters and exits them
 - [jetbrains-darcula-emacs-theme](https://github.com/ianpan870102/jetbrains-darcula-emacs-theme) - A complete port of the default JetBrains Darcula theme for Emacs
 - [org-starless](https://github.com/TonCherAmi/org-starless) - Hide heading stars in org-mode.
@@ -4520,7 +4523,7 @@
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [qri](https://github.com/qri-io/qri) - you're invited to a data party!
-- [hydra](https://github.com/ory/hydra) - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
+- [hydra](https://github.com/ory/hydra) - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl
 - [go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -5918,7 +5921,7 @@
 - [ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow
 - [life-commit](https://github.com/ByronHsu/life-commit) - 🏃📆  Life as a git. Commit on your life.
 - [clean-mark](https://github.com/croqaz/clean-mark) - Convert an article into a clean text
-- [node-html-to-text](https://github.com/werk85/node-html-to-text) - Advanced html to text converter
+- [node-html-to-text](https://github.com/html-to-text/node-html-to-text) - Advanced html to text converter
 - [baffle](https://github.com/camwiegert/baffle) - A tiny javascript library for obfuscating and revealing text in DOM elements. :astonished:
 - [coinmon](https://github.com/bichenkk/coinmon) - 💰  The cryptocurrency price tool on CLI. 🖥
 - [dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
@@ -7103,7 +7106,6 @@
 - [awesome-lisp-companies](https://github.com/azzamsa/awesome-lisp-companies) - Awesome Lisp Companies
 - [awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools) - :fire: :books: All the tools, processes and resources you need to create an awesome API & Project documentation
 - [awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome) - A curated list of awesome lists of awesome lists.
-- [awesome-management](https://github.com/kdeldycke/awesome-management) - 👔 Awesome Engineering Team Management
 - [awesome-cocos-creator](https://github.com/potato47/awesome-cocos-creator) - Cocos Creator 资源汇总
 - [awesome-tor](https://github.com/ajvb/awesome-tor) - A list of awesome Tor related projects, articles, papers, etc
 - [awesome-networking](https://github.com/nyquist/awesome-networking) - Curated list of awesome computer networking resources
@@ -7349,7 +7351,7 @@
 - [awesome-spring-boot](https://github.com/ityouknow/awesome-spring-boot) - Spring Boot Resources
 - [nord-xresources](https://github.com/arcticicestudio/nord-xresources) - An arctic, north-bluish clean and elegant Xresources color theme.
 - [bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right!
-- [curriculum](https://github.com/HackYourFuture/curriculum) - Overview of the HackYourFuture program.
+- [curriculum](https://github.com/HackYourFuture/curriculum) - Dive into our 7-month web development program covering HTML, CSS, Javascript, Node, and React!
 - [awesome-toolkits](https://github.com/reyronald/awesome-toolkits) - A curated list of open source, high-quality, popular and well maintained "zero-configuration" (#0CJS) toolkits
 - [fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [russian_news_corpus](https://github.com/maxoodf/russian_news_corpus) - Russian mass media stemmed texts corpus / Корпус лемматизированных (морфологически нормализованных) текстов российских СМИ
@@ -9145,6 +9147,7 @@
 - [plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents
 - [live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
+- [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [todoman](https://github.com/pimutils/todoman) - ✅ A simple, standards-based, cli todo (aka: task) manager.
 - [pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
@@ -9997,7 +10000,7 @@
 - [stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
 - [idiomatic-rust](https://github.com/mre/idiomatic-rust) - A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
-- [actix-web](https://github.com/actix/actix-web) - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
@@ -11223,7 +11226,6 @@
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
