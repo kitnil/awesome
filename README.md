@@ -485,7 +485,6 @@
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 - [ossec-hids](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
-- [gnethogs](https://github.com/mbfoss/gnethogs) - GUI for nethogs using GKT
 - [bdwgc](https://github.com/ivmai/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc)
 - [brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
 - [jpegoptim](https://github.com/tjko/jpegoptim) - jpegoptim - utility to optimize/compress JPEG files
@@ -1169,6 +1168,7 @@
 - [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
 - [nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
+- [gnethogs](https://github.com/mbfoss/gnethogs) - GUI for nethogs using GKT
 - [nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [firebird](https://github.com/FirebirdSQL/firebird) - Firebird server, client and tools
 - [drogon](https://github.com/an-tao/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
@@ -2265,7 +2265,7 @@
 - [json-process-client](https://github.com/emacsmirror/json-process-client) - Interact with a TCP process using JSON
 - [with-proxy.el](https://github.com/twlz0ne/with-proxy.el) - Evaluate expressions with proxy
 - [emacs-vdiff-magit](https://github.com/justbur/emacs-vdiff-magit) - Magit integration for vdiff
-- [elinter](https://github.com/akirak/elinter) - [experimental] Nix-based CI and local testing framework for Emacs Lisp projects
+- [elinter](https://github.com/akirak/elinter) - Nix-based CI and local testing framework for Emacs Lisp projects
 - [wakib-emacs](https://github.com/darkstego/wakib-emacs) - Emacs Starter Kit based on Wakib keybindings
 - [erc-yt](https://github.com/yhvh/erc-yt) - 
 - [emacs-mini-modeline](https://github.com/kiennq/emacs-mini-modeline) - Display emacs mode line in minibuffer
@@ -3799,6 +3799,8 @@
 
 ## Go 
 
+- [BountyIt](https://github.com/Shivangx01b/BountyIt) - A fuzzer made in golang for finding issues like xss, lfi, rce, ssti...that detects issues using change in content length and verify it using signatures
+- [gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana
 - [dewm](https://github.com/driusan/dewm) - A pure go autotiling window manager written with literate programming
 - [dnsping](https://github.com/fortio/dnsping) - DNS Ping: to check packet loss and latency issues with DNS servers
 - [file-server](https://github.com/codenoid/file-server) - Multi-source file server [💾 | 💽 | 💿] 🧐
@@ -3903,7 +3905,7 @@
 - [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [norouter](https://github.com/norouter/norouter) - NoRouter: IP-over-Stdio. The easiest multi-host & multi-cloud networking ever. No root privilege is required.
 - [gitjacker](https://github.com/liamg/gitjacker) - 🔪 :octocat: Leak git repositories from misconfigured websites
-- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [stashbox](https://github.com/zpeters/stashbox) - Your personal Internet Archive
 - [termiboard](https://github.com/IEEE-VIT/termiboard) - A smart CLI Dashboard to fetch cpu, memory and network stats!
 - [gosql](https://github.com/rushteam/gosql) - golang orm and sql builder
@@ -4028,7 +4030,7 @@
 - [go-sniffer](https://github.com/40t/go-sniffer) - 🔎Sniffing and parsing mysql,redis,http,mongodb etc protocol. 抓包截取项目中的数据库请求并解析成相应的语句。
 - [parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
 - [GTRS](https://github.com/mthbernardes/GTRS) - GTRS - Google Translator Reverse Shell
-- [pingtunnel](https://github.com/esrrhs/pingtunnel) - 流量转发加速工具 ping tunnel is a tool that advertises tcp/udp/socks5 traffic as icmp traffic for forwarding.
+- [pingtunnel](https://github.com/esrrhs/pingtunnel) - ICMP流量转发工具 ping tunnel is a tool that advertises tcp/udp/socks5 traffic as icmp traffic for forwarding.
 - [uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
 - [cordless](https://github.com/Bios-Marcel/cordless) - The Discord terminal client you never knew you wanted.
@@ -4369,7 +4371,7 @@
 - [rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [hil](https://github.com/hashicorp/hil) - HIL is a small embedded language for string interpolations.
 - [ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
-- [terraform-provider-external](https://github.com/hashicorp/terraform-provider-external) - Terraform external provider
+- [terraform-provider-external](https://github.com/hashicorp/terraform-provider-external) - A special provider that exists to provide an interface between Terraform and external programs – useful for integrating Terraform with a system for which a first-class provider does not exist.
 - [firefox-history-merger](https://github.com/crazy-max/firefox-history-merger) - Merge Firefox history and repair missing favicons with ease
 - [travis-wait-enhanced](https://github.com/crazy-max/travis-wait-enhanced) - Prevent Travis CI from thinking a long-running process has stalled
 - [regresql](https://github.com/dimitri/regresql) - Regression Testing your SQL queries
@@ -4454,7 +4456,7 @@
 - [marathon-consul](https://github.com/allegro/marathon-consul) - Integrates Marathon apps with Consul service discovery.
 - [filetype](https://github.com/h2non/filetype) - Fast, dependency-free, small Go package to infer the binary file type based on its magic numbers signature
 - [ssh-auditor](https://github.com/ncsa/ssh-auditor) - The best way to scan for weak ssh passwords on your network
-- [telegram-middleman-bot](https://github.com/muety/telegram-middleman-bot) - 🤖 A Telegram bot which translates push messages sent as simple HTTP calls into Telegram messages you can subscribe to.
+- [webhook2telegram](https://github.com/muety/webhook2telegram) - 🤖 A Telegram bot which translates push messages sent as simple HTTP calls into Telegram messages you can subscribe to.
 - [owl](https://github.com/TalkingData/owl) - distributed monitoring system
 - [slex](https://github.com/crosbymichael/slex) - SSH multiplex
 - [sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
@@ -6067,7 +6069,7 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2020)
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
 - [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -7331,7 +7333,7 @@
 - [awx-container](https://github.com/geerlingguy/awx-container) - Ansible Container project that manages the lifecycle of AWX on Docker.
 - [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
 - [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
-- [xg2xg](https://github.com/jhuangtw-dev/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
+- [xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [security-cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) - 🔒 A collection of cheatsheets for various infosec tools and topics.
@@ -7924,7 +7926,7 @@
 - [asbru-cm](https://github.com/asbru-cm/asbru-cm) - Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.
 - [dank-selfhosted](https://github.com/cullum/dank-selfhosted) - Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD.
 - [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
-- [straw-viewer](https://github.com/trizen/straw-viewer) - Application for searching and playing videos from YouTube, using the API of invidio.us
+- [straw-viewer](https://github.com/trizen/straw-viewer) - A lightweight YouTube client for Linux, using the API of invidio.us
 - [iperl](https://github.com/LvMalware/iperl) - Run Perl interactively
 - [ddclient-curl](https://github.com/astlinux-project/ddclient-curl) - Fork of ddclient using curl for network IO
 - [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
@@ -7985,7 +7987,7 @@
 - [zbx-smartctl](https://github.com/v-zhuravlev/zbx-smartctl) - Templates and scripts for monitoring disks health with Zabbix and smartmontools
 - [git-spark](https://github.com/kablamo/git-spark) - Plot your commit history on the command line with sparklines.  A mash up of git and spark and Perl.
 - [clyrics](https://github.com/trizen/clyrics) - An extensible lyrics fetcher, with daemon support for cmus and mocp.
-- [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application for searching and playing videos from YouTube.
+- [youtube-viewer](https://github.com/trizen/youtube-viewer) - A lightweight YouTube client for Linux
 - [paste.pl](https://github.com/formorer/paste.pl) - paste.debian.net implementation
 - [sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 - [plsense](https://github.com/aki2o/plsense) - Omni completion tool for Perl
@@ -9519,7 +9521,7 @@
 - [ffmpy](https://github.com/Ch00k/ffmpy) - Pythonic interface for FFmpeg/FFprobe command line
 - [debops-playbooks](https://github.com/debops/debops-playbooks) - Ansible playbooks used by DebOps project
 - [Scripts](https://github.com/lahwaacz/Scripts) - 
-- [vk_api](https://github.com/python273/vk_api) - vk_api – Python модуль для создания скриптов для социальной сети Вконтакте (vk.com API wrapper)
+- [vk_api](https://github.com/python273/vk_api) - Модуль для создания скриптов для ВКонтакте | vk.com API wrapper
 - [brainztag](https://github.com/robinst/brainztag) - Command line tool to tag and rename music albums using MusicBrainz data
 - [smart-image-renamer](https://github.com/ronakg/smart-image-renamer) - A script to intelligently bulk rename images using EXIF data within the images.
 - [nzbToAniDB](https://github.com/Benni-chan/nzbToAniDB) - postprocessing script for animes (to use with sabnzbd+ or nzbget or even as stand alone) to rename files after a sync with anidb.net. files can additionally be renamed via tvdb
@@ -10268,6 +10270,8 @@
 
 ## Shell 
 
+- [sbang](https://github.com/spack/sbang) - Run scripts with very long shebang (#!) lines
+- [Docker-Compose-Backup](https://github.com/danmed/Docker-Compose-Backup) - Create compose files from running containers
 - [farge](https://github.com/sdushantha/farge) - 🎨 Click on a pixel on your screen and show its color value
 - [rtmp-social-multicast](https://github.com/HorusGoul/rtmp-social-multicast) - Want to stream to Twitch, YouTube, and/or Periscope at the same time? That's what this project allows you to do!
 - [userreconOG](https://github.com/Graey/userreconOG) - A script to find usernames across over 75 social networks.
@@ -10534,7 +10538,7 @@
 - [tmuxen](https://github.com/xuxiaodong/tmuxen) - tmux environment made easy.
 - [dnsmasq_sniproxy_install](https://github.com/myxuchangbin/dnsmasq_sniproxy_install) - One-click Install and Configure Dnsmasq and Sniproxy for CentOS/Debian/Ubuntu
 - [wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove the node_modules folder of non-active projects
-- [debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs 🧬 for Debian-based servers
+- [debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs 🧬 for Debian-based servers and Web Applications
 - [42FileChecker](https://github.com/jgigault/42FileChecker) - 42FileChecker is a tiny bash script developed at 42 school for testing and checking files according to the rules of the subjects
 - [format-udf](https://github.com/JElchison/format-udf) - Bash script to format a block device (hard drive or Flash drive) in UDF. The output is a drive that can be used for reading/writing across multiple operating system families: Windows, macOS, and Linux. This script should be capable of running in macOS or in Linux.
 - [split2flac](https://github.com/ftrvxmtrx/split2flac) - Split flac/ape/wv/wav + cue sheet into separate tracks
@@ -10791,7 +10795,7 @@
 - [qemu-android-x86-runner](https://github.com/rexim/qemu-android-x86-runner) - Quick Start on How to Run Android x86 in QEMU
 - [ncmpcpp-with-albumart](https://github.com/fikriomar16/ncmpcpp-with-albumart) - Showing album art in ncmpcpp using urxvt
 - [zabbix-version-detect](https://github.com/catonrug/zabbix-version-detect) - Detect new zabbix versions by using sourceforge rss feed
-- [linux-unattended-installation](https://github.com/core-process/linux-unattended-installation) - This project provides all you need to create an unattended installation of a minimal setup of Linux.
+- [linux-unattended-installation](https://github.com/coreprocess/linux-unattended-installation) - This project provides all you need to create an unattended installation of a minimal setup of Linux.
 - [yavide](https://github.com/JBakamovic/yavide) - Modern C/C++ integrated development environment
 - [M2-Planet](https://github.com/oriansj/M2-Planet) - The PLAtform NEutral Transpiler
 - [flatpak-overlay](https://github.com/fosero/flatpak-overlay) - A Gentoo ebuild overlay for flatpak
