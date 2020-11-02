@@ -1648,6 +1648,7 @@
 - [clojupyter](https://github.com/clojupyter/clojupyter) - a Jupyter kernel for Clojure
 - [flower](https://github.com/PositiveTechnologies/flower) - Flower is a Clojure (and Emacs) library for integration with Github, Gitlab, Atlassian Jira, Microsoft TFS, Microsoft Exchange and Slack. It also may be used from Java. More integrations with task trackers, repositories and messaging systems coming soon!
 - [closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
+- [dirac](https://github.com/binaryage/dirac) - A Chrome DevTools fork for ClojureScript developers
 - [lux](https://github.com/LuxLang/lux) - The Lux Programming Language
 - [themecreator](https://github.com/mswift42/themecreator) - https://mswift42.github.io/themecreator/ create themes for intellij, textmate, atom, emacs, vim and gnome terminal.
 - [Nightweb](https://github.com/oakes/Nightweb) - An anonymous P2P social network in Clojure
@@ -4208,7 +4209,7 @@
 - [finala](https://github.com/similarweb/finala) - Finala is an open-source resource cloud scanner that analyzes, discloses, presents and notifies about wasteful and unused resources.
 - [torrent-client](https://github.com/veggiedefender/torrent-client) - Tiny BitTorrent client written in Go
 - [jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go
-- [kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
+- [kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [govalidate](https://github.com/rakyll/govalidate) - Validates your Go installation and dependencies.
 - [sandy](https://github.com/hobochild/sandy) - A tiny "sandbox" to run untrusted code 🏖️
 - [broxy](https://github.com/rhaidiz/broxy) - An HTTP/HTTPS intercept proxy written in Go.
@@ -5550,7 +5551,6 @@
 - [sqleton](https://github.com/inukshuk/sqleton) - Visualize your SQLite database schema
 - [alicemq](https://github.com/alicelabs/alicemq) - RabbitMQ Visualizer
 - [gc-viz](https://github.com/kenfox/gc-viz) - Animated visualizations of several garbage collection algorithms
-- [app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [awesome-vue](https://github.com/rmjordas/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [decentralized-id.github.io](https://github.com/Decentralized-ID/decentralized-id.github.io) - Curating Decentralized, Self-Sovereign, and Blockchain Identity
 - [awesome-women-in-tech](https://github.com/WWCodeSeoul/awesome-women-in-tech) - 국내외 테크 분야 여성들의 활약상을 아카이빙 합니다.
@@ -6079,7 +6079,6 @@
 - [github-repo-size](https://github.com/harshjv/github-repo-size) - 🚀 Chrome extension to display repository size on GitHub
 - [GayHub](https://github.com/jawil/GayHub) - An awesome chrome extension for github :octocat:
 - [toggl-button](https://github.com/toggl/toggl-button) - Toggl Button extension for Chrome and Firefox
-- [dirac](https://github.com/binaryage/dirac) - A Chrome DevTools fork for ClojureScript developers
 - [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
@@ -6585,7 +6584,7 @@
 - [awesome-micropython](https://github.com/mcauser/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources.
 - [awesome-dtrace](https://github.com/xen0l/awesome-dtrace) - A curated list of awesome DTrace books, articles, videos, tools and resources.
 - [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
-- [twemoji-color-font](https://github.com/eosrei/twemoji-color-font) - Twitter Unicode 13 emoji color SVGinOT font for Linux/MacOS/Windows
+- [twemoji-color-font](https://github.com/eosrei/twemoji-color-font) - Twitter Unicode 13 emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [ports](https://github.com/openbsd/ports) - Public git conversion mirror of OpenBSD's official cvs ports repository. Pull requests not accepted - send diffs to the ports@ mailing list.
 - [docker-ce-packaging](https://github.com/docker/docker-ce-packaging) - Packaging scripts for Docker CE
 - [terraform-makefile](https://github.com/pgporada/terraform-makefile) - Helps me actually use terraform for multiple environments
@@ -8635,7 +8634,7 @@
 - [scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
 - [scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point_right:
 - [amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
-- [testinfra](https://github.com/philpep/testinfra) - Testinfra test your infrastructures
+- [pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
 - [test-playbooks](https://github.com/ansible/test-playbooks) - playbook-tests
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
@@ -11091,6 +11090,7 @@
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [mwoffliner](https://github.com/openzim/mwoffliner) - Scrape any online Mediawiki motorised wiki (like Wikipedia) to your local filesystem
+- [app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [awesome-chrome-extension-boilerplate](https://github.com/tjx666/awesome-chrome-extension-boilerplate) - Use react + typescript + webpack to enhance your chrome extension development experience
 - [awesome-travel](https://github.com/unseen1980/awesome-travel) - Do you want to build a travel app?
 - [piral](https://github.com/smapiot/piral) - Framework for next generation web apps using microfrontends. :rocket:
