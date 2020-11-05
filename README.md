@@ -882,6 +882,7 @@
 - [compton](https://github.com/chjj/compton) - A compositor for X11.
 - [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program.
 - [whdd](https://github.com/whdd/whdd) - HDD diagnostic and data recovery tool for Linux
 - [physlock](https://github.com/muennich/physlock) - Lightweight linux console locking tool
@@ -994,7 +995,7 @@
 - [schemy](https://github.com/microsoft/schemy) - A lightweight embeddable Scheme-like interpreter for configuration
 - [urho-samples](https://github.com/xamarin/urho-samples) - Samples for the Urho bindings
 - [Lemma](https://github.com/etodd/Lemma) - Immersive first-person parkour in a surreal, physics-driven voxel world.
-- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.
+- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [Computator.NET](https://github.com/PawelTroka/Computator.NET) - Computator.NET is a special kind of numerical software that is fast and easy to use but not worse than others feature-wise. It's features include:  - Real and complex functions charts   - Real and complex calculator   - Real functions numerical calculations including different methods   - Over 107 Elementary functions   - Over 141 Special functions   - Over 21 Matrix functions and operations   - Scripting language with power to easy computations including matrices   - You can declare your own custom functions with scripting language
@@ -1336,6 +1337,7 @@
 - [polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [StormEngine2](https://github.com/motorsep/StormEngine2) - Storm Engine 2 (modified RBDoom 3 BFG game engine)
 - [dhewm3](https://github.com/dhewm/dhewm3) - dhewm 3 main repository
+- [U3DTerrainEditor](https://github.com/JTippetts/U3DTerrainEditor) - Simple terrain editor built using Urho3D.
 - [cquery](https://github.com/jacobdufault/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
 - [recastnavigation](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh Toolset for Games
 - [Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine.
@@ -1498,7 +1500,6 @@
 
 - [hunter](https://github.com/ruslo/hunter) - 
 - [yunibase](https://github.com/okuoku/yunibase) - Yuni library test environment (Scheme implementations build script)
-- [U3DTerrainEditor](https://github.com/JTippetts/U3DTerrainEditor) - Simple terrain editor built using Urho3D.
 - [learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
 - [cmake-modules](https://github.com/rpavlik/cmake-modules) - My collection of CMake modules
 - [Glitter](https://github.com/Polytonic/Glitter) - Dead Simple OpenGL
@@ -4991,6 +4992,7 @@
 - [renpyweb](https://github.com/renpy/renpyweb) - Ren'Py in your HTML5 web browser
 - [python-goose](https://github.com/grangier/python-goose) - Html Content / Article Extractor, web scrapping lib in Python
 - [railsgirls.github.io](https://github.com/railsgirls/railsgirls.github.io) - Rails Girls Guides
+- [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
 - [ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [ansible-role-postgresql](https://github.com/geerlingguy/ansible-role-postgresql) - Ansible Role - PostgreSQL
@@ -6192,7 +6194,6 @@
 - [gnome-shell-extension-stealmyfocus](https://github.com/v-dimitrov/gnome-shell-extension-stealmyfocus) - Shell Extension that let window that demand attention to steal focus
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
 - [gnome-shell-extension-redshift](https://github.com/benzea/gnome-shell-extension-redshift) - DO NOT USE; GNOME NOW INCLUDES THE FEATURE ALREADY! – A redshift extension for gnome-shell – Obsolete with GNOME 3.26! Use the buildin nightlight feature instead!
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Download Youtube Subtitle (Still work in 2020!) (Work best on Chrome + Tampermonkey) **Looking for maintainer** 2020-10-7 更新：支持中英双语字幕下载，请在页面底部提供的另一个链接进行安装
@@ -7028,7 +7029,7 @@
 - [acwa_book_ru](https://github.com/adelf/acwa_book_ru) - Книга "Архитектура сложных веб-приложений. С примерами на Laravel"
 - [state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
 - [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
-- [algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
+- [algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [awesome-remote-work](https://github.com/zenika-open-source/awesome-remote-work) - 😎 Awesome lists about remote work
 - [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
@@ -7693,7 +7694,6 @@
 - [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
 - [flatpak-docs](https://github.com/flatpak/flatpak-docs) - Flatpak documentation
-- [emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with lots of features.
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [kali-nethunter](https://github.com/offensive-security/kali-nethunter) - The Kali NetHunter Project
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
@@ -7986,7 +7986,7 @@
 - [zbx-smartctl](https://github.com/v-zhuravlev/zbx-smartctl) - Templates and scripts for monitoring disks health with Zabbix and smartmontools
 - [git-spark](https://github.com/kablamo/git-spark) - Plot your commit history on the command line with sparklines.  A mash up of git and spark and Perl.
 - [clyrics](https://github.com/trizen/clyrics) - An extensible lyrics fetcher, with daemon support for cmus and mocp.
-- [youtube-viewer](https://github.com/trizen/youtube-viewer) - A lightweight YouTube client for Linux
+- [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight YouTube client for Linux
 - [paste.pl](https://github.com/formorer/paste.pl) - paste.debian.net implementation
 - [sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 - [plsense](https://github.com/aki2o/plsense) - Omni completion tool for Perl
@@ -10187,6 +10187,7 @@
 
 ## Scheme 
 
+- [guix-science](https://github.com/guix-science/guix-science) - Free scientific packages for GNU guix that cannot be upstreamed.
 - [international-scheme](https://github.com/metaphorm/international-scheme) - Translating the Scheme programming language to every human language.
 - [metabash](https://github.com/artyom-poptsov/metabash) - M#!  Distributed shell pipelines with GNU Guile.
 - [srfi-test](https://github.com/srfi-explorations/srfi-test) - Collecting up-to-date test suites for SRFIs
@@ -10766,7 +10767,6 @@
 - [bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.
 - [ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
-- [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [udevil](https://github.com/IgnorantGuru/udevil) - Mount without password
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
@@ -11103,7 +11103,7 @@
 - [tabToWindow](https://github.com/acarabott/tabToWindow) - Chrome extension to move the current tab to a new window using the command API
 - [njt](https://github.com/kachkaev/njt) - njt (npm jump to): a quick navigation tool for npm packages
 - [backport](https://github.com/sqren/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
-- [gauzy](https://github.com/ever-co/gauzy) - Gauzy™ - Open-Source Business Management Platform (ERP/CRM) focused on Fairness and Transparency
+- [gauzy](https://github.com/ever-co/gauzy) - Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM) focused on Fairness and Transparency
 - [linux-window-session-manager](https://github.com/johannesjo/linux-window-session-manager) - A tool to store and reload open windows and window positions for x11 desktops like unity and gnome.
 - [isolate](https://github.com/seenaburns/isolate) - Lightweight image browser
 - [fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
@@ -11231,6 +11231,7 @@
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
+- [emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with lots of features.
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
