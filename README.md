@@ -3801,6 +3801,8 @@
 
 ## Go 
 
+- [soryu](https://github.com/enjuus/soryu) - glitch an image in the terminal
+- [crowdsec](https://github.com/crowdsecurity/crowdsec) - Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.
 - [BountyIt](https://github.com/Shivangx01b/BountyIt) - A fuzzer made in golang for finding issues like xss, lfi, rce, ssti...that detects issues using change in content length and verify it using signatures
 - [gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana
 - [dewm](https://github.com/driusan/dewm) - A pure go autotiling window manager written with literate programming
@@ -5042,7 +5044,7 @@
 - [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [webcomponents.org](https://github.com/webcomponents/webcomponents.org) - Home of the web components community
 - [polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
-- [webcomponents](https://github.com/w3c/webcomponents) - Web Components specifications
+- [webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications
 - [tern-node-express](https://github.com/angelozerr/tern-node-express) - A Tern plugin adding support for express web application framework for node.
 - [singlepageappbook](https://github.com/mixu/singlepageappbook) - Content and site generator for Single page apps in depth (my book on single page applications)
 - [YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more.
@@ -5062,6 +5064,7 @@
 
 ## Haskell 
 
+- [haskell-for-imperative-programmers](https://github.com/rodrigobotti/haskell-for-imperative-programmers) - Code built from watching the "Haskell for Imperative Programmers" series of lessons on Youtube
 - [write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
 - [LambdaCalculus](https://github.com/Kwasniok/LambdaCalculus) - lambda calculus in haskell
 - [nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
@@ -5302,6 +5305,8 @@
 
 ## Java 
 
+- [custom-war-packager](https://github.com/jenkinsci/custom-war-packager) - Custom Jenkins WAR packager for Jenkins
+- [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [crewmate](https://github.com/crewmate-srv/crewmate) - An open-source implementation of the Among Us server in Java.
 - [DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
@@ -5545,6 +5550,7 @@
 
 ## JavaScript 
 
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects and FAQ for my Complete JavaScript course
 - [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [wizzy](https://github.com/grafana-wizzy/wizzy) - Manage & automate Grafana with easy wizzy
 - [drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
@@ -5878,6 +5884,7 @@
 - [youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions) - This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 - [elastalert-kibana-plugin](https://github.com/bitsensor/elastalert-kibana-plugin) - ElastAlert Kibana Plugin
 - [terminal-discord](https://github.com/xynxynxyn/terminal-discord) - NOT MAINTAINED Simple terminal client for discord with a minimal look and UI
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [hogwatch](https://github.com/akshaykmr/hogwatch) - find out what's hogging your internet connection.
@@ -6502,6 +6509,7 @@
 ## Lua 
 
 - [geopattern](https://github.com/azoyan/geopattern) - Generate beautiful SVG patterns from a string on Lua (5.1 - 5.4 and LuaJIT)
+- [ljos](https://github.com/dlannan/ljos) - A very simple linux kernel that boots into a luajit command line.
 - [lua-resty-jq](https://github.com/bungle/lua-resty-jq) - LuaJIT FFI bindings to jq
 - [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [Monstercat-Visualizer](https://github.com/marcopixel/Monstercat-Visualizer) - A real time audio visualizer for Rainmeter similar to the ones used in the Monstercat videos.
@@ -9876,6 +9884,14 @@
 
 ## Rust 
 
+- [engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds
+- [nat](https://github.com/willdoescode/nat) - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
+- [diff-grep](https://github.com/keith/diff-grep) - Filter matching hunks in diffs
+- [rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
+- [vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter built on top of visioncortex
+- [rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines
+- [anewer](https://github.com/ysf/anewer) - anewer appends lines from stdin to a file if they don't already exist in the file. This is a rust version of https://github.com/tomnomnom/anew
+- [nix-mirror](https://github.com/dnaq/nix-mirror) - A simple tool for mirroring nix binary caches
 - [xshell](https://github.com/matklad/xshell) - 
 - [rshark](https://github.com/pesos/rshark) - Simple Packet Monitoring Tool
 - [taizen](https://github.com/NerdyPepper/taizen) - curses based mediawiki browser
@@ -10675,7 +10691,7 @@
 - [passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
 - [docker-bitlbee](https://github.com/mbologna/docker-bitlbee) - Run bitlbee with TLS and custom protocols in a container
 - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
-- [slickstack](https://github.com/littlebizzy/slickstack) - SlickStack is a free LEMP stack automation script written in Bash designed to enhance and simplify FOSS CMS provisioning, performance, and security.
+- [slickstack](https://github.com/littlebizzy/slickstack) - SlickStack is a free LEMP stack automation script written in Bash designed to enhance and simplify WordPress provisioning, performance, and security.
 - [xterm-color-count](https://github.com/l0b0/xterm-color-count) - Count how many colors your XTerm actually supports
 - [docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP and Cisco IPsec
 - [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
@@ -11182,7 +11198,6 @@
 - [polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
 - [quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
