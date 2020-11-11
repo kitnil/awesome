@@ -2021,6 +2021,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-guix-packaging](https://github.com/ryanprior/emacs-guix-packaging) - Tools for writing and maintaining Guix packages
 - [atl-long-lines](https://github.com/jcs-elpa/atl-long-lines) - Turn off truncate-lines when the line is long.
 - [elisp-docstring-server.el](https://github.com/xuchunyang/elisp-docstring-server.el) - An HTTP server for Emacs Lisp Docstring
 - [org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle org-mode latex fragment previews as the cursor enters and exits them
@@ -9904,6 +9905,7 @@
 
 ## Rust 
 
+- [quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds
 - [nat](https://github.com/willdoescode/nat) - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
@@ -10160,7 +10162,7 @@
 - [cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis tools for all programming languages, config files, build tools, and more.
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [cancer](https://github.com/meh/cancer) - It's terminal.
 - [nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
@@ -10184,7 +10186,7 @@
 - [piston](https://github.com/PistonDevelopers/piston) - A modular game engine written in Rust
 - [fireplace](https://github.com/Drakulix/fireplace) - Modular wayland window manager written in rust
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [q3](https://github.com/jeaye/q3) - A Quake 3 like game with voxelized destructible maps
+- [q3](https://github.com/jeaye/q3) - A Quake 3 like game with voxelized, destructible maps; written in Rust
 
 ## SCSS 
 
