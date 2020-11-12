@@ -823,7 +823,6 @@
 - [even-better-ls](https://github.com/mnurzia/even-better-ls) - LS + Icons + Formatting
 - [tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [PuTTYTray](https://github.com/FauxFaux/PuTTYTray) - A continuation of Barry Haanstra (haanstra.eu)'s PuTTYTray
-- [dnsforwarder](https://github.com/holmium/dnsforwarder) - Just a DNS utility.
 - [passivedns](https://github.com/gamelinux/passivedns) - A network sniffer that logs all DNS server replies for use in a passive DNS setup
 - [dnspod-sr](https://github.com/DNSPod/dnspod-sr) - A faster recursive dns server from DNSPod
 - [iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
@@ -5311,6 +5310,7 @@
 
 ## Java 
 
+- [appbarlayout-spring-behavior](https://github.com/ToDou/appbarlayout-spring-behavior) - One Behavior help AppBarLayout to scroll spring
 - [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
 - [custom-war-packager](https://github.com/jenkinsci/custom-war-packager) - Custom Jenkins WAR packager for Jenkins
 - [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
@@ -5435,7 +5435,7 @@
 - [memory-game](https://github.com/sromku/memory-game) - Simple and beautiful memory game for kids
 - [PretendYoureXyzzy](https://github.com/ajanata/PretendYoureXyzzy) - A web clone of the card game Cards Against Humanity.
 - [Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
-- [BashSupport](https://github.com/BashSupport/BashSupport) - Bash and shell script language support for JetBrains IDEs
+- [BashSupport](https://github.com/BashSupport/BashSupport) - Bash and shell script language support for JetBrains IDEs. Please refer to www.bashsupport.com/news/bashsupport-pro-1.3/ for the reasons.
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [spring-shell](https://github.com/spring-projects/spring-shell) - Spring based interactive shell
 - [eclipse.jdt.ls](https://github.com/eclipse/eclipse.jdt.ls) - Java language server
@@ -6258,6 +6258,7 @@
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [cuckoo](https://github.com/cuckoosandbox/cuckoo) - Cuckoo Sandbox is an automated dynamic malware analysis system
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [disable-webrtc-firefox](https://github.com/ChrisAntaki/disable-webrtc-firefox) - :lock: WebRTC leaks your actual IP addresses from behind your VPN, by default.
 - [searchlinkfix](https://github.com/palant/searchlinkfix) - Browser extension that prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks.
 - [sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
@@ -7746,7 +7747,6 @@
 - [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [readable-licenses](https://github.com/nevir/readable-licenses) - Make your open source license text more pleasant to read.
-- [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [GitHubExtIns](https://github.com/diegocr/GitHubExtIns) - Install Browser Extensions straight from GitHub Repositories.
 - [Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - 📜 Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
 - [dotaliases](https://github.com/algotech/dotaliases) - Helpful bash aliases for true professionals.
@@ -8107,6 +8107,8 @@
 
 ## Python 
 
+- [tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
 - [homebox](https://github.com/progmaticltd/homebox) - A set of ansible scripts to build a personal mail server / private cloud / etc.
 - [yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and libray for various sites.
 - [big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
