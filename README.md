@@ -192,6 +192,7 @@
 
 ## C 
 
+- [rep](https://github.com/eraserhd/rep) - A single-shot nREPL client designed for shell invocation
 - [bim](https://github.com/klange/bim) - small terminal text editor with syntax highlighting
 - [ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
 - [xwinwrap](https://github.com/ujjwal96/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
@@ -320,7 +321,7 @@
 - [quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
 - [quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable adaptive merge sort which is faster than quicksort.
 - [DungeonRush](https://github.com/Rapiz1/DungeonRush) - 👾🐍 A opensource game inspired by Snake, written in pure C with SDL
-- [pelagia](https://github.com/surparallel/pelagia) - Automatic parallelization (lock-free multithreading thread) tool developed by Surparallel Open Source.Pelagia is embedded key value database that implements a small, fast, high-reliability on ANSI C.
+- [surparallel](https://github.com/surparallel/surparallel) - Automatic parallelization (lock-free multithreading thread) tool developed by Surparallel Open Source.Pelagia is embedded key value database that implements a small, fast, high-reliability on ANSI C.
 - [hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
 - [loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -5689,7 +5690,7 @@
 - [FunctionScript](https://github.com/FunctionScript/FunctionScript) - A language and specification for turning JavaScript functions into typed HTTP APIs
 - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - OBSOLETE - Interactively select the quality and format for youtube-dl
 - [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (October 2020)
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (November 2020)
 - [diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers
 - [Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage. Now with protected boxes.
@@ -6782,6 +6783,7 @@
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [backup-and-recovery-howtos](https://github.com/trapexit/backup-and-recovery-howtos) - Guides to setting up a media storage system, backing it up, and recovering from failures
 - [awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
+- [diskover](https://github.com/shirosaidev/diskover) - File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
 - [Must_Know_Resources](https://github.com/ACES-DYPCOE/Must_Know_Resources) - The repository contains a learning path for some domains and interesting must do things in the tech field as a college Student
 - [hardware-hacking](https://github.com/koutto/hardware-hacking) - Some stuff about Hardware Hacking
 - [browser-resources](https://github.com/azu/browser-resources) - A Collection of official Resources/Status/Issues for browsers.
@@ -8107,6 +8109,13 @@
 
 ## Python 
 
+- [ascii-webcam](https://github.com/micodeyt/ascii-webcam) - 
+- [SkyAR](https://github.com/jiupinjia/SkyAR) - Dynamic sky replacement and harmonization in videos
+- [ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner's guide to eBPF
+- [vectorhub](https://github.com/vector-ai/vectorhub) - Vector Hub - Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
+- [BrainDamage](https://github.com/weiweidaolai212/BrainDamage) - Remote administration tool which uses Telegram as a C&C server
+- [code-video-generator](https://github.com/sleuth-io/code-video-generator) - Generates code walkthrough videos using Manim
+- [APKProxyHelper](https://github.com/evilpenguin/APKProxyHelper) - Patches those pesky APKs for proxy use.
 - [tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
 - [homebox](https://github.com/progmaticltd/homebox) - A set of ansible scripts to build a personal mail server / private cloud / etc.
@@ -8122,7 +8131,6 @@
 - [org-du](https://github.com/novoid/org-du) - Visualizing Emacs Org-mode heading lines using du and xdu
 - [integratethis](https://github.com/novoid/integratethis) - Integrate programs or scripts into common tools like Windows Explorer context menu
 - [python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
-- [diskover](https://github.com/shirosaidev/diskover) - File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
 - [pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology) - Network topology collector and visualizer. Collects network topology data from dynamic mesh routing protocols or other popular networking software like OpenVPN, allows to visualize the network graph, save daily snapshots that can be viewed in the future and more.
 - [multidiff](https://github.com/juhakivekas/multidiff) - Binary data diffing for multiple objects or streams of data
@@ -8197,7 +8205,7 @@
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [FanselineVisualizer](https://github.com/FerryYoungFan/FanselineVisualizer) - Convert audio files to visualized video
 - [sudoku-solver](https://github.com/Adityaojas/sudoku-solver) - Solves sudoku in a real time webcam feed
-- [spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download Spotify playlists from YouTube with albumart and metadata
+- [spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [gitinspector](https://github.com/ejwa/gitinspector) - :bar_chart: The statistical analysis tool for git repositories
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
@@ -9717,6 +9725,7 @@
 
 ## Ruby 
 
+- [fronde](https://github.com/milouse/fronde) - A static website generator for Emacs Org mode
 - [spotifeed](https://github.com/timdorr/spotifeed) - A simple service to serve up Spotify podcasts as RSS feeds for use in any podcast app.
 - [repl](https://github.com/rubyapi/repl) - Ruby code execution as a service
 - [oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
@@ -9907,6 +9916,7 @@
 
 ## Rust 
 
+- [parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
 - [quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds
@@ -9914,7 +9924,6 @@
 - [diff-grep](https://github.com/keith/diff-grep) - Filter matching hunks in diffs
 - [rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter built on top of visioncortex
-- [rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines
 - [anewer](https://github.com/ysf/anewer) - anewer appends lines from stdin to a file if they don't already exist in the file. This is a rust version of https://github.com/tomnomnom/anew
 - [nix-mirror](https://github.com/dnaq/nix-mirror) - A simple tool for mirroring nix binary caches
 - [xshell](https://github.com/matklad/xshell) - 
@@ -10311,6 +10320,9 @@
 
 ## Shell 
 
+- [pulseaudio-virtualmic](https://github.com/MatthiasCoppens/pulseaudio-virtualmic) - Use any offline or online media file or stream as a PulseAudio source
+- [etherify](https://github.com/sq5bpf/etherify) - Etherify - bringing the ether back to ethernet
+- [winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [multigitstatus](https://github.com/joshmcgrath08/multigitstatus) - Monitor multiple Git repos in a terminal
 - [sbang](https://github.com/spack/sbang) - Run scripts with very long shebang (#!) lines
 - [Docker-Compose-Backup](https://github.com/danmed/Docker-Compose-Backup) - Create compose files from running containers
@@ -10805,7 +10817,7 @@
 - [geom](https://github.com/thi-ng/geom) - 2D/3D geometry toolkit for Clojure/Clojurescript
 - [examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [run_scaled](https://github.com/kaueraal/run_scaled) - Run an X application scaled via xpra. Useful on hidpi screens.
-- [pandorabox.io](https://github.com/pandorabox-io/pandorabox.io) - Pandorabox minetest server config
+- [pandorabox.io](https://github.com/pandorabox-io/pandorabox.io) - Pandorabox infrastructure code
 - [bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.
 - [ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
@@ -11128,7 +11140,7 @@
 ## TypeScript 
 
 - [shell](https://github.com/pop-os/shell) - Pop!_OS Shell
-- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite  vue3.0, vite, ant design vue 2.x, typescript，Efforts to update in progress...
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite  vue3.0, vite, ant-design-vue 2.x, typescript，Efforts to update in progress...
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
