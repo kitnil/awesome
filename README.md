@@ -991,7 +991,6 @@
 - [privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 - [bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
-- [EyeAuras](https://github.com/iXab3r/EyeAuras) - EyeAuras is a program which allows you to clone windows and keep them always-on-top while working with other applications
 - [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
@@ -5067,6 +5066,7 @@
 - [polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications
 - [tern-node-express](https://github.com/angelozerr/tern-node-express) - A Tern plugin adding support for express web application framework for node.
+- [fedora-ansible](https://github.com/fabaff/fedora-ansible) - Ansible playbooks for Fedora
 - [singlepageappbook](https://github.com/mixu/singlepageappbook) - Content and site generator for Single page apps in depth (my book on single page applications)
 - [YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more.
 - [git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
@@ -6487,7 +6487,7 @@
 - [StreetComplete](https://github.com/westnordost/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widgets and no ads.
 - [ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
-- [blokada](https://github.com/blokadaorg/blokada) - Free ad blocker for Android with the best open source community.
+- [blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
 - [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) - Google launcher-style implementation of switch (enable/disable) icon
 - [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 - [intellij-rainbow-fart](https://github.com/izhangzhihao/intellij-rainbow-fart) - 🌈一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。Inspired by vscode-rainbow-fart
@@ -7810,7 +7810,7 @@
 - [gits](https://github.com/Dineshs91/gits) - Get out of apocalypse
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
-- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
 - [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Development has moved to Gitlab
@@ -9053,7 +9053,7 @@
 - [notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [twitterscraper](https://github.com/taspinar/twitterscraper) - Scrape Twitter for Tweets
 - [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and ReactJS.
-- [erpnext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP
+- [erpnext](https://github.com/frappe/erpnext) - Free and Open Source Alternative to SAP
 - [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions
 - [SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
 - [cocos](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language on PC-like hardware
@@ -9237,7 +9237,6 @@
 - [pulsecaster](https://github.com/stickster/pulsecaster) - Simple PulseAudio-based tool for making podcast interviews
 - [example-python](https://github.com/codecov/example-python) - Python coverage example
 - [gramps](https://github.com/gramps-project/gramps) - Source code for Gramps Genealogical program
-- [fedora-ansible](https://github.com/fabaff/fedora-ansible) - Ansible playbooks for Fedora
 - [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of config from code.
 - [django-blog-zinnia](https://github.com/Fantomas42/django-blog-zinnia) - Simple yet powerful and really extendable application for managing a blog within your Django Web site.
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
@@ -11329,7 +11328,6 @@
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [color-links](https://github.com/therynamo/color-links) - 🔗 Help Individuals With Color Blindness See Visited Links
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
