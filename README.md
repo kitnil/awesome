@@ -325,6 +325,7 @@
 - [gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
 - [libleakmydata](https://github.com/DavidBuchanan314/libleakmydata) - A simple LD_PRELOAD library to disable SSL certificate verification. Inspired by libeatmydata.
 - [thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
+- [basque](https://github.com/ryanpcmcquen/basque) - A top-down 2d game engine, written from scratch in under 1000 lines of C. Development of the game based on this engine is streamed on Twitch: https://www.twitch.tv/ryanpcmcquen
 - [quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
 - [quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable adaptive merge sort which is faster than quicksort.
 - [DungeonRush](https://github.com/Rapiz1/DungeonRush) - 👾🐍 A opensource game inspired by Snake, written in pure C with SDL
@@ -3892,7 +3893,7 @@
 - [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [DNSGrep](https://github.com/erbbysam/DNSGrep) - Quickly Search Large DNS Datasets
 - [docker-debug](https://github.com/zeromake/docker-debug) - use new container attach on already container go on debug
-- [ytt](https://github.com/k14s/ytt) - YAML templating tool that works on YAML structure instead of text
+- [carvel-ytt](https://github.com/vmware-tanzu/carvel-ytt) - YAML templating tool that works on YAML structure instead of text
 - [redis-tui](https://github.com/mylxsw/redis-tui) - A Redis Text-based UI client in CLI
 - [run](https://github.com/TekWizely/run) - Easily manage and invoke small scripts and wrappers
 - [mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
@@ -4555,7 +4556,7 @@
 - [media-sort](https://github.com/jpillora/media-sort) - Automatically organise your movies and tv series
 - [overseer](https://github.com/jpillora/overseer) - Monitorable, gracefully restarting, self-upgrading binaries in Go (golang)
 - [cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
-- [chisel](https://github.com/jpillora/chisel) - A fast TCP tunnel over HTTP
+- [chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [go-rainbow](https://github.com/raphamorim/go-rainbow) - Golang Helper for beautiful CLI Applications
 - [conget](https://github.com/monirz/conget) - A CLI app for downloading file concurrently.
 - [cert](https://github.com/genkiroid/cert) - Cert is the Go tool to get TLS certificate information.
@@ -4960,7 +4961,6 @@
 - [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
-- [basque](https://github.com/ryanpcmcquen/basque) - A top-down 2d game engine, written from scratch in under 1000 lines of C. Development of the game based on this engine is streamed on Twitch: https://www.twitch.tv/ryanpcmcquen
 - [ansible-role-hardening](https://github.com/konstruktoid/ansible-role-hardening) - Ansible role to apply a security baseline. Systemd edition.
 - [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
@@ -4971,7 +4971,7 @@
 - [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [shell-novice](https://github.com/swcarpentry/shell-novice) - The Unix Shell
-- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
+- [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
 - [the-federation.info](https://github.com/thefederationinfo/the-federation.info) - Statistics hub for the Fediverse
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
@@ -5029,6 +5029,7 @@
 - [solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
+- [book](https://github.com/SystemsApproach/book) - Meta-data and Makefile needed to build the book. Main starting point.
 - [eyeliner](https://github.com/dustinlacewell/eyeliner) - Makeup for your mode-line
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
@@ -6630,7 +6631,6 @@
 ## M4 
 
 - [docker-xubuntu](https://github.com/hectorm/docker-xubuntu) - A Docker image with Xfce desktop environment, VirtualGL, XRDP and XRDP PulseAudio module.
-- [guile-redis](https://github.com/aconchillo/guile-redis) - Redis module for Guile
 - [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
 
 ## MATLAB 
@@ -7183,7 +7183,7 @@
 - [awesome-sites](https://github.com/Gherciu/awesome-sites) - 📑😻 A list of useful and awesome sites
 - [awesome-devops-br](https://github.com/devops-br/awesome-devops-br) - Lista de recursos (links, livros, Q&A) discutidos no canal do Telegram Devops-BR (https://t.me/devopsbr)
 - [generated-awesomeness](https://github.com/orsinium-labs/generated-awesomeness) - List of autogenerated awesome lists.
-- [Free-Computer-Science-University](https://github.com/iteachmachines/Free-Computer-Science-University) - So after watching all the resources i thaught to put all the important technical courses in one place.And help those people who wants to learn computer science.All the courses are free here.
+- [Free-Computer-Science-University](https://github.com/iteachmachines/Free-Computer-Science-University) - So after watching all the resources i thought to put all the important technical courses in one place.And help those people who wants to learn computer science.All the courses are free here.
 - [awesome-hacking-lists](https://github.com/udpsec/awesome-hacking-lists) - Project transferred to: https://github.com/taielab/awesome-hacking-lists
 - [awesome-recommender-systems](https://github.com/gaolinjie/awesome-recommender-systems) - A curated list of awesome resources about Recommender Systems.
 - [awesome-itcss](https://github.com/ahmadajmi/awesome-itcss) - 🤗  🎉  A curated list of awesome ITCSS articles, videos, and code examples
@@ -8038,7 +8038,7 @@
 - [dotdotpwn](https://github.com/wireghoul/dotdotpwn) - DotDotPwn - The Directory Traversal Fuzzer
 - [ls--](https://github.com/trapd00r/ls--) - ls on steroids
 - [convos](https://github.com/Nordaaker/convos) - Convos :busts_in_silhouette: is the simplest way to use IRC in your browser
-- [nipe](https://github.com/x86scale/nipe) - An engine to make Tor network your default gateway
+- [nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway
 - [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
 - [wat](https://github.com/pbrisbin/wat) - Show upgrades since recent -Syu
@@ -8967,7 +8967,6 @@
 - [clustershell](https://github.com/cea-hpc/clustershell) - Scalable cluster administration Python framework — Manage node sets, node groups and execute commands on cluster nodes in parallel.
 - [learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [sarviewer](https://github.com/juliojsb/sarviewer) - Generate graphs with gnuplot or matplotlib (Python) from sar data
-- [book](https://github.com/SystemsApproach/book) - Meta-data and Makefile needed to build the book. Main starting point.
 - [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [ansible-zabbix-server](https://github.com/dj-wasabi/ansible-zabbix-server) - Installing and maintaining zabbix-server for RedHat/Debian/Ubuntu.
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
@@ -10300,6 +10299,7 @@
 - [racket](https://github.com/racket/racket) - The Racket repository
 - [guildhall](https://github.com/ijp/guildhall) - package manager for guile
 - [guile-jwt](https://github.com/aconchillo/guile-jwt) - JSON Web Token module for Guile
+- [guile-redis](https://github.com/aconchillo/guile-redis) - Redis module for Guile
 - [sph-web-app](https://github.com/sph-mn/sph-web-app) - scheme web application framework
 - [guile-sparql](https://github.com/roelj/guile-sparql) - A SPARQL module for Guile Scheme.
 - [YASWEG](https://github.com/luksamuk/YASWEG) - A static website generator, written in Guile Scheme.
@@ -11184,6 +11184,7 @@
 
 ## TypeScript 
 
+- [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [Dockter](https://github.com/oslabs-beta/Dockter) - A low-overhead, open-source Docker log management tool
 - [shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite  vue3.0, vite, ant-design-vue 2.x, typescript，Efforts to update in progress...
