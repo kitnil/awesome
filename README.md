@@ -192,6 +192,7 @@
 
 ## C 
 
+- [notmuch-addrlookup-c](https://github.com/aperezdc/notmuch-addrlookup-c) - Address lookup tool for Notmuch in C using GLib and libnotmuch
 - [rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀
 - [linux-rootkits](https://github.com/R3x/linux-rootkits) - A collection of Linux kernel rootkits found across the internet taken and put together
@@ -236,7 +237,7 @@
 - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from MongoDB's GridFS
 - [bashreduce](https://github.com/erikfrey/bashreduce) - mapreduce in bash
 - [webdis](https://github.com/nicolasff/webdis) - A Redis HTTP interface with JSON output
-- [moloch](https://github.com/aol/moloch) - Moloch is an open source, large scale, full packet capturing, indexing, and database system.
+- [arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
 - [mruby](https://github.com/mruby/mruby) - Lightweight Ruby
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [kbengine](https://github.com/kbengine/kbengine) - A MMOG engine of server.
@@ -2015,7 +2016,7 @@
 - [accent](https://github.com/mirego/accent) - ▴ Open-source, self-hosted, developer-oriented translation tool
 - [analytics](https://github.com/plausible/analytics) - Simple and privacy-friendly alternative to Google Analytics
 - [papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
-- [gitgud](https://github.com/almightycouch/gitgud) - A Git source code management tool written in Elixir.
+- [gitgud](https://github.com/almightycouch/gitgud) - A Git source code management tool powered by Elixir with easy installation & high extensibility.
 - [credo](https://github.com/rrrene/credo) - A static code analysis tool for the Elixir language with a focus on code consistency and teaching.
 - [cog](https://github.com/operable/cog) - Bringing the power of the command line to chat
 - [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
@@ -3816,6 +3817,8 @@
 
 ## Go 
 
+- [dsnet](https://github.com/naggie/dsnet) - Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker.
+- [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [lazyssh](https://github.com/stephank/lazyssh) - A jump-host SSH server that starts machines on-demand
 - [grafana-export](https://github.com/Thunderbottom/grafana-export) - A small utility to download all dashboards from Grafana and backup to S3
 - [distri](https://github.com/distr1/distri) - a Linux distribution to research fast package management
@@ -6816,6 +6819,7 @@
 
 ## Others 
 
+- [project](https://github.com/servo/project) - A repo for the Servo Project
 - [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services
 - [highres-tab-line](https://github.com/casouri/highres-tab-line) - High-res tab-line icons
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
@@ -8147,6 +8151,7 @@
 
 ## Python 
 
+- [rsyncy](https://github.com/laktak/rsyncy) - A status/progress bar for rsync
 - [ascii-webcam](https://github.com/micodeyt/ascii-webcam) - 
 - [SkyAR](https://github.com/jiupinjia/SkyAR) - Dynamic sky replacement and harmonization in videos
 - [ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner's guide to eBPF
@@ -9952,6 +9957,7 @@
 
 ## Rust 
 
+- [redbpf](https://github.com/redsift/redbpf) - Rust library for building and running BPF/eBPF modules
 - [amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [emulsion](https://github.com/ArturKovacs/emulsion) - A fast and minimalistic image viewer
 - [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
@@ -10098,7 +10104,7 @@
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [vector](https://github.com/timberio/vector) - A high-performance observability data platform.
+- [vector](https://github.com/timberio/vector) - A high-performance, end-to-end observability data platform.
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -10361,6 +10367,7 @@
 
 ## Shell 
 
+- [archbox](https://github.com/lemniskett/archbox) - Creates an Arch Linux chroot enviroment with some functionalities to integrate it with your existing Linux installation.
 - [kubectl-build](https://github.com/kvaps/kubectl-build) - Build dockerfiles directly in your Kubernetes cluster.
 - [git-paging](https://github.com/hutusi/git-paging) - Treat git log as a book, exec `git next` or `git prev` to checkout the next or the previous commit.
 - [org-noweb](https://github.com/ngirard/org-noweb) - Easier Literate Programming using Org mode
