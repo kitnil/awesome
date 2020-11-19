@@ -414,7 +414,7 @@
 - [c-algorithms](https://github.com/fragglet/c-algorithms) - A library of common data structures and algorithms written in C.
 - [keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
-- [glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your storage in minutes
+- [glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 - [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
@@ -1401,7 +1401,7 @@
 - [ewig](https://github.com/arximboldi/ewig) - The eternal text editor — Didactic Ersatz Emacs to show immutable data-structures and the single-atom architecture
 - [xkeymacs](https://github.com/fujieda/xkeymacs) - 
 - [variant](https://github.com/mapbox/variant) - C++11/C++14 Variant
-- [tiled](https://github.com/bjorn/tiled) - A flexible level editor
+- [tiled](https://github.com/mapeditor/tiled) - A flexible level editor
 - [cosmos](https://github.com/OpenGenus/cosmos) - | Contribute toward Hacktoberfest and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
 - [gameplay](https://github.com/gameplay3d/gameplay) - Open-source, cross-platform, C++ game engine for creating 2D/3D games.
 - [spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine
@@ -1867,7 +1867,7 @@
 - [lisp-chat](https://github.com/ryukinix/lisp-chat) - An experimental minimal chat written in Common Lisp
 - [snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
 - [kommissar](https://github.com/olewhalehunter/kommissar) - browser automation library and tool in Common Lisp on Emacs
-- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - Be productive.
+- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the internet on your terms.
 - [breakout](https://github.com/sebity/breakout) - A Remake of the Classic Game Breakout
 - [coleslaw](https://github.com/coleslaw-org/coleslaw) - Flexible Lisp Blogware
 - [stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager
@@ -4345,7 +4345,7 @@
 - [terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [lsp](https://github.com/dborzov/lsp) - lsp is like ls command but more human-friendly
 - [jobber](https://github.com/dshearer/jobber) - An alternative to cron, with sophisticated status-reporting and error-handling
-- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem, S3, Google Cloud Storage, Azure Blob
+- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [goscheme](https://github.com/xrlin/goscheme) - Just another scheme interpreter.
 - [iris](https://github.com/islisp-dev/iris) - The interpreter of ISLisp
 - [gobasic](https://github.com/skx/gobasic) - A BASIC interpreter written in golang.
@@ -5527,7 +5527,7 @@
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [liferay-portal](https://github.com/liferay/liferay-portal) - 
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 - [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) - 🔥 A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).
@@ -9978,7 +9978,7 @@
 - [code-minimap](https://github.com/wfxr/code-minimap) - 🛰  A high performance code minimap render.
 - [neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust
 - [RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
-- [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -10462,7 +10462,7 @@
 - [audio_augment](https://github.com/zhaoyi2/audio_augment) - A tool/script for batch speech data enhancement with speed/volume/RIRS/MUSAN
 - [tofu](https://github.com/periish/tofu) - Tofu window manager for X11.
 - [LinuxPostInstalls](https://github.com/Lennoard/LinuxPostInstalls) - Linux post-install scripts
-- [bash-preprocessor](https://github.com/dodie/bash-preprocessor) - replace Bash snippets in a script file with their output
+- [bash-preprocessor](https://github.com/dodie/bash-preprocessor) - Bash Macros: replace snippets in a script file with their output
 - [minirss](https://github.com/132ikl/minirss) - A minuscule RSS notifier
 - [sticky-notes](https://github.com/tom-on-the-internet/sticky-notes) - Sticky Notes on your tiling window manager
 - [nginx-rtmp](https://github.com/theonemule/nginx-rtmp) - A containerize NGINX server with the RTMP plugin to allow live streams to multiple providers such as Twitch, Facebook, or YouTube simultaneously from a single source.
