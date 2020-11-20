@@ -110,6 +110,7 @@
   - [Solidity](#solidity)
   - [Standard ML](#standard-ml)
   - [Starlark](#starlark)
+  - [Swift](#swift)
   - [TSQL](#tsql)
   - [Tcl](#tcl)
   - [TeX](#tex)
@@ -192,6 +193,9 @@
 
 ## C 
 
+- [bgpdump](https://github.com/RIPE-NCC/bgpdump) - Utility and C Library for parsing MRT files
+- [browservm.js](https://github.com/elliott-wen/browservm.js) - An efficient X86-64 virtual machine runs in modern browsers.
+- [DOOM64-RE](https://github.com/Erick194/DOOM64-RE) - 
 - [notmuch-addrlookup-c](https://github.com/aperezdc/notmuch-addrlookup-c) - Address lookup tool for Notmuch in C using GLib and libnotmuch
 - [rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀
@@ -1588,7 +1592,6 @@
 - [EGO](https://github.com/emacs-china/EGO) - EGO is a static site generator that depends on Emacs, Git and Org-mode.
 - [devfreebooks.github.io](https://github.com/devfreebooks/devfreebooks.github.io) - A huge collection of free books for developers
 - [pelican-themes](https://github.com/getpelican/pelican-themes) - Themes for Pelican
-- [minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
 - [kactus](https://github.com/nickbalestra/kactus) - Cactus's default theme on Jekyll
 - [jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
 - [org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
@@ -2001,7 +2004,6 @@
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
-- [docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [ansible-tower](https://github.com/ybalt/ansible-tower) - Ansible Tower dockerized
 
 ## Elixir 
@@ -2032,6 +2034,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-leo](https://github.com/mtenders/emacs-leo) - Emacs interface for dict.leo.org
 - [describe-symbol](https://github.com/xuchunyang/describe-symbol) - 
 - [svg-tag-mode](https://github.com/rougier/svg-tag-mode) - A minor mode for Emacs that replace keywords with nice SVG labels
 - [delve](https://github.com/publicimageltd/delve) - Delve into your org-roam zettelkasten.
@@ -2284,7 +2287,6 @@
 - [json-process-client](https://github.com/emacsmirror/json-process-client) - Interact with a TCP process using JSON
 - [with-proxy.el](https://github.com/twlz0ne/with-proxy.el) - Evaluate expressions with proxy
 - [emacs-vdiff-magit](https://github.com/justbur/emacs-vdiff-magit) - Magit integration for vdiff
-- [elinter](https://github.com/akirak/elinter) - Nix-based CI and local testing framework for Emacs Lisp projects
 - [wakib-emacs](https://github.com/darkstego/wakib-emacs) - Emacs Starter Kit based on Wakib keybindings
 - [erc-yt](https://github.com/yhvh/erc-yt) - 
 - [emacs-mini-modeline](https://github.com/kiennq/emacs-mini-modeline) - Display emacs mode line in minibuffer
@@ -3817,6 +3819,9 @@
 
 ## Go 
 
+- [vks](https://github.com/miekg/vks) - Virtual Kubelet Provider for Systemd
+- [DevSecOps](https://github.com/hahwul/DevSecOps) - 🔱 Collection and Roadmap for everyone who wants DevSecOps.
+- [statsview](https://github.com/go-echarts/statsview) - 🚀 A real-time Golang runtime stats visualization profiler
 - [dsnet](https://github.com/naggie/dsnet) - Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker.
 - [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [lazyssh](https://github.com/stephank/lazyssh) - A jump-host SSH server that starts machines on-demand
@@ -5032,7 +5037,6 @@
 - [solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
-- [book](https://github.com/SystemsApproach/book) - Meta-data and Makefile needed to build the book. Main starting point.
 - [eyeliner](https://github.com/dustinlacewell/eyeliner) - Makeup for your mode-line
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
@@ -5577,6 +5581,7 @@
 
 ## JavaScript 
 
+- [monkeytype](https://github.com/Miodec/monkeytype) - A minimalistic typing test
 - [ttv-ublock](https://github.com/odensc/ttv-ublock) - Blocking ads on that certain streaming website
 - [vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
 - [squareup](https://github.com/manilarome/squareup) - A sleek and modern startpage
@@ -5596,7 +5601,7 @@
 - [Git-User-Switch](https://github.com/geongeorge/Git-User-Switch) - Switch git user and email at ease
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [funnel-graph-js](https://github.com/greghub/funnel-graph-js) - SVG Funnel Graph Javascript Library
-- [chaskiq](https://github.com/chaskiq/chaskiq) - The most complete open source conversational Marketing alternative to Intercom, Drift, Zendesk...
+- [chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat & Marketing platform
 - [express-rate-limit](https://github.com/nfriedly/express-rate-limit) - Basic rate-limiting middleware for express
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects and FAQ for my Complete JavaScript course
@@ -6491,7 +6496,6 @@
 - [StreetComplete](https://github.com/westnordost/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widgets and no ads.
 - [ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
-- [blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
 - [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) - Google launcher-style implementation of switch (enable/disable) icon
 - [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 - [intellij-rainbow-fart](https://github.com/izhangzhihao/intellij-rainbow-fart) - 🌈一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。Inspired by vscode-rainbow-fart
@@ -6697,6 +6701,7 @@
 
 ## Nix 
 
+- [nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS
 - [node_modules.nix](https://github.com/VanCoding/node_modules.nix) - A nix library to turn your package-lock.json into a fully populated node_modules directory
 - [nix.dev](https://github.com/nix-dot-dev/nix.dev) - An opinionated guide for developers wanting to get things done with Nix.
 - [staskell](https://github.com/jmackie/staskell) - 👷‍♀️ Nix helpers for building static Haskell executables
@@ -7967,6 +7972,7 @@
 
 ## Perl 
 
+- [draco](https://github.com/andinus/draco) - Draco is a script to convert reddit thread to Org document
 - [x11vis](https://github.com/x11vis/x11vis) - X11 visualizer
 - [Lepr](https://github.com/dnmfarrell/Lepr) - A tiny Lisp like written in Perl
 - [iomonitor](https://github.com/osresearch/iomonitor) - Trace IO calls in a process
@@ -8151,6 +8157,11 @@
 
 ## Python 
 
+- [passive-ssh](https://github.com/D4-project/passive-ssh) - A Passive SSH back-end and scanner.
+- [easyjump.tmux](https://github.com/roy2220/easyjump.tmux) - EasyMotion for Tmux
+- [namedivider-python](https://github.com/rskmoi/namedivider-python) - A tool for dividing the Japanese full name into a family name and a given name.
+- [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
+- [universal-doom](https://github.com/nneonneo/universal-doom) - A single .exe binary which runs DOOM on DOS 6, Windows 95 and Windows 10 (and probably everything in between).
 - [rsyncy](https://github.com/laktak/rsyncy) - A status/progress bar for rsync
 - [ascii-webcam](https://github.com/micodeyt/ascii-webcam) - 
 - [SkyAR](https://github.com/jiupinjia/SkyAR) - Dynamic sky replacement and harmonization in videos
@@ -8650,6 +8661,7 @@
 - [slack-cli](https://github.com/regisb/slack-cli) - Slack CLI for productive developers
 - [graphviz](https://github.com/xflr6/graphviz) - Simple Python interface for Graphviz
 - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations
+- [json-graph-specification](https://github.com/jsongraph/json-graph-specification) - A proposal for representing graph structure (nodes / edges) in JSON.
 - [py-amqp](https://github.com/celery/py-amqp) - amqplib fork
 - [cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [packer-build](https://github.com/tylert/packer-build) - Packer Automated VM Image and Vagrant Box Builds
@@ -8972,6 +8984,7 @@
 - [clustershell](https://github.com/cea-hpc/clustershell) - Scalable cluster administration Python framework — Manage node sets, node groups and execute commands on cluster nodes in parallel.
 - [learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [sarviewer](https://github.com/juliojsb/sarviewer) - Generate graphs with gnuplot or matplotlib (Python) from sar data
+- [book](https://github.com/SystemsApproach/book) - Meta-data and Makefile needed to build the book. Main starting point.
 - [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [ansible-zabbix-server](https://github.com/dj-wasabi/ansible-zabbix-server) - Installing and maintaining zabbix-server for RedHat/Debian/Ubuntu.
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
@@ -9818,7 +9831,6 @@
 - [terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
 - [json-schema](https://github.com/ruby-json-schema/json-schema) - Ruby JSON Schema Validator
 - [redmine-cli](https://github.com/diasjorge/redmine-cli) - Redmine Command Line Interface
-- [json-graph-specification](https://github.com/jsongraph/json-graph-specification) - A proposal for representing graph structure (nodes / edges) in JSON.
 - [redmine-slack](https://github.com/sciyoshi/redmine-slack) - Slack notification plugin for Redmine
 - [fake-s3](https://github.com/jubos/fake-s3) - A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies
 - [seml](https://github.com/logan-montellimard-braga/seml) - S-Expression Markup Language
@@ -10248,6 +10260,7 @@
 ## SCSS 
 
 - [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
+- [minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
 ## Sass 
@@ -10367,6 +10380,8 @@
 
 ## Shell 
 
+- [bmks](https://github.com/Retinazer/bmks) - unix bookmark management that sucks less
+- [DAC](https://github.com/baibhavanand/DAC) - DAC - Domain Availability Checker is a tool written in bash to help people find available domains from the comfort of their terminal. People can choose to pass one domain or wordlist to scan the availability from. People can also choose to store the output (List of available domains) in a different text file.
 - [archbox](https://github.com/lemniskett/archbox) - Creates an Arch Linux chroot enviroment with some functionalities to integrate it with your existing Linux installation.
 - [kubectl-build](https://github.com/kvaps/kubectl-build) - Build dockerfiles directly in your Kubernetes cluster.
 - [git-paging](https://github.com/hutusi/git-paging) - Treat git log as a book, exec `git next` or `git prev` to checkout the next or the previous commit.
@@ -10754,6 +10769,7 @@
 - [nix-venient](https://github.com/holidaycheck/nix-venient) - A collection of convenient commands for working with nix/nixpkgs
 - [postgres](https://github.com/docker-library/postgres) - Docker Official Image packaging for Postgres
 - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
+- [elinter](https://github.com/akirak/elinter) - Nix-based CI and local testing framework for Emacs Lisp projects
 - [mariadb](https://github.com/docker-library/mariadb) - Docker Official Image packaging for MariaDB
 - [docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [osht](https://github.com/coryb/osht) - Bash Testing with TAP/Junit output
@@ -11062,6 +11078,7 @@
 - [backupninja](https://github.com/lelutin/backupninja) - My sandbox on the official backupninja repository
 - [ubuntu](https://github.com/boxcutter/ubuntu) - Virtual machine templates for Ubuntu
 - [dotzsh](https://github.com/dotphiles/dotzsh) - A community driven framework for zsh
+- [docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [yasnippets-latex](https://github.com/madsdk/yasnippets-latex) - LaTeX snippets for use with the yasnippet Emacs plugin
@@ -11133,6 +11150,10 @@
 - [rules_haskell](https://github.com/tweag/rules_haskell) - Haskell rules for Bazel.
 - [livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
+
+## Swift 
+
+- [blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
 
 ## TSQL 
 
