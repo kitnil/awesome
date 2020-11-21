@@ -194,7 +194,6 @@
 ## C 
 
 - [bgpdump](https://github.com/RIPE-NCC/bgpdump) - Utility and C Library for parsing MRT files
-- [browservm.js](https://github.com/elliott-wen/browservm.js) - An efficient X86-64 virtual machine runs in modern browsers.
 - [DOOM64-RE](https://github.com/Erick194/DOOM64-RE) - 
 - [notmuch-addrlookup-c](https://github.com/aperezdc/notmuch-addrlookup-c) - Address lookup tool for Notmuch in C using GLib and libnotmuch
 - [rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
@@ -4060,7 +4059,7 @@
 - [go-sniffer](https://github.com/40t/go-sniffer) - 🔎Sniffing and parsing mysql,redis,http,mongodb etc protocol. 抓包截取项目中的数据库请求并解析成相应的语句。
 - [parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
 - [GTRS](https://github.com/mthbernardes/GTRS) - GTRS - Google Translator Reverse Shell
-- [pingtunnel](https://github.com/esrrhs/pingtunnel) - ICMP流量转发工具 ping tunnel is a tool that advertises tcp/udp/socks5 traffic as icmp traffic for forwarding.
+- [pingtunnel](https://github.com/esrrhs/pingtunnel) - ICMP流量伪装转发工具 ping tunnel is a tool that advertises tcp/udp/socks5 traffic as icmp traffic for forwarding.
 - [uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
 - [cordless](https://github.com/Bios-Marcel/cordless) - The Discord terminal client you never knew you wanted.
@@ -8164,7 +8163,7 @@
 - [universal-doom](https://github.com/nneonneo/universal-doom) - A single .exe binary which runs DOOM on DOS 6, Windows 95 and Windows 10 (and probably everything in between).
 - [rsyncy](https://github.com/laktak/rsyncy) - A status/progress bar for rsync
 - [ascii-webcam](https://github.com/micodeyt/ascii-webcam) - 
-- [SkyAR](https://github.com/jiupinjia/SkyAR) - Dynamic sky replacement and harmonization in videos
+- [SkyAR](https://github.com/jiupinjia/SkyAR) - Official Pytorch implementation of the preprint paper "Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos", in arXiv:2010.11800.
 - [ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner's guide to eBPF
 - [vectorhub](https://github.com/vector-ai/vectorhub) - Vector Hub - Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
 - [BrainDamage](https://github.com/weiweidaolai212/BrainDamage) - Remote administration tool which uses Telegram as a C&C server
