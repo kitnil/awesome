@@ -193,6 +193,8 @@
 
 ## C 
 
+- [pam-gnupg](https://github.com/cruegge/pam-gnupg) - Unlock GnuPG keys on login
+- [long-shebang](https://github.com/shlevy/long-shebang) - A tool for #! scripts with more than one argument
 - [bgpdump](https://github.com/RIPE-NCC/bgpdump) - Utility and C Library for parsing MRT files
 - [DOOM64-RE](https://github.com/Erick194/DOOM64-RE) - 
 - [notmuch-addrlookup-c](https://github.com/aperezdc/notmuch-addrlookup-c) - Address lookup tool for Notmuch in C using GLib and libnotmuch
@@ -5027,7 +5029,6 @@
 - [ansible-role-postgresql](https://github.com/geerlingguy/ansible-role-postgresql) - Ansible Role - PostgreSQL
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [EverOrg](https://github.com/aladine/EverOrg) - Evernote to Org mode migration tool
-- [phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [jsonpath-online-evaluator](https://github.com/ashphy/jsonpath-online-evaluator) - JSONPath Online Evaluator
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
@@ -7904,6 +7905,7 @@
 - [MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
 - [poweradmin](https://github.com/poweradmin/poweradmin) - A web-based control panel for PowerDNS
 - [wp2static](https://github.com/leonstafford/wp2static) - WordPress static site generator for security, performance and cost benefits
+- [phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [synknot](https://github.com/besthostingcz/synknot) - SynKnot utility for DNS and PTR synchronization with Knot DNS
 - [Chat-API](https://github.com/mgp25/Chat-API) - WhatsApp's Private API
@@ -8137,6 +8139,7 @@
 
 ## Prolog 
 
+- [the-constitution-of-japan](https://github.com/bitlaw-jp/the-constitution-of-japan) - 
 - [lisprolog](https://github.com/triska/lisprolog) - Interpreter for a simple Lisp. Written in Prolog.
 
 ## Protocol Buffer 
@@ -9968,6 +9971,10 @@
 
 ## Rust 
 
+- [jaguar](https://github.com/leozz37/jaguar) - 🐆 CLI tool for testing socket connections
+- [image-sorter](https://github.com/jgalat/image-sorter) - A terminal user interface for sorting images
+- [complexd](https://github.com/DankBSD/complexd) - A complex of daemons implementing systemd APIs required by desktop environments
+- [git-ignore](https://github.com/janniks/git-ignore) - An interactive CLI to generate .gitignore files (written in Rust)
 - [redbpf](https://github.com/redsift/redbpf) - Rust library for building and running BPF/eBPF modules
 - [amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [emulsion](https://github.com/ArturKovacs/emulsion) - A fast and minimalistic image viewer
@@ -10379,6 +10386,7 @@
 
 ## Shell 
 
+- [howtopopbuntu](https://github.com/themagicalmammal/howtopopbuntu) - Things I use on my Pop, should work for every Ubuntu Based Distro
 - [bmks](https://github.com/Retinazer/bmks) - unix bookmark management that sucks less
 - [DAC](https://github.com/baibhavanand/DAC) - DAC - Domain Availability Checker is a tool written in bash to help people find available domains from the comfort of their terminal. People can choose to pass one domain or wordlist to scan the availability from. People can also choose to store the output (List of available domains) in a different text file.
 - [archbox](https://github.com/lemniskett/archbox) - Creates an Arch Linux chroot enviroment with some functionalities to integrate it with your existing Linux installation.
