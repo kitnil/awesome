@@ -896,6 +896,7 @@
 - [compton](https://github.com/chjj/compton) - A compositor for X11.
 - [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program.
 - [whdd](https://github.com/whdd/whdd) - HDD diagnostic and data recovery tool for Linux
 - [physlock](https://github.com/muennich/physlock) - Lightweight linux console locking tool
@@ -1560,7 +1561,6 @@
 - [readline-cheat-sheet](https://github.com/kablamo/readline-cheat-sheet) - A mobile friendly cheat sheet for the GNU Readline library
 - [css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
 - [cpp-compilation](https://github.com/green7ea/cpp-compilation) - A short description of the C++ build process
-- [apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [equilux-firefox](https://github.com/cj-sv/equilux-firefox) - A neutral dark balanced color scheme for Firefox based on the Equilux GTK Theme.
 - [conkeror-theme-zenburn](https://github.com/ivoarch/conkeror-theme-zenburn) - Zenburn theme for conkeror
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
@@ -3823,7 +3823,7 @@
 - [vks](https://github.com/miekg/vks) - Virtual Kubelet Provider for Systemd
 - [DevSecOps](https://github.com/hahwul/DevSecOps) - 🔱 Collection and Roadmap for everyone who wants DevSecOps.
 - [statsview](https://github.com/go-echarts/statsview) - 🚀 A real-time Golang runtime stats visualization profiler
-- [dsnet](https://github.com/naggie/dsnet) - Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker.
+- [dsnet](https://github.com/naggie/dsnet) - Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [lazyssh](https://github.com/stephank/lazyssh) - A jump-host SSH server that starts machines on-demand
 - [grafana-export](https://github.com/Thunderbottom/grafana-export) - A small utility to download all dashboards from Grafana and backup to S3
@@ -6048,6 +6048,7 @@
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable documents in PDF, EPUB, or HTML format.
 - [js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
+- [apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [updatescanner](https://github.com/sneakypete81/updatescanner) - Firefox addon to monitor web pages for updates.
 - [profiler](https://github.com/firefox-devtools/profiler) - Firefox Profiler — Web app for Firefox performance analysis
 - [addons-linter](https://github.com/mozilla/addons-linter) - 🔍 Firefox Add-ons linter, written in JavaScript. 👁
@@ -6256,7 +6257,6 @@
 - [gnome-shell-extension-stealmyfocus](https://github.com/v-dimitrov/gnome-shell-extension-stealmyfocus) - Shell Extension that let window that demand attention to steal focus
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
 - [gnome-shell-extension-redshift](https://github.com/benzea/gnome-shell-extension-redshift) - DO NOT USE; GNOME NOW INCLUDES THE FEATURE ALREADY! – A redshift extension for gnome-shell – Obsolete with GNOME 3.26! Use the buildin nightlight feature instead!
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Download Youtube Subtitle (Still work in 2020!) (Work best on Chrome + Tampermonkey) **Looking for maintainer** 2020-10-7 更新：支持中英双语字幕下载，请在页面底部提供的另一个链接进行安装
@@ -6749,6 +6749,7 @@
 - [terranix](https://github.com/mrVanDalo/terranix) - terranix is a terraform.json generator with a nix-like feeling
 - [nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
+- [elinter](https://github.com/akirak/elinter) - Nix-based CI and local testing framework for Emacs Lisp projects
 - [nix-emacs-ci](https://github.com/purcell/nix-emacs-ci) - Emacs installations for continuous integration
 - [nix-docker](https://github.com/LnL7/nix-docker) - Docker images for the Nix package manager
 - [wordpress-nginx-nix](https://github.com/grafted-in/wordpress-nginx-nix) - One-stop shop for defining, testing, and deploying a WordPress CMS site using Nginx with Nix, NixOps, and NixOS
@@ -8557,7 +8558,7 @@
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Set latest wallpapers from Unsplash from the commandline
 - [hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management -- and other things too
 - [pyrocore](https://github.com/pyroscope/pyrocore) - :wrench: A collection of tools for the BitTorrent protocol and especially the rTorrent client
-- [ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from youtube in mp3 format with artist name, album name etc from itunes, gaana etc.
+- [ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
 - [honcho](https://github.com/nickstenning/honcho) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
 - [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji and character picker for rofi 😁
 - [python-emacs](https://github.com/jlumpe/python-emacs) - Python interface to GNU Emacs.
@@ -8869,7 +8870,7 @@
 - [q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
 - [click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
-- [ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [hpython](https://github.com/qfpl/hpython) - Haskell language tools for Python
 - [gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [knock](https://github.com/guelfoweb/knock) - Knock Subdomain Scan
@@ -10776,7 +10777,6 @@
 - [nix-venient](https://github.com/holidaycheck/nix-venient) - A collection of convenient commands for working with nix/nixpkgs
 - [postgres](https://github.com/docker-library/postgres) - Docker Official Image packaging for Postgres
 - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
-- [elinter](https://github.com/akirak/elinter) - Nix-based CI and local testing framework for Emacs Lisp projects
 - [mariadb](https://github.com/docker-library/mariadb) - Docker Official Image packaging for MariaDB
 - [docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [osht](https://github.com/coryb/osht) - Bash Testing with TAP/Junit output
