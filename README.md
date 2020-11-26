@@ -193,6 +193,8 @@
 
 ## C 
 
+- [xqp](https://github.com/baskerville/xqp) - X Query pointer
+- [xtitle](https://github.com/baskerville/xtitle) - Outputs X window titles
 - [libhv](https://github.com/ithewei/libhv) - Like libevent and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler api and richer protocols.
 - [pam-gnupg](https://github.com/cruegge/pam-gnupg) - Unlock GnuPG keys on login
 - [long-shebang](https://github.com/shlevy/long-shebang) - A tool for #! scripts with more than one argument
@@ -1326,7 +1328,7 @@
 - [Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a cooperative racing mod of Teeworlds
 - [citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
-- [vnote](https://github.com/vnotex/vnote) - A note-taking application that knows programmers and Markdown better.
+- [vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [House3D](https://github.com/facebookresearch/House3D) - a Realistic and Rich 3D Environment
 - [EtherealLegends](https://github.com/Soverance/EtherealLegends) - Ethereal Legends - An Indie Action RPG built with Unreal Engine 4 for Steam, PS4, and Xbox One.
 - [kNet](https://github.com/juj/kNet) - 
@@ -1707,7 +1709,7 @@
 - [adams](https://github.com/cl-adams/adams) - UNIX system administration in Common Lisp
 - [kai](https://github.com/komi1230/kai) - A high-level plotter library for Common Lisp.
 - [teddy](https://github.com/40ants/teddy) - A data framework for Common Lisp
-- [cl-covid19](https://github.com/dnaeon/cl-covid19) - Explore COVID-19 data in Common Lisp
+- [cl-covid19](https://github.com/dnaeon/cl-covid19) - Explore COVID-19 data with Common Lisp, gnuplot, SQL and Grafana
 - [cl-ledger](https://github.com/ledger/cl-ledger) - Port of the Ledger accounting system (see project "ledger") to Common Lisp
 - [hypertest](https://github.com/fouric/hypertest) - automatically run tests when redefining common lisp functions
 - [magicl](https://github.com/rigetti/magicl) - Matrix Algebra proGrams In Common Lisp.
@@ -2035,6 +2037,7 @@
 
 ## Emacs Lisp 
 
+- [elfeed-dashboard](https://github.com/Manoj321/elfeed-dashboard) - A frontend for elfeed
 - [emacs-leo](https://github.com/mtenders/emacs-leo) - Emacs interface for dict.leo.org
 - [describe-symbol](https://github.com/xuchunyang/describe-symbol) - 
 - [svg-tag-mode](https://github.com/rougier/svg-tag-mode) - A minor mode for Emacs that replace keywords with nice SVG labels
@@ -3908,7 +3911,7 @@
 - [mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
 - [webfs](https://github.com/brendoncarroll/webfs) - A Filesystem Built On Top of the Web.
-- [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
+- [buf](https://github.com/bufbuild/buf) - 
 - [jaeles](https://github.com/jaeles-project/jaeles) - The Swiss Army knife for automated Web Application Testing
 - [hakrevdns](https://github.com/hakluke/hakrevdns) - Small, fast tool for performing reverse DNS lookups en masse.
 - [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
@@ -5994,6 +5997,7 @@
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [snowpack](https://github.com/snowpackjs/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [llthw](https://github.com/LispTO/llthw) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -11332,7 +11336,6 @@
 - [graphql-cli](https://github.com/Urigo/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
 - [cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - An Electron based Mastodon and Pleroma client for Windows, Mac and Linux
-- [snowpack](https://github.com/snowpackjs/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
 - [docker-cloudflare](https://github.com/joshuaavalon/docker-cloudflare) - Cloudflare DDNS minimal docker.
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
