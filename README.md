@@ -193,6 +193,7 @@
 
 ## C 
 
+- [emacs-webkit](https://github.com/akirakyle/emacs-webkit) - An Emacs Dynamic Module for WebKit, aka a fully fledged browser inside emacs
 - [xqp](https://github.com/baskerville/xqp) - X Query pointer
 - [xtitle](https://github.com/baskerville/xtitle) - Outputs X window titles
 - [libhv](https://github.com/ithewei/libhv) - Like libevent and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler api and richer protocols.
@@ -867,7 +868,7 @@
 - [Corange](https://github.com/orangeduck/Corange) - Pure C Game Engine
 - [libglvnd](https://github.com/NVIDIA/libglvnd) - The GL Vendor-Neutral Dispatch library
 - [UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
-- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
+- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
 - [GNUSim8085](https://github.com/GNUSim8085/GNUSim8085) - A graphical simulator, assembler and debugger for the Intel 8085 microprocessor
 - [pigeonhole](https://github.com/dovecot/pigeonhole) - Pigeonhole project: Sieve support for Dovecot.
@@ -1023,6 +1024,8 @@
 
 ## C++ 
 
+- [kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
+- [2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
 - [solidity](https://github.com/ethereum/solidity) - Solidity, the Contract-Oriented Programming Language
 - [clip](https://github.com/dacap/clip) - Cross-platform C++ library to copy/paste clipboard content
 - [ksnip](https://github.com/ksnip/ksnip) - Ksnip is a Qt based cross-platform screenshot tool that provides many annotation features for your screenshots.
@@ -1284,7 +1287,7 @@
 - [pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 - [nitrogen](https://github.com/l3ib/nitrogen) - Background browser and setter for X windows.
 - [xkblayout-state](https://github.com/nonpop/xkblayout-state) - A small command-line program to get/set the current keyboard layout.
-- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
 - [atomspace](https://github.com/opencog/atomspace) - The OpenCog (hyper-)graph database and graph rewriting system
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -1613,6 +1616,8 @@
 
 ## Clojure 
 
+- [postal](https://github.com/drewr/postal) - Clojure email support
+- [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) - simple asynchronous Ajax client for ClojureScript and Clojure
 - [orchard](https://github.com/clojure-emacs/orchard) - A fertile ground for Clojure tooling
 - [puget](https://github.com/greglook/puget) - Canonical Colorizing Clojure Printer
 - [clj-yaml](https://github.com/clj-commons/clj-yaml) - YAML encoding and decoding for Clojure
@@ -2037,6 +2042,10 @@
 
 ## Emacs Lisp 
 
+- [ll-debug](https://github.com/replrep/ll-debug) - Low level printf debugging for emacs
+- [haskell-auto-reload-mode](https://github.com/kcsongor/haskell-auto-reload-mode) - Emacs minor mode to automatically reload interactive haskell sessions
+- [org-timed-alerts](https://github.com/legalnonsense/org-timed-alerts) - Orgmode notification warnings of upcoming events
+- [ftable](https://github.com/casouri/ftable) - Fill (auto-layout) tables
 - [elfeed-dashboard](https://github.com/Manoj321/elfeed-dashboard) - A frontend for elfeed
 - [emacs-leo](https://github.com/mtenders/emacs-leo) - Emacs interface for dict.leo.org
 - [describe-symbol](https://github.com/xuchunyang/describe-symbol) - 
@@ -3823,6 +3832,10 @@
 
 ## Go 
 
+- [httpcode](https://github.com/thealamu/httpcode) - Get info about http status codes right at your terminal
+- [box](https://github.com/prologic/box) - 📦 A command-line utility (non-daemon) for creating Linux containers, sandboxing a processes written in Go.
+- [smithy](https://github.com/honza/smithy) - A tiny git forge written in Go
+- [urlhunter](https://github.com/utkusen/urlhunter) - a recon tool that allows searching on URLs that are exposed via shortener services
 - [vks](https://github.com/miekg/vks) - Virtual Kubelet Provider for Systemd
 - [DevSecOps](https://github.com/hahwul/DevSecOps) - 🔱 Collection and Roadmap for everyone who wants DevSecOps.
 - [statsview](https://github.com/go-echarts/statsview) - 🚀 A real-time Golang runtime stats visualization profiler
@@ -5097,6 +5110,7 @@
 
 ## Haskell 
 
+- [mongodb](https://github.com/mongodb-haskell/mongodb) - MongoDB driver for Haskell
 - [haskell-for-imperative-programmers](https://github.com/rodrigobotti/haskell-for-imperative-programmers) - Code built from watching the "Haskell for Imperative Programmers" series of lessons on Youtube
 - [write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
 - [LambdaCalculus](https://github.com/Kwasniok/LambdaCalculus) - lambda calculus in haskell
@@ -5338,6 +5352,7 @@
 
 ## Java 
 
+- [umlet](https://github.com/umlet/umlet) - Free UML Tool for Fast UML Diagrams
 - [appbarlayout-spring-behavior](https://github.com/ToDou/appbarlayout-spring-behavior) - One Behavior help AppBarLayout to scroll spring
 - [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
 - [custom-war-packager](https://github.com/jenkinsci/custom-war-packager) - Custom Jenkins WAR packager for Jenkins
@@ -6543,7 +6558,6 @@
 - [awesome-conferences-database](https://github.com/matteocrippa/awesome-conferences-database) - 📲 A collaborative list of Conferences
 - [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - A lightweight Android browser with modern navigation
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
-- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [telegram_backup](https://github.com/fabianonline/telegram_backup) - Java app to download all your telegram data.
 - [orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [OpenLinkWith](https://github.com/tasomaniac/OpenLinkWith) - Open the current webpage you have in another app. Magic! 🔮
@@ -7750,6 +7764,7 @@
 - [awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [pydoc](https://github.com/statmobile/pydoc) - Emacs mode for navigating Python documentation through pydoc.
 - [rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
+- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [docker-and-containers-ebooks](https://github.com/thenewstack/docker-and-containers-ebooks) - A series of ebooks on Docker and the container ecosystem.
 - [swcarpentry](https://github.com/swcarpentry/swcarpentry) - A meta-repository to help navigate the many lessons and repos of the Software Carpentry Community
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
@@ -8163,6 +8178,8 @@
 
 ## Python 
 
+- [pwk](https://github.com/umlet/pwk) - Python With Kurly braces
+- [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
 - [passive-ssh](https://github.com/D4-project/passive-ssh) - A Passive SSH back-end and scanner.
 - [easyjump.tmux](https://github.com/roy2220/easyjump.tmux) - EasyMotion for Tmux
 - [namedivider-python](https://github.com/rskmoi/namedivider-python) - A tool for dividing the Japanese full name into a family name and a given name.
@@ -8179,7 +8196,7 @@
 - [tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
 - [homebox](https://github.com/progmaticltd/homebox) - A set of ansible scripts to build a personal mail server / private cloud / etc.
-- [yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and libray for various sites.
+- [yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
 - [big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
 - [autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts)
@@ -9976,6 +9993,8 @@
 
 ## Rust 
 
+- [s3ar](https://github.com/cookpad/s3ar) - A massively fast S3 downloader/uploader
+- [deploy-rs](https://github.com/serokell/deploy-rs) - A Simple multi-profile Nix-flake deploy tool.
 - [jaguar](https://github.com/leozz37/jaguar) - 🐆 CLI tool for testing socket connections
 - [image-sorter](https://github.com/jgalat/image-sorter) - A terminal user interface for sorting images
 - [complexd](https://github.com/DankBSD/complexd) - A complex of daemons implementing systemd APIs required by desktop environments
@@ -10308,6 +10327,7 @@
 
 ## Scheme 
 
+- [bibliography](https://github.com/schemedoc/bibliography) - Bibliography of Scheme research (readscheme.org and beyond)
 - [guix-science](https://github.com/guix-science/guix-science) - Free scientific packages for GNU guix that cannot be upstreamed.
 - [international-scheme](https://github.com/metaphorm/international-scheme) - Translating the Scheme programming language to every human language.
 - [metabash](https://github.com/artyom-poptsov/metabash) - M#!  Distributed shell pipelines with GNU Guile.
@@ -10392,6 +10412,7 @@
 
 ## Shell 
 
+- [byp4xx](https://github.com/lobuhi/byp4xx) - Simple bash script to bypass "403 Forbidden" messages with well-known methods discussed in #bugbountytips
 - [howtopopbuntu](https://github.com/themagicalmammal/howtopopbuntu) - Things I use on my Pop, should work for every Ubuntu Based Distro.
 - [bmks](https://github.com/Retinazer/bmks) - unix bookmark management that sucks less
 - [DAC](https://github.com/baibhavanand/DAC) - DAC - Domain Availability Checker is a tool written in bash to help people find available domains from the comfort of their terminal. People can choose to pass one domain or wordlist to scan the availability from. People can also choose to store the output (List of available domains) in a different text file.
