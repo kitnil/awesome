@@ -193,6 +193,7 @@
 
 ## C 
 
+- [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [emacs-webkit](https://github.com/akirakyle/emacs-webkit) - An Emacs Dynamic Module for WebKit, aka a fully fledged browser inside emacs
 - [xqp](https://github.com/baskerville/xqp) - X Query pointer
 - [xtitle](https://github.com/baskerville/xtitle) - Outputs X window titles
@@ -1024,6 +1025,7 @@
 
 ## C++ 
 
+- [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
 - [2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
 - [solidity](https://github.com/ethereum/solidity) - Solidity, the Contract-Oriented Programming Language
@@ -1699,6 +1701,9 @@
 
 ## Common Lisp 
 
+- [lw-multiplication](https://github.com/40ants/lw-multiplication) - A math game for children to help them learning multiplication
+- [monads](https://github.com/Virtual-Insurance-Products/monads) - 
+- [web-monad](https://github.com/Virtual-Insurance-Products/web-monad) - 
 - [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io Common Lisp client
 - [format-colors](https://github.com/vindarel/format-colors) - (format t "~/blue/ :)" "Hello")
 - [invidious-handler](https://github.com/kssytsrk/invidious-handler) - invidious-handler, a redirector from Youtube to Invidious for Nyxt browser
@@ -3832,6 +3837,8 @@
 
 ## Go 
 
+- [gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
+- [watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [httpcode](https://github.com/thealamu/httpcode) - Get info about http status codes right at your terminal
 - [box](https://github.com/prologic/box) - 📦 A command-line utility (non-daemon) for creating Linux containers, sandboxing a processes written in Go.
 - [smithy](https://github.com/honza/smithy) - A tiny git forge written in Go
@@ -3860,7 +3867,7 @@
 - [git-ci](https://github.com/moul/git-ci) - git subcommand to interract with CI/CD from command line
 - [kubecolor](https://github.com/dty1er/kubecolor) - colorizes kubectl output
 - [shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
-- [arkade](https://github.com/alexellis/arkade) - Your one-stop CLI for Kubernetes
+- [arkade](https://github.com/alexellis/arkade) - Portable DevOps Marketplace
 - [goreman](https://github.com/mattn/goreman) - foreman clone written in go language
 - [devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
@@ -5600,6 +5607,7 @@
 
 ## JavaScript 
 
+- [sentinl](https://github.com/lmangani/sentinl) - Kibana Alert & Report App for Elasticsearch
 - [monkeytype](https://github.com/Miodec/monkeytype) - A minimalistic typing test
 - [ttv-ublock](https://github.com/odensc/ttv-ublock) - Blocking ads on that certain streaming website
 - [vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
@@ -6492,6 +6500,7 @@
 
 ## Kotlin 
 
+- [VancedManager](https://github.com/YTVanced/VancedManager) - Vanced Installer
 - [animeta](https://github.com/dittos/animeta) - Manage your anime watch history.
 - [archwiki-viewer](https://github.com/kevinhinterlong/archwiki-viewer) - A simple Android specific viewer for the Arch Linux Wiki.
 - [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Most popular open source Android Alarm Clock App
@@ -6788,6 +6797,8 @@
 
 ## OCaml 
 
+- [ocamqping](https://github.com/argent-smith/ocamqping) - Minimalistic AMQP pinger written in OCaml
+- [pp_html](https://github.com/lemaetech/pp_html) - [Unreleased] Ocaml library to pretty print/format HTML5.
 - [sexp_diff](https://github.com/janestreet/sexp_diff) - Code for computing the diff of two sexps
 - [ocaml-by-example](https://github.com/rizo/ocaml-by-example) - Code examples for OCaml.
 - [ppx_sexp_conv](https://github.com/janestreet/ppx_sexp_conv) - Generation of S-expression conversion functions from type definitions
@@ -8178,6 +8189,7 @@
 
 ## Python 
 
+- [therepl](https://github.com/40ants/therepl) - An extension for IPython to switch between modules and evaluate the code from Emacs like we do in Common Lisp.
 - [pwk](https://github.com/umlet/pwk) - Python With Kurly braces
 - [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
 - [passive-ssh](https://github.com/D4-project/passive-ssh) - A Passive SSH back-end and scanner.
@@ -9736,6 +9748,8 @@
 
 ## Racket 
 
+- [racket-graphviz](https://github.com/pykello/racket-graphviz) - Library to enable using graphviz in Racket programs
+- [r-cade](https://github.com/massung/r-cade) - Retro Game Engine for Racket
 - [sxml](https://github.com/jbclements/sxml) - Oleg Kiselyov's sxml/ssax/sxpath/sxslt libraries (racket-specific)
 - [sexp-diff](https://github.com/stamourv/sexp-diff) - S-expression-aware diffing tool based on Levenshtein-like tree edit distance.
 - [sirmail](https://github.com/mflatt/sirmail) - an IMAP mail client implemented in Racket
@@ -9994,7 +10008,7 @@
 ## Rust 
 
 - [s3ar](https://github.com/cookpad/s3ar) - A massively fast S3 downloader/uploader
-- [deploy-rs](https://github.com/serokell/deploy-rs) - A Simple multi-profile Nix-flake deploy tool.
+- [deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [jaguar](https://github.com/leozz37/jaguar) - 🐆 CLI tool for testing socket connections
 - [image-sorter](https://github.com/jgalat/image-sorter) - A terminal user interface for sorting images
 - [complexd](https://github.com/DankBSD/complexd) - A complex of daemons implementing systemd APIs required by desktop environments
@@ -10412,6 +10426,8 @@
 
 ## Shell 
 
+- [shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
+- [git-repo-watcher](https://github.com/kolbasa/git-repo-watcher) - A simple bash script to watch a git repository and pull upstream changes if needed.
 - [byp4xx](https://github.com/lobuhi/byp4xx) - Simple bash script to bypass "403 Forbidden" messages with well-known methods discussed in #bugbountytips
 - [howtopopbuntu](https://github.com/themagicalmammal/howtopopbuntu) - Things I use on my Pop, should work for every Ubuntu Based Distro.
 - [bmks](https://github.com/Retinazer/bmks) - unix bookmark management that sucks less
