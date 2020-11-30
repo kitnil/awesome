@@ -3837,6 +3837,7 @@
 
 ## Go 
 
+- [envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
 - [gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [httpcode](https://github.com/thealamu/httpcode) - Get info about http status codes right at your terminal
@@ -5607,6 +5608,7 @@
 
 ## JavaScript 
 
+- [Starhub](https://github.com/Github-Web-Apps/Starhub) - :octocat: All about your Github account, public and private activity, watch stars, followers and much more.
 - [sentinl](https://github.com/lmangani/sentinl) - Kibana Alert & Report App for Elasticsearch
 - [monkeytype](https://github.com/Miodec/monkeytype) - A minimalistic typing test
 - [ttv-ublock](https://github.com/odensc/ttv-ublock) - Blocking ads on that certain streaming website
@@ -10635,7 +10637,7 @@
 - [gradle-android-examples](https://github.com/bmuschko/gradle-android-examples) - Demonstrates the use of Gradle for Android projects
 - [drupal8-vagrant](https://github.com/thom8/drupal8-vagrant) - Simple Drupal 8 Development Environment
 - [vagrant-docker-swarm](https://github.com/tdi/vagrant-docker-swarm) - Vagrant playground for Docker Swarm
-- [my-cheat-sheets](https://github.com/JeffDeCola/my-cheat-sheets) - A place to keep all my cheat sheets on everything you need for the complete development of ASIC hardware or a software App/Service.
+- [my-cheat-sheets](https://github.com/JeffDeCola/my-cheat-sheets) - A place to keep all my cheat sheets for the complete development of ASIC/FPGA hardware or a software app/service.
 - [hands-on-DevOps](https://github.com/nemonik/hands-on-DevOps) - A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Packer, Vagrant, VirtualBox, Ansible, Kubernetes, K3s, MetalLB, Traefik, Docker-Compose, Docker, Taiga, GitLab, Drone CI, SonarQube, Selenium, InSpec, Alpine 3.10, Ubuntu-bionic, CentOS 7...
 - [gitlab-ci-stack](https://github.com/jonashackt/gitlab-ci-stack) - Full CI pipeline project based on Gitlab & Gitlab CI running Docker, completely automated setup by Vagrant & Ansible, providing Let´s Encrypt certificates for private Servers, multiple Gitlab-Runners and the Gitlab Container Registry, incl. GitLab Pages
 - [vagrant-elastic-stack](https://github.com/xeraa/vagrant-elastic-stack) - Giving the Elastic Stack a try in Vagrant
