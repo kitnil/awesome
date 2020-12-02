@@ -2217,7 +2217,6 @@
 - [share2computer](https://github.com/tumashu/share2computer) - 
 - [seml-mode.el](https://github.com/conao3/seml-mode.el) - Major mode for editing SEML (S-Expression Markup Language) files
 - [ppp.el](https://github.com/conao3/ppp.el) - Extended pretty printer for Emacs Lisp
-- [vcard](https://github.com/emacsmirror/vcard) - Utilities for working with vCard files
 - [emacsit](https://github.com/SidharthArya/emacsit) - A Toy Package Manager for Emacs.
 - [metapost-png-preview](https://github.com/johanvts/metapost-png-preview) - png-based preview of metapost in emacs.
 - [command-center](https://github.com/lukaszkorecki/command-center) - ~/.emacs.d & ~/.bashrc & more
@@ -2446,7 +2445,6 @@
 - [tramp-term.el](https://github.com/randymorris/tramp-term.el) - Provides a quick way to create an ansi-term containing an ssh session with remote directory tracking already configured.
 - [wand](https://github.com/cmpitg/wand) - Execute actions based on text patterns, for Emacs
 - [emacs-whois](https://github.com/lassik/emacs-whois) - Extends the whois functionality of Emacs
-- [advice-patch](https://github.com/emacsmirror/advice-patch) - Use patches to advise the inside of functions
 - [rotate-text.el](https://github.com/nschum/rotate-text.el) - Emacs: cycle through words, symbols and patterns
 - [eshell-toggle](https://github.com/4DA/eshell-toggle) - Show/hide eshell at the bottom of active window with directory of its buffer
 - [ros](https://github.com/LionyxML/ros) - screenshot / copy & paste tool for org-mode files
@@ -4354,7 +4352,7 @@
 - [terraform-provider-mysql](https://github.com/terraform-providers/terraform-provider-mysql) - Terraform MySQL provider
 - [terraform-provider-openapi](https://github.com/dikhan/terraform-provider-openapi) - OpenAPI Terraform Provider that configures itself at runtime with the resources exposed by the service provider (defined in a swagger file)
 - [terraform-provider-gitlab](https://github.com/gitlabhq/terraform-provider-gitlab) - Terraform GitLab provider
-- [terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) - Terraform Docker provider
+- [terraform-provider-docker](https://github.com/hashicorp/terraform-provider-docker) - Terraform Docker provider
 - [terraform-provider-googlecalendar](https://github.com/sethvargo/terraform-provider-googlecalendar) - A @HashiCorp Terraform provider for managing Google Calendar events.
 - [terraform-provider-kafka](https://github.com/Mongey/terraform-provider-kafka) - Terraform provider for managing Apache Kafka Topics + ACLs
 - [terraform-provider-lxd](https://github.com/sl1pm4t/terraform-provider-lxd) - LXD Resource provider for Terraform
@@ -4785,7 +4783,7 @@
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
 - [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-- [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
+- [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
@@ -6145,6 +6143,7 @@
 - [engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
 - [awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
 - [awesome-spinners](https://github.com/yangshun/awesome-spinners) - 💫 A curated collection of dazzling web spinners
+- [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [Awesome-Unicode](https://github.com/Wisdom/Awesome-Unicode) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
 - [fmt-obj](https://github.com/queckezz/fmt-obj) - Stringifies any javascript object in your console for CLI inspection  :sparkles:
 - [machine-learning-surveys](https://github.com/metrofun/machine-learning-surveys) - A curated list of Machine Learning Surveys, Tutorials and Books.
@@ -6584,7 +6583,6 @@
 - [docs.influxdata.com-ARCHIVE](https://github.com/influxdata/docs.influxdata.com-ARCHIVE) - ARCHIVE - 1.x docs for InfluxData
 - [nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com) - haxeflixel.com docpad source
-- [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 
 ## LiveScript 
 
@@ -7326,6 +7324,7 @@
 - [learning-oop-in-php](https://github.com/marcelgsantos/learning-oop-in-php) - A collection of resources to learn object-oriented programming and related concepts for PHP developers.
 - [awesome-bots](https://github.com/invocable/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
+- [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
 - [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
@@ -8523,7 +8522,6 @@
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
 - [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) - Anomaly detection related books, papers, videos, and toolboxes
-- [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - 
 - [h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
