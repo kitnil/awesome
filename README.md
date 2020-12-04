@@ -5467,7 +5467,6 @@
 - [ssh-slaves-plugin](https://github.com/jenkinsci/ssh-slaves-plugin) - SSH Build Agents Plugin for Jenkins
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [loyalty-card-locker](https://github.com/brarcher/loyalty-card-locker) - Stores your barcode-based store/loyalty cards on your phone
-- [SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
 - [phpinspectionsea](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP (a PhpStorm/Idea Plugin)
 - [spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 - [pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
@@ -6275,6 +6274,7 @@
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [gnome-shell-extension-sensors](https://github.com/xtranophilist/gnome-shell-extension-sensors) - Gnome shell extension: Shows CPU temperature, HDD temperature, voltage and fan RPM
 - [gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon) - Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
+- [movim](https://github.com/movim/movim) - Movim - Decentralized social platform
 - [startbootstrap-agency](https://github.com/StartBootstrap/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
 - [bitcannon](https://github.com/stephen304/bitcannon) - A torrent index archiving, browsing, and backup tool
 - [TrackMeNot](https://github.com/vtoubiana/TrackMeNot) - An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile(s) and registers your discontent with surreptitious tracking.
@@ -6389,7 +6389,7 @@
 - [chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
-- [chrome-app-samples](https://github.com/GoogleChrome/chrome-app-samples) - Chrome Apps
+- [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON/JSONP easy to read.
 - [chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) parameters, and various other click tracking tokens, from URL query strings
 - [chrome-link-copy](https://github.com/ma08/chrome-link-copy) - 
@@ -6727,6 +6727,7 @@
 
 ## Nix 
 
+- [flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
 - [nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS
 - [node_modules.nix](https://github.com/VanCoding/node_modules.nix) - A nix library to turn your package-lock.json into a fully populated node_modules directory
 - [nix.dev](https://github.com/nix-dot-dev/nix.dev) - An opinionated guide for developers wanting to get things done with Nix.
@@ -7974,7 +7975,6 @@
 - [Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 - [gallery3](https://github.com/gallery/gallery3) - The simplest, most intuitive way to host your photos on your website.
 - [PhotoShow](https://github.com/thibaud-rohmer/PhotoShow) - A free web gallery in PHP with drag-n-drop support
-- [movim](https://github.com/movim/movim) - Movim - Decentralized social platform
 - [YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Your Own URL Shortener
 - [dockerised-php](https://github.com/mikechernev/dockerised-php) - Docker setup for PHP applications using PHP7-FPM and Nginx
 - [addonconverter](https://github.com/lemon-juice/addonconverter) - Add-on converter converts Firefox and Thunderbird extensions to work in SeaMonkey
@@ -10430,6 +10430,8 @@
 
 ## Shell 
 
+- [shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify
+- [TabNine](https://github.com/codota/TabNine) - AI Smart Compose for Your Code
 - [shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
 - [git-repo-watcher](https://github.com/kolbasa/git-repo-watcher) - A simple bash script to watch a git repository and pull upstream changes if needed.
 - [byp4xx](https://github.com/lobuhi/byp4xx) - Simple bash script to bypass "403 Forbidden" messages with well-known methods discussed in #bugbountytips
@@ -11340,6 +11342,7 @@
 - [firefox-container-proxy](https://github.com/bekh6ex/firefox-container-proxy) - [Firefox extension] Assign a proxy to a Firefox container
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [forget-me-not](https://github.com/Lusito/forget-me-not) - Make the browser forget website data, except for the data you want to keep.
+- [SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
 - [codelyzer](https://github.com/mgechev/codelyzer) - Static analysis for Angular projects.
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
