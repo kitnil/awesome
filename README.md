@@ -3837,6 +3837,7 @@
 
 ## Go 
 
+- [autopatchelf](https://github.com/fzakaria/autopatchelf) - 
 - [envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
 - [gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
@@ -5760,7 +5761,7 @@
 - [FunctionScript](https://github.com/FunctionScript/FunctionScript) - A language and specification for turning JavaScript functions into typed HTTP APIs
 - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - OBSOLETE - Interactively select the quality and format for youtube-dl
 - [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (November 2020)
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2020)
 - [diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers
 - [Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage. Now with protected boxes.
@@ -8005,6 +8006,7 @@
 
 ## Perl 
 
+- [git-branchdates](https://github.com/rolandwalker/git-branchdates) - Highly configurable git branch lister with TrueColor and GitHub PR support
 - [draco](https://github.com/andinus/draco) - Draco is a script to convert reddit thread to Org document
 - [x11vis](https://github.com/x11vis/x11vis) - X11 visualizer
 - [Lepr](https://github.com/dnmfarrell/Lepr) - A tiny Lisp like written in Perl
@@ -8191,6 +8193,7 @@
 
 ## Python 
 
+- [writehat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python.  Free yourself from Microsoft Word.
 - [therepl](https://github.com/40ants/therepl) - An extension for IPython to switch between modules and evaluate the code from Emacs like we do in Common Lisp.
 - [pwk](https://github.com/umlet/pwk) - Python With Kurly braces
 - [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
@@ -8476,7 +8479,7 @@
 - [PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies) - a simple PlantsVsZombies game
 - [gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
 - [DeepPrivacy](https://github.com/hukkelas/DeepPrivacy) - DeepPrivacy: A Generative Adversarial Network for Face Anonymization
-- [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
+- [bake](https://github.com/kennethreitz42/bake) - Bake — the strangely familiar workflow utility.
 - [ru_transformers](https://github.com/mgrankin/ru_transformers) - 
 - [fav-up](https://github.com/pielco11/fav-up) - IP lookup by favicon using Shodan
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
@@ -9045,7 +9048,7 @@
 - [faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
 - [urlscan](https://github.com/firecat53/urlscan) - Mutt and terminal url selector (similar to urlview)
-- [lutris](https://github.com/lutris/lutris) - Lutris client - Open Source gaming platform for GNU/Linux
+- [lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
@@ -10345,6 +10348,7 @@
 
 ## Scheme 
 
+- [scm-bot](https://github.com/NERD-ALMATY/scm-bot) - Telegram bot with Scheme interpreter
 - [bibliography](https://github.com/schemedoc/bibliography) - Bibliography of Scheme research (readscheme.org and beyond)
 - [guix-science](https://github.com/guix-science/guix-science) - Free scientific packages for GNU guix that cannot be upstreamed.
 - [international-scheme](https://github.com/metaphorm/international-scheme) - Translating the Scheme programming language to every human language.
@@ -10430,6 +10434,8 @@
 
 ## Shell 
 
+- [dockerfile-shebang](https://github.com/JakeWharton/dockerfile-shebang) - Treat your Dockerfiles as self-contained, editable scripts
+- [bashCatWithKitten](https://github.com/GuidoFe/bashCatWithKitten) - The classic cat command but with a cat
 - [shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify
 - [TabNine](https://github.com/codota/TabNine) - AI Smart Compose for Your Code
 - [shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
@@ -10456,7 +10462,7 @@
 - [logstash-test-runner](https://github.com/agolo/logstash-test-runner) - Logstash configuration testing framework
 - [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak, and DevOps tools built various distros: Alpine, CentOS, Debian, Fedora, Ubuntu
 - [vtoyboot](https://github.com/ventoy/vtoyboot) - Work with ventoy to support boot Linux distros in a vdisk file (vhd/vdi/raw ...)
-- [Host-enumeration](https://github.com/IvanGlinkin/Host-enumeration) - 
+- [Host-enumeration](https://github.com/IvanGlinkin/Host-enumeration) - Have you ever faced with the lack of possibility of using NMap? For instance if you have reverse shell as an unprivileged user and there are no useful tools preinstalled? This is a small script which will help you to scan a network for live hosts and top 24 ports if you have nothing.
 - [Docker-eyeOS](https://github.com/sickcodes/Docker-eyeOS) - Run iPhone (xnu-arm64) in a Docker container! Supports KVM + iOS kernel debugging (GDB)! Run xnu-qemu-arm64 in Docker! Works on ANY device.
 - [learn_ruby_oneliners](https://github.com/learnbyexample/learn_ruby_oneliners) - Example based guide for text processing with ruby from the command line
 - [awesome-llvm](https://github.com/HongxuChen/awesome-llvm) - A curated list of awesome LLVM related docs, tools, and other resources.
@@ -11323,7 +11329,7 @@
 - [pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
 - [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [qawolf](https://github.com/qawolf/qawolf) - 🐺Create browser tests 10x faster
-- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers. (Demo only)
+- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [apk-mitm](https://github.com/shroudedcode/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
 - [hex-engine](https://github.com/suchipi/hex-engine) - A modern 2D game engine for the browser.
@@ -11513,6 +11519,7 @@
 
 ## Vue 
 
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
 - [vue-stroll](https://github.com/xiaoluoboding/vue-stroll) - 📜 Vue.js + Stroll.js. Awesome CSS list scroll effects for Vue2.x.
 - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - 🏄🏼  A SmoothPicker for Vue 2 (like native datetime picker of iOS)
 - [emoji](https://github.com/Wscats/emoji) - ⭕〽️❗Awesome Omi 创意坊 - 如果你愿意，我希望未来是你和Omi~
