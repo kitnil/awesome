@@ -1026,6 +1026,10 @@
 
 ## C++ 
 
+- [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+- [obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - Bring your stream to life with modern effects! Blur, 3D Transformation, advanced Color Grading, and more - all for free.
 - [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
 - [2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
@@ -1534,6 +1538,7 @@
 
 ## CSS 
 
+- [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [lib4dev](https://github.com/amitmishrg/lib4dev) - Find awesome libraries and make your development fast.
 - [gitark](https://github.com/imfunniee/gitark) - :octocat: Dark theme for Github
@@ -5023,7 +5028,7 @@
 - [favioli](https://github.com/ivebencrazy/favioli) - Emoji Favicons for the web. 👊🤯
 - [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
-- [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - Curated list of Unix binaries that can be exploited to bypass system security restrictions
+- [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems
 - [list-packages](https://github.com/xuchunyang/list-packages) - 
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
@@ -5362,6 +5367,7 @@
 
 ## Java 
 
+- [Recyclerview-Gallery](https://github.com/ryanlijianchang/Recyclerview-Gallery) - Recyclerview-Gallery：This library shows you a gallery using RecyclerView.
 - [umlet](https://github.com/umlet/umlet) - Free UML Tool for Fast UML Diagrams
 - [appbarlayout-spring-behavior](https://github.com/ToDou/appbarlayout-spring-behavior) - One Behavior help AppBarLayout to scroll spring
 - [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
@@ -5721,7 +5727,6 @@
 - [torrent-mount](https://github.com/mafintosh/torrent-mount) - Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse. AKA MAD SCIENCE!
 - [variety](https://github.com/variety/variety) - A schema analyzer for MongoDB
 - [WALC](https://github.com/cstayyab/WALC) - An unofficial WhatsApp Desktop client for linux systems.
-- [simple-mpv-webui](https://github.com/open-dynaMIX/simple-mpv-webui) - A web based user interface with controls for the mpv mediaplayer.
 - [sci-hub-now](https://github.com/0x01h/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅
 - [xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
 - [CursedChrome](https://github.com/mandatoryprogrammer/CursedChrome) - Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.
@@ -6611,6 +6616,7 @@
 - [tmux-filetree](https://github.com/PhilipRoman/tmux-filetree) - Simple, non-intrusive dynamic file tree which always tracks your active Tmux pane
 - [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [mpv-notify-send](https://github.com/emilazy/mpv-notify-send) - A Lua script for mpv to send notifications with notify-send(1).
+- [simple-mpv-webui](https://github.com/open-dynaMIX/simple-mpv-webui) - A web based user interface with controls for the mpv mediaplayer.
 - [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
 - [nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
@@ -6855,6 +6861,7 @@
 
 ## Others 
 
+- [Countries](https://github.com/Free-IPTV/Countries) - Free legally receivable IPTV channels as .m3u for Kodi. :-)
 - [project](https://github.com/servo/project) - A repo for the Servo Project
 - [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services
 - [highres-tab-line](https://github.com/casouri/highres-tab-line) - High-res tab-line icons
@@ -7315,7 +7322,7 @@
 - [books](https://github.com/learn-anything/books) - Awesome Books
 - [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
-- [awesome.fish](https://github.com/jorgebucaran/awesome.fish) - A curation of plugins, prompts, and resources for the fish shell. 🐚🍤
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of plugins, prompts, and resources for the fish shell. 🐚🍤
 - [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection
 - [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
 - [awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
@@ -8193,6 +8200,7 @@
 
 ## Python 
 
+- [pypi-seismometer](https://github.com/sethmlarson/pypi-seismometer) - Tracking the top 5,000 packages on PyPI for changes that may impact the ecosystem
 - [writehat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python.  Free yourself from Microsoft Word.
 - [therepl](https://github.com/40ants/therepl) - An extension for IPython to switch between modules and evaluate the code from Emacs like we do in Common Lisp.
 - [pwk](https://github.com/umlet/pwk) - Python With Kurly braces
@@ -10434,6 +10442,7 @@
 
 ## Shell 
 
+- [wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [dockerfile-shebang](https://github.com/JakeWharton/dockerfile-shebang) - Treat your Dockerfiles as self-contained, editable scripts
 - [bashCatWithKitten](https://github.com/GuidoFe/bashCatWithKitten) - The classic cat command but with a cat
 - [shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify
@@ -11272,6 +11281,8 @@
 
 ## TypeScript 
 
+- [porn-vault](https://github.com/porn-vault/porn-vault) - 💋 Manage your ever-growing porn collection. Using Vue & GraphQL
+- [alm](https://github.com/alm-tools/alm) - :rose: A :cloud: ready IDE just for TypeScript :heart:
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [Dockter](https://github.com/oslabs-beta/Dockter) - A low-overhead, open-source Docker log management tool
 - [shell](https://github.com/pop-os/shell) - Pop!_OS Shell
@@ -11419,7 +11430,7 @@
 - [color-links](https://github.com/therynamo/color-links) - 🔗 Help Individuals With Color Blindness See Visited Links
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with lots of features.
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -11436,6 +11447,7 @@
 
 ## Vala 
 
+- [wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound) - Wingpanel Sound Indicator
 - [connections](https://github.com/GNOME/connections) - Read-only mirror of https://gitlab.gnome.org/GNOME/connections
 - [Sherlock](https://github.com/sergius02/Sherlock) - Sherlock helps you to find information of public IP address, elementary! 🕵️
 - [timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
