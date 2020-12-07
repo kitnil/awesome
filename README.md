@@ -7182,7 +7182,7 @@
 - [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
 - [how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
-- [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+- [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！⭐++
 - [kubernetes-production-best-practices](https://github.com/learnk8s/kubernetes-production-best-practices) - A checklist of Kubernetes best practices to help you release to production
 - [awesome-webpack-perf](https://github.com/iamakulov/awesome-webpack-perf) - A curated list of webpack tools for web performance
 - [README-template.md](https://github.com/scottydocs/README-template.md) - A README template for anyone to copy and use.
@@ -7322,7 +7322,7 @@
 - [books](https://github.com/learn-anything/books) - Awesome Books
 - [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
-- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of plugins, prompts, and resources for the fish shell. 🐚🍤
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of plugins, prompts, and resources for Fish. 🐚🍤
 - [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection
 - [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
 - [awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
@@ -9130,7 +9130,7 @@
 - [awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
 - [buildinfo.debian.net](https://github.com/lamby/buildinfo.debian.net) - Proof-of-concept .buildinfo server
-- [pypi2nix](https://github.com/nix-community/pypi2nix) - Abandoned! Generate Nix expressions for Python packages [maintainer=@seppeljordan]
+- [pypi2nix](https://github.com/nix-community/pypi2nix) - Abandoned! Generate Nix expressions for Python packages
 - [webmacs](https://github.com/parkouss/webmacs) - webmacs - keyboard driven (emacs key bindings) browser, https://webmacs.readthedocs.io/en/latest/
 - [pss](https://github.com/eliben/pss) - pss is a power-tool for searching inside source code files.
 - [fofix](https://github.com/fofix/fofix) - Frets on Fire X: a fork of Frets on Fire with many added features and capabilities
@@ -9395,7 +9395,7 @@
 - [sphinx-eldomain](https://github.com/millejoh/sphinx-eldomain) - Emacs Lisp domain -- Sphinx extension for Emacs Lisp
 - [sphinx-eldomain](https://github.com/tkf/sphinx-eldomain) - Emacs Lisp domain -- Sphinx extension for Emacs Lisp
 - [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
-- [acestream-launcher](https://github.com/jonian/acestream-launcher) - AceStream Launcher allows you to open AceStream links with any Media Player
+- [acestream-launcher](https://github.com/jonian/acestream-launcher) - AceStream Launcher opens AceStream links with any Media Player
 - [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁
 - [write-ups-2014](https://github.com/ctfs/write-ups-2014) - Wiki-like CTF write-ups repository, maintained by the community. 2014
 - [pelican_youtube](https://github.com/kura/pelican_youtube) - YouTube directives for the Pelican static site generator.
