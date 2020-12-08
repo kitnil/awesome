@@ -194,6 +194,7 @@
 
 ## C 
 
+- [ebisp](https://github.com/tsoding/ebisp) - Embedded Lisp
 - [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [emacs-webkit](https://github.com/akirakyle/emacs-webkit) - An Emacs Dynamic Module for WebKit, aka a fully fledged browser inside emacs
 - [xqp](https://github.com/baskerville/xqp) - X Query pointer
@@ -1624,6 +1625,7 @@
 
 ## Clojure 
 
+- [play-cljc-examples](https://github.com/oakes/play-cljc-examples) - 
 - [postal](https://github.com/drewr/postal) - Clojure email support
 - [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) - simple asynchronous Ajax client for ClojureScript and Clojure
 - [orchard](https://github.com/clojure-emacs/orchard) - A fertile ground for Clojure tooling
@@ -2021,7 +2023,6 @@
 - [stackage](https://github.com/commercialhaskell/stackage) - "Stable Hackage": vetted consistent packages from Hackage
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [ansible-tower](https://github.com/ybalt/ansible-tower) - Ansible Tower dockerized
 
@@ -4276,7 +4277,7 @@
 - [flamingo](https://github.com/atredispartners/flamingo) - Flamingo captures credentials sprayed across the network by various IT and security products.
 - [neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
-- [ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast file and directory name linter - Bring some structure to your project directories
+- [ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project directories
 - [the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) - 
 - [simdjson-go](https://github.com/minio/simdjson-go) - Golang port of simdjson: parsing gigabytes of JSON per second
 - [shox](https://github.com/liamg/shox) - 🍫 A customisable, universally compatible terminal status bar
@@ -7457,7 +7458,7 @@
 - [hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 - [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
-- [TNFE-Weekly](https://github.com/tnfe/TNFE-Weekly) - 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
+- [TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
 - [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [kubernetes-the-easy-way](https://github.com/jamesward/kubernetes-the-easy-way) - Bootstrap Kubernetes the easy way on Google Cloud Platform. No scripts.
 - [js-dev-reads](https://github.com/twhite96/js-dev-reads) - A list of books 📚and articles 📝 for the discerning web developer to read.
@@ -8200,6 +8201,7 @@
 
 ## Python 
 
+- [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [pypi-seismometer](https://github.com/sethmlarson/pypi-seismometer) - Tracking the top 5,000 packages on PyPI for changes that may impact the ecosystem
 - [writehat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python.  Free yourself from Microsoft Word.
 - [therepl](https://github.com/40ants/therepl) - An extension for IPython to switch between modules and evaluate the code from Emacs like we do in Common Lisp.
@@ -9383,6 +9385,7 @@
 - [tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [FreeWifi](https://github.com/kylemcdonald/FreeWifi) - How to get free wifi.
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [retext](https://github.com/retext-project/retext) - ReText: Simple but powerful editor for Markdown and reStructuredText
 - [pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
@@ -10233,7 +10236,7 @@
 - [artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 - [shawna](https://github.com/rafaelffilho/shawna) - Basic kernel built in Rust to learn the language
 - [emacs-yamlmod](https://github.com/perfectayush/emacs-yamlmod) - Emacs dynamic module to parse yaml written in Rust
-- [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [diem](https://github.com/libra/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [lorri](https://github.com/target/lorri) - Your project's nix-env
 - [rusty-tags](https://github.com/dan-t/rusty-tags) - Create ctags/etags for a cargo project
@@ -11281,6 +11284,7 @@
 
 ## TypeScript 
 
+- [CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
 - [porn-vault](https://github.com/porn-vault/porn-vault) - 💋 Manage your ever-growing porn collection. Using Vue & GraphQL
 - [alm](https://github.com/alm-tools/alm) - :rose: A :cloud: ready IDE just for TypeScript :heart:
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
