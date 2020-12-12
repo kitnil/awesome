@@ -924,6 +924,7 @@
 - [kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized
 - [tg](https://github.com/vysheng/tg) - telegram-cli
 - [bitlbee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
+- [pkgcheck](https://github.com/pkgcore/pkgcheck) - pkgcore-based QA utility for ebuild repos
 - [tre](https://github.com/laurikari/tre) - The approximate regex matching library and agrep command line tool.
 - [nx-libs](https://github.com/ArcticaProject/nx-libs) - nx-libs
 - [checkedc](https://github.com/microsoft/checkedc) - Checked C is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses.  This repo has a wiki for Checked C, sample code, the specification, and test code.
@@ -2053,6 +2054,7 @@
 
 ## Emacs Lisp 
 
+- [spray](https://github.com/emacsmirror/spray) - A speed reading mode
 - [ll-debug](https://github.com/replrep/ll-debug) - Low level printf debugging for emacs
 - [haskell-auto-reload-mode](https://github.com/kcsongor/haskell-auto-reload-mode) - Emacs minor mode to automatically reload interactive haskell sessions
 - [org-timed-alerts](https://github.com/legalnonsense/org-timed-alerts) - Orgmode notification warnings of upcoming events
@@ -5615,6 +5617,8 @@
 
 ## JavaScript 
 
+- [webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
+- [ultrawidify](https://github.com/tamius-han/ultrawidify) - Firefox extension that allows you to work around some people's inability to properly encode 21:9 videos.
 - [Starhub](https://github.com/Github-Web-Apps/Starhub) - :octocat: All about your Github account, public and private activity, watch stars, followers and much more.
 - [sentinl](https://github.com/lmangani/sentinl) - Kibana Alert & Report App for Elasticsearch
 - [monkeytype](https://github.com/Miodec/monkeytype) - A minimalistic typing test
@@ -5784,7 +5788,6 @@
 - [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
-- [awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor) - 🔨  Open source WEB editor summary 🐛
 - [awesome-captcha](https://github.com/ZYSzys/awesome-captcha) - :key: Curated list of awesome captcha libraries and crack tools.
 - [awesome-web-animation](https://github.com/sergey-pimenov/awesome-web-animation) - A list of awesome web animation libraries, books, apps etc.
 - [regexgen](https://github.com/devongovett/regexgen) - Generate regular expressions that match a set of strings
@@ -5938,7 +5941,6 @@
 - [medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 - [sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
 - [userChrome.js](https://github.com/alice0775/userChrome.js) - 
-- [greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [org-linkz](https://github.com/p-kolacz/org-linkz) - Managing browser links in org file.
 - [scar](https://github.com/cloudkj/scar) - Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -8352,7 +8354,7 @@
 - [pygooglenews](https://github.com/kotartemiy/pygooglenews) - If Google News had a Python library
 - [degoogle](https://github.com/deepseagirl/degoogle) - search Google and extract results directly. skip all the click-through links and other sketchiness
 - [parso](https://github.com/davidhalter/parso) - A Python Parser
-- [jtbl](https://github.com/kellyjonbrazil/jtbl) - A simple cli tool to print JSON and JSON Lines data as a table in the terminal
+- [jtbl](https://github.com/kellyjonbrazil/jtbl) - A simple CLI tool to print JSON and JSON Lines data as a table in the terminal
 - [nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 - [Inspect-Shell](https://github.com/amoffat/Inspect-Shell) - Inspect Shell lets you easily use a shell to inspect a process as it's running
 - [pykeylogger](https://github.com/amoffat/pykeylogger) - A pure python keylogger for linux
@@ -8500,7 +8502,7 @@
 - [fav-up](https://github.com/pielco11/fav-up) - IP lookup by favicon using Shodan
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI
-- [jc](https://github.com/kellyjonbrazil/jc) - This tool converts the output of popular command-line tools and file-types to JSON. This allows piping of output to tools like jq.
+- [jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
 - [Sorting-Algorithm-Visualizer](https://github.com/test123/Sorting-Algorithm-Visualizer) - 
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -8534,6 +8536,7 @@
 - [jenkins-autojobs](https://github.com/gvalkov/jenkins-autojobs) - Automatically create Jenkins jobs from template jobs and branches in a SCM repository
 - [pdf2image](https://github.com/Belval/pdf2image) - A python module that wraps the pdftoppm utility to convert PDF to PIL Image object
 - [bridgy](https://github.com/wagoodman/bridgy) - cloud inventory + ssh + tmux + sshfs
+- [awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor) - 🔨  Open source WEB editor summary 🐛
 - [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [devblogs](https://github.com/abdelhai/devblogs) - +2600 developer-related blogs and publications.
 - [awesome-dash](https://github.com/ucg8j/awesome-dash) - A curated list of awesome Dash (plotly) resources
@@ -9414,7 +9417,6 @@
 - [PyOrgMode](https://github.com/bjonnh/PyOrgMode) - A python class for reading and writing orgmode files
 - [Memacs](https://github.com/novoid/Memacs) - What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 - [filetags](https://github.com/novoid/filetags) - Management of simple tags within file names
-- [pkgcheck](https://github.com/pkgcore/pkgcheck) - pkgcore-based QA utility for ebuild repos
 - [CommonRegex](https://github.com/madisonmay/CommonRegex) - A collection of common regular expressions bundled with an easy to use interface.
 - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites
@@ -10620,7 +10622,7 @@
 - [tmux-colortag](https://github.com/Determinant/tmux-colortag) - A plug-and-play, minimal tmux plugin/theme that automatically colors the window tags.
 - [screenshot-actions](https://github.com/jrodal98/screenshot-actions) - Dunst actions for screenshots (OCR, upload to 0x0.st, delete, rename, move to/from clipboard)
 - [shell-checker](https://github.com/MarounMaroun/shell-checker) - ✅ GitHub action for running ShellCheck on shell files in your PR
-- [axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for anybody!
+- [axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for anybody! Distribute the workload of many different tools with ease, including nmap, ffuf, masscan, nuclei and many more!
 - [lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
 - [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - Simple bash script to set a Dynamic Wallpaper according to certain conditions.
 - [lostfiles](https://github.com/graysky2/lostfiles) - Simple script that identifies files not owned by any Arch Linux package.
@@ -11386,6 +11388,7 @@
 - [discord-term](https://github.com/atlx/discord-term) - Extensible Discord terminal client
 - [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
 - [hastic-grafana-app](https://github.com/hastic/hastic-grafana-app) - Hastic data management server for labeling patterns and anomalies in Grafana
