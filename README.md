@@ -195,6 +195,7 @@
 
 ## C 
 
+- [droidcam](https://github.com/aramg/droidcam) - Official Linux Client code for DroidDcam
 - [ebisp](https://github.com/tsoding/ebisp) - Embedded Lisp
 - [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [emacs-webkit](https://github.com/akirakyle/emacs-webkit) - An Emacs Dynamic Module for WebKit, aka a fully fledged browser inside emacs
@@ -966,7 +967,7 @@
 - [kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
 - [exploitdb](https://github.com/offensive-security/exploitdb) - The official Exploit Database repository
 - [redis](https://github.com/microsoftarchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
-- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of git://source.ffmpeg.org/ffmpeg.git
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [celluloid](https://github.com/celluloid-player/celluloid) - A simple GTK+ frontend for mpv
 - [gtkparasite](https://github.com/chipx86/gtkparasite) - A utility similar to Firebug but for GTK+ applications.
 - [gtk](https://github.com/GNOME/gtk) - Read-only mirror of https://gitlab.gnome.org/GNOME/gtk
@@ -1710,6 +1711,7 @@
 
 ## Common Lisp 
 
+- [shiny](https://github.com/azimut/shiny) - music and visual experiments done in lisp
 - [lw-multiplication](https://github.com/40ants/lw-multiplication) - A math game for children to help them learning multiplication
 - [monads](https://github.com/Virtual-Insurance-Products/monads) - 
 - [web-monad](https://github.com/Virtual-Insurance-Products/web-monad) - 
@@ -3844,6 +3846,8 @@
 
 ## Go 
 
+- [lainviewer](https://github.com/azimut/lainviewer) - lainchan cli viewer
+- [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [autopatchelf](https://github.com/fzakaria/autopatchelf) - 
 - [envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
 - [gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
@@ -4363,7 +4367,7 @@
 - [terraform-provider-docker](https://github.com/hashicorp/terraform-provider-docker) - As part of our introduction to self-service publishing in the Terraform Registry, this copy of the provider has been archived, and ownership has been transferred to active maintainers in the community. Please see the new location on the Terraform Registry: https://registry.terraform.io/providers/kreuzwerker/docker/latest
 - [terraform-provider-googlecalendar](https://github.com/sethvargo/terraform-provider-googlecalendar) - A @HashiCorp Terraform provider for managing Google Calendar events.
 - [terraform-provider-kafka](https://github.com/Mongey/terraform-provider-kafka) - Terraform provider for managing Apache Kafka Topics + ACLs
-- [terraform-provider-lxd](https://github.com/sl1pm4t/terraform-provider-lxd) - LXD Resource provider for Terraform
+- [terraform-provider-lxd](https://github.com/terraform-lxd/terraform-provider-lxd) - LXD Resource provider for Terraform
 - [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers
 - [terraform-variables-generator](https://github.com/alexandrst88/terraform-variables-generator) - Simple Tool for Generate Variables file from Terraform Configuration
 - [terraform-provider-github](https://github.com/terraform-providers/terraform-provider-github) - Terraform GitHub provider
@@ -4555,7 +4559,7 @@
 - [goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
 - [tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
-- [kratos](https://github.com/go-kratos/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [kratos](https://github.com/go-kratos/kratos) - Kratos是一套轻量级的Go微服务框架，包含大量微服务相关框架及工具。
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [tea](https://github.com/go-gitea/tea) - A command line tool to interact with Gitea servers, moved to https://gitea.com/gitea/tea
 - [docker-machine-kvm](https://github.com/dhiltgen/docker-machine-kvm) - KVM driver for docker-machine
@@ -5618,7 +5622,6 @@
 ## JavaScript 
 
 - [webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
-- [ultrawidify](https://github.com/tamius-han/ultrawidify) - Firefox extension that allows you to work around some people's inability to properly encode 21:9 videos.
 - [Starhub](https://github.com/Github-Web-Apps/Starhub) - :octocat: All about your Github account, public and private activity, watch stars, followers and much more.
 - [sentinl](https://github.com/lmangani/sentinl) - Kibana Alert & Report App for Elasticsearch
 - [monkeytype](https://github.com/Miodec/monkeytype) - A minimalistic typing test
@@ -5670,6 +5673,7 @@
 - [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
 - [yjs](https://github.com/yjs/yjs) - Peer-to-peer shared types
 - [docable-notebooks](https://github.com/ottomatica/docable-notebooks) - 
+- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [Hello-Goodbye](https://github.com/bcye/Hello-Goodbye) - Available for Chrome, Firefox and Safari and as a blocklist to integrate into existing blockers.
 - [undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
 - [awesome-rss](https://github.com/shgysk8zer0/awesome-rss) - Puts an RSS/Atom subscribe button back in URL bar
@@ -5783,7 +5787,7 @@
 - [heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
 - [Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go board and SGF editor for a more civilized age.
-- [brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for macOS, Windows, Linux, Android.
+- [brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [phaser-examples](https://github.com/photonstorm/phaser-examples) - Contains hundreds of source code examples and related media for the Phaser HTML5 Game Framework.
 - [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -7326,7 +7330,7 @@
 - [books](https://github.com/learn-anything/books) - Awesome Books
 - [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
-- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of plugins, prompts, and resources for Fish. 🐚
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of plugins, prompts, and resources for Fish. 🤘
 - [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection
 - [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
 - [awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
@@ -8266,7 +8270,6 @@
 - [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [uwsgitop](https://github.com/xrmx/uwsgitop) - top-like app for monitoring uWSGI instances
 - [ptmv](https://github.com/kal39/ptmv) - An utf-8/truecolor image and video viewer for the terminal
-- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [blaecksprutte](https://github.com/teythoon/blaecksprutte) - spam-tagger working on notmuch databases
 - [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
@@ -11528,7 +11531,7 @@
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
-- [vim-instant-markdown](https://github.com/suan/vim-instant-markdown) - Instant Markdown previews from VIm!
+- [vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) - Instant Markdown previews from VIm!
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
@@ -11543,6 +11546,7 @@
 
 ## Vue 
 
+- [ultrawidify](https://github.com/tamius-han/ultrawidify) - Firefox extension that allows you to work around some people's inability to properly encode 21:9 videos.
 - [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
 - [vue-stroll](https://github.com/xiaoluoboding/vue-stroll) - 📜 Vue.js + Stroll.js. Awesome CSS list scroll effects for Vue2.x.
 - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - 🏄🏼  A SmoothPicker for Vue 2 (like native datetime picker of iOS)
