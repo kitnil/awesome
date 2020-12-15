@@ -1876,7 +1876,7 @@
 - [option-9](https://github.com/psilord/option-9) - A Shoot'em Up Game Written in Common Lisp
 - [common-worm](https://github.com/zkat/common-worm) - A simple, hackish version of the classic snake game, written in Common Lisp
 - [starwar](https://github.com/xzpeter/starwar) - A game written in Common Lisp, using lispbuilder-sdl
-- [sorcery-es](https://github.com/flotfacetieux/sorcery-es) - 
+- [sorcery-es](https://github.com/flotsfacetieux/sorcery-es) - 
 - [acl2](https://github.com/acl2/acl2) - ACL2 System and Books as Maintained by the Community
 - [stumpwm-contrib](https://github.com/stumpwm/stumpwm-contrib) - Extension Modules for StumpWM
 - [asdf](https://github.com/fare/asdf) - Another System Definition Facility, de facto standard build system for CL (mirrored from Common-Lisp.net)
@@ -1970,7 +1970,6 @@
 - [android](https://github.com/bitrise-io/android) - Android Docker image
 - [nginx-rtmp-docker](https://github.com/tiangolo/nginx-rtmp-docker) - Docker image with Nginx using the nginx-rtmp-module module for live multimedia (video) streaming.
 - [AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
-- [srt2hls](https://github.com/mbugeia/srt2hls) - Simple audio HLS streaming server based on Liquidsoap
 - [dockerfiles](https://github.com/vgist/dockerfiles) - 🐳 A collection of delicious docker recipes.
 - [docker-headphones](https://github.com/linuxserver/docker-headphones) - 
 - [docker-ssh-agent](https://github.com/jenkinsci/docker-ssh-agent) - Docker image for Jenkins agents connected over SSH
@@ -6082,7 +6081,7 @@
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [DoodleMaster](https://github.com/karanchahal/DoodleMaster) - "Don't code your UI, Draw  it !"
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
+- [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
@@ -8415,6 +8414,7 @@
 - [irc](https://github.com/jaraco/irc) - Full-featured Python IRC library for Python.
 - [airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [arch-wiki-docs](https://github.com/lahwaacz/arch-wiki-docs) - A script to download pages from Arch Wiki for offline browsing
+- [srt2hls](https://github.com/mbugeia/srt2hls) - Simple audio HLS streaming server based on Liquidsoap
 - [dockselpy](https://github.com/dimmg/dockselpy) - Dockerized Selenium and Python with support for Chrome, Firefox and PhantomJS
 - [scihub-downloader](https://github.com/brunneis/scihub-downloader) - Sci-Hub PDF downloader through Tor Network (Docker image)
 - [dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
