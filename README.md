@@ -4965,6 +4965,7 @@
 - [hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
 - [calendar](https://github.com/planetruby/calendar) - What's Upcoming in 2020? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!
 - [csinva.github.io](https://github.com/csinva/csinva.github.io) - Slides, paper notes, class notes, blog posts, and research on ML 📉, statistics 📊, and AI 🤖.
+- [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [android-dev-bookmarks](https://github.com/zhengxiaopeng/android-dev-bookmarks) - Android Dev Bookmarks(ADB) - Android 开发者的浏览器书签 For CN-Dev now | 历史更新文章戳这里：https://rocko.xyz/categories/Android-Dev-Bookmarks/  |  订阅： https://tinyletter.com/Rocko  |   站点主页：
 - [awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) - Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web
@@ -5747,7 +5748,7 @@
 - [kiwibnc](https://github.com/kiwiirc/kiwibnc) - 
 - [ViewImage](https://github.com/bijij/ViewImage) - Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 - [wdio](https://github.com/blueimp/wdio) - Docker setup for WebdriverIO with automatic screenshots, image diffing and screen recording support for containerized versions of Chrome and Firefox, Mobile Safari and Mobile Chrome via Appium, Safari on MacOS as well as Edge, Edge Legacy and Internet Explorer on Windows 10.
-- [savescreenshot](https://github.com/M-Reimer/savescreenshot) - Firefox "Save Screenshot" Addon. Simple website screenshot maker for Firefox.
+- [savescreenshot](https://github.com/M-Reimer/savescreenshot) - Save Screenshot Add-on for Firefox. Simple website screenshot maker for Firefox.
 - [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 950 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ymlx](https://github.com/matthewadams/ymlx) - Command-line YAML processor
 - [eat](https://github.com/antonmedv/eat) - Eat everything 🧀
@@ -7021,7 +7022,6 @@
 - [awesome-firebase](https://github.com/jthegedus/awesome-firebase) - 🔥 List of Firebase talks, tools, examples & articles! Translations in  🇬🇧 🇷🇺 Contributions welcome!
 - [awesome-plotters](https://github.com/beardicus/awesome-plotters) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 - [awesome-list](https://github.com/ityouknow/awesome-list) - collect all  awesome about IT
-- [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [awesome-job-boards](https://github.com/tramcar/awesome-job-boards) - 
 - [awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.
 - [awesome-machine-learning-art](https://github.com/vibertthio/awesome-machine-learning-art) - :robot::art::guitar:A curated list of awesome projects, works, people, articles, and resource for creating art (including music) with machine learning. It's machine learning art.
@@ -9235,7 +9235,7 @@
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [blackbox](https://github.com/paulknysh/blackbox) - A Python module for parallel optimization of expensive black-box functions
-- [DeathStar](https://github.com/byt3bl33d3r/DeathStar) - Automate getting Domain Admin using Empire
+- [DeathStar](https://github.com/byt3bl33d3r/DeathStar) - Uses Empire's (https://github.com/BC-SECURITY/Empire) RESTful API to automate gaining Domain and/or Enterprise Admin rights in Active Directory environments using some of the most common offensive TTPs.
 - [WPSeku](https://github.com/m4ll0k/WPSeku) - WPSeku - Wordpress Security Scanner
 - [Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
 - [weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
@@ -10055,7 +10055,7 @@
 - [nat](https://github.com/willdoescode/nat) - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
 - [diff-grep](https://github.com/keith/diff-grep) - Filter matching hunks in diffs
 - [rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
-- [vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter built on top of visioncortex
+- [vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [anewer](https://github.com/ysf/anewer) - anewer appends lines from stdin to a file if they don't already exist in the file. This is a rust version of https://github.com/tomnomnom/anew
 - [nix-mirror](https://github.com/dnaq/nix-mirror) - A simple tool for mirroring nix binary caches
 - [xshell](https://github.com/matklad/xshell) - 
