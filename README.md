@@ -2056,7 +2056,6 @@
 
 ## Emacs Lisp 
 
-- [spray](https://github.com/emacsmirror/spray) - A speed reading mode
 - [ll-debug](https://github.com/replrep/ll-debug) - Low level printf debugging for emacs
 - [haskell-auto-reload-mode](https://github.com/kcsongor/haskell-auto-reload-mode) - Emacs minor mode to automatically reload interactive haskell sessions
 - [org-timed-alerts](https://github.com/legalnonsense/org-timed-alerts) - Orgmode notification warnings of upcoming events
@@ -5375,7 +5374,6 @@
 ## Java 
 
 - [Recyclerview-Gallery](https://github.com/ryanlijianchang/Recyclerview-Gallery) - Recyclerview-Gallery：This library shows you a gallery using RecyclerView.
-- [umlet](https://github.com/umlet/umlet) - Free UML Tool for Fast UML Diagrams
 - [appbarlayout-spring-behavior](https://github.com/ToDou/appbarlayout-spring-behavior) - One Behavior help AppBarLayout to scroll spring
 - [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
 - [custom-war-packager](https://github.com/jenkinsci/custom-war-packager) - Custom Jenkins WAR packager for Jenkins
@@ -5625,6 +5623,7 @@
 - [webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 - [Starhub](https://github.com/Github-Web-Apps/Starhub) - :octocat: All about your Github account, public and private activity, watch stars, followers and much more.
 - [sentinl](https://github.com/lmangani/sentinl) - Kibana Alert & Report App for Elasticsearch
+- [umlet](https://github.com/umlet/umlet) - Free UML Tool for Fast UML Diagrams
 - [monkeytype](https://github.com/Miodec/monkeytype) - A minimalistic typing test
 - [ttv-ublock](https://github.com/odensc/ttv-ublock) - Blocking ads on that certain streaming website
 - [vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
