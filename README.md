@@ -1718,7 +1718,7 @@
 - [web-monad](https://github.com/Virtual-Insurance-Products/web-monad) - 
 - [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io Common Lisp client
 - [format-colors](https://github.com/vindarel/format-colors) - (format t "~/blue/ :)" "Hello")
-- [invidious-handler](https://github.com/kssytsrk/invidious-handler) - invidious-handler, a redirector from Youtube to Invidious for Nyxt browser
+- [nx-freestance-handler](https://github.com/kssytsrk/nx-freestance-handler) - invidious-handler, a redirector from Youtube to Invidious for Nyxt browser
 - [with-c-syntax](https://github.com/y2q-actionman/with-c-syntax) - C language syntax in Common Lisp
 - [fuzzy-match](https://github.com/vindarel/fuzzy-match) - Fuzzy match candidates from an input string.
 - [trivial-snake](https://github.com/ryukinix/trivial-snake) - A trivial snake game written in Common Lisp built on top of trivial-gamekit
@@ -2286,7 +2286,6 @@
 - [emamux-ghci](https://github.com/jfeltz/emamux-ghci) - tmux GHCI controller for Emacs
 - [haskell-desktop](https://github.com/capital-match/haskell-desktop) - Docker image with Haskell, emacs, vim, SSH server and a desktop environment through X2Go
 - [lsp-docker](https://github.com/emacs-lsp/lsp-docker) - Scripts and configurations to leverage lsp-mode in docker environment
-- [plz.el](https://github.com/alphapapa/plz.el) - An HTTP library for Emacs
 - [playonline.el](https://github.com/twlz0ne/playonline.el) - Play code with online playgrounds
 - [elpa-deploy](https://github.com/oitofelix/elpa-deploy) - ELPA deployment library
 - [info-rename-buffer](https://github.com/oitofelix/info-rename-buffer) - Rename Info buffers to match manuals
@@ -4130,7 +4129,7 @@
 - [containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way
 - [urlprobe](https://github.com/1ndianl33t/urlprobe) - Urls status code & content length checker
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System
+- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System 可以看做Open-Falcon的下一代，不止运维监控，更是要做一款生产级运维平台
 - [utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [lisp](https://github.com/robpike/lisp) - Toy Lisp 1.5 interpreter
 - [go-gogs-client](https://github.com/gogs/go-gogs-client) - Gogs API client in Go.
@@ -6931,7 +6930,7 @@
 - [awesome-ielts](https://github.com/ucatal/awesome-ielts) - An awesome list for students who prepare for IELTS in public domains (on-going)
 - [awesome-dev-websites](https://github.com/christopherkade/awesome-dev-websites) - 📄 A curated list of awesome developer personal websites
 - [awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
-- [awesome-portugal-data](https://github.com/rgllm/awesome-portugal-data) - Lista de repositórios de dados abertos em Portugal 🇵🇹
+- [awesome-portugal-data](https://github.com/rgllm/awesome-portugal-data) - 🇵🇹 Lista de repositórios de dados abertos em Portugal
 - [awesome-CARLA](https://github.com/Amin-Tgz/awesome-CARLA) - 👉 CARLA resources such as tutorial, blog, code and etc https://github.com/carla-simulator/carla
 - [Awesome-PlayStation-Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita) - List of awesome stuff for PlayStation Vita
 - [awesome-security-audits](https://github.com/pomerium/awesome-security-audits) - A collection of public security audits.
@@ -9403,7 +9402,6 @@
 - [retext](https://github.com/retext-project/retext) - ReText: Simple but powerful editor for Markdown and reStructuredText
 - [pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [Video-Downloader](https://github.com/EvilCult/Video-Downloader) - 下载youku,letv,sohu,tudou,bilibili,acfun,iqiyi等网站分段视频文件，提供mac&win独立App。
-- [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - 🎷  Downloads Music From The Web
 - [waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [Soundcloud-Downloader](https://github.com/linnit/Soundcloud-Downloader) - Download songs from SoundCloud, even if the song is not available for download
 - [READYT](https://github.com/lbarchive/READYT) - A CLI lover wants you to READYT
@@ -9842,6 +9840,7 @@
 - [unix-history-make](https://github.com/dspinellis/unix-history-make) - Code and data to create a git repository representing the Unix source code history
 - [docker_monitoring_logging_alerting](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting.
 - [hr](https://github.com/LuRsT/hr) - A horizontal :straight_ruler: for your terminal
+- [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - 🎷  Downloads Music From The Web
 
 ## Ruby 
 
@@ -10219,7 +10218,7 @@
 - [mainframer](https://github.com/buildfoundation/mainframer) - Tool for remote builds. Sync project to remote machine, execute command, sync back.
 - [json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [vivid](https://github.com/sharkdp/vivid) - A generator for LS_COLORS with support for multiple color themes
+- [vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [cicada](https://github.com/mitnk/cicada) - A bash-like Unix shell written in Rust
 - [lucid](https://github.com/sharkdp/lucid) - A simple mock-application for programs that work with child processes
 - [dose-response](https://github.com/tryjumping/dose-response) - Dose Response is a roguelike where you play an addict. Avoid the dangers threatening your mind and body while desperately looking for the next fix.
@@ -10840,6 +10839,7 @@
 - [dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you to keep the whole tree of password encrypted inside a tomb.
+- [plz.el](https://github.com/alphapapa/plz.el) - An HTTP library for Emacs
 - [bash-dev-tcp](https://github.com/fijimunkii/bash-dev-tcp) - collection of scripts using /dev/tcp
 - [ngincat](https://github.com/jaburns/ngincat) - Tiny bash HTTP server using netcat
 - [httpstat](https://github.com/b4b4r07/httpstat) - It's like curl -v, with graphs and colors
@@ -11294,6 +11294,7 @@
 
 ## TypeScript 
 
+- [alive](https://github.com/nobody-famous/alive) - Common Lisp Extension for VSCode
 - [CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
 - [porn-vault](https://github.com/porn-vault/porn-vault) - 💋 Manage your ever-growing porn collection. Using Vue & GraphQL
 - [alm](https://github.com/alm-tools/alm) - :rose: A :cloud: ready IDE just for TypeScript :heart:
