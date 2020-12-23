@@ -839,7 +839,7 @@
 - [sdl_seminar](https://github.com/tlively/sdl_seminar) - 
 - [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
 - [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [LearningMasteringAlgorithms-C](https://github.com/yourtion/LearningMasteringAlgorithms-C) - Mastering Algorithms with C 《算法精解：C语言描述》源码及Xcode工程、Linux工程
 - [heap-exploitation](https://github.com/DhavalKapil/heap-exploitation) - This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure.
@@ -7121,7 +7121,7 @@
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [ABigSurvey](https://github.com/NiuTrans/ABigSurvey) - A collection of 400+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
 - [awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
-- [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers by organizations sharing their work on applied data science & machine learning.
+- [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers and blogs by organizations sharing their work on data science & machine learning in production.
 - [developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
 - [awesome-dhall](https://github.com/dhall-lang/awesome-dhall) - A curated list of awesome dhall-lang
 - [gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
@@ -7327,7 +7327,7 @@
 - [books](https://github.com/learn-anything/books) - Awesome Books
 - [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
-- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins, and more for Fish. 🤘
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins, and other resources for Fish. 🤘
 - [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection
 - [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
 - [awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
@@ -7601,7 +7601,7 @@
 - [awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 - [awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - Curated list of ad-free alternatives to popular services on the web
-- [awesome-product-design](https://github.com/teoga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+- [awesome-product-design](https://github.com/matttga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 - [You-Dont-Know-X](https://github.com/ythecombinator/You-Dont-Know-X) - 🙈 curated list of inspiring resources which show you don't know that much about something you thought you knew.
 - [awesome-testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources
 - [awesome](https://github.com/craftcms/awesome) - A collection of awesome Craft CMS plugins, articles, resources and shiny things.
@@ -8159,7 +8159,7 @@
 ## PicoLisp 
 
 - [picolisp](https://github.com/picolisp/picolisp) - PicoLisp is an open source Lisp dialect. It runs on Linux and other POSIX-compliant systems. Its most prominent features are simplicity and minimalism.
-- [particle](https://github.com/Seteeri/particle) - PicoLisp presentation/projection userland
+- [particle](https://github.com/Seteeri/particle) - PicoLisp env/userland
 
 ## Pony 
 
@@ -8482,7 +8482,7 @@
 - [wesng](https://github.com/bitsadmin/wesng) - Windows Exploit Suggester - Next Generation
 - [lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [mathematics_dataset](https://github.com/deepmind/mathematics_dataset) - This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
-- [AIDungeon](https://github.com/latitudegames/AIDungeon) - Infinite adventures await!
+- [AIDungeon](https://github.com/Latitude-Archives/AIDungeon) - Infinite adventures await!
 - [imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
@@ -10099,7 +10099,7 @@
 - [vimnail](https://github.com/TanTanDev/vimnail) - A vim like image editor, for creating thumbnails, or even animated thumbnails. Written in Rust
 - [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
 - [nog](https://github.com/TimUntersberger/nog) - A tiling window manager for Windows
-- [gtkwhats](https://github.com/gigitux/gtkwhats) - A simple wrapper written in rust and gtk-rs for whatsapp web
+- [youpforwhatsapp](https://github.com/gigitux/youpforwhatsapp) - A simple wrapper written in rust and gtk-rs for whatsapp web
 - [jtab](https://github.com/wlezzar/jtab) - Print any json data as a table from the command line
 - [vim-tips-wiki](https://github.com/DanilaMihailov/vim-tips-wiki) - 1500+ tips downloaded from Vim Tips Wiki, parsed and formatted to look and work like native Vim help files
 - [repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
@@ -10505,7 +10505,7 @@
 - [docker-gphotos-sync](https://github.com/JakeWharton/docker-gphotos-sync) - A Docker image for synchronizing your original-quality Google Photos
 - [kitty-cat](https://github.com/adi1090x/kitty-cat) - Simple script to change color-schemes and fonts for kitty terminal.
 - [quickemu](https://github.com/wimpysworld/quickemu) - The amazing Quickemu; as seen on YouTube
-- [Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - Stupid AI
+- [Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - State of AI
 - [bash-utility](https://github.com/labbots/bash-utility) - Bash library which provides utility functions and helpers for functional programming in Bash.
 - [git-scanner](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open .git repositories available in public
 - [kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
