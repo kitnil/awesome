@@ -135,7 +135,7 @@
 
 ## ASL 
 
-- [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - macOS Big Sur & Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2017 & 2018
+- [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - XiaoMi NoteBook Pro Hackintosh
 
 ## Ada 
 
@@ -4562,7 +4562,7 @@
 - [docker-machine-kvm](https://github.com/dhiltgen/docker-machine-kvm) - KVM driver for docker-machine
 - [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
 - [onion](https://github.com/jessfraz/onion) - Tor networking plugin for Docker containers. Route all container tcp traffic through Tor.
-- [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser which can be used as a middleware or standalone app.
+- [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [rest-server](https://github.com/restic/rest-server) - Rest Server is a high performance HTTP server that implements restic's REST backend API.
 - [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
