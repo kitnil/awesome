@@ -139,7 +139,7 @@
 
 ## Ada 
 
-- [steamsky](https://github.com/thindil/steamsky) - Roguelike in sky with a steampunk setting
+- [steamsky](https://github.com/thindil/steamsky) - Mirror of roguelike in sky with a steampunk setting
 
 ## Agda 
 
@@ -194,6 +194,8 @@
 
 ## C 
 
+- [libtap](https://github.com/zorgnax/libtap) - Write tests in C
+- [maiko](https://github.com/Interlisp/maiko) - Medley Interlisp virtual machine
 - [droidcam](https://github.com/dev47apps/droidcam) - Official Linux Client code for DroidDcam
 - [ebisp](https://github.com/tsoding/ebisp) - Embedded Lisp
 - [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
@@ -2055,6 +2057,11 @@
 
 ## Emacs Lisp 
 
+- [org-anki](https://github.com/eyeinsky/org-anki) - Sync org sections to Anki via the AnkiConnect plugin
+- [good-scroll.el](https://github.com/io12/good-scroll.el) - Attempt at good pixel-based smooth scrolling in Emacs
+- [marginalia](https://github.com/minad/marginalia) - marginalia.el - Marginalia in the minibuffer
+- [tab-bar-display](https://github.com/ROCKTAKEY/tab-bar-display) - Display strings on tab-bar in Emacs.
+- [roguel-ike](https://github.com/stevenremot/roguel-ike) - Coffee-break roguelike for Emacs
 - [ll-debug](https://github.com/replrep/ll-debug) - Low level printf debugging for emacs
 - [haskell-auto-reload-mode](https://github.com/kcsongor/haskell-auto-reload-mode) - Emacs minor mode to automatically reload interactive haskell sessions
 - [org-timed-alerts](https://github.com/legalnonsense/org-timed-alerts) - Orgmode notification warnings of upcoming events
@@ -2116,7 +2123,7 @@
 - [symbol-navigation-hydra](https://github.com/bgwines/symbol-navigation-hydra) - The Spacemacs Auto-Highlight Symbol Hydra, ported over to vanilla Emacs
 - [feed-discovery](https://github.com/HKey/feed-discovery) - Discover feed url by RSS/Atom autodiscovery.
 - [dmacro](https://github.com/emacs-jp/dmacro) - Repeated detection and execution of key operation
-- [meow](https://github.com/DogLooksGood/meow) - Modal Editing On Wheel
+- [meow](https://github.com/DogLooksGood/meow) - modular Emacs on wish
 - [org-watchlist](https://github.com/Brwo/org-watchlist) - Video playlist logging based on GNU Emacs' org-mode
 - [orgba](https://github.com/Fuco1/orgba) - Better APIs for org mode
 - [goto-line-preview](https://github.com/jcs-elpa/goto-line-preview) - Preview line when executing `goto-line` command.
@@ -5665,6 +5672,7 @@
 - [awesome-js-posts](https://github.com/palashmon/awesome-js-posts) - A curated list of latest posts, blogs and repositories related to JavaScript.
 - [awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
 - [awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
+- [emoji](https://github.com/Wscats/emoji) - ⭕〽️❗Awesome Omi 创意坊 - 如果你愿意，我希望未来是你和Omi~
 - [GitStart](https://github.com/rishabh-bansal/GitStart) - Make a Pull Request
 - [awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database) - :clock7: A curated list of awesome time series databases, benchmarks and papers
 - [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
@@ -7324,7 +7332,7 @@
 - [books](https://github.com/learn-anything/books) - Awesome Books
 - [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
-- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins, and resources for Fish. 🐚
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins, & resources for Fish. 🐚
 - [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection
 - [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
 - [awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
@@ -10489,7 +10497,7 @@
 - [cheatsheet.dennyzhang.com](https://github.com/dennyzhang/cheatsheet.dennyzhang.com) - Apply best practices via CheatSheets
 - [awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
 - [docker-openvpn](https://github.com/dockovpn/docker-openvpn) - 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds
-- [plan9-on-qemu](https://github.com/danieljamespost/plan9-on-qemu) - This is a guide for setting up a Plan 9 desktop environment using Qemu
+- [plan9-on-qemu](https://github.com/dnjp/plan9-on-qemu) - This is a guide for setting up a Plan 9 desktop environment using Qemu
 - [monkey-shell](https://github.com/spyx/monkey-shell) - 
 - [workflow-aggregator-plugin](https://github.com/jenkinsci/workflow-aggregator-plugin) - 
 - [bashttpd](https://github.com/avleen/bashttpd) - A web server written in bash
@@ -10625,7 +10633,7 @@
 - [shell-checker](https://github.com/MarounMaroun/shell-checker) - ✅ GitHub action for running ShellCheck on shell files in your PR
 - [axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for anybody! Distribute the workload of many different tools with ease, including nmap, ffuf, masscan, nuclei and many more!
 - [lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
-- [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - Simple bash script to set a Dynamic Wallpaper according to certain conditions.
+- [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 - [lostfiles](https://github.com/graysky2/lostfiles) - Simple script that identifies files not owned by any Arch Linux package.
 - [fex](https://github.com/jordansissel/fex) - fex - flexible field/token extraction
 - [nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
@@ -11551,7 +11559,6 @@
 - [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
 - [vue-stroll](https://github.com/xiaoluoboding/vue-stroll) - 📜 Vue.js + Stroll.js. Awesome CSS list scroll effects for Vue2.x.
 - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - 🏄🏼  A SmoothPicker for Vue 2 (like native datetime picker of iOS)
-- [emoji](https://github.com/Wscats/emoji) - ⭕〽️❗Awesome Omi 创意坊 - 如果你愿意，我希望未来是你和Omi~
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 - [homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
