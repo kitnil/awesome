@@ -194,6 +194,7 @@
 
 ## C 
 
+- [iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
 - [libtap](https://github.com/zorgnax/libtap) - Write tests in C
 - [maiko](https://github.com/Interlisp/maiko) - Medley Interlisp virtual machine
 - [droidcam](https://github.com/dev47apps/droidcam) - Official Linux Client code for DroidDcam
@@ -335,7 +336,7 @@
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
 - [blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
-- [chiaki](https://github.com/thestr4ng3r/chiaki) - Free and Open Source PS4 Remote Play Client
+- [chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
 - [acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [antispy](https://github.com/mohuihui/antispy) - AntiSpy is a free but powerful anti virus and rootkits toolkit.It offers you the ability with the highest privileges that can detect,analyze and restore various kernel modifications and hooks.With its assistance,you can easily spot and neutralize malwares hidden from normal detectors.
 - [gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
@@ -4267,7 +4268,7 @@
 - [v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [longcat](https://github.com/mattn/longcat) - Looooooooooooooooooooooooooooooooooooooooooooooong cat
 - [sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization
-- [inlets-operator](https://github.com/inlets/inlets-operator) - Add public LoadBalancers to your local Kubernetes clusters.
+- [inlets-operator](https://github.com/inlets/inlets-operator) - Add public LoadBalancers to your local Kubernetes clusters
 - [gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps
 - [docx2md](https://github.com/mattn/docx2md) - Convert Microsoft Word Document to Markdown
 - [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres EXPLAIN ANALYZE output.
@@ -10322,7 +10323,7 @@
 - [ripasso](https://github.com/cortex/ripasso) - A simple password manager written in Rust
 - [rust-doom](https://github.com/cristicbz/rust-doom) - A Doom Renderer written in Rust.
 - [crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
-- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [stacks-blockchain](https://github.com/blockstack/stacks-blockchain) - The Stacks 2.0 blockchain implementation
@@ -10664,7 +10665,7 @@
 - [hashcatch](https://github.com/staz0t/hashcatch) - Capture handshakes of nearby WiFi networks automatically
 - [slack-disable-wysiwyg-bookmarklet](https://github.com/kfahy/slack-disable-wysiwyg-bookmarklet) - Disables the WYSIWYG editor in Slack.
 - [critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
-- [battery-wallpaper](https://github.com/adi1090x/battery-wallpaper) - Simple bash script to set an animated battery as desktop wallpaper.
+- [battery-wallpaper](https://github.com/adi1090x/battery-wallpaper) - Simple bash script to set wallpaper according to battery percentage with charging animations.
 - [docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
 - [wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
 - [docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
@@ -11569,7 +11570,7 @@
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [shortkeys](https://github.com/mikecrittenden/shortkeys) - A browser extension for custom keyboard shortcuts
 - [YaSQL](https://github.com/lazzyfu/YaSQL) - 基于Python开发的MySQL WEB版本的工单审核执行和SQL查询平台
