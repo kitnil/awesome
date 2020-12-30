@@ -993,7 +993,7 @@
 - [nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
-- [freebsd](https://github.com/freebsd/freebsd) - FreeBSD src tree (read-only mirror)
+- [freebsd-src](https://github.com/freebsd/freebsd-src) - FreeBSD src tree (read-only mirror)
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
@@ -4968,7 +4968,7 @@
 - [awesome-kubernetes-notes](https://github.com/overnote/awesome-kubernetes-notes) - awesome-kubernetes-notes  🎉
 - [awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
-- [calendar](https://github.com/planetruby/calendar) - What's Upcoming in 2020? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!
+- [conferences](https://github.com/planetruby/conferences) - What's Upcoming in 2021? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!
 - [csinva.github.io](https://github.com/csinva/csinva.github.io) - Slides, paper notes, class notes, blog posts, and research on ML 📉, statistics 📊, and AI 🤖.
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
@@ -5625,6 +5625,7 @@
 
 ## JavaScript 
 
+- [linkremark](https://github.com/maxnikulin/linkremark) - LinkRemark - page or link notes with context
 - [webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 - [Starhub](https://github.com/Github-Web-Apps/Starhub) - :octocat: All about your Github account, public and private activity, watch stars, followers and much more.
 - [sentinl](https://github.com/lmangani/sentinl) - Kibana Alert & Report App for Elasticsearch
@@ -5983,7 +5984,6 @@
 - [youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions) - This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 - [elastalert-kibana-plugin](https://github.com/bitsensor/elastalert-kibana-plugin) - ElastAlert Kibana Plugin
 - [terminal-discord](https://github.com/xynxynxyn/terminal-discord) - NOT MAINTAINED Simple terminal client for discord with a minimal look and UI
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [hogwatch](https://github.com/akshaykmr/hogwatch) - find out what's hogging your internet connection.
@@ -6161,7 +6161,7 @@
 - [awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
 - [awesome-spinners](https://github.com/yangshun/awesome-spinners) - 💫 A curated collection of dazzling web spinners
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
-- [Awesome-Unicode](https://github.com/Wisdom/Awesome-Unicode) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
+- [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
 - [fmt-obj](https://github.com/queckezz/fmt-obj) - Stringifies any javascript object in your console for CLI inspection  :sparkles:
 - [machine-learning-surveys](https://github.com/metrofun/machine-learning-surveys) - A curated list of Machine Learning Surveys, Tutorials and Books.
 - [Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) - 🌈  A Curated List of Checklists ✔︎✔︎
@@ -7286,7 +7286,7 @@
 - [awesome-css-in-js](https://github.com/tuchk4/awesome-css-in-js) - Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision
 - [awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - ⚡Metrics to help understand page speed and user experience
 - [awesome-radare2](https://github.com/radareorg/awesome-radare2) - A curated list of awesome projects, articles and the other materials powered by Radare2
-- [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
+- [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - 📝 A curated list of awesome Prometheus resources, projects and tools.
 - [awesome-nim](https://github.com/VPashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
 - [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
 - [awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
@@ -7912,7 +7912,6 @@
 - [TeamPass](https://github.com/nilsteampassnet/TeamPass) - Collaborative Passwords Manager
 - [BrowserQuest-PHP](https://github.com/walkor/BrowserQuest-PHP) - BrowserQuest server in PHP base on workerman. A PHP/HTML5/JavaScript multiplayer game experiment.
 - [goridge](https://github.com/spiral/goridge) - High-performance PHP-to-Golang IPC bridge
-- [lamp](https://github.com/teddysun/lamp) - Install LAMP(Linux + Apache + MySQL/MariaDB + PHP ) for CentOS/Debian/Ubuntu
 - [wordpress-activitypub](https://github.com/pfefferle/wordpress-activitypub) - ActivityPub for WordPress
 - [symfony-console-completion](https://github.com/stecman/symfony-console-completion) - Automatic tab-key completion for Symfony console application options, arguments and parameters
 - [symfony-console-autocomplete](https://github.com/bamarni/symfony-console-autocomplete) - Shell autocompletion for Symfony Console based scripts
@@ -9768,7 +9767,6 @@
 - [git2rdata](https://github.com/ropensci/git2rdata) - An R package for storing and retrieving data.frames in git repositories.
 - [rweekly.org](https://github.com/rweekly/rweekly.org) - R Weekly
 - [ggrepel](https://github.com/slowkow/ggrepel) - :round_pushpin: Repel overlapping text labels away from each other.
-- [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
 - [evaluate](https://github.com/r-lib/evaluate) - A version of eval for R that returns more information about what happened
 - [pillar](https://github.com/r-lib/pillar) - Format columns with colour
 - [jim-emacs-fun-r-lisp](https://github.com/chanshunli/jim-emacs-fun-r-lisp) - Lisp like R (Native support) & statistics, machine learning
@@ -10818,6 +10816,7 @@
 - [with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
 - [bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
 - [ffmpeg-android](https://github.com/WritingMinds/ffmpeg-android) - FFmpeg for Android compiled with x264, libass, fontconfig, freetype, fribidi and lame (Supports Android 4.1+)
+- [lamp](https://github.com/teddysun/lamp) - Install LAMP(Linux + Apache + MySQL/MariaDB + PHP ) for CentOS/Debian/Ubuntu
 - [docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 - [bash-commons](https://github.com/gruntwork-io/bash-commons) - A collection of reusable Bash functions for handling common tasks such as logging, assertions, string manipulation, and more
 - [mediabox](https://github.com/tom472/mediabox) - Container based media tools configuration
@@ -11005,7 +11004,7 @@
 - [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [qemu-android-x86-runner](https://github.com/rexim/qemu-android-x86-runner) - Quick Start on How to Run Android x86 in QEMU
 - [ncmpcpp-with-albumart](https://github.com/fikriomar16/ncmpcpp-with-albumart) - Showing album art in ncmpcpp using urxvt
-- [zabbix-version-detect](https://github.com/catonrug/zabbix-version-detect) - Detect new zabbix versions by using sourceforge rss feed
+- [zabbix-version-detect](https://github.com/aigarskadikis/zabbix-version-detect) - Detect new zabbix versions by using sourceforge rss feed
 - [linux-unattended-installation](https://github.com/coreprocess/linux-unattended-installation) - This project provides all you need to create an unattended installation of a minimal setup of Linux.
 - [yavide](https://github.com/JBakamovic/yavide) - Modern C/C++ integrated development environment
 - [M2-Planet](https://github.com/oriansj/M2-Planet) - The PLAtform NEutral Transpiler
@@ -11270,6 +11269,7 @@
 - [Data-Science--Cheat-Sheet](https://github.com/datasciencescoop/Data-Science--Cheat-Sheet) - Cheat Sheets
 - [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
+- [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
 - [literate-programming-tutorials](https://github.com/Literate-DevOps/literate-programming-tutorials) - Literate Programming Tutorials
 - [clqr](https://github.com/trebb/clqr) - Common Lisp Quick Reference
 - [guile-xcb](https://github.com/mwitmer/guile-xcb) - A guile implementation of the X protocol using xml/xcb
@@ -11519,6 +11519,7 @@
 - [reply.vim](https://github.com/rhysd/reply.vim) - REPLs play nicely with :terminal on Vim and Neovim
 - [neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [vim-glsl](https://github.com/tikhomirov/vim-glsl) - Vim runtime files for OpenGL Shading Language
 - [vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
