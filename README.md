@@ -1356,7 +1356,7 @@
 - [AnimeEffects](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool
 - [quickviewer](https://github.com/kanryu/quickviewer) - A image/comic viewer application for Windows, Mac and Linux, it can show images very fast
 - [radiotray-ng](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux
-- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
+- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [client](https://github.com/owncloud/client) - :computer: Desktop Syncing Client for ownCloud
 - [mame](https://github.com/mamedev/mame) - MAME
 - [gImageReader](https://github.com/manisandro/gImageReader) - A Gtk/Qt front-end to tesseract-ocr.
@@ -2075,7 +2075,7 @@
 - [emacs-guix-packaging](https://github.com/ryanprior/emacs-guix-packaging) - Tools for writing and maintaining Guix packages
 - [atl-long-lines](https://github.com/jcs-elpa/atl-long-lines) - Turn off truncate-lines when the line is long.
 - [elisp-docstring-server.el](https://github.com/xuchunyang/elisp-docstring-server.el) - An HTTP server for Emacs Lisp Docstring
-- [org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle org-mode latex fragment previews as the cursor enters and exits them
+- [org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle Org mode LaTeX fragment previews as the cursor enters and exits them
 - [jetbrains-darcula-emacs-theme](https://github.com/ianpan870102/jetbrains-darcula-emacs-theme) - A complete port of the default JetBrains Darcula theme for Emacs
 - [org-starless](https://github.com/TonCherAmi/org-starless) - Hide heading stars in org-mode.
 - [validate-html](https://github.com/arthurgleckler/validate-html) - 
@@ -5081,6 +5081,7 @@
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) - Emacs application framework
+- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 - [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books) - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
 - [darkContrast](https://github.com/DmitriK/darkContrast) - Firefox addon that fixes low contrast text when using dark desktop theme
@@ -5305,7 +5306,6 @@
 - [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [gifcurry](https://github.com/lettier/gifcurry) - 😎 The open-source, Haskell-built video editor for GIF makers.
 - [agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
-- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [haskell-sdl2-examples](https://github.com/palf/haskell-sdl2-examples) - SDL2 tutorial code in Haskell
 - [texmath](https://github.com/jgm/texmath) - A Haskell library for converting LaTeX math to MathML.
 - [hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter
@@ -5679,8 +5679,7 @@
 - [awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database) - :clock7: A curated list of awesome time series databases, benchmarks and papers
 - [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
 - [yjs](https://github.com/yjs/yjs) - Peer-to-peer shared types
-- [docable-notebooks](https://github.com/ottomatica/docable-notebooks) - 
-- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
+- [docable-notebooks](https://github.com/ottomatica/docable-notebooks) - :ledger: Next-Generation Interactive Notebooks
 - [Hello-Goodbye](https://github.com/bcye/Hello-Goodbye) - Available for Chrome, Firefox and Safari and as a blocklist to integrate into existing blockers.
 - [undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
 - [awesome-rss](https://github.com/shgysk8zer0/awesome-rss) - Puts an RSS/Atom subscribe button back in URL bar
@@ -6653,7 +6652,7 @@
 - [lua-lsp](https://github.com/Alloyed/lua-lsp) - A Lua language server
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [ObAddon](https://github.com/caligari87/ObAddon) - A repository of community-built prefabs and other enhancements for Oblige 7.70
-- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits  (带学习功能的快速路径切换工具)
+- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [mpv-repl](https://github.com/rossy/mpv-repl) - A graphical REPL for mpv input commands
 - [mpv-playlistmanager](https://github.com/jonniek/mpv-playlistmanager) - Mpv lua script to create and manage playlists
@@ -8165,7 +8164,7 @@
 ## PicoLisp 
 
 - [picolisp](https://github.com/picolisp/picolisp) - PicoLisp is an open source Lisp dialect. It runs on Linux and other POSIX-compliant systems. Its most prominent features are simplicity and minimalism.
-- [particle](https://github.com/Seteeri/particle) - PicoLisp env/userland
+- [particle](https://github.com/Seteeri/particle) - PicoLisp env/userland for *nix systems
 
 ## Pony 
 
@@ -8274,6 +8273,7 @@
 - [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [uwsgitop](https://github.com/xrmx/uwsgitop) - top-like app for monitoring uWSGI instances
 - [ptmv](https://github.com/kal39/ptmv) - An utf-8/truecolor image and video viewer for the terminal
+- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [blaecksprutte](https://github.com/teythoon/blaecksprutte) - spam-tagger working on notmuch databases
 - [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
