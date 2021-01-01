@@ -1199,7 +1199,6 @@
 - [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
 - [HyperDex](https://github.com/rescrv/HyperDex) - HyperDex is a scalable, searchable key-value store
 - [inspector](https://github.com/inspector-repl/inspector) - A drop-anywhere C++ REPL
-- [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
 - [nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
 - [gnethogs](https://github.com/mbfoss/gnethogs) - GUI for nethogs using GKT
@@ -1656,7 +1655,7 @@
 - [PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure
 - [mcss](https://github.com/DogLooksGood/mcss) - Macro your CSS
 - [konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
-- [babashka](https://github.com/borkdude/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
+- [babashka](https://github.com/babashka/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
 - [bidi](https://github.com/juxt/bidi) - Bidirectional URI routing
 - [tools.cli](https://github.com/clojure/tools.cli) - Command-line processing
 - [clojure-mail](https://github.com/owainlewis/clojure-mail) - A Clojure library for parsing, downloading and reading email from IMAP servers.
@@ -1960,7 +1959,6 @@
 - [awesome-threat-modelling](https://github.com/hysnsec/awesome-threat-modelling) - A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.
 - [docker-clion-dev](https://github.com/shuhaoliu/docker-clion-dev) - Debugging C++ in a Docker Container with CLion IDE
 - [cocalc-docker](https://github.com/sagemathinc/cocalc-docker) - Docker setup for running CoCalc as downloadable software on your own computer
-- [aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [microscanner](https://github.com/aquasecurity/microscanner) - Scan your container images for package vulnerabilities with Aqua Security
 - [docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
 - [jenkinsfile-runner-github-actions](https://github.com/jenkinsci/jenkinsfile-runner-github-actions) - Jenkins single-shot master GitHub Action POC
@@ -5081,7 +5079,6 @@
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) - Emacs application framework
-- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 - [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books) - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
 - [darkContrast](https://github.com/DmitriK/darkContrast) - Firefox addon that fixes low contrast text when using dark desktop theme
@@ -5306,6 +5303,7 @@
 - [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [gifcurry](https://github.com/lettier/gifcurry) - 😎 The open-source, Haskell-built video editor for GIF makers.
 - [agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
+- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [haskell-sdl2-examples](https://github.com/palf/haskell-sdl2-examples) - SDL2 tutorial code in Haskell
 - [texmath](https://github.com/jgm/texmath) - A Haskell library for converting LaTeX math to MathML.
 - [hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter
@@ -5782,7 +5780,7 @@
 - [FunctionScript](https://github.com/FunctionScript/FunctionScript) - A language and specification for turning JavaScript functions into typed HTTP APIs
 - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - OBSOLETE - Interactively select the quality and format for youtube-dl
 - [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2020)
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (January 2021)
 - [diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers
 - [Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage. Now with protected boxes.
@@ -6179,7 +6177,7 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2021)
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
 - [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -6581,6 +6579,7 @@
 - [mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ freenode
 - [westford](https://github.com/udevbe/westford) - Westford Wayland Compositor
 - [replete-android](https://github.com/replete-repl/replete-android) - ClojureScript REPL Android app
+- [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [VDM](https://github.com/ingbyr/VDM) - GUI for command-line video downloader (youtube-dl annie)
 - [Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [awesome-conferences-database](https://github.com/matteocrippa/awesome-conferences-database) - 📲 A collaborative list of Conferences
@@ -9767,6 +9766,7 @@
 - [git2rdata](https://github.com/ropensci/git2rdata) - An R package for storing and retrieving data.frames in git repositories.
 - [rweekly.org](https://github.com/rweekly/rweekly.org) - R Weekly
 - [ggrepel](https://github.com/slowkow/ggrepel) - :round_pushpin: Repel overlapping text labels away from each other.
+- [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
 - [evaluate](https://github.com/r-lib/evaluate) - A version of eval for R that returns more information about what happened
 - [pillar](https://github.com/r-lib/pillar) - Format columns with colour
 - [jim-emacs-fun-r-lisp](https://github.com/chanshunli/jim-emacs-fun-r-lisp) - Lisp like R (Native support) & statistics, machine learning
@@ -10533,6 +10533,7 @@
 - [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
 - [registrish](https://github.com/jpetazzo/registrish) - Dirty hack to run a read-only, public Docker registry on almost any static file hosting service (e.g. NGINX, Netlify, S3...)
 - [tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
+- [aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [tc-gen](https://github.com/hkbakke/tc-gen) - Modern linux traffic shaping made easy
 - [packaging](https://github.com/jenkinsci/packaging) - Native packaging for Jenkins
 - [habash](https://github.com/natfarleydev/habash) - A habitica terminal client written entirely in bash.
@@ -11165,7 +11166,7 @@
 - [lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
-- [backupninja](https://github.com/lelutin/backupninja) - My sandbox on the official backupninja repository
+- [backupninja](https://github.com/lelutin/backupninja) - An old sandbox of the backupninja repository. Please refer to the upstream on 0xacab.org
 - [ubuntu](https://github.com/boxcutter/ubuntu) - Virtual machine templates for Ubuntu
 - [dotzsh](https://github.com/dotphiles/dotzsh) - A community driven framework for zsh
 - [docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
@@ -11269,7 +11270,6 @@
 - [Data-Science--Cheat-Sheet](https://github.com/datasciencescoop/Data-Science--Cheat-Sheet) - Cheat Sheets
 - [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
-- [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
 - [literate-programming-tutorials](https://github.com/Literate-DevOps/literate-programming-tutorials) - Literate Programming Tutorials
 - [clqr](https://github.com/trebb/clqr) - Common Lisp Quick Reference
 - [guile-xcb](https://github.com/mwitmer/guile-xcb) - A guile implementation of the X protocol using xml/xcb
