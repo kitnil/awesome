@@ -1832,7 +1832,7 @@
 - [notalone](https://github.com/borodust/notalone) - Autumn 2017 Lisp Game Jam Entry
 - [cl-dino](https://github.com/VitoVan/cl-dino) - A Chrome Dinosaur Robot written in Common Lisp
 - [cl-python](https://github.com/metawilm/cl-python) - An implementation of Python in Common Lisp
-- [lem](https://github.com/cxxxr/lem) - Common Lisp editor/IDE with high expansibility
+- [lem](https://github.com/lem-project/lem) - Common Lisp editor/IDE with high expansibility
 - [trial](https://github.com/Shirakumo/trial) - Yet another Common Lisp game engine
 - [cmacro](https://github.com/eudoxia0/cmacro) - Lisp macros for C
 - [cl-morse](https://github.com/waldeinburg/cl-morse) - Morse support for Common Lisp
@@ -2207,7 +2207,7 @@
 - [frog-menu](https://github.com/clemera/frog-menu) - Quickly pick items from ad hoc menus in Emacs
 - [shrface](https://github.com/chenyanming/shrface) - Extend shr/eww/nov with org-mode features.
 - [gomacro-mode](https://github.com/storvik/gomacro-mode) - Emacs package for working with gomacro REPL.
-- [dashboard-ls](https://github.com/jcs-elpa/dashboard-ls) - Display files/directories in current directory on Dashboard.
+- [dashboard-ls](https://github.com/emacs-dashboard/dashboard-ls) - Display files/directories in current directory on Dashboard.
 - [org-spacer.el](https://github.com/dustinlacewell/org-spacer.el) - Enforce the number of blank lines between elements in an org-mode document
 - [ac-geiser](https://github.com/xiaohanyu/ac-geiser) - [Sleepy] Emacs auto-complete backend for geiser.
 - [elf-mode](https://github.com/abo-abo/elf-mode) - Show symbol list when opening a binary file in Emacs
@@ -10259,7 +10259,7 @@
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [memory-profiler](https://github.com/koute/memory-profiler) - 
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
-- [rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2020
+- [rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2021
 - [rusti](https://github.com/murarth/rusti) - REPL for the Rust programming language
 - [org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
@@ -11476,7 +11476,7 @@
 - [connections](https://github.com/GNOME/connections) - Read-only mirror of https://gitlab.gnome.org/GNOME/connections
 - [Sherlock](https://github.com/sergius02/Sherlock) - Sherlock helps you to find information of public IP address, elementary! 🕵️
 - [timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
-- [Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and Gtk
+- [Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 - [vala-language-server](https://github.com/benwaffle/vala-language-server) - Code Intelligence for Vala & Genie
 - [desktopfolder](https://github.com/spheras/desktopfolder) - Bring your Desktop Back to Life
 - [GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
