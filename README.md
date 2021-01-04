@@ -1032,6 +1032,7 @@
 
 ## C++ 
 
+- [poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
@@ -1645,7 +1646,7 @@
 - [swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [deep-diff2](https://github.com/lambdaisland/deep-diff2) - Deep diff Clojure data structures and pretty print the result
 - [functional-programming-learning-path](https://github.com/leandrotk/functional-programming-learning-path) - A Learning Path for Functional Programming
-- [sci](https://github.com/borkdude/sci) - Small Clojure Interpreter
+- [sci](https://github.com/borkdude/sci) - Configurable Clojure interpreter suitable for scripting and Clojure DSLs.
 - [Paravim](https://github.com/oakes/Paravim) - A Vim-based editor for Clojure
 - [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [play-cljc](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
@@ -4386,7 +4387,7 @@
 - [terraform-provisioner-ansible](https://github.com/radekg/terraform-provisioner-ansible) - Ansible with Terraform 0.13.x
 - [terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) - Terraform Helm provider
 - [terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - Terraform provider to provision infrastructure with Linux's KVM using libvirt
-- [tflint](https://github.com/terraform-linters/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform &gt;= 0.12)
+- [tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
 - [terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [lsp](https://github.com/dborzov/lsp) - lsp is like ls command but more human-friendly
 - [jobber](https://github.com/dshearer/jobber) - An alternative to cron, with sophisticated status-reporting and error-handling
@@ -6233,7 +6234,7 @@
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript Code Quality Tool
-- [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.
+- [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [babel-standalone](https://github.com/babel/babel-standalone) - :video_game: Now located in the Babel repo! Standalone build of Babel for use in non-Node.js environments, including browsers.
 - [react-essential-course](https://github.com/krambertech/react-essential-course) - ITVDN - React Essential course materials
 - [babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
@@ -6626,7 +6627,6 @@
 - [tmux-filetree](https://github.com/PhilipRoman/tmux-filetree) - Simple, non-intrusive dynamic file tree which always tracks your active Tmux pane
 - [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [mpv-notify-send](https://github.com/emilazy/mpv-notify-send) - A Lua script for mpv to send notifications with notify-send(1).
-- [simple-mpv-webui](https://github.com/open-dynaMIX/simple-mpv-webui) - A web based user interface with controls for the mpv mediaplayer.
 - [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
 - [nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
@@ -7510,7 +7510,7 @@
 - [technical-whitepapers](https://github.com/trimstray/technical-whitepapers) - Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.
 - [zabbix-community-repos](https://github.com/monitoringartist/zabbix-community-repos) - :memo: 850+ Zabbix community project links: SW/HW/DB templates, scripts, CLIs, integrations, API libraries, modules, configurations, ...
 - [URxvt-themes](https://github.com/AntSunrise/URxvt-themes) - My .Xdefaults
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
 - [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷‍♀️
 - [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
@@ -8398,6 +8398,7 @@
 - [next_word_prediction](https://github.com/renatoviolin/next_word_prediction) - Using transformers to predict next word and predict &lt;mask&gt; word
 - [detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
 - [sexpdata](https://github.com/jd-boyd/sexpdata) - S-expression parser for Python
+- [simple-mpv-webui](https://github.com/open-dynaMIX/simple-mpv-webui) - A web based user interface with controls for the mpv mediaplayer.
 - [interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
 - [napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
 - [steam](https://github.com/ValvePython/steam) - ☁️ Python package for interacting with Steam
@@ -8685,7 +8686,7 @@
 - [elisp-decompile](https://github.com/rocky/elisp-decompile) - Emacs Lisp Decompiler
 - [ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter
 - [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
-- [core](https://github.com/home-assistant/core) - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ :house_with_garden: Open source home automation that puts local control and privacy first
+- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [junit2html](https://github.com/inorton/junit2html) - Turn Junit XML reports into self contained HTML reports
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [PySixel](https://github.com/saitoha/PySixel) - View full-pixel color graphics on SIXEL-supported terminals(xterm/mlterm/DECterm/Reflection/kermit/RLogin/tanasinn/yaft)
