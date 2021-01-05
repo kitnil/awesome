@@ -439,7 +439,7 @@
 - [peg-markdown](https://github.com/jgm/peg-markdown) - An implementation of markdown in C, using a PEG grammar
 - [pecl-file_formats-yaml](https://github.com/php/pecl-file_formats-yaml) - YAML-1.1 parser and emitter
 - [libvterm](https://github.com/neovim/libvterm) - https://github.com/neovim/neovim/wiki/Deps#forks
-- [dmrconfig](https://github.com/sergev/dmrconfig) - Configuration utility for DMR radios
+- [dmrconfig](https://github.com/OpenRTX/dmrconfig) - Configuration utility for DMR radios
 - [shmux](https://github.com/shmux/shmux) - shell multiplexor
 - [wasm](https://github.com/fourtf/wasm) - Web assembly interpreter in C. Unfunctional and discontinued.
 - [pam-MySQL](https://github.com/NigelCunningham/pam-MySQL) - PAM MySQL
@@ -6592,7 +6592,7 @@
 
 ## LLVM 
 
-- [pil21](https://github.com/picolisp/pil21) - PicoLisp on LLVM (prototype)
+- [pil21](https://github.com/picolisp/pil21) - PicoLisp is an open source Lisp dialect. It is based on LLVM and compiles and runs on any 64-bit POSIX system. Its most prominent features are simplicity and minimalism.
 
 ## Less 
 
@@ -6632,7 +6632,7 @@
 - [nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
 - [hw](https://github.com/hedgewars/hw) - Official Hedgewars mirror for GitHub!
 - [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices) - 
-- [digestif](https://github.com/astoff/digestif) - A language server for LaTeX
+- [digestif](https://github.com/astoff/digestif) - A language server for TeX and friends
 - [grid-sdk](https://github.com/Planimeter/grid-sdk) - The Grid SDK - Game engine for Lua
 - [lua-http](https://github.com/daurnimator/lua-http) - HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server.
 - [luadec](https://github.com/viruscamp/luadec) - Lua Decompiler for lua 5.1 , 5.2 and 5.3
@@ -7093,7 +7093,7 @@
 - [awesome-yara](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [amas](https://github.com/sindresorhus/amas) - Awesome & Marvelous Amas
-- [collection-document](https://github.com/tom0li/collection-document) - Collection of quality safety articles
+- [collection-document](https://github.com/tom0li/collection-document) - Collection of quality safety articles. Awesome articles.
 - [awesome-frontend](https://github.com/JingwenTian/awesome-frontend) - A curated list of amazingly awesome frontend libraries, resources and shiny things.
 - [awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 - [awesome-layers](https://github.com/mthenw/awesome-layers) - λ A curated list of awesome AWS Lambda Layers.
@@ -10900,7 +10900,7 @@
 - [tmux-sessionist](https://github.com/tmux-plugins/tmux-sessionist) - Lightweight tmux utils for manipulating sessions
 - [tmux-test](https://github.com/tmux-plugins/tmux-test) - A small framework for isolated testing of tmux plugins.
 - [tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
-- [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path on your temrinal window in your $EDITOR of choice!
+- [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path on your terminal window in your $EDITOR of choice!
 - [tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) - A plugin that enhances tmux search
 - [dockerfiles](https://github.com/Wonderfall/dockerfiles) - Discontinued. Fork at your will.
 - [tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
