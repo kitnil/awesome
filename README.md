@@ -197,7 +197,7 @@
 - [iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
 - [libtap](https://github.com/zorgnax/libtap) - Write tests in C
 - [maiko](https://github.com/Interlisp/maiko) - Medley Interlisp virtual machine
-- [droidcam](https://github.com/dev47apps/droidcam) - Official Linux Client code for DroidDcam
+- [droidcam](https://github.com/dev47apps/droidcam) - GNU/Linux client for DroidCam
 - [ebisp](https://github.com/tsoding/ebisp) - Embedded Lisp
 - [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [emacs-webkit](https://github.com/akirakyle/emacs-webkit) - An Emacs Dynamic Module for WebKit, aka a fully fledged browser inside emacs
@@ -2605,7 +2605,6 @@
 - [b.el](https://github.com/emacs-php/b.el) - Emacs Lisp utility functions for buffer manipulation
 - [Elsa](https://github.com/emacs-elsa/Elsa) - Emacs Lisp Static Analyzer
 - [fd-dired](https://github.com/yqrashawn/fd-dired) - dired-mode interface for fd
-- [flycheck-grammalecte](https://github.com/emacsmirror/flycheck-grammalecte) - Integrate Grammalecte with Flycheck
 - [forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit
 - [lsp-yaml](https://github.com/iquiw/lsp-yaml) - [DEPRECATED] YAML support for lsp-mode (YAML support is included in lsp-mode)
 - [helm-css-scss](https://github.com/emacsorphanage/helm-css-scss) - This emacs program makes your CSS/SCSS/LESS coding faster and easier than ever.
@@ -4135,7 +4134,7 @@
 - [containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way
 - [urlprobe](https://github.com/1ndianl33t/urlprobe) - Urls status code & content length checker
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System 可以看做Open-Falcon的下一代，不止运维监控，更是要做一款生产级运维平台
+- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System.  The next generation of Open-Falcon
 - [utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [lisp](https://github.com/robpike/lisp) - Toy Lisp 1.5 interpreter
 - [go-gogs-client](https://github.com/gogs/go-gogs-client) - Gogs API client in Go.
@@ -4254,7 +4253,7 @@
 - [dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
 - [Gaea](https://github.com/XiaoMi/Gaea) - Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team.
-- [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes
+- [kruise](https://github.com/openkruise/kruise) - Automate application management on Kubernetes
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [ent](https://github.com/facebook/ent) - An entity framework for Go
 - [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
@@ -4374,7 +4373,7 @@
 - [terraform-provider-lxd](https://github.com/terraform-lxd/terraform-provider-lxd) - LXD Resource provider for Terraform
 - [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers
 - [terraform-variables-generator](https://github.com/alexandrst88/terraform-variables-generator) - Simple Tool for Generate Variables file from Terraform Configuration
-- [terraform-provider-github](https://github.com/terraform-providers/terraform-provider-github) - Terraform GitHub provider
+- [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
 - [terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Terraform OpenStack provider
 - [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
 - [terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider
@@ -4525,7 +4524,7 @@
 - [goffmpeg](https://github.com/xfrr/goffmpeg) - FFMPEG wrapper written in GO
 - [go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
 - [marathon-consul](https://github.com/allegro/marathon-consul) - Integrates Marathon apps with Consul service discovery.
-- [filetype](https://github.com/h2non/filetype) - Fast, dependency-free, small Go package to infer the binary file type based on its magic numbers signature
+- [filetype](https://github.com/h2non/filetype) - Fast, dependency-free, small Go package to infer the binary file type based on the magic numbers signature
 - [ssh-auditor](https://github.com/ncsa/ssh-auditor) - The best way to scan for weak ssh passwords on your network
 - [webhook2telegram](https://github.com/muety/webhook2telegram) - 🤖 A Telegram bot which translates push messages sent as simple HTTP calls into Telegram messages you can subscribe to.
 - [owl](https://github.com/TalkingData/owl) - distributed monitoring system
@@ -4563,7 +4562,7 @@
 - [goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
 - [tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
-- [kratos](https://github.com/go-kratos/kratos) - Kratos是一套轻量级的Go微服务框架，包含大量微服务相关框架及工具。
+- [kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [tea](https://github.com/go-gitea/tea) - A command line tool to interact with Gitea servers, moved to https://gitea.com/gitea/tea
 - [docker-machine-kvm](https://github.com/dhiltgen/docker-machine-kvm) - KVM driver for docker-machine
@@ -4710,7 +4709,7 @@
 - [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive prompts with full support for windows and posix terminals.
 - [cli](https://github.com/docker/cli) - The Docker CLI
-- [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line interface
+- [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines
 - [nanobox](https://github.com/nanobox-io/nanobox) - The ideal platform for developers
 - [rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH
@@ -4886,7 +4885,7 @@
 - [teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram &lt;=&gt; IRC bridge for use with any IRC channel and Telegram group
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [dcs](https://github.com/Debian/dcs) - source code of Debian Code Search (codesearch.debian.net)
@@ -5091,7 +5090,6 @@
 - [nixos-weekly](https://github.com/NixOS/nixos-weekly) - NixOS Weekly Newsletter
 - [pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
-- [gcovr](https://github.com/gcovr/gcovr) - generate code coverage reports with gcc/gcov
 - [ruby-hacking-guide.github.com](https://github.com/ruby-hacking-guide/ruby-hacking-guide.github.com) - Ruby Hacking Guide Translation
 - [ProgrammingLanguage-Series](https://github.com/wx-chevalier/ProgrammingLanguage-Series) - :books: 编程语言语法基础与工程实践，JavaScript | Java | Python | Go | Rust | CPP | Swift
 - [craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
@@ -6303,7 +6301,7 @@
 - [gnome-shell-extension-redshift](https://github.com/benzea/gnome-shell-extension-redshift) - DO NOT USE; GNOME NOW INCLUDES THE FEATURE ALREADY! – A redshift extension for gnome-shell – Obsolete with GNOME 3.26! Use the buildin nightlight feature instead!
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
-- [Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Download Youtube Subtitle (Still work in 2020!) (Work best on Chrome + Tampermonkey) **Looking for maintainer** 2020-10-7 更新：支持中英双语字幕下载，请在页面底部提供的另一个链接进行安装
+- [Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Youtube 字幕下载，Download Youtube Subtitles (Work best on Chrome + Tampermonkey)  2020-10-7 更新：支持中英双语字幕下载，请在页面底部提供的另一个链接进行安装
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [searchfirefoxbookmarks](https://github.com/sciancio/searchfirefoxbookmarks) - A gnome-shell extension which searches the firefox bookmarks and provides results in your shell overview
 - [wikipedia-search-provider](https://github.com/awamper/wikipedia-search-provider) - GNOME Shell extension. Wikipedia Search Provider.
@@ -8623,7 +8621,7 @@
 - [pyrocore](https://github.com/pyroscope/pyrocore) - :wrench: A collection of tools for the BitTorrent protocol and especially the rTorrent client
 - [ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
 - [honcho](https://github.com/nickstenning/honcho) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
-- [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji and character picker for rofi 😁
+- [rofimoji](https://github.com/fdw/rofimoji) - An emoji and character picker for rofi 😁
 - [python-emacs](https://github.com/jlumpe/python-emacs) - Python interface to GNU Emacs.
 - [pyorg](https://github.com/jlumpe/pyorg) - Python library for working with Emacs org mode.
 - [galaxy](https://github.com/ansible/galaxy) - Source code behind the Galaxy hub at http://galaxy.ansible.com
@@ -9111,6 +9109,7 @@
 - [LeetCode](https://github.com/kamyu104/LeetCode) - :pencil: Python / C++ 11 Solutions of All LeetCode Questions
 - [rust-python-example](https://github.com/rochacbruno/rust-python-example) - Example of using Rust to Extend Python
 - [coala-bears](https://github.com/coala/coala-bears) - Bears for coala
+- [gcovr](https://github.com/gcovr/gcovr) - generate code coverage reports with gcc/gcov
 - [jupyter-c-kernel](https://github.com/brendan-rius/jupyter-c-kernel) - Minimal Jupyter C kernel
 - [codechecker](https://github.com/Ericsson/codechecker) - CodeChecker is an analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang Tidy
 - [conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
@@ -9128,7 +9127,7 @@
 - [pentesting-multitool](https://github.com/ffmancera/pentesting-multitool) - Different utility scripts for pentesting and hacking.
 - [Hippocampe](https://github.com/TheHive-Project/Hippocampe) - Threat Feed Aggregation, Made Easy
 - [tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
-- [python-chess](https://github.com/niklasf/python-chess) - A pure Python chess library with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing and UCI/XBoard engine communication
+- [python-chess](https://github.com/niklasf/python-chess) - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
 - [pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
@@ -9628,7 +9627,7 @@
 - [shuup](https://github.com/shuup/shuup) - E-Commerce Platform
 - [django-shop](https://github.com/awesto/django-shop) - A Django based shop system
 - [ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
@@ -10253,7 +10252,7 @@
 - [artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 - [shawna](https://github.com/rafaelffilho/shawna) - Basic kernel built in Rust to learn the language
 - [emacs-yamlmod](https://github.com/perfectayush/emacs-yamlmod) - Emacs dynamic module to parse yaml written in Rust
-- [diem](https://github.com/diem/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [lorri](https://github.com/target/lorri) - Your project's nix-env
 - [rusty-tags](https://github.com/dan-t/rusty-tags) - Create ctags/etags for a cargo project
@@ -10488,7 +10487,7 @@
 - [userreconOG](https://github.com/Graey/userreconOG) - A script to find usernames across over 75 social networks.
 - [ad-honeypot-autodeploy](https://github.com/tothi/ad-honeypot-autodeploy) - Deploy a small, intentionally insecure, vulnerable Windows Domain for RDP Honeypot fully automatically.
 - [logstash-test-runner](https://github.com/agolo/logstash-test-runner) - Logstash configuration testing framework
-- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak, TeamCity and DevOps tools built various distros: Alpine, CentOS, Debian, Fedora, Ubuntu
+- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak, TeamCity and DevOps tools built on the major Linux distros: Alpine, CentOS, Debian, Fedora, Ubuntu
 - [vtoyboot](https://github.com/ventoy/vtoyboot) - Work with ventoy to support boot Linux distros in a vdisk file (vhd/vdi/raw ...)
 - [Host-enumeration](https://github.com/IvanGlinkin/Host-enumeration) - Have you ever faced with the lack of possibility of using NMap? For instance if you have reverse shell as an unprivileged user and there are no useful tools preinstalled? This is a small script which will help you to scan a network for live hosts and top 24 ports if you have nothing.
 - [Docker-eyeOS](https://github.com/sickcodes/Docker-eyeOS) - Run iPhone (xnu-arm64) in a Docker container! Supports KVM + iOS kernel debugging (GDB)! Run xnu-qemu-arm64 in Docker! Works on ANY device.
@@ -11507,7 +11506,7 @@
 - [pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 - [vala](https://github.com/GNOME/vala) - Read-only mirror of https://gitlab.gnome.org/GNOME/vala
 - [peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
-- [gnome-pomodoro](https://github.com/codito/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique!
+- [gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique!
 - [corebird](https://github.com/baedert/corebird) - Native Gtk+ Twitter Client
 
 ## Vim script 
@@ -11520,7 +11519,7 @@
 - [reply.vim](https://github.com/rhysd/reply.vim) - REPLs play nicely with :terminal on Vim and Neovim
 - [neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [vim-glsl](https://github.com/tikhomirov/vim-glsl) - Vim runtime files for OpenGL Shading Language
 - [vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
