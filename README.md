@@ -11310,7 +11310,7 @@
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [Dockter](https://github.com/oslabs-beta/Dockter) - A low-overhead, open-source Docker log management tool
 - [shell](https://github.com/pop-os/shell) - Pop!_OS Shell
-- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite  vue3.0, vite, ant-design-vue 2.x, typescript，Efforts to update in progress...
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0, vite, ant-design-vue 2.x, typescript，Efforts to update in progress...
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
