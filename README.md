@@ -1406,7 +1406,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.0.2.37142, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.0.2.37176, 3.3.5 = 3.3.5a.12340)
 - [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -4332,7 +4332,7 @@
 - [gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 - [g-fu](https://github.com/codr7/g-fu) - Lisp 2 Go
 - [prealloc](https://github.com/alexkohler/prealloc) - prealloc is a Go static analysis tool to find slice declarations that could potentially be preallocated.
-- [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
+- [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [gosec](https://github.com/securego/gosec) - Golang security checker
 - [nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering. also shitty static site generator.
@@ -4593,7 +4593,7 @@
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [qri](https://github.com/qri-io/qri) - you're invited to a data party!
-- [hydra](https://github.com/ory/hydra) - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
+- [hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl
 - [go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -5570,6 +5570,7 @@
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
+- [liferay-portal](https://github.com/liferay/liferay-portal) - 
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
@@ -5641,7 +5642,7 @@
 - [dragmove.js](https://github.com/knadh/dragmove.js) - A super tiny Javascript library to make DOM elements draggable and movable. ~500 bytes and no dependencies.
 - [svgwave](https://github.com/anup-a/svgwave) - 🌊 SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications.
 - [sockjs-client](https://github.com/sockjs/sockjs-client) - WebSocket emulation - Javascript client
-- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
 - [Git-User-Switch](https://github.com/geongeorge/Git-User-Switch) - Switch git user and email at ease
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [funnel-graph-js](https://github.com/greghub/funnel-graph-js) - SVG Funnel Graph Javascript Library
@@ -6126,7 +6127,7 @@
 - [dokieli](https://github.com/linkeddata/dokieli) - :bulb: dokieli is a clientside editor for decentralised article publishing, annotations and social interactions
 - [sockethub](https://github.com/sockethub/sockethub) - A protocol gateway for the Web.
 - [luminous](https://github.com/gbaptista/luminous) - Identify, analyze and block code execution and event collection through JavaScript in your browser with code interception.
-- [passwords-webextension](https://github.com/marius-wieschollek/passwords-webextension) - A simple browser client for the Nextcloud Passwords app
+- [passwords-webextension](https://github.com/marius-wieschollek/passwords-webextension) - The official browser extension for the Passwords app for Nextcloud.
 - [runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 - [SLip](https://github.com/mishoo/SLip) - A Lisp system for the browser
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
@@ -7523,7 +7524,6 @@
 - [ansible-znc-on-znc](https://github.com/dhellmann/ansible-znc-on-znc) - Configures multiple ZNC bouncer instances so each client can have its own scroll back log.
 - [guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
 - [awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
-- [liferay-portal](https://github.com/liferay/liferay-portal) - 
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them.
 - [pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
 - [your-web-app-is-bloated](https://github.com/dominictarr/your-web-app-is-bloated) - measuring memory usage of popular webapps
@@ -9112,7 +9112,7 @@
 - [jupyter-c-kernel](https://github.com/brendan-rius/jupyter-c-kernel) - Minimal Jupyter C kernel
 - [codechecker](https://github.com/Ericsson/codechecker) - CodeChecker is an analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang Tidy
 - [conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
-- [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
+- [kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [multibootusb](https://github.com/mbusb/multibootusb) - Create multiboot live Linux on a USB disk...
 - [pynt](https://github.com/ebanner/pynt) - Bridging the gap between jupyter notebooks and text editors/IDEs.
 - [key-mon](https://github.com/scottkirkwood/key-mon) - Automatically exported from code.google.com/p/key-mon
@@ -10471,7 +10471,7 @@
 - [howtopopbuntu](https://github.com/themagicalmammal/howtopopbuntu) - Things I use on my Pop, should work for every Ubuntu Based Distro.
 - [bmks](https://github.com/Retinazer/bmks) - unix bookmark management that sucks less
 - [DAC](https://github.com/baibhavanand/DAC) - DAC - Domain Availability Checker is a tool written in bash to help people find available domains from the comfort of their terminal. People can choose to pass one domain or wordlist to scan the availability from. People can also choose to store the output (List of available domains) in a different text file.
-- [archbox](https://github.com/lemniskett/archbox) - Creates an Arch Linux chroot enviroment with some functionalities to integrate it with your existing Linux installation.
+- [archbox](https://github.com/lemniskett/archbox) - Easy to use Arch Linux chroot enviroment with some functionalities to integrate it with your existing Linux installation.
 - [kubectl-build](https://github.com/kvaps/kubectl-build) - Build dockerfiles directly in your Kubernetes cluster.
 - [git-paging](https://github.com/hutusi/git-paging) - Treat git log as a book, exec `git next` or `git prev` to checkout the next or the previous commit.
 - [org-noweb](https://github.com/ngirard/org-noweb) - Easier Literate Programming using Org mode
