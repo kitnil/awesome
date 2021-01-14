@@ -906,6 +906,7 @@
 - [compton](https://github.com/chjj/compton) - A compositor for X11.
 - [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program.
 - [whdd](https://github.com/whdd/whdd) - HDD diagnostic and data recovery tool for Linux
 - [physlock](https://github.com/muennich/physlock) - Lightweight linux console locking tool
@@ -5621,6 +5622,7 @@
 
 ## JavaScript 
 
+- [youtube-video-quality](https://github.com/dessant/youtube-video-quality) - Watch YouTube in your preferred video quality
 - [linkremark](https://github.com/maxnikulin/linkremark) - LinkRemark - page or link notes with context
 - [webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 - [Starhub](https://github.com/Github-Web-Apps/Starhub) - :octocat: All about your Github account, public and private activity, watch stars, followers and much more.
@@ -6298,7 +6300,6 @@
 - [gnome-shell-extension-stealmyfocus](https://github.com/v-dimitrov/gnome-shell-extension-stealmyfocus) - Shell Extension that let window that demand attention to steal focus
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
 - [gnome-shell-extension-redshift](https://github.com/benzea/gnome-shell-extension-redshift) - DO NOT USE; GNOME NOW INCLUDES THE FEATURE ALREADY! – A redshift extension for gnome-shell – Obsolete with GNOME 3.26! Use the buildin nightlight feature instead!
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Youtube 字幕下载，Download Youtube Subtitles (Work best on Chrome + Tampermonkey)  2020-10-7 更新：支持中英双语字幕下载，请在页面底部提供的另一个链接进行安装
@@ -7173,7 +7174,7 @@
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
-- [TaiChi](https://github.com/taichi-framework/TaiChi) - A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.
+- [TaiChi](https://github.com/taichi-framework/TaiChi) - A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 11.
 - [resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
 - [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
 - [app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -11303,6 +11304,7 @@
 
 ## TypeScript 
 
+- [uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser compatible with unified ecosystem.
 - [alive](https://github.com/nobody-famous/alive) - Common Lisp Extension for VSCode
 - [CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
 - [porn-vault](https://github.com/porn-vault/porn-vault) - 💋 Manage your ever-growing porn collection. Using Vue & GraphQL
@@ -11363,7 +11365,7 @@
 - [make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
 - [pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
 - [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
-- [qawolf](https://github.com/qawolf/qawolf) - 🐺Create browser tests 10x faster
+- [qawolf](https://github.com/qawolf/qawolf) - 🐺 Ship confidently
 - [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [apk-mitm](https://github.com/shroudedcode/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
