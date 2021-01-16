@@ -1714,7 +1714,7 @@
 ## Common Lisp 
 
 - [shiny](https://github.com/azimut/shiny) - music and visual experiments done in lisp
-- [lw-multiplication](https://github.com/40ants/lw-multiplication) - A math game for children to help them learning multiplication
+- [multitrainer](https://github.com/40ants/multitrainer) - A math game for children to help them learning multiplication
 - [monads](https://github.com/Virtual-Insurance-Products/monads) - 
 - [web-monad](https://github.com/Virtual-Insurance-Products/web-monad) - 
 - [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io Common Lisp client
@@ -7338,7 +7338,7 @@
 - [awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
 - [awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅
 - [learning-oop-in-php](https://github.com/marcelgsantos/learning-oop-in-php) - A collection of resources to learn object-oriented programming and related concepts for PHP developers.
-- [awesome-bots](https://github.com/invocable/awesome-bots) - The most awesome list about bots ⭐️🤖
+- [awesome-bots](https://github.com/MaximAbramchuck/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
 - [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
