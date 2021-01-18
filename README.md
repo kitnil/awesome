@@ -579,7 +579,7 @@
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [Interplanetary-Postal-Service](https://github.com/s-macke/Interplanetary-Postal-Service) - Lunar lander type game with computational fluid dynamics
-- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from stdin or a file and creates an interactive selection window at the cursor location without clearing the screen. The selected word(s) are sent to stdout for further processing.
+- [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
 - [ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
 - [litetree](https://github.com/aergoio/litetree) - SQLite with Branches
 - [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -1439,6 +1439,7 @@
 - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [tomahawk](https://github.com/tomahawk-player/tomahawk) - Tomahawk, the multi-source music player
+- [sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [oclint](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
 - [rtags](https://github.com/Andersbakken/rtags) - A client/server indexer for c/c++/objc[++] with integration for Emacs based on clang.
 - [nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -2037,7 +2038,7 @@
 - [earmark](https://github.com/pragdave/earmark) - Markdown parser for Elixir
 - [hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation
 - [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging and web API client in Elixir
-- [accent](https://github.com/mirego/accent) - ▴ Open-source, self-hosted, developer-oriented translation tool
+- [accent](https://github.com/mirego/accent) - The first developer-oriented translation tool. True asynchronous flow between translators and your team.
 - [analytics](https://github.com/plausible/analytics) - Simple and privacy-friendly alternative to Google Analytics
 - [papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [gitgud](https://github.com/almightycouch/gitgud) - A Git source code management tool powered by Elixir with easy installation & high extensibility.
@@ -3882,7 +3883,7 @@
 - [git-ci](https://github.com/moul/git-ci) - git subcommand to interract with CI/CD from command line
 - [kubecolor](https://github.com/dty1er/kubecolor) - colorizes kubectl output
 - [shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
-- [arkade](https://github.com/alexellis/arkade) - Portable DevOps Marketplace
+- [arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
 - [goreman](https://github.com/mattn/goreman) - foreman clone written in go language
 - [devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
@@ -6117,7 +6118,7 @@
 - [multitwitch](https://github.com/bhamrick/multitwitch) - Multiple twitch streams on one page
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [short-memo](https://github.com/kusabashira/short-memo) - Show short message on top bar
+- [short-memo](https://github.com/kusabashira/short-memo) - [Unmaintained] Show short message on top bar
 - [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [cors-everywhere-firefox-addon](https://github.com/spenibus/cors-everywhere-firefox-addon) - A firefox addon enabling CORS everywhere by altering http responses.
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
@@ -8987,7 +8988,7 @@
 - [gitian-builder](https://github.com/devrandom/gitian-builder) - Build packages in a secure deterministic fashion inside a VM
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [Nagstamon](https://github.com/HenriWahl/Nagstamon) - Nagios status monitor for your desktop.
-- [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is an alternative for w3mimgdisplay
+- [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11
 - [ansible-zabbix-web](https://github.com/dj-wasabi/ansible-zabbix-web) - Installing and maintaining zabbix-web for RedHat/Debian/Ubuntu.
 - [ivre](https://github.com/cea-sec/ivre) - Network recon framework.
 - [zabbix-mongodb](https://github.com/omni-lchen/zabbix-mongodb) - 
@@ -9087,7 +9088,7 @@
 - [scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™ (Maintainer needed)
 - [black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
-- [mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python
+- [mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
 - [calysto_scheme](https://github.com/Calysto/calysto_scheme) - A Scheme kernel for Jupyter that can use Python libraries
 - [importmagic](https://github.com/alecthomas/importmagic) - A Python library for finding unresolved symbols in Python code, and the corresponding imports
 - [picamera](https://github.com/waveform80/picamera) - A pure Python interface to the Raspberry Pi camera module
@@ -9738,7 +9739,7 @@
 
 - [awesome-rshiny](https://github.com/grabear/awesome-rshiny) - An awesome R-shiny list!
 - [purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
-- [timevis](https://github.com/daattali/timevis) - Create interactive timeline visualizations in R
+- [timevis](https://github.com/daattali/timevis) - 📅 Create interactive timeline visualizations in R
 - [remedy](https://github.com/ThinkR-open/remedy) - RStudio Addins to Simplify Markdown Writing
 - [tinytex](https://github.com/yihui/tinytex) - A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live
 - [rscodeio](https://github.com/anthonynorth/rscodeio) - An RStudio theme inspired by Visual Studio Code.
@@ -9975,7 +9976,6 @@
 - [awesome-blockchains](https://github.com/openblockchains/awesome-blockchains) - A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized.
 - [rails](https://github.com/rails/rails) - Ruby on Rails
 - [octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
-- [sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [puppet-lint](https://github.com/rodjek/puppet-lint) - Check that your Puppet manifests conform to the style guide
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
