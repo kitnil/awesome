@@ -400,7 +400,7 @@
 - [ngs](https://github.com/ngs-lang/ngs) - Next Generation Shell (NGS)
 - [jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
-- [core](https://github.com/metacall/core) - A library for providing inter-language foreign function interface calls.
+- [core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 - [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [rpminspect](https://github.com/rpminspect/rpminspect) - RPM (single RPMs, SRPMs, Koji builds, Fedora modules) build deviation analysis tools
@@ -1016,6 +1016,7 @@
 - [Gambador](https://github.com/MaximeGammaitoni/Gambador) - 
 - [privilege-escalation-awesome-scripts-suite](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [schemy](https://github.com/microsoft/schemy) - A lightweight embeddable Scheme-like interpreter for configuration
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [urho-samples](https://github.com/xamarin/urho-samples) - Samples for the Urho bindings
 - [Lemma](https://github.com/etodd/Lemma) - Immersive first-person parkour in a surreal, physics-driven voxel world.
 - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
@@ -1193,7 +1194,6 @@
 - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux
 - [EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [Server](https://github.com/EQEmu/Server) - EQEmu - Open Source EverQuest Server
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
@@ -5754,7 +5754,7 @@
 - [ViewImage](https://github.com/bijij/ViewImage) - Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 - [wdio](https://github.com/blueimp/wdio) - Docker setup for WebdriverIO with automatic screenshots, image diffing and screen recording support for containerized versions of Chrome and Firefox, Mobile Safari and Mobile Chrome via Appium, Safari on MacOS as well as Edge, Edge Legacy and Internet Explorer on Windows 10.
 - [savescreenshot](https://github.com/M-Reimer/savescreenshot) - Save Screenshot Add-on for Firefox. Simple website screenshot maker for Firefox.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 950 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ymlx](https://github.com/matthewadams/ymlx) - Command-line YAML processor
 - [eat](https://github.com/antonmedv/eat) - Eat everything 🧀
 - [chrome-jenkins-relative-links](https://github.com/danybony/chrome-jenkins-relative-links) - Display web-accessible links in Jenkins jobs console
