@@ -194,6 +194,7 @@
 
 ## C 
 
+- [dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 - [iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
 - [libtap](https://github.com/zorgnax/libtap) - Write tests in C
 - [maiko](https://github.com/Interlisp/maiko) - Medley Interlisp virtual machine
@@ -1016,7 +1017,6 @@
 - [Gambador](https://github.com/MaximeGammaitoni/Gambador) - 
 - [privilege-escalation-awesome-scripts-suite](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [schemy](https://github.com/microsoft/schemy) - A lightweight embeddable Scheme-like interpreter for configuration
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [urho-samples](https://github.com/xamarin/urho-samples) - Samples for the Urho bindings
 - [Lemma](https://github.com/etodd/Lemma) - Immersive first-person parkour in a surreal, physics-driven voxel world.
 - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
@@ -1194,6 +1194,7 @@
 - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux
 - [EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [Server](https://github.com/EQEmu/Server) - EQEmu - Open Source EverQuest Server
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
@@ -4146,7 +4147,7 @@
 - [docker-image-resource](https://github.com/concourse/docker-image-resource) - a resource for docker images
 - [json-patch](https://github.com/evanphx/json-patch) - A Go library to apply RFC6902 patches and create and apply RFC7386 patches
 - [oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
-- [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+- [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted vulnerability scanning based on templates offering massive extensibility and ease of use.
 - [shotizam](https://github.com/bradfitz/shotizam) - Shotizam analyzes the size of Go binaries
 - [terraform-provider-gpg](https://github.com/invidian/terraform-provider-gpg) - GPG Terraform provider
 - [etrace](https://github.com/canonical/etrace) - Utility for tracing execution of apps
@@ -5079,7 +5080,6 @@
 - [eyeliner](https://github.com/dustinlacewell/eyeliner) - Makeup for your mode-line
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
-- [emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) - Emacs application framework
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 - [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books) - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
 - [darkContrast](https://github.com/DmitriK/darkContrast) - Firefox addon that fixes low contrast text when using dark desktop theme
@@ -6142,7 +6142,7 @@
 - [craftscape](https://github.com/pyalot/craftscape) - WebGL GPU landscaping and erosion
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
-- [Lepton](https://github.com/hackjutsu/Lepton) - 💻    Democratizing Snippet Management (macOS/Win/Linux)
+- [Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [mStream](https://github.com/IrosTheBeggar/mStream) - The easiest music streaming server available
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -7601,7 +7601,6 @@
 - [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [awesome-tokyo](https://github.com/nodejsjp/awesome-tokyo) - :tokyo_tower: Have a safe and fun travel in Tokyo
 - [awesome-it-quotes](https://github.com/victorlaerte/awesome-it-quotes) - This is a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
-- [shareable-links](https://github.com/vinkla/shareable-links) - A curated list of shareable social media links
 - [awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 - [awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - Curated list of ad-free alternatives to popular services on the web
@@ -8214,7 +8213,7 @@
 
 - [pdftotext](https://github.com/jalan/pdftotext) - Simple PDF text extraction
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-- [pypi-seismometer](https://github.com/sethmlarson/pypi-seismometer) - Tracking the top 5,000 packages on PyPI for changes that may impact the ecosystem
+- [pypi-data](https://github.com/sethmlarson/pypi-data) - Mostly up-to-date data about almost every package on PyPI
 - [writehat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python.  Free yourself from Microsoft Word.
 - [therepl](https://github.com/40ants/therepl) - An extension for IPython to switch between modules and evaluate the code from Emacs like we do in Common Lisp.
 - [pwk](https://github.com/umlet/pwk) - Python With Kurly braces
@@ -9083,6 +9082,7 @@
 - [repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
+- [emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) - Emacs application framework
 - [gif-for-cli](https://github.com/google/gif-for-cli) - 
 - [udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
@@ -9503,7 +9503,7 @@
 - [pinry](https://github.com/pinry/pinry) - The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
 - [gitless](https://github.com/gitless-vcs/gitless) - A simple version control system built on top of Git
 - [Mathics](https://github.com/mathics/Mathics) - A general-purpose computer algebra system.
-- [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, europeandataportal.eu/data, data.humdata.org among many other sites.
+- [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
 - [quokka](https://github.com/quokkaproject/quokka) - LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [BuildingMachineLearningSystemsWithPython](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) - Source Code for the book Building Machine Learning Systems with Python
@@ -9894,7 +9894,7 @@
 - [codeclimate](https://github.com/codeclimate/codeclimate) - Code Climate CLI
 - [rubocop](https://github.com/rubocop-hq/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [jenkins-backup-script](https://github.com/sue445/jenkins-backup-script) - archive jenkins setting and plugins
-- [open-shell-book](https://github.com/tinyclub/open-shell-book) - 开源书籍：《Shell 编程范例》，面向操作对象学 Shell！
+- [open-shell-book](https://github.com/tinyclub/open-shell-book) - 开源书籍：《Shell 编程范例》，面向操作对象学 Shell！本书作者发布了《360°剖析 Linux ELF》视频课程，欢迎订阅：https://www.cctalk.com/m/group/88089283
 - [foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
 - [infrastructure-as-code-training](https://github.com/gruntwork-io/infrastructure-as-code-training) - Materials for learning how to use infrastructure-as-code
 - [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Test Kitchen plugins for testing Terraform configurations
@@ -11036,7 +11036,7 @@
 - [shell-config](https://github.com/alezost/shell-config) - My shell configuration and scripts
 - [Debian-GNU-Linux-Profiles](https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles) - Debian GNU/Linux based Services Profiles
 - [c.sh](https://github.com/eklitzke/c.sh) - Inline C/asm in Bash
-- [open-c-book](https://github.com/tinyclub/open-c-book) - 开源书籍:《C语言编程透视》，配套视频课程已全面上线，https://w.url.cn/s/AMcKZ3a
+- [open-c-book](https://github.com/tinyclub/open-c-book) - 开源书籍:《C语言编程透视》，配套视频课程《360° 剖析 Linux ELF》已上线，视频讲解更为系统和深入，欢迎订阅：https://www.cctalk.com/m/group/88089283
 - [winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker for Linux & BSD
