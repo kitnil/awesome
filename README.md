@@ -423,7 +423,7 @@
 - [lisp-interpreter](https://github.com/justinmeiners/lisp-interpreter) - Embeddable lisp/scheme interpreter written in C.
 - [lpp-vita](https://github.com/Rinnegatamante/lpp-vita) - Lua Player Plus for PSVITA. Documentation on: http://rinnegatamante.github.io/lpp-vita/
 - [python_lite](https://github.com/fy0/python_lite) - [WIP] A simple, lightweight implementation of python3 language.
-- [my_basic](https://github.com/paladin-t/my_basic) - A lightweight BASIC interpreter written in standard C in dual files. Aimed to be embeddable, extendable and portable.
+- [my_basic](https://github.com/paladin-t/my_basic) - A lightweight BASIC interpreter written in standard C in dual files. Aims to be embeddable, extendable and portable.
 - [q3vm](https://github.com/jnz/q3vm) - Q3VM - Single file (vm.c) bytecode virtual machine/interpreter for C-language input
 - [bic](https://github.com/hexagonal-sun/bic) - A C interpreter and API explorer.
 - [simple.vm](https://github.com/skx/simple.vm) - Simple virtual machine which inteprets bytecode.
@@ -8599,7 +8599,7 @@
 - [cast-sh](https://github.com/tunl/cast-sh) - :pager: An instance of your terminal in your browser
 - [cmd2](https://github.com/python-cmd2/cmd2) - cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python
 - [riposte](https://github.com/fwkz/riposte) - Python package for wrapping applications inside a tailored interactive shell
-- [pygogo](https://github.com/reubano/pygogo) - A Python logging library with super powers
+- [pygogo](https://github.com/reubano/pygogo) - A Python logging library with superpowers
 - [systemd-swap](https://github.com/Nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
 - [JSShell](https://github.com/Den1al/JSShell) - An interactive multi-user web JS shell
 - [autoops](https://github.com/hequan2017/autoops) - linux资产管理,cmdb,django, webssh,运维管理平台，数据库操作平台   本项目已停止开发！因长时间未对代码进行维护，可能会造成项目在不同环境上无法部署、运行BUG等问题，请知晓！项目仅供参考！
