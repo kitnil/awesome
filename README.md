@@ -201,7 +201,7 @@
 - [bootterm](https://github.com/wtarreau/bootterm) - The terminal written for its users by its users
 - [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux.
 - [ihct](https://github.com/ollelogdahl/ihct) - 'I Hate C Testing': A minimal testing framework for C.
-- [simple-opengl-loader](https://github.com/tsherif/simple-opengl-loader) - An extensible, cross-platform, (almost) single-file C/C++ OpenGL loader library.
+- [simple-opengl-loader](https://github.com/tsherif/simple-opengl-loader) - An extensible, cross-platform, single-header C/C++ OpenGL loader library.
 - [delete-self-poc](https://github.com/LloydLabs/delete-self-poc) - A way to delete a locked file, or current running executable, on disk.
 - [HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 透明小电视
 - [dwl](https://github.com/djpohly/dwl) - dwm for Wayland
@@ -3072,7 +3072,7 @@
 - [debpaste.el](https://github.com/alezost/debpaste.el) - Emacs client for http://paste.debian.net/
 - [persp-fr](https://github.com/rocher/persp-fr) - Show perspective list in the GUI window frame
 - [dynamic-ruler](https://github.com/rocher/dynamic-ruler) - Emacs package to show a dynamic ruler that can be freely moved around the buffer, for measuring and positioning text.
-- [find-file-in-project](https://github.com/technomancy/find-file-in-project) - Quick access to project files in Emacs
+- [find-file-in-project](https://github.com/redguardtoo/find-file-in-project) - Quick access to project files in Emacs
 - [ruby-end.el](https://github.com/rejeep/ruby-end.el) - Emacs minor mode for automatic insertion of end blocks for Ruby
 - [browse-kill-ring](https://github.com/browse-kill-ring/browse-kill-ring) - For when 'C-y M-y M-y M-y' gets you down
 - [company-flx](https://github.com/PythonNut/company-flx) - :city_sunset: Flx fuzzy matching for company
@@ -4420,7 +4420,6 @@
 - [terraform-variables-generator](https://github.com/alexandrst88/terraform-variables-generator) - Simple Tool for Generate Variables file from Terraform Configuration
 - [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
 - [terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Terraform OpenStack provider
-- [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
 - [terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider
 - [terraform-provider-ansible](https://github.com/nbering/terraform-provider-ansible) - "Logical" provider for integrating with an Ansible Dynamic Inventory script.
 - [terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
@@ -5068,6 +5067,7 @@
 - [shell-novice](https://github.com/swcarpentry/shell-novice) - The Unix Shell
 - [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
+- [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
 - [the-federation.info](https://github.com/thefederationinfo/the-federation.info) - Statistics hub for the Fediverse
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
 - [fuzzdata](https://github.com/MozillaSecurity/fuzzdata) - Fuzzing resources for feeding various fuzzers with input. 🔧
@@ -5619,7 +5619,6 @@
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
-- [liferay-portal](https://github.com/liferay/liferay-portal) - 
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
@@ -5645,7 +5644,7 @@
 - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-- [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
+- [elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 - [Caldroid](https://github.com/roomorama/Caldroid) - A better calendar for Android
 - [spydroid-ipcamera](https://github.com/fyhertz/spydroid-ipcamera) - A powerful and funny android app. that streams the camera and microphone of your phone to your browser or to VLC
@@ -5670,7 +5669,6 @@
 
 ## JavaScript 
 
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take up to 100 days, follow your own pace.
 - [Mark-Mind](https://github.com/MarkMindLtd/Mark-Mind) - MarkMind — a mind map and outliner editor  for Windows, Mac, and Linux,it support markdown in node.
 - [screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
@@ -7590,6 +7588,7 @@
 - [ansible-znc-on-znc](https://github.com/dhellmann/ansible-znc-on-znc) - Configures multiple ZNC bouncer instances so each client can have its own scroll back log.
 - [guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
 - [awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
+- [liferay-portal](https://github.com/liferay/liferay-portal) - 
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them.
 - [pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
 - [your-web-app-is-bloated](https://github.com/dominictarr/your-web-app-is-bloated) - measuring memory usage of popular webapps
@@ -8320,7 +8319,7 @@
 - [timezones-cli](https://github.com/yankeexe/timezones-cli) - CLI Tool to store and glance date time from multiple time zones.
 - [jsonresume-fake](https://github.com/jsonresume/jsonresume-fake) - Fully generated fake resumes using machine learning models trained off ~6000 JSON resumes.
 - [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
-- [kapitan](https://github.com/deepmind/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
+- [kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [org-du](https://github.com/novoid/org-du) - Visualizing Emacs Org-mode heading lines using du and xdu
 - [integratethis](https://github.com/novoid/integratethis) - Integrate programs or scripts into common tools like Windows Explorer context menu
 - [python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
@@ -8934,7 +8933,7 @@
 - [xml2json](https://github.com/hay/xml2json) - Python script converts XML to JSON or the other way around
 - [sublert](https://github.com/yassineaboukir/sublert) - Sublert is a security and reconnaissance tool which leverages certificate transparency to automatically monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate.
 - [pyfiscan](https://github.com/fgeek/pyfiscan) - Free web-application vulnerability and version scanner
-- [tsrc](https://github.com/TankerHQ/tsrc) - Manage groups of git repositories
+- [tsrc](https://github.com/dmerejkowsky/tsrc) - Manage groups of git repositories
 - [csv2ofx](https://github.com/reubano/csv2ofx) - A Python library and command line tool for converting csv to ofx and qif files
 - [colorize](https://github.com/lonetwin/colorize) - *nixy filter that adds color to its standard input by rows or columns
 - [python-draftlog](https://github.com/cooperhammond/python-draftlog) - :scroll: Fancy logs with expandable tools. Bring life to your terminal!
@@ -10000,7 +9999,7 @@
 - [css-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend
 - [graphiti](https://github.com/graphiti-api/graphiti) - Stylish Graph APIs
 - [iruby](https://github.com/SciRuby/iruby) - Official gem repository: Ruby kernel for Jupyter/IPython Notebook
-- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
 - [ssh_scan](https://github.com/mozilla/ssh_scan) - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
 - [goby](https://github.com/nskins/goby) - Command-line role-playing game framework
 - [reveal-ck](https://github.com/jedcn/reveal-ck) - Create slides with ruby (and usually in markdown)
@@ -11667,6 +11666,7 @@
 
 ## Vue 
 
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [ultrawidify](https://github.com/tamius-han/ultrawidify) - Firefox extension that allows you to work around some people's inability to properly encode 21:9 videos.
 - [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
 - [vue-stroll](https://github.com/xiaoluoboding/vue-stroll) - 📜 Vue.js + Stroll.js. Awesome CSS list scroll effects for Vue2.x.
