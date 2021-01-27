@@ -575,7 +575,7 @@
 - [nemesis](https://github.com/libnet/nemesis) - A command-line network packet crafting and injection utility
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
-- [ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
+- [ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [LISP](https://github.com/krig/LISP) - Lisp interpreter in less than 500 lines of C, including a copying garbage collector and an implementation of LISP 1.5 from 1962.
 - [h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
 - [imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
@@ -3872,7 +3872,7 @@
 ## Go 
 
 - [wprecon](https://github.com/blackbinn/wprecon) - Hello! Welcome. WPrecon (Wordpress Recon), is a vulnerability recognition tool in CMS Wordpress, 100% developed in Go.
-- [mosdns](https://github.com/IrineSistiana/mosdns) - 插件化的"可编程"的 DNS 转发器。mosdns is a "programmable" DNS forwarder.
+- [mosdns](https://github.com/IrineSistiana/mosdns) - 一个插件化的"可编程"的 DNS 转发器。A "programmable" DNS forwarder.
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
@@ -3884,7 +3884,7 @@
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [re-txt](https://github.com/alash3al/re-txt) - converts text-formats from one to another, it is very useful if you want to re-format a json file to yaml, toml to yaml, csv to yaml, ... etc
 - [toc](https://github.com/ycd/toc) - 🚩 TOC, zero configuration table of content generator for Markdown files, create table of contents from any Markdown file with ease.
-- [goful](https://github.com/anmitsu/goful) - Goful is a CUI file manager implemented by Go.
+- [goful](https://github.com/anmitsu/goful) - Goful is a CUI file manager written in Go.
 - [go-telegram-notifier](https://github.com/SlitiBrahim/go-telegram-notifier) - A Go REST API allowing me to send messages to myself, on my phone, according to some events.
 - [journalist](https://github.com/mrusme/journalist) - Journalist. An RSS aggregator.
 - [vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
@@ -4157,7 +4157,7 @@
 - [gopenpgp](https://github.com/ProtonMail/gopenpgp) - A high-level OpenPGP library
 - [unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
 - [assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
-- [tracee](https://github.com/aquasecurity/tracee) - Container and system event tracing using eBPF
+- [tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 - [rabbit-tcp](https://github.com/ihciah/rabbit-tcp) - A multi-connection TCP forwarder/accelerator
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [scout](https://github.com/liamg/scout) - 🔭 Lightweight URL fuzzer and spider: Discover a web server's undisclosed files, directories and VHOSTs
@@ -8283,7 +8283,7 @@
 - [boltstream](https://github.com/benwilber/boltstream) - Boltstream Live Video Streaming Website + Backend
 - [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
-- [ace-attorney-reddit-bot](https://github.com/micah5/ace-attorney-reddit-bot) - Reddit bot that turns comment chains into ace attorney scenes.
+- [ace-attorney-reddit-bot](https://github.com/micah5/ace-attorney-reddit-bot) - 👨🏼‍⚖️ reddit bot that turns comment chains into ace attorney scenes
 - [Arbitrium-RAT](https://github.com/BenChaliah/Arbitrium-RAT) - Arbitrium is a cross-platform, fully undetectable remote access trojan, to control Android, Windows and Linux and doesn't require any firewall exceptions or port forwarding rules
 - [best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
@@ -8803,7 +8803,7 @@
 - [porthole-python-client](https://github.com/jcaw/porthole-python-client) - 🔭 Python client for Emacs Porthole. An easy way to make RPC calls to Emacs.
 - [slack-cli](https://github.com/regisb/slack-cli) - Slack CLI for productive developers
 - [graphviz](https://github.com/xflr6/graphviz) - Simple Python interface for Graphviz
-- [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations
+- [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations. Python Infrastructure as Code (IaC) for Cisco IOS (and other vendors).
 - [json-graph-specification](https://github.com/jsongraph/json-graph-specification) - A proposal for representing graph structure (nodes / edges) in JSON.
 - [py-amqp](https://github.com/celery/py-amqp) - amqplib fork
 - [cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
@@ -8845,6 +8845,7 @@
 - [netdisco](https://github.com/home-assistant/netdisco) - :mag_right: Python library to scan local network for services and devices.
 - [getaltname](https://github.com/franccesco/getaltname) - Extract subdomains from SSL certificates in HTTPS sites.
 - [setup.py](https://github.com/navdeep-G/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
+- [YaSQL](https://github.com/lazzyfu/YaSQL) - 基于Python开发的MySQL WEB版本的工单审核执行和SQL查询平台
 - [awesome-scripts](https://github.com/superhj1987/awesome-scripts) - useful scripts for Linux op
 - [netaddr](https://github.com/netaddr/netaddr) - A network address manipulation library for Python
 - [AndroidViewClient](https://github.com/dtmilano/AndroidViewClient) - Android ViewServer client
@@ -11684,7 +11685,6 @@
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [shortkeys](https://github.com/mikecrittenden/shortkeys) - A browser extension for custom keyboard shortcuts
-- [YaSQL](https://github.com/lazzyfu/YaSQL) - 基于Python开发的MySQL WEB版本的工单审核执行和SQL查询平台
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
 - [logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
