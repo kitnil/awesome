@@ -3871,8 +3871,8 @@
 
 ## Go 
 
-- [wprecon](https://github.com/blackbinn/wprecon) - Hello! Welcome. WPrecon (Wordpress Recon), is a vulnerability recognition tool in CMS Wordpress, 100% developed in Go.
-- [mosdns](https://github.com/IrineSistiana/mosdns) - 一个插件化的"可编程"的 DNS 转发器。A "programmable" DNS forwarder.
+- [wprecon](https://github.com/blackbinn/wprecon) - WPrecon (WordPress Recon), is a vulnerability recognition tool in CMS Wordpress, developed in Go and Lua.
+- [mosdns](https://github.com/IrineSistiana/mosdns) - 一个"可编程"的 DNS 转发器。A "programmable" DNS forwarder.
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
