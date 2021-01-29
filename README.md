@@ -67,6 +67,7 @@
   - [M4](#m4)
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [Matlab](#matlab)
   - [NewLisp](#newlisp)
   - [Nim](#nim)
@@ -3872,7 +3873,7 @@
 ## Go 
 
 - [wprecon](https://github.com/blackbinn/wprecon) - WPrecon (WordPress Recon), is a vulnerability recognition tool in CMS Wordpress, developed in Go and Lua.
-- [mosdns](https://github.com/IrineSistiana/mosdns) - 一个"可编程"的 DNS 转发器。A "programmable" DNS forwarder.
+- [mosdns](https://github.com/IrineSistiana/mosdns) - 一个"可编程"的 DNS 转发器。A DNS forwarder that is "programmable".
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
@@ -4392,7 +4393,7 @@
 - [pipethis](https://github.com/ellotheth/pipethis) - Replace your `curl | sh` installers
 - [complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
 - [rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
-- [elvish](https://github.com/elves/elvish) - Friendly Interactive Shell and Expressive Programming Language
+- [elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [werf](https://github.com/werf/werf) - GitOps delivery tool
 - [torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
@@ -5052,7 +5053,6 @@
 - [proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
 - [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more
-- [CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
 - [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
@@ -5677,7 +5677,7 @@
 - [next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是使用Golang和React开发的一款HTML5的远程桌面网关，具有小巧、易安装、易使用、资源占用小的特点，支持RDP、SSH、VNC和Telnet协议的连接和管理。
 - [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL is a free and open-source fork of @mapbox/mapbox-gl
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
-- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 300+ social media websites (Detections are updated regularly)
 - [papers-with-video](https://github.com/amitness/papers-with-video) - Chrome extension that adds video explanations to research papers on arxiv.org
 - [github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
@@ -5685,7 +5685,7 @@
 - [linkremark](https://github.com/maxnikulin/linkremark) - LinkRemark - page or link notes with context
 - [webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 - [Starhub](https://github.com/Github-Web-Apps/Starhub) - :octocat: All about your Github account, public and private activity, watch stars, followers and much more.
-- [sentinl](https://github.com/lmangani/sentinl) - Kibana Alert & Report App for Elasticsearch
+- [sentinl](https://github.com/sentinl/sentinl) - Kibana Alert & Report App for Elasticsearch
 - [umlet](https://github.com/umlet/umlet) - Free UML Tool for Fast UML Diagrams
 - [monkeytype](https://github.com/Miodec/monkeytype) - A minimalistic typing test
 - [ttv-ublock](https://github.com/odensc/ttv-ublock) - Blocking ads on that certain streaming website
@@ -6783,6 +6783,10 @@
 - [python-regex-cheatsheet](https://github.com/tartley/python-regex-cheatsheet) - Python 2.7 Regular Expression cheatsheet, as a restructured text document and Makefile to convert it to PDF
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [provision_docker](https://github.com/chrismeyersfsu/provision_docker) - Test Ansible roles and playbooks using Docker
+
+## Markdown 
+
+- [CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
 
 ## Matlab 
 
@@ -8086,7 +8090,7 @@
 - [sudo-parser](https://github.com/CiscoCXSecurity/sudo-parser) - sudo-parser is a tool to audit complex sudoers files
 - [flametrace](https://github.com/leifwalsh/flametrace) - Build flamegraph charts for process trees, based on strace
 - [waybackurls.pl](https://github.com/LvMalware/waybackurls.pl) - Search for urls of (sub)domains using the web archive database
-- [nzkflow](https://github.com/NozakiLabs/nzkflow) - An HTTP fuzzer based on dynamics workflows written in YAML
+- [nzkfuzzer](https://github.com/NozakiLabs/nzkfuzzer) - An HTTP fuzzer based on dynamics workflows written in YAML
 - [ipmi_fancontrol-ng](https://github.com/DrSpeedy/ipmi_fancontrol-ng) - IPMI Fan Control Daemon
 - [git-branchdates](https://github.com/rolandwalker/git-branchdates) - Highly configurable git branch lister with TrueColor and GitHub PR support
 - [draco](https://github.com/andinus/draco) - Draco is a script to convert reddit thread to Org document
@@ -10493,7 +10497,6 @@
 - [sicp-solutions](https://github.com/dhess/sicp-solutions) - My solutions to exercises in the 2nd edition of Abelson and Sussman's SICP
 - [emacsy](https://github.com/shanecelis/emacsy) - An embeddable Emacs-like library for GNU Guile Scheme
 - [guile-kernel](https://github.com/jerry40/guile-kernel) - GNU Guile Scheme kernel for Jupyter Notebook
-- [gwl-atacseq](https://github.com/UMCUGenetics/gwl-atacseq) - ATACseq pipeline using the Guix Workflow Language.
 - [lalr-scm](https://github.com/schemeway/lalr-scm) - An Efficient LALR(1) Parser Generator for Scheme
 - [allegro-egg](https://github.com/dleslie/allegro-egg) - Allegro 5 bindings for Chicken Scheme
 - [monad-egg](https://github.com/dleslie/monad-egg) - Monads for scheme
