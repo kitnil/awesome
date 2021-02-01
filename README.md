@@ -317,7 +317,6 @@
 - [spacefm](https://github.com/IgnorantGuru/spacefm) - SpaceFM File Manager
 - [ksuperkey](https://github.com/hanschen/ksuperkey) - Linux utility that allows you to use the Super key both to open the start menu and as a modifier key in keyboard shortcuts
 - [colorpicker](https://github.com/Jack12816/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
-- [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [octopus](https://github.com/duncanthrax/octopus) - Simple networked Keyboard/Mouse sharing
 - [keynav](https://github.com/jordansissel/keynav) - retire your mouse.
 - [vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
@@ -1105,6 +1104,7 @@
 - [emacsbridge](https://github.com/aardsoft/emacsbridge) - An application to bridge between the Android and Emacs world
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
+- [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
 - [LuaFormatter](https://github.com/Koihik/LuaFormatter) - Code formatter for Lua
 - [inspircd](https://github.com/inspircd/inspircd) - A modular C++ IRC server (ircd).
@@ -3872,7 +3872,8 @@
 
 ## Go 
 
-- [wprecon](https://github.com/blackbinn/wprecon) - WPrecon (WordPress Recon), is a vulnerability recognition tool in CMS Wordpress, developed in Go and Lua.
+- [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
+- [wprecon](https://github.com/blackbinn/wprecon) - WPrecon (WordPress Recon), is a vulnerability recognition tool in CMS Wordpress, developed in Go and with scripts in LUA.
 - [mosdns](https://github.com/IrineSistiana/mosdns) - 一个"可编程"的 DNS 转发器。A DNS forwarder that is "programmable".
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
@@ -5459,7 +5460,7 @@
 - [gitblit](https://github.com/gitblit/gitblit) - pure java git solution
 - [chibe](https://github.com/raatmarien/chibe) - An Android application that reminds you of the time
 - [mindful-android-launcher](https://github.com/maysax/mindful-android-launcher) - Siempo Android Launcher - Smartphone interface for mental health and wellbeing
-- [dev-tools](https://github.com/reugn/dev-tools) - Common development tools in one app
+- [dev-tools](https://github.com/reugn/dev-tools) - The most popular software developer tools in one app
 - [directory-watcher](https://github.com/gmethvin/directory-watcher) - A cross-platform Java recursive directory watcher, with a JNA macOS watcher and Scala better-files integration
 - [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
@@ -10688,7 +10689,7 @@
 - [rofi-blurry-powermenu](https://github.com/lu0/rofi-blurry-powermenu) - Fullscreen Powermenu with blur effect made with Rofi
 - [dohot](https://github.com/alecmuffett/dohot) - DoHoT: making practical use of DNS over HTTPS over Tor
 - [get-gitlab-forks](https://github.com/yurug/get-gitlab-forks) - Retrieve all the forks of a gitlab project
-- [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release as seen on YouTube
+- [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release. As seen on YouTube 📺
 - [txt2regex](https://github.com/aureliojargas/txt2regex) - Regex wizard for the terminal, written in Bash
 - [clitest](https://github.com/aureliojargas/clitest) - Command Line Tester
 - [aviary.sh](https://github.com/team-video/aviary.sh) - Minimal distributed configuration management in bash
