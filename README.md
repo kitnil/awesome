@@ -507,7 +507,6 @@
 - [emacs-mruby-test](https://github.com/syohex/emacs-mruby-test) - Emacs with mruby
 - [termbox](https://github.com/nsf/termbox) - Library for writing text-based user interfaces
 - [bitlbee-mastodon](https://github.com/kensanata/bitlbee-mastodon) - A Mastodon plugin for Bitlbee
-- [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [one-line-wonders](https://github.com/wzhouwzhou/one-line-wonders) - OneLineWondersCode | 1000+ Commits | 278/300 One Liners | 200+ Forks | Actively maintained open-source collection of "one-line" programs performing various tasks in different languages
 - [shc](https://github.com/neurobin/shc) - Shell script compiler
 - [xCrash](https://github.com/iqiyi/xCrash) - 🔥 xCrash provides the Android app with the ability to capture java crash, native crash and ANR. No root permission or any system permissions are required.
@@ -2063,7 +2062,7 @@
 - [hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation
 - [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging and web API client in Elixir
 - [accent](https://github.com/mirego/accent) - The first developer-oriented translation tool. True asynchronous flow between translators and your team.
-- [analytics](https://github.com/plausible/analytics) - Simple and privacy-friendly alternative to Google Analytics
+- [analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [gitgud](https://github.com/almightycouch/gitgud) - A Git source code management tool powered by Elixir with easy installation & high extensibility.
 - [credo](https://github.com/rrrene/credo) - A static code analysis tool for the Elixir language with a focus on code consistency and teaching.
@@ -3906,7 +3905,6 @@
 - [box](https://github.com/prologic/box) - 📦 A command-line utility (non-daemon) for creating Linux containers, sandboxing a processes written in Go.
 - [smithy](https://github.com/honza/smithy) - A tiny git forge written in Go
 - [urlhunter](https://github.com/utkusen/urlhunter) - a recon tool that allows searching on URLs that are exposed via shortener services
-- [systemk](https://github.com/miekg/systemk) - Virtual Kubelet Provider for Systemd
 - [DevSecOps](https://github.com/hahwul/DevSecOps) - 🔱 Collection and Roadmap for everyone who wants DevSecOps.
 - [statsview](https://github.com/go-echarts/statsview) - 🚀 A real-time Golang runtime stats visualization profiler
 - [dsnet](https://github.com/naggie/dsnet) - Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
@@ -4598,6 +4596,7 @@
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [spruce](https://github.com/geofffranks/spruce) - A BOSH template merge tool
 - [torus-cli](https://github.com/manifoldco/torus-cli) - A secure, shared workspace for secrets
+- [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
@@ -5423,6 +5422,7 @@
 
 ## Java 
 
+- [questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
 - [Recyclerview-Gallery](https://github.com/ryanlijianchang/Recyclerview-Gallery) - Recyclerview-Gallery：This library shows you a gallery using RecyclerView.
 - [appbarlayout-spring-behavior](https://github.com/ToDou/appbarlayout-spring-behavior) - One Behavior help AppBarLayout to scroll spring
@@ -5847,7 +5847,7 @@
 - [jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage. Now with protected boxes.
 - [chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
-- [mdanki](https://github.com/ashlinchak/mdanki) - Converts Markdown file(s) to the Anki cards.
+- [mdanki](https://github.com/ashlinchak/mdanki) - Markdown to Anki converter
 - [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
@@ -6238,7 +6238,7 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
 - [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -6866,7 +6866,7 @@
 - [kubenix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using nix
 - [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS.
 - [nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
-- [nixpkgs-channels](https://github.com/NixOS/nixpkgs-channels) - DEPRECATED! This is an obsolete, read-only mirror of the NixOS/nixpkgs repository.
+- [nixpkgs-channels](https://github.com/NixOS/nixpkgs-channels) - DEPRECATED! Use NixOS/nixpkgs repository instead.
 - [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix
