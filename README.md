@@ -1060,7 +1060,7 @@
 - [libhv](https://github.com/ithewei/libhv) - Like libevent and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler api and richer protocols.
 - [solidity](https://github.com/ethereum/solidity) - Solidity, the Contract-Oriented Programming Language
 - [clip](https://github.com/dacap/clip) - Cross-platform C++ library to copy/paste clipboard content
-- [ksnip](https://github.com/ksnip/ksnip) - Ksnip is a Qt based cross-platform screenshot tool that provides many annotation features for your screenshots.
+- [ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [wmderland](https://github.com/aesophor/wmderland) - 🌳 X11 tiling window manager using space partitioning trees
 - [Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples) - One stop solution for all Vulkan samples
 - [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - 
@@ -2100,7 +2100,7 @@
 - [org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle Org mode LaTeX fragment previews as the cursor enters and exits them
 - [jetbrains-darcula-emacs-theme](https://github.com/ianpan870102/jetbrains-darcula-emacs-theme) - A complete port of the default JetBrains Darcula theme for Emacs
 - [org-starless](https://github.com/TonCherAmi/org-starless) - Hide heading stars in org-mode.
-- [validate-html](https://github.com/arthurgleckler/validate-html) - 
+- [validate-html](https://github.com/arthurgleckler/validate-html) - Run the W3C HTML Validator directly from Emacs.
 - [orgstrap](https://github.com/tgbugs/orgstrap) - Executable Org files
 - [polybrain.el](https://github.com/dustinlacewell/polybrain.el) - Polymode support for Org-brain
 - [tower-of-babix](https://github.com/dustinlacewell/tower-of-babix) - Run snippets for many languages with Emacs and Nix
@@ -5677,7 +5677,7 @@
 - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [estimator.dev](https://github.com/GoogleChromeLabs/estimator.dev) - 🧮 Calculate the size and performance impact of switching to modern JavaScript syntax.
 - [next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是使用Golang和React开发的一款HTML5的远程桌面网关，具有小巧、易安装、易使用、资源占用小的特点，支持RDP、SSH、VNC和Telnet协议的连接和管理。
-- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL is a free and open-source fork of @mapbox/mapbox-gl
+- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL is a free and open-source fork of mapbox-gl-js
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 300+ social media websites (Detections are updated regularly)
 - [papers-with-video](https://github.com/amitness/papers-with-video) - Chrome extension that adds video explanations to research papers on arxiv.org
