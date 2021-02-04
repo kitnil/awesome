@@ -1944,6 +1944,7 @@
 
 ## D 
 
+- [dhcptest](https://github.com/CyberShadow/dhcptest) - Cross-platform DHCP test client
 - [dlangui](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language
 - [dagon](https://github.com/gecko0307/dagon) - 3D game engine for D
 - [vk](https://github.com/vk-cli/vk) - A console client for vk.com
@@ -4391,7 +4392,7 @@
 - [nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering. also shitty static site generator.
 - [wash](https://github.com/puppetlabs/wash) - Wide Area SHell: a cloud-native shell for bringing remote infrastructure to your terminal.
-- [vsh](https://github.com/fishi0x01/vsh) - vsh - HashiCorp Vault interactive shell
+- [vsh](https://github.com/fishi0x01/vsh) - vsh - HashiCorp Vault interactive shell and cli tool
 - [tj](https://github.com/sgreben/tj) - stdin line timestamps. single binary, no dependencies. osx & linux & windows. plays well with jq.
 - [spotitube](https://github.com/streambinder/spotitube) - Synchronize your Spotify collections downloading from external providers
 - [rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
@@ -8295,6 +8296,7 @@
 
 ## Python 
 
+- [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN
 - [Scrapera](https://github.com/DarshanDeshpande/Scrapera) - A universal package of scraper scripts for humans
 - [wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
@@ -10607,7 +10609,7 @@
 - [shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
 - [git-repo-watcher](https://github.com/kolbasa/git-repo-watcher) - A simple bash script to watch a git repository and pull upstream changes if needed.
 - [byp4xx](https://github.com/lobuhi/byp4xx) - Simple bash script to bypass "403 Forbidden" messages with well-known methods discussed in #bugbountytips
-- [howtopopbuntu](https://github.com/themagicalmammal/howtopopbuntu) - Things I use on my Pop, should work for every Ubuntu Based Distro.
+- [howtopopbuntu](https://github.com/themagicalmammal/howtopopbuntu) - Tweaks for Debian & Ubuntu based Distro.
 - [bmks](https://github.com/Retinazer/bmks) - unix bookmark management that sucks less
 - [DAC](https://github.com/baibhavanand/DAC) - DAC - Domain Availability Checker is a tool written in bash to help people find available domains from the comfort of their terminal. People can choose to pass one domain or wordlist to scan the availability from. People can also choose to store the output (List of available domains) in a different text file.
 - [archbox](https://github.com/lemniskett/archbox) - Easy to use Arch Linux chroot enviroment with some functionalities to integrate it with your existing Linux installation.
