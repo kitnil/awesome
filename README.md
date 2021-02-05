@@ -3663,7 +3663,6 @@
 - [gist.el](https://github.com/defunkt/gist.el) - Yet another Emacs paste mode, this one for Gist.
 - [emacs-geeknote](https://github.com/avendael/emacs-geeknote) - Use Evernote in Emacs through geeknote
 - [org-toodledo](https://github.com/christopherjwhite/org-toodledo) - Emacs enhancement for syncing org-mode tasks with Toodledlo
-- [spray](https://github.com/ian-kelling/spray) - [Emacs] an elisp implementation of OpenSpritz
 - [octopress.el](https://github.com/aaronbieber/octopress.el) - An Emacs major mode for interacting with Octopress blogs.
 - [org-sync](https://github.com/daimrod/org-sync) - Synchronize Org documents with external services
 - [company-math](https://github.com/vspinu/company-math) - Completion back-ends for for math unicode symbols and latex tags
@@ -3921,7 +3920,7 @@
 - [grafana-export](https://github.com/Thunderbottom/grafana-export) - A small utility to download all dashboards from Grafana and backup to S3
 - [distri](https://github.com/distr1/distri) - a Linux distribution to research fast package management
 - [soryu](https://github.com/enjuus/soryu) - glitch an image in the terminal
-- [crowdsec](https://github.com/crowdsecurity/crowdsec) - Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.
+- [crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - an open-source massively multiplayer firewall able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global IP reputation database to protect the user network.
 - [BountyIt](https://github.com/Shivangx01b/BountyIt) - A fuzzer made in golang for finding issues like xss, lfi, rce, ssti...that detects issues using change in content length and verify it using signatures
 - [gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana
 - [dewm](https://github.com/driusan/dewm) - A pure go autotiling window manager written with literate programming
@@ -5968,7 +5967,7 @@
 - [Twitch-Streams-Extension](https://github.com/nir94/Twitch-Streams-Extension) - Firefox extension to show active twitch streams using new api (WebExtensions)
 - [yet-another-jenkins-notifier](https://github.com/ggirou/yet-another-jenkins-notifier) - This extension monitors Jenkins jobs and notifies you of build results.
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your GitHub, GitLab and Bitbucket repositories.
 - [tranquility-reader-webextensions](https://github.com/ushnisha/tranquility-reader-webextensions) - Tranquility Reader rewritten using Webextensions API
 - [web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages
 - [bebop](https://github.com/kumabook/bebop) - Groovy WebExtension that offers command line interface like emacs helm for browsing.
@@ -6078,7 +6077,7 @@
 - [cat-names](https://github.com/sindresorhus/cat-names) - :cat2: Get popular cat names
 - [start-server-and-test](https://github.com/bahmutov/start-server-and-test) - Starts server, waits for URL, then runs test command; when the tests end, shuts down server
 - [singlespotify](https://github.com/kabirvirji/singlespotify) - 🎵 Create Spotify playlists based on one artist through the command line
-- [splash-cli](https://github.com/splash-cli/splash-cli) - 📸 Beautiful wallpapers from Unsplash 🖼️🛠️
+- [splash-cli](https://github.com/splash-cli/splash-cli) - A simple, command line tool to download Unsplash wallpapers. It’s not intended to be anything particularly fancy — it just works.
 - [travis-watch](https://github.com/juliangruber/travis-watch) - Stream live travis test results of the current commit to your terminal!
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
 - [prettier-eslint-cli](https://github.com/prettier/prettier-eslint-cli) - CLI for prettier-eslint
@@ -7216,7 +7215,7 @@
 - [tcpip-study](https://github.com/chenshuo/tcpip-study) - Shuo's learning notes on Linux TCP/IP stack
 - [fetch-all-the-things](https://github.com/domsson/fetch-all-the-things) - A list of *nix fetch utilities
 - [dockerbomb](https://github.com/amoffat/dockerbomb) - Similar to a fork bomb, but for Docker.  A simple experiment in recursive docker images.
-- [awesome-interview-questions](https://github.com/bmarvinb/awesome-interview-questions) - A lot of questions and links to prepare yourself for an interview.
+- [software-engineer-interview-questions](https://github.com/bmarvinb/software-engineer-interview-questions) - A lot of questions and links to prepare yourself for an interview.
 - [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) - A curated list of Google Earth Engine resources
@@ -11261,7 +11260,7 @@
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
+- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
@@ -11507,7 +11506,7 @@
 - [make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
 - [pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
 - [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
-- [qawolf](https://github.com/qawolf/qawolf) - 🐺 Ship confidently
+- [qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [apk-mitm](https://github.com/shroudedcode/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
