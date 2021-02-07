@@ -195,6 +195,7 @@
 
 ## C 
 
+- [libbpfgo-beginners](https://github.com/lizrice/libbpfgo-beginners) - Basic eBPF examples in Golang using libbpfgo
 - [disnix](https://github.com/svanderburg/disnix) - Disnix: A Nix-based distributed service deployment tool
 - [pacman.c](https://github.com/floooh/pacman.c) - Simple Pacman clone written in C99.
 - [linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
@@ -3874,7 +3875,6 @@
 
 - [team-manager](https://github.com/cilium/team-manager) - Bot to manage team members in GitHub organizations
 - [cert-checker](https://github.com/mogensen/cert-checker) - Certificate monitoring utility for watching tls certificates and reporting the result as metrics.
-- [libbpfgo-beginners](https://github.com/lizrice/libbpfgo-beginners) - Basic eBPF examples in Golang using libbpfgo
 - [notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [slick](https://github.com/ExaScience/slick) - The Slick programming language is an s-expression surface syntax for Go.
@@ -5177,7 +5177,6 @@
 - [DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
 - [pykwiki](https://github.com/nullism/pykwiki) - PyKwiki, a static file Python MarkDown wiki rendered by Jinja2
 - [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
-- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
 - [ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 - [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
@@ -5687,7 +5686,7 @@
 - [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL is a free and open-source fork of mapbox-gl-js
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 300+ social media websites (Detections are updated regularly)
-- [papers-with-video](https://github.com/amitness/papers-with-video) - Chrome extension that adds video explanations to research papers on arxiv.org
+- [papers-with-video](https://github.com/amitness/papers-with-video) - Chrome Extension that adds video explanations to research papers on arxiv.org
 - [github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
 - [youtube-video-quality](https://github.com/dessant/youtube-video-quality) - Watch YouTube in your preferred video quality
@@ -6493,7 +6492,7 @@
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
 - [arch-wiki-md-repo](https://github.com/greg-js/arch-wiki-md-repo) - All arch-wiki articles in markdown format, updated every week
 
 ## Jsonnet 
@@ -6586,7 +6585,6 @@
 ## Kotlin 
 
 - [VancedManager](https://github.com/YTVanced/VancedManager) - Vanced Installer
-- [animeta](https://github.com/dittos/animeta) - Manage your anime watch history.
 - [archwiki-viewer](https://github.com/kevinhinterlong/archwiki-viewer) - A simple Android specific viewer for the Arch Linux Wiki.
 - [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Most popular open source Android Alarm Clock App
 - [wwmmo](https://github.com/codeka/wwmmo) - War Worlds MMO
@@ -7143,7 +7141,6 @@
 - [awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
 - [Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
 - [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture
-- [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list containing awesome YouTubers that teach about technology.
 - [awesome-phpstorm](https://github.com/WyriHaximus/awesome-phpstorm) - A curated list of amazingly awesome PHPStorm plugins, resources and other shiny things.
 - [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [awesome-composer](https://github.com/jakoch/awesome-composer) - :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.
@@ -8366,6 +8363,7 @@
 - [awesome-fast-attention](https://github.com/Separius/awesome-fast-attention) - list of efficient attention modules
 - [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
+- [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list containing awesome YouTubers that teach about technology.
 - [uwsgitop](https://github.com/xrmx/uwsgitop) - top-like app for monitoring uWSGI instances
 - [ptmv](https://github.com/kal39/ptmv) - An utf-8/truecolor image and video viewer for the terminal
 - [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
@@ -8833,7 +8831,7 @@
 - [torf-cli](https://github.com/rndusr/torf-cli) - CLI tool for creating, reading and editing torrent files
 - [torf](https://github.com/rndusr/torf) - Python module to create, parse and edit torrent files and magnet links
 - [cook](https://github.com/abo-abo/cook) - Makefile -&gt; Cookbook.py
-- [yq](https://github.com/kislyuk/yq) - Command-line YAML and XML processor - jq wrapper for YAML/XML documents
+- [yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [ProtonDB-Tags](https://github.com/CorruptComputer/ProtonDB-Tags) - Pull ratings from ProtonDB and import them into your Steam library as tags.
 - [pyramid](https://github.com/Pylons/pyramid) - Pyramid - A Python web framework
 - [LaunchCold](https://github.com/earvingad/LaunchCold) - FullScreen App Launcher for Openbox.
@@ -10449,6 +10447,7 @@
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
+- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
 ## Sass 
 
@@ -10582,7 +10581,6 @@
 - [vfio-single-amdgpu-passthrough](https://github.com/cosminmocan/vfio-single-amdgpu-passthrough) - This repo is a tutorial for single amd gpu passthrough to various qemu VMs
 - [cfetch](https://github.com/kluntze/cfetch) - A simple system information tool for Linux.
 - [dockerfile-shebang](https://github.com/JakeWharton/dockerfile-shebang) - Treat your Dockerfiles as self-contained, editable scripts
-- [autoig](https://github.com/noob-hackers/autoig) - Get More Stuff In Out Youtube Channel bitly.com/nhytchannel
 - [2D-block-texture-pack](https://github.com/ThePotatoKing55/2D-block-texture-pack) - Replaces 3D models with flat textures in the Minecraft GUI.
 - [dns-here](https://github.com/no-gravity/dns-here) - Run a temporary DNS server that resolves a given hostname to the current IP
 - [metahttp](https://github.com/vp777/metahttp) - A bash script that automates the scanning of a target network for HTTP resources through XXE
@@ -10771,7 +10769,7 @@
 - [tmux-colortag](https://github.com/Determinant/tmux-colortag) - A plug-and-play, minimal tmux plugin/theme that automatically colors the window tags.
 - [screenshot-actions](https://github.com/jrodal98/screenshot-actions) - Dunst actions for screenshots (OCR, upload to 0x0.st, delete, rename, move to/from clipboard)
 - [shell-checker](https://github.com/MarounMaroun/shell-checker) - ✅ GitHub action for running ShellCheck on shell files in your PR
-- [axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for anybody! Distribute the workload of many different tools with ease, including nmap, ffuf, masscan, nuclei and many more!
+- [axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
 - [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 - [lostfiles](https://github.com/graysky2/lostfiles) - Simple script that identifies files not owned by any Arch Linux package.
@@ -11454,6 +11452,7 @@
 - [shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，Efforts to update in progress...
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+- [animeta](https://github.com/dittos/animeta) - Manage your anime watch history.
 - [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
@@ -11716,7 +11715,7 @@
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [shortkeys](https://github.com/mikecrittenden/shortkeys) - A browser extension for custom keyboard shortcuts
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
