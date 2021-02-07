@@ -5719,7 +5719,6 @@
 - [express-rate-limit](https://github.com/nfriedly/express-rate-limit) - Basic rate-limiting middleware for express
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects and FAQ for my Complete JavaScript course
-- [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [wizzy](https://github.com/grafana-wizzy/wizzy) - Manage & automate Grafana with easy wizzy
 - [drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
@@ -11452,6 +11451,7 @@
 - [shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，Efforts to update in progress...
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+- [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [animeta](https://github.com/dittos/animeta) - Manage your anime watch history.
 - [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
