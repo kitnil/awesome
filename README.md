@@ -2096,7 +2096,7 @@
 - [emacs-leo](https://github.com/mtenders/emacs-leo) - Emacs interface for dict.leo.org
 - [describe-symbol](https://github.com/xuchunyang/describe-symbol) - 
 - [svg-tag-mode](https://github.com/rougier/svg-tag-mode) - A minor mode for Emacs that replace keywords with nice SVG labels
-- [delve](https://github.com/publicimageltd/delve) - Delve into your org-roam zettelkasten.
+- [delve](https://github.com/publicimageltd/delve) - Delve into your org-roam zettelkasten
 - [emacs-guix-packaging](https://github.com/ryanprior/emacs-guix-packaging) - Tools for writing and maintaining Guix packages
 - [atl-long-lines](https://github.com/jcs-elpa/atl-long-lines) - Turn off truncate-lines when the line is long.
 - [elisp-docstring-server.el](https://github.com/xuchunyang/elisp-docstring-server.el) - An HTTP server for Emacs Lisp Docstring
@@ -5933,7 +5933,7 @@
 - [shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [contain-google](https://github.com/containers-everywhere/contain-google) - Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party cookies.
+- [contain-google](https://github.com/containers-everywhere/contain-google) - [Looking for maintainer] - Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party cookies.
 - [ca-archive](https://github.com/JustOff/ca-archive) - Catalog of classic Firefox add-ons created before WebExtensions apocalypse
 - [ff-password-exporter](https://github.com/kspearrin/ff-password-exporter) - Easily export your passwords from Firefox.
 - [history-master](https://github.com/jiacai2050/history-master) - 📈📉📊A Firefox/Chrome extension to visualize browsing history, sync among different browsers!
@@ -7357,7 +7357,7 @@
 - [awesome-css-in-js](https://github.com/tuchk4/awesome-css-in-js) - Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision
 - [awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - ⚡Metrics to help understand page speed and user experience
 - [awesome-radare2](https://github.com/radareorg/awesome-radare2) - A curated list of awesome projects, articles and the other materials powered by Radare2
-- [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - 📝 A curated list of awesome Prometheus resources, projects and tools.
+- [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [awesome-nim](https://github.com/VPashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
 - [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
 - [awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
