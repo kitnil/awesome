@@ -249,7 +249,7 @@
 - [spy](https://github.com/jarun/spy) - :eyes: Linux kernel mode debugfs keylogger
 - [unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [abduco](https://github.com/martanne/abduco) - abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. Together with dvtm it provides a simpler and cleaner alternative to tmux or screen.
-- [xnotify](https://github.com/phillbush/xnotify) - read notifications from stdin and display them on the screen
+- [xnotify](https://github.com/phillbush/xnotify) - read notifications from stdin and pop them up on the screen
 - [robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [ripMIME](https://github.com/inflex/ripMIME) - MIME/email package decoder
 - [facebooc](https://github.com/jserv/facebooc) - Yet another Facebook clone written in C
@@ -1022,7 +1022,6 @@
 - [bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 - [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [Gambador](https://github.com/MaximeGammaitoni/Gambador) - 
@@ -1115,6 +1114,7 @@
 - [jittor](https://github.com/Jittor/jittor) - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
 - [eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
 - [retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
@@ -9149,7 +9149,7 @@
 - [clustershell](https://github.com/cea-hpc/clustershell) - Scalable cluster administration Python framework — Manage node sets, node groups and execute commands on cluster nodes in parallel.
 - [learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [sarviewer](https://github.com/juliojsb/sarviewer) - Generate graphs with gnuplot or matplotlib (Python) from sar data
-- [book](https://github.com/SystemsApproach/book) - Main repo for "Computer Networks: A Systems Approach", including everything needed to build the book. Main starting point.
+- [book](https://github.com/SystemsApproach/book) - Computer Networks: A Systems Approach -- Textbook
 - [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [ansible-zabbix-server](https://github.com/dj-wasabi/ansible-zabbix-server) - Installing and maintaining zabbix-server for RedHat/Debian/Ubuntu.
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
@@ -11497,7 +11497,7 @@
 - [actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute any script in a GitHub issue comment
 - [react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
-- [common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [common-voice](https://github.com/common-voice/common-voice) - [Please note: the Common Voice team is offline until March 15] Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
