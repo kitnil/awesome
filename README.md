@@ -5753,7 +5753,6 @@
 - [togglecache](https://github.com/M-Reimer/togglecache) - Firefox Addon to toggle the browser cache
 - [auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [github-search](https://github.com/gwen001/github-search) - Tools to perform basic search on GitHub.
-- [18S191](https://github.com/mitmath/18S191) - Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:
 - [chrome-har-capturer](https://github.com/cyrus-and/chrome-har-capturer) - Capture HAR files from a Chrome instance
 - [old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
@@ -6503,6 +6502,7 @@
 
 ## Julia 
 
+- [18S191](https://github.com/mitmath/18S191) - Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:
 - [PyCall.jl](https://github.com/JuliaPy/PyCall.jl) - Package to call Python functions from the Julia language
 - [Julia.jl](https://github.com/svaksha/Julia.jl) - Curated decibans of Julia programming language.
 - [OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl) - Syntax highlighting and other enhancements for the Julia REPL
@@ -6816,6 +6816,7 @@
 
 ## Nix 
 
+- [nixwrt](https://github.com/telent/nixwrt) - Build images for embedded MIPS  SoCs using NixPkgs (experimental)
 - [nixus](https://github.com/Infinisil/nixus) - 
 - [declarative-cachix](https://github.com/jonascarpay/declarative-cachix) - Add cachix caches declaratively
 - [nix-haskell-hls](https://github.com/shajra/nix-haskell-hls) - Nix builds of Haskell Language Server
@@ -11124,7 +11125,7 @@
 - [udevil](https://github.com/IgnorantGuru/udevil) - Mount without password
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-- [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts
+- [Sn1per](https://github.com/1N3/Sn1per) - Sn1per Professional is XeroSecurity's automated attack surface management software for Penetration Testers and Enterprise security teams.
 - [rofi-pass](https://github.com/carnager/rofi-pass) - rofi frontend for pass
 - [clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [docker-selenium](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support. Also check: Zalenium
