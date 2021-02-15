@@ -508,6 +508,7 @@
 - [emacs-mruby-test](https://github.com/syohex/emacs-mruby-test) - Emacs with mruby
 - [termbox](https://github.com/nsf/termbox) - Library for writing text-based user interfaces
 - [bitlbee-mastodon](https://github.com/kensanata/bitlbee-mastodon) - A Mastodon plugin for Bitlbee
+- [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [one-line-wonders](https://github.com/wzhouwzhou/one-line-wonders) - OneLineWondersCode | 1000+ Commits | 278/300 One Liners | 200+ Forks | Actively maintained open-source collection of "one-line" programs performing various tasks in different languages
 - [shc](https://github.com/neurobin/shc) - Shell script compiler
 - [xCrash](https://github.com/iqiyi/xCrash) - 🔥 xCrash provides the Android app with the ability to capture java crash, native crash and ANR. No root permission or any system permissions are required.
@@ -2173,7 +2174,6 @@
 - [emacs-rainbow-fart](https://github.com/stardiviner/emacs-rainbow-fart) - 一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。Inspired from vscode-rainbow-fart
 - [logstash-sample-mode](https://github.com/chester755/logstash-sample-mode) - A basic emacs mode for editing Logstash filter files. An alternative to logstash-conf mode.
 - [pytest-emacs](https://github.com/antocuni/pytest-emacs) - 
-- [company-tip](https://github.com/liushihao456/company-tip) - Popup documentation for completion candidates using emacs overlays
 - [ivy-emms](https://github.com/franburstall/ivy-emms) - Choose and play EMMS tracks with ivy
 - [org-krita](https://github.com/lepisma/org-krita) - Krita sketches in Org
 - [orgit-forge](https://github.com/magit/orgit-forge) - Org links to Forge Issue buffers.
@@ -3884,7 +3884,7 @@
 - [slick](https://github.com/ExaScience/slick) - The Slick programming language is an s-expression surface syntax for Go.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [wprecon](https://github.com/blackbinn/wprecon) - WPrecon (WordPress Recon), is a vulnerability recognition tool in CMS Wordpress, developed in Go and with scripts in LUA.
-- [mosdns](https://github.com/IrineSistiana/mosdns) - 一个插件化的 DNS 转发器。为不同请求安排不同的处理流程。
+- [mosdns](https://github.com/IrineSistiana/mosdns) - 一个插件化的 DNS 转发/分流器。为不同请求安排不同的处理流程。
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
@@ -4607,7 +4607,6 @@
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [spruce](https://github.com/geofffranks/spruce) - A BOSH template merge tool
 - [torus-cli](https://github.com/manifoldco/torus-cli) - A secure, shared workspace for secrets
-- [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
@@ -5670,7 +5669,7 @@
 - [OpenRTS](https://github.com/benoit-dumas/OpenRTS) - Real-Time Strategy game 3D engine coded in pure java
 - [DroidUPnP](https://github.com/trishika/DroidUPnP) - DroidUPnP is an upnp control point application for android.
 - [yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
-- [libretorrent](https://github.com/proninyaroslav/libretorrent) - Free as in Freedom torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
+- [libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
 - [WebCamViewer](https://github.com/Volcanoscar/WebCamViewer) - With this fast, simple and modern Android application you can quickly create a list of all your favorite webcams.
 - [sms-backup-plus](https://github.com/jberkel/sms-backup-plus) - Backup Android SMS, MMS and call log to Gmail / Gcal / IMAP
 - [vrapper](https://github.com/vrapper/vrapper) - Vim-like editing in Eclipse
@@ -9950,7 +9949,7 @@
 
 ## Ruby 
 
-- [dato.rss](https://github.com/davidesantangelo/dato.rss) - RSS search engine
+- [dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [k8s-mirror](https://github.com/darkbitio/k8s-mirror) - Creates a local mirror of a Kubernetes cluster in a docker container to support offline reviewing
 - [androidsrc](https://github.com/pyricau/androidsrc) - Find Android sources
 - [OpenSenet](https://github.com/Rabios/OpenSenet) - Open-Source Senet board game written in Ruby via DragonRuby GTK!
@@ -10461,7 +10460,7 @@
 
 ## Scala 
 
-- [tofu](https://github.com/TinkoffCreditSystems/tofu) - Functional programming toolbox
+- [tofu](https://github.com/tofu-tf/tofu) - Functional programming toolbox
 - [kukulcan](https://github.com/mmolimar/kukulcan) - A REPL for Apache Kafka
 - [conscript](https://github.com/foundweekends/conscript) - Scala at your command
 - [scalafmt](https://github.com/scalameta/scalafmt) - Code formatter for Scala
@@ -11597,7 +11596,7 @@
 - [stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [academic-bloggers-toolkit](https://github.com/dsifford/academic-bloggers-toolkit) - WordPress plugin providing an all-in-one solution for effective academic blogging.
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
+- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [staticsitegenerators-website](https://github.com/bevry/staticsitegenerators-website) - Website containing the complete listing of static site generators
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
