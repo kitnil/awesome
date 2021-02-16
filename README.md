@@ -1068,6 +1068,7 @@
 - [AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) - 
 - [mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
+- [nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend any game or application.
 - [traceshark](https://github.com/cunctator/traceshark) - This is a tool for Linux kernel ftrace and perf events visualization
 - [orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [lite](https://github.com/TerminalStudio/lite) - 🔬Experimental cross-platform terminal emulator application written in Flutter.
@@ -3884,7 +3885,7 @@
 - [slick](https://github.com/ExaScience/slick) - The Slick programming language is an s-expression surface syntax for Go.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [wprecon](https://github.com/blackbinn/wprecon) - WPrecon (WordPress Recon), is a vulnerability recognition tool in CMS Wordpress, developed in Go and with scripts in LUA.
-- [mosdns](https://github.com/IrineSistiana/mosdns) - 一个插件化的 DNS 转发/分流器。为不同请求安排不同的处理流程。
+- [mosdns](https://github.com/IrineSistiana/mosdns) - 一个插件化的 DNS 转发/分流器。
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
@@ -4014,7 +4015,6 @@
 - [commit-stream](https://github.com/x1sec/commit-stream) - #OSINT tool for finding Github repositories by extracting commit logs in real time from the Github event API
 - [lazynpm](https://github.com/jesseduffield/lazynpm) - terminal UI for npm
 - [dbcore](https://github.com/eatonphil/dbcore) - Generate applications powered by your database.
-- [nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend any game or application.
 - [sinker](https://github.com/plexsystems/sinker) - A tool to sync images from one container registry to another
 - [ligolo](https://github.com/sysdream/ligolo) - Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/
 - [firewalld-rest](https://github.com/prashantgupta24/firewalld-rest) - A rest application to update firewalld rules on a linux server
@@ -6136,7 +6136,7 @@
 - [BrowserQuest](https://github.com/mozilla/BrowserQuest) - A HTML5/JavaScript multiplayer game experiment
 - [firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
 - [CustomJSforFx](https://github.com/Aris-t2/CustomJSforFx) - custom scripts
-- [floccus](https://github.com/marcelklehr/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
+- [floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
 - [Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
 - [RESTer](https://github.com/frigus02/RESTer) - A REST client for almost any web service (Firefox and Chrome Extension)
@@ -6163,7 +6163,7 @@
 - [updatescanner](https://github.com/sneakypete81/updatescanner) - Firefox addon to monitor web pages for updates.
 - [profiler](https://github.com/firefox-devtools/profiler) - Firefox Profiler — Web app for Firefox performance analysis
 - [addons-linter](https://github.com/mozilla/addons-linter) - 🔍 Firefox Add-ons linter, written in JavaScript. 👁
-- [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+- [GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [react-proto](https://github.com/React-Proto/react-proto) - :art: React application prototyping tool for developers and designers :building_construction:
 - [reloadmatic](https://github.com/pylorak/reloadmatic) - Browser tab reload automation and utilities as a WebExtension
