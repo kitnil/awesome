@@ -592,6 +592,7 @@
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [Interplanetary-Postal-Service](https://github.com/s-macke/Interplanetary-Postal-Service) - Lunar lander type game with computational fluid dynamics
 - [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
+- [M2-Planet](https://github.com/oriansj/M2-Planet) - The PLAtform NEutral Transpiler
 - [ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
 - [litetree](https://github.com/aergoio/litetree) - SQLite with Branches
 - [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -650,7 +651,7 @@
 - [raptor_waf](https://github.com/CoolerVoid/raptor_waf) - Raptor - WAF - Web application firewall using DFA [ Current version ] - Beta
 - [foundation_lib](https://github.com/mjansson/foundation_lib) - Cross-platform public domain foundation library in C providing basic support data types and functions to write applications and games in a platform-independent fashion.
 - [glfm](https://github.com/brackeen/glfm) - OpenGL ES and input for iOS, tvOS, Android, and WebGL
-- [lvgl](https://github.com/lvgl/lvgl) - Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
+- [lvgl](https://github.com/lvgl/lvgl) - Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
 - [facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
 - [lambdapp](https://github.com/graphitemaster/lambdapp) - Anonymous functions in C
 - [editorconfig-core-c](https://github.com/editorconfig/editorconfig-core-c) - EditorConfig core library written in C (for use by plugins supporting EditorConfig parsing)
@@ -1427,7 +1428,6 @@
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
 - [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.0.2.37474, 3.3.5 = 3.3.5a.12340)
-- [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
@@ -1500,7 +1500,6 @@
 - [nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-- [ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server
 - [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
 - [projectm](https://github.com/projectM-visualizer/projectm) - projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
@@ -3877,6 +3876,8 @@
 
 ## Go 
 
+- [mailway](https://github.com/mailway-app/mailway) - Mailway installer, host your own Mailway instance
+- [steampipe](https://github.com/turbot/steampipe) - Steampipe command line interface (CLI)
 - [team-manager](https://github.com/cilium/team-manager) - Bot to manage team members in GitHub organizations
 - [cert-checker](https://github.com/mogensen/cert-checker) - Certificate monitoring utility for watching tls certificates and reporting the result as metrics.
 - [notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
@@ -5926,6 +5927,7 @@
 - [PopupWindow](https://github.com/ettoolong/PopupWindow) - Firefox add-on, move tab to standalone window, without tabs bar, navigation bar and bookmark bar UI.
 - [docker-pastebin](https://github.com/mko-x/docker-pastebin) - Paste your stuff however
 - [Rotten-Soup](https://github.com/Larkenx/Rotten-Soup) - A roguelike built with Vue, Vuetify, Tiled, rot.js, and PixiJS! Playable at https://rottensoup.herokuapp.com/
+- [sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
 - [lessmd](https://github.com/linuxenko/lessmd) - A small markdown viewer/converter for unix terminal.
 - [serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
@@ -6733,6 +6735,7 @@
 - [VLC-Lyrics-Finder](https://github.com/Smile4ever/VLC-Lyrics-Finder) - VLC media player lyrics extension
 - [EmptyEpsilon](https://github.com/daid/EmptyEpsilon) - Open source bridge simulator. Build with the SeriousProton engine.
 - [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game running on the Spring engine
+- [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [farlands](https://github.com/D00Med/farlands) - Steampunk/fantasy themed subgame with dinosaurs
 - [l2l](https://github.com/meric/l2l) - Lisp is Lisp. Lua is Lua. Lisp and Lua as One.
 - [lsyncd](https://github.com/axkibe/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
@@ -6816,6 +6819,7 @@
 
 ## Nix 
 
+- [nix-processmgmt](https://github.com/svanderburg/nix-processmgmt) - Experimental Nix-based process management framework
 - [nixwrt](https://github.com/telent/nixwrt) - Build images for embedded MIPS  SoCs using NixPkgs (experimental)
 - [nixus](https://github.com/Infinisil/nixus) - 
 - [declarative-cachix](https://github.com/jonascarpay/declarative-cachix) - Add cachix caches declaratively
@@ -6859,7 +6863,7 @@
 - [nix-syntax-for-mcedit](https://github.com/svanderburg/nix-syntax-for-mcedit) - Nix expression syntax highlighter for mcedit
 - [php-sbeditor](https://github.com/svanderburg/php-sbeditor) - Simple embeddable HTML editor
 - [static-haskell-nix](https://github.com/nh2/static-haskell-nix) - easily build most Haskell programs into fully static Linux executables
-- [nixflk](https://github.com/nrdxp/nixflk) - highly structured NixOS configuration database
+- [devos](https://github.com/divnix/devos) - NixOS DB
 - [reflex-platform](https://github.com/reflex-frp/reflex-platform) - A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.
 - [mobile-nixos](https://github.com/NixOS/mobile-nixos) - Questions? #nixos-aarch64 (or #nixos) on Freenode!
 - [nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
@@ -6890,6 +6894,7 @@
 
 ## OCaml 
 
+- [cmdliner-cheatsheet](https://github.com/mjambon/cmdliner-cheatsheet) - Cheatsheet for adding command-line options to an OCaml program using cmdliner
 - [ocamqping](https://github.com/argent-smith/ocamqping) - Minimalistic AMQP pinger written in OCaml
 - [pp_html](https://github.com/lemaetech/pp_html) - [Unreleased] Ocaml library to pretty print/format HTML5.
 - [sexp_diff](https://github.com/janestreet/sexp_diff) - Code for computing the diff of two sexps
@@ -8295,6 +8300,8 @@
 
 ## Python 
 
+- [khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
+- [Reddit-Stock-Trends](https://github.com/iam-abbas/Reddit-Stock-Trends) - Fetch currently trending stocks on Reddit
 - [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN
 - [Scrapera](https://github.com/DarshanDeshpande/Scrapera) - A universal package of scraper scripts for humans
@@ -8505,7 +8512,7 @@
 - [profiling](https://github.com/what-studio/profiling) - Was an interactive continuous Python profiler.
 - [oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials
-- [Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
+- [Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 - [zipfly](https://github.com/BuzonIO/zipfly) - Writing large ZIP archives without memory inflation
 - [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - A language agnostic test suite for the JSON Schema specifications
@@ -9075,7 +9082,7 @@
 - [readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [curator](https://github.com/elastic/curator) - Curator: Tending your Elasticsearch indices
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
-- [wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout and weight tracker written with Django
+- [wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker written with Django
 - [jsonpyes](https://github.com/xros/jsonpyes) - The tool which imports raw JSON to ElasticSearch in one line of commands
 - [elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
@@ -9561,6 +9568,7 @@
 - [book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
 - [game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server
 - [command-line-chess](https://github.com/marcusbuffett/command-line-chess) - A python program to play chess against an AI in the terminal.
 - [poirot](https://github.com/emanuelfeld/poirot) - :mag: CLI to search a Git repo's revision history for text patterns (e.g. passwords, tokens, IP addresses, and names)
 - [demimove](https://github.com/serialoverflow/demimove) - A cross-platform file browser for mass renaming
@@ -10167,7 +10175,7 @@
 - [quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds
-- [nat](https://github.com/willdoescode/nat) - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
+- [nat](https://github.com/willdoescode/nat) - nat - the 'ls' replacement you never knew you needed
 - [diff-grep](https://github.com/keith/diff-grep) - Filter matching hunks in diffs
 - [rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
@@ -10343,7 +10351,6 @@
 - [colonize](https://github.com/indiv0/colonize) - A Dwarf Fortress/Rimworld-like game written in Rust
 - [rusted-ruins](https://github.com/garkimasera/rusted-ruins) - Extensible open world rogue like game with pixel art. Players can explore the wilderness and ruins.
 - [veloren](https://github.com/veloren/veloren) - [Mirror] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World
-- [sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [fcat](https://github.com/mre/fcat) - A 3x faster implementation of cat, using splice
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [LambdaCore](https://github.com/Pebaz/LambdaCore) - An interpreted language written in Rust inspired by the Lisp family of languages.
@@ -10576,6 +10583,8 @@
 
 ## Shell 
 
+- [fnt](https://github.com/alexmyczko/fnt) - apt for fonts, the missing font manager for macOS/linux
+- [tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [wp-install-from-cli](https://github.com/juanmacivico87/wp-install-from-cli) - This repository contains a script for install WordPress with WordPress Commands Line Interface
 - [menu-searx](https://github.com/MossyMossMoss/menu-searx) - 
 - [RadareEye](https://github.com/souravbaghz/RadareEye) - A tool made for specially scanning nearby devices[BLE, Bluetooth & Wifi] and execute our given command on our system when the target device comes in-between range.
@@ -11151,7 +11160,6 @@
 - [zabbix-version-detect](https://github.com/aigarskadikis/zabbix-version-detect) - Detect new zabbix versions by using sourceforge rss feed
 - [linux-unattended-installation](https://github.com/coreprocess/linux-unattended-installation) - This project provides all you need to create an unattended installation of a minimal setup of Linux.
 - [yavide](https://github.com/JBakamovic/yavide) - Modern C/C++ integrated development environment
-- [M2-Planet](https://github.com/oriansj/M2-Planet) - The PLAtform NEutral Transpiler
 - [flatpak-overlay](https://github.com/fosero/flatpak-overlay) - A Gentoo ebuild overlay for flatpak
 - [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
