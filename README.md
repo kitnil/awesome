@@ -212,6 +212,7 @@
 - [maiko](https://github.com/Interlisp/maiko) - Medley Interlisp virtual machine
 - [droidcam](https://github.com/dev47apps/droidcam) - GNU/Linux client for DroidCam
 - [ebisp](https://github.com/tsoding/ebisp) - Embedded Lisp
+- [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [emacs-webkit](https://github.com/akirakyle/emacs-webkit) - An Emacs Dynamic Module for WebKit, aka a fully fledged browser inside emacs
 - [xqp](https://github.com/baskerville/xqp) - X Query pointer
@@ -293,6 +294,7 @@
 - [OpenGL-Registry](https://github.com/KhronosGroup/OpenGL-Registry) - OpenGL, OpenGL ES, and OpenGL ES-SC API and Extension Registry
 - [azimuth](https://github.com/mdsteele/azimuth) - A metroidvania with vector graphics
 - [emacs-sqlite3-api](https://github.com/pekingduck/emacs-sqlite3-api) - SQLite3 API for GNU Emacs 25+
+- [hslua](https://github.com/hslua/hslua) - Lua interpreter interface for Haskell
 - [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution.
 - [NtLua](https://github.com/can1357/NtLua) - Lua in kernel-mode because why not.
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -1055,7 +1057,6 @@
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS Studio which adds many new effects, filters, sources, transitions and encoders - all for free! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
-- [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
 - [2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
 - [libhv](https://github.com/ithewei/libhv) - Like libevent and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler api and richer protocols.
@@ -4340,7 +4341,7 @@
 - [broxy](https://github.com/rhaidiz/broxy) - An HTTP/HTTPS intercept proxy written in Go.
 - [flamingo](https://github.com/atredispartners/flamingo) - Flamingo captures credentials sprayed across the network by various IT and security products.
 - [neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
-- [naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+- [naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project directories
 - [the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) - 
 - [simdjson-go](https://github.com/minio/simdjson-go) - Golang port of simdjson: parsing gigabytes of JSON per second
@@ -5211,7 +5212,6 @@
 - [call-haskell-from-anything](https://github.com/nh2/call-haskell-from-anything) - Call Haskell functions from any programming language via serialization and dynamic libraries
 - [tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell
 - [cgrep](https://github.com/awgn/cgrep) - Cgrep: a context-aware grep for source codes
-- [hslua](https://github.com/hslua/hslua) - Lua interpreter interface for Haskell
 - [erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
 - [ghc-vis](https://github.com/def-/ghc-vis) - Visualize live Haskell data structures in GHCi
 - [nix-script](https://github.com/bennofs/nix-script) - A shebang for running scripts inside nix-shell with defined dependencies
