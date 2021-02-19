@@ -72,6 +72,7 @@
   - [NewLisp](#newlisp)
   - [Nim](#nim)
   - [Nix](#nix)
+  - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
@@ -563,7 +564,6 @@
 - [janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [tcpdump](https://github.com/the-tcpdump-group/tcpdump) - the TCPdump network dissector
 - [guacamole-server](https://github.com/glyptodon/guacamole-server) - The Guacamole project is now Apache Guacamole (http://guacamole.apache.org/). This repository has been repurposed as the base for the Apache Guacamole packages built for Glyptodon Enterprise.
-- [klipper](https://github.com/KevinOConnor/klipper) - Klipper is a 3d-printer firmware
 - [ministrace](https://github.com/nelhage/ministrace) - A minimal toy implementation of strace(1)
 - [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [bitlbee-discord](https://github.com/sm00th/bitlbee-discord) - Bitlbee plugin for Discord (http://discordapp.com)
@@ -1292,6 +1292,7 @@
 - [Vangers](https://github.com/KranX/Vangers) - The video game that combines elements of the racing and role-playing genres.
 - [immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++ — value semantics at scale
 - [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [klipper](https://github.com/KevinOConnor/klipper) - Klipper is a 3d-printer firmware
 - [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [freeminer](https://github.com/freeminer/freeminer) - Freeminer is an open source sandbox game inspired by Minecraft.
 - [NoahGameFrame](https://github.com/ketoo/NoahGameFrame) - A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.
@@ -4174,7 +4175,7 @@
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [scout](https://github.com/liamg/scout) - 🔭 Lightweight URL fuzzer and spider: Discover a web server's undisclosed files, directories and VHOSTs
 - [termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
-- [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
+- [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
 - [gobinaries](https://github.com/tj/gobinaries) - Golang binaries compiled on-demand for your system
 - [esquery](https://github.com/aquasecurity/esquery) - An idiomatic Go query builder for ElasticSearch
 - [httpretty](https://github.com/henvic/httpretty) - Package httpretty prints the HTTP requests you make with Go pretty on your terminal.
@@ -5065,7 +5066,6 @@
 - [Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more
 - [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
-- [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [ansible-role-hardening](https://github.com/konstruktoid/ansible-role-hardening) - Ansible role to apply a security baseline. Systemd edition.
 - [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
@@ -6891,6 +6891,10 @@
 - [hnix](https://github.com/haskell-nix/hnix) - A Haskell re-implementation of the Nix expression language
 - [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - mozilla related nixpkgs (extends nixos/nixpkgs repo)
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+
+## Nunjucks 
+
+- [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 
 ## OCaml 
 
@@ -8981,7 +8985,7 @@
 - [cbox](https://github.com/shmuelamar/cbox) - convert any python function to unix-style command
 - [tably](https://github.com/narimiran/tably) - Python command-line script for converting .csv data to LaTeX tables
 - [FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
-- [instapy-cli](https://github.com/instagrambot/instapy-cli) - :sparkles: Python library and CLI to upload photo and video on Instagram. W/o a phone!
+- [instapy-cli](https://github.com/b3nab/instapy-cli) - :sparkles: Python library and CLI to upload photo and video on Instagram. W/o a phone!
 - [git-deps](https://github.com/aspiers/git-deps) - git commit dependency analysis tool
 - [mech](https://github.com/mechboxes/mech) - Easy command line virtual machines for VMWare
 - [pycycle](https://github.com/bndr/pycycle) - Tool for pinpointing circular imports in Python. Find cyclic imports in any project
