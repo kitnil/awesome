@@ -953,6 +953,7 @@
 - [argparse](https://github.com/cofyc/argparse) - Command-line arguments parsing library.
 - [hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
+- [projectm](https://github.com/projectM-visualizer/projectm) - projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
 - [xdg-desktop-portal-gtk](https://github.com/flatpak/xdg-desktop-portal-gtk) - Gtk implementation of xdg-desktop-portal
 - [xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) - Desktop integration portal
 - [notmuch](https://github.com/notmuch/notmuch) - mirror of the http://git.notmuchmail.org/git/notmuch repository
@@ -1044,6 +1045,7 @@
 
 ## C++ 
 
+- [pwsafe](https://github.com/nsd20463/pwsafe) - commandline tool compatible with Counterpane's Passwordsafe
 - [ytdl-gui](https://github.com/JaGoLi/ytdl-gui) - A simple-to-use, cross-platform graphical interface for youtube-dl.
 - [CyberpunkSaveEditor](https://github.com/PixelRick/CyberpunkSaveEditor) - A tool to edit Cyberpunk 2077 sav.dat files
 - [dosbox-pure](https://github.com/schellingb/dosbox-pure) - DOSBox Pure is a new fork of DOSBox built for RetroArch/Libretro aiming for simplicity and ease of use.
@@ -1503,7 +1505,6 @@
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
-- [projectm](https://github.com/projectM-visualizer/projectm) - projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
 - [QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg(https://github.com/wang-bin/avbuild). High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops. 基于Qt和FFmpeg的跨平台高性能音视频播放框架
 - [tome2](https://github.com/tome2/tome2) - ToME 2
 - [mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
@@ -4583,7 +4584,7 @@
 - [marathon-consul](https://github.com/allegro/marathon-consul) - Integrates Marathon apps with Consul service discovery.
 - [filetype](https://github.com/h2non/filetype) - Fast, dependency-free, small Go package to infer the binary file type based on the magic numbers signature
 - [ssh-auditor](https://github.com/ncsa/ssh-auditor) - The best way to scan for weak ssh passwords on your network
-- [webhook2telegram](https://github.com/muety/webhook2telegram) - 🤖 A Telegram bot which translates push messages sent as simple HTTP calls into Telegram messages you can subscribe to.
+- [webhook2telegram](https://github.com/muety/webhook2telegram) - 🤖 A simple bot to translate JSON HTTP requests into Telegram push messages
 - [owl](https://github.com/TalkingData/owl) - distributed monitoring system
 - [slex](https://github.com/crosbymichael/slex) - SSH multiplex
 - [sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
@@ -5622,7 +5623,7 @@
 - [OSMonitor](https://github.com/eolwral/OSMonitor) - Android OS Monitor
 - [OpenKeeper](https://github.com/tonihele/OpenKeeper) - Dungeon Keeper II remake
 - [gitlab-plugin](https://github.com/jenkinsci/gitlab-plugin) - A Jenkins plugin for interfacing with GitLab
-- [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
+- [advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [PocketMaps](https://github.com/junjunguo/PocketMaps) - Free offline maps with routing functions and more ...
 - [open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
@@ -6105,7 +6106,7 @@
 - [serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [snowpack](https://github.com/snowpackjs/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
-- [llthw](https://github.com/LispTO/llthw) - Learn Lisp The Hard Way source-code and full book text
+- [LLTHW](https://github.com/blackbranesys/LLTHW) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -6862,7 +6863,7 @@
 - [nix-syntax-for-mcedit](https://github.com/svanderburg/nix-syntax-for-mcedit) - Nix expression syntax highlighter for mcedit
 - [php-sbeditor](https://github.com/svanderburg/php-sbeditor) - Simple embeddable HTML editor
 - [static-haskell-nix](https://github.com/nh2/static-haskell-nix) - easily build most Haskell programs into fully static Linux executables
-- [devos](https://github.com/divnix/devos) - NixOS DB Framework
+- [devos](https://github.com/divnix/devos) - NixOS Framework
 - [reflex-platform](https://github.com/reflex-frp/reflex-platform) - A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.
 - [mobile-nixos](https://github.com/NixOS/mobile-nixos) - Questions? #nixos-aarch64 (or #nixos) on Freenode!
 - [nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
@@ -8940,7 +8941,7 @@
 - [binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [PasteHunter](https://github.com/kevthehermit/PasteHunter) - Scanning pastebin with yara rules
 - [youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
-- [youtube](https://github.com/engineer-man/youtube) - Code from the Engineer Man YouTube channel
+- [youtube](https://github.com/engineer-man/youtube) - Code from the Engineer Man YouTube channel. Please do not submit pull requests, they will be ignored/closed. The code in the repo needs to remain as it was in the video.
 - [feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [Python-crawler-tutorial-starts-from-zero](https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero) - python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架
