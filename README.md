@@ -34,6 +34,7 @@
   - [Dart](#dart)
   - [Dhall](#dhall)
   - [Dockerfile](#dockerfile)
+  - [EJS](#ejs)
   - [Elixir](#elixir)
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
@@ -2056,6 +2057,10 @@
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [ansible-tower](https://github.com/ybalt/ansible-tower) - Ansible Tower dockerized
+
+## EJS 
+
+- [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ## Elixir 
 
@@ -5090,7 +5095,6 @@
 - [uix](https://github.com/roman01la/uix) - Idiomatic ClojureScript interface to modern React.js
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [favioli](https://github.com/ivebencrazy/favioli) - Emoji Favicons for the web. 👊🤯
-- [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
 - [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems
 - [list-packages](https://github.com/xuchunyang/list-packages) - 
