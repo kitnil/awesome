@@ -295,7 +295,6 @@
 - [OpenGL-Registry](https://github.com/KhronosGroup/OpenGL-Registry) - OpenGL, OpenGL ES, and OpenGL ES-SC API and Extension Registry
 - [azimuth](https://github.com/mdsteele/azimuth) - A metroidvania with vector graphics
 - [emacs-sqlite3-api](https://github.com/pekingduck/emacs-sqlite3-api) - SQLite3 API for GNU Emacs 25+
-- [hslua](https://github.com/hslua/hslua) - Lua interpreter interface for Haskell
 - [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution.
 - [NtLua](https://github.com/can1357/NtLua) - Lua in kernel-mode because why not.
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -1116,6 +1115,7 @@
 - [hrktorrent](https://github.com/hrkfdn/hrktorrent) - hrktorrent is a light console torrent client written in C++, using rasterbar's libtorrent.
 - [multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
+- [jittor](https://github.com/Jittor/jittor) - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
 - [eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
@@ -5216,6 +5216,7 @@
 - [call-haskell-from-anything](https://github.com/nh2/call-haskell-from-anything) - Call Haskell functions from any programming language via serialization and dynamic libraries
 - [tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell
 - [cgrep](https://github.com/awgn/cgrep) - Cgrep: a context-aware grep for source codes
+- [hslua](https://github.com/hslua/hslua) - Lua interpreter interface for Haskell
 - [erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
 - [ghc-vis](https://github.com/def-/ghc-vis) - Visualize live Haskell data structures in GHCi
 - [nix-script](https://github.com/bennofs/nix-script) - A shebang for running scripts inside nix-shell with defined dependencies
@@ -7661,6 +7662,7 @@
 - [Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox 💧 source code repository
 - [donate](https://github.com/joshtronic/donate) - Just a list of Free Software, Open Source Software and other technology-related things you can contribute money to.
 - [awesome-free-services](https://github.com/hql287/awesome-free-services) - Awesome free online services for startups and freelancers!
+- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [Checklists](https://github.com/netbiosX/Checklists) - Red Teaming & Pentesting checklists for various engagements
 - [awesome-livestreaming](https://github.com/osrtss/awesome-livestreaming) - A curated list of awesome live streaming technologies and products
 - [awesome-data-science-viz](https://github.com/quantmind/awesome-data-science-viz) - :boom: :chart_with_upwards_trend: A curated list of data science, analysis and visualization tools
@@ -8192,7 +8194,7 @@
 - [longview](https://github.com/linode/longview) - Linode Longview Agent
 - [dotdotpwn](https://github.com/wireghoul/dotdotpwn) - DotDotPwn - The Directory Traversal Fuzzer
 - [ls--](https://github.com/trapd00r/ls--) - ls on steroids
-- [convos](https://github.com/Nordaaker/convos) - Convos :busts_in_silhouette: is the simplest way to use IRC in your browser
+- [convos](https://github.com/convos-chat/convos) - Convos :busts_in_silhouette: is the simplest way to use IRC in your browser
 - [nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway
 - [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
@@ -8542,7 +8544,6 @@
 - [jqed](https://github.com/Wazzaps/jqed) - json interactive stream editor (jq + up) - for Linux and MacOS
 - [python-twitch](https://github.com/ingwinlu/python-twitch) - python-twitch is an python module for simple interaction with twitch.
 - [Tweet-Locator](https://github.com/JuanBenitezDev/Tweet-Locator) - Tweet locator using Python, Flask and Twitter API
-- [jittor](https://github.com/Jittor/jittor) - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
 - [superimposer](https://github.com/jonhoo/superimposer) - 
 - [snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text
 - [dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
@@ -9252,7 +9253,7 @@
 - [notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [twitterscraper](https://github.com/taspinar/twitterscraper) - Scrape Twitter for Tweets
 - [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and ReactJS.
-- [erpnext](https://github.com/frappe/erpnext) - Free and Open Source Alternative to SAP
+- [erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
 - [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions
 - [SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
 - [cocos](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language on PC-like hardware
@@ -10435,7 +10436,6 @@
 - [zemeroth](https://github.com/ozkriff/zemeroth) - 😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust
 - [cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [cancer](https://github.com/meh/cancer) - It's terminal.
