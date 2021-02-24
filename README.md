@@ -34,7 +34,6 @@
   - [Dart](#dart)
   - [Dhall](#dhall)
   - [Dockerfile](#dockerfile)
-  - [EJS](#ejs)
   - [Elixir](#elixir)
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
@@ -1071,7 +1070,6 @@
 - [AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) - 
 - [mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
-- [nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend any game or application.
 - [traceshark](https://github.com/cunctator/traceshark) - This is a tool for Linux kernel ftrace and perf events visualization
 - [orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [lite](https://github.com/TerminalStudio/lite) - 🔬Experimental cross-platform terminal emulator application written in Flutter.
@@ -1966,6 +1964,7 @@
 
 ## Dart 
 
+- [nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend any game or application.
 - [open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) - :iphone: List of open source Flutter applications :octocat:
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries
@@ -2057,10 +2056,6 @@
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [ansible-tower](https://github.com/ybalt/ansible-tower) - Ansible Tower dockerized
-
-## EJS 
-
-- [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ## Elixir 
 
@@ -4051,7 +4046,7 @@
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [sqlbench](https://github.com/felixge/sqlbench) - sqlbench measures and compares the execution time of one or more SQL queries.
 - [sshocker](https://github.com/AkihiroSuda/sshocker) - ssh + reverse sshfs + port forwarder, in Docker-like CLI
-- [takuan](https://github.com/evilsocket/takuan) - Takuan is a system service that parses logs and dectects noisy attackers in order to build a blacklist database of known cyber offenders.
+- [takuan](https://github.com/evilsocket/takuan) - Takuan is a system service that parses logs and detects noisy attackers in order to build a blacklist database of known cyber offenders.
 - [bashhub-server](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub https://github.com/rcaloras/bashhub-client
 - [selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
 - [yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL
@@ -4252,7 +4247,7 @@
 - [velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [goflyway](https://github.com/coyove/goflyway) - An encrypted HTTP server
-- [argo-workflows](https://github.com/argoproj/argo-workflows) - Argo Workflows: Get stuff done with Kubernetes.
+- [argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [pouch](https://github.com/alibaba/pouch) - An Efficient Enterprise-class Container Engine
 - [sandglass](https://github.com/sandglass/sandglass) - Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.
@@ -4601,7 +4596,7 @@
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
-- [teleport](https://github.com/gravitational/teleport) - Secure Access for Developers that doesn't get in the way.
+- [teleport](https://github.com/gravitational/teleport) - Unified access for SSH servers, Kubernetes, web applications, and databases written in Go
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [minishift](https://github.com/minishift/minishift) - Run OpenShift 3.x locally
@@ -5095,6 +5090,7 @@
 - [uix](https://github.com/roman01la/uix) - Idiomatic ClojureScript interface to modern React.js
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [favioli](https://github.com/ivebencrazy/favioli) - Emoji Favicons for the web. 👊🤯
+- [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
 - [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems
 - [list-packages](https://github.com/xuchunyang/list-packages) - 
@@ -7224,7 +7220,7 @@
 - [guide-to-staying-productive](https://github.com/jonschlinkert/guide-to-staying-productive) - If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
 - [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) - List of all tools (apps, services) that startups should use.
 - [android-dev-sources](https://github.com/ParaskP7/android-dev-sources) - All those Android development sources that you need to be and stay awesome!
-- [daily](https://github.com/dailydotdev/daily) - Discover dev news with zero effort 👩🏽‍💻
+- [daily](https://github.com/dailydotdev/daily) - All-in-one coding news reader 👩🏽‍💻
 - [awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software
 - [tcpip-study](https://github.com/chenshuo/tcpip-study) - Shuo's learning notes on Linux TCP/IP stack
 - [fetch-all-the-things](https://github.com/domsson/fetch-all-the-things) - A list of *nix fetch utilities
@@ -7477,7 +7473,7 @@
 - [awesome-gamedev](https://github.com/Calinou/awesome-gamedev) - A collection of free software and free culture resources for making amazing games. (mirror)
 - [NeverSink-Filter](https://github.com/NeverSinkDev/NeverSink-Filter) - This is a lootfilter for the game "Path of Exile". It hides low value items, uses a markup-scheme and sounds to highlight expensive gear and is based on economy data mining.
 - [command-injection-payload-list](https://github.com/payloadbox/command-injection-payload-list) - 🎯 Command Injection Payload List
-- [42](https://github.com/rsapkf/42) - @rsapkf's linkroll.
+- [42](https://github.com/rsapkf/42) - @rsapkf's linkroll. Built using mdBook.
 - [infrastructure-as-code-tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial) - Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
 - [unix-as-ide](https://github.com/mrzool/unix-as-ide) - The ebook version of Tom Ryder's series on the Unix programming environment
 - [bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
@@ -7506,7 +7502,7 @@
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
-- [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2020年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+- [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
 - [awesome-android-tips](https://github.com/jiang111/awesome-android-tips) - some code tips for android 💯
 - [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) - A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
 - [awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
@@ -10055,7 +10051,7 @@
 - [tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt
 - [tty](https://github.com/piotrmurach/tty) - Toolkit for developing sleek command line apps.
 - [lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
-- [feedbin](https://github.com/feedbin/feedbin) - Follow your passions with RSS, email newsletters, and Twitter.
+- [feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 - [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [cookbook-elasticsearch](https://github.com/elastic/cookbook-elasticsearch) - Chef cookbook for Elasticsearch
 - [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch) - Ansible playbook for Elasticsearch
