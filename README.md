@@ -919,6 +919,7 @@
 - [compton](https://github.com/chjj/compton) - A compositor for X11.
 - [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program.
 - [whdd](https://github.com/whdd/whdd) - HDD diagnostic and data recovery tool for Linux
 - [physlock](https://github.com/muennich/physlock) - Lightweight linux console locking tool
@@ -3582,7 +3583,7 @@
 - [emacs-for-clojure](https://github.com/flyingmachine/emacs-for-clojure) - 
 - [all-the-icons-dired](https://github.com/jtbm37/all-the-icons-dired) - Adds dired support to all-the-icons
 - [ix.el](https://github.com/theanalyst/ix.el) - An emacs client to http://ix.io pastebin
-- [dotfiles](https://github.com/bamos/dotfiles) - ♥ Arch Linux, OSX, mutt, xmonad, i3, vim, emacs, zsh, mpv, cmus
+- [dotfiles](https://github.com/bamos/dotfiles) - ♥ Linux, mutt, xmonad, i3, vim, emacs, zsh
 - [dot-emacs](https://github.com/jwiegley/dot-emacs) - My .emacs.el file and other personal Emacs goodies
 - [elisp-slime-nav](https://github.com/purcell/elisp-slime-nav) - Slime-style navigation of Emacs Lisp source with M-. & M-,
 - [ghost-blog-emacs](https://github.com/javaguirre/ghost-blog-emacs) - Ghost mode for Emacs
@@ -4539,7 +4540,7 @@
 - [pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [go-mysql-elasticsearch](https://github.com/siddontang/go-mysql-elasticsearch) - Sync MySQL data into elasticsearch
 - [grafanaclient](https://github.com/adejoux/grafanaclient) - simple API to manage Grafana 2.0 DataSources and Dashboards in Go
-- [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers
+- [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [greenwall](https://github.com/mtojek/greenwall) - Tiny service health dashboard written in Go
 - [listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
@@ -4596,7 +4597,7 @@
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
-- [teleport](https://github.com/gravitational/teleport) - Unified access for SSH servers, Kubernetes, web applications, and databases written in Go
+- [teleport](https://github.com/gravitational/teleport) - Certificate authority and Identity aware proxy for SSH, Kubernetes, web applications, and databases
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [minishift](https://github.com/minishift/minishift) - Run OpenShift 3.x locally
@@ -4941,7 +4942,7 @@
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
 - [gopass](https://github.com/cortex/gopass) - Gopass: A simple password-store GUI
 - [teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram &lt;=&gt; IRC bridge for use with any IRC channel and Telegram group
-- [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
+- [semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -5210,7 +5211,7 @@
 - [lamdu](https://github.com/lamdu/lamdu) - lamdu - towards the next generation IDE
 - [optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser
 - [call-haskell-from-anything](https://github.com/nh2/call-haskell-from-anything) - Call Haskell functions from any programming language via serialization and dynamic libraries
-- [tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell
+- [tasty](https://github.com/UnkindPartition/tasty) - Modern and extensible testing framework for Haskell
 - [cgrep](https://github.com/awgn/cgrep) - Cgrep: a context-aware grep for source codes
 - [hslua](https://github.com/hslua/hslua) - Lua interpreter interface for Haskell
 - [erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
@@ -6370,7 +6371,6 @@
 - [gnome-shell-extension-stealmyfocus](https://github.com/v-dimitrov/gnome-shell-extension-stealmyfocus) - Shell Extension that let window that demand attention to steal focus
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
 - [gnome-shell-extension-redshift](https://github.com/benzea/gnome-shell-extension-redshift) - DO NOT USE; GNOME NOW INCLUDES THE FEATURE ALREADY! – A redshift extension for gnome-shell – Obsolete with GNOME 3.26! Use the buildin nightlight feature instead!
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Youtube 字幕下载，Download Youtube Subtitles (Work best on Chrome + Tampermonkey)  2020-10-7 更新：支持中英双语字幕下载，请在页面底部提供的另一个链接进行安装
@@ -7258,7 +7258,7 @@
 - [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure) - A short guide on features of Python 3 with examples
-- [RSPapers](https://github.com/hongleizhang/RSPapers) - Must-read papers on Recommender System.
+- [RSPapers](https://github.com/hongleizhang/RSPapers) - A Curated List of Must-read Papers on Recommender System.
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
@@ -7837,8 +7837,8 @@
 - [vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
 - [Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - :computer: Introduction to Linux commands and Shell scripting
 - [clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
-- [rails-style-guide](https://github.com/rubocop-hq/rails-style-guide) - A community-driven Ruby on Rails style guide
-- [ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide) - A community-driven Ruby coding style guide
+- [rails-style-guide](https://github.com/rubocop/rails-style-guide) - A community-driven Ruby on Rails style guide
+- [ruby-style-guide](https://github.com/rubocop/ruby-style-guide) - A community-driven Ruby coding style guide
 - [magit-cheatsheet](https://github.com/mtdavidson/magit-cheatsheet) - 
 - [ideas](https://github.com/hasky-mode/ideas) - An alternative Emacs mode for Haskell (so far, I collect here ideas and links)
 - [emacsism](https://github.com/ChillarAnand/emacsism) - A glimpse of divine editing experience with emacs!
@@ -10005,7 +10005,7 @@
 - [docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser) - 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails.
 - [i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage translation and localization with static analysis, for Ruby i18n
 - [codeclimate](https://github.com/codeclimate/codeclimate) - Code Climate CLI
-- [rubocop](https://github.com/rubocop-hq/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [jenkins-backup-script](https://github.com/sue445/jenkins-backup-script) - archive jenkins setting and plugins
 - [open-shell-book](https://github.com/tinyclub/open-shell-book) - 开源书籍：《Shell 编程范例》，面向操作对象学 Shell！本书作者发布了《360°剖析 Linux ELF》视频课程，欢迎订阅：https://www.cctalk.com/m/group/88089283
 - [foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
@@ -11018,7 +11018,7 @@
 - [nix-venient](https://github.com/holidaycheck/nix-venient) - A collection of convenient commands for working with nix/nixpkgs
 - [postgres](https://github.com/docker-library/postgres) - Docker Official Image packaging for Postgres
 - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
-- [mariadb](https://github.com/docker-library/mariadb) - Docker Official Image packaging for MariaDB
+- [mariadb-docker](https://github.com/MariaDB/mariadb-docker) - Docker Official Image packaging for MariaDB
 - [docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [osht](https://github.com/coryb/osht) - Bash Testing with TAP/Junit output
 - [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for the Selenium Grid Server
@@ -11465,11 +11465,10 @@
 - [CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
 - [porn-vault](https://github.com/porn-vault/porn-vault) - 💋 Manage your ever-growing porn collection. Using Vue & GraphQL
 - [alm](https://github.com/alm-tools/alm) - :rose: A :cloud: ready IDE just for TypeScript :heart:
-- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [Dockter](https://github.com/oslabs-beta/Dockter) - A low-overhead, open-source Docker log management tool
 - [shell](https://github.com/pop-os/shell) - Pop!_OS Shell
-- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，Efforts to update in progress...
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，vuex,vue-router,Efforts to update in progress...
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [animeta](https://github.com/dittos/animeta) - Manage your anime watch history.
@@ -11722,6 +11721,7 @@
 
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [ultrawidify](https://github.com/tamius-han/ultrawidify) - Firefox extension that allows you to work around some people's inability to properly encode 21:9 videos.
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [vue-stroll](https://github.com/xiaoluoboding/vue-stroll) - 📜 Vue.js + Stroll.js. Awesome CSS list scroll effects for Vue2.x.
 - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - 🏄🏼  A SmoothPicker for Vue 2 (like native datetime picker of iOS)
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
