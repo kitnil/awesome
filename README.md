@@ -724,7 +724,7 @@
 - [flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
 - [3proxy](https://github.com/z3APA3A/3proxy) - 3proxy - tiny free proxy server
 - [igraph](https://github.com/igraph/igraph) - Library for the analysis of networks
-- [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.
+- [pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard.
 - [SmallerC](https://github.com/alexfru/SmallerC) - Simple C compiler
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders shaders
 - [rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
@@ -781,7 +781,7 @@
 - [GENie](https://github.com/bkaradzic/GENie) - GENie - Project generator tool
 - [undaemonize](https://github.com/nickstenning/undaemonize) - A tiny utility to undaemonize misbehaving programs
 - [fvwm](https://github.com/fvwmorg/fvwm) - Official FVWM repository
-- [godot_headers](https://github.com/godotengine/godot_headers) - Headers for the Godot API supplied by the GDNative module.
+- [godot-headers](https://github.com/godotengine/godot-headers) - Headers for the Godot API supplied by the GDNative module.
 - [glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [rdesktop](https://github.com/rdesktop/rdesktop) - 🚨 rdesktop is in need of a new maintainter. Please see the home page for more details. 🚨
 - [FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
@@ -1061,7 +1061,7 @@
 - [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
 - [2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
-- [libhv](https://github.com/ithewei/libhv) - Like libevent and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler api and richer protocols.
+- [libhv](https://github.com/ithewei/libhv) - Like libevent and libuv, libhv provides EventLoop with NIO and timer for developing TCP/UDP/HTTP/WebSocket server/client.
 - [solidity](https://github.com/ethereum/solidity) - Solidity, the Contract-Oriented Programming Language
 - [clip](https://github.com/dacap/clip) - Cross-platform C++ library to copy/paste clipboard content
 - [ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
@@ -1736,6 +1736,7 @@
 
 ## Common Lisp 
 
+- [make-hash](https://github.com/genovese/make-hash) - A Common Lisp package for hash table creation with flexible, extensible initializers.
 - [common-lisp-by-example](https://github.com/ashok-khanna/common-lisp-by-example) - Repo for Common Lisp by Example
 - [github-webhook](https://github.com/fukamachi/github-webhook) - Docker container to listen for GitHub webhook events
 - [LISP-Machine](https://github.com/jrm-code-project/LISP-Machine) - Archive of LISP Machine, Inc.
@@ -2086,6 +2087,7 @@
 
 ## Emacs Lisp 
 
+- [nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [simpc-mode](https://github.com/rexim/simpc-mode) - Simple C mode for Emacs
 - [org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode fragment parts upon entering and leaving a fragment
 - [org-anki](https://github.com/eyeinsky/org-anki) - Sync org sections to Anki via the AnkiConnect plugin
@@ -4300,7 +4302,7 @@
 - [red](https://github.com/antonmedv/red) - Terminal log analysis tools
 - [conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
 - [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
-- [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+- [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Container Images, Github Repositories and Filesystems. Suitable for CI
 - [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [gopeed-core](https://github.com/monkeyWie/gopeed-core) - A fast download client,support HTTP&P2P.
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
@@ -5355,7 +5357,7 @@
 - [text](https://github.com/haskell/text) - An efficient packed, immutable Unicode text type for Haskell, with a powerful loop fusion optimization framework.
 - [fast-tags](https://github.com/elaforge/fast-tags) - Incremental vi and emacs tags for haskell.
 - [taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
-- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [gifcurry](https://github.com/lettier/gifcurry) - 😎 The open-source, Haskell-built video editor for GIF makers.
 - [agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
 - [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
@@ -5681,6 +5683,7 @@
 
 ## JavaScript 
 
+- [visual-basm](https://github.com/kolumb/visual-basm) - Visual tool for basm language
 - [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take up to 100 days, follow your own pace.
 - [Mark-Mind](https://github.com/MarkMindLtd/Mark-Mind) - MarkMind — a mind map and outliner editor  for Windows, Mac, Linux, andriod and ios ,it support markdown in node.
 - [screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
@@ -6381,7 +6384,7 @@
 - [gnome3-jenkins-indicator](https://github.com/philipphoffmann/gnome3-jenkins-indicator) - Gnome 3 Shell Extension to represent the current state of all jobs of a Jenkins CI Server
 - [gnome-shell-extensions-sustmi](https://github.com/sustmi/gnome-shell-extensions-sustmi) - [DEPRECATED] The repository was split into two repositories: https://github.com/sustmi/gnome-shell-extension-historymanager-prefix-search and https://github.com/sustmi/gnome-shell-extension-windowoverlay-icons
 - [GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [gnome-shell-extensions-negesti](https://github.com/negesti/gnome-shell-extensions-negesti) - An gnome-shell extension that makes window movement a lot easier.
 - [desk-changer](https://github.com/BigE/desk-changer) - Gnome-Shell wallpaper changing extension with multiple profile support
@@ -6958,7 +6961,6 @@
 
 - [common-lisp-tweaks](https://github.com/marcoheisig/common-lisp-tweaks) - A collection of various tweaks for working with Common Lisp.
 - [learning](https://github.com/amitness/learning) - Becoming better at data science every day
-- [Countries](https://github.com/Free-IPTV/Countries) - Free legally receivable IPTV channels as .m3u for Kodi. :-)
 - [project](https://github.com/servo/project) - A repo for the Servo Project
 - [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [highres-tab-line](https://github.com/casouri/highres-tab-line) - High-res tab-line icons
@@ -8044,7 +8046,6 @@
 - [phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [synknot](https://github.com/besthostingcz/synknot) - SynKnot utility for DNS and PTR synchronization with Knot DNS
-- [Chat-API](https://github.com/mgp25/Chat-API) - WhatsApp's Private API
 - [zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
 - [psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 - [git-wrapper](https://github.com/cpliakas/git-wrapper) - A PHP wrapper around the Git command line utility.
@@ -8143,7 +8144,7 @@
 - [asbru-cm](https://github.com/asbru-cm/asbru-cm) - Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.
 - [dank-selfhosted](https://github.com/cullum/dank-selfhosted) - Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD.
 - [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
-- [straw-viewer](https://github.com/trizen/straw-viewer) - A lightweight YouTube client for Linux, using the API of invidio.us
+- [straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** A lightweight YouTube client for Linux, using the API of invidio.us
 - [iperl](https://github.com/LvMalware/iperl) - Run Perl interactively
 - [ddclient-curl](https://github.com/astlinux-project/ddclient-curl) - Fork of ddclient using curl for network IO
 - [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
@@ -8186,7 +8187,6 @@
 - [needrestart](https://github.com/liske/needrestart) - Restart daemons after library updates.
 - [mysql-sandbox](https://github.com/datacharmer/mysql-sandbox) - Quick and painless install of one or more MySQL servers in the same host.
 - [XBruteForcer](https://github.com/Moham3dRiahi/XBruteForcer) - X Brute Forcer Tool 🔓 WordPress , Joomla , DruPal , OpenCart , Magento
-- [weed](https://github.com/ronilaukkarinen/weed) - Heavily Xchat inspired beautiful irssi theme.
 - [longview](https://github.com/linode/longview) - Linode Longview Agent
 - [dotdotpwn](https://github.com/wireghoul/dotdotpwn) - DotDotPwn - The Directory Traversal Fuzzer
 - [ls--](https://github.com/trapd00r/ls--) - ls on steroids
@@ -8284,6 +8284,7 @@
 - [elpi](https://github.com/LPCIC/elpi) - Embeddable Lambda Prolog Interpreter
 - [the-constitution-of-japan](https://github.com/bitlaw-jp/the-constitution-of-japan) - 
 - [lisprolog](https://github.com/triska/lisprolog) - Interpreter for a simple Lisp. Written in Prolog.
+- [weed](https://github.com/ronilaukkarinen/weed) - Heavily Xchat inspired beautiful irssi theme.
 
 ## Protocol Buffer 
 
@@ -8897,7 +8898,7 @@
 - [hack-tools](https://github.com/hacktoolspack/hack-tools) - hack tools
 - [zeroclickinfo-fathead](https://github.com/duckduckgo/zeroclickinfo-fathead) - DuckDuckGo Instant Answers based on keyword data files
 - [arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
-- [ara](https://github.com/ansible-community/ara) - ARA Records Ansible playbooks and makes them easier to understand and troubleshoot. This is the GitHub mirror for https://opendev.org/recordsansible/ara.
+- [ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
 - [ansible-playbooks](https://github.com/adithyakhamithkar/ansible-playbooks) - Ansible playbook collection that have been written for Ubuntu. Some of the playbooks are Elasticsearch, Mesos, AWS, MySql, Sensu, Nginx etc..
 - [grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 - [vrnetlab](https://github.com/plajjan/vrnetlab) - Run virtual routers with docker
@@ -9841,6 +9842,7 @@
 
 ## QML 
 
+- [sddm-chili](https://github.com/MarianArlt/sddm-chili) - The hottest theme around for SDDM, the Simple Desktop Display Manager.
 - [shell](https://github.com/lirios/shell) - :shell: QtQuick and Wayland shell for convergence
 - [Cutegram](https://github.com/Aseman-Land/Cutegram) - Cutegram is a telegram client by Aseman Land. It's forked from sigram.
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
@@ -10615,7 +10617,7 @@
 - [AllVideoPocsFromHackerOne](https://github.com/bminossi/AllVideoPocsFromHackerOne) - This script grab public report from hacker one and make some folders with poc videos
 - [safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.
 - [theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
-- [reconftw](https://github.com/six2dez/reconftw) - ReconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+- [reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [bash-http-monitoring](https://github.com/RaymiiOrg/bash-http-monitoring) - HTTP(s) monitoring webpage via shell script
 - [tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
 - [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
