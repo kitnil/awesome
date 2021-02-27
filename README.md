@@ -1678,7 +1678,7 @@
 - [PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure
 - [mcss](https://github.com/DogLooksGood/mcss) - Macro your CSS
 - [konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
-- [babashka](https://github.com/babashka/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
+- [babashka](https://github.com/babashka/babashka) - Native Clojure interpreter for scripting
 - [bidi](https://github.com/juxt/bidi) - Bidirectional URI routing
 - [tools.cli](https://github.com/clojure/tools.cli) - Command-line processing
 - [clojure-mail](https://github.com/owainlewis/clojure-mail) - A Clojure library for parsing, downloading and reading email from IMAP servers.
@@ -1995,7 +1995,6 @@
 - [jenkinsfile-runner-github-actions](https://github.com/jenkinsci/jenkinsfile-runner-github-actions) - Jenkins single-shot master GitHub Action POC
 - [Docker-Security](https://github.com/OWASP/Docker-Security) - Getting a handle on container security
 - [golang-docker-cache](https://github.com/montanaflynn/golang-docker-cache) - Improved docker Golang module dependency cache for faster builds.
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [kde-in-docker](https://github.com/ms-jpq/kde-in-docker) - So you can run KDE inside a browser
 - [Find-Python-syntax-errors-action](https://github.com/cclauss/Find-Python-syntax-errors-action) - A GitHub Action that finds Python syntax errors and undefined names in your repo
 - [lisp-devel-docker](https://github.com/daewok/lisp-devel-docker) - Docker images for Lisp development
@@ -10504,6 +10503,7 @@
 
 ## Scheme 
 
+- [potato-make](https://github.com/spk121/potato-make) - Library to write makefiles in the GNU Guile dialect of the Scheme programming language.
 - [zem](https://github.com/Jimx-/zem) - Extensible Emacs-like text editor with Guile
 - [scm-bot](https://github.com/NERD-ALMATY/scm-bot) - Telegram bot with Scheme interpreter
 - [bibliography](https://github.com/schemedoc/bibliography) - Bibliography of Scheme research (readscheme.org and beyond)
@@ -10629,7 +10629,7 @@
 - [git-repo-watcher](https://github.com/kolbasa/git-repo-watcher) - A simple bash script to watch a git repository and pull upstream changes if needed.
 - [byp4xx](https://github.com/lobuhi/byp4xx) - Simple bash script to bypass "403 Forbidden" messages with well-known methods discussed in #bugbountytips
 - [howtopopbuntu](https://github.com/themagicalmammal/howtopopbuntu) - Tweaks for Debian & Ubuntu based Distro.
-- [bmks](https://github.com/Retinazer/bmks) - unix bookmark management that sucks less
+- [bmks](https://github.com/obyyx/bmks) - unix bookmark management that sucks less
 - [DAC](https://github.com/baibhavanand/DAC) - DAC - Domain Availability Checker is a tool written in bash to help people find available domains from the comfort of their terminal. People can choose to pass one domain or wordlist to scan the availability from. People can also choose to store the output (List of available domains) in a different text file.
 - [archbox](https://github.com/lemniskett/archbox) - Easy to use Arch Linux chroot environment with some functionalities to integrate it with your existing Linux installation.
 - [kubectl-build](https://github.com/kvaps/kubectl-build) - Build dockerfiles directly in your Kubernetes cluster.
@@ -10751,6 +10751,7 @@
 - [PenTestKit](https://github.com/maldevel/PenTestKit) - Useful tools and scripts during Penetration Testing engagements
 - [terraform-makefile](https://github.com/paulRbr/terraform-makefile) - Makefile to use as a simple interface for Terraform
 - [maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [sax](https://github.com/jherrlin/sax) - An intuitive way to find your beloved shell commands.
 - [linux-kernel-lab](https://github.com/bannsec/linux-kernel-lab) - Lab Environment For Learning About The Linux Kernel
 - [ssh-agent-relay](https://github.com/anaisbetts/ssh-agent-relay) - Make your WSL installation use your Windows SSH Agent
