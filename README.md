@@ -1061,7 +1061,7 @@
 - [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
 - [2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
-- [libhv](https://github.com/ithewei/libhv) - Like libevent and libuv, libhv provides EventLoop with NIO and timer for developing TCP/UDP/HTTP/WebSocket server/client.
+- [libhv](https://github.com/ithewei/libhv) - Like libevent and libuv, libhv provides EventLoop with NIO and timer for developing TCP/UDP/HTTP/WebSocket client/server.
 - [solidity](https://github.com/ethereum/solidity) - Solidity, the Contract-Oriented Programming Language
 - [clip](https://github.com/dacap/clip) - Cross-platform C++ library to copy/paste clipboard content
 - [ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
@@ -2964,7 +2964,7 @@
 - [epkg](https://github.com/emacscollective/epkg) - Browse the Emacsmirror package database
 - [code-library](https://github.com/lujun9972/code-library) - use org-mode to manage code snippets
 - [emoji-recall.el](https://github.com/lujun9972/emoji-recall.el) - 
-- [matcha](https://github.com/jojojames/matcha) - Collection of hydras with a generic interface to launch them
+- [matcha](https://github.com/jojojames/matcha) - Collection of transients with a generic interface to launch them
 - [smart-jump](https://github.com/jojojames/smart-jump) - 
 - [git-undo-el](https://github.com/jwiegley/git-undo-el) - A command for Emacs to regress or "undo" a region back through its Git history
 - [ox-epub](https://github.com/ofosos/ox-epub) - Org mode epub export
@@ -10751,7 +10751,7 @@
 - [PenTestKit](https://github.com/maldevel/PenTestKit) - Useful tools and scripts during Penetration Testing engagements
 - [terraform-makefile](https://github.com/paulRbr/terraform-makefile) - Makefile to use as a simple interface for Terraform
 - [maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 - [sax](https://github.com/jherrlin/sax) - An intuitive way to find your beloved shell commands.
 - [linux-kernel-lab](https://github.com/bannsec/linux-kernel-lab) - Lab Environment For Learning About The Linux Kernel
 - [ssh-agent-relay](https://github.com/anaisbetts/ssh-agent-relay) - Make your WSL installation use your Windows SSH Agent
