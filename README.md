@@ -919,7 +919,6 @@
 - [compton](https://github.com/chjj/compton) - A compositor for X11.
 - [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program.
 - [whdd](https://github.com/whdd/whdd) - HDD diagnostic and data recovery tool for Linux
 - [physlock](https://github.com/muennich/physlock) - Lightweight linux console locking tool
@@ -3599,7 +3598,7 @@
 - [parinfer-mode](https://github.com/DogLooksGood/parinfer-mode) - Parinfer for Emacs :)
 - [company-quickhelp](https://github.com/company-mode/company-quickhelp) - Documentation popup for Company
 - [virtualenvwrapper.el](https://github.com/porterjamesj/virtualenvwrapper.el) - virtualenv tool for emacs
-- [company-coq](https://github.com/cpitclaudel/company-coq) - IDE extensions for Proof General's Coq mode
+- [company-coq](https://github.com/cpitclaudel/company-coq) - A Coq IDE build on top of Proof General's Coq mode
 - [alert](https://github.com/jwiegley/alert) - A Growl-like alerts notifier for Emacs
 - [ido-completing-read-plus](https://github.com/DarwinAwardWinner/ido-completing-read-plus) - Fancy completion all over Emacs, not just for buffers and files.
 - [android-mode](https://github.com/remvee/android-mode) - Emacs minor mode for Android application development
@@ -5158,7 +5157,7 @@
 - [webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals) - WebGL lessons that start with the basics
 - [lispgames.github.io](https://github.com/lispgames/lispgames.github.io) - 
 - [emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
-- [SJSJ](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon
+- [SJSJ](https://github.com/KittyGiraudel/SJSJ) - Simplified JavaScript Jargon
 - [json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [ensime.github.io](https://github.com/ensime/ensime.github.io) - ENSIME Documentation
 - [emacs.sexy](https://github.com/picandocodigo/emacs.sexy) - Emacs.sexy
@@ -5433,6 +5432,7 @@
 
 ## Java 
 
+- [neoeedit](https://github.com/neoedmund/neoeedit) - neoeedit - a smart, light, powerful text editor.
 - [questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
 - [Recyclerview-Gallery](https://github.com/ryanlijianchang/Recyclerview-Gallery) - Recyclerview-Gallery：This library shows you a gallery using RecyclerView.
@@ -5682,6 +5682,7 @@
 
 ## JavaScript 
 
+- [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor
 - [visual-basm](https://github.com/kolumb/visual-basm) - Visual tool for basm language
 - [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take up to 100 days, follow your own pace.
 - [Mark-Mind](https://github.com/MarkMindLtd/Mark-Mind) - MarkMind — a mind map and outliner editor  for Windows, Mac, Linux, andriod and ios ,it support markdown in node.
@@ -6140,7 +6141,7 @@
 - [BrowserQuest](https://github.com/mozilla/BrowserQuest) - A HTML5/JavaScript multiplayer game experiment
 - [firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
 - [CustomJSforFx](https://github.com/Aris-t2/CustomJSforFx) - custom scripts
-- [floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
+- [floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
 - [Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
 - [RESTer](https://github.com/frigus02/RESTer) - A REST client for almost any web service (Firefox and Chrome Extension)
@@ -6373,6 +6374,7 @@
 - [gnome-shell-extension-stealmyfocus](https://github.com/v-dimitrov/gnome-shell-extension-stealmyfocus) - Shell Extension that let window that demand attention to steal focus
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
 - [gnome-shell-extension-redshift](https://github.com/benzea/gnome-shell-extension-redshift) - DO NOT USE; GNOME NOW INCLUDES THE FEATURE ALREADY! – A redshift extension for gnome-shell – Obsolete with GNOME 3.26! Use the buildin nightlight feature instead!
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Youtube 字幕下载，Download Youtube Subtitles (Work best on Chrome + Tampermonkey)  2020-10-7 更新：支持中英双语字幕下载，请在页面底部提供的另一个链接进行安装
@@ -7211,7 +7213,7 @@
 - [ui-ux-hackfest-2020](https://github.com/jenkinsci/ui-ux-hackfest-2020) - Jenkins UI/UX Hackfest (May 25-29, 2020)
 - [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
-- [ABigSurvey](https://github.com/NiuTrans/ABigSurvey) - A collection of 400+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
+- [ABigSurvey](https://github.com/NiuTrans/ABigSurvey) - A collection of 500+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
 - [awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
 - [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
@@ -7427,7 +7429,7 @@
 - [awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
 - [awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅
 - [learning-oop-in-php](https://github.com/marcelgsantos/learning-oop-in-php) - A collection of resources to learn object-oriented programming and related concepts for PHP developers.
-- [awesome-bots](https://github.com/MaximAbramchuck/awesome-bots) - The most awesome list about bots ⭐️🤖
+- [awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
 - [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
@@ -7856,7 +7858,7 @@
 - [radamsa](https://github.com/aoh/radamsa) - a general-purpose fuzzer
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - Curated list of awesome open-source applications made with Node.js
-- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [talks](https://github.com/geraldb/talks) - talks, talks, talks  (sources in Markdown)
@@ -8141,7 +8143,6 @@
 - [DejaVuSansCode](https://github.com/SSNikolaevich/DejaVuSansCode) - Monospaced font with programming ligatures based on DejaVu Sans Mono
 - [scihub_ck](https://github.com/Wadauk/scihub_ck) - A tiny tool for checking the working domain of sci-hub
 - [asbru-cm](https://github.com/asbru-cm/asbru-cm) - Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.
-- [dank-selfhosted](https://github.com/cullum/dank-selfhosted) - Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD.
 - [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
 - [straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** A lightweight YouTube client for Linux, using the API of invidio.us
 - [iperl](https://github.com/LvMalware/iperl) - Run Perl interactively
@@ -10316,7 +10317,6 @@
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
-- [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [azul](https://github.com/maps4print/azul) - Desktop GUI Framework
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
@@ -11521,6 +11521,7 @@
 - [wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
+- [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [jay](https://github.com/nikersify/jay) - 😎 Supercharged JavaScript REPL
