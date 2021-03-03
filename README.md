@@ -206,7 +206,7 @@
 - [ihct](https://github.com/ollelogdahl/ihct) - 'I Hate C Testing': A minimal testing framework for C.
 - [simple-opengl-loader](https://github.com/tsherif/simple-opengl-loader) - An extensible, cross-platform, single-header C/C++ OpenGL loader library.
 - [delete-self-poc](https://github.com/LloydLabs/delete-self-poc) - A way to delete a locked file, or current running executable, on disk.
-- [HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 透明小电视
+- [HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站
 - [dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 - [iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
 - [libtap](https://github.com/zorgnax/libtap) - Write tests in C
@@ -1746,7 +1746,7 @@
 - [web-monad](https://github.com/Virtual-Insurance-Products/web-monad) - 
 - [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io Common Lisp client
 - [format-colors](https://github.com/vindarel/format-colors) - (format t "~/blue/ :)" "Hello")
-- [nx-freestance-handler](https://github.com/kssytsrk/nx-freestance-handler) - invidious-handler, a redirector from Youtube to Invidious for Nyxt browser
+- [nx-freestance-handler](https://github.com/kssytsrk/nx-freestance-handler) - nx-freestance-handler, a redirector from the mainstream sites (Youtube, Twittter, Instagram, Reddit) to their privacy-supporting mirrors
 - [with-c-syntax](https://github.com/y2q-actionman/with-c-syntax) - C language syntax in Common Lisp
 - [fuzzy-match](https://github.com/vindarel/fuzzy-match) - Fuzzy match candidates from an input string.
 - [trivial-snake](https://github.com/ryukinix/trivial-snake) - A trivial snake game written in Common Lisp built on top of trivial-gamekit
@@ -3616,7 +3616,7 @@
 - [org-cliplink](https://github.com/rexim/org-cliplink) - Insert org-mode links from clipboard
 - [gitter.el](https://github.com/xuchunyang/gitter.el) - An Emacs Gitter client
 - [erc-hl-nicks](https://github.com/leathekd/erc-hl-nicks) - Nickname Highlighting for ERC
-- [imenu-list](https://github.com/bmag/imenu-list) - Emacs plugin to show the current buffer's imenu entries in a seperate buffer
+- [imenu-list](https://github.com/bmag/imenu-list) - Emacs plugin to show the current buffer's imenu entries in a separate buffer
 - [move-text](https://github.com/emacsfodder/move-text) - move current line or region up or down
 - [anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
 - [emacs-xkcd](https://github.com/vibhavp/emacs-xkcd) - Read xkcd from Emacs
@@ -5174,6 +5174,7 @@
 - [YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more.
 - [git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [org-minimal-html-theme](https://github.com/caffo/org-minimal-html-theme) - Simple and beautiful orgmode HTML export theme
+- [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
@@ -5231,7 +5232,7 @@
 - [bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool
 - [wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available
 - [klfc](https://github.com/39aldo39/klfc) - Keyboard Layout Files Creator
-- [lsp](https://github.com/alanz/lsp) - Haskell library for the Microsoft Language Server Protocol
+- [lsp](https://github.com/haskell/lsp) - Haskell library for the Microsoft Language Server Protocol
 - [DeepDarkFantasy](https://github.com/ThoughtWorksInc/DeepDarkFantasy) - A Programming Language for Deep Learning
 - [bartlett](https://github.com/Nike-Inc/bartlett) - A simple Jenkins command line client to serve your needs.
 - [10-minute-vim-exercises](https://github.com/steveshogren/10-minute-vim-exercises) - The exercise files from 10 Minute Vim, for convenience of readers
@@ -5252,7 +5253,7 @@
 - [ghc-compiler-notes](https://github.com/myuon/ghc-compiler-notes) - A collection of Notes on GHC
 - [brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
 - [haskell-trainings](https://github.com/google/haskell-trainings) - Haskell 101 and 102: slides and codelabs
-- [scarf](https://github.com/scarf-sh/scarf) - A cross platform package manager that helps open-source developers distribute and monetize their software
+- [scarf](https://github.com/scarf-sh/scarf) - An experimental prototype of a package manager and packaging ecosystem. Currently being rebuilt.
 - [hatrace](https://github.com/nh2/hatrace) - scriptable strace
 - [cmt](https://github.com/smallhadroncollider/cmt) - Write consistent git commit messages based on a custom template
 - [ptghci](https://github.com/litxio/ptghci) - High-powered REPL for Haskell, inspired by IPython
@@ -5932,7 +5933,6 @@
 - [PopupWindow](https://github.com/ettoolong/PopupWindow) - Firefox add-on, move tab to standalone window, without tabs bar, navigation bar and bookmark bar UI.
 - [docker-pastebin](https://github.com/mko-x/docker-pastebin) - Paste your stuff however
 - [Rotten-Soup](https://github.com/Larkenx/Rotten-Soup) - A roguelike built with Vue, Vuetify, Tiled, rot.js, and PixiJS! Playable at https://rottensoup.herokuapp.com/
-- [sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
 - [lessmd](https://github.com/linuxenko/lessmd) - A small markdown viewer/converter for unix terminal.
 - [serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
@@ -6290,7 +6290,7 @@
 - [org-mode-parser](https://github.com/daitangio/org-mode-parser) - An org mode parser for nodejs
 - [syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) - SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
 - [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
-- [highlight.js](https://github.com/highlightjs/highlight.js) - Javascript syntax highlighter
+- [highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
 - [rainbow](https://github.com/ccampbell/rainbow) - Simple syntax highlighting library written in javascript
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [src2png](https://github.com/mplewis/src2png) - 📸💻 Turn your source code into beautiful syntax-highlighted images.
@@ -6403,7 +6403,6 @@
 - [gnome-shell-extension-sensory-perception](https://github.com/HarlemSquirrel/gnome-shell-extension-sensory-perception) - Displays  CPU/GPU/mobo/disk temperatures, voltages and fan speeds
 - [fedora-update](https://github.com/julio641742/fedora-update) - Update Indicator for Fedora and Gnome-Shell
 - [shutdown-timer-gnome-shell-extension](https://github.com/mkrajnak/shutdown-timer-gnome-shell-extension) - Shutdown timer extension for gnome-shell
-- [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [gnome-shell-timer](https://github.com/olebowle/gnome-shell-timer) - A simple timer
 - [harddiskled](https://github.com/biji/harddiskled) - Gnome extension to Show harddisk activity (IO speed read/write and LED). Click to change led size
 - [linux-dash](https://github.com/afaqurk/linux-dash) - A beautiful web dashboard for Linux
@@ -10359,6 +10358,7 @@
 - [colonize](https://github.com/indiv0/colonize) - A Dwarf Fortress/Rimworld-like game written in Rust
 - [rusted-ruins](https://github.com/garkimasera/rusted-ruins) - Extensible open world rogue like game with pixel art. Players can explore the wilderness and ruins.
 - [veloren](https://github.com/veloren/veloren) - [Mirror] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World
+- [sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [fcat](https://github.com/mre/fcat) - A 3x faster implementation of cat, using splice
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [LambdaCore](https://github.com/Pebaz/LambdaCore) - An interpreted language written in Rust inspired by the Lisp family of languages.
@@ -10591,6 +10591,7 @@
 
 ## Shell 
 
+- [DHTP](https://github.com/KuriKai/DHTP) - DOOM High Resolution Texture Project
 - [fnt](https://github.com/alexmyczko/fnt) - apt for fonts, the missing font manager for macOS/linux
 - [tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [wp-install-from-cli](https://github.com/juanmacivico87/wp-install-from-cli) - This repository contains a script for install WordPress with WordPress Commands Line Interface
@@ -11313,7 +11314,7 @@
 - [dotaliases](https://github.com/algotech/dotaliases) - Helpful bash aliases for true professionals.
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [shell-ci-build](https://github.com/caarlos0-graveyard/shell-ci-build) - A submodule to lint your shell projects with shellcheck in travis.ci builds
-- [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
+- [bash2048](https://github.com/JosefZIla/bash2048) - Bash implementation of 2048 game
 - [githug](https://github.com/Gazler/githug) - Git your game on!
 - [git-semantic-commits](https://github.com/fteem/git-semantic-commits) - Tiny semantic commit messages for Git.
 - [shinatra](https://github.com/benrady/shinatra) - A simple web server in 5 lines of bash
