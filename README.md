@@ -575,7 +575,7 @@
 - [xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [nemesis](https://github.com/libnet/nemesis) - A command-line network packet crafting and injection utility
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [LISP](https://github.com/krig/LISP) - Lisp interpreter in less than 500 lines of C, including a copying garbage collector and an implementation of LISP 1.5 from 1962.
 - [h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
@@ -1650,6 +1650,7 @@
 
 ## Clojure 
 
+- [specter](https://github.com/redplanetlabs/specter) - Clojure(Script)'s missing piece
 - [jet](https://github.com/borkdude/jet) - CLI to transform between JSON, EDN and Transit, powered with a minimal query language.
 - [play-cljc-examples](https://github.com/oakes/play-cljc-examples) - 
 - [postal](https://github.com/drewr/postal) - Clojure email support
@@ -2154,7 +2155,7 @@
 - [symbol-navigation-hydra](https://github.com/bgwines/symbol-navigation-hydra) - The Spacemacs Auto-Highlight Symbol Hydra, ported over to vanilla Emacs
 - [feed-discovery](https://github.com/HKey/feed-discovery) - Discover feed url by RSS/Atom autodiscovery.
 - [dmacro](https://github.com/emacs-jp/dmacro) - Repeated detection and execution of key operation
-- [meow](https://github.com/DogLooksGood/meow) - modular Emacs on wish
+- [meow](https://github.com/DogLooksGood/meow) - modular Emacs on wish / 猫态编辑
 - [org-watchlist](https://github.com/Brwo/org-watchlist) - Video playlist logging based on GNU Emacs' org-mode
 - [orgba](https://github.com/Fuco1/orgba) - Better APIs for org mode
 - [goto-line-preview](https://github.com/jcs-elpa/goto-line-preview) - Preview line when executing `goto-line` command.
@@ -2797,7 +2798,7 @@
 - [FG42](https://github.com/FG42/FG42) - Ultimate Emacs based IDE for true believers (It's a mirror from the main repository on http://gitlab.com/FG42/FG42 )
 - [carbon-now-sh.el](https://github.com/veelenga/carbon-now-sh.el) - Emacs to https://carbon.now.sh integration
 - [dtrt-indent](https://github.com/jscheid/dtrt-indent) - A minor mode that guesses the indentation offset originally used for creating source code files and transparently adjusts the corresponding settings in Emacs, making it more convenient to edit foreign files.
-- [discord-emacs.el](https://github.com/nitros12/discord-emacs.el) - Discord rich presence for emacs.
+- [discord-emacs.el](https://github.com/simmsb/discord-emacs.el) - Discord rich presence for emacs.
 - [python-x.el](https://github.com/wavexx/python-x.el) - python.el extras for interactive evaluation
 - [lispyville](https://github.com/noctuid/lispyville) - lispy + evil = lispyville
 - [ebdb](https://github.com/girzel/ebdb) - An EIEIO port of BBDB, Emacs' contact-management package
@@ -3085,7 +3086,7 @@
 - [browse-kill-ring](https://github.com/browse-kill-ring/browse-kill-ring) - For when 'C-y M-y M-y M-y' gets you down
 - [company-flx](https://github.com/PythonNut/company-flx) - :city_sunset: Flx fuzzy matching for company
 - [ahk-mode](https://github.com/bbatsov/ahk-mode) - Autothotkey major mode for emacs
-- [rubocop-emacs](https://github.com/rubocop-hq/rubocop-emacs) - An Emacs interface for RuboCop
+- [rubocop-emacs](https://github.com/rubocop/rubocop-emacs) - An Emacs interface for RuboCop
 - [helm-projectile](https://github.com/bbatsov/helm-projectile) - Helm UI for Projectile
 - [super-save](https://github.com/bbatsov/super-save) - Save Emacs buffers when they lose focus
 - [dotfiles](https://github.com/Ambrevar/dotfiles) - [MOVED TO GITLAB]
@@ -4652,7 +4653,7 @@
 - [kapacitor](https://github.com/influxdata/kapacitor) - Open source framework for processing, monitoring, and alerting on time series data
 - [mahonia](https://github.com/axgle/mahonia) - character-set conversion library implemented in Go
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
-- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [qri](https://github.com/qri-io/qri) - you're invited to a data party!
 - [hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl
@@ -5162,7 +5163,7 @@
 - [ensime.github.io](https://github.com/ensime/ensime.github.io) - ENSIME Documentation
 - [emacs.sexy](https://github.com/picandocodigo/emacs.sexy) - Emacs.sexy
 - [emacs4developers](https://github.com/pierre-lecocq/emacs4developers) - A document to help developers to use Emacs as a developer
-- [fonts](https://github.com/google/fonts) - Font files available from Google Fonts
+- [fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [rwot5-boston](https://github.com/WebOfTrustInfo/rwot5-boston) - RWOT5 in Boston, Massachusetts (October 2017)
 - [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [webcomponents.org](https://github.com/webcomponents/webcomponents.org) - Home of the web components community
@@ -5175,7 +5176,6 @@
 - [git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [org-minimal-html-theme](https://github.com/caffo/org-minimal-html-theme) - Simple and beautiful orgmode HTML export theme
 - [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
-- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
@@ -5693,7 +5693,7 @@
 - [next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是使用Golang和React开发的一款HTML5的远程桌面网关，具有小巧、易安装、易使用、资源占用小的特点，支持RDP、SSH、VNC和Telnet协议的连接和管理。
 - [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL is a free and open-source fork of mapbox-gl-js
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
-- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [papers-with-video](https://github.com/amitness/papers-with-video) - A browser extension that adds video explanations to research papers on arxiv.org
 - [github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
@@ -6251,7 +6251,7 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2021)
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
 - [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -6899,6 +6899,7 @@
 ## Nunjucks 
 
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
+- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
 ## OCaml 
 
@@ -9343,7 +9344,7 @@
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [uritemplate](https://github.com/python-hyper/uritemplate) - URI template parsing per RFC6570
-- [github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 2.7, 3.4, 3.5, 3.6, and 3.7 (and maybe 3.8?)
+- [github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
 - [DotEditor](https://github.com/vincenthEE/DotEditor) - A GUI editor for dot language used in graphviz.
