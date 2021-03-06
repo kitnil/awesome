@@ -2085,6 +2085,7 @@
 
 ## Emacs Lisp 
 
+- [symex.el](https://github.com/countvajhula/symex.el) - An evil way to edit Lisp symbolic expressions ("symexes") as trees in Emacs
 - [sudo-utils](https://github.com/alpha-catharsis/sudo-utils) - sudo utilities for emacs
 - [springboard](https://github.com/jwiegley/springboard) - An Emacs mode based on Helm that makes it easy to bounce around projects
 - [nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
@@ -3649,7 +3650,7 @@
 - [expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
 - [blog-admin](https://github.com/xcodebuild/blog-admin) - Write blog in emacs with hexo/org-page/nikola
 - [quelpa](https://github.com/quelpa/quelpa) - Build and install your Emacs Lisp packages on-the-fly directly from source
-- [dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 40+ languages
+- [dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 50+ languages
 - [know-your-http-well](https://github.com/for-GET/know-your-http-well) - HTTP headers, media-types, methods, relations and status codes, all summarized and linking to their specification.
 - [mode-icons](https://github.com/ryuslash/mode-icons) - Show icons instead of mode names
 - [ESS](https://github.com/emacs-ess/ESS) - Emacs Speaks Statistics: ESS
@@ -3889,7 +3890,7 @@
 - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [slick](https://github.com/ExaScience/slick) - The Slick programming language is an s-expression surface syntax for Go.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
-- [wprecon](https://github.com/blackbinn/wprecon) - WPrecon (WordPress Recon), is a vulnerability recognition tool in CMS Wordpress, developed in Go and with scripts in LUA.
+- [wprecon](https://github.com/blackbinn/wprecon) - WPrecon (WordPress Recon), is a vulnerability recognition tool in CMS Wordpress, developed in Go and with scripts in Lua.
 - [mosdns](https://github.com/IrineSistiana/mosdns) - 一个插件化的 DNS 转发/分流器。
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
@@ -5085,6 +5086,7 @@
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
 - [fuzzdata](https://github.com/MozillaSecurity/fuzzdata) - Fuzzing resources for feeding various fuzzers with input. 🔧
 - [badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
+- [docs](https://github.com/dapr/docs) - Dapr user documentation, used to build docs.dapr.io
 - [glastoselenium](https://github.com/thomasms/glastoselenium) - A bot for booking Glastonbury tickets using selenium
 - [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [dockerfile](https://github.com/mritd/dockerfile) - some personally made dockerfile
@@ -6963,6 +6965,8 @@
 
 ## Others 
 
+- [awesome-kafka](https://github.com/monksy/awesome-kafka) - A collection of kafka-resources
+- [rocky](https://github.com/rocky-linux/rocky) - Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
 - [common-lisp-tweaks](https://github.com/marcoheisig/common-lisp-tweaks) - A collection of various tweaks for working with Common Lisp.
 - [learning](https://github.com/amitness/learning) - Becoming better at data science every day
 - [project](https://github.com/servo/project) - A repo for the Servo Project
@@ -9852,6 +9856,8 @@
 
 ## R 
 
+- [DataExplorer](https://github.com/boxuancui/DataExplorer) - Automate Data Exploration and Treatment
+- [poorman](https://github.com/nathaneastwood/poorman) - A poor man's dependency free grammar of data manipulation
 - [awesome-rshiny](https://github.com/grabear/awesome-rshiny) - An awesome R-shiny list!
 - [purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
 - [timevis](https://github.com/daattali/timevis) - 📅 Create interactive timeline visualizations in R
@@ -10466,7 +10472,6 @@
 
 ## SCSS 
 
-- [docs](https://github.com/dapr/docs) - Dapr user documentation, used to build docs.dapr.io
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
