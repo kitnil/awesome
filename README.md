@@ -3382,7 +3382,7 @@
 - [nix-emacs](https://github.com/travisbhartwell/nix-emacs) - A set of useful Emacs modes and functions for users of Nix and Nix OS.
 - [nix-mode](https://github.com/NixOS/nix-mode) - An Emacs major mode for editing Nix expressions.
 - [zerodark-theme](https://github.com/NicolasPetton/zerodark-theme) - A dark, medium-contrast theme for Emacs
-- [xref-js2](https://github.com/NicolasPetton/xref-js2) - Jump to references/definitions using ag & js2-mode's AST in Emacs
+- [xref-js2](https://github.com/js-emacs/xref-js2) - Jump to references/definitions using ag & js2-mode's AST in Emacs
 - [beginend](https://github.com/DamienCassou/beginend) - Emacs package to redefine M-&lt; and M-&gt; for some modes
 - [prettier-emacs](https://github.com/prettier/prettier-emacs) - Minor mode to format JS code on file save
 - [straight.el](https://github.com/raxod502/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
@@ -4305,7 +4305,7 @@
 - [red](https://github.com/antonmedv/red) - Terminal log analysis tools
 - [conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
 - [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
-- [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Container Images, Github Repositories and Filesystems. Suitable for CI
+- [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Container Images, Git Repositories and Filesystems. Suitable for CI
 - [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [gopeed-core](https://github.com/monkeyWie/gopeed-core) - A fast download client,support HTTP&P2P.
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
@@ -7745,7 +7745,7 @@
 - [awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
 - [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
 - [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) - :european_castle: Fantasy literature worth reading
-- [awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link
+- [awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below
 - [awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition) - A curated list of action recognition and related area resources
 - [awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything
 - [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant) - A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
