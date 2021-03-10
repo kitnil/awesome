@@ -1220,6 +1220,7 @@
 - [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
 - [HyperDex](https://github.com/rescrv/HyperDex) - HyperDex is a scalable, searchable key-value store
 - [inspector](https://github.com/inspector-repl/inspector) - A drop-anywhere C++ REPL
+- [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
 - [nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
 - [gnethogs](https://github.com/mbfoss/gnethogs) - GUI for nethogs using GKT
@@ -1312,7 +1313,7 @@
 - [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [android-simg2img](https://github.com/anestisb/android-simg2img) - Tool to convert Android sparse images to raw images
 - [gzdoom](https://github.com/coelckers/gzdoom) - GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities
-- [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
+- [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [keeperrl](https://github.com/miki151/keeperrl) - Source code of KeeperRL
@@ -2231,7 +2232,7 @@
 - [lsp-latex](https://github.com/ROCKTAKEY/lsp-latex) - Emacs lsp-mode client for LaTeX, on texlab.
 - [orderless](https://github.com/oantolin/orderless) - Emacs completion style that matches multiple regexps in any order
 - [s3ed](https://github.com/mattusifer/s3ed) - An interface to s3 from emacs
-- [dotfiles](https://github.com/wandersoncferreira/dotfiles) - Literate Emacs configuration with EXWM
+- [literate_emacs](https://github.com/wandersoncferreira/literate_emacs) - Literate Emacs configuration with EXWM
 - [xwwp](https://github.com/canatella/xwwp) - Enhance the Emacs xwidget-webkit browser
 - [emacs-lisp-local](https://github.com/lispunion/emacs-lisp-local) - Allow different Lisp indentation in each buffer
 - [leaf-tree.el](https://github.com/conao3/leaf-tree.el) - Interactive side-bar feature for leaf based init.el
@@ -5686,6 +5687,7 @@
 
 ## JavaScript 
 
+- [basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages
 - [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor
 - [visual-basm](https://github.com/kolumb/visual-basm) - Visual tool for basm language
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -5920,7 +5922,7 @@
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [eslint-config-standard-react](https://github.com/standard/eslint-config-standard-react) - ESLint Shareable Config for React/JSX support in JavaScript Standard Style
 - [eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
-- [EasyDockerWeb](https://github.com/qfdk/EasyDockerWeb) - A simple Web Ui for Docker using xterm.js, Node.js, dockerode and Socket.io 欢迎打赏
+- [EasyDockerWeb](https://github.com/qfdk/EasyDockerWeb) - A simple Web Ui for Docker using xterm.js, Node.js, dockerode and Socket.io
 - [webssh2](https://github.com/billchurch/webssh2) - Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
 - [unwanted-twitch](https://github.com/kwaschny/unwanted-twitch) - Hide unwanted streams, games, categories and channels on: twitch.tv
 - [shellshare](https://github.com/vitorbaptista/shellshare) - Live terminal broadcasts
@@ -6564,7 +6566,6 @@
 - [Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [headlines](https://github.com/udibr/headlines) - Automatically generate headlines to short articles
-- [pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank for phrase extraction and summarization of text documents
 - [adjustText](https://github.com/Phlya/adjustText) - A small library for automatically adjustment of text position in matplotlib plots to minimize overlaps.
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [MIT_OCW_Linear_Algebra_18_06](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - IPython notebooks on Gilbert Strang's MIT course on linear algebra (18.06)
@@ -6658,7 +6659,6 @@
 - [mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ freenode
 - [westford](https://github.com/udevbe/westford) - Westford Wayland Compositor
 - [replete-android](https://github.com/replete-repl/replete-android) - ClojureScript REPL Android app
-- [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [VDM](https://github.com/ingbyr/VDM) - GUI for command-line video downloader (youtube-dl annie)
 - [Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [awesome-conferences-database](https://github.com/matteocrippa/awesome-conferences-database) - 📲 A collaborative list of Conferences
@@ -8598,7 +8598,7 @@
 - [darts](https://github.com/quark0/darts) - Differentiable architecture search for convolutional and recurrent networks
 - [trfl](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning
 - [dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
-- [pytheory](https://github.com/kennethreitz42/pytheory) - Music Theory for Humans.
+- [pytheory](https://github.com/kenreitz42/pytheory) - Music Theory for Humans.
 - [ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
 - [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection research papers with implementations.
 - [image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
@@ -8624,7 +8624,7 @@
 - [PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies) - a simple PlantsVsZombies game
 - [gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
 - [DeepPrivacy](https://github.com/hukkelas/DeepPrivacy) - DeepPrivacy: A Generative Adversarial Network for Face Anonymization
-- [bake](https://github.com/kennethreitz42/bake) - Bake — the strangely familiar workflow utility.
+- [bake](https://github.com/kenreitz42/bake) - Bake — the strangely familiar workflow utility.
 - [ru_transformers](https://github.com/mgrankin/ru_transformers) - 
 - [fav-up](https://github.com/pielco11/fav-up) - IP lookup by favicon using Shodan
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
@@ -9036,6 +9036,7 @@
 - [video-to-ascii](https://github.com/joelibaceta/video-to-ascii) - It is a simple python package to play videos in the terminal using characters as pixels
 - [term2048](https://github.com/bfontaine/term2048) - :tada: 2048 in your terminal
 - [pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
+- [pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank for phrase extraction and summarization of text documents
 - [lexrank](https://github.com/crabcamp/lexrank) - LexRank algorithm for text summarization
 - [pangu.py](https://github.com/vinta/pangu.py) - Paranoid text spacing in Python
 - [cucco](https://github.com/davidmogar/cucco) - Text normalization library for Python
@@ -9282,7 +9283,7 @@
 - [seq2seq](https://github.com/farizrahman4u/seq2seq) - Sequence to Sequence Learning with Keras
 - [fake2db](https://github.com/emirozer/fake2db) - create custom test databases that are populated with fake data
 - [DeepDreamVideo](https://github.com/graphific/DeepDreamVideo) - implementing deep dream on video
-- [golem](https://github.com/golemfactory/golem) - Golem is creating a global market for computing power.
+- [clay](https://github.com/golemfactory/clay) - Golem is creating a global market for computing power.
 - [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 - [LANs.py](https://github.com/DanMcInerney/LANs.py) - Inject code and spy on wifi users
 - [paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager (Linux/Windows) -- Moved to Gnome's Gitlab
