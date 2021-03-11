@@ -1045,6 +1045,7 @@
 
 ## C++ 
 
+- [fileshelter](https://github.com/epoupon/fileshelter) - FileShelter is a “one-click” file sharing web application
 - [pwsafe](https://github.com/nsd20463/pwsafe) - commandline tool compatible with Counterpane's Passwordsafe
 - [ytdl-gui](https://github.com/JaGoLi/ytdl-gui) - A simple-to-use, cross-platform graphical interface for youtube-dl.
 - [CyberpunkSaveEditor](https://github.com/PixelRick/CyberpunkSaveEditor) - A tool to edit Cyberpunk 2077 sav.dat files
@@ -5438,6 +5439,7 @@
 
 ## Java 
 
+- [seadroid](https://github.com/haiwen/seadroid) - Android client for Seafile
 - [neoeedit](https://github.com/neoedmund/neoeedit) - neoeedit - a smart, light, powerful text editor.
 - [questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
@@ -6152,7 +6154,7 @@
 - [duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
 - [RESTer](https://github.com/frigus02/RESTer) - A REST client for almost any web service (Firefox and Chrome Extension)
 - [live-css-editor](https://github.com/webextensions/live-css-editor) - Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
-- [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
+- [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :warning: without maintaining in a period & any cooperative purpose are welcome
 - [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.
 - [learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
@@ -6966,6 +6968,7 @@
 
 ## Others 
 
+- [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [awesome-kafka](https://github.com/monksy/awesome-kafka) - A collection of kafka-resources
 - [rocky](https://github.com/rocky-linux/rocky) - Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
 - [common-lisp-tweaks](https://github.com/marcoheisig/common-lisp-tweaks) - A collection of various tweaks for working with Common Lisp.
@@ -8638,7 +8641,7 @@
 - [andriller](https://github.com/den4uk/andriller) - 📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
 - [YouTube-Report](https://github.com/A3M4/YouTube-Report) - :bar_chart: Generate a personal YouTube report from your Google Takeout data
 - [Silver](https://github.com/s0md3v/Silver) - Mass scan IPs for vulnerable services
-- [scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU and memory profiler for Python
+- [scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [dlinject](https://github.com/DavidBuchanan314/dlinject) - Inject a shared library (i.e. arbitrary code) into a live linux process, without ptrace
 - [dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
@@ -10332,7 +10335,7 @@
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [vector](https://github.com/timberio/vector) - A high-performance observability data pipeline.
+- [vector](https://github.com/timberio/vector) - Ultra performant, highly reliable observability data pipeline.
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -11487,7 +11490,6 @@
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [Dockter](https://github.com/oslabs-beta/Dockter) - A low-overhead, open-source Docker log management tool
 - [shell](https://github.com/pop-os/shell) - Pop!_OS Shell
-- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，vuex,vue-router,Efforts to update in progress...
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [animeta](https://github.com/dittos/animeta) - Manage your anime watch history.
@@ -11741,6 +11743,7 @@
 
 - [ultrawidify](https://github.com/tamius-han/ultrawidify) - Firefox extension that allows you to work around some people's inability to properly encode 21:9 videos.
 - [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，vuex,vue-router,Efforts to update in progress...
 - [vue-stroll](https://github.com/xiaoluoboding/vue-stroll) - 📜 Vue.js + Stroll.js. Awesome CSS list scroll effects for Vue2.x.
 - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - 🏄🏼  A SmoothPicker for Vue 2 (like native datetime picker of iOS)
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
