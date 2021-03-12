@@ -294,6 +294,7 @@
 - [OpenGL-Registry](https://github.com/KhronosGroup/OpenGL-Registry) - OpenGL, OpenGL ES, and OpenGL ES-SC API and Extension Registry
 - [azimuth](https://github.com/mdsteele/azimuth) - A metroidvania with vector graphics
 - [emacs-sqlite3-api](https://github.com/pekingduck/emacs-sqlite3-api) - SQLite3 API for GNU Emacs 25+
+- [libguestfs](https://github.com/libguestfs/libguestfs) - library and tools for accessing and modifying virtual machine disk images.  PLEASE DO NOT USE GITHUB FOR ISSUES OR PULL REQUESTS.  See the website for how to file a bug or contact us.
 - [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution.
 - [NtLua](https://github.com/can1357/NtLua) - Lua in kernel-mode because why not.
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -1450,7 +1451,7 @@
 - [xkeymacs](https://github.com/fujieda/xkeymacs) - 
 - [variant](https://github.com/mapbox/variant) - C++11/C++14 Variant
 - [tiled](https://github.com/mapeditor/tiled) - Flexible level editor
-- [cosmos](https://github.com/OpenGenus/cosmos) - | Contribute toward Hacktoberfest and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
+- [cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Join our Internship and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
 - [gameplay](https://github.com/gameplay3d/gameplay) - Open-source, cross-platform, C++ game engine for creating 2D/3D games.
 - [spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine
 - [Torque2D](https://github.com/GarageGames/Torque2D) - MIT Licensed Open Source version of Torque 2D game engine from GarageGames
@@ -1551,6 +1552,7 @@
 - [cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD Client
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [libdnf](https://github.com/rpm-software-management/libdnf) - Package management library.
+- [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 
 ## CMake 
 
@@ -1968,7 +1970,7 @@
 
 ## Dart 
 
-- [nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend any game or application.
+- [nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend games and applications.
 - [open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) - :iphone: List of open source Flutter applications :octocat:
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries
@@ -6919,7 +6921,6 @@
 - [ppx_sexp_conv](https://github.com/janestreet/ppx_sexp_conv) - Generation of S-expression conversion functions from type definitions
 - [obuilder](https://github.com/ocurrent/obuilder) - Experimental "docker build" alternative using btrfs/zfs snapshots
 - [git-fs](https://github.com/g2p/git-fs) - A filesystem interface to git repositories
-- [libguestfs](https://github.com/libguestfs/libguestfs) - library and tools for accessing and modifying virtual machine disk images.  PLEASE DO NOT USE GITHUB FOR ISSUES OR PULL REQUESTS.  See the website for how to file a bug or contact us.
 - [sexplib](https://github.com/janestreet/sexplib) - Automated S-expression conversion
 - [irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
@@ -7973,7 +7974,6 @@
 - [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
-- [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Development has moved to Gitlab
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [systemd-user-units](https://github.com/pablox-cl/systemd-user-units) - A collection of systemd units
 - [base16](https://github.com/chriskempson/base16) - An architecture for building themes
@@ -8666,7 +8666,7 @@
 - [jenkins-autojobs](https://github.com/gvalkov/jenkins-autojobs) - Automatically create Jenkins jobs from template jobs and branches in a SCM repository
 - [pdf2image](https://github.com/Belval/pdf2image) - A python module that wraps the pdftoppm utility to convert PDF to PIL Image object
 - [bridgy](https://github.com/wagoodman/bridgy) - cloud inventory + ssh + tmux + sshfs
-- [awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor) - 🔨  Open source WEB editor summary 🐛
+- [awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor) - 🔨  Open source WEB editor summary
 - [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [devblogs](https://github.com/abdelhai/devblogs) - +2600 developer-related blogs and publications.
 - [awesome-dash](https://github.com/ucg8j/awesome-dash) - A curated list of awesome Dash (plotly) resources
@@ -10335,7 +10335,7 @@
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [vector](https://github.com/timberio/vector) - Ultra performant, highly reliable observability data pipeline.
+- [vector](https://github.com/timberio/vector) - High-performance, high-reliability observability data pipeline.
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
