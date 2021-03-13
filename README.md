@@ -283,7 +283,7 @@
 - [Linux-NetSpeed](https://github.com/chiakge/Linux-NetSpeed) - 将Linux现常用的网络加速集成在一起
 - [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
-- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
+- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal runtime)
 - [hvmi](https://github.com/hvmi/hvmi) - Hypervisor Memory Introspection Core Library
 - [paperview](https://github.com/glouw/paperview) - A high performance X11 animated wallpaper setter
 - [vala-panel](https://github.com/rilian-la-te/vala-panel) - Vala rewrite of SimplePanel - GitHub mirror
@@ -7187,7 +7187,7 @@
 - [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) - 🇧🇷 A collection of amazing open source projects built by brazilian developers
 - [awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection) - A curated list of awesome anomaly detection resources
 - [awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) - A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
-- [awesome-a11y](https://github.com/brunopulis/awesome-a11y) - :wheelchair: A curate list about A11Y
+- [awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curate list about A11Y :wheelchair:
 - [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) - A curated list of awesome quantum computing learning and developing resources.
 - [awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
 - [awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace: https://freerobotics.tools/
