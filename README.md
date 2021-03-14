@@ -1264,7 +1264,7 @@
 - [OpenRaider](https://github.com/xythobuz/OpenRaider) - Open Source Tomb Raider Engine
 - [Castor3D](https://github.com/DragonJoker/Castor3D) - Multi-OS 3D engine.
 - [RabbitToolbox](https://github.com/ray-cast/RabbitToolbox) - 🤸🏾‍♀️👗开源的动画渲染软件，提倡以简单、易用，高质量的物理演算以及渲染质量和性能，为喜爱二次元动画的用户降低视频制作门槛
-- [FlexEngine](https://github.com/ajweeks/FlexEngine) - A personal game engine
+- [FlexEngine](https://github.com/ajweeks/FlexEngine) - Cross-platform game engine with Vulkan backend
 - [RadixEngine](https://github.com/GlPortal/RadixEngine) - A free and open game engine.
 - [xrtl](https://github.com/google/xrtl) - Cross-platform Real-Time Rendering Library
 - [DustRacing2D](https://github.com/juzzlin/DustRacing2D) - Dust Racing 2D is a traditional top-down car racing game including a level editor.
@@ -1740,6 +1740,7 @@
 
 ## Common Lisp 
 
+- [multiposter](https://github.com/Shinmera/multiposter) - Small application to post to multiple services simultaneously
 - [make-hash](https://github.com/genovese/make-hash) - A Common Lisp package for hash table creation with flexible, extensible initializers.
 - [common-lisp-by-example](https://github.com/ashok-khanna/common-lisp-by-example) - Repo for Common Lisp by Example
 - [github-webhook](https://github.com/fukamachi/github-webhook) - Docker container to listen for GitHub webhook events
@@ -5025,6 +5026,7 @@
 ## HTML 
 
 - [ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
+- [big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
 - [Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [dirtree](https://github.com/emad-elsaid/dirtree) - Visualizing files paths as an interactive tree, works nicely with gnu linux tools such as find, ls, or git ls-files
 - [HTML5_Audio_Visualizer](https://github.com/wayou/HTML5_Audio_Visualizer) - An audio spectrum visualizer built with HTML5 Audio API
@@ -8357,7 +8359,6 @@
 - [pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
 - [homebox](https://github.com/progmaticltd/homebox) - A set of ansible scripts to build a personal mail server / private cloud / etc.
 - [yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
-- [big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
 - [autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts)
 - [designate](https://github.com/openstack/designate) - OpenStack DNS As A Service (Designate). Mirror of code maintained at opendev.org.
@@ -8765,7 +8766,7 @@
 - [PyCParser](https://github.com/albertz/PyCParser) - C parser and interpreter written in Python with automatic ctypes interface generation
 - [forget](https://github.com/codl/forget) - Continuous post deletion for twitter and mastodon
 - [tootbot](https://github.com/corbindavenport/tootbot) - Python tool for mirroring Reddit posts to Twitter and Mastodon
-- [moa](https://github.com/foozmeat/moa) - A Mastodon, Twitter, and Instagram Cross-poster
+- [moa](https://github.com/FedStoa/moa) - A Mastodon, Twitter, and Instagram Cross-poster
 - [jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python API for accessing resources and configuring Hudson & Jenkins continuous-integration servers
 - [script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [ansible-role-yedit](https://github.com/kwoodson/ansible-role-yedit) - Ansible Role for Yaml editing
@@ -10708,7 +10709,7 @@
 - [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [screen-workdir.sh](https://github.com/gutierri/screen-workdir.sh) - Utility to create session with the current folder name on GNU Screen
 - [sysbox](https://github.com/nestybox/sysbox) - Sysbox repository
-- [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
+- [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash, zsh and all POSIX shells)
 - [registrish](https://github.com/jpetazzo/registrish) - Dirty hack to run a read-only, public Docker registry on almost any static file hosting service (e.g. NGINX, Netlify, S3...)
 - [tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
 - [aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
