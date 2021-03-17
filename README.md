@@ -2580,7 +2580,7 @@
 - [yequake](https://github.com/alphapapa/yequake) - Drop-down Emacs frames, like Yakuake
 - [unicode-math-input.el](https://github.com/astoff/unicode-math-input.el) - Insert Unicode math symbols in Emacs
 - [pack-el](https://github.com/10sr/pack-el) - Pack and Unpack Archive Files
-- [literate-elisp](https://github.com/jingtaozf/literate-elisp) - A literate programming tool to load Emacs Lisp codes from org mode file directly
+- [literate-elisp](https://github.com/jingtaozf/literate-elisp) - Load Emacs Lisp code blocks from Org files
 - [flymake-diagnostic-at-point](https://github.com/meqif/flymake-diagnostic-at-point) - Minor mode for showing flymake diagnostics at point
 - [scrollkeeper.el](https://github.com/alphapapa/scrollkeeper.el) - Configurable scrolling commands with visual guidelines, for Emacs
 - [unpackaged.el](https://github.com/alphapapa/unpackaged.el) - A collection of useful Emacs Lisp code that isn't substantial enough to be packaged
@@ -6603,6 +6603,7 @@
 
 ## Kotlin 
 
+- [kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Intelligent Kotlin support for any editor/IDE using the Language Server Protocol
 - [VancedManager](https://github.com/YTVanced/VancedManager) - Vanced Installer
 - [archwiki-viewer](https://github.com/kevinhinterlong/archwiki-viewer) - A simple Android specific viewer for the Arch Linux Wiki.
 - [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Most popular open source Android Alarm Clock App
@@ -10679,7 +10680,7 @@
 - [bashttpd](https://github.com/avleen/bashttpd) - A web server written in bash
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 - [polyglot](https://github.com/agkozak/polyglot) - Color, ASCII-only Git prompt for zsh, bash, ksh93, mksh, pdksh, dash, and busybox ash
-- [xdg-xmenu](https://github.com/OliverLew/xdg-xmenu) - A shell script to generate menu for xmenu
+- [xdg-xmenu](https://github.com/OliverLew/xdg-xmenu) - A shell script to generate menu for xmenu, I actually want to do a python version
 - [projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 - [dmenufm](https://github.com/huijunchen9260/dmenufm) - A simple file manager using dmenu
 - [cloudmacs](https://github.com/karlicoss/cloudmacs) - Selfhost your Emacs and access it in browser
