@@ -3312,7 +3312,7 @@
 - [eval-in-repl](https://github.com/kaz-yos/eval-in-repl) - Consistent ESS-like eval interface for various REPLs
 - [evil-easymotion](https://github.com/PythonNut/evil-easymotion) - :fast_forward: A port of vim easymotion to Emacs' evil-mode
 - [yafolding.el](https://github.com/zenozeng/yafolding.el) - Yet another folding extension for Emacs
-- [modalka](https://github.com/mrkkrp/modalka) - Easily introduce native modal editing of your own design
+- [modalka](https://github.com/mrkkrp/modalka) - Modal editing your way
 - [emacs-solaire-mode](https://github.com/hlissner/emacs-solaire-mode) - If only certain buffers could be so grossly incandescent.
 - [org-rifle](https://github.com/alphapapa/org-rifle) - Rifle through your Org-mode buffers and acquire your target
 - [bm](https://github.com/joodland/bm) - bm.el -- Visual Bookmarks for GNU Emacs
@@ -5201,6 +5201,7 @@
 
 ## Haskell 
 
+- [xrefcheck](https://github.com/serokell/xrefcheck) - Check cross-references in repository documents
 - [mongodb](https://github.com/mongodb-haskell/mongodb) - MongoDB driver for Haskell
 - [haskell-for-imperative-programmers](https://github.com/rodrigobotti/haskell-for-imperative-programmers) - Code built from watching the "Haskell for Imperative Programmers" series of lessons on Youtube
 - [write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
@@ -11757,7 +11758,7 @@
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 170k+ developers. https://hoppscotch.io
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [shortkeys](https://github.com/mikecrittenden/shortkeys) - A browser extension for custom keyboard shortcuts
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
