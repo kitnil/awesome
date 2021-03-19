@@ -351,7 +351,6 @@
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
 - [blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
-- [chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
 - [acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [antispy](https://github.com/mohuihui/antispy) - AntiSpy is a free but powerful anti virus and rootkits toolkit.It offers you the ability with the highest privileges that can detect,analyze and restore various kernel modifications and hooks.With its assistance,you can easily spot and neutralize malwares hidden from normal detectors.
 - [gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
@@ -1655,6 +1654,8 @@
 
 ## Clojure 
 
+- [carmine](https://github.com/ptaoussanis/carmine) - Redis client and message queue for Clojure
+- [claypoole](https://github.com/TheClimateCorporation/claypoole) - Claypoole: Threadpool tools for Clojure
 - [specter](https://github.com/redplanetlabs/specter) - Clojure(Script)'s missing piece
 - [jet](https://github.com/borkdude/jet) - CLI to transform between JSON, EDN and Transit, powered with a minimal query language.
 - [play-cljc-examples](https://github.com/oakes/play-cljc-examples) - 
@@ -5741,7 +5742,7 @@
 - [Git-User-Switch](https://github.com/geongeorge/Git-User-Switch) - Switch git user and email at ease
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [funnel-graph-js](https://github.com/greghub/funnel-graph-js) - SVG Funnel Graph Javascript Library
-- [chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform
+- [chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [express-rate-limit](https://github.com/nfriedly/express-rate-limit) - Basic rate-limiting middleware for express
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects and FAQ for my Complete JavaScript course
@@ -6977,6 +6978,7 @@
 
 ## Others 
 
+- [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [awesome-kafka](https://github.com/monksy/awesome-kafka) - A collection of kafka-resources
 - [rocky](https://github.com/rocky-linux/rocky) - Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
@@ -7292,6 +7294,7 @@
 - [Awesome-Interview](https://github.com/Awesome-Interview/Awesome-Interview) - Collection of awesome interview references.
 - [Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Awesome-Cellular-Hacking
 - [clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
+- [chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
 - [best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
 - [Awesome-design-tools](https://github.com/phh95/Awesome-design-tools) - 
 - [Privilege-Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) - This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.
@@ -10177,6 +10180,7 @@
 
 ## Rust 
 
+- [arret](https://github.com/etaoins/arret) - Pure functional Lisp implemented in Rust
 - [cm](https://github.com/tsoding/cm) - Emacs' compilation-mode-like TUI application
 - [scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [complexity](https://github.com/thoughtbot/complexity) - A command line tool to identify complex code
@@ -10493,6 +10497,7 @@
 
 ## Scala 
 
+- [llambda](https://github.com/etaoins/llambda) - Scheme R7RS frontend for LLVM
 - [tofu](https://github.com/tofu-tf/tofu) - Functional programming toolbox
 - [kukulcan](https://github.com/mmolimar/kukulcan) - A REPL for Apache Kafka
 - [conscript](https://github.com/foundweekends/conscript) - Scala at your command
