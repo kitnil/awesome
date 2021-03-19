@@ -51,6 +51,7 @@
   - [HCL](#hcl)
   - [HTML](#html)
   - [Haml](#haml)
+  - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
   - [Hy](#hy)
@@ -2031,7 +2032,7 @@
 - [guix](https://github.com/metacall/guix) - Docker image for using Guix in a CI/CD environment.
 - [docker-tor](https://github.com/mko-x/docker-tor) - Setup a Tor relay Server/Service easily. Support Tor!!
 - [docker-nginx-simple](https://github.com/mko-x/docker-nginx-simple) - Simple nginx serving static content in just a few lines of code.
-- [xubuntu-vnc](https://github.com/accetto/xubuntu-vnc) - Headless Ubuntu/Xfce containers with VNC and various applications
+- [xubuntu-vnc](https://github.com/accetto/xubuntu-vnc) - Phasing out! This repo will be archived soon. Newer G3 repos are coming. Headless Ubuntu/Xfce containers with VNC and various applications
 - [xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc) - Headless Ubuntu/Xfce containers with VNC/noVNC and various applications
 - [docker-pxe](https://github.com/ferrarimarco/docker-pxe) - A virtualized implementation of PXE supported by DNSMasq
 - [docker-nix](https://github.com/nix-community/docker-nix) - Docker image for nix [maintainer=@zimbatm] [status=deprecated]
@@ -2091,6 +2092,7 @@
 
 ## Emacs Lisp 
 
+- [rde](https://github.com/abcdw/rde) - Tools for managing reproducible development environments https://sr.ht/abcdw/rde/
 - [symex.el](https://github.com/countvajhula/symex.el) - An evil way to edit Lisp symbolic expressions ("symexes") as trees in Emacs
 - [sudo-utils](https://github.com/alpha-catharsis/sudo-utils) - sudo utilities for emacs
 - [springboard](https://github.com/jwiegley/springboard) - An Emacs mode based on Helm that makes it easy to bounce around projects
@@ -3897,7 +3899,7 @@
 - [slick](https://github.com/ExaScience/slick) - The Slick programming language is an s-expression surface syntax for Go.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [wprecon](https://github.com/blackbinn/wprecon) - WPrecon (WordPress Recon), is a vulnerability recognition tool in CMS Wordpress, developed in Go and with scripts in Lua.
-- [mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发/分流器。
+- [mosdns](https://github.com/IrineSistiana/mosdns) - 一个插件化的 DNS 转发/分流器。
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
@@ -3949,7 +3951,7 @@
 - [v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [ktunnel](https://github.com/omrikiei/ktunnel) - A cli that exposes your local resources to kubernetes
 - [sploit](https://github.com/zznop/sploit) - Go package that aids in binary analysis and exploitation
-- [git-ci](https://github.com/moul/git-ci) - git subcommand to interract with CI/CD from command line
+- [git-ci](https://github.com/moul/git-ci) - ♐ git subcommand to interract with CI/CD from command line
 - [kubecolor](https://github.com/dty1er/kubecolor) - colorizes kubectl output
 - [shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
 - [arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
@@ -3975,7 +3977,6 @@
 - [memviz](https://github.com/bradleyjkemp/memviz) - Visualize your Go data structures using graphviz
 - [beeep](https://github.com/gen2brain/beeep) - Go cross-platform library for sending desktop notifications, alerts and beeps
 - [cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
-- [goquiz.github.io](https://github.com/goquiz/goquiz.github.io) - Go Interview Questions and Answers
 - [pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
 - [glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
@@ -4517,7 +4518,7 @@
 - [dingo](https://github.com/pforemski/dingo) - A DNS client in Go that supports Google DNS over HTTPS
 - [terraform-provider-template](https://github.com/hashicorp/terraform-provider-template) - Terraform template provider
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
-- [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+- [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven network framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [terraform-provider-null](https://github.com/hashicorp/terraform-provider-null) - Provides constructs that intentionally do nothing, useful in various situations to help orchestrate tricky behavior or work around limitations. This provider is maintained by the HashiCorp Terraform Team.
 - [go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert go test output to junit xml
@@ -5198,6 +5199,10 @@
 ## Haml 
 
 - [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+
+## Handlebars 
+
+- [42](https://github.com/rsapkf/42) - @rsapkf's linkroll. Built using mdBook.
 
 ## Haskell 
 
@@ -6048,7 +6053,7 @@
 - [flightplan](https://github.com/pstadler/flightplan) - Run sequences of shell commands against local and remote hosts.
 - [faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
 - [community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Golang + EmberJS
-- [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
+- [Hygieia](https://github.com/hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [gitlab-ci-monitor](https://github.com/globocom/gitlab-ci-monitor) - A simple dashboard for monitoring GitLab CI builds. Alpha version.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
@@ -7491,7 +7496,6 @@
 - [awesome-gamedev](https://github.com/Calinou/awesome-gamedev) - A collection of free software and free culture resources for making amazing games. (mirror)
 - [NeverSink-Filter](https://github.com/NeverSinkDev/NeverSink-Filter) - This is a lootfilter for the game "Path of Exile". It hides low value items, uses a markup-scheme and sounds to highlight expensive gear and is based on economy data mining.
 - [command-injection-payload-list](https://github.com/payloadbox/command-injection-payload-list) - 🎯 Command Injection Payload List
-- [42](https://github.com/rsapkf/42) - @rsapkf's linkroll. Built using mdBook.
 - [infrastructure-as-code-tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial) - Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
 - [unix-as-ide](https://github.com/mrzool/unix-as-ide) - The ebook version of Tom Ryder's series on the Unix programming environment
 - [bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
@@ -9813,7 +9817,7 @@
 - [vkdevastator](https://github.com/AlekseyDurachenko/vkdevastator) - Поиск и удаление всей Вашей активности из социальной сети ВКонтакте
 - [taiga-back](https://github.com/taigaio/taiga-back) - Agile project management platform. Built on top of Django and AngularJS
 - [yumex-dnf](https://github.com/timlau/yumex-dnf) - Next Generation of Yum Extender using DNF as backend
-- [qBittorrent-RuTracker-plugin](https://github.com/Skymirrh/qBittorrent-RuTracker-plugin) - qBittorrent search engine plugin for rutracker.org.
+- [qBittorrent-RuTracker-plugin](https://github.com/nbusseneau/qBittorrent-RuTracker-plugin) - qBittorrent search engine plugin for rutracker.org.
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [dotfiles](https://github.com/kaushalmodi/dotfiles) - 
