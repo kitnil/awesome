@@ -2423,7 +2423,7 @@
 - [plantuml-mode](https://github.com/skuro/plantuml-mode) - A major mode for editing PlantUML sources in Emacs
 - [flymake-quickdef](https://github.com/karlotness/flymake-quickdef) - Quickly define a new Flymake backend
 - [magit-circleci](https://github.com/abrochard/magit-circleci) - Emacs Magit extension for CircleCI
-- [emacs-tree-sitter](https://github.com/ubolonton/emacs-tree-sitter) - Tree-sitter for Emacs
+- [emacs-tree-sitter](https://github.com/ubolonton/emacs-tree-sitter) - Tree-sitter in Emacs
 - [org-thesis](https://github.com/dangom/org-thesis) - Writing a Ph.D. thesis with Org Mode
 - [nnreddit](https://github.com/dickmao/nnreddit) - A Gnus backend for Reddit
 - [orgmine](https://github.com/kametoku/orgmine) - Emacs minor mode for org-mode with redmine integration
@@ -3179,7 +3179,7 @@
 - [socyl](https://github.com/nlamirault/socyl) - The emacs frontend for several search tools (ag, pt, sift, ripgrep, ...)
 - [ob-sagemath](https://github.com/sagemath/ob-sagemath) - org-babel integration with SageMath
 - [cricbuzz.el](https://github.com/lepisma/cricbuzz.el) - Live cricket scores and schedule for emacs
-- [cyphejor](https://github.com/mrkkrp/cyphejor) - Shorten major mode names using user-defined rules
+- [cyphejor](https://github.com/mrkkrp/cyphejor) - Shorten major mode names by using a set of user-defined rules
 - [kill-or-bury-alive](https://github.com/mrkkrp/kill-or-bury-alive) - Precise control over buffer killing in Emacs
 - [spacemacs-journal](https://github.com/ruibinx/spacemacs-journal) - spacemacs layer for org-journal.
 - [org-sticky-header](https://github.com/alphapapa/org-sticky-header) - Show off-screen Org heading at top of window
@@ -6238,7 +6238,6 @@
 - [mStream](https://github.com/IrosTheBeggar/mStream) - The easiest music streaming server available
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [headset-electron](https://github.com/headsetapp/headset-electron) - Official Headset repo
-- [TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [array-explorer](https://github.com/sdras/array-explorer) - ⚡️ A resource to help figure out what JavaScript array method would be best to use at any given time
 - [eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [lean-url](https://github.com/tugh/lean-url) - Removes evil URL parameters such as Google Analytics' utm parameters
@@ -10518,6 +10517,7 @@
 - [metals](https://github.com/scalameta/metals) - Scala language server with rich IDE features 🚀
 - [enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [abandon](https://github.com/hrj/abandon) - :relieved: Simple and Robust Accounting
+- [TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [scaladiagrams](https://github.com/mikeyhu/scaladiagrams) - Generate class diagrams from scala source code
 - [gitbucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
@@ -10615,7 +10615,7 @@
 ## Shell 
 
 - [org-popup](https://github.com/Parveshdhull/org-popup) - Take notes for emacs org-mode using pop-ups
-- [evilFTP](https://github.com/vp777/evilFTP) - evilFTP is a set of scripts that aim to extend the capabilities we have when exploiting SSRF issues
+- [evilFTP](https://github.com/vp777/evilFTP) - SSRF to TCP Port Scanning, Banner and Private IP Disclosure by abusing FTP
 - [valheim-server-docker](https://github.com/lloesche/valheim-server-docker) - Valheim dedicated gameserver with automatic update, World backup and ValheimPlus mod support
 - [ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [DHTP](https://github.com/KuriKai/DHTP) - DOOM High Resolution Texture Project
@@ -11631,7 +11631,7 @@
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
 - [boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management for Turn-Based Games
-- [stryker](https://github.com/stryker-mutator/stryker) - Mutation testing for JavaScript and friends
+- [stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
 - [chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
 - [hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
