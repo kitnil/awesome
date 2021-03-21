@@ -2033,8 +2033,8 @@
 - [guix](https://github.com/metacall/guix) - Docker image for using Guix in a CI/CD environment.
 - [docker-tor](https://github.com/mko-x/docker-tor) - Setup a Tor relay Server/Service easily. Support Tor!!
 - [docker-nginx-simple](https://github.com/mko-x/docker-nginx-simple) - Simple nginx serving static content in just a few lines of code.
-- [xubuntu-vnc](https://github.com/accetto/xubuntu-vnc) - Phasing out! This repo will be archived soon. Newer G3 repos are coming. Headless Ubuntu/Xfce containers with VNC and various applications
-- [xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc) - Headless Ubuntu/Xfce containers with VNC/noVNC and various applications
+- [xubuntu-vnc](https://github.com/accetto/xubuntu-vnc) - Retired! Please use the newer G3 repositories. Headless Ubuntu/Xfce containers with VNC and various applications (Generation 2)
+- [xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc) - Headless Ubuntu/Xfce containers with VNC/noVNC and various applications (Generation 2)
 - [docker-pxe](https://github.com/ferrarimarco/docker-pxe) - A virtualized implementation of PXE supported by DNSMasq
 - [docker-nix](https://github.com/nix-community/docker-nix) - Docker image for nix [maintainer=@zimbatm] [status=deprecated]
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
@@ -9528,7 +9528,7 @@
 - [commentify](https://github.com/alchermd/commentify) - :pencil: Transform your plaintext into programming-friendly comment syntax.
 - [gnome-aggregatemenu-hider](https://github.com/dffischer/gnome-aggregatemenu-hider) - A generator for Gnome Shell extensions that hide items from the aggregate menu.
 - [legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
-- [dtags](https://github.com/joowani/dtags) - Directory Tags for Lazy Programmers
+- [dtags](https://github.com/joowani/dtags) - Command-line tool for tagging directories.
 - [CloudBot](https://github.com/CloudBotIRC/CloudBot) - CloudBot - The simple, fast, expandable, open-source Python IRC Bot!
 - [mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS V2.1 support for mpd
 - [nautilus-git](https://github.com/bilelmoussaoui/nautilus-git) - Nautilus/Nemo extension to add important information about the current git directory
@@ -9936,7 +9936,7 @@
 - [gophwr](https://github.com/erkin/gophwr) - A graphical gopher client in Racket
 - [marionette](https://github.com/Bogdanp/marionette) - A Racket library that lets you control Firefox via the Marionette Protocol.
 - [russian-lang](https://github.com/Kalimehtar/russian-lang) - Programming language based on russian language
-- [xiden](https://github.com/zyrolasting/xiden) - A Guix-like dependency manager for Racket with Windows support and edition-centric versioning
+- [xiden](https://github.com/zyrolasting/xiden) - A cross-platform functional dependency manager written in Racket. Includes edition-centric versioning and a zero-trust default configuration.
 - [SICP-2020](https://github.com/codereport/SICP-2020) - Repository for material related to Programming Languages Virtual Meetup coverage of the Structure and Interpretation of Computer Programs textbook.
 - [cs135-drtools](https://github.com/Raymo111/cs135-drtools) - DrRacket Tools for CS 135 course at UWaterloo
 - [racket-android](https://github.com/jeapostrophe/racket-android) - deploying Racket on Android
@@ -10615,7 +10615,7 @@
 ## Shell 
 
 - [org-popup](https://github.com/Parveshdhull/org-popup) - Take notes for emacs org-mode using pop-ups
-- [evilFTP](https://github.com/vp777/evilFTP) - SSRF to TCP Port Scanning, Banner and Private IP Disclosure by abusing FTP
+- [evilFTP](https://github.com/vp777/evilFTP) - SSRF to TCP Port Scanning, Banner and Private IP Disclosure by abusing the FTP protocol
 - [valheim-server-docker](https://github.com/lloesche/valheim-server-docker) - Valheim dedicated gameserver with automatic update, World backup and ValheimPlus mod support
 - [ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [DHTP](https://github.com/KuriKai/DHTP) - DOOM High Resolution Texture Project
