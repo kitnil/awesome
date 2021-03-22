@@ -284,7 +284,7 @@
 - [Linux-NetSpeed](https://github.com/chiakge/Linux-NetSpeed) - 将Linux现常用的网络加速集成在一起
 - [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
-- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal runtime)
+- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
 - [hvmi](https://github.com/hvmi/hvmi) - Hypervisor Memory Introspection Core Library
 - [paperview](https://github.com/glouw/paperview) - A high performance X11 animated wallpaper setter
 - [vala-panel](https://github.com/rilian-la-te/vala-panel) - Vala rewrite of SimplePanel - GitHub mirror
@@ -3175,7 +3175,7 @@
 - [elisp](https://github.com/cadadr/elisp) - The hive for Göktuğ's Emacs Stuff.
 - [rust-playground](https://github.com/grafov/rust-playground) - GNU/Emacs mode that setup local playground for code snippets in Rust language.
 - [tracker-mode](https://github.com/defaultxr/tracker-mode) - a music tracker/sequencer for emacs
-- [char-menu](https://github.com/mrkkrp/char-menu) - Create your own menu for fast insertion of arbitrary symbols
+- [char-menu](https://github.com/mrkkrp/char-menu) - Create a menu for fast insertion of arbitrary symbols
 - [socyl](https://github.com/nlamirault/socyl) - The emacs frontend for several search tools (ag, pt, sift, ripgrep, ...)
 - [ob-sagemath](https://github.com/sagemath/ob-sagemath) - org-babel integration with SageMath
 - [cricbuzz.el](https://github.com/lepisma/cricbuzz.el) - Live cricket scores and schedule for emacs
@@ -3891,6 +3891,7 @@
 
 ## Go 
 
+- [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [mailway](https://github.com/mailway-app/mailway) - Mailway installer, host your own Mailway instance
 - [steampipe](https://github.com/turbot/steampipe) - Steampipe command line interface (CLI)
 - [team-manager](https://github.com/cilium/team-manager) - Bot to manage team members in GitHub organizations
@@ -5296,7 +5297,7 @@
 - [summoner](https://github.com/kowainik/summoner) - 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects
 - [nixpkgs-update](https://github.com/ryantm/nixpkgs-update) - Updating nixpkgs packages since 2018
 - [obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
-- [haskell-language-server](https://github.com/haskell/haskell-language-server) - Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
+- [haskell-language-server](https://github.com/haskell/haskell-language-server) - Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
 - [hnix-store](https://github.com/haskell-nix/hnix-store) - Haskell implementation of the nix store API
 - [duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 - [toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODOs in your codebase
@@ -5450,6 +5451,7 @@
 
 ## Java 
 
+- [spring-native](https://github.com/spring-projects-experimental/spring-native) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
 - [seadroid](https://github.com/haiwen/seadroid) - Android client for Seafile
 - [neoeedit](https://github.com/neoedmund/neoeedit) - neoeedit - a smart, light, powerful text editor.
 - [questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
@@ -5942,7 +5944,7 @@
 - [learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [web-console](https://github.com/nickola/web-console) - Simple web-based shell, remote shell in your browser
-- [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - library for creating web based terminals
+- [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - library for creating web based terminals with custom commands
 - [clear-browsing-data](https://github.com/dessant/clear-browsing-data) - Browser extension for clearing browsing data
 - [search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Edge, Chrome and Firefox
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
@@ -6923,7 +6925,7 @@
 
 - [cmdliner-cheatsheet](https://github.com/mjambon/cmdliner-cheatsheet) - Cheatsheet for adding command-line options to an OCaml program using cmdliner
 - [ocamqping](https://github.com/argent-smith/ocamqping) - Minimalistic AMQP pinger written in OCaml
-- [pp_html](https://github.com/lemaetech/pp_html) - [Unreleased] Ocaml library to pretty print/format HTML5.
+- [pp_html](https://github.com/lemaetech/pp_html) - [Unreleased] Ocaml library to pretty print/format HTML5. See notes in README.
 - [sexp_diff](https://github.com/janestreet/sexp_diff) - Code for computing the diff of two sexps
 - [ocaml-by-example](https://github.com/rizo/ocaml-by-example) - Code examples for OCaml.
 - [ppx_sexp_conv](https://github.com/janestreet/ppx_sexp_conv) - Generation of S-expression conversion functions from type definitions
@@ -8327,6 +8329,7 @@
 
 ## Python 
 
+- [drawing](https://github.com/maoschanz/drawing) - A drawing application for the GNOME desktop.
 - [khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
 - [Reddit-Stock-Trends](https://github.com/iam-abbas/Reddit-Stock-Trends) - Fetch currently trending stocks on Reddit
 - [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
