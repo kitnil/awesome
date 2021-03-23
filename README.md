@@ -9,7 +9,6 @@
   - [ASL](#asl)
   - [Ada](#ada)
   - [Agda](#agda)
-  - [AppleScript](#applescript)
   - [Arc](#arc)
   - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
@@ -147,10 +146,6 @@
 ## Agda 
 
 - [cedille](https://github.com/cedille/cedille) - Cedille, a dependently typed programming languages based on the Calculus of Dependent Lambda Eliminations
-
-## AppleScript 
-
-- [emacs-grammarly](https://github.com/mmagnus/emacs-grammarly) - an Emacs extension to send a text to/from Grammarly
 
 ## Arc 
 
@@ -2569,7 +2564,7 @@
 - [reverse-android](https://github.com/nelhage/reverse-android) - Reverse-engineering tools for Android applications
 - [org-redmine](https://github.com/gongo/org-redmine) - Redmine tools using Emacs OrgMode
 - [ts.el](https://github.com/alphapapa/ts.el) - Emacs timestamp and date-time library
-- [spotify.el](https://github.com/danielfm/spotify.el) - Control the Spotify app from within Emacs.
+- [smudge](https://github.com/danielfm/smudge) - Control the Spotify app from within Emacs.
 - [emacs-format-all-the-code](https://github.com/lassik/emacs-format-all-the-code) - Auto-format source code in many languages with one command
 - [elscreen](https://github.com/knu/elscreen) - elscreen patched to work with recent Emacs
 - [hl-todo](https://github.com/tarsius/hl-todo) - Highlight TODO keywords
@@ -3200,6 +3195,7 @@
 - [eslintd-fix](https://github.com/aaronjensen/eslintd-fix) - Emacs minor-mode to automatically fix javascript with eslint_d.
 - [godoctor.el](https://github.com/microamp/godoctor.el) - Emacs frontend for godoctor
 - [fix-word](https://github.com/mrkkrp/fix-word) - Transform words in Emacs (upcase, downcase, capitalize, etc.)
+- [emacs-grammarly](https://github.com/mmagnus/emacs-grammarly) - an Emacs extension to send a text to/from Grammarly
 - [ivy-lobsters](https://github.com/julienXX/ivy-lobsters) - Browse lobste.rs stories from emacs with ivy
 - [circadian.el](https://github.com/guidoschmidt/circadian.el) - Theme-switching for Emacs based on daytime
 - [emacs-pug-mode](https://github.com/hlissner/emacs-pug-mode) - Pug support for Emacs, based on slim-mode.
@@ -5714,7 +5710,7 @@
 - [next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是使用Golang和React开发的一款HTML5的远程桌面网关，具有小巧、易安装、易使用、资源占用小的特点，支持RDP、SSH、VNC和Telnet协议的连接和管理。
 - [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL is a free and open-source fork of mapbox-gl-js
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
-- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [papers-with-video](https://github.com/amitness/papers-with-video) - A browser extension that adds video explanations to research papers on arxiv.org
 - [github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
@@ -11545,7 +11541,7 @@
 - [actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute any script in a GitHub issue comment
 - [react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
-- [common-voice](https://github.com/common-voice/common-voice) - [Please note: the Common Voice team is offline until March 15: https://discourse.mozilla.org/t/update-on-common-voice-mozilla-foundation/74526/] Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
