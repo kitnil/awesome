@@ -7509,7 +7509,7 @@
 - [b1fipl](https://github.com/marcpaq/b1fipl) - A Bestiary of Single-File Implementations of Programming Languages
 - [language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
-- [awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@zimbatm]
+- [awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
 - [lisp-tips](https://github.com/lisp-tips/lisp-tips) - Common Lisp tips. Share !
 - [WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [emax64](https://github.com/m-parashar/emax64) - 64-bit Emacs for Windows with ImageMagick 7
@@ -9350,7 +9350,7 @@
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 - [doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
 - [GithubCloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations.
 - [pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
 - [parsley](https://github.com/pyga/parsley) - 
@@ -10512,7 +10512,6 @@
 - [coursier](https://github.com/coursier/coursier) - Pure Scala Artifact Fetching
 - [diffy](https://github.com/opendiffy/diffy) - 
 - [intellij-haskell](https://github.com/rikvdkleij/intellij-haskell) - IntelliJ plugin for Haskell
-- [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [metals](https://github.com/scalameta/metals) - Scala language server with rich IDE features 🚀
 - [enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [abandon](https://github.com/hrj/abandon) - :relieved: Simple and Robust Accounting
@@ -11582,6 +11581,7 @@
 - [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from "terraform plan" and converting it to JSON.
 - [deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
+- [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for Yaml Files
 - [dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
