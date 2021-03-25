@@ -1110,7 +1110,6 @@
 - [hrktorrent](https://github.com/hrkfdn/hrktorrent) - hrktorrent is a light console torrent client written in C++, using rasterbar's libtorrent.
 - [multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
-- [jittor](https://github.com/Jittor/jittor) - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
 - [eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
@@ -1714,7 +1713,7 @@
 - [lein-figwheel](https://github.com/bhauman/lein-figwheel) - Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!
 - [lein-droid](https://github.com/clojure-android/lein-droid) - A Leiningen plugin for building Clojure/Android projects
 - [piggieback](https://github.com/nrepl/piggieback) - nREPL support for ClojureScript REPLs
-- [cider-nrepl](https://github.com/clojure-emacs/cider-nrepl) - A collection of nREPL middleware originally designed to enhance Clojure editors
+- [cider-nrepl](https://github.com/clojure-emacs/cider-nrepl) - A collection of nREPL middleware to enhance Clojure editors with common functionality like definition lookup, code completion, etc.
 - [awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [modern-cljs](https://github.com/magomimmo/modern-cljs) - A series of tutorials on ClojureScript
 - [logic-tutorial](https://github.com/swannodette/logic-tutorial) - A Very Gentle Introduction to Relational Programming
@@ -2088,6 +2087,11 @@
 
 ## Emacs Lisp 
 
+- [ob-servant](https://github.com/exp2exp/ob-servant) - Code for interacting with longrunning processes from inside Org Mode
+- [lsp-grammarly](https://github.com/emacs-grammarly/lsp-grammarly) - lsp-mode ❤️ grammarly
+- [theme-anchor](https://github.com/GongYiLiao/theme-anchor) - Apply a custom theme to current Emacs buffer only
+- [org-notifications](https://github.com/doppelc/org-notifications) - Desktop notifications for your org-agenda/org-mode items
+- [thesaurus.el](https://github.com/AnselmC/thesaurus.el) - Emacs package to query thesaurus.com for synonyms of a given word.
 - [rde](https://github.com/abcdw/rde) - Tools for managing reproducible development environments https://sr.ht/abcdw/rde/
 - [symex.el](https://github.com/countvajhula/symex.el) - An evil way to edit Lisp symbolic expressions ("symexes") as trees in Emacs
 - [sudo-utils](https://github.com/alpha-catharsis/sudo-utils) - sudo utilities for emacs
@@ -5103,7 +5107,7 @@
 - [favioli](https://github.com/ivebencrazy/favioli) - Emoji Favicons for the web. 👊🤯
 - [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
-- [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems
+- [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [list-packages](https://github.com/xuchunyang/list-packages) - 
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
@@ -8559,6 +8563,7 @@
 - [jqed](https://github.com/Wazzaps/jqed) - json interactive stream editor (jq + up) - for Linux and MacOS
 - [python-twitch](https://github.com/ingwinlu/python-twitch) - python-twitch is an python module for simple interaction with twitch.
 - [Tweet-Locator](https://github.com/JuanBenitezDev/Tweet-Locator) - Tweet locator using Python, Flask and Twitter API
+- [jittor](https://github.com/Jittor/jittor) - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
 - [superimposer](https://github.com/jonhoo/superimposer) - 
 - [snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text
 - [dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
@@ -9985,6 +9990,7 @@
 
 ## Ruby 
 
+- [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [k8s-mirror](https://github.com/darkbitio/k8s-mirror) - Creates a local mirror of a Kubernetes cluster in a docker container to support offline reviewing
 - [androidsrc](https://github.com/pyricau/androidsrc) - Find Android sources
@@ -10205,7 +10211,7 @@
 - [quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds
-- [nat](https://github.com/willdoescode/nat) - nat - the 'ls' replacement you never knew you needed
+- [nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
 - [diff-grep](https://github.com/keith/diff-grep) - Filter matching hunks in diffs
 - [rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
@@ -10612,6 +10618,7 @@
 
 ## Shell 
 
+- [BashScan](https://github.com/astryzia/BashScan) - BashScan is a port scanner built to utilize /dev/tcp for network and service discovery on systems that have limitations or are otherwise unable to use alternative scanning solutions such as nmap.
 - [org-popup](https://github.com/Parveshdhull/org-popup) - Take notes for emacs org-mode using pop-ups
 - [evilFTP](https://github.com/vp777/evilFTP) - SSRF to TCP Port Scanning, Banner and Private IP Disclosure by abusing the FTP protocol
 - [valheim-server-docker](https://github.com/lloesche/valheim-server-docker) - Valheim dedicated gameserver with automatic update, World backup and ValheimPlus mod support
@@ -11766,7 +11773,7 @@
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 170k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 180k+ developers. https://hoppscotch.io
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [shortkeys](https://github.com/mikecrittenden/shortkeys) - A browser extension for custom keyboard shortcuts
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
