@@ -341,6 +341,7 @@
 - [lede](https://github.com/coolsnowwolf/lede) - Lean's OpenWrt source
 - [ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more
 - [StarRuler2-Source](https://github.com/BlindMindStudios/StarRuler2-Source) - 4X Space Strategy game Star Ruler 2's open source distribution.
+- [SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
 - [yodaos](https://github.com/yodaos-project/yodaos) - Yet another Linux distribution for voice-enabled IoT and embrace Web standards
 - [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -1117,7 +1118,6 @@
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
 - [retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [AnyQ](https://github.com/baidu/AnyQ) - FAQ-based Question Answering System
-- [SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
 - [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
 - [zetasql](https://github.com/google/zetasql) - ZetaSQL - Analyzer Framework for SQL
 - [quinesnake](https://github.com/taylorconor/quinesnake) - A quine that plays snake over its own source!
@@ -1648,6 +1648,7 @@
 
 ## Clojure 
 
+- [nrepl](https://github.com/nrepl/nrepl) - A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.
 - [carmine](https://github.com/ptaoussanis/carmine) - Redis client and message queue for Clojure
 - [claypoole](https://github.com/TheClimateCorporation/claypoole) - Claypoole: Threadpool tools for Clojure
 - [specter](https://github.com/redplanetlabs/specter) - Clojure(Script)'s missing piece
@@ -4317,7 +4318,7 @@
 - [gopeed-core](https://github.com/monkeyWie/gopeed-core) - A fast download client,support HTTP&P2P.
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
 - [goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
-- [mr2](https://github.com/txthinking/mr2) - Mr.2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration.
+- [mr2](https://github.com/txthinking/mr2) - mr2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. mr2 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP.
 - [simple-computer](https://github.com/djhworld/simple-computer) - the scott CPU from "But How Do It Know?" by J. Clark Scott
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -5084,6 +5085,7 @@
 - [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
 - [awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
+- [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [git-history-editor](https://github.com/bokub/git-history-editor) - :pencil2: Online commit editor, intuitive and easy to use
 - [meilix-generator](https://github.com/fossasia/meilix-generator) - WebApp for generating a custom ISO image based on Meilix http://meilix.org
 - [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
@@ -5160,6 +5162,7 @@
 - [nixos-weekly](https://github.com/NixOS/nixos-weekly) - NixOS Weekly Newsletter
 - [pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
+- [infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [ruby-hacking-guide.github.com](https://github.com/ruby-hacking-guide/ruby-hacking-guide.github.com) - Ruby Hacking Guide Translation
 - [ProgrammingLanguage-Series](https://github.com/wx-chevalier/ProgrammingLanguage-Series) - :books: 编程语言语法基础与工程实践，JavaScript | Java | Python | Go | Rust | CPP | Swift
 - [craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
@@ -5959,7 +5962,7 @@
 - [legit](https://github.com/captainsafia/legit) - Add licenses to projects at the command line
 - [serverless-libreoffice](https://github.com/vladgolubev/serverless-libreoffice) - Run LibreOffice in AWS Lambda to create PDFs & convert documents
 - [shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
-- [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+- [ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [contain-google](https://github.com/containers-everywhere/contain-google) - [Looking for maintainer] - Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party cookies.
 - [ca-archive](https://github.com/JustOff/ca-archive) - Catalog of classic Firefox add-ons created before WebExtensions apocalypse
@@ -6955,7 +6958,6 @@
 - [wanderers](https://github.com/a-nikolaev/wanderers) - An open world adventure and dungeon crawling game
 - [qtest](https://github.com/vincent-hugot/qtest) - Inline (Unit) Tests for OCaml
 - [ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
-- [infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
 - [js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [batteries-included](https://github.com/ocaml-batteries-team/batteries-included) - Batteries Included project
@@ -8691,7 +8693,6 @@
 - [docker-image-size-limit](https://github.com/wemake-services/docker-image-size-limit) - :whale: Keep an eye on your docker image size and prevent it from growing too big
 - [docker-replay](https://github.com/bcicen/docker-replay) - Generate docker commands to rerun existing containers
 - [dockit](https://github.com/humblec/dockit) - Do docker actions and Deploy gluster containers!
-- [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [trackma](https://github.com/z411/trackma) - Open multi-site list manager for Unix-like systems. (ex-wMAL)
 - [Albireo](https://github.com/lordfriend/Albireo) - A bangumi auto download and management project.
 - [DeepAA](https://github.com/OsciiArt/DeepAA) - make ASCII Art by Deep Learning
