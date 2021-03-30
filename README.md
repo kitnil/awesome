@@ -709,7 +709,7 @@
 - [picotcp](https://github.com/tass-belgium/picotcp) - PicoTCP is a free TCP/IP stack implementation
 - [oniguruma](https://github.com/kkos/oniguruma) - regular expression library
 - [micro-lisp](https://github.com/carld/micro-lisp) - 🎄A very small Lisp programming language 😀that used to be under 200 lines of C🎄
-- [forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
+- [forked-daapd](https://github.com/owntone/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
 - [uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [likwid](https://github.com/RRZE-HPC/likwid) - Performance monitoring and benchmarking suite
 - [rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
@@ -4238,7 +4238,7 @@
 - [gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
-- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
 - [gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
@@ -5832,7 +5832,7 @@
 - [franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [unsung-kingdom](https://github.com/laineus/unsung-kingdom) - RPG written in JavaScript
 - [postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS, Linux and Windows
-- [shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & steam
 - [gopassbridge](https://github.com/gopasspw/gopassbridge) - A web extension for firefox and chrome to insert login credentials from gopass
 - [dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
 - [play-with](https://github.com/grmat/play-with) - WebExtension to open a video stream on a web page with an external player.
@@ -5864,6 +5864,7 @@
 - [pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
 - [why-did-you-update](https://github.com/maicki/why-did-you-update) - :boom: Puts your console on blast when React is making unnecessary updates.
 - [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
+- [wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [webpackmonitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
@@ -5875,7 +5876,7 @@
 - [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
 - [fiddly](https://github.com/SaraVieira/fiddly) - Create beautiful and simple HTML pages from your Readme.md files
 - [foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
-- [FunctionScript](https://github.com/FunctionScript/FunctionScript) - A language and specification for turning JavaScript functions into typed HTTP APIs
+- [FunctionScript](https://github.com/acode/FunctionScript) - An API gateway and framework for turning functions into web services
 - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - OBSOLETE - Interactively select the quality and format for youtube-dl
 - [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
 - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (March 2021)
@@ -10380,7 +10381,7 @@
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@jD91mZM2]
 - [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - Instant startup time for nix-shell
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - An experimental Rust compiler front-end for IDEs
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [mainframer](https://github.com/buildfoundation/mainframer) - Tool for remote builds. Sync project to remote machine, execute command, sync back.
 - [json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
@@ -10666,7 +10667,7 @@
 - [shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
 - [git-repo-watcher](https://github.com/kolbasa/git-repo-watcher) - A simple bash script to watch a git repository and pull upstream changes if needed.
 - [byp4xx](https://github.com/lobuhi/byp4xx) - Simple bash script to bypass "403 Forbidden" messages with well-known methods discussed in #bugbountytips
-- [howtopopbuntu](https://github.com/themagicalmammal/howtopopbuntu) - Tweaks for Debian & Ubuntu based Distro.
+- [howtodebuntu](https://github.com/themagicalmammal/howtodebuntu) - Tweaks for Debian & Ubuntu based Distro(s).
 - [bmks](https://github.com/obyyx/bmks) - unix bookmark management that sucks less
 - [DAC](https://github.com/baibhavanand/DAC) - DAC - Domain Availability Checker is a tool written in bash to help people find available domains from the comfort of their terminal. People can choose to pass one domain or wordlist to scan the availability from. People can also choose to store the output (List of available domains) in a different text file.
 - [archbox](https://github.com/lemniskett/archbox) - Easy to use Arch Linux chroot environment with some functionalities to integrate it with your existing Linux installation.
@@ -11500,7 +11501,7 @@
 
 ## TypeScript 
 
-- [nx](https://github.com/nrwl/nx) - Extensible Dev Tools for Monorepos
+- [nx](https://github.com/nrwl/nx) - Powerful, Extensible Dev Tools
 - [habitica-tracker](https://github.com/ddycai/habitica-tracker) - Tool that displays a history of your Habits, Dailies and completed Todos in Habitica like habit tracker. Check out the Github page to try it out.
 - [uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
 - [alive](https://github.com/nobody-famous/alive) - Common Lisp Extension for VSCode
@@ -11557,7 +11558,6 @@
 - [purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
-- [wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
