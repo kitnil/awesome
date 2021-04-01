@@ -191,6 +191,7 @@
 
 ## C 
 
+- [wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
 - [direwolf](https://github.com/wb2osz/direwolf) - Dire Wolf is a software "soundcard" AX.25 packet modem/TNC and APRS encoder/decoder. It can be used stand-alone to observe APRS traffic, as a tracker, digipeater, APRStt gateway, or Internet Gateway (IGate).   For more information, look at the bottom 1/4 of this page and in https://github.com/wb2osz/direwolf/blob/dev/doc/README.md
 - [libbpfgo-beginners](https://github.com/lizrice/libbpfgo-beginners) - Basic eBPF examples in Golang using libbpfgo
 - [disnix](https://github.com/svanderburg/disnix) - Disnix: A Nix-based distributed service deployment tool
@@ -535,7 +536,7 @@
 - [grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
 - [stag](https://github.com/seenaburns/stag) - Streaming bar graphs. For stats and stuff.
 - [mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
-- [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - The best way to learn to learn deeply about bitcoin is to avoid GUIs (even bitcoin-qt), and instead learn it from the command line.
+- [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - A complete course for learning Bitcoin programming and usage from the command
 - [mle](https://github.com/adsr/mle) - Flexible terminal-based text editor (C)
 - [dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
 - [yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
@@ -4619,7 +4620,7 @@
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
-- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm
+- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [tsuru](https://github.com/tsuru/tsuru) - Open source, extensible and Docker-based Platform as a Service (PaaS).
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [spruce](https://github.com/geofffranks/spruce) - A BOSH template merge tool
@@ -5465,7 +5466,7 @@
 - [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
 - [custom-war-packager](https://github.com/jenkinsci/custom-war-packager) - Custom Jenkins WAR packager for Jenkins
 - [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-- [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
+- [termux-app](https://github.com/termux/termux-app) - Andwoid tewminaw and Winux enviwonment - app wepositowy.
 - [crewmate](https://github.com/crewmate-srv/crewmate) - An open-source implementation of the Among Us server in Java.
 - [DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
 - [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具
@@ -6133,7 +6134,7 @@
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [snowpack](https://github.com/snowpackjs/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
+- [snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [LLTHW](https://github.com/blackbranesys/LLTHW) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -8419,7 +8420,7 @@
 - [textual-switcher](https://github.com/levioctl/textual-switcher) - An incremental search window (and browser tabs) switcher for Linux (textual "Alt+Tab").
 - [onhold](https://github.com/alexdelorenzo/onhold) - 🔊 Play sounds while and after shell jobs complete
 - [npyscreen](https://github.com/npcole/npyscreen) - Automatically exported from code.google.com/p/npyscreen
-- [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
+- [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts!
 - [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 - [stashboard](https://github.com/twilio/stashboard) - An open-source status dashboard running on App Engine
@@ -11292,7 +11293,7 @@
 - [dotfiles](https://github.com/skeeto/dotfiles) - My personal dotfiles
 - [ApkGolf](https://github.com/fractalwrench/ApkGolf) - The smallest Android APK in the world
 - [discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
-- [termux-packages](https://github.com/termux/termux-packages) - Android terminal and Linux environment - packages repository.
+- [termux-packages](https://github.com/termux/termux-packages) - Andwoid tewminaw and Winux enviwonment - packages wepositowy.
 - [memcache-info](https://github.com/hyperia-sk/memcache-info) - Simple and efficient way to show information about Memcache.
 - [lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
 - [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
