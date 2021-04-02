@@ -710,7 +710,7 @@
 - [picotcp](https://github.com/tass-belgium/picotcp) - PicoTCP is a free TCP/IP stack implementation
 - [oniguruma](https://github.com/kkos/oniguruma) - regular expression library
 - [micro-lisp](https://github.com/carld/micro-lisp) - 🎄A very small Lisp programming language 😀that used to be under 200 lines of C🎄
-- [forked-daapd](https://github.com/owntone/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
+- [owntone-server](https://github.com/owntone/owntone-server) - OwnTone is forked-daapd's new name! Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
 - [uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [likwid](https://github.com/RRZE-HPC/likwid) - Performance monitoring and benchmarking suite
 - [rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
@@ -2090,12 +2090,13 @@
 
 ## Emacs Lisp 
 
+- [yaml.el](https://github.com/zkry/yaml.el) - YAML parser in Elisp
 - [ob-servant](https://github.com/exp2exp/ob-servant) - Code for interacting with longrunning processes from inside Org Mode
 - [lsp-grammarly](https://github.com/emacs-grammarly/lsp-grammarly) - lsp-mode ❤️ grammarly
 - [theme-anchor](https://github.com/GongYiLiao/theme-anchor) - Apply a custom theme to current Emacs buffer only
 - [org-notifications](https://github.com/doppelc/org-notifications) - Desktop notifications for your org-agenda/org-mode items
 - [thesaurus.el](https://github.com/AnselmC/thesaurus.el) - Emacs package to query thesaurus.com for synonyms of a given word.
-- [rde](https://github.com/abcdw/rde) - Tools for managing reproducible development environments https://sr.ht/abcdw/rde/
+- [rde](https://github.com/abcdw/rde) - Tools for managing reproducible development environments. Mirror of https://sr.ht/abcdw/rde/
 - [symex.el](https://github.com/countvajhula/symex.el) - An evil way to edit Lisp symbolic expressions ("symexes") as trees in Emacs
 - [sudo-utils](https://github.com/alpha-catharsis/sudo-utils) - sudo utilities for emacs
 - [springboard](https://github.com/jwiegley/springboard) - An Emacs mode based on Helm that makes it easy to bounce around projects
@@ -3894,6 +3895,8 @@
 
 ## Go 
 
+- [ping](https://github.com/go-ping/ping) - ICMP Ping library for Go
+- [golang-tetris](https://github.com/zkry/golang-tetris) - A Tetris game written in Go using the faiface/pixel 2D game engine.
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [mailway](https://github.com/mailway-app/mailway) - Mailway installer, host your own Mailway instance
 - [steampipe](https://github.com/turbot/steampipe) - Steampipe command line interface (CLI)
@@ -4598,7 +4601,7 @@
 - [goffmpeg](https://github.com/xfrr/goffmpeg) - FFMPEG wrapper written in GO
 - [go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
 - [marathon-consul](https://github.com/allegro/marathon-consul) - Integrates Marathon apps with Consul service discovery.
-- [filetype](https://github.com/h2non/filetype) - Fast, dependency-free, small Go package to infer the binary file type based on the magic numbers signature
+- [filetype](https://github.com/h2non/filetype) - Fast, dependency-free Go package to infer binary file types based on the magic numbers header signature
 - [ssh-auditor](https://github.com/ncsa/ssh-auditor) - The best way to scan for weak ssh passwords on your network
 - [webhook2telegram](https://github.com/muety/webhook2telegram) - 🤖 A simple bot to translate JSON HTTP requests into Telegram push messages
 - [owl](https://github.com/TalkingData/owl) - distributed monitoring system
@@ -5075,7 +5078,6 @@
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
 - [photo-stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream
-- [pyptex](https://github.com/sloisel/pyptex) - Python Preprocessor for LaTeX
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
 - [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
@@ -5466,7 +5468,7 @@
 - [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
 - [custom-war-packager](https://github.com/jenkinsci/custom-war-packager) - Custom Jenkins WAR packager for Jenkins
 - [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-- [termux-app](https://github.com/termux/termux-app) - Andwoid tewminaw and Winux enviwonment - app wepositowy.
+- [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [crewmate](https://github.com/crewmate-srv/crewmate) - An open-source implementation of the Among Us server in Java.
 - [DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
 - [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具
@@ -6710,7 +6712,7 @@
 - [geopattern](https://github.com/azoyan/geopattern) - Generate beautiful SVG patterns from a string on Lua (5.1 - 5.4 and LuaJIT)
 - [lua-resty-jq](https://github.com/bungle/lua-resty-jq) - LuaJIT FFI bindings to jq
 - [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
-- [Monstercat-Visualizer](https://github.com/marcopixel/Monstercat-Visualizer) - A real time audio visualizer for Rainmeter similar to the ones used in the Monstercat videos.
+- [monstercat-visualizer](https://github.com/marcopixel/monstercat-visualizer) - A real time audio visualizer for Rainmeter similar to the ones used in the Monstercat videos.
 - [awesome-config](https://github.com/tony/awesome-config) - :closed_book: Example awesome wm configuration. Includes personalization support (personal.vim), theme, polyglot unicode taglists, mpd support.
 - [awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
@@ -6826,6 +6828,7 @@
 ## Markdown 
 
 - [CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Matlab 
 
@@ -7318,7 +7321,7 @@
 - [README-template.md](https://github.com/scottydocs/README-template.md) - A README template for anyone to copy and use.
 - [You-Dont-Need-Loops](https://github.com/you-dont-need/You-Dont-Need-Loops) - Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
 - [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
-- [awesome-java](https://github.com/CodingDocs/awesome-java) - Collection of awesome Java project on Github(Github 上非常棒的 Java 开源项目集合).
+- [awesome-java](https://github.com/CodingDocs/awesome-java) - Collection of awesome Java project on Github(非常棒的 Java 开源项目集合).
 - [awesome-standalones](https://github.com/davatron5000/awesome-standalones) - A curated list of awesome framework-agnostic standalone web components
 - [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)
 - [awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
@@ -8335,6 +8338,7 @@
 
 ## Python 
 
+- [wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
 - [chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes.
 - [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [drawing](https://github.com/maoschanz/drawing) - A drawing application for the GNOME desktop.
@@ -8573,6 +8577,7 @@
 - [Tweet-Locator](https://github.com/JuanBenitezDev/Tweet-Locator) - Tweet locator using Python, Flask and Twitter API
 - [jittor](https://github.com/Jittor/jittor) - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
 - [superimposer](https://github.com/jonhoo/superimposer) - 
+- [pyptex](https://github.com/sloisel/pyptex) - Python Preprocessor for LaTeX
 - [snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text
 - [dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
 - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
@@ -10730,7 +10735,7 @@
 - [cleandiff](https://github.com/masukomi/cleandiff) - CleanDiff is a better diffing tool, that's easier on your brain.
 - [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [screen-workdir.sh](https://github.com/gutierri/screen-workdir.sh) - Utility to create session with the current folder name on GNU Screen
-- [sysbox](https://github.com/nestybox/sysbox) - Sysbox repository
+- [sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash, zsh and all POSIX shells)
 - [registrish](https://github.com/jpetazzo/registrish) - Dirty hack to run a read-only, public Docker registry on almost any static file hosting service (e.g. NGINX, Netlify, S3...)
 - [tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
@@ -11293,7 +11298,7 @@
 - [dotfiles](https://github.com/skeeto/dotfiles) - My personal dotfiles
 - [ApkGolf](https://github.com/fractalwrench/ApkGolf) - The smallest Android APK in the world
 - [discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
-- [termux-packages](https://github.com/termux/termux-packages) - Andwoid tewminaw and Winux enviwonment - packages wepositowy.
+- [termux-packages](https://github.com/termux/termux-packages) - Android terminal and Linux environment - packages repository.
 - [memcache-info](https://github.com/hyperia-sk/memcache-info) - Simple and efficient way to show information about Memcache.
 - [lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
 - [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
@@ -11345,7 +11350,6 @@
 - [blog](https://github.com/mattalcock/blog) - My personal blog
 - [baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [gentoo](https://github.com/gentoo/gentoo) - [MIRROR] Official Gentoo ebuild repository
-- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [mac-dev-setup](https://github.com/nicolashery/mac-dev-setup) - A beginner's guide to setting up a development environment on macOS
 - [docker-brew-mageia](https://github.com/juanluisbaptiste/docker-brew-mageia) - Scripts and files to create Mageia official docker base images.
