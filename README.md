@@ -191,6 +191,19 @@
 
 ## C 
 
+- [generic-print](https://github.com/exebook/generic-print) - Convenient generic print() for C
+- [zig-gorillas](https://github.com/fabioarnold/zig-gorillas) - A clone of the classic QBasic Gorillas written in the Zig programming language
+- [freehl](https://github.com/eukara/freehl) - Clean-room reimplementation of Half-Life: Deathmatch and Half-Life (Experimental) in QuakeC.
+- [showmethekey](https://github.com/AlynxZhou/showmethekey) - A screenkey alternative that works under Wayland via libinput.
+- [pragha](https://github.com/pragha-music-player/pragha) - Pragha is a Lightweight Music Player for GNU/Linux.
+- [pqiv](https://github.com/phillipberndt/pqiv) - Powerful image viewer with minimal UI
+- [srain](https://github.com/SrainApp/srain) - Modern IRC client written in GTK
+- [OTPClient](https://github.com/paolostivanin/OTPClient) - Highly secure and easy to use OTP client written in C/GTK that supports both TOTP and HOTP
+- [gpredict](https://github.com/csete/gpredict) - Gpredict satellite tracking application
+- [CPU-X](https://github.com/X0rg/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
+- [tuna](https://github.com/Gusaroo/tuna) - A mobile UI for xfce
+- [obs-vkcapture](https://github.com/nowrep/obs-vkcapture) - OBS Linux Vulkan/OpenGL game capture
+- [bm](https://github.com/tsoding/bm) - Simple Virtual Machine with its own Bytecode and Assembly language.
 - [wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
 - [direwolf](https://github.com/wb2osz/direwolf) - Dire Wolf is a software "soundcard" AX.25 packet modem/TNC and APRS encoder/decoder. It can be used stand-alone to observe APRS traffic, as a tracker, digipeater, APRStt gateway, or Internet Gateway (IGate).   For more information, look at the bottom 1/4 of this page and in https://github.com/wb2osz/direwolf/blob/dev/doc/README.md
 - [libbpfgo-beginners](https://github.com/lizrice/libbpfgo-beginners) - Basic eBPF examples in Golang using libbpfgo
@@ -1043,6 +1056,13 @@
 
 ## C++ 
 
+- [ZombieV](https://github.com/johnBuffer/ZombieV) - Top down Zombie shooter game in C++ using SFML as graphics library
+- [AntSimulator](https://github.com/johnBuffer/AntSimulator) - Simple Ants simulator
+- [whatsapp-for-linux](https://github.com/eneshecan/whatsapp-for-linux) - An unofficial WhatsApp desktop application for Linux.
+- [nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
+- [node-gtk](https://github.com/romgrk/node-gtk) - GTK+ bindings for NodeJS (via GObject introspection)
+- [xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
+- [lambda](https://github.com/zhiayang/lambda) - lambda calculus interpreter
 - [fileshelter](https://github.com/epoupon/fileshelter) - FileShelter is a “one-click” file sharing web application
 - [pwsafe](https://github.com/nsd20463/pwsafe) - commandline tool compatible with Counterpane's Passwordsafe
 - [ytdl-gui](https://github.com/JaGoLi/ytdl-gui) - A simple-to-use, cross-platform graphical interface for youtube-dl.
@@ -1565,6 +1585,7 @@
 
 ## CSS 
 
+- [GPU-Viewer](https://github.com/arunsivaramanneo/GPU-Viewer) - A front-end to glxinfo, vulkaninfo, clinfo and es2_info - Linux
 - [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [lib4dev](https://github.com/amitmishrg/lib4dev) - Find awesome libraries and make your development fast.
@@ -1953,6 +1974,7 @@
 
 ## D 
 
+- [Drill](https://github.com/yatima1460/Drill) - Search files without indexing, but clever crawling
 - [dhcptest](https://github.com/CyberShadow/dhcptest) - Cross-platform DHCP test client
 - [dlangui](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language
 - [dagon](https://github.com/gecko0307/dagon) - 3D game engine for D
@@ -3895,6 +3917,53 @@
 
 ## Go 
 
+- [yap](https://github.com/chenjiandongx/yap) - 🚥 Yet another pinger: A high-performance ICMP ping implementation build on top of BPF technology.
+- [chk](https://github.com/Ripolak/chk) - A small CLI tool to check connection from a local machine to a remote target in various protocols.
+- [gitls](https://github.com/hahwul/gitls) - 🖇 Enumerate git repository URL from list of URL / User / Org. Friendly to pipeline
+- [traitor](https://github.com/liamg/traitor) - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones:
+- [gocket](https://github.com/Phantas0s/gocket) - 💼 CLI / TUI for Pocket
+- [Pi-CLI](https://github.com/Reeceeboii/Pi-CLI) - Pi-hole data right from your terminal. Live updating view, query history extraction and more!
+- [tabssh](https://github.com/osnr/tabssh) - 📡 ssh into browser tab.
+- [yml2dot](https://github.com/lucasepe/yml2dot) - Turn YAML into beautiful Graph
+- [TubeCheck](https://github.com/sjlleo/TubeCheck) - 一个用于检测/诊断Youtube地域信息的脚本
+- [netflix-verify](https://github.com/sjlleo/netflix-verify) - 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
+- [stargather](https://github.com/dwisiswant0/stargather) - A fast GitHub stargazers information gathering tool
+- [opener](https://github.com/superbrothers/opener) - Open URL in your local web browser from the SSH-connected remote environment.
+- [tiktik](https://github.com/irevenko/tiktik) - 📱🥴 TikTok terminal client for browsing & downloading videos
+- [text-to-video](https://github.com/leoython/text-to-video) - 知乎文章转视频的实现(乞丐版)
+- [go-rabbitmq](https://github.com/wagslane/go-rabbitmq) - A wrapper of streadway/amqp that provides reconnection logic and sane defaults
+- [yd](https://github.com/skanehira/yd) - YAML Incremental Digger.
+- [clickbaiter](https://github.com/cbrgm/clickbaiter) - Generates clickbait tech headlines. Don't ask why.
+- [xqtR](https://github.com/IgooorGP/xqtR) - 🛠️ xqtR (executoR) is a command line tool to execute sync or async jobs defined by yaml files on your machine.  🛠️
+- [uri](https://github.com/lucasepe/uri) - A commandline tool to resolve URI Templates expressions as specified in RFC 6570.
+- [OneDriveUploader](https://github.com/gaowanliang/OneDriveUploader) - 一个从DownloadBot独立出的简单的全平台OneDrive网盘上传工具
+- [dataconnector](https://github.com/brentadamson/dataconnector) - Connect to any API, website or database in Google Sheets.
+- [opera-proxy](https://github.com/Snawoot/opera-proxy) - Standalone client for proxies of Opera VPN
+- [alternativeto](https://github.com/brentadamson/alternativeto) - A comprehensive list of alternatives to your favorite software
+- [perfessor](https://github.com/conprof/perfessor) - Continuous profiling with perf
+- [tssh](https://github.com/luanruisong/tssh) - SSH Lightweight management tools
+- [DirDar](https://github.com/M4DM0e/DirDar) - DirDar is a tool that searches for (403-Forbidden) directories to break it and get dir listing on it
+- [mubeng](https://github.com/kitabisa/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
+- [tz](https://github.com/oz/tz) - 🌐 A time zone helper
+- [Girsh](https://github.com/nodauf/Girsh) - Automatically spawn a reverse shell fully interactive for Linux or Windows victim
+- [squealer](https://github.com/owenrumney/squealer) - Telling tales on you for leaking secrets!
+- [germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code
+- [shieldwall](https://github.com/evilsocket/shieldwall) - zero-trust remote firewall instrumentation
+- [confused](https://github.com/visma-prodsec/confused) - Tool to check for dependency confusion vulnerabilities in multiple package management systems
+- [tsukae](https://github.com/irevenko/tsukae) - 🧑‍💻📊 Show off your most used shell commands
+- [cosign](https://github.com/sigstore/cosign) - Container Signing
+- [generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
+- [fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
+- [UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
+- [Hilbish](https://github.com/Hilbis/Hilbish) - 🎀 a nice lil shell for lua people made with go and lua
+- [dsf](https://github.com/nanmu42/dsf) - DSF - Dead Simple Fileserver / 极简HTTP文件服务
+- [accelerated-container-image](https://github.com/alibaba/accelerated-container-image) - accelerated-container-image
+- [netz](https://github.com/SpectralOps/netz) - Discover internet-wide misconfigurations while drinking coffee
+- [teller](https://github.com/SpectralOps/teller) - A secrets management tool for developers built in Go - never leave your command line for secrets.
+- [typer](https://github.com/maaslalani/typer) - Typing test in your terminal
+- [octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
+- [netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks. Netmaker makes networking easy, fast, and secure across all environments.
+- [lecat](https://github.com/jtolio/lecat) - socat-lite with letsencrypt support
 - [ping](https://github.com/go-ping/ping) - ICMP Ping library for Go
 - [golang-tetris](https://github.com/zkry/golang-tetris) - A Tetris game written in Go using the faiface/pixel 2D game engine.
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -5709,6 +5778,9 @@
 
 ## JavaScript 
 
+- [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
+- [Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
+- [Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
 - [basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages
 - [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor
 - [visual-basm](https://github.com/kolumb/visual-basm) - Visual tool for basm language
@@ -6706,6 +6778,7 @@
 
 ## Lua 
 
+- [gifine](https://github.com/leafo/gifine) - Quickly record and edit gifs and videos of your desktop
 - [awesome-wm-nice](https://github.com/mut-ex/awesome-wm-nice) - An Awesome WM module that add MacOS-like window decorations, with seamless titlebars, double click to maximize, and window shade feature
 - [inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables
 - [Penlight](https://github.com/lunarmodules/Penlight) - A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  Much of the functionality is inspired by the Python standard libraries.
@@ -8338,6 +8411,17 @@
 
 ## Python 
 
+- [VTSCAN](https://github.com/redcode-labs/VTSCAN) - VirusTotal API script
+- [pihole-panel](https://github.com/daleosm/pihole-panel) - Python/GTK3 based Pi-hole (network-level adblocker) dashboard for stats and more
+- [gydl](https://github.com/JannikHv/gydl) - gydl (Graphical Youtube-dl) is a GUI wrapper around the already existing youtube-dl program.
+- [something-for-reddit](https://github.com/samdroid-apps/something-for-reddit) - A Reddit Client For GNOME (with Gtk+ and Python)
+- [Instant-Lyrics](https://github.com/bhrigu123/Instant-Lyrics) - Shows lyrics of the currently playing Spotify song, or any song, instantly.
+- [indicator-sound-switcher](https://github.com/yktoo/indicator-sound-switcher) - Sound input/output selector indicator for Linux
+- [Sunflower](https://github.com/MeanEYE/Sunflower) - Small and highly customizable twin-panel file manager for Linux with support for plugins.
+- [pychess](https://github.com/pychess/pychess) - PyChess - a chess client for Linux/Windows
+- [quicktile](https://github.com/ssokolow/quicktile) - Adds window-tiling hotkeys to any X11 desktop. (An analogue to WinSplit Revolution for people who don't want to use Compiz Grid)
+- [cozy](https://github.com/geigi/cozy) - A modern audio book player for Linux using GTK+ 3
+- [pyglossary](https://github.com/ilius/pyglossary) - A tool for converting dictionary files aka glossaries. The primary purpose is to be able to use our offline glossaries in any Open Source dictionary we like on any OS/device.
 - [wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
 - [chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes.
 - [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
@@ -8492,7 +8576,6 @@
 - [acme-nosudo](https://github.com/diafygi/acme-nosudo) - Free HTTPS certificates without having to trust the letsencrypt cli with sudo/root
 - [Voltorb](https://github.com/egeoz/Voltorb) - A simple GUI for undervolting on GNU/Linux
 - [YAS](https://github.com/redcode-labs/YAS) - Yet Another Sniffer for monitoring network traffic
-- [VTSCAN](https://github.com/redcode-labs/VTSCAN) - VirusTotal API script
 - [Shellab](https://github.com/redcode-labs/Shellab) - Linux and Windows shellcode enrichment utility
 - [Netenum](https://github.com/redcode-labs/Netenum) - A tool to passively discover active hosts on a network
 - [selinux-notebook](https://github.com/SELinuxProject/selinux-notebook) - The SELinux Notebook
@@ -10196,6 +10279,8 @@
 
 ## Rust 
 
+- [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
+- [eww](https://github.com/elkowar/eww) - ElKowar's wacky widgets
 - [arret](https://github.com/etaoins/arret) - Pure functional Lisp implemented in Rust
 - [cm](https://github.com/tsoding/cm) - Emacs' compilation-mode-like TUI application
 - [scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
@@ -10544,6 +10629,7 @@
 
 ## Scheme 
 
+- [my-guix-channel](https://github.com/benoitj/my-guix-channel) - guix related packages not yet in guix, or that will not be in guix
 - [potato-make](https://github.com/spk121/potato-make) - Library to write makefiles in the GNU Guile dialect of the Scheme programming language.
 - [zem](https://github.com/Jimx-/zem) - Extensible Emacs-like text editor with Guile
 - [scm-bot](https://github.com/NERD-ALMATY/scm-bot) - Telegram bot with Scheme interpreter
@@ -10630,6 +10716,9 @@
 
 ## Shell 
 
+- [kangaroo](https://github.com/dbkangaroo/kangaroo) - SQL client and admin tool for popular databases
+- [linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
+- [memegen](https://github.com/Vendicated/memegen) - A posix shell script to generate memes from the command line
 - [android_hid](https://github.com/androidmalware/android_hid) - Use Android as Rubber Ducky against another Android device
 - [BashScan](https://github.com/astryzia/BashScan) - BashScan is a port scanner built to utilize /dev/tcp for network and service discovery on systems that have limitations or are otherwise unable to use alternative scanning solutions such as nmap.
 - [org-popup](https://github.com/Parveshdhull/org-popup) - Take notes for emacs org-mode using pop-ups
@@ -11507,6 +11596,7 @@
 
 ## TypeScript 
 
+- [react-gtk](https://github.com/clayrisser/react-gtk) - React Native bridge for gtk desktop applications
 - [nx](https://github.com/nrwl/nx) - Powerful, Extensible Dev Tools
 - [habitica-tracker](https://github.com/ddycai/habitica-tracker) - Tool that displays a history of your Habits, Dailies and completed Todos in Habitica like habit tracker. Check out the Github page to try it out.
 - [uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
@@ -11683,6 +11773,10 @@
 
 ## Vala 
 
+- [gala](https://github.com/elementary/gala) - Gala Window Manager
+- [core](https://github.com/midori-browser/core) - Midori Web Browser - a lightweight, fast and free web browser using WebKit and GTK+
+- [xi-gtk](https://github.com/eyelash/xi-gtk) - a GTK front-end for the Xi editor
+- [dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK+/Vala
 - [vala-language-server-protocol](https://github.com/chances/vala-language-server-protocol) - Language Server Protocol in Vala
 - [wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound) - Wingpanel Sound Indicator
 - [connections](https://github.com/GNOME/connections) - Read-only mirror of https://gitlab.gnome.org/GNOME/connections
