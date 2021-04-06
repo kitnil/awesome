@@ -203,7 +203,7 @@
 - [CPU-X](https://github.com/X0rg/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
 - [tuna](https://github.com/Gusaroo/tuna) - A mobile UI for xfce
 - [obs-vkcapture](https://github.com/nowrep/obs-vkcapture) - OBS Linux Vulkan/OpenGL game capture
-- [bm](https://github.com/tsoding/bm) - Cross-Platform Assembly with Powerful Meta-Language
+- [bm](https://github.com/tsoding/bm) - Stack-Based Language with Powerful Meta-Programming
 - [wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
 - [direwolf](https://github.com/wb2osz/direwolf) - Dire Wolf is a software "soundcard" AX.25 packet modem/TNC and APRS encoder/decoder. It can be used stand-alone to observe APRS traffic, as a tracker, digipeater, APRStt gateway, or Internet Gateway (IGate).   For more information, look at the bottom 1/4 of this page and in https://github.com/wb2osz/direwolf/blob/dev/doc/README.md
 - [libbpfgo-beginners](https://github.com/lizrice/libbpfgo-beginners) - Basic eBPF examples in Golang using libbpfgo
@@ -2843,7 +2843,6 @@
 - [lispyville](https://github.com/noctuid/lispyville) - lispy + evil = lispyville
 - [ebdb](https://github.com/girzel/ebdb) - An EIEIO port of BBDB, Emacs' contact-management package
 - [yahtzee](https://github.com/drdv/yahtzee) - The Yahtzee game
-- [emacs-js](https://github.com/foretagsplatsen/emacs-js) - Emacs configuration files for editing JavaScript
 - [magic-filetype.el](https://github.com/emacs-php/magic-filetype.el) - Enhance filetype major mode
 - [conllu-mode](https://github.com/odanoburu/conllu-mode) - CoNLL-U major mode for emacs
 - [kotlin-mode](https://github.com/Emacs-Kotlin-Mode-Maintainers/kotlin-mode) - Kotlin major mode for Emacs
@@ -5302,6 +5301,7 @@
 
 ## Haskell 
 
+- [lambda-launcher](https://github.com/balsoft/lambda-launcher) - Application launcher in haskell. Mostly Just For Fun.
 - [xrefcheck](https://github.com/serokell/xrefcheck) - Check cross-references in repository documents
 - [mongodb](https://github.com/mongodb-haskell/mongodb) - MongoDB driver for Haskell
 - [haskell-for-imperative-programmers](https://github.com/rodrigobotti/haskell-for-imperative-programmers) - Code built from watching the "Haskell for Imperative Programmers" series of lessons on Youtube
@@ -5383,7 +5383,7 @@
 - [neut](https://github.com/u2zv1wx/neut) - A dependently-typed programming language with compile-time malloc/free determination
 - [Haskell](https://github.com/BartoszMilewski/Haskell) - Haskell exercises
 - [goldplate](https://github.com/fugue/goldplate) - a cute and simple golden test runner for CLI applications
-- [nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+- [nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [retrie](https://github.com/facebookincubator/retrie) - Retrie is a powerful, easy-to-use codemodding tool for Haskell.
 - [pretty-simple](https://github.com/cdepillabout/pretty-simple) - pretty-printer for Haskell data types that have a Show instance
 - [termonad](https://github.com/cdepillabout/termonad) - Terminal emulator configurable in Haskell.
@@ -6396,7 +6396,7 @@
 - [biwascheme](https://github.com/biwascheme/biwascheme) - Scheme interpreter written in JavaScript
 - [eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
 - [freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
-- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [webrecorder-player](https://github.com/webrecorder/webrecorder-player) - Webrecorder Player for Desktop (OSX/Windows/Linux). (Built with Electron + Webrecorder)
 - [javascript-arithmetic-lab-v-000](https://github.com/learn-co-students/javascript-arithmetic-lab-v-000) - 
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
@@ -7781,6 +7781,7 @@
 - [lets-support-emacs](https://github.com/tareefdev/lets-support-emacs) - Support your favorite editor and packages
 - [rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs
 - [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
+- [emacs-js](https://github.com/foretagsplatsen/emacs-js) - Emacs configuration files for editing JavaScript
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [compilers-targeting-c](https://github.com/dbohdan/compilers-targeting-c) - A list of compilers that can generate C code
 - [awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
@@ -10122,7 +10123,7 @@
 
 ## Ring 
 
-- [ring](https://github.com/ring-lang/ring) - Innovative and practical general-purpose multi-paradigm language
+- [ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
 
 ## Riot 
 
