@@ -366,7 +366,6 @@
 - [gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
 - [libleakmydata](https://github.com/DavidBuchanan314/libleakmydata) - A simple LD_PRELOAD library to disable SSL certificate verification. Inspired by libeatmydata.
 - [thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
-- [basque](https://github.com/ryanpcmcquen/basque) - A top-down 2d game engine, written from scratch in under 1000 lines of C. Development of the game based on this engine is streamed on Twitch: https://www.twitch.tv/ryanpcmcquen
 - [quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
 - [quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable adaptive merge sort which is faster than quicksort.
 - [DungeonRush](https://github.com/Rapiz1/DungeonRush) - 👾🐍 A opensource game inspired by Snake, written in pure C with SDL
@@ -930,6 +929,7 @@
 - [compton](https://github.com/chjj/compton) - A compositor for X11.
 - [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program.
 - [whdd](https://github.com/whdd/whdd) - HDD diagnostic and data recovery tool for Linux
 - [physlock](https://github.com/muennich/physlock) - Lightweight linux console locking tool
@@ -3920,6 +3920,7 @@
 
 ## Go 
 
+- [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload
 - [sql-jobber](https://github.com/knadh/sql-jobber) - A highly opinionated, distributed job-queue built specifically for defering and executing heavy SQL read jobs asynchronously. Supports MySQL and Postgres.
 - [koanf](https://github.com/knadh/koanf) - Light weight, extensible configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [email-verifier](https://github.com/AfterShip/email-verifier) - :white_check_mark: A Go library for email verification without sending any emails.
@@ -3932,7 +3933,7 @@
 - [commitlog](https://github.com/barelyhuman/commitlog) - Generate Changelogs from Commits (CLI)
 - [10-things-linux](https://github.com/carltheperson/10-things-linux) - Getting better at Linux with 10 mini-projects.
 - [tcpdog](https://github.com/mehrdadrad/tcpdog) - eBPF based TCP observability.
-- [pyroscope](https://github.com/pyroscope-io/pyroscope) - 🔥  Continuous Profiling Platform 🔥 Debug performance issues down to a single line of code
+- [pyroscope](https://github.com/pyroscope-io/pyroscope) - 🔥  Continuous Profiling Platform 🔥  Debug performance issues down to a single line of code
 - [yap](https://github.com/chenjiandongx/yap) - 🚥 Yet another pinger: A high-performance ICMP ping implementation build on top of BPF technology.
 - [chk](https://github.com/Ripolak/chk) - A small CLI tool to check connection from a local machine to a remote target in various protocols.
 - [gitls](https://github.com/hahwul/gitls) - 🖇 Enumerate git repository URL from list of URL / User / Org. Friendly to pipeline
@@ -3952,7 +3953,7 @@
 - [clickbaiter](https://github.com/cbrgm/clickbaiter) - Generates clickbait tech headlines. Don't ask why.
 - [xqtR](https://github.com/IgooorGP/xqtR) - 🛠️ xqtR (executoR) is a command line tool to execute sync or async jobs defined by yaml files on your machine.  🛠️
 - [uri](https://github.com/lucasepe/uri) - A commandline tool to resolve URI Templates expressions as specified in RFC 6570.
-- [OneDriveUploader](https://github.com/gaowanliang/OneDriveUploader) - A simple, platform-wide OneDrive upload tool separate from DownloadBot
+- [OneDriveUploader](https://github.com/gaowanliang/OneDriveUploader) - A lightweight, universal OneDrive upload tool for all platforms
 - [dataconnector](https://github.com/brentadamson/dataconnector) - Connect to any API, website or database in Google Sheets.
 - [opera-proxy](https://github.com/Snawoot/opera-proxy) - Standalone client for proxies of Opera VPN
 - [alternativeto](https://github.com/brentadamson/alternativeto) - A comprehensive list of alternatives to your favorite software
@@ -4641,7 +4642,7 @@
 - [elastic](https://github.com/olivere/elastic) - Elasticsearch client for Go.
 - [goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang
 - [pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
-- [go-mysql-elasticsearch](https://github.com/siddontang/go-mysql-elasticsearch) - Sync MySQL data into elasticsearch
+- [go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch) - Sync MySQL data into elasticsearch
 - [grafanaclient](https://github.com/adejoux/grafanaclient) - simple API to manage Grafana 2.0 DataSources and Dashboards in Go
 - [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [greenwall](https://github.com/mtojek/greenwall) - Tiny service health dashboard written in Go
@@ -4951,7 +4952,7 @@
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
-- [writefreely](https://github.com/writeas/writefreely) - Build a digital writing community.
+- [writefreely](https://github.com/writefreely/writefreely) - Build a digital writing community.
 - [discord-cli](https://github.com/RickvanLoo/discord-cli) - Minimalistic Command-Line Interface for Discord
 - [gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
 - [mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
@@ -5800,6 +5801,7 @@
 
 ## JavaScript 
 
+- [HTMLang](https://github.com/tsoding/HTMLang) - HTML as a Programming Language. Finally all of your dreams came true.
 - [integrapptor](https://github.com/mickael-kerjean/integrapptor) - A browser integrating all your apps in one place
 - [cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [selenium-ide](https://github.com/SeleniumHQ/selenium-ide) - Open Source record and playback test automation for the web.
@@ -5817,7 +5819,7 @@
 - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [estimator.dev](https://github.com/GoogleChromeLabs/estimator.dev) - 🧮 Calculate the size and performance impact of switching to modern JavaScript syntax.
 - [next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是使用Golang和React开发的一款HTML5的远程桌面网关，具有小巧、易安装、易使用、资源占用小的特点，支持RDP、SSH、VNC和Telnet协议的连接和管理。
-- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL is a free and open-source fork of mapbox-gl-js
+- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [papers-with-video](https://github.com/amitness/papers-with-video) - A browser extension that adds video explanations to research papers on arxiv.org
@@ -6049,7 +6051,7 @@
 - [learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [web-console](https://github.com/nickola/web-console) - Simple web-based shell, remote shell in your browser
-- [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - library for creating web based terminals with custom commands
+- [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - JavaScript library for creating web based terminals with custom commands
 - [clear-browsing-data](https://github.com/dessant/clear-browsing-data) - Browser extension for clearing browsing data
 - [search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Edge, Chrome and Firefox
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
@@ -6497,7 +6499,6 @@
 - [gnome-shell-extension-stealmyfocus](https://github.com/v-dimitrov/gnome-shell-extension-stealmyfocus) - Shell Extension that let window that demand attention to steal focus
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
 - [gnome-shell-extension-redshift](https://github.com/benzea/gnome-shell-extension-redshift) - DO NOT USE; GNOME NOW INCLUDES THE FEATURE ALREADY! – A redshift extension for gnome-shell – Obsolete with GNOME 3.26! Use the buildin nightlight feature instead!
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Youtube 字幕下载，Download Youtube Subtitles (Work best on Chrome + Tampermonkey)  2020-10-7 更新：支持中英双语字幕下载，请在页面底部提供的另一个链接进行安装
@@ -7074,6 +7075,7 @@
 
 ## Objective-C 
 
+- [basque](https://github.com/ryanpcmcquen/basque) - A top-down 2d game engine, written from scratch in under 1000 lines of C. Development of the game based on this engine is streamed on Twitch: https://www.twitch.tv/ryanpcmcquen
 - [adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
 - [nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
 - [LiveReload](https://github.com/livereload/LiveReload) - LiveReload.app for Mac and Windows. See “develop” branch for the latest Windows release and LiveReload 3 progress. (NOTE: renamed from LiveReload2.)
