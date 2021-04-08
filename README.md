@@ -203,7 +203,7 @@
 - [CPU-X](https://github.com/X0rg/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
 - [tuna](https://github.com/Gusaroo/tuna) - A mobile UI for xfce
 - [obs-vkcapture](https://github.com/nowrep/obs-vkcapture) - OBS Linux Vulkan/OpenGL game capture
-- [bm](https://github.com/tsoding/bm) - Stack-Based Language with Powerful Meta-Programming
+- [bm](https://github.com/tsoding/bm) - Stack-Based Language with Meta-Programming
 - [wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
 - [direwolf](https://github.com/wb2osz/direwolf) - Dire Wolf is a software "soundcard" AX.25 packet modem/TNC and APRS encoder/decoder. It can be used stand-alone to observe APRS traffic, as a tracker, digipeater, APRStt gateway, or Internet Gateway (IGate).   For more information, look at the bottom 1/4 of this page and in https://github.com/wb2osz/direwolf/blob/dev/doc/README.md
 - [libbpfgo-beginners](https://github.com/lizrice/libbpfgo-beginners) - Basic eBPF examples in Golang using libbpfgo
@@ -246,7 +246,7 @@
 - [ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
 - [xwinwrap](https://github.com/ujjwal96/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
 - [berry](https://github.com/JLErvin/berry) - :strawberry: A healthy, byte-sized window manager
-- [jgmenu](https://github.com/johanmalm/jgmenu) - A simple X11 menu
+- [jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
 - [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
 - [devour](https://github.com/salman-abedin/devour) - X11 window swallower
 - [io](https://github.com/IoLanguage/io) - Io programming language. Inspired by Self, Smalltalk and LISP.
@@ -1723,6 +1723,7 @@
 - [pedestal](https://github.com/pedestal/pedestal) - The Pedestal Server-side Libraries
 - [MoonDweller](https://github.com/buntine/MoonDweller) - A text-based adventure. You will definitely die.
 - [klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
+- [geom](https://github.com/thi-ng/geom) - 2D/3D geometry toolkit for Clojure/Clojurescript
 - [riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [stream2es](https://github.com/elastic/stream2es) - Stream data into ES (Wikipedia, Twitter, stdin, or other ESes)
 - [spacetools](https://github.com/JAremko/spacetools) - Spacemacs age tool box
@@ -2122,7 +2123,6 @@
 - [theme-anchor](https://github.com/GongYiLiao/theme-anchor) - Apply a custom theme to current Emacs buffer only
 - [org-notifications](https://github.com/doppelc/org-notifications) - Desktop notifications for your org-agenda/org-mode items
 - [thesaurus.el](https://github.com/AnselmC/thesaurus.el) - Emacs package to query thesaurus.com for synonyms of a given word.
-- [rde](https://github.com/abcdw/rde) - Tools for managing reproducible development environments. Mirror of https://sr.ht/abcdw/rde/
 - [symex.el](https://github.com/countvajhula/symex.el) - An evil way to edit Lisp symbolic expressions ("symexes") as trees in Emacs
 - [sudo-utils](https://github.com/alpha-catharsis/sudo-utils) - sudo utilities for emacs
 - [springboard](https://github.com/jwiegley/springboard) - An Emacs mode based on Helm that makes it easy to bounce around projects
@@ -3985,7 +3985,7 @@
 - [golang-tetris](https://github.com/zkry/golang-tetris) - A Tetris game written in Go using the faiface/pixel 2D game engine.
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [mailway](https://github.com/mailway-app/mailway) - Mailway installer, host your own Mailway instance
-- [steampipe](https://github.com/turbot/steampipe) - Steampipe command line interface (CLI)
+- [steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [team-manager](https://github.com/cilium/team-manager) - Bot to manage team members in GitHub organizations
 - [cert-checker](https://github.com/mogensen/cert-checker) - Certificate monitoring utility for watching tls certificates and reporting the result as metrics.
 - [notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
@@ -4089,7 +4089,6 @@
 - [mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
 - [pst](https://github.com/skanehira/pst) - TUI process monitor written in Go
 - [docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for docker
-- [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
@@ -5563,7 +5562,7 @@
 - [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [crewmate](https://github.com/crewmate-srv/crewmate) - An open-source implementation of the Among Us server in Java.
 - [DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
-- [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具
+- [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具，支持内存，cpu状态，cpu主板温度，磁盘容量及IO，硬盘smart，系统负载，网络流量，进程等监控，API接口，大屏展示，拓扑图，端口监控，docker监控，日志文件监控，数据可视化，堡垒机(跳板机)
 - [liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [MusicDNA](https://github.com/harjot-oberai/MusicDNA) - A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.
@@ -5857,6 +5856,7 @@
 - [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects and FAQ for my Complete JavaScript course
 - [wizzy](https://github.com/grafana-wizzy/wizzy) - Manage & automate Grafana with easy wizzy
 - [drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
+- [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [docker-browser](https://github.com/pfrayer/docker-browser) - Visualize your containers/images/volumes/networks and see which ones uses which ones
 - [sqleton](https://github.com/inukshuk/sqleton) - Visualize your SQLite database schema
@@ -8229,7 +8229,6 @@
 
 ## PLpgSQL 
 
-- [wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - 🌐 Guide and tools to run a full offline mirror of Wikipedia.org with three different approaches: Nginx caching proxy, Kimix + ZIM dump, and MediaWiki/XOWA + XML dump
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 
 ## Pascal 
@@ -10688,6 +10687,7 @@
 ## Scheme 
 
 - [my-guix-channel](https://github.com/benoitj/my-guix-channel) - guix related packages not yet in guix, or that will not be in guix
+- [rde](https://github.com/abcdw/rde) - Tools for managing reproducible development environments. Mirror of https://sr.ht/abcdw/rde/
 - [potato-make](https://github.com/spk121/potato-make) - Library to write makefiles in the GNU Guile dialect of the Scheme programming language.
 - [zem](https://github.com/Jimx-/zem) - Extensible Emacs-like text editor with Guile
 - [scm-bot](https://github.com/NERD-ALMATY/scm-bot) - Telegram bot with Scheme interpreter
@@ -10781,7 +10781,7 @@
 - [android_hid](https://github.com/androidmalware/android_hid) - Use Android as Rubber Ducky against another Android device
 - [BashScan](https://github.com/astryzia/BashScan) - BashScan is a port scanner built to utilize /dev/tcp for network and service discovery on systems that have limitations or are otherwise unable to use alternative scanning solutions such as nmap.
 - [org-popup](https://github.com/Parveshdhull/org-popup) - Take notes for emacs org-mode using pop-ups
-- [evilFTP](https://github.com/vp777/evilFTP) - SSRF to TCP Port Scanning, Banner and Private IP Disclosure by abusing the FTP protocol
+- [evilFTP](https://github.com/vp777/evilFTP) - SSRF to TCP Port Scanning, Banner and Private IP Disclosure by abusing the FTP protocol/clients
 - [valheim-server-docker](https://github.com/lloesche/valheim-server-docker) - Valheim dedicated gameserver with automatic update, World backup and ValheimPlus mod support
 - [ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [DHTP](https://github.com/KuriKai/DHTP) - DOOM High Resolution Texture Project
@@ -10892,6 +10892,7 @@
 - [packaging](https://github.com/jenkinsci/packaging) - Native packaging for Jenkins
 - [habash](https://github.com/natfarleydev/habash) - A habitica terminal client written entirely in bash.
 - [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - A one-click script that installs a remote desktop environment on a Linux server with browser/RDP/VNC access.
+- [wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - 🌐 Guide and tools to run a full offline mirror of Wikipedia.org with three different approaches: Nginx caching proxy, Kiwix + ZIM dump, and MediaWiki/XOWA + XML dump
 - [easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC+musl for static executables
 - [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
@@ -11327,7 +11328,6 @@
 - [tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [Envisaged](https://github.com/utensils/Envisaged) - Envisaged - Effortless Gource Visualizations with Docker
-- [geom](https://github.com/thi-ng/geom) - 2D/3D geometry toolkit for Clojure/Clojurescript
 - [examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [run_scaled](https://github.com/kaueraal/run_scaled) - Run an X application scaled via xpra. Useful on hidpi screens.
 - [pandorabox.io](https://github.com/pandorabox-io/pandorabox.io) - Pandorabox infrastructure code
