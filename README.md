@@ -191,6 +191,7 @@
 
 ## C 
 
+- [ympd](https://github.com/notandy/ympd) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
 - [generic-print](https://github.com/exebook/generic-print) - Convenient generic print() for C
 - [zig-gorillas](https://github.com/fabioarnold/zig-gorillas) - A clone of the classic QBasic Gorillas written in the Zig programming language
 - [freehl](https://github.com/eukara/freehl) - Clean-room reimplementation of Half-Life: Deathmatch and Half-Life (Experimental) in QuakeC.
@@ -3993,7 +3994,7 @@
 - [slick](https://github.com/ExaScience/slick) - The Slick programming language is an s-expression surface syntax for Go.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [wprecon](https://github.com/blackbinn/wprecon) - WPrecon (WordPress Recon), is a vulnerability recognition tool in CMS Wordpress, developed in Go and with scripts in Lua.
-- [mosdns](https://github.com/IrineSistiana/mosdns) - 一个插件化的 DNS 转发/分流器。
+- [mosdns](https://github.com/IrineSistiana/mosdns) - 插件化 DNS 转发/分流器。
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
@@ -10334,6 +10335,7 @@
 
 ## Rust 
 
+- [spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainer=@jD91mZM2]
 - [gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
@@ -10775,7 +10777,7 @@
 ## Shell 
 
 - [yaml-editor](https://github.com/yaml/yaml-editor) - Edit YAML and see it processed by various processors
-- [kangaroo](https://github.com/dbkangaroo/kangaroo) - SQL client and admin tool for popular databases
+- [kangaroo](https://github.com/dbkangaroo/kangaroo) - Kangaroo is a SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
 - [linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
 - [memegen](https://github.com/Vendicated/memegen) - A posix shell script to generate memes from the command line
 - [android_hid](https://github.com/androidmalware/android_hid) - Use Android as Rubber Ducky against another Android device
@@ -10822,7 +10824,7 @@
 - [shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
 - [git-repo-watcher](https://github.com/kolbasa/git-repo-watcher) - A simple bash script to watch a git repository and pull upstream changes if needed.
 - [byp4xx](https://github.com/lobuhi/byp4xx) - Simple bash script to bypass "403 Forbidden" messages with well-known methods discussed in #bugbountytips
-- [howtodebuntu](https://github.com/themagicalmammal/howtodebuntu) - Tweaks for Debian & Ubuntu based Distro(s).
+- [howtodebuntu](https://github.com/themagicalmammal/howtodebuntu) - Tweaks for Debian/Ubuntu Distro(s)
 - [bmks](https://github.com/obyyx/bmks) - unix bookmark management that sucks less
 - [DAC](https://github.com/baibhavanand/DAC) - DAC - Domain Availability Checker is a tool written in bash to help people find available domains from the comfort of their terminal. People can choose to pass one domain or wordlist to scan the availability from. People can also choose to store the output (List of available domains) in a different text file.
 - [archbox](https://github.com/lemniskett/archbox) - Easy to use Arch Linux chroot environment with some functionalities to integrate it with your existing Linux installation.
@@ -11655,6 +11657,7 @@
 
 ## TypeScript 
 
+- [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [SnowFS](https://github.com/Snowtrack/SnowFS) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [react-gtk](https://github.com/clayrisser/react-gtk) - React Native bridge for gtk desktop applications
 - [nx](https://github.com/nrwl/nx) - Powerful, Extensible Dev Tools
@@ -11939,7 +11942,7 @@
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [shortkeys](https://github.com/mikecrittenden/shortkeys) - A browser extension for custom keyboard shortcuts
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
@@ -11973,7 +11976,6 @@
 
 - [sel](https://github.com/mb64/sel) - Sed Lisp -- a lisp interpreter in GNU sed
 - [sedsed](https://github.com/aureliojargas/sedsed) - Debugger and code formatter for sed scripts
-- [bach.sed](https://github.com/laserbat/bach.sed) - Bach's prelude in C major from WTC book I, written in pure sed
 
 
 ## License
