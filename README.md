@@ -191,6 +191,8 @@
 
 ## C 
 
+- [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
+- [trinity](https://github.com/wlanjie/trinity) - android video record editor muxer sdk
 - [ympd](https://github.com/notandy/ympd) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
 - [generic-print](https://github.com/exebook/generic-print) - Convenient generic print() for C
 - [zig-gorillas](https://github.com/fabioarnold/zig-gorillas) - A clone of the classic QBasic Gorillas written in the Zig programming language
@@ -2114,6 +2116,7 @@
 
 ## Emacs Lisp 
 
+- [kbd-mode](https://github.com/slotThe/kbd-mode) - Emacs mode for syntax highlighting kmonad's .kbd files.
 - [flycheck-plantuml](https://github.com/alexmurray/flycheck-plantuml) - Integrate plantuml with flycheck for automatic syntax errors highlighting in Emacs
 - [rii](https://github.com/ROCKTAKEY/rii) - Reversible input interface for multiple input.
 - [nroam](https://github.com/NicolasPetton/nroam) - Org-roam backlinks within org-mode buffers
@@ -3921,6 +3924,13 @@
 
 ## Go 
 
+- [cgofuse](https://github.com/billziss-gh/cgofuse) - Cross-platform FUSE library for Go - Works on Windows, macOS, Linux, FreeBSD, NetBSD, OpenBSD
+- [hubfs](https://github.com/billziss-gh/hubfs) - File system for GitHub
+- [wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang).
+- [tmux-wormhole](https://github.com/gcla/tmux-wormhole) - tmux-wormhole - download files and directories with tmux!
+- [mtorrent](https://github.com/nektro/mtorrent) - A totally configurable terminal torrent client.
+- [hakcron](https://github.com/hakluke/hakcron) - Easily schedule commands to run multiple times at set intervals (like a cronjob, but with one command)
+- [kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
 - [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload
 - [sql-jobber](https://github.com/knadh/sql-jobber) - A highly opinionated, distributed job-queue built specifically for defering and executing heavy SQL read jobs asynchronously. Supports MySQL and Postgres.
 - [koanf](https://github.com/knadh/koanf) - Light weight, extensible configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
@@ -5302,6 +5312,9 @@
 
 ## Haskell 
 
+- [dex-lang](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family
+- [izuna](https://github.com/matsumonkie/izuna) - Show Haskell type annotations when doing code review on Github
+- [nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [lambda-launcher](https://github.com/balsoft/lambda-launcher) - Application launcher in haskell. Mostly Just For Fun.
 - [xrefcheck](https://github.com/serokell/xrefcheck) - Check cross-references in repository documents
 - [mongodb](https://github.com/mongodb-haskell/mongodb) - MongoDB driver for Haskell
@@ -5546,6 +5559,7 @@
 
 ## Java 
 
+- [AndroidCamera](https://github.com/aserbao/AndroidCamera) - 🔥🔥🔥自定义Android相机(仿抖音 TikTok)，其中功能包括视频人脸识别贴纸，分段录制，视频裁剪，视频帧处理，获取视频关键帧，视频旋转，添加滤镜，添加水印，合成Gif到视频，文字转视频，图片转视频，音视频合成，音频变声处理，SoundTouch，Fmod音频处理。 Android camera(imitation Tik Tok), which includes video editor,audio editor,video face recognition stickers, segment recording,video cropping, video frame processing, get the first video frame, key frame, video rotation, add filter Mirror ,add watermark ,add gif to video, add text to video, picture to video, audio and video synthesis, audio change processing, SoundTouch, Fmod audio processing.
 - [scan-gradle-plugin](https://github.com/sonatype-nexus-community/scan-gradle-plugin) - Gradle plugin that scans the dependencies of a Gradle project using Sonatype platforms: OSS Index and Nexus IQ Server.
 - [plantuml-server](https://github.com/plantuml/plantuml-server) - PlantUML Online Server
 - [activemq](https://github.com/apache/activemq) - Mirror of Apache ActiveMQ
@@ -5801,6 +5815,7 @@
 
 ## JavaScript 
 
+- [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 - [HTMLang](https://github.com/tsoding/HTMLang) - HTML as a Programming Language. Finally all of your dreams came true.
 - [integrapptor](https://github.com/mickael-kerjean/integrapptor) - A browser integrating all your apps in one place
 - [cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
@@ -6274,7 +6289,6 @@
 - [RESTer](https://github.com/frigus02/RESTer) - A REST client for almost any web service (Firefox and Chrome Extension)
 - [live-css-editor](https://github.com/webextensions/live-css-editor) - Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 - [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :warning: without maintaining in a period & any cooperative purpose are welcome
-- [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.
 - [learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 - [emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook) - An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.
@@ -6285,7 +6299,7 @@
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [DoodleMaster](https://github.com/karanchahal/DoodleMaster) - "Don't code your UI, Draw  it !"
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
+- [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
@@ -8443,6 +8457,10 @@
 
 ## Python 
 
+- [redditfs](https://github.com/ianpreston/redditfs) - ls -l /r/programming
+- [hyperjson](https://github.com/mre/hyperjson) - A hyper-fast Python module for reading/writing JSON data using Rust's serde-json.
+- [basecrack](https://github.com/mufeedvh/basecrack) - Decode All Bases - Base Scheme Decoder
+- [mmocr](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection and Recognition Toolbox
 - [splinter](https://github.com/cobrateam/splinter) - splinter - python test framework for web applications
 - [selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
 - [sillynium](https://github.com/con-dog/sillynium) - Automate the creation of Python Selenium Scripts by drawing coloured boxes on webpage elements
@@ -10335,6 +10353,8 @@
 
 ## Rust 
 
+- [binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
+- [seclip](https://github.com/mufeedvh/seclip) - A CLI utility to secretly copy secrets to clipboard. :lock::memo:
 - [spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainer=@jD91mZM2]
 - [gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
@@ -10784,7 +10804,7 @@
 - [BashScan](https://github.com/astryzia/BashScan) - BashScan is a port scanner built to utilize /dev/tcp for network and service discovery on systems that have limitations or are otherwise unable to use alternative scanning solutions such as nmap.
 - [org-popup](https://github.com/Parveshdhull/org-popup) - Take notes for emacs org-mode using pop-ups
 - [evilFTP](https://github.com/vp777/evilFTP) - SSRF to TCP Port Scanning, Banner and Private IP Disclosure by abusing the FTP protocol/clients
-- [valheim-server-docker](https://github.com/lloesche/valheim-server-docker) - Valheim dedicated gameserver with automatic update, World backup and ValheimPlus mod support
+- [valheim-server-docker](https://github.com/lloesche/valheim-server-docker) - Valheim dedicated gameserver with automatic update, World backup, BepInEx and ValheimPlus mod support
 - [ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [DHTP](https://github.com/KuriKai/DHTP) - DOOM High Resolution Texture Project
 - [fnt](https://github.com/alexmyczko/fnt) - apt for fonts, the missing font manager for macOS/linux
@@ -11756,7 +11776,7 @@
 - [yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for Yaml Files
 - [dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
-- [zero](https://github.com/sinclairzx81/zero) - 3D Graphics Rendering Pipeline. Implemented in JavaScript. Run in a terminal.
+- [zero](https://github.com/sinclairzx81/zero) - A 3D renderer written in JavaScript and rendered to the terminal.
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
@@ -11791,6 +11811,7 @@
 - [vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
 - [Steward](https://github.com/solobat/Steward) - A command launcher for Chrome
 - [mouse-dictionary](https://github.com/wtetsu/mouse-dictionary) - 📘A super fast dictionary for Chrome/Firefox
+- [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line. :hammer:
 - [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
