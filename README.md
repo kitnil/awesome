@@ -254,7 +254,7 @@
 - [devour](https://github.com/salman-abedin/devour) - X11 window swallower
 - [io](https://github.com/IoLanguage/io) - Io programming language. Inspired by Self, Smalltalk and LISP.
 - [amqp-client](https://github.com/galtet/amqp-client) - A wrapper for the amqp rabbitmqlib in lua
-- [doslinux](https://github.com/charliesome/doslinux) - Run Linux programs on DOS
+- [doslinux](https://github.com/haileysome/doslinux) - Run Linux programs on DOS
 - [minigolf](https://github.com/mgerdes/minigolf) - A minigolf game written without a game engine in C
 - [fio](https://github.com/axboe/fio) - Flexible I/O Tester
 - [ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
@@ -1059,6 +1059,7 @@
 
 ## C++ 
 
+- [arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
 - [ZombieV](https://github.com/johnBuffer/ZombieV) - Top down Zombie shooter game in C++ using SFML as graphics library
 - [AntSimulator](https://github.com/johnBuffer/AntSimulator) - Simple Ants simulator
 - [whatsapp-for-linux](https://github.com/eneshecan/whatsapp-for-linux) - An unofficial WhatsApp desktop application for Linux.
@@ -1450,7 +1451,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.0.2.37474, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.0.5.38134, 3.3.5 = 3.3.5a.12340)
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
@@ -1764,6 +1765,7 @@
 
 ## Common Lisp 
 
+- [clog](https://github.com/rabbibotton/clog) - CLOG - The Common Lisp Omnificent GUI
 - [multiposter](https://github.com/Shinmera/multiposter) - Small application to post to multiple services simultaneously
 - [make-hash](https://github.com/genovese/make-hash) - A Common Lisp package for hash table creation with flexible, extensible initializers.
 - [common-lisp-by-example](https://github.com/ashok-khanna/common-lisp-by-example) - Repo for Common Lisp by Example
@@ -2116,6 +2118,19 @@
 
 ## Emacs Lisp 
 
+- [baff](https://github.com/dave-f/baff) - Create a header containing a byte array generated from a file
+- [sound-wav](https://github.com/emacsorphanage/sound-wav) - Play wav file
+- [emacs-director](https://github.com/bard/emacs-director) - Simulate Emacs user sessions. For end-to-end testing and hands-free screencast recording
+- [flymake-flycheck](https://github.com/purcell/flymake-flycheck) - Use any Emacs flycheck checker as a flymake backend
+- [vundo](https://github.com/casouri/vundo) - Visualize the undo tree.
+- [bufler.el](https://github.com/alphapapa/bufler.el) - A butler for your buffers.  Group buffers into workspaces with programmable rules, and easily switch to and manipulate them.
+- [emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - System-wide popup Emacs windows for quick edits
+- [gkroam](https://github.com/Kinneyzhang/gkroam) - A lightweight roam replica on top of emacs org-mode.
+- [mu4e-dashboard](https://github.com/rougier/mu4e-dashboard) - A dashboard for mu4e (mu for emacs)
+- [org-transclusion](https://github.com/nobiot/org-transclusion) - (alpha) Emacs package to enable transclusion with Org Mode
+- [emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
+- [gnus](https://github.com/dickmao/gnus) - Major changes to Gnus
+- [gnus-nnmaild](https://github.com/juanjosegarciaripoll/gnus-nnmaild) - Maildir backend for Gnus
 - [kbd-mode](https://github.com/slotThe/kbd-mode) - Emacs mode for syntax highlighting kmonad's .kbd files.
 - [flycheck-plantuml](https://github.com/alexmurray/flycheck-plantuml) - Integrate plantuml with flycheck for automatic syntax errors highlighting in Emacs
 - [rii](https://github.com/ROCKTAKEY/rii) - Reversible input interface for multiple input.
@@ -3924,6 +3939,9 @@
 
 ## Go 
 
+- [terraform-provider-nix](https://github.com/andrewchambers/terraform-provider-nix) - terraform provider that manages nix builds and nixos machines.
+- [elasticsql](https://github.com/cch123/elasticsql) - convert sql to elasticsearch DSL in golang(go)
+- [asm-cli](https://github.com/cch123/asm-cli) - Interactive shell of assembly language(X86/X64) based on unicorn and keystone
 - [cgofuse](https://github.com/billziss-gh/cgofuse) - Cross-platform FUSE library for Go - Works on Windows, macOS, Linux, FreeBSD, NetBSD, OpenBSD
 - [hubfs](https://github.com/billziss-gh/hubfs) - File system for GitHub
 - [wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang).
@@ -5070,6 +5088,7 @@
 
 ## Groovy 
 
+- [pipeline-library](https://github.com/jenkins-infra/pipeline-library) - Collection of custom steps and variables for our Jenkins instance(s)
 - [geb](https://github.com/geb/geb) - Very Groovy Browser Automation
 - [betamax](https://github.com/betamaxteam/betamax) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests. The project was inspired by the VCR library for Ruby.
 - [json-io](https://github.com/jdereg/json-io) - Convert Java to JSON. Convert JSON to Java.  Pretty print JSON.  Java JSON serializer.
@@ -5312,6 +5331,7 @@
 
 ## Haskell 
 
+- [haskell-music](https://github.com/tsoding/haskell-music) - Source Code from "Making Music with Haskell" video
 - [dex-lang](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family
 - [izuna](https://github.com/matsumonkie/izuna) - Show Haskell type annotations when doing code review on Github
 - [nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
@@ -5559,6 +5579,9 @@
 
 ## Java 
 
+- [ircbot](https://github.com/jenkins-infra/ircbot) - Jenkins IRCbot
+- [closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
+- [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Better YouTube experience on Android TV
 - [AndroidCamera](https://github.com/aserbao/AndroidCamera) - 🔥🔥🔥自定义Android相机(仿抖音 TikTok)，其中功能包括视频人脸识别贴纸，分段录制，视频裁剪，视频帧处理，获取视频关键帧，视频旋转，添加滤镜，添加水印，合成Gif到视频，文字转视频，图片转视频，音视频合成，音频变声处理，SoundTouch，Fmod音频处理。 Android camera(imitation Tik Tok), which includes video editor,audio editor,video face recognition stickers, segment recording,video cropping, video frame processing, get the first video frame, key frame, video rotation, add filter Mirror ,add watermark ,add gif to video, add text to video, picture to video, audio and video synthesis, audio change processing, SoundTouch, Fmod audio processing.
 - [scan-gradle-plugin](https://github.com/sonatype-nexus-community/scan-gradle-plugin) - Gradle plugin that scans the dependencies of a Gradle project using Sonatype platforms: OSS Index and Nexus IQ Server.
 - [plantuml-server](https://github.com/plantuml/plantuml-server) - PlantUML Online Server
@@ -6251,7 +6274,6 @@
 - [hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [serve](https://github.com/vercel/serve) - Static file serving and directory listing
-- [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [LLTHW](https://github.com/blackbranesys/LLTHW) - Learn Lisp The Hard Way source-code and full book text
 - [darkmatter](https://github.com/tamamu/darkmatter) - The notebook-style Common Lisp environment
@@ -6820,6 +6842,8 @@
 
 ## Lua 
 
+- [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
+- [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
 - [gifine](https://github.com/leafo/gifine) - Quickly record and edit gifs and videos of your desktop
 - [awesome-wm-nice](https://github.com/mut-ex/awesome-wm-nice) - An Awesome WM module that add MacOS-like window decorations, with seamless titlebars, double click to maximize, and window shade feature
 - [inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables
@@ -6964,6 +6988,11 @@
 
 ## Nix 
 
+- [nix-haskell-monorepo](https://github.com/fghibellini/nix-haskell-monorepo) - Pragmatic tutorial on how to use nix with a haskell monorepo
+- [robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
+- [bitte](https://github.com/input-output-hk/bitte) - Nix Ops for Terraform, Consul, Vault, Nomad
+- [dconf2nix](https://github.com/gvolpe/dconf2nix) - :feet: Convert Dconf files (Gnome Shell) to Nix, as expected by Home Manager.
+- [rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay for binary distributed rust toolchains
 - [easy-hls-nix](https://github.com/jkachmar/easy-hls-nix) - Easy Haskell Language Server tooling with Nix!
 - [nixpkgs-terraform](https://github.com/numtide/nixpkgs-terraform) - terraform-related packages with Nix
 - [simple-vms](https://github.com/MarcoPolo/simple-vms) - Simple VMs in NixOS
@@ -8460,7 +8489,7 @@
 - [redditfs](https://github.com/ianpreston/redditfs) - ls -l /r/programming
 - [hyperjson](https://github.com/mre/hyperjson) - A hyper-fast Python module for reading/writing JSON data using Rust's serde-json.
 - [basecrack](https://github.com/mufeedvh/basecrack) - Decode All Bases - Base Scheme Decoder
-- [mmocr](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection and Recognition Toolbox
+- [mmocr](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection, Recognition and Understanding Toolbox
 - [splinter](https://github.com/cobrateam/splinter) - splinter - python test framework for web applications
 - [selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
 - [sillynium](https://github.com/con-dog/sillynium) - Automate the creation of Python Selenium Scripts by drawing coloured boxes on webpage elements
@@ -8544,7 +8573,7 @@
 - [designate](https://github.com/openstack/designate) - OpenStack DNS As A Service (Designate). Mirror of code maintained at opendev.org.
 - [timezones-cli](https://github.com/yankeexe/timezones-cli) - CLI Tool to store and glance date time from multiple time zones.
 - [jsonresume-fake](https://github.com/jsonresume/jsonresume-fake) - Fully generated fake resumes using machine learning models trained off ~6000 JSON resumes.
-- [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
+- [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
 - [kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [org-du](https://github.com/novoid/org-du) - Visualizing Emacs Org-mode heading lines using du and xdu
 - [integratethis](https://github.com/novoid/integratethis) - Integrate programs or scripts into common tools like Windows Explorer context menu
@@ -10353,6 +10382,87 @@
 
 ## Rust 
 
+- [TLS-poison](https://github.com/jmdx/TLS-poison) - 
+- [rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
+- [lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, resource-friendly link checker written in Rust. Finds broken hyperlinks and mail addresses inside Markdown, HTML, reStructuredText, and more!
+- [cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
+- [SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
+- [MozWire](https://github.com/NilsIrl/MozWire) - MozWire is an unofficial configuration manager giving Linux, macOS users (among others), access to MozillaVPN.
+- [globe](https://github.com/adamsky/globe) - Interactive ASCII globe generator
+- [tab-rs](https://github.com/austinjones/tab-rs) - The intuitive, config-driven terminal multiplexer designed for software & systems engineers
+- [libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
+- [keyboard-configurator](https://github.com/pop-os/keyboard-configurator) - Keyboard configuration UI
+- [feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
+- [hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests.
+- [snuffy](https://github.com/alessandrod/snuffy) - Snuffy is a simple command line tool to inspect SSL/TLS data.
+- [bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
+- [lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang inspired runtime for WebAssembly
+- [zellij](https://github.com/zellij-org/zellij) - Terminal workspace (WIP)
+- [pipe-rename](https://github.com/marcusbuffett/pipe-rename) - Rename your files using your favorite text editor
+- [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+- [fhc](https://github.com/Edu4rdSHL/fhc) - Fast HTTP Checker.
+- [leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
+- [ktra](https://github.com/moriturus/ktra) - Your Little Cargo Registry
+- [onagre](https://github.com/oknozor/onagre) - A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred
+- [cheese](https://github.com/expenses/cheese) - A RTS about mice on the moon made for the 2020 Github Game Off
+- [hotpatch](https://github.com/Shizcow/hotpatch) - Changing function definitions at runtime in Rust
+- [Algorithms](https://github.com/TianyiShi2001/Algorithms) - Algorithms implemented in Rust, explained.
+- [bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
+- [cron](https://github.com/zslayton/cron) - A cron expression parser in Rust
+- [otto](https://github.com/rtyler/otto) - Otto is your friendly continuous delivery companion.
+- [jdp](https://github.com/rtyler/jdp) - Jenkins Declarative Parser
+- [voyager](https://github.com/mattsse/voyager) - crawl and scrape web pages in rust
+- [himalaya](https://github.com/soywod/himalaya) - 📫 Minimalist CLI email client, written in Rust.
+- [rsraft](https://github.com/laurocaetano/rsraft) - Raft implementation in Rust
+- [StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
+- [rust_sqlite](https://github.com/joaoh82/rust_sqlite) - SQLite clone from scratch in Rust
+- [rhit](https://github.com/Canop/rhit) - A nginx log explorer
+- [learn-rust](https://github.com/higker/learn-rust) - https://getrust.tech
+- [valheim-docker](https://github.com/mbround18/valheim-docker) - Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interface.
+- [telegrand](https://github.com/melix99/telegrand) - A GTK4 telegram client built to be well integrated with the GNOME desktop environment.
+- [glitter](https://github.com/Milo123459/glitter) - 🌌⭐ Git tooling of the future.
+- [yatta](https://github.com/LGUG2Z/yatta) - A tiling window manager for Windows 10 based on binary space partitioning
+- [CalcuLaTeX](https://github.com/mkhan45/CalcuLaTeX) - A pretty printing calculator language with support for units. Makes calculations easier using variables and visual feedback.
+- [ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
+- [tai](https://github.com/MustafaSalih1993/tai) - tai (Terminal Ascii Image) tool to convert images to ascii written in Rust
+- [byztimed](https://github.com/akamai-contrib/byztimed) - Byzantine-fault-tolerant time synchronization
+- [cproxy](https://github.com/NOBLES5E/cproxy) - Easy per application transparent proxy built on cgroup.
+- [Myxer](https://github.com/Aurailus/Myxer) - A modern Volume Mixer for PulseAudio.
+- [uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - fastest text uwuifier in the west
+- [bitmapflow](https://github.com/Bauxitedev/bitmapflow) - A tool to generate inbetweens for animated sprites, written in godot-rust
+- [lohr](https://github.com/alarsyo/lohr) - Git mirroring daemon
+- [dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
+- [redis-rs](https://github.com/mitsuhiko/redis-rs) - Redis library for rust
+- [platform-info](https://github.com/uutils/platform-info) - A cross-platform way to get information about your machine
+- [findutils](https://github.com/uutils/findutils) - Rust implementation of findutils
+- [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+- [scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
+- [emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
+- [cocom](https://github.com/LamdaLamdaLamda/cocom) - NTP-client, purely written in Rust!
+- [fblog](https://github.com/brocode/fblog) - Small command-line JSON Log viewer
+- [magog](https://github.com/rsaarelm/magog) - A roguelike game in Rust
+- [updns](https://github.com/wyhaya/updns) - DNS proxy tool
+- [asm-cli-rust](https://github.com/cch123/asm-cli-rust) - interative assembly shell written in rust
+- [zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
+- [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+- [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
+- [just](https://github.com/casey/just) - 🤖 Just a command runner
+- [abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
+- [Findomain](https://github.com/Findomain/Findomain) - The fastest and cross-platform subdomain enumerator, do not waste your time.
+- [rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
+- [ajour](https://github.com/ajour/ajour) - A World of Warcraft addon manager written in Rust.
+- [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
+- [rustdesk](https://github.com/rustdesk/rustdesk) - The best open source remote desktop software
+- [spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
+- [psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
+- [notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
+- [bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
+- [display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
+- [paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
+- [ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
+- [Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
 - [seclip](https://github.com/mufeedvh/seclip) - A CLI utility to secretly copy secrets to clipboard. :lock::memo:
 - [spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
@@ -10371,7 +10481,7 @@
 - [similar](https://github.com/mitsuhiko/similar) - A high level diffing library for rust based on diffs
 - [chess-engine](https://github.com/adam-mcdaniel/chess-engine) - A dependency-free chess engine library built to run anywhere.
 - [img2utf](https://github.com/lf94/img2utf) - Converts images into textual line art.
-- [dog](https://github.com/ogham/dog) - Command-line DNS client
+- [dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [drill](https://github.com/fcsonline/drill) - Drill is a HTTP load testing application written in Rust  inspired by Ansible syntax
 - [s3ar](https://github.com/cookpad/s3ar) - A massively fast S3 downloader/uploader
 - [deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
@@ -10708,6 +10818,9 @@
 
 ## Scheme 
 
+- [scheme-to-llvm](https://github.com/akeep/scheme-to-llvm) - A compiler to compile a simple subset of scheme to LLVM 10
+- [guile-telegram](https://github.com/artyom-poptsov/guile-telegram) - Telegram bot API for GNU Guile
+- [guile-ics](https://github.com/artyom-poptsov/guile-ics) - iCalendar (RFC5545) format parser for GNU Guile.
 - [my-guix-channel](https://github.com/benoitj/my-guix-channel) - guix related packages not yet in guix, or that will not be in guix
 - [rde](https://github.com/abcdw/rde) - Tools for managing reproducible development environments. Mirror of https://sr.ht/abcdw/rde/
 - [potato-make](https://github.com/spk121/potato-make) - Library to write makefiles in the GNU Guile dialect of the Scheme programming language.
@@ -10796,6 +10909,8 @@
 
 ## Shell 
 
+- [elasticsearch-in-action](https://github.com/dakrone/elasticsearch-in-action) - Offical code repository for the Elasticsearch in Action book from Manning
+- [rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
 - [yaml-editor](https://github.com/yaml/yaml-editor) - Edit YAML and see it processed by various processors
 - [kangaroo](https://github.com/dbkangaroo/kangaroo) - Kangaroo is a SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
 - [linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
@@ -11805,6 +11920,7 @@
 - [graphql-cli](https://github.com/Urigo/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
 - [cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - An Electron based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux
+- [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
 - [docker-cloudflare](https://github.com/joshuaavalon/docker-cloudflare) - Cloudflare DDNS minimal docker.
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
