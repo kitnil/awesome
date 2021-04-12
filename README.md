@@ -191,6 +191,7 @@
 
 ## C 
 
+- [zps](https://github.com/orhun/zps) - A small utility for listing and reaping zombie processes on GNU/Linux.
 - [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
 - [trinity](https://github.com/wlanjie/trinity) - android video record editor muxer sdk
 - [ympd](https://github.com/notandy/ympd) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
@@ -2040,7 +2041,6 @@
 - [dockerfiles](https://github.com/ilyaglow/dockerfiles) - 🌊 Dockerfiles for apps I use. Also take a look at https://github.com/security-dockerfiles
 - [onionize-docker](https://github.com/torservers/onionize-docker) - Tor v3 onion services (hidden services) for Docker containers
 - [docker-tor-simple](https://github.com/osminogin/docker-tor-simple) - Simplest minimal container for Tor anonymity software
-- [aind](https://github.com/aind-containers/aind) - AinD: Android in Docker. Ain't an emulator.
 - [elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics. Up with a Single Command.
 - [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx 1.19.4 (mainline) with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli, NJS support, and 10 MB size. All built on the bleeding edge for max performance. Built on the edge, for the edge.
 - [localdots](https://github.com/luisfarzati/localdots) - HTTPS domains for localhost. 🏠
@@ -3939,6 +3939,9 @@
 
 ## Go 
 
+- [gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
+- [steven-go](https://github.com/Thinkofname/steven-go) - Go Minecraft Client
+- [pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
 - [terraform-provider-nix](https://github.com/andrewchambers/terraform-provider-nix) - terraform provider that manages nix builds and nixos machines.
 - [elasticsql](https://github.com/cch123/elasticsql) - convert sql to elasticsearch DSL in golang(go)
 - [asm-cli](https://github.com/cch123/asm-cli) - Interactive shell of assembly language(X86/X64) based on unicorn and keystone
@@ -6850,7 +6853,6 @@
 - [Penlight](https://github.com/lunarmodules/Penlight) - A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  Much of the functionality is inspired by the Python standard libraries.
 - [geopattern](https://github.com/azoyan/geopattern) - Generate beautiful SVG patterns from a string on Lua (5.1 - 5.4 and LuaJIT)
 - [lua-resty-jq](https://github.com/bungle/lua-resty-jq) - LuaJIT FFI bindings to jq
-- [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [monstercat-visualizer](https://github.com/marcopixel/monstercat-visualizer) - A real time audio visualizer for Rainmeter similar to the ones used in the Monstercat videos.
 - [awesome-config](https://github.com/tony/awesome-config) - :closed_book: Example awesome wm configuration. Includes personalization support (personal.vim), theme, polyglot unicode taglists, mpd support.
 - [awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
@@ -8299,6 +8301,7 @@
 - [draco](https://github.com/andinus/draco) - Draco is a script to convert reddit thread to Org document
 - [x11vis](https://github.com/x11vis/x11vis) - X11 visualizer
 - [Lepr](https://github.com/dnmfarrell/Lepr) - A tiny Lisp like written in Perl
+- [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [iomonitor](https://github.com/osresearch/iomonitor) - Trace IO calls in a process
 - [gitbuilder](https://github.com/apenwarr/gitbuilder) - Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.
 - [git-number](https://github.com/holygeek/git-number) - Use numbers for dealing with files in git
@@ -8486,6 +8489,9 @@
 
 ## Python 
 
+- [InstaPy](https://github.com/timgrossmann/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
+- [rdqdump](https://github.com/jeffbryner/rdqdump) - RabbitMQ .rdq file parser
+- [bgperf](https://github.com/osrg/bgperf) - 
 - [redditfs](https://github.com/ianpreston/redditfs) - ls -l /r/programming
 - [hyperjson](https://github.com/mre/hyperjson) - A hyper-fast Python module for reading/writing JSON data using Rust's serde-json.
 - [basecrack](https://github.com/mufeedvh/basecrack) - Decode All Bases - Base Scheme Decoder
@@ -8700,7 +8706,7 @@
 - [maya](https://github.com/timofurrer/maya) - Datetimes for Humans™
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [igcommit](https://github.com/innogames/igcommit) - Git pre-receive hook to check commits and code style
-- [flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
+- [flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
 - [legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [self-driving-desktop](https://github.com/hofstadter-io/self-driving-desktop) - Desktop Automation Framework. Drive your mouse and keyboard with an easy to use language.
@@ -10189,6 +10195,7 @@
 
 ## Ruby 
 
+- [guix-vm](https://github.com/palfrey/guix-vm) - Scripts and support necessary to make a GuixSD Virtualbox image
 - [dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [k8s-mirror](https://github.com/darkbitio/k8s-mirror) - Creates a local mirror of a Kubernetes cluster in a docker container to support offline reviewing
 - [androidsrc](https://github.com/pyricau/androidsrc) - Find Android sources
@@ -10382,6 +10389,72 @@
 
 ## Rust 
 
+- [git-workspace](https://github.com/orf/git-workspace) - Sync personal and work git repositories from multiple providers :rocket:
+- [jilu](https://github.com/rustic-games/jilu) - Generate a change log based on the state of your Git repository.
+- [kosmonaut](https://github.com/twilco/kosmonaut) - A web browser engine for the space age :rocket:
+- [apng](https://github.com/poccariswet/apng) - animated png encoder 🦀
+- [pixels](https://github.com/parasyte/pixels) - A tiny hardware-accelerated pixel frame buffer. :crab:
+- [selene](https://github.com/Kampfkarren/selene) - A blazing-fast modern Lua linter written in Rust
+- [rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
+- [git-profile](https://github.com/dmfutcher/git-profile) - Simple identity switching for git
+- [stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
+- [rustybgp](https://github.com/osrg/rustybgp) - BGP implemented in the Rust Programming Language
+- [thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
+- [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+- [krustlet](https://github.com/deislabs/krustlet) - Kubernetes Rust Kubelet
+- [flexo](https://github.com/nroi/flexo) - a central pacman cache
+- [keyberon-f4](https://github.com/TeXitoi/keyberon-f4) - A handwired unsplitted ergo keyboard
+- [autoadb](https://github.com/rom1v/autoadb) - Execute a command whenever a device is adb-connected
+- [docuum](https://github.com/stepchowfun/docuum) - Docuum performs least recently used (LRU) eviction of Docker images. 🗑️
+- [copypasta](https://github.com/alacritty/copypasta) - Cross-platform Rust system clipboard library
+- [macroquad](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
+- [grammers](https://github.com/Lonami/grammers) - (tele)gramme.rs - use Telegram's API from Rust
+- [steven](https://github.com/Thinkofname/steven) - Rust Minecraft Client
+- [UniverCity](https://github.com/Thinkofname/UniverCity) - Source code of the game Univercity: https://store.steampowered.com/app/808160/UniverCity/
+- [kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
+- [tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
+- [heliocron](https://github.com/mfreeborn/heliocron) - A command line application written in Rust capable of delaying execution of other programs for time periods relative to sunrise and sunset.
+- [EasySplash](https://github.com/OSSystems/EasySplash) - EasySplash - tool for animated bootsplash screens
+- [pacaptr](https://github.com/rami3l/pacaptr) - Pacman-like syntax wrapper for many package managers.
+- [oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [explain](https://github.com/sanpii/explain) - Transform postgresql explain to a graph
+- [binread](https://github.com/jam1garner/binread) - A Rust crate for helping parse structs from binary data using ✨macro magic✨
+- [node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
+- [sphere_dance](https://github.com/janiorca/sphere_dance) - Using rust to create a real 4K intro
+- [ClojureRS](https://github.com/clojure-rs/ClojureRS) - Clojure, implemented atop Rust (unofficial)
+- [deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
+- [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
+- [shellcaster](https://github.com/jeff-hughes/shellcaster) - Terminal-based podcast manager built in Rust
+- [unused](https://github.com/unused-code/unused) - A tool to identify potentially unused code.
+- [dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page
+- [handlr](https://github.com/chmln/handlr) - A better xdg-utils
+- [pont](https://github.com/mkeeter/pont) - An online board game in Rust and WebAssembly
+- [termimage](https://github.com/nabijaczleweli/termimage) - Display images in your terminal, kind of
+- [shy](https://github.com/xvxx/shy) - 💀 bare-bones ssh launcher
+- [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
+- [neolink](https://github.com/thirtythreeforty/neolink) - An RTSP bridge to Reolink IP cameras
+- [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
+- [milcheck](https://github.com/doums/milcheck) - A small binary that displays the status of your pacman mirrorlist in your terminal
+- [baru](https://github.com/doums/baru) - A system monitor written in Rust and C
+- [dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust with extensive plugin support
+- [rusty-editor](https://github.com/mrDIMAS/rusty-editor) - Scene editor for rg3d engine
+- [Graphite](https://github.com/GraphiteEditor/Graphite) - Open source 2D node-based raster/vector graphics editor (Photoshop + Illustrator + Houdini = Graphite)
+- [tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
+- [grout](https://github.com/tarkah/grout) - Simple tiling window manager for Windows
+- [sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
+- [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) - Checks all your documentation for spelling and grammar mistakes with hunspell and a nlprule based checker for grammar
+- [trickster](https://github.com/neg4n/trickster) - user-friendly linux memory hacking library
+- [scrying](https://github.com/nccgroup/scrying) - A tool for collecting RDP, web and VNC screenshots all in one place
+- [vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
+- [blindfold](https://github.com/Eoin-McMahon/blindfold) - 🔎 Gitignore file generator written in rust
+- [doomfire](https://github.com/r-marques/doomfire) - DOOM fire implementation written in rust
+- [breadx](https://github.com/notgull/breadx) - An implementation of the X Window System Protocol in Rust
+- [pcap2socks](https://github.com/zhxie/pcap2socks) - Redirect traffic to SOCKS proxy with pcap.
+- [dwarf_seeks_fortune](https://github.com/amethyst/dwarf_seeks_fortune) - A 2D puzzle platformer made with the Amethyst game engine.
+- [ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
+- [Boop-GTK](https://github.com/zoeyfyi/Boop-GTK) - Port of @IvanMathy's Boop to GTK, a scriptable scratchpad for developers.
+- [email-parser](https://github.com/Mubelotix/email-parser) - The fastest and lightest mail parsing Rust library.
+- [orogene](https://github.com/orogene/orogene) - A next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects!
 - [TLS-poison](https://github.com/jmdx/TLS-poison) - 
 - [rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, resource-friendly link checker written in Rust. Finds broken hyperlinks and mail addresses inside Markdown, HTML, reStructuredText, and more!
@@ -10587,7 +10660,6 @@
 - [suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [bayard](https://github.com/bayard-search/bayard) - A full-text search and indexing server written in Rust.
-- [rustybgp](https://github.com/osrg/rustybgp) - BGP implemented in the Rust Programming Language
 - [rebuilderd](https://github.com/kpcyrd/rebuilderd) - Independent verification of binary packages - reproducible builds
 - [mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio
 - [fontfor](https://github.com/7sDream/fontfor) - Find fonts which can show a specified character and preview them in terminal or browser.
@@ -10606,7 +10678,6 @@
 - [dmux](https://github.com/zdcthomas/dmux) - A tmux workspace manager
 - [ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
 - [rash](https://github.com/rash-sh/rash) - Declarative shell scripting container oriented
-- [blindfold](https://github.com/Eoin-McMahon/blindfold) - 🔎 Gitignore file generator written in rust
 - [i3-bindings](https://github.com/tupini07/i3-bindings) - Simple tool that reads the i3 config files and shows a table with the bindings defined therein
 - [learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
 - [autopilot-deno](https://github.com/littledivy/autopilot-deno) - :rocket: Cross-platform desktop automation library for Deno.
@@ -11135,6 +11206,7 @@
 - [docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd) - Docker Pure-ftpd Server
 - [gentoo-docker-images](https://github.com/gentoo/gentoo-docker-images) - [MIRROR] Common effort to get an official and automated gentoo base docker container
 - [docker-toran-proxy](https://github.com/cedvan/docker-toran-proxy) - Docker image to launch a toran proxy application self hosted to manage PHP dependencies
+- [aind](https://github.com/aind-containers/aind) - AinD: Android in Docker. Ain't an emulator.
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
 - [open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
