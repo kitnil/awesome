@@ -56,6 +56,7 @@
   - [Hy](#hy)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Jsonnet](#jsonnet)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -492,6 +493,7 @@
 - [s6](https://github.com/skarnet/s6) - The s6 supervision suite.
 - [x1](https://github.com/richardbraun/x1) - Minimalist educational operating system
 - [libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
+- [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [MaxScale](https://github.com/mariadb-corporation/MaxScale) - An intelligent database proxy.
 - [tree-sitter.el](https://github.com/karlotness/tree-sitter.el) - An Emacs dynamic module exposing tree-sitter.
 - [ics-openvpn](https://github.com/schwabe/ics-openvpn) - OpenVPN for Android
@@ -1060,6 +1062,7 @@
 
 ## C++ 
 
+- [ddcui](https://github.com/rockowitz/ddcui) - Graphical user interface for ddcutil - control monitor settings
 - [arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
 - [ZombieV](https://github.com/johnBuffer/ZombieV) - Top down Zombie shooter game in C++ using SFML as graphics library
 - [AntSimulator](https://github.com/johnBuffer/AntSimulator) - Simple Ants simulator
@@ -1201,6 +1204,7 @@
 - [xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World.
 - [stressapptest](https://github.com/stressapptest/stressapptest) - Stressful Application Test - userspace memory and IO test
 - [oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
+- [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [fmit](https://github.com/gillesdegottex/fmit) - Free Music Instrument Tuner (FMIT)
 - [open_spiel](https://github.com/deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 - [pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
@@ -1676,6 +1680,7 @@
 
 ## Clojure 
 
+- [state-flow](https://github.com/nubank/state-flow) - Integration testing framework using a state monad in the backend for building and composing flows
 - [nrepl](https://github.com/nrepl/nrepl) - A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.
 - [carmine](https://github.com/ptaoussanis/carmine) - Redis client and message queue for Clojure
 - [claypoole](https://github.com/TheClimateCorporation/claypoole) - Claypoole: Threadpool tools for Clojure
@@ -2187,7 +2192,7 @@
 - [gitlab-pipeline](https://github.com/TxGVNN/gitlab-pipeline) - Emacs tool to show gitlab-pipeline
 - [org-padding](https://github.com/TonCherAmi/org-padding) - Padding for org-mode.
 - [notmuch-maildir](https://github.com/emacsmirror/notmuch-maildir) - Visualize maildirs as a tree
-- [calibredb.el](https://github.com/chenyanming/calibredb.el) - Yet Another calibre client - An Ebook Management Solution in Emacs.
+- [calibredb.el](https://github.com/chenyanming/calibredb.el) - Emacs calibre client - An Ebook Management Solution in Emacs.
 - [treefactor](https://github.com/cyberthal/treefactor) - Treefactor for Emacs refactors prose and incrementally refiles
 - [with-simulated-input](https://github.com/DarwinAwardWinner/with-simulated-input) - Test your interactive elisp functions non-interactively!
 - [org-ml](https://github.com/ndwarshuis/org-ml) - (formerly om.el) A functional library for org-mode
@@ -4025,13 +4030,13 @@
 - [slick](https://github.com/ExaScience/slick) - The Slick programming language is an s-expression surface syntax for Go.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [wprecon](https://github.com/blackbinn/wprecon) - WPrecon (WordPress Recon), is a vulnerability recognition tool in CMS Wordpress, developed in Go and with scripts in Lua.
-- [mosdns](https://github.com/IrineSistiana/mosdns) - 插件化 DNS 转发/分流器。
+- [mosdns](https://github.com/IrineSistiana/mosdns) - 插件化 DNS 转发器。
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
 - [gitsu](https://github.com/matsuyoshi30/gitsu) - switch git user easily
 - [twitch-cli](https://github.com/twitchdev/twitch-cli) - 
-- [DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive.
+- [DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive/Google Drive.
 - [doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [pbgopy](https://github.com/nakabonne/pbgopy) - Copy and paste between devices
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
@@ -4652,7 +4657,6 @@
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [go-getter](https://github.com/hashicorp/go-getter) - Package for downloading things from a string URL using a variety of protocols.
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
@@ -5204,7 +5208,6 @@
 - [Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more
 - [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
-- [ansible-role-hardening](https://github.com/konstruktoid/ansible-role-hardening) - Ansible role to apply a security baseline. Systemd edition.
 - [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
 - [awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
@@ -5228,7 +5231,6 @@
 - [phpinfo-compare](https://github.com/brettalton/phpinfo-compare) - Compare two phpinfo files across the internet (or localhost)
 - [Org-mode-all-the-thingz](https://github.com/nickanderson/Org-mode-all-the-thingz) - 
 - [uix](https://github.com/roman01la/uix) - Idiomatic ClojureScript interface to modern React.js
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [favioli](https://github.com/ivebencrazy/favioli) - Emoji Favicons for the web. 👊🤯
 - [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
@@ -5240,7 +5242,6 @@
 - [webperl](https://github.com/haukex/webperl) - Run Perl in the browser with WebPerl!
 - [computefreely](https://github.com/snwh/computefreely) - The source of Compute Freely website
 - [ansible-role-kibana](https://github.com/geerlingguy/ansible-role-kibana) - Ansible Role - Kibana
-- [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [modular-admin-html](https://github.com/modularcode/modular-admin-html) - ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version
 - [html](https://github.com/whatwg/html) - HTML Standard
 - [nginx-rate-limit-sandbox](https://github.com/sportebois/nginx-rate-limit-sandbox) - Docker image with various NGINX rate limit settings to play with burst and nodelay settings
@@ -6666,6 +6667,12 @@
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
 - [arch-wiki-md-repo](https://github.com/greg-js/arch-wiki-md-repo) - All arch-wiki articles in markdown format, updated every week
 
+## Jinja 
+
+- [ansible-role-hardening](https://github.com/konstruktoid/ansible-role-hardening) - Ansible role to apply a security baseline. Systemd edition.
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+- [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
+
 ## Jsonnet 
 
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
@@ -6853,6 +6860,7 @@
 - [Penlight](https://github.com/lunarmodules/Penlight) - A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  Much of the functionality is inspired by the Python standard libraries.
 - [geopattern](https://github.com/azoyan/geopattern) - Generate beautiful SVG patterns from a string on Lua (5.1 - 5.4 and LuaJIT)
 - [lua-resty-jq](https://github.com/bungle/lua-resty-jq) - LuaJIT FFI bindings to jq
+- [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [monstercat-visualizer](https://github.com/marcopixel/monstercat-visualizer) - A real time audio visualizer for Rainmeter similar to the ones used in the Monstercat videos.
 - [awesome-config](https://github.com/tony/awesome-config) - :closed_book: Example awesome wm configuration. Includes personalization support (personal.vim), theme, polyglot unicode taglists, mpd support.
 - [awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
@@ -8301,7 +8309,6 @@
 - [draco](https://github.com/andinus/draco) - Draco is a script to convert reddit thread to Org document
 - [x11vis](https://github.com/x11vis/x11vis) - X11 visualizer
 - [Lepr](https://github.com/dnmfarrell/Lepr) - A tiny Lisp like written in Perl
-- [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [iomonitor](https://github.com/osresearch/iomonitor) - Trace IO calls in a process
 - [gitbuilder](https://github.com/apenwarr/gitbuilder) - Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.
 - [git-number](https://github.com/holygeek/git-number) - Use numbers for dealing with files in git
@@ -9318,6 +9325,7 @@
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker written with Django
 - [jsonpyes](https://github.com/xros/jsonpyes) - The tool which imports raw JSON to ElasticSearch in one line of commands
+- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [pyftpdlib](https://github.com/giampaolo/pyftpdlib) - Extremely fast and scalable Python FTP server library
@@ -10800,7 +10808,6 @@
 - [wasp](https://github.com/wasplang/wasp) - a web assembly programming language
 - [rust-belt](https://github.com/johnthagen/rust-belt) - :rocket: Asteroids-like arcade game implemented in Rust ✨
 - [galacritty](https://github.com/unrelentingtech/galacritty) - WIP GTK terminal emulator based on Alacritty
-- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [recover-youtube-videos](https://github.com/cjbassi/recover-youtube-videos) - A cli app that helps you recover privated and deleted videos from your YouTube playlists
 - [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
@@ -12179,7 +12186,6 @@
 ## Zig 
 
 - [learnopengl](https://github.com/cshenton/learnopengl) - https://learnopengl.com tutorials ported to zig
-- [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## sed 
 
