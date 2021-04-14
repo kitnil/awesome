@@ -5248,7 +5248,6 @@
 - [magento-malware-scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest collection of Magento malware
 - [public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
 - [youtube-realtime](https://github.com/akshatmittal/youtube-realtime) - YouTube Realtime Subscriber Count
-- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is an open-source application vulnerability correlation and security orchestration tool.
 - [dropcss](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner
 - [awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
@@ -5268,7 +5267,6 @@
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-- [ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
@@ -6162,6 +6160,7 @@
 - [lintnode](https://github.com/keturn/lintnode) - a JSLint server for more expedient linting
 - [orgmodeweb](https://github.com/borablanca/orgmodeweb) - Web app to view, edit and search org files.
 - [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
+- [bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [flecs-systems-admin](https://github.com/flecs-hub/flecs-systems-admin) - A web dashboard for Flecs
@@ -6672,6 +6671,8 @@
 - [ansible-role-hardening](https://github.com/konstruktoid/ansible-role-hardening) - Ansible role to apply a security baseline. Systemd edition.
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
+- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
+- [ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 
 ## Jsonnet 
 
@@ -10110,7 +10111,6 @@
 - [pathfindR](https://github.com/egeulgen/pathfindR) - pathfindR: Enrichment Analysis Utilizing Active Subnetworks
 - [sjPlot](https://github.com/strengejacke/sjPlot) - sjPlot - Data Visualization for Statistics in Social Science
 - [forcats](https://github.com/tidyverse/forcats) - 🐈🐈🐈🐈: tools for working with categorical variables (factors)
-- [bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [modelr](https://github.com/tidyverse/modelr) - Helper functions for modelling
 - [radiator](https://github.com/thierrygosselin/radiator) - RADseq Data Exploration, Manipulation and Visualization using R
 - [git2rdata](https://github.com/ropensci/git2rdata) - An R package for storing and retrieving data.frames in git repositories.
