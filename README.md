@@ -2020,6 +2020,7 @@
 
 ## Dockerfile 
 
+- [Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 - [vulnerable-nginx](https://github.com/detectify/vulnerable-nginx) - An intentionally vulnerable NGINX setup
 - [docker_using_ansible](https://github.com/nihaldivyam/docker_using_ansible) - Script to Deploy docker and container using ansible
 - [toolset](https://github.com/ansible-community/toolset) - Ansible Toolset combines all ansible development tools in a single container: ansible, ansible-lint and molecule
@@ -2096,6 +2097,7 @@
 
 ## Elixir 
 
+- [teex](https://github.com/doawoo/teex) - Use Elixir like a scripting language, across your system
 - [asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
 - [redis](https://github.com/artemeff/redis) - Redis commands for Elixir
 - [elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) - A community driven style guide for Elixir
