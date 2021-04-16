@@ -100,7 +100,6 @@
   - [Rascal](#rascal)
   - [Reason](#reason)
   - [Ren'Py](#ren'py)
-  - [Ring](#ring)
   - [Riot](#riot)
   - [Roff](#roff)
   - [Ruby](#ruby)
@@ -227,7 +226,6 @@
 - [maiko](https://github.com/Interlisp/maiko) - Medley Interlisp virtual machine
 - [droidcam](https://github.com/dev47apps/droidcam) - GNU/Linux client for DroidCam
 - [ebisp](https://github.com/tsoding/ebisp) - Embedded Lisp
-- [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [emacs-webkit](https://github.com/akirakyle/emacs-webkit) - An Emacs Dynamic Module for WebKit, aka a fully fledged browser inside emacs
 - [xqp](https://github.com/baskerville/xqp) - X Query pointer
@@ -857,6 +855,7 @@
 - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [guile-xosd](https://github.com/alezost/guile-xosd) - Guile bindings for libxosd
+- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library.
 - [Hipmunk](https://github.com/meteficha/Hipmunk) - Haskell binding for Chipmunk, 2D physics engine.
@@ -890,6 +889,7 @@
 - [tmux](https://github.com/tmux/tmux) - tmux source code
 - [FastestWebsiteEver](https://github.com/diracdeltas/FastestWebsiteEver) - ultrafast single TCP packet audio/visual experience
 - [f-stack](https://github.com/F-Stack/f-stack) - F-Stack is an user space  network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
+- [ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
 - [vim.js](https://github.com/coolwanglu/vim.js) - JavaScript port of Vim
 - [rtl8192eu-linux-driver](https://github.com/Mange/rtl8192eu-linux-driver) - Drivers for the rtl8192eu chipset for wireless adapters (D-Link DWA-131 rev E1 included!)
 - [fsarchiver](https://github.com/fdupoux/fsarchiver) - file system archiver for linux
@@ -1085,6 +1085,7 @@
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS Studio which adds many new effects, filters, sources, transitions and encoders - all for free! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
+- [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
 - [2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
 - [libhv](https://github.com/ithewei/libhv) - 🔥 A network library similar to libevent and libuv, for developing TCP/UDP/HTTP/WebSocket client/server.
@@ -1908,7 +1909,6 @@
 - [quickproject](https://github.com/xach/quickproject) - Create a CL project skeleton
 - [Postmodern](https://github.com/marijnh/Postmodern) - A Common Lisp PostgreSQL programming interface
 - [McCLIM](https://github.com/McCLIM/McCLIM) - An implementation of the Common Lisp Interface Manager, version II
-- [cl-tutor](https://github.com/t-cool/cl-tutor) - Common Lisp learning system built on lem
 - [CotD](https://github.com/gwathlobal/CotD) - A Common Lisp roguelike game where Angels and Demons battle in the streets of a Human city
 - [ironclad](https://github.com/sharplispers/ironclad) - A cryptographic toolkit written in Common Lisp
 - [utility](https://github.com/gregcman/utility) - Yet another personal utility library
@@ -4210,7 +4210,7 @@
 - [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [quickhook](https://github.com/dirk/quickhook) - Faster Git hook (pre-commit, etc.) runner
 - [dockerfile](https://github.com/asottile/dockerfile) - Parse a dockerfile into a high-level representation using the official go parser
-- [shellhub](https://github.com/shellhub-io/shellhub) - :computer: ShellHub enables teams to easily access any Linux device behind firewall and NAT.
+- [shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [tracesite](https://github.com/kalbhor/tracesite) - Go implementation of the traceroute tool
 - [go-fileserver](https://github.com/prdpx7/go-fileserver) - A simple HTTP Server to share files over WiFi via Qr Code
 - [gitsee](https://github.com/g14a/gitsee) - The backend service for a Github Visualization tool made for fun, but can be used to get an overview of a candidate during a hiring process.
@@ -6082,7 +6082,7 @@
 - [rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
 - [github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
 - [import-js](https://github.com/Galooshi/import-js) - A tool to simplify importing JS modules
-- [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
+- [iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [eslint-config-standard-react](https://github.com/standard/eslint-config-standard-react) - ESLint Shareable Config for React/JSX support in JavaScript Standard Style
 - [eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
 - [EasyDockerWeb](https://github.com/qfdk/EasyDockerWeb) - A simple Web Ui for Docker using xterm.js, Node.js, dockerode and Socket.io
@@ -6440,7 +6440,7 @@
 - [biwascheme](https://github.com/biwascheme/biwascheme) - Scheme interpreter written in JavaScript
 - [eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
 - [freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
-- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [webrecorder-player](https://github.com/webrecorder/webrecorder-player) - Webrecorder Player for Desktop (OSX/Windows/Linux). (Built with Electron + Webrecorder)
 - [javascript-arithmetic-lab-v-000](https://github.com/learn-co-students/javascript-arithmetic-lab-v-000) - 
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
@@ -7765,7 +7765,7 @@
 - [distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
 - [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) - List of awesome application software built with Common Lisp
 - [Lindbergh-Emulator](https://github.com/JayFoxRox/Lindbergh-Emulator) - A Sega Lindbergh environment / HLE for Linux
-- [awesome-glsl](https://github.com/radixzz/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
+- [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
 - [Guide-to-Modern-OpenGL-Functions](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions) - A guide to using modern OpenGL functions.
 - [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Awesome Vulkan ecosystem
 - [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
@@ -9486,7 +9486,7 @@
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
 - [notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [twitterscraper](https://github.com/taspinar/twitterscraper) - Scrape Twitter for Tweets
-- [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and ReactJS.
+- [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
 - [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions
 - [SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
@@ -10186,10 +10186,6 @@
 
 - [renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
 
-## Ring 
-
-- [ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
-
 ## Riot 
 
 - [docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry
@@ -10763,7 +10759,7 @@
 - [sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [nix-du](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your nix store
 - [nix-user-chroot](https://github.com/nix-community/nix-user-chroot) - Install & Run nix without root permissions (maintainer=@Mic92)
-- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [plato](https://github.com/darvin/plato) - Document reader
 - [lumen](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly
@@ -12029,7 +12025,6 @@
 - [stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [academic-bloggers-toolkit](https://github.com/dsifford/academic-bloggers-toolkit) - WordPress plugin providing an all-in-one solution for effective academic blogging.
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [staticsitegenerators-website](https://github.com/bevry/staticsitegenerators-website) - Website containing the complete listing of static site generators
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
