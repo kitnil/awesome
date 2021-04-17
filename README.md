@@ -3945,6 +3945,7 @@
 
 ## Go 
 
+- [pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI tool which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [steven-go](https://github.com/Thinkofname/steven-go) - Go Minecraft Client
 - [pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
@@ -4036,7 +4037,7 @@
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
 - [gitsu](https://github.com/matsuyoshi30/gitsu) - switch git user easily
-- [twitch-cli](https://github.com/twitchdev/twitch-cli) - 
+- [twitch-cli](https://github.com/twitchdev/twitch-cli) - The official Twitch CLI to make developing on Twitch easier.
 - [DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive/Google Drive.
 - [doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [pbgopy](https://github.com/nakabonne/pbgopy) - Copy and paste between devices
@@ -4581,7 +4582,7 @@
 - [tfnotify](https://github.com/mercari/tfnotify) - A CLI command to parse Terraform execution result and notify it to GitHub
 - [terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere) - Terraform VMware vSphere provider
 - [terraform-provider-oci](https://github.com/terraform-providers/terraform-provider-oci) - Terraform Oracle Cloud Infrastructure provider
-- [terraform-provisioner-ansible](https://github.com/radekg/terraform-provisioner-ansible) - Ansible with Terraform 0.13.x
+- [terraform-provisioner-ansible](https://github.com/radekg/terraform-provisioner-ansible) - Ansible with Terraform 0.14.x
 - [terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) - Terraform Helm provider
 - [terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - Terraform provider to provision infrastructure with Linux's KVM using libvirt
 - [tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
@@ -4648,7 +4649,7 @@
 - [dingo](https://github.com/pforemski/dingo) - A DNS client in Go that supports Google DNS over HTTPS
 - [terraform-provider-template](https://github.com/hashicorp/terraform-provider-template) - Terraform template provider
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
-- [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven network framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+- [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [terraform-provider-null](https://github.com/hashicorp/terraform-provider-null) - Provides constructs that intentionally do nothing, useful in various situations to help orchestrate tricky behavior or work around limitations. This provider is maintained by the HashiCorp Terraform Team.
 - [go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert go test output to junit xml
@@ -5320,6 +5321,7 @@
 - [pykwiki](https://github.com/nullism/pykwiki) - PyKwiki, a static file Python MarkDown wiki rendered by Jinja2
 - [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
 - [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
+- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 - [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 
@@ -6643,7 +6645,6 @@
 - [livereload](https://github.com/mockko/livereload) - LiveReload applies CSS/JS changes to Safari or Chrome w/o reloading the page (and autoreloads the page when HTML changes)
 - [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - Scaffold out a Chrome extension
 - [chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome
-- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 - [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON/JSONP easy to read.
@@ -6942,6 +6943,7 @@
 
 ## Makefile 
 
+- [jenkinsfile-runner-image-packs](https://github.com/jenkinsci/jenkinsfile-runner-image-packs) - Contains custom Jenkinsfile Runner images for common use-cases
 - [awesome-micropython](https://github.com/mcauser/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources.
 - [awesome-dtrace](https://github.com/xen0l/awesome-dtrace) - A curated list of awesome DTrace books, articles, videos, tools and resources.
 - [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
@@ -7001,6 +7003,7 @@
 
 ## Nix 
 
+- [nix-container-images](https://github.com/cloudwatt/nix-container-images) - Write container images as NixOS machines
 - [nix-haskell-monorepo](https://github.com/fghibellini/nix-haskell-monorepo) - Pragmatic tutorial on how to use nix with a haskell monorepo
 - [robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [bitte](https://github.com/input-output-hk/bitte) - Nix Ops for Terraform, Consul, Vault, Nomad
@@ -8527,7 +8530,7 @@
 - [image2csv](https://github.com/artperrin/image2csv) - Convert tables stored as images to an usable .csv file
 - [pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
 - [xeuledoc](https://github.com/Malfrats/xeuledoc) - Fetch information about a public Google document.
-- [CHIRP](https://github.com/cisagov/CHIRP) - A forensic collection tool written in Python.
+- [CHIRP](https://github.com/cisagov/CHIRP) - A DFIR tool written in Python.
 - [pihole-dashboard](https://github.com/santoru/pihole-dashboard) - Minimal and clean dashboard to visualize some stats of Pi-Hole with an E-Ink display attached to your Raspberry Pi
 - [VTSCAN](https://github.com/redcode-labs/VTSCAN) - VirusTotal API script
 - [pihole-panel](https://github.com/daleosm/pihole-panel) - Python/GTK3 based Pi-hole (network-level adblocker) dashboard for stats and more
@@ -10395,6 +10398,8 @@
 
 ## Rust 
 
+- [kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
+- [kubernix](https://github.com/saschagrunert/kubernix) - Single dependency Kubernetes clusters for local testing, experimenting and development
 - [git-workspace](https://github.com/orf/git-workspace) - Sync personal and work git repositories from multiple providers :rocket:
 - [jilu](https://github.com/rustic-games/jilu) - Generate a change log based on the state of your Git repository.
 - [kosmonaut](https://github.com/twilco/kosmonaut) - A web browser engine for the space age :rocket:
@@ -10494,7 +10499,7 @@
 - [himalaya](https://github.com/soywod/himalaya) - 📫 Minimalist CLI email client, written in Rust.
 - [rsraft](https://github.com/laurocaetano/rsraft) - Raft implementation in Rust
 - [StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
-- [rust_sqlite](https://github.com/joaoh82/rust_sqlite) - SQLite clone from scratch in Rust
+- [rust_sqlite](https://github.com/joaoh82/rust_sqlite) - Simple embedded database modeled off SQLite in Rust
 - [rhit](https://github.com/Canop/rhit) - A nginx log explorer
 - [learn-rust](https://github.com/higker/learn-rust) - https://getrust.tech
 - [valheim-docker](https://github.com/mbround18/valheim-docker) - Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interface.
@@ -10985,6 +10990,7 @@
 
 ## Shell 
 
+- [sqliscan](https://github.com/meicookies/sqliscan) - Sqli scanner
 - [elasticsearch-in-action](https://github.com/dakrone/elasticsearch-in-action) - Offical code repository for the Elasticsearch in Action book from Manning
 - [rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
 - [yaml-editor](https://github.com/yaml/yaml-editor) - Edit YAML and see it processed by various processors
@@ -11008,7 +11014,7 @@
 - [notify-ssh-login](https://github.com/T-TutoRapide/notify-ssh-login) - Notification des connexions SSH sur discord
 - [GrafanaTranslator](https://github.com/DmitrySidorow/GrafanaTranslator) - Simple translator | translation for Grafana, developed for Unix-like systems
 - [vfio-single-amdgpu-passthrough](https://github.com/cosminmocan/vfio-single-amdgpu-passthrough) - This repo is a tutorial for single amd gpu passthrough to various qemu VMs
-- [cfetch](https://github.com/kluntze/cfetch) - A simple system information tool for Linux.
+- [cfetch](https://github.com/egargo/cfetch) - A simple system information tool for Linux.
 - [dockerfile-shebang](https://github.com/JakeWharton/dockerfile-shebang) - Treat your Dockerfiles as self-contained, editable scripts
 - [2D-block-texture-pack](https://github.com/ThePotatoKing55/2D-block-texture-pack) - Replaces 3D models with flat textures in the Minecraft GUI.
 - [dns-here](https://github.com/no-gravity/dns-here) - Run a temporary DNS server that resolves a given hostname to the current IP
