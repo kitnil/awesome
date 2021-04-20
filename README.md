@@ -199,7 +199,7 @@
 - [generic-print](https://github.com/exebook/generic-print) - Convenient generic print() for C
 - [zig-gorillas](https://github.com/fabioarnold/zig-gorillas) - A clone of the classic QBasic Gorillas written in the Zig programming language
 - [freehl](https://github.com/eukara/freehl) - Clean-room reimplementation of Half-Life: Deathmatch and Half-Life (Experimental) in QuakeC.
-- [showmethekey](https://github.com/AlynxZhou/showmethekey) - A screenkey alternative that works under Wayland via libinput.
+- [showmethekey](https://github.com/AlynxZhou/showmethekey) - Show keys you typed on screen.
 - [pragha](https://github.com/pragha-music-player/pragha) - Pragha is a Lightweight Music Player for GNU/Linux.
 - [pqiv](https://github.com/phillipberndt/pqiv) - Powerful image viewer with minimal UI
 - [srain](https://github.com/SrainApp/srain) - Modern IRC client written in GTK
@@ -231,6 +231,7 @@
 - [emacs-webkit](https://github.com/akirakyle/emacs-webkit) - An Emacs Dynamic Module for WebKit, aka a fully fledged browser inside emacs
 - [xqp](https://github.com/baskerville/xqp) - X Query pointer
 - [xtitle](https://github.com/baskerville/xtitle) - Outputs X window titles
+- [libhv](https://github.com/ithewei/libhv) - 🔥 A network library similar to libevent and libuv, for developing TCP/UDP/HTTP/WebSocket client/server.
 - [pam-gnupg](https://github.com/cruegge/pam-gnupg) - Unlock GnuPG keys on login
 - [long-shebang](https://github.com/shlevy/long-shebang) - A tool for #! scripts with more than one argument
 - [bgpdump](https://github.com/RIPE-NCC/bgpdump) - Utility and C Library for parsing MRT files
@@ -492,7 +493,6 @@
 - [s6](https://github.com/skarnet/s6) - The s6 supervision suite.
 - [x1](https://github.com/richardbraun/x1) - Minimalist educational operating system
 - [libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
-- [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [MaxScale](https://github.com/mariadb-corporation/MaxScale) - An intelligent database proxy.
 - [tree-sitter.el](https://github.com/karlotness/tree-sitter.el) - An Emacs dynamic module exposing tree-sitter.
 - [ics-openvpn](https://github.com/schwabe/ics-openvpn) - OpenVPN for Android
@@ -1091,7 +1091,6 @@
 - [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
 - [2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
-- [libhv](https://github.com/ithewei/libhv) - 🔥 A network library similar to libevent and libuv, for developing TCP/UDP/HTTP/WebSocket client/server.
 - [solidity](https://github.com/ethereum/solidity) - Solidity, the Contract-Oriented Programming Language
 - [clip](https://github.com/dacap/clip) - Cross-platform C++ library to copy/paste clipboard content
 - [ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
@@ -3542,7 +3541,7 @@
 - [cucumber.el](https://github.com/michaelklishin/cucumber.el) - Emacs mode for editing Cucumber plain text stories
 - [graphene](https://github.com/rdallasgray/graphene) - A set of defaults for Emacs, for refugees from GUI text editors.
 - [darkroom](https://github.com/joaotavora/darkroom) - Simple distraction-free editing
-- [olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode for a nice writing environment
+- [olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode to automatically balance window margins
 - [org-edit-latex](https://github.com/et2010/org-edit-latex) - Edit LaTeX fragments like editing src blocks
 - [highlight-indent-guides](https://github.com/DarthFennec/highlight-indent-guides) - Emacs minor mode to highlight indentation
 - [rainbow-delimiters](https://github.com/jlr/rainbow-delimiters) - Emacs rainbow delimiters mode
@@ -4011,7 +4010,7 @@
 - [germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code
 - [shieldwall](https://github.com/evilsocket/shieldwall) - zero-trust remote firewall instrumentation
 - [confused](https://github.com/visma-prodsec/confused) - Tool to check for dependency confusion vulnerabilities in multiple package management systems
-- [tsukae](https://github.com/irevenko/tsukae) - 🧑‍💻📊 Show off your most used shell commands
+- [tsukae](https://github.com/irevenko/tsukae) - 🐚📊 Show off your most used shell commands
 - [cosign](https://github.com/sigstore/cosign) - Container Signing
 - [generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
@@ -4438,7 +4437,7 @@
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
 - [Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
 - [cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
-- [lefthook](https://github.com/Arkweid/lefthook) - Fast and powerful Git hooks manager for any type of projects.
+- [lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [tfsec](https://github.com/tfsec/tfsec) - 🔒🌍 Security scanner for your Terraform code
@@ -5324,6 +5323,7 @@
 - [DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
 - [pykwiki](https://github.com/nullism/pykwiki) - PyKwiki, a static file Python MarkDown wiki rendered by Jinja2
 - [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
+- [pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
@@ -7396,7 +7396,7 @@
 - [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab) - A curated list of awesome JupyterLab extensions and resources
 - [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 - [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
-- [awesome-devblog](https://github.com/sarojaba/awesome-devblog) - 어썸데브블로그. 국내 개발 블로그 모음(only 실명으로).
+- [awesome-devblog](https://github.com/sarojaba/awesome-devblog) - 어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로).
 - [awesome-casestudy](https://github.com/luruke/awesome-casestudy) - 📕  Curated list of technical case studies on WebGL and creative development
 - [datascience](https://github.com/r0f1/datascience) - Curated list of Python resources for data science.
 - [awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
@@ -8448,7 +8448,7 @@
 - [debbugs](https://github.com/dondelelcaro/debbugs) - Debian Bug Tracking System
 - [cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [clusterssh](https://github.com/duncs/clusterssh) - Cluster SSH - Cluster Admin Via SSH
-- [devscripts](https://github.com/Debian/devscripts) - Mirror of https://salsa.debian.org/deban/devscripts.git
+- [devscripts](https://github.com/Debian/devscripts) - Mirror of https://salsa.debian.org/debian/devscripts.git
 - [inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 
@@ -10018,7 +10018,6 @@
 - [ghp-import](https://github.com/c-w/ghp-import) - Easily import docs to your gh-pages branch.
 - [screenkey](https://github.com/wavexx/screenkey) - A screencast tool to display your keys inspired by Screenflick
 - [floobits-emacs](https://github.com/Floobits/floobits-emacs) - Floobits plugin for emacs
-- [pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [logbook](https://github.com/getlogbook/logbook) - A cool logging replacement for Python.
 - [selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
 - [pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
@@ -10491,7 +10490,7 @@
 - [snuffy](https://github.com/alessandrod/snuffy) - Snuffy is a simple command line tool to inspect SSL/TLS data.
 - [bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
 - [lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang inspired runtime for WebAssembly
-- [zellij](https://github.com/zellij-org/zellij) - Terminal workspace (WIP)
+- [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [pipe-rename](https://github.com/marcusbuffett/pipe-rename) - Rename your files using your favorite text editor
 - [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [fhc](https://github.com/Edu4rdSHL/fhc) - Fast HTTP Checker.
@@ -10547,7 +10546,7 @@
 - [Findomain](https://github.com/Findomain/Findomain) - The fastest and cross-platform subdomain enumerator, do not waste your time.
 - [rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [ajour](https://github.com/ajour/ajour) - A World of Warcraft addon manager written in Rust.
-- [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
+- [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [rustdesk](https://github.com/rustdesk/rustdesk) - The best open source remote desktop software
 - [spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
@@ -10895,7 +10894,6 @@
 - [coursier](https://github.com/coursier/coursier) - Pure Scala Artifact Fetching
 - [diffy](https://github.com/opendiffy/diffy) - 
 - [intellij-haskell](https://github.com/rikvdkleij/intellij-haskell) - IntelliJ plugin for Haskell
-- [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [metals](https://github.com/scalameta/metals) - Scala language server with rich IDE features 🚀
 - [enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [abandon](https://github.com/hrj/abandon) - :relieved: Simple and Robust Accounting
@@ -11125,7 +11123,7 @@
 - [wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - 🌐 Guide and tools to run a full offline mirror of Wikipedia.org with three different approaches: Nginx caching proxy, Kiwix + ZIM dump, and MediaWiki/XOWA + XML dump
 - [easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC+musl for static executables
-- [nb](https://github.com/xwmx/nb) - CLI plain text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
+- [nb](https://github.com/xwmx/nb) - CLI and local web plain text note-taking, bookmarking, and archiving with encryption, filtering & search, Git-backed versioning & syncing, Pandoc-backed conversion, + more in a single portable script.
 - [synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
 - [jinx](https://github.com/pretzelhands/jinx) - ✨jinx - a magical nginx wrapper
 - [prm](https://github.com/EivindArvesen/prm) - A minimal project manager for the terminal.
@@ -11984,6 +11982,7 @@
 - [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from "terraform plan" and converting it to JSON.
 - [deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
+- [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for Yaml Files
 - [dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
@@ -12202,6 +12201,7 @@
 ## Zig 
 
 - [learnopengl](https://github.com/cshenton/learnopengl) - https://learnopengl.com tutorials ported to zig
+- [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## sed 
 
