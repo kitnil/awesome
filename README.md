@@ -1099,7 +1099,7 @@
 - [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
 - [2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
-- [solidity](https://github.com/ethereum/solidity) - Solidity, the Contract-Oriented Programming Language
+- [solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [clip](https://github.com/dacap/clip) - Cross-platform C++ library to copy/paste clipboard content
 - [ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [wmderland](https://github.com/aesophor/wmderland) - 🌳 X11 tiling window manager using space partitioning trees
@@ -1691,6 +1691,7 @@
 
 ## Clojure 
 
+- [clojure-spring](https://github.com/jakubriegel/clojure-spring) - Demo of using Spring in Clojure with some Java integration
 - [state-flow](https://github.com/nubank/state-flow) - Integration testing framework using a state monad in the backend for building and composing flows
 - [nrepl](https://github.com/nrepl/nrepl) - A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.
 - [carmine](https://github.com/ptaoussanis/carmine) - Redis client and message queue for Clojure
@@ -6791,6 +6792,7 @@
 
 ## Kotlin 
 
+- [kotlin-shell](https://github.com/jakubriegel/kotlin-shell) - Tool for performing shell-like programing in Kotlin
 - [zircon](https://github.com/Hexworks/zircon) - Zircon is an extensible and user-friendly, multiplatform tile engine.
 - [kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Intelligent Kotlin support for any editor/IDE using the Language Server Protocol
 - [VancedManager](https://github.com/YTVanced/VancedManager) - Vanced Installer
@@ -8868,7 +8870,7 @@
 - [darts](https://github.com/quark0/darts) - Differentiable architecture search for convolutional and recurrent networks
 - [trfl](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning
 - [dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
-- [pytheory](https://github.com/kenreitz42/pytheory) - Music Theory for Humans.
+- [pytheory](https://github.com/kennethreitz/pytheory) - Music Theory for Humans.
 - [ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
 - [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection research papers with implementations.
 - [image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
@@ -8894,7 +8896,7 @@
 - [PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies) - a simple PlantsVsZombies game
 - [gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
 - [DeepPrivacy](https://github.com/hukkelas/DeepPrivacy) - DeepPrivacy: A Generative Adversarial Network for Face Anonymization
-- [bake](https://github.com/kenreitz42/bake) - Bake — the strangely familiar workflow utility.
+- [bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar workflow utility.
 - [ru_transformers](https://github.com/mgrankin/ru_transformers) - 
 - [fav-up](https://github.com/pielco11/fav-up) - IP lookup by favicon using Shodan
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
@@ -10489,7 +10491,7 @@
 - [baru](https://github.com/doums/baru) - A system monitor written in Rust and C
 - [dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust with extensive plugin support
 - [rusty-editor](https://github.com/mrDIMAS/rusty-editor) - Scene editor for rg3d engine
-- [Graphite](https://github.com/GraphiteEditor/Graphite) - Open source 2D node-based raster/vector graphics editor (Photoshop + Illustrator + Houdini = Graphite)
+- [Graphite](https://github.com/GraphiteEditor/Graphite) - Fully nondestructive, node-based raster and vector graphics editing (Photoshop + Illustrator + Houdini = Graphite)
 - [tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
 - [grout](https://github.com/tarkah/grout) - Simple tiling window manager for Windows
 - [sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
@@ -11054,7 +11056,7 @@
 - [notify-ssh-login](https://github.com/T-TutoRapide/notify-ssh-login) - Notification des connexions SSH sur discord
 - [GrafanaTranslator](https://github.com/DmitrySidorow/GrafanaTranslator) - Simple translator | translation for Grafana, developed for Unix-like systems
 - [vfio-single-amdgpu-passthrough](https://github.com/cosminmocan/vfio-single-amdgpu-passthrough) - This repo is a tutorial for single amd gpu passthrough to various qemu VMs
-- [cfetch](https://github.com/egargo/cfetch) - A simple system information tool for Linux.
+- [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux.
 - [dockerfile-shebang](https://github.com/JakeWharton/dockerfile-shebang) - Treat your Dockerfiles as self-contained, editable scripts
 - [2D-block-texture-pack](https://github.com/ThePotatoKing55/2D-block-texture-pack) - Replaces 3D models with flat textures in the Minecraft GUI.
 - [dns-here](https://github.com/no-gravity/dns-here) - Run a temporary DNS server that resolves a given hostname to the current IP
@@ -11143,7 +11145,7 @@
 - [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [screen-workdir.sh](https://github.com/gutierri/screen-workdir.sh) - Utility to create session with the current folder name on GNU Screen
 - [sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
-- [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash, zsh and all POSIX shells)
+- [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (full support for all POSIX shells)
 - [registrish](https://github.com/jpetazzo/registrish) - Dirty hack to run a read-only, public Docker registry on almost any static file hosting service (e.g. NGINX, Netlify, S3...)
 - [tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
 - [aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
@@ -11917,9 +11919,10 @@
 
 ## TypeScript 
 
+- [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [SnowFS](https://github.com/Snowtrack/SnowFS) - SnowFS - a fast, scalable version control file storage for graphic files :art:
-- [react-gtk](https://github.com/clayrisser/react-gtk) - React Native bridge for gtk desktop applications
+- [react-gtk](https://github.com/clayrisser/react-gtk) - *React Native bridge for gtk desktop applications
 - [nx](https://github.com/nrwl/nx) - Powerful, Extensible Dev Tools
 - [habitica-tracker](https://github.com/ddycai/habitica-tracker) - Tool that displays a history of your Habits, Dailies and completed Todos in Habitica like habit tracker. Check out the Github page to try it out.
 - [uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
