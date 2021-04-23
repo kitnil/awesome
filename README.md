@@ -589,6 +589,7 @@
 - [toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
 - [GtkRadiant](https://github.com/TTimo/GtkRadiant) - The open source, cross platform level editor for idtech games
 - [systemshock](https://github.com/Interrupt/systemshock) - Shockolate - Same great System Shock, new great taste.
+- [libtcod](https://github.com/libtcod/libtcod) - The official repository for libtcod.  A roguelike development library.
 - [UnNetHack](https://github.com/UnNetHack/UnNetHack) - NetHack fork that is in development
 - [nodm](https://github.com/spanezz/nodm) - Automatic display manager
 - [ly](https://github.com/nullgemm/ly) - display manager with console UI
@@ -1339,7 +1340,6 @@
 - [DGEngine](https://github.com/dgengin/DGEngine) - An implementation of the Diablo 1 game engine
 - [NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [laminar](https://github.com/ohwgiles/laminar) - Fast and lightweight Continuous Integration
-- [libtcod](https://github.com/libtcod/libtcod) - The official repository for libtcod.  A roguelike development library.
 - [curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 - [kbd-audio](https://github.com/ggerganov/kbd-audio) - Tools for capturing and analysing keyboard input paired with microphone capture  🎤⌨️
 - [hardware-effects](https://github.com/Kobzol/hardware-effects) - Demonstration of various hardware effects.
@@ -3980,7 +3980,7 @@
 - [hakcron](https://github.com/hakluke/hakcron) - Easily schedule commands to run multiple times at set intervals (like a cronjob, but with one command)
 - [kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
 - [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload
-- [sql-jobber](https://github.com/knadh/sql-jobber) - A highly opinionated, distributed job-queue built specifically for defering and executing heavy SQL read jobs asynchronously. Supports MySQL and Postgres.
+- [sql-jobber](https://github.com/knadh/sql-jobber) - A highly opinionated, distributed job-queue built specifically for queuing and executing heavy SQL read jobs asynchronously. Supports MySQL and Postgres.
 - [koanf](https://github.com/knadh/koanf) - Light weight, extensible configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [email-verifier](https://github.com/AfterShip/email-verifier) - :white_check_mark: A Go library for email verification without sending any emails.
 - [ctree](https://github.com/Matt-Gleich/ctree) - 🎄 A Christmas tree right from your terminal!
