@@ -2541,6 +2541,7 @@
 - [thing-edit](https://github.com/manateelazycat/thing-edit) - Copy and paste anything under cursor.
 - [lazy-load](https://github.com/manateelazycat/lazy-load) - Lazy load keys for speed ​​up Emacs startup.
 - [aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
+- [aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 - [color-rg](https://github.com/manateelazycat/color-rg) - Search and refactoring tool based on ripgrep.
 - [company-english-helper](https://github.com/manateelazycat/company-english-helper) - English helper base on Emacs company-mode
 - [emacs-gsettings](https://github.com/wbolster/emacs-gsettings) - Emacs library for Gnome GSettings
@@ -3959,6 +3960,7 @@
 
 ## Go 
 
+- [dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
 - [litestream](https://github.com/benbjohnson/litestream) - Streaming S3 replication for SQLite.
 - [lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
@@ -5240,7 +5242,6 @@
 - [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [shell-novice](https://github.com/swcarpentry/shell-novice) - The Unix Shell
-- [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
 - [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
 - [the-federation.info](https://github.com/thefederationinfo/the-federation.info) - Statistics hub for the Fediverse
@@ -6697,6 +6698,7 @@
 ## Jinja 
 
 - [ansible-role-hardening](https://github.com/konstruktoid/ansible-role-hardening) - Ansible role to apply a security baseline. Systemd edition.
+- [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
@@ -7180,6 +7182,7 @@
 
 ## Others 
 
+- [awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [awesome-youtubers](https://github.com/youtuberscafe/awesome-youtubers) - Awesome lists of youtubers
 - [RoguelikeDevResources](https://github.com/marukrap/RoguelikeDevResources) - A curated list of roguelike development resources
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
@@ -10758,7 +10761,7 @@
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [vector](https://github.com/timberio/vector) - A high-performance, high-reliability observability data pipeline.
+- [vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline.
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -12101,6 +12104,7 @@
 
 ## Vala 
 
+- [switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad) - Switchboard Mouse & Touchpad Plug
 - [gala](https://github.com/elementary/gala) - Gala Window Manager
 - [core](https://github.com/midori-browser/core) - Midori Web Browser - a lightweight, fast and free web browser using WebKit and GTK+
 - [xi-gtk](https://github.com/eyelash/xi-gtk) - a GTK front-end for the Xi editor
