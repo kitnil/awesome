@@ -191,6 +191,8 @@
 
 ## C 
 
+- [pgvector](https://github.com/ankane/pgvector) - Open-source vector similarity search for Postgres
+- [sc-im](https://github.com/andmarti1424/sc-im) - SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [xdo](https://github.com/baskerville/xdo) - Small X utility to perform elementary actions on windows
 - [andvaranaut](https://github.com/glouw/andvaranaut) - A dungeon crawler
 - [tetris-os](https://github.com/jdah/tetris-os) - An operating system, but it only plays Tetris.
@@ -1070,6 +1072,7 @@
 
 ## C++ 
 
+- [obs-csgo](https://github.com/luastoned/obs-csgo) - OBS Plugin to capture CS:GO with Trusted Mode enabled
 - [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) - Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
 - [DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [rlutil](https://github.com/tapio/rlutil) - C and C++ utilities for cross-platform console roguelike game creation.
@@ -2541,7 +2544,6 @@
 - [thing-edit](https://github.com/manateelazycat/thing-edit) - Copy and paste anything under cursor.
 - [lazy-load](https://github.com/manateelazycat/lazy-load) - Lazy load keys for speed ​​up Emacs startup.
 - [aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
-- [aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 - [color-rg](https://github.com/manateelazycat/color-rg) - Search and refactoring tool based on ripgrep.
 - [company-english-helper](https://github.com/manateelazycat/company-english-helper) - English helper base on Emacs company-mode
 - [emacs-gsettings](https://github.com/wbolster/emacs-gsettings) - Emacs library for Gnome GSettings
@@ -3909,6 +3911,7 @@
 
 ## Erlang 
 
+- [erlscripten](https://github.com/erlscripten/erlscripten) - Erlang to PureScript transpiler. Run Erlang in the browser!
 - [type_mapper](https://github.com/flussonic/type_mapper) - Erlang type mapping tool that allows to convert json to structured data according to type specs
 - [alpaca](https://github.com/alpaca-lang/alpaca) - Functional programming inspired by ML for the Erlang VM
 - [erlang_ls](https://github.com/erlang-ls/erlang_ls) - The Erlang Language Server
@@ -3960,6 +3963,7 @@
 
 ## Go 
 
+- [tdash](https://github.com/jessfraz/tdash) - A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me.
 - [dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
 - [litestream](https://github.com/benbjohnson/litestream) - Streaming S3 replication for SQLite.
 - [lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -5498,7 +5502,6 @@
 - [c-repl](https://github.com/evmar/c-repl) - a C read-eval-print loop (abandoned)
 - [yst](https://github.com/jgm/yst) - create static websites from YAML data and string templates
 - [github](https://github.com/phadej/github) - The github API for Haskell
-- [aeson](https://github.com/haskell/aeson) - A fast Haskell JSON library
 - [PortFusion](https://github.com/corsis/PortFusion) - Haskell-powered cross-platform transport-layer distributed reverse / forward proxy & tunneling solution – currently available for all TCP protocols (RDP, VNC, HTTP(S), SSH, ...).
 - [ghc-mod](https://github.com/DanielG/ghc-mod) - Happy Haskell Hacking for editors. DEPRECATED
 - [rasa](https://github.com/ChrisPenner/rasa) - Extremely modular text editor built in Haskell
@@ -5867,6 +5870,7 @@
 
 ## JavaScript 
 
+- [jscoq](https://github.com/jscoq/jscoq) - A port of Coq to Javascript -- Run Coq in your Browser
 - [game](https://github.com/delaford/game) - ⚔️ An online JavaScript 2D Medieval RPG.
 - [rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!
 - [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
@@ -6794,6 +6798,7 @@
 
 ## Kotlin 
 
+- [gradle-recipes](https://github.com/android/gradle-recipes) - Ready-to-use recipes for common build customizations that showcase the Android Gradle plugin's public APIs and DSL.
 - [kotlin-shell](https://github.com/jakubriegel/kotlin-shell) - Tool for performing shell-like programing in Kotlin
 - [zircon](https://github.com/Hexworks/zircon) - Zircon is an extensible and user-friendly, multiplatform tile engine.
 - [kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Intelligent Kotlin support for any editor/IDE using the Language Server Protocol
@@ -7033,6 +7038,8 @@
 
 ## Nix 
 
+- [nix-filter](https://github.com/numtide/nix-filter) - 
+- [gesetze](https://github.com/kmein/gesetze) - German laws from https://www.gesetze-im-internet.de/ in plain text format (updated daily)
 - [dns.nix](https://github.com/kirelagin/dns.nix) - A Nix DSL for DNS zone files
 - [nixrc](https://github.com/bqv/nixrc) - Structured flake-based NixOS configuration
 - [nix-container-images](https://github.com/cloudwatt/nix-container-images) - Write container images as NixOS machines
@@ -7126,6 +7133,8 @@
 
 ## OCaml 
 
+- [MariOCaml](https://github.com/mahsu/MariOCaml) - HTML 5 canvas implementation of Mario written in Ocaml
+- [coq-serapi](https://github.com/ejgallego/coq-serapi) - Coq Protocol Playground with Se(xp)rialization of Internal Structures.
 - [cmdliner-cheatsheet](https://github.com/mjambon/cmdliner-cheatsheet) - Cheatsheet for adding command-line options to an OCaml program using cmdliner
 - [ocamqping](https://github.com/argent-smith/ocamqping) - Minimalistic AMQP pinger written in OCaml
 - [pp_html](https://github.com/lemaetech/pp_html) - [Unreleased] Ocaml library to pretty print/format HTML5. See notes in README.
@@ -8520,6 +8529,7 @@
 
 ## Prolog 
 
+- [prolog-for-dummies](https://github.com/Vulwsztyn/prolog-for-dummies) - 
 - [elpi](https://github.com/LPCIC/elpi) - Embeddable Lambda Prolog Interpreter
 - [the-constitution-of-japan](https://github.com/bitlaw-jp/the-constitution-of-japan) - 
 - [lisprolog](https://github.com/triska/lisprolog) - Interpreter for a simple Lisp. Written in Prolog.
@@ -9054,7 +9064,7 @@
 - [autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most of the existing password manager.
 - [pass-audit](https://github.com/roddhjav/pass-audit) - A pass extension for auditing your password repository.
-- [ansible-manage-lvm](https://github.com/mrlesmithjr/ansible-manage-lvm) - 
+- [ansible-manage-lvm](https://github.com/mrlesmithjr/ansible-manage-lvm) - Ansible role to manage LVM Groups/Logical Volumes
 - [http-request-translator](https://github.com/owtf/http-request-translator) - HTTP Request Translator (hrt) translates raw HTTP requests to different scripts (bash, python, etc.)
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -10132,6 +10142,7 @@
 
 ## R 
 
+- [mastering-shiny](https://github.com/hadley/mastering-shiny) - Mastering Shiny: a book
 - [here](https://github.com/r-lib/here) - A simpler way to find your files
 - [reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 - [DataExplorer](https://github.com/boxuancui/DataExplorer) - Automate Data Exploration and Treatment
@@ -10443,6 +10454,7 @@
 
 ## Rust 
 
+- [vml](https://github.com/Obirvalger/vml) - Tool for easily and transparently work with qemu virtual machines
 - [bracket-lib](https://github.com/amethyst/bracket-lib) - The Roguelike Toolkit (RLTK), implemented for Rust.
 - [kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [kubernix](https://github.com/saschagrunert/kubernix) - Single dependency Kubernetes clusters for local testing, experimenting and development
@@ -10541,7 +10553,7 @@
 - [otto](https://github.com/rtyler/otto) - Otto is your friendly continuous delivery companion.
 - [jdp](https://github.com/rtyler/jdp) - Jenkins Declarative Parser
 - [voyager](https://github.com/mattsse/voyager) - crawl and scrape web pages in rust
-- [himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client written in Rust.
+- [himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client.
 - [rsraft](https://github.com/laurocaetano/rsraft) - Raft implementation in Rust
 - [StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
 - [rust_sqlite](https://github.com/joaoh82/rust_sqlite) - Simple embedded database modeled off SQLite in Rust
@@ -11159,7 +11171,7 @@
 - [wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - 🌐 Guide and tools to run a full offline mirror of Wikipedia.org with three different approaches: Nginx caching proxy, Kiwix + ZIM dump, and MediaWiki/XOWA + XML dump
 - [easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC+musl for static executables
-- [nb](https://github.com/xwmx/nb) - CLI and local web plain text note-taking, bookmarking, and archiving with encryption, filtering & search, Git-backed versioning & syncing, Pandoc-backed conversion, + more in a single portable script.
+- [nb](https://github.com/xwmx/nb) - CLI and local web note-taking, bookmarking, and archiving with encryption, filtering & search, Git-backed versioning & syncing, Pandoc-backed conversion, + more in a single portable script.
 - [synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
 - [jinx](https://github.com/pretzelhands/jinx) - ✨jinx - a magical nginx wrapper
 - [prm](https://github.com/EivindArvesen/prm) - A minimal project manager for the terminal.
@@ -11864,6 +11876,7 @@
 ## Swift 
 
 - [blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
+- [aeson](https://github.com/haskell/aeson) - A fast Haskell JSON library
 
 ## TSQL 
 
