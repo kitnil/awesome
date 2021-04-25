@@ -191,6 +191,7 @@
 
 ## C 
 
+- [logtop](https://github.com/JulienPalard/logtop) - Display real time statistics of whatever you want.
 - [pgvector](https://github.com/ankane/pgvector) - Open-source vector similarity search for Postgres
 - [sc-im](https://github.com/andmarti1424/sc-im) - SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [xdo](https://github.com/baskerville/xdo) - Small X utility to perform elementary actions on windows
@@ -1607,7 +1608,6 @@
 
 ## CSS 
 
-- [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [GPU-Viewer](https://github.com/arunsivaramanneo/GPU-Viewer) - A front-end to glxinfo, vulkaninfo, clinfo and es2_info - Linux
 - [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
@@ -2363,7 +2363,7 @@
 - [verb](https://github.com/emacsmirror/verb) - Organize and send HTTP requests
 - [walkman](https://github.com/abrochard/walkman) - Write HTTP requests in Org mode and replay them at will using cURL
 - [emacs-edbi](https://github.com/kiwanami/emacs-edbi) - Database Interface for Emacs Lisp
-- [systemE](https://github.com/grandfoobah/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
+- [systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
 - [magit-patch-changelog](https://github.com/dickmao/magit-patch-changelog) - Generate a patch according to emacs-devel CONTRIBUTE guidelines
 - [diff-at-point](https://github.com/emacsmirror/diff-at-point) - Diff navigation
 - [edit-at-point](https://github.com/emacsattic/edit-at-point) - Edit(copy,cut..) current things(word,symbol..) under cursor
@@ -3963,6 +3963,8 @@
 
 ## Go 
 
+- [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
+- [txeh](https://github.com/txn2/txeh) - Go library and CLI utility for /etc/hosts management.
 - [tdash](https://github.com/jessfraz/tdash) - A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me.
 - [dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
 - [litestream](https://github.com/benbjohnson/litestream) - Streaming S3 replication for SQLite.
@@ -4058,7 +4060,7 @@
 - [slick](https://github.com/ExaScience/slick) - The Slick programming language is an s-expression surface syntax for Go.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [wprecon](https://github.com/blackbinn/wprecon) - WPrecon (WordPress Recon), is a vulnerability recognition tool in CMS Wordpress, developed in Go and with scripts in Lua.
-- [mosdns](https://github.com/IrineSistiana/mosdns) - 插件化 DNS 转发器。
+- [mosdns](https://github.com/IrineSistiana/mosdns) - 插件化 DNS 路由/转发器。
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
@@ -6055,7 +6057,7 @@
 - [FunctionScript](https://github.com/acode/FunctionScript) - An API gateway and framework for turning functions into web services
 - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - OBSOLETE - Interactively select the quality and format for youtube-dl
 - [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (March 2021)
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (May 2021)
 - [diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers
 - [Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage. Now with protected boxes.
@@ -6451,7 +6453,7 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2021)
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
 - [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -7038,7 +7040,7 @@
 
 ## Nix 
 
-- [nix-filter](https://github.com/numtide/nix-filter) - 
+- [nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
 - [gesetze](https://github.com/kmein/gesetze) - German laws from https://www.gesetze-im-internet.de/ in plain text format (updated daily)
 - [dns.nix](https://github.com/kirelagin/dns.nix) - A Nix DSL for DNS zone files
 - [nixrc](https://github.com/bqv/nixrc) - Structured flake-based NixOS configuration
@@ -8556,6 +8558,7 @@
 
 ## Python 
 
+- [SSHHeatmap](https://github.com/meesaltena/SSHHeatmap) - Generates a heatmap of IP's that made failed SSH login attempts.
 - [InstaPy](https://github.com/timgrossmann/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [rdqdump](https://github.com/jeffbryner/rdqdump) - RabbitMQ .rdq file parser
 - [bgperf](https://github.com/osrg/bgperf) - 
@@ -10492,6 +10495,7 @@
 - [sphere_dance](https://github.com/janiorca/sphere_dance) - Using rust to create a real 4K intro
 - [ClojureRS](https://github.com/clojure-rs/ClojureRS) - Clojure, implemented atop Rust (unofficial)
 - [deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
+- [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [shellcaster](https://github.com/jeff-hughes/shellcaster) - Terminal-based podcast manager built in Rust
 - [unused](https://github.com/unused-code/unused) - A tool to identify potentially unused code.
 - [dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page
@@ -10553,7 +10557,7 @@
 - [otto](https://github.com/rtyler/otto) - Otto is your friendly continuous delivery companion.
 - [jdp](https://github.com/rtyler/jdp) - Jenkins Declarative Parser
 - [voyager](https://github.com/mattsse/voyager) - crawl and scrape web pages in rust
-- [himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client.
+- [himalaya](https://github.com/soywod/himalaya) - 📫 The CLI email client.
 - [rsraft](https://github.com/laurocaetano/rsraft) - Raft implementation in Rust
 - [StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
 - [rust_sqlite](https://github.com/joaoh82/rust_sqlite) - Simple embedded database modeled off SQLite in Rust
@@ -10914,6 +10918,7 @@
 
 ## SCSS 
 
+- [rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
@@ -11046,6 +11051,7 @@
 
 ## Shell 
 
+- [graphpath](https://github.com/ocochard/graphpath) - Graphpath generates an ASCII network diagram from the route table of a Unix/Linux
 - [desec-certbot-hook](https://github.com/desec-io/desec-certbot-hook) - Use deSEC to obtain certificates with certbot DNS ownership verification.
 - [sqliscan](https://github.com/meicookies/sqliscan) - Sqli scanner
 - [elasticsearch-in-action](https://github.com/dakrone/elasticsearch-in-action) - Offical code repository for the Elasticsearch in Action book from Manning
@@ -12128,7 +12134,7 @@
 - [Sherlock](https://github.com/sergius02/Sherlock) - Sherlock helps you to find information of public IP address, elementary! 🕵️
 - [timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 - [Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
-- [vala-language-server](https://github.com/benwaffle/vala-language-server) - Code Intelligence for Vala & Genie
+- [vala-language-server](https://github.com/Prince781/vala-language-server) - Code Intelligence for Vala & Genie
 - [desktopfolder](https://github.com/spheras/desktopfolder) - Bring your Desktop Back to Life
 - [GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
 - [avizo](https://github.com/misterdanb/avizo) - A neat notification daemon
