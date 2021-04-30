@@ -1615,7 +1615,7 @@
 - [Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰 Clock Shop is a website that collects beautiful clock codes
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
-- [slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A userchrome.css file that has rounded tabs and a url bar that can disappear when not selected on. It works with any themes.
+- [slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A userchrome.css file that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
 - [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 - [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [productive-twitter](https://github.com/sdras/productive-twitter) - Chrome extension: Minimal and friendly theme for productive twitter use
@@ -1693,6 +1693,7 @@
 
 ## Clojure 
 
+- [tempura](https://github.com/ptaoussanis/tempura) - Pure Clojure/Script i18n translations library
 - [clojure-spring](https://github.com/jakubriegel/clojure-spring) - Demo of using Spring in Clojure with some Java integration
 - [state-flow](https://github.com/nubank/state-flow) - Integration testing framework using a state monad in the backend for building and composing flows
 - [nrepl](https://github.com/nrepl/nrepl) - A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.
@@ -5286,7 +5287,6 @@
 - [renpyweb](https://github.com/renpy/renpyweb) - Ren'Py in your HTML5 web browser
 - [python-goose](https://github.com/grangier/python-goose) - Html Content / Article Extractor, web scrapping lib in Python
 - [railsgirls.github.io](https://github.com/railsgirls/railsgirls.github.io) - Rails Girls Guides
-- [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
 - [ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [ansible-role-postgresql](https://github.com/geerlingguy/ansible-role-postgresql) - Ansible Role - PostgreSQL
@@ -6706,6 +6706,7 @@
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
+- [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 
 ## Jsonnet 
@@ -10597,7 +10598,7 @@
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 - [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
-- [Findomain](https://github.com/Findomain/Findomain) - The fastest and cross-platform subdomain enumerator, do not waste your time.
+- [Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
 - [rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [ajour](https://github.com/ajour/ajour) - A World of Warcraft addon manager written in Rust.
 - [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
