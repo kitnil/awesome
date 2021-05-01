@@ -1662,7 +1662,6 @@
 - [docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [emacs-bootstrap](https://github.com/editor-bootstrap/emacs-bootstrap) - Your on-the-fly Emacs development environment.
-- [blog](https://github.com/felix11h/blog) - Personal blog, 3 Diagrams Per Page. Written in Emacs Org-mode and exported to HTML as an org-project. Published on GitHub Pages.
 - [literate-programming-examples](https://github.com/limist/literate-programming-examples) - A collection of literate programming examples using Emacs Org mode; these examples are directly usable (copy and start hacking), and/or can serve as educational literate programs.  Clojure will be the preferred language.
 - [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme now lives on at https://github.com/chriskempson/base16
 - [gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
@@ -5339,6 +5338,7 @@
 - [polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications
 - [tern-node-express](https://github.com/angelozerr/tern-node-express) - A Tern plugin adding support for express web application framework for node.
+- [blog](https://github.com/felix11h/blog) - Personal blog, 3 Diagrams Per Page. Written in Emacs Org-mode and exported to HTML as an org-project. Published on GitHub Pages.
 - [fedora-ansible](https://github.com/fabaff/fedora-ansible) - Ansible playbooks for Fedora
 - [singlepageappbook](https://github.com/mixu/singlepageappbook) - Content and site generator for Single page apps in depth (my book on single page applications)
 - [YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more.
