@@ -1617,7 +1617,7 @@
 - [Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰 Clock Shop is a website that collects beautiful clock codes
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
-- [slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A userchrome.css file that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
+- [slick-fox](https://github.com/Etesam913/slick-fox) - :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
 - [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 - [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [productive-twitter](https://github.com/sdras/productive-twitter) - Chrome extension: Minimal and friendly theme for productive twitter use
@@ -5206,6 +5206,7 @@
 - [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [android-dev-bookmarks](https://github.com/zhengxiaopeng/android-dev-bookmarks) - Android Dev Bookmarks(ADB) - Android 开发者的浏览器书签 For CN-Dev now | 历史更新文章戳这里：https://rocko.xyz/categories/Android-Dev-Bookmarks/  |  订阅： https://tinyletter.com/Rocko  |   站点主页：
 - [awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) - Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web
+- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
 - [nofussbm](https://github.com/mapio/nofussbm) - No Fuss Bookmarks
 - [nsedit](https://github.com/tuxis-ie/nsedit) - DNS Editor working with PowerDNS's new API
@@ -6894,6 +6895,8 @@
 
 ## Lua 
 
+- [which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
+- [lsp-trouble.nvim](https://github.com/folke/lsp-trouble.nvim) - 🚦 A pretty diagnostics list to help you solve all the trouble your code is causing.
 - [neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
 - [rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
 - [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
@@ -10281,7 +10284,6 @@
 - [mina](https://github.com/mina-deploy/mina) - Blazing fast application deployment tool.
 - [puppet-debugger](https://github.com/nwops/puppet-debugger) - A interactive live debugger and REPL for the puppet language
 - [nlp-with-ruby](https://github.com/arbox/nlp-with-ruby) - Curated List: Practical Natural Language Processing done in Ruby
-- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [rush](https://github.com/adamwiggins/rush) - Ruby replacement for bash+ssh
 - [ronn-ng](https://github.com/apjanke/ronn-ng) - Ronn-NG: An updated fork of ronn. Build man pages from Markdown.
 - [zotxt](https://github.com/egh/zotxt) - zotxt: a Zotero extension for text
@@ -10463,6 +10465,8 @@
 
 ## Rust 
 
+- [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
+- [orion](https://github.com/orion-lang/orion) - Orion is a high level, purely functional programming language with a LISP based syntax.
 - [vml](https://github.com/Obirvalger/vml) - Tool for easily and transparently work with qemu virtual machines
 - [bracket-lib](https://github.com/amethyst/bracket-lib) - The Roguelike Toolkit (RLTK), implemented for Rust.
 - [kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
@@ -11057,6 +11061,7 @@
 
 ## Shell 
 
+- [lfcs](https://github.com/giulianop/lfcs) - Personal notes to prepare for the Linux Foundation Certified System Administrator (LFCS) exam
 - [acme](https://github.com/evbogdanov/acme) - My collection of Acme notes and scripts
 - [graphpath](https://github.com/ocochard/graphpath) - Graphpath generates an ASCII network diagram from the route table of a Unix/Linux
 - [desec-certbot-hook](https://github.com/desec-io/desec-certbot-hook) - Use deSEC to obtain certificates with certbot DNS ownership verification.
