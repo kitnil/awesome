@@ -1452,7 +1452,6 @@
 - [alephone](https://github.com/Aleph-One-Marathon/alephone) - Aleph One is the open source continuation of Bungie’s Marathon 2 game engine.
 - [stratagus](https://github.com/Wargus/stratagus) - The Stratagus strategy game engine
 - [PenumbraOverture](https://github.com/FrictionalGames/PenumbraOverture) - Penumbra: Overture is a first person horror game, using the HPL1 Engine.
-- [Vox](https://github.com/AlwaysGeeky/Vox) - Voxel Engine and Voxel Game Development
 - [xoreos](https://github.com/xoreos/xoreos) - A reimplementation of BioWare's Aurora engine (and derivatives). Pre-pre-alpha :P
 - [KlayGE](https://github.com/gongminmin/KlayGE) - KlayGE is a cross-platform open source game engine with plugin-based architecture.
 - [REGoth](https://github.com/REGoth-project/REGoth) - OpenSource-Reimplementation of the zEngine, used by the game "Gothic"
@@ -1485,7 +1484,7 @@
 - [goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 - [astroid](https://github.com/astroidmail/astroid) - A graphical threads-with-tags style, lightweight and fast, e-mail client for Notmuch
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
-- [mumble](https://github.com/mumble-voip/mumble) - Mumble is an Open Source, low-latency, high quality voice chat software
+- [mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [par2cmdline](https://github.com/Parchive/par2cmdline) - fork of the original par2cmdline CVS repo
 - [ewig](https://github.com/arximboldi/ewig) - The eternal text editor — Didactic Ersatz Emacs to show immutable data-structures and the single-atom architecture
 - [xkeymacs](https://github.com/fujieda/xkeymacs) - 
@@ -2650,7 +2649,7 @@
 - [awesome-tab](https://github.com/manateelazycat/awesome-tab) - Emacs package to provide out-of-the-box configuration to use tabs.
 - [fancy-dabbrev](https://github.com/jrosdahl/fancy-dabbrev) - Emacs dabbrev-expand with preview and popup menu
 - [sqlformat](https://github.com/purcell/sqlformat) - Reformat SQL code inside Emacs using sqlformat or pgformatter
-- [reformatter.el](https://github.com/purcell/reformatter.el) - Define commands which run reformatters on the current Emacs buffer
+- [emacs-reformatter](https://github.com/purcell/emacs-reformatter) - Define commands which run reformatters on the current Emacs buffer
 - [emacs-nes](https://github.com/gongo/emacs-nes) - A NES Emulator written in Emacs Lisp
 - [yequake](https://github.com/alphapapa/yequake) - Drop-down Emacs frames, like Yakuake
 - [unicode-math-input.el](https://github.com/astoff/unicode-math-input.el) - Insert Unicode math symbols in Emacs
@@ -3242,7 +3241,7 @@
 - [emacs-nlinum-hl](https://github.com/hlissner/emacs-nlinum-hl) - Fix disappearing line numbers in nlinum
 - [fn.el](https://github.com/troyp/fn.el) - Concise anonymous functions for Emacs Lisp
 - [projectile-direnv](https://github.com/christianromney/projectile-direnv) - Export your projectile project's environment variables in .envrc
-- [elisp](https://github.com/cadadr/elisp) - A relic of the past.
+- [elisp](https://github.com/cadadr/elisp) - Göktuğ's Emacs Lisp programs
 - [rust-playground](https://github.com/grafov/rust-playground) - GNU/Emacs mode that setup local playground for code snippets in Rust language.
 - [tracker-mode](https://github.com/defaultxr/tracker-mode) - a music tracker/sequencer for emacs
 - [char-menu](https://github.com/mrkkrp/char-menu) - Create a menu for fast insertion of arbitrary symbols
@@ -4458,7 +4457,7 @@
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
-- [makisu](https://github.com/uber/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
+- [makisu](https://github.com/uber-archive/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [kubectl-debug](https://github.com/aylei/kubectl-debug) - Debug your pod by a new container with every troubleshooting tools pre-installed
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
@@ -6477,7 +6476,7 @@
 - [biwascheme](https://github.com/biwascheme/biwascheme) - Scheme interpreter written in JavaScript
 - [eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
 - [freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
-- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [webrecorder-player](https://github.com/webrecorder/webrecorder-player) - Webrecorder Player for Desktop (OSX/Windows/Linux). (Built with Electron + Webrecorder)
 - [javascript-arithmetic-lab-v-000](https://github.com/learn-co-students/javascript-arithmetic-lab-v-000) - 
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
@@ -6803,6 +6802,7 @@
 
 ## Kotlin 
 
+- [tgto](https://github.com/Heapy/tgto) - Telegram to RSS bot.
 - [gradle-recipes](https://github.com/android/gradle-recipes) - Ready-to-use recipes for common build customizations that showcase the Android Gradle plugin's public APIs and DSL.
 - [kotlin-shell](https://github.com/jakubriegel/kotlin-shell) - Tool for performing shell-like programing in Kotlin
 - [zircon](https://github.com/Hexworks/zircon) - Zircon is an extensible and user-friendly, multiplatform tile engine.
@@ -6896,7 +6896,7 @@
 ## Lua 
 
 - [which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
-- [lsp-trouble.nvim](https://github.com/folke/lsp-trouble.nvim) - 🚦 A pretty diagnostics list to help you solve all the trouble your code is causing.
+- [lsp-trouble.nvim](https://github.com/folke/lsp-trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
 - [rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
 - [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
@@ -7296,7 +7296,7 @@
 - [awesome-immigration](https://github.com/acacess/awesome-immigration) - An Awesome list of long-term visas
 - [awesome-algorithms-education](https://github.com/gaerae/awesome-algorithms-education) - A curated list to learning and practicing about algorithm.
 - [awesome-digitalocean](https://github.com/jonleibowitz/awesome-digitalocean) - A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin
-- [awesome-computer-vision-models](https://github.com/nerox8664/awesome-computer-vision-models) - A list of popular deep learning models related to classification, segmentation and detection problems
+- [awesome-computer-vision-models](https://github.com/catmanifold/awesome-computer-vision-models) - A list of popular deep learning models related to classification, segmentation and detection problems
 - [awesome-heroku](https://github.com/ianstormtaylor/awesome-heroku) - A curated list of helpful Heroku resources.
 - [awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
 - [awesome-cheatsheets-cn](https://github.com/polaris1119/awesome-cheatsheets-cn) - 🔥🔥🔥专为国人开发者打造的 Cheat Sheet — 操作系统、数据库、编程语言、框架和开发工具等速查表。通过一个文件快速掌握或查找你所需的关键知识。🚀🚀项目上榜靠你了，觉得不错点个 Star 吧！🚀🚀
@@ -8214,6 +8214,7 @@
 
 ## PHP 
 
+- [cli.fyi](https://github.com/daveearley/cli.fyi) - A Potentially Useful Command Line Query Tool
 - [vesta](https://github.com/serghey-rodin/vesta) - VESTA Control Panel
 - [panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -8563,6 +8564,7 @@
 
 ## Python 
 
+- [telegregator](https://github.com/parotikov/telegregator) - Channel agregator for Telegram based on python library Telethon
 - [yagmail](https://github.com/kootenpv/yagmail) - Send email in Python conveniently for gmail using yagmail
 - [beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [SSHHeatmap](https://github.com/meesaltena/SSHHeatmap) - Generates a heatmap of IP's that made failed SSH login attempts.
@@ -8610,7 +8612,7 @@
 - [wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
 - [chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes.
 - [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
-- [drawing](https://github.com/maoschanz/drawing) - A drawing application for the GNOME desktop.
+- [drawing](https://github.com/maoschanz/drawing) - Simple image editor for the Linux desktop(s)
 - [khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
 - [Reddit-Stock-Trends](https://github.com/iam-abbas/Reddit-Stock-Trends) - Fetch currently trending stocks on Reddit
 - [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
@@ -10465,6 +10467,7 @@
 
 ## Rust 
 
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
 - [orion](https://github.com/orion-lang/orion) - Orion is a high level, purely functional programming language with a LISP based syntax.
 - [vml](https://github.com/Obirvalger/vml) - Tool for easily and transparently work with qemu virtual machines
@@ -10582,7 +10585,7 @@
 - [tai](https://github.com/MustafaSalih1993/tai) - tai (Terminal Ascii Image) tool to convert images to ascii written in Rust
 - [byztimed](https://github.com/akamai-contrib/byztimed) - Byzantine-fault-tolerant time synchronization
 - [cproxy](https://github.com/NOBLES5E/cproxy) - Easy per application transparent proxy built on cgroup.
-- [Myxer](https://github.com/Aurailus/Myxer) - A modern Volume Mixer for PulseAudio.
+- [Myxer](https://github.com/VixenUtils/Myxer) - A modern Volume Mixer for PulseAudio.
 - [uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - fastest text uwuifier in the west
 - [bitmapflow](https://github.com/Bauxitedev/bitmapflow) - A tool to generate inbetweens for animated sprites, written in godot-rust
 - [lohr](https://github.com/alarsyo/lohr) - Git mirroring daemon
@@ -10755,7 +10758,7 @@
 - [dirscan](https://github.com/orf/dirscan) - A high performance tool for summarizing large directories or drives
 - [gitout](https://github.com/JakeWharton/gitout) - A command-line tool and Docker image to automatically backup Git repositories from GitHub or anywhere
 - [telefork](https://github.com/trishume/telefork) - Like fork() but teleports the forked process to a different computer!
-- [the-way](https://github.com/out-of-cheese-error/the-way) - A command line code snippets manager
+- [the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
 - [stylus](https://github.com/mmastrac/stylus) - Lightweight status page for home infrastructure
 - [dmux](https://github.com/zdcthomas/dmux) - A tmux workspace manager
 - [ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
@@ -10811,7 +10814,7 @@
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [rustybox](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust 🦀
 - [kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
-- [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command for your terminal
 - [rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@jD91mZM2]
 - [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - Instant startup time for nix-shell
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
@@ -11954,6 +11957,7 @@
 
 ## TypeScript 
 
+- [vscoq](https://github.com/coq-community/vscoq) - A Visual Studio Code extension for Coq [maintainers=@maximedenes,@fakusb]
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [SnowFS](https://github.com/Snowtrack/SnowFS) - SnowFS - a fast, scalable version control file storage for graphic files :art:
