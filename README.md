@@ -392,7 +392,7 @@
 - [nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU
 - [geany](https://github.com/geany/geany) - A fast and lightweight IDE
 - [PWMAngband](https://github.com/draconisPW/PWMAngband) - A free, multi-player roguelike dungeon exploration game based on Angband
-- [OpenSource](https://github.com/w23/OpenSource) - Load Source games maps as combined meshed correctly positioned relative to each other
+- [OpenSource](https://github.com/w23/OpenSource) - Load Source games maps as combined meshes correctly positioned relative to each other
 - [tine](https://github.com/deadpixi/tine) - tine - a modern clone of the AmigaDOS/TRIPOS ED display editor
 - [mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
 - [jshon](https://github.com/keenerd/jshon) - Jshon is a JSON parser designed for maximum convenience within the shell.
@@ -1102,7 +1102,7 @@
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
-- [obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS Studio which adds many new effects, filters, sources, transitions and encoders - all for free! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
+- [obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders - all for free! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
 - [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
 - [2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
@@ -1150,7 +1150,7 @@
 - [quadrilateralcowboy](https://github.com/blendogames/quadrilateralcowboy) - Source code for Quadrilateral Cowboy (2016)
 - [emacsbridge](https://github.com/aardsoft/emacsbridge) - An application to bridge between the Android and Emacs world
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-- [termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
+- [termite](https://github.com/thestinger/termite) - Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
 - [LuaFormatter](https://github.com/Koihik/LuaFormatter) - Code formatter for Lua
@@ -2696,6 +2696,7 @@
 - [pacfiles-mode](https://github.com/UndeadKernel/pacfiles-mode) - Emacs major mode to manage pacnew and pacsave files left by the pacman Arch tool
 - [shrink-whitespace](https://github.com/emacsmirror/shrink-whitespace) - Whitespace removal DWIM key
 - [ipinfo.el](https://github.com/dakra/ipinfo.el) - Small utility to fetch IP information from ipinfo.io
+- [ntangle](https://github.com/OrgTangle/ntangle) - Command-line utility for Tangling of Org documents — programmed in Nim.
 - [smartrep.el](https://github.com/myuhe/smartrep.el) - Support sequential operation which omit prefix key
 - [org-msg](https://github.com/jeremy-compostella/org-msg) - OrgMsg is a GNU/Emacs global minor mode mixing up Org mode and Message mode to compose and reply to emails in a Outlook HTML friendly style.
 - [glsl-mode](https://github.com/jimhourihan/glsl-mode) - GLSL emacs mode
@@ -3109,7 +3110,7 @@
 - [esh-autosuggest](https://github.com/dieggsy/esh-autosuggest) - Fish-like autosuggestions in eshell.
 - [network-watch](https://github.com/jamiguet/network-watch) - Emacs global minor mode for handling intermitent network connectivity.
 - [ace-link](https://github.com/abo-abo/ace-link) - Quickly follow links in Emacs
-- [.emacs.d](https://github.com/Wilfred/.emacs.d) - My emacs configuration, written as literate elisp
+- [.emacs.d](https://github.com/Wilfred/.emacs.d) - My emacs configuration
 - [xah-fly-keys](https://github.com/xahlee/xah-fly-keys) - the most efficient keybinding for emacs
 - [list-environment.el](https://github.com/dgtized/list-environment.el) - A tabulated process environment editor
 - [mbsync-el](https://github.com/dimitri/mbsync-el) - Wrap calling mbsync in Emacs Lisp, with a gnus hook
@@ -6507,7 +6508,6 @@
 - [WebpackTutorial](https://github.com/AriaFallah/WebpackTutorial) - A simple webpack tutorial
 - [webpack-howto](https://github.com/petehunt/webpack-howto) - 
 - [dojo](https://github.com/dojo/dojo) - Dojo 1 - the Dojo 1 toolkit core library.
-- [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript Code Quality Tool
 - [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
@@ -7040,7 +7040,6 @@
 - [nimforum](https://github.com/nim-lang/nimforum) - Lightweight alternative to Discourse written in Nim
 - [vim_cubed](https://github.com/oakes/vim_cubed) - Vim rendered on a cube for no reason
 - [boomer](https://github.com/tsoding/boomer) - Zoomer application for Linux
-- [ntangle](https://github.com/OrgTangle/ntangle) - Command-line utility for Tangling of Org documents — programmed in Nim.
 - [Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 
 ## Nix 
@@ -8132,7 +8131,7 @@
 - [awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [pydoc](https://github.com/statmobile/pydoc) - Emacs mode for navigating Python documentation through pydoc.
 - [rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
-- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
+- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language. Join Kotlin 1.5 Event on May 25: https://kotl.in/15-event
 - [docker-and-containers-ebooks](https://github.com/thenewstack/docker-and-containers-ebooks) - A series of ebooks on Docker and the container ecosystem.
 - [swcarpentry](https://github.com/swcarpentry/swcarpentry) - A meta-repository to help navigate the many lessons and repos of the Software Carpentry Community
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
@@ -9182,7 +9181,7 @@
 - [tootstream](https://github.com/magicalraccoon/tootstream) - A command line interface for interacting with Mastodon instances
 - [rainbowstream](https://github.com/orakaro/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 - [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon ( https://github.com/tootsuite/mastodon/ ) API.
-- [netdisco](https://github.com/home-assistant/netdisco) - :mag_right: Python library to scan local network for services and devices.
+- [netdisco](https://github.com/home-assistant-libs/netdisco) - :mag_right: Python library to scan local network for services and devices.
 - [getaltname](https://github.com/franccesco/getaltname) - Extract subdomains from SSL certificates in HTTPS sites.
 - [setup.py](https://github.com/navdeep-G/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
 - [YaSQL](https://github.com/lazzyfu/YaSQL) - 基于Python开发的MySQL WEB版本的工单审核执行和SQL查询平台
@@ -10577,7 +10576,7 @@
 - [rhit](https://github.com/Canop/rhit) - A nginx log explorer
 - [learn-rust](https://github.com/higker/learn-rust) - https://getrust.tech
 - [valheim-docker](https://github.com/mbround18/valheim-docker) - Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interface.
-- [telegrand](https://github.com/melix99/telegrand) - A GTK Telegram client built to be well integrated with the GNOME desktop environment.
+- [telegrand](https://github.com/melix99/telegrand) - A GTK Telegram client built to be well integrated with the GNOME desktop environment
 - [glitter](https://github.com/Milo123459/glitter) - 🌌⭐ Git tooling of the future.
 - [yatta](https://github.com/LGUG2Z/yatta) - A tiling window manager for Windows 10 based on binary space partitioning
 - [CalcuLaTeX](https://github.com/mkhan45/CalcuLaTeX) - A pretty printing calculator language with support for units. Makes calculations easier and more presentable with real time LaTeX output, along with support for units, variables, and mathematical functions.
@@ -12119,6 +12118,7 @@
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [staticsitegenerators-website](https://github.com/bevry/staticsitegenerators-website) - Website containing the complete listing of static site generators
+- [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
