@@ -1393,7 +1393,7 @@
 - [fff](https://github.com/meekrosoft/fff) - A testing micro framework for creating function test doubles
 - [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) - Source code for Game Physics Cookbook
 - [rocket](https://github.com/rocket/rocket) - Rocket
-- [stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
+- [stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 - [slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
 - [milton](https://github.com/serge-rgb/milton) - An infinite-canvas paint program
 - [faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
@@ -3965,6 +3965,7 @@
 
 ## Go 
 
+- [cmd-runner](https://github.com/mxssl/cmd-runner) - Execute commands on remote hosts asynchronously over ssh
 - [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
 - [txeh](https://github.com/txn2/txeh) - Go library and CLI utility for /etc/hosts management.
 - [tdash](https://github.com/jessfraz/tdash) - A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me.
@@ -8131,7 +8132,7 @@
 - [awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [pydoc](https://github.com/statmobile/pydoc) - Emacs mode for navigating Python documentation through pydoc.
 - [rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
-- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language. Join Kotlin 1.5 Event on May 25: https://kotl.in/15-event
+- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language. Join Kotlin release event: https://kotl.in/15-event
 - [docker-and-containers-ebooks](https://github.com/thenewstack/docker-and-containers-ebooks) - A series of ebooks on Docker and the container ecosystem.
 - [swcarpentry](https://github.com/swcarpentry/swcarpentry) - A meta-repository to help navigate the many lessons and repos of the Software Carpentry Community
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
@@ -11063,6 +11064,7 @@
 
 ## Shell 
 
+- [ssh-tools](https://github.com/vaporup/ssh-tools) - ssh-tools
 - [lfcs](https://github.com/giulianop/lfcs) - Personal notes to prepare for the Linux Foundation Certified System Administrator (LFCS) exam
 - [acme](https://github.com/evbogdanov/acme) - My collection of Acme notes and scripts
 - [graphpath](https://github.com/ocochard/graphpath) - Graphpath generates an ASCII network diagram from the route table of a Unix/Linux
