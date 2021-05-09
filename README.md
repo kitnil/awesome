@@ -4306,7 +4306,7 @@
 - [infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests 💰📉
 - [govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
 - [gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
-- [lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code.
+- [lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code. (deprecated)
 - [dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
 - [pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
@@ -6457,7 +6457,7 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2021)
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
 - [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -7296,7 +7296,7 @@
 - [awesome-immigration](https://github.com/acacess/awesome-immigration) - An Awesome list of long-term visas
 - [awesome-algorithms-education](https://github.com/gaerae/awesome-algorithms-education) - A curated list to learning and practicing about algorithm.
 - [awesome-digitalocean](https://github.com/jonleibowitz/awesome-digitalocean) - A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin
-- [awesome-computer-vision-models](https://github.com/catmanifold/awesome-computer-vision-models) - A list of popular deep learning models related to classification, segmentation and detection problems
+- [awesome-computer-vision-models](https://github.com/gmalivenko/awesome-computer-vision-models) - A list of popular deep learning models related to classification, segmentation and detection problems
 - [awesome-heroku](https://github.com/ianstormtaylor/awesome-heroku) - A curated list of helpful Heroku resources.
 - [awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
 - [awesome-cheatsheets-cn](https://github.com/polaris1119/awesome-cheatsheets-cn) - 🔥🔥🔥专为国人开发者打造的 Cheat Sheet — 操作系统、数据库、编程语言、框架和开发工具等速查表。通过一个文件快速掌握或查找你所需的关键知识。🚀🚀项目上榜靠你了，觉得不错点个 Star 吧！🚀🚀
@@ -10467,6 +10467,7 @@
 
 ## Rust 
 
+- [rust-browser-game-but-uefi](https://github.com/bit9tream/rust-browser-game-but-uefi) - The Bloat-Free Browser Game in Rust but in C and in UEFI
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
 - [orion](https://github.com/orion-lang/orion) - Orion is a high level, purely functional programming language with a LISP based syntax.
@@ -10973,6 +10974,7 @@
 
 ## Scheme 
 
+- [guile-raw-strings](https://github.com/lloda/guile-raw-strings) - A Guile reader extension for ‘raw strings’
 - [scheme-to-llvm](https://github.com/akeep/scheme-to-llvm) - A compiler to compile a simple subset of scheme to LLVM 10
 - [guile-telegram](https://github.com/artyom-poptsov/guile-telegram) - Telegram bot API for GNU Guile
 - [guile-ics](https://github.com/artyom-poptsov/guile-ics) - iCalendar (RFC5545) format parser for GNU Guile.
@@ -12032,7 +12034,7 @@
 - [qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [apk-mitm](https://github.com/shroudedcode/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
-- [csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
+- [csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [hex-engine](https://github.com/suchipi/hex-engine) - A modern 2D game engine for the browser.
 - [meta-typing](https://github.com/ronami/meta-typing) - 📚 Functions and algorithms implemented purely with TypeScript's type system
 - [AVA](https://github.com/antvis/AVA) - 🤖 A framework for automated visual analytics.
