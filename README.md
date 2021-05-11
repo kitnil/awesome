@@ -4561,7 +4561,7 @@
 - [purple-docker](https://github.com/samuelkarp/purple-docker) - purple-docker: A libpurple protocol plugin for your Docker containers
 - [cbi](https://github.com/containerbuilding/cbi) - Container Builder Interface for Kubernetes with support for several backends (Docker, BuildKit, Buildah, kaniko, img, Google Cloud Container Builder, Azure Container Registry Build, OpenShift Source-to-Image...)
 - [container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
-- [krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares
+- [lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 - [g-fu](https://github.com/codr7/g-fu) - Lisp 2 Go
@@ -5451,7 +5451,7 @@
 - [finkel](https://github.com/finkel-lang/finkel) - Haskell in S-expression
 - [WhyHaskellMatters](https://github.com/thma/WhyHaskellMatters) - In this article I try to explain why Haskell keeps being such an important language by presenting some of its most important and distinguishing features and detailing them with working code examples.  The presentation aims to be self-contained and does not require any previous knowledge of the language.
 - [nixos-manager](https://github.com/pmiddend/nixos-manager) - Manage your NixOS packages and configuration via a simple, intuitive UI
-- [neut](https://github.com/u2zv1wx/neut) - A dependently-typed programming language with compile-time malloc/free determination
+- [neut](https://github.com/veka41/neut) - A dependently-typed programming language with compile-time malloc/free determination
 - [Haskell](https://github.com/BartoszMilewski/Haskell) - Haskell exercises
 - [goldplate](https://github.com/fugue/goldplate) - a cute and simple golden test runner for CLI applications
 - [nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
@@ -6897,7 +6897,7 @@
 ## Lua 
 
 - [which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
-- [lsp-trouble.nvim](https://github.com/folke/lsp-trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
+- [trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
 - [rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
 - [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
@@ -7323,7 +7323,7 @@
 - [awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [awesome-vue-composition-api](https://github.com/kefranabg/awesome-vue-composition-api) - 🚀 A curated list of awesome things related to vue composition api
 - [awesome-product-management](https://github.com/dend/awesome-product-management) - A curated list of awesome resources for product/program managers to learn and grow.
-- [awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ
+- [awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [awesome-ue4](https://github.com/terrehbyte/awesome-ue4) - A curated list of resources for working with Unreal Engine 4. (Awesome Unreal Engine 4)
 - [awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
 - [awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
@@ -9868,7 +9868,7 @@
 - [imutils](https://github.com/jrosebr1/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 - [pilbox](https://github.com/agschwender/pilbox) - An image resize application server
 - [icon-font-to-png](https://github.com/Pythonity/icon-font-to-png) - Python script (and library) for exporting icons from icon fonts (e.g. Font Awesome, Octicons) as PNG images
-- [image-match](https://github.com/EdjoLabs/image-match) - 🎇 Quickly search over billions of images
+- [image-match](https://github.com/ProvenanceLabs/image-match) - 🎇 Quickly search over billions of images
 - [neural-enhance](https://github.com/alexjc/neural-enhance) - Super Resolution for images using deep learning.
 - [yolog](https://github.com/kdexd/yolog) - Beautify your Git Logs !
 - [docker-graphite-statsd](https://github.com/hopsoft/docker-graphite-statsd) - Docker image for Graphite & Statsd
