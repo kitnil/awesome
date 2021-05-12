@@ -191,6 +191,7 @@
 
 ## C 
 
+- [pdf-tools](https://github.com/vedang/pdf-tools) - Emacs support library for PDF files.
 - [lighthouse-of-doom](https://github.com/skx/lighthouse-of-doom) - A simple text-based adventure game
 - [plan9](https://github.com/plan9foundation/plan9) - Plan 9 History, from 1992-09-21 to 2015-01-10.
 - [logtop](https://github.com/JulienPalard/logtop) - Display real time statistics of whatever you want.
@@ -1471,7 +1472,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.0.5.38134, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.0.5.38556, 3.3.5 = 3.3.5a.12340)
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
@@ -1522,7 +1523,6 @@
 - [zbackup](https://github.com/zbackup/zbackup) - ZBackup, a versatile deduplicating backup tool
 - [Barony](https://github.com/TurningWheel/Barony) - Barony Open Source Release
 - [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
-- [CRYENGINE](https://github.com/CRYTEK/CRYENGINE) - CRYENGINE is a powerful real-time game development platform created by Crytek.
 - [cherrytree](https://github.com/giuspen/cherrytree) - cherrytree
 - [audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player
 - [attract](https://github.com/mickelson/attract) - A graphical front-end for command line emulators that hides the underlying operating system and is intended to be controlled with a joystick or gamepad.
@@ -5639,7 +5639,7 @@
 - [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [crewmate](https://github.com/crewmate-srv/crewmate) - An open-source implementation of the Among Us server in Java.
 - [DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
-- [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具，支持内存，cpu状态，cpu主板温度，磁盘容量及IO，硬盘smart，系统负载，网络流量，进程等监控，API接口，大屏展示，拓扑图，端口监控，docker监控，日志文件监控，数据可视化，堡垒机(跳板机)，web版ssh
+- [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具，支持系统信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量，进程等监控，API接口，大屏展示，拓扑图，端口监控，docker监控，日志文件监控，数据可视化，webSSH工具，堡垒机(跳板机)
 - [liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [MusicDNA](https://github.com/harjot-oberai/MusicDNA) - A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.
@@ -5763,7 +5763,7 @@
 - [Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [docker-plugin](https://github.com/jenkinsci/docker-plugin) - Jenkins Cloud Plugin for Docker
 - [docker-swarm-plugin](https://github.com/jenkinsci/docker-swarm-plugin) - Jenkins plugin which allows to add a Docker Swarm as a cloud agent provider
-- [ksql](https://github.com/confluentinc/ksql) - The event streaming database purpose-built for stream processing applications
+- [ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 - [UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 - [jongo](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
 - [remarkable-hyutilities](https://github.com/moovida/remarkable-hyutilities) - A few utilities to interact with your reMarkable device
@@ -5959,7 +5959,7 @@
 - [GitStart](https://github.com/rishabh-bansal/GitStart) - Make a Pull Request
 - [awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database) - :clock7: A curated list of awesome time series databases, benchmarks and papers
 - [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
-- [yjs](https://github.com/yjs/yjs) - Peer-to-peer shared types
+- [yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [docable-notebooks](https://github.com/ottomatica/docable-notebooks) - :ledger: Next-Generation Interactive Notebooks
 - [Hello-Goodbye](https://github.com/bcye/Hello-Goodbye) - Available for Chrome, Firefox and Safari and as a blocklist to integrate into existing blockers.
 - [undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
@@ -7135,6 +7135,7 @@
 
 ## Nunjucks 
 
+- [1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
@@ -8226,7 +8227,7 @@
 - [leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.
 - [howdoi](https://github.com/san-kumar/howdoi) - Get quick answers to common linux related questions, right inside your terminal by typing "howdoi [your question]".
 - [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
-- [rector](https://github.com/rectorphp/rector) - Instant Upgrades and Instant Refactoring of any PHP 5.3+ code
+- [rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [xdebug-handler](https://github.com/composer/xdebug-handler) - Restart a CLI process without loading the xdebug extension.
 - [30-seconds-of-php](https://github.com/30-seconds/30-seconds-of-php) - Short PHP code snippets for all your development needs
 - [phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
@@ -12011,7 +12012,6 @@
 - [rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 - [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
-- [1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [orgajs](https://github.com/orgapp/orgajs) - parse org-mode content into AST
 - [kibana-object-format](https://github.com/istresearch/kibana-object-format) - A Kibana plugin for displaying objects and arrays of objects.
 - [codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
