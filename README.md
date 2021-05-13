@@ -1818,7 +1818,7 @@
 - [cl-covid19](https://github.com/dnaeon/cl-covid19) - Explore COVID-19 data with Common Lisp, gnuplot, SQL and Grafana
 - [cl-ledger](https://github.com/ledger/cl-ledger) - Port of the Ledger accounting system (see project "ledger") to Common Lisp
 - [hypertest](https://github.com/fouric/hypertest) - automatically run tests when redefining common lisp functions
-- [magicl](https://github.com/rigetti/magicl) - Matrix Algebra proGrams In Common Lisp.
+- [magicl](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp.
 - [cl-liballegro](https://github.com/resttime/cl-liballegro) - Common Lisp bindings and interface to the Allegro 5 game programming library
 - [jscl-react](https://github.com/nilesr/jscl-react) - A web framework for writing react components in common lisp using jscl
 - [asdf-linguist](https://github.com/eudoxia0/asdf-linguist) - ASDF extensions.
@@ -1919,8 +1919,8 @@
 - [trial](https://github.com/Shirakumo/trial) - Yet another Common Lisp game engine
 - [cmacro](https://github.com/eudoxia0/cmacro) - Lisp macros for C
 - [cl-morse](https://github.com/waldeinburg/cl-morse) - Morse support for Common Lisp
-- [qvm](https://github.com/rigetti/qvm) - The @rigetti high-performance quantum virtual machine.
-- [quilc](https://github.com/rigetti/quilc) - The @rigetti optimizing Quil compiler.
+- [qvm](https://github.com/quil-lang/qvm) - The high-performance and featureful Quil simulator.
+- [quilc](https://github.com/quil-lang/quilc) - The optimizing Quil compiler.
 - [cl-png](https://github.com/ljosa/cl-png) - Common Lisp library for reading and writing PNG files
 - [clx](https://github.com/sharplispers/clx) - a fork of crhodes' fork of danb's fork of the CLX library, an X11 client for Common Lisp
 - [quickproject](https://github.com/xach/quickproject) - Create a CL project skeleton
@@ -6138,6 +6138,7 @@
 - [search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Edge, Chrome and Firefox
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
+- [wordpress-seo](https://github.com/Yoast/wordpress-seo) - Yoast SEO for WordPress
 - [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [PopupWindow](https://github.com/ettoolong/PopupWindow) - Firefox add-on, move tab to standalone window, without tabs bar, navigation bar and bookmark bar UI.
 - [docker-pastebin](https://github.com/mko-x/docker-pastebin) - Paste your stuff however
@@ -6798,6 +6799,7 @@
 - [hackermath](https://github.com/amitkaps/hackermath) - Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 - [mltutorial](https://github.com/TwistedHardware/mltutorial) - Machine Learning Tutorial in IPython Notebooks
+- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) - Simple tutorials using Google's TensorFlow Framework
 - [vk-scripts](https://github.com/kepatopoc/vk-scripts) - Цербер: бесплатные скрипты для ВКонтакте
 
@@ -8244,7 +8246,6 @@
 - [Caesar](https://github.com/0blio/Caesar) - An HTTP based RAT (Remote Administration Tool) that allows you to remotely control devices from your browser
 - [yii2-webshell](https://github.com/samdark/yii2-webshell) - Web shell allows to run yii console commands using a browser
 - [DAws](https://github.com/dotcppfile/DAws) - Advanced Web Shell
-- [wordpress-seo](https://github.com/Yoast/wordpress-seo) - Yoast SEO for WordPress
 - [TeamPass](https://github.com/nilsteampassnet/TeamPass) - Collaborative Passwords Manager
 - [BrowserQuest-PHP](https://github.com/walkor/BrowserQuest-PHP) - BrowserQuest server in PHP base on workerman. A PHP/HTML5/JavaScript multiplayer game experiment.
 - [wordpress-activitypub](https://github.com/pfefferle/wordpress-activitypub) - ActivityPub for WordPress
@@ -8565,6 +8566,7 @@
 
 ## Python 
 
+- [nix-bisect](https://github.com/timokau/nix-bisect) - Bisect nix builds
 - [telegregator](https://github.com/parotikov/telegregator) - Channel agregator for Telegram based on python library Telethon
 - [yagmail](https://github.com/kootenpv/yagmail) - Send email in Python conveniently for gmail using yagmail
 - [beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
@@ -9466,7 +9468,7 @@
 - [PyFxA](https://github.com/mozilla/PyFxA) - Python library for interacting with the Firefox Accounts ecosystem
 - [curdling](https://github.com/clarete/curdling) - Concurrent package manager for Python
 - [sclack](https://github.com/haskellcamargo/sclack) - The best CLI client for Slack, because everything is terrible!
-- [chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games in browser.
+- [chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
 - [clustershell](https://github.com/cea-hpc/clustershell) - Scalable cluster administration Python framework — Manage node sets, node groups and execute commands on cluster nodes in parallel.
 - [learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [sarviewer](https://github.com/juliojsb/sarviewer) - Generate graphs with gnuplot or matplotlib (Python) from sar data
@@ -9937,7 +9939,6 @@
 - [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
-- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [mail-deduplicate](https://github.com/kdeldycke/mail-deduplicate) - 📧 CLI to deduplicate mails from mail boxes.
@@ -11067,6 +11068,9 @@
 
 ## Shell 
 
+- [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) - Plugin that lets you suspend local tmux session, so that you can work with nested remote tmux session painlessly.
+- [loffice-365](https://github.com/Fmstrat/loffice-365) - An electron wrapped Office 365 application integrated into your file manager as if it was a native application.
+- [termv](https://github.com/Roshan-R/termv) - A terminal iptv player written in bash
 - [ssh-tools](https://github.com/vaporup/ssh-tools) - ssh-tools
 - [lfcs](https://github.com/giulianop/lfcs) - Personal notes to prepare for the Linux Foundation Certified System Administrator (LFCS) exam
 - [acme](https://github.com/evbogdanov/acme) - My collection of Acme notes and scripts
@@ -11973,6 +11977,7 @@
 - [CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
 - [porn-vault](https://github.com/porn-vault/porn-vault) - 💋 Manage your ever-growing porn collection. Using Vue & GraphQL
 - [alm](https://github.com/alm-tools/alm) - :rose: A :cloud: ready IDE just for TypeScript :heart:
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [Dockter](https://github.com/oslabs-beta/Dockter) - A low-overhead, open-source Docker log management tool
 - [shell](https://github.com/pop-os/shell) - Pop!_OS Shell
@@ -12239,7 +12244,6 @@
 
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 - [ultrawidify](https://github.com/tamius-han/ultrawidify) - Firefox extension that allows you to work around some people's inability to properly encode 21:9 videos.
-- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，vuex,vue-router,Efforts to update in progress...
 - [vue-stroll](https://github.com/xiaoluoboding/vue-stroll) - 📜 Vue.js + Stroll.js. Awesome CSS list scroll effects for Vue2.x.
 - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - 🏄🏼  A SmoothPicker for Vue 2 (like native datetime picker of iOS)
