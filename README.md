@@ -54,6 +54,7 @@
   - [Haskell](#haskell)
   - [Haxe](#haxe)
   - [Hy](#hy)
+  - [Inno Setup](#inno-setup)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
@@ -153,6 +154,7 @@
 
 ## Assembly 
 
+- [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [micro-coreutils](https://github.com/mystor/micro-coreutils) - An implementation of the unix commands yes, cat, and echo in as few bytes of executable as possible
 - [asmlib](https://github.com/Number571/asmlib) - Little library for assembly language (fasm, x86-64, linux).
 - [bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
@@ -191,6 +193,13 @@
 
 ## C 
 
+- [RemotePotato0](https://github.com/antonioCoco/RemotePotato0) - Just another "Won't Fix" Windows Privilege Escalation from User to Domain Admin.
+- [sqlean](https://github.com/nalgeon/sqlean) - All the missing SQLite functions
+- [L-ink_Card](https://github.com/peng-zhihui/L-ink_Card) - Smart NFC & ink-Display Card
+- [cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
+- [diskgraph](https://github.com/stolk/diskgraph) - Graphs the disk IO in a linux terminal.
+- [memory-leak-detector](https://github.com/bytedance/memory-leak-detector) - 
+- [send-my](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network.
 - [pdf-tools](https://github.com/vedang/pdf-tools) - Emacs support library for PDF files.
 - [lighthouse-of-doom](https://github.com/skx/lighthouse-of-doom) - A simple text-based adventure game
 - [plan9](https://github.com/plan9foundation/plan9) - Plan 9 History, from 1992-09-21 to 2015-01-10.
@@ -1076,6 +1085,9 @@
 
 ## C++ 
 
+- [FractalSoundExplorer](https://github.com/HackerPoet/FractalSoundExplorer) - Explore fractals in an audio-visual sandbox
+- [ebpfsnitch](https://github.com/harporoeder/ebpfsnitch) - Linux Application Level Firewall based on eBPF and NFQUEUE.
+- [Paralloid](https://github.com/Paralloid/Paralloid) - Generic multi-booting solution for modern Android devices
 - [obs-csgo](https://github.com/luastoned/obs-csgo) - OBS Plugin to capture CS:GO with Trusted Mode enabled
 - [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) - Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
 - [DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -2155,7 +2167,7 @@
 - [emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
 - [gnus](https://github.com/dickmao/gnus) - Major changes to Gnus
 - [gnus-nnmaild](https://github.com/juanjosegarciaripoll/gnus-nnmaild) - Maildir backend for Gnus
-- [kbd-mode](https://github.com/slotThe/kbd-mode) - Emacs mode for syntax highlighting kmonad's .kbd files.
+- [kbd-mode](https://github.com/kmonad/kbd-mode) - Emacs mode for syntax highlighting kmonad's .kbd files.
 - [flycheck-plantuml](https://github.com/alexmurray/flycheck-plantuml) - Integrate plantuml with flycheck for automatic syntax errors highlighting in Emacs
 - [rii](https://github.com/ROCKTAKEY/rii) - Reversible input interface for multiple input.
 - [nroam](https://github.com/NicolasPetton/nroam) - Org-roam backlinks within org-mode buffers
@@ -3965,6 +3977,29 @@
 
 ## Go 
 
+- [oauth2l](https://github.com/google/oauth2l) - oauth2l ("oauth tool") is a simple CLI for interacting with Google API authentication.
+- [sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
+- [koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
+- [jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 [WIP] Feature-rich interactive Jira command-line focused on developer's productivity.
+- [triangula](https://github.com/RH12503/triangula) - Generate high-quality triangulated art from images.
+- [terraform-provider-bash](https://github.com/apparentlymart/terraform-provider-bash) - Terraform utility provider for constructing bash scripts that use data from a Terraform module
+- [docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
+- [turbolift](https://github.com/Skyscanner/turbolift) - A simple tool to help apply changes across many GitHub repositories simultaneously
+- [GodSpeed](https://github.com/redcode-labs/GodSpeed) - Fast and intuitive manager for multiple reverse shells
+- [bofied](https://github.com/pojntfx/bofied) - Modern network boot server.
+- [datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! The CLI integration provides a policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io
+- [go-fsimpl](https://github.com/hairyhenderson/go-fsimpl) - Go filesystem implementations for various URL schemes
+- [kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to create a cluster of PostgreSql instances and manage databases replication, failover and backup.
+- [censor-shell](https://github.com/iann0036/censor-shell) - Censors or hides shell / Bash / console output based on defined patterns - great for hiding secrets in demos!
+- [goldmark-pdf](https://github.com/stephenafamo/goldmark-pdf) - A PDF renderer for the goldmark markdown parser.
+- [gronx](https://github.com/adhocore/gronx) - Lightweight, fast and dependency-free Cron expression parser (due checker), task scheduler and/or daemon for Golang (tested on v1.13 and above) and standalone usage
+- [k8s-diagrams](https://github.com/Trois-Six/k8s-diagrams) - Create diagrams from the Kubernetes API with go-diagrams.
+- [pint](https://github.com/cloudflare/pint) - Prometheus rule linter
+- [sqlapi](https://github.com/ciceksepetitech/sqlapi) - SQL API is designed to be able to run queries on databases without any configuration by simple HTTP call.
+- [rtty](https://github.com/skanehira/rtty) - Terminal on browser via websocket
+- [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console.
+- [weebsay](https://github.com/irevenko/weebsay) - 🎭👄 Like cowsay but it's random anime quote
+- [mangadesk](https://github.com/darylhjd/mangadesk) - Terminal client for MangaDex 📖
 - [cmd-runner](https://github.com/mxssl/cmd-runner) - Execute commands on remote hosts asynchronously over ssh
 - [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
 - [txeh](https://github.com/txn2/txeh) - Go library and CLI utility for /etc/hosts management.
@@ -5190,6 +5225,7 @@
 
 ## HTML 
 
+- [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 - [ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
 - [big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
@@ -5202,6 +5238,7 @@
 - [awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
 - [conferences](https://github.com/planetruby/conferences) - What's Upcoming in 2021? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!
+- [awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [csinva.github.io](https://github.com/csinva/csinva.github.io) - Slides, paper notes, class notes, blog posts, and research on ML 📉, statistics 📊, and AI 🤖.
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
@@ -5368,6 +5405,9 @@
 
 ## Haskell 
 
+- [haskell-dangerous-functions](https://github.com/NorfairKing/haskell-dangerous-functions) - Documentation about Haskell's dangerous functions and a hlint config file to warn about them
+- [nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
+- [orgself](https://github.com/srid/orgself) - Exploring calendar outlining
 - [haskell-music](https://github.com/tsoding/haskell-music) - Source Code from "Making Music with Haskell" video
 - [dex-lang](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family
 - [izuna](https://github.com/matsumonkie/izuna) - Show Haskell type annotations when doing code review on Github
@@ -5445,7 +5485,7 @@
 - [haskell-phrasebook](https://github.com/typeclasses/haskell-phrasebook) - The Haskell Phrasebook: a quick intro to Haskell via small annotated example programs
 - [api.unverified.email](https://github.com/honest-technology/api.unverified.email) - A service to help with testing of sending the right emails
 - [aeson-yaml](https://github.com/clovyr/aeson-yaml) - Encode any Aeson (JSON) value as YAML (in pure Haskell)
-- [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
+- [kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [cut-the-crap](https://github.com/jappeace/cut-the-crap) - Automated video editing for streamers
 - [ghc-nix](https://github.com/ocharles/ghc-nix) - Exploring the options for incremental Haskell builds using Nix
 - [finkel](https://github.com/finkel-lang/finkel) - Haskell in S-expression
@@ -5613,8 +5653,13 @@
 - [hydiomatic](https://github.com/hylang/hydiomatic) - The Hy Transformer
 - [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 
+## Inno Setup 
+
+- [retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
+
 ## Java 
 
+- [Houseclub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse
 - [groovy-language-server](https://github.com/prominic/groovy-language-server) - A language server for Groovy
 - [microcraft](https://github.com/jdah/microcraft) - A minicraft remake
 - [remixed-dungeon](https://github.com/NYRDS/remixed-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface - Remixed Pixel Dungeon
@@ -5877,6 +5922,10 @@
 
 ## JavaScript 
 
+- [glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
+- [map-of-reddit](https://github.com/anvaka/map-of-reddit) - Interactive map of reddit
+- [winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
+- [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [jscoq](https://github.com/jscoq/jscoq) - A port of Coq to Javascript -- Run Coq in your Browser
 - [game](https://github.com/delaford/game) - ⚔️ An online JavaScript 2D Medieval RPG.
 - [rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!
@@ -6733,6 +6782,7 @@
 
 ## Jupyter Notebook 
 
+- [DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
 - [awesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab) - A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
 - [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) - A curated list of awesome embedding models tutorials, projects and communities.
@@ -6805,6 +6855,8 @@
 
 ## Kotlin 
 
+- [stackzy](https://github.com/theapache64/stackzy) - 💻 A cross-platform desktop application to identify libraries used inside an android application. Made possible by Compose Desktop ⚡
+- [SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android.
 - [tgto](https://github.com/Heapy/tgto) - Telegram to RSS bot.
 - [gradle-recipes](https://github.com/android/gradle-recipes) - Ready-to-use recipes for common build customizations that showcase the Android Gradle plugin's public APIs and DSL.
 - [kotlin-shell](https://github.com/jakubriegel/kotlin-shell) - Tool for performing shell-like programing in Kotlin
@@ -7070,7 +7122,6 @@
 - [nix-mikrotik](https://github.com/Plommonsorbet/nix-mikrotik) - 
 - [flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
 - [node_modules.nix](https://github.com/VanCoding/node_modules.nix) - A nix library to turn your package-lock.json into a fully populated node_modules directory
-- [nix.dev](https://github.com/nix-dot-dev/nix.dev) - An opinionated guide for developers wanting to get things done with Nix.
 - [staskell](https://github.com/jmackie/staskell) - 👷‍♀️ Nix helpers for building static Haskell executables
 - [thunderbird-extensions](https://github.com/ngi-nix/thunderbird-extensions) - 
 - [comma](https://github.com/Shopify/comma) - 
@@ -7201,6 +7252,16 @@
 
 ## Others 
 
+- [frontend-developer-resources](https://github.com/mrcodedev/frontend-developer-resources) - Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos
+- [awesome-job-list](https://github.com/randallkanna/awesome-job-list) - 
+- [awesome-repos](https://github.com/pawelbr/awesome-repos) - A curated list of awesome repositories full of free resources.
+- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
+- [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+- [hacking-resources](https://github.com/Lifka/hacking-resources) - Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.
+- [internet-monitoring](https://github.com/geerlingguy/internet-monitoring) - Monitor your network and internet speed with Docker & Prometheus
+- [qemu_blog](https://github.com/airbus-seclab/qemu_blog) - A series of posts about QEMU internals
+- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [awesome-youtubers](https://github.com/youtuberscafe/awesome-youtubers) - Awesome lists of youtubers
 - [RoguelikeDevResources](https://github.com/marukrap/RoguelikeDevResources) - A curated list of roguelike development resources
@@ -7326,7 +7387,6 @@
 - [awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [awesome-vue-composition-api](https://github.com/kefranabg/awesome-vue-composition-api) - 🚀 A curated list of awesome things related to vue composition api
 - [awesome-product-management](https://github.com/dend/awesome-product-management) - A curated list of awesome resources for product/program managers to learn and grow.
-- [awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [awesome-ue4](https://github.com/terrehbyte/awesome-ue4) - A curated list of resources for working with Unreal Engine 4. (Awesome Unreal Engine 4)
 - [awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
 - [awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
@@ -8217,6 +8277,7 @@
 
 ## PHP 
 
+- [pretty-routes](https://github.com/Wulfheart/pretty-routes) - Display your Laravel routes in the console, but make it pretty. 😎
 - [cli.fyi](https://github.com/daveearley/cli.fyi) - A Potentially Useful Command Line Query Tool
 - [vesta](https://github.com/serghey-rodin/vesta) - VESTA Control Panel
 - [panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
@@ -8566,6 +8627,19 @@
 
 ## Python 
 
+- [videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
+- [jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
+- [textflint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing
+- [nanodet](https://github.com/RangiLyu/nanodet) - ⚡Super fast and lightweight anchor-free object detection model. 🔥Only 1.8MB and run 97FPS on cellphone🔥
+- [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - The next best thing after Bloomberg Terminal
+- [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
+- [mongita](https://github.com/scottrogowski/mongita) - "Mongita is to MongoDB as SQLite is to SQL"
+- [Profil3r](https://github.com/Rog3rSm1th/Profil3r) - OSINT tool that allows you to find a person's accounts and emails + breached emails 🕵️
+- [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration.
+- [tfquery](https://github.com/mazen160/tfquery) - tfquery: Run SQL queries on your Terraform infrastructure.  Query resources and analyze its configuration using a SQL-powered framework.
+- [zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
+- [tenet](https://github.com/gaasedelen/tenet) - A Trace Explorer for Reverse Engineers
 - [nix-bisect](https://github.com/timokau/nix-bisect) - Bisect nix builds
 - [telegregator](https://github.com/parotikov/telegregator) - Channel agregator for Telegram based on python library Telethon
 - [yagmail](https://github.com/kootenpv/yagmail) - Send email in Python conveniently for gmail using yagmail
@@ -8655,6 +8729,7 @@
 - [tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
 - [homebox](https://github.com/progmaticltd/homebox) - A set of ansible scripts to build a personal mail server / private cloud / etc.
+- [nix.dev](https://github.com/nix-dot-dev/nix.dev) - An opinionated guide for developers wanting to get things done with the Nix ecosystem.
 - [yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
 - [autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts)
@@ -10274,6 +10349,7 @@
 
 ## Ruby 
 
+- [kredis](https://github.com/rails/kredis) - Higher-level data structures built on Redis
 - [mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 - [rubyspeed](https://github.com/agrafix/rubyspeed) - Compile ruby functions to C
 - [guix-vm](https://github.com/palfrey/guix-vm) - Scripts and support necessary to make a GuixSD Virtualbox image
@@ -10469,6 +10545,12 @@
 
 ## Rust 
 
+- [morse2sound](https://github.com/irevenko/morse2sound) - 📜🔁🎶 A CLI which converts morse code into sound
+- [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI client for steamcmd
+- [innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
+- [spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
+- [nix-eval-lsp](https://github.com/aaronjanse/nix-eval-lsp) - Nix language server that evaluates code
+- [ddi](https://github.com/tralph3/ddi) - A safer dd
 - [rust-browser-game-but-uefi](https://github.com/bit9tream/rust-browser-game-but-uefi) - The Bloat-Free Browser Game in Rust but in C and in UEFI
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
@@ -10525,7 +10607,7 @@
 - [milcheck](https://github.com/doums/milcheck) - A small binary that displays the status of your pacman mirrorlist in your terminal
 - [baru](https://github.com/doums/baru) - A system monitor written in Rust and C
 - [dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust with extensive plugin support
-- [rusty-editor](https://github.com/mrDIMAS/rusty-editor) - Scene editor for rg3d engine
+- [rusty-editor](https://github.com/rg3dengine/rusty-editor) - Scene editor for rg3d engine
 - [Graphite](https://github.com/GraphiteEditor/Graphite) - Powerful 2D vector and raster editing, made procedural and nondestructive (Photoshop + Illustrator + Houdini = Graphite)
 - [tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
 - [grout](https://github.com/tarkah/grout) - Simple tiling window manager for Windows
@@ -10817,7 +10899,7 @@
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [rustybox](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust 🦀
 - [kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
-- [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command for your terminal
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@jD91mZM2]
 - [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - Instant startup time for nix-shell
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
@@ -11965,6 +12047,13 @@
 
 ## TypeScript 
 
+- [angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 11, Nx Workspace, ngrx, TailwindCSS and ng-zorro
+- [remotion](https://github.com/JonnyBurger/remotion) - 🎥      Create videos programmatically in React
+- [git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
+- [flowchart-fun](https://github.com/tone-row/flowchart-fun) - A small app for making quick flowcharts from text ⿻
+- [git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
+- [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+- [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Public Beta 🎉)
 - [vscoq](https://github.com/coq-community/vscoq) - A Visual Studio Code extension for Coq [maintainers=@maximedenes,@fakusb]
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
@@ -12151,6 +12240,7 @@
 
 ## Vala 
 
+- [cawbird](https://github.com/IBBoard/cawbird) - A fork of the Corebird GTK Twitter client that continues to work with Twitter
 - [switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad) - Switchboard Mouse & Touchpad Plug
 - [gala](https://github.com/elementary/gala) - Gala Window Manager
 - [core](https://github.com/midori-browser/core) - Midori Web Browser - a lightweight, fast and free web browser using WebKit and GTK+
@@ -12242,6 +12332,7 @@
 
 ## Vue 
 
+- [GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io) - 📕 A website simulating linux system's GUI, using theme of Deepin distro.
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 - [ultrawidify](https://github.com/tamius-han/ultrawidify) - Firefox extension that allows you to work around some people's inability to properly encode 21:9 videos.
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，vuex,vue-router,Efforts to update in progress...
@@ -12284,6 +12375,7 @@
 
 ## Zig 
 
+- [ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [learnopengl](https://github.com/cshenton/learnopengl) - https://learnopengl.com tutorials ported to zig
 - [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
