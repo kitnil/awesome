@@ -193,6 +193,7 @@
 
 ## C 
 
+- [mousemic](https://github.com/ortegaalfredo/mousemic) - Simple tool to visualize and amplify mouse movements
 - [RemotePotato0](https://github.com/antonioCoco/RemotePotato0) - Just another "Won't Fix" Windows Privilege Escalation from User to Domain Admin.
 - [sqlean](https://github.com/nalgeon/sqlean) - All the missing SQLite functions
 - [L-ink_Card](https://github.com/peng-zhihui/L-ink_Card) - Smart NFC & ink-Display Card
@@ -1112,6 +1113,7 @@
 - [wisp](https://github.com/adam-mcdaniel/wisp) - A light lisp written in C++
 - [tiny_link](https://github.com/NoelFB/tiny_link) - tiny game made in ~15 hours on stream
 - [poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
+- [pdftotext](https://github.com/jalan/pdftotext) - Simple PDF text extraction
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
@@ -1356,7 +1358,7 @@
 - [EpicSurvivalGameSeries](https://github.com/tomlooman/EpicSurvivalGameSeries) - Third-person Survival Game for Unreal Engine 4 (Sample Project)
 - [tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 - [easystroke](https://github.com/thjaeger/easystroke) - X11 gesture recognition application
-- [DGEngine](https://github.com/dgengin/DGEngine) - An implementation of the Diablo 1 game engine
+- [DGEngine](https://github.com/dgcor/DGEngine) - An implementation of the Diablo 1 game engine
 - [NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [laminar](https://github.com/ohwgiles/laminar) - Fast and lightweight Continuous Integration
 - [curv](https://github.com/curv3d/curv) - a language for making art using mathematics
@@ -5055,7 +5057,7 @@
 - [systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
-- [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
+- [photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow
 - [writefreely](https://github.com/writefreely/writefreely) - Simple blogging platform made just for writers. Write together, and build a community.
 - [discord-cli](https://github.com/RickvanLoo/discord-cli) - Minimalistic Command-Line Interface for Discord
 - [gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
@@ -5922,6 +5924,7 @@
 
 ## JavaScript 
 
+- [htmleditor](https://github.com/mrdoob/htmleditor) - Simple editor for messing around.
 - [glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
 - [map-of-reddit](https://github.com/anvaka/map-of-reddit) - Interactive map of reddit
 - [winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
@@ -6914,6 +6917,7 @@
 - [Foodium](https://github.com/PatilShreyas/Foodium) - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2/Hilt, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
 - [p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 - [tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
+- [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [filebox](https://github.com/lyrebirdstudio/filebox) - Async file downloader for Android
 - [ShareToComputer](https://github.com/jimmod/ShareToComputer) - 
 - [komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
@@ -7596,7 +7600,6 @@
 - [awesome-webpack-perf](https://github.com/iamakulov/awesome-webpack-perf) - A curated list of webpack tools for web performance
 - [README-template.md](https://github.com/scottydocs/README-template.md) - A README template for anyone to copy and use.
 - [You-Dont-Need-Loops](https://github.com/you-dont-need/You-Dont-Need-Loops) - Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
-- [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [awesome-java](https://github.com/CodingDocs/awesome-java) - Collection of awesome Java project on Github(非常棒的 Java 开源项目集合).
 - [awesome-standalones](https://github.com/davatron5000/awesome-standalones) - A curated list of awesome framework-agnostic standalone web components
 - [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)
@@ -8433,7 +8436,6 @@
 - [sudo-parser](https://github.com/CiscoCXSecurity/sudo-parser) - sudo-parser is a tool to audit complex sudoers files
 - [flametrace](https://github.com/leifwalsh/flametrace) - Build flamegraph charts for process trees, based on strace
 - [waybackurls.pl](https://github.com/LvMalware/waybackurls.pl) - Search for urls of (sub)domains using the web archive database
-- [nzkfuzzer](https://github.com/NozakiLabs/nzkfuzzer) - An HTTP fuzzer based on dynamics workflows written in YAML
 - [ipmi_fancontrol-ng](https://github.com/DrSpeedy/ipmi_fancontrol-ng) - IPMI Fan Control Daemon
 - [git-branchdates](https://github.com/rolandwalker/git-branchdates) - Highly configurable git branch lister with TrueColor and GitHub PR support
 - [draco](https://github.com/andinus/draco) - Draco is a script to convert reddit thread to Org document
@@ -8706,7 +8708,6 @@
 - [best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [nanovna-saver](https://github.com/NanoVNA-Saver/nanovna-saver) - A tool for reading, displaying and saving data from the NanoVNA
-- [pdftotext](https://github.com/jalan/pdftotext) - Simple PDF text extraction
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [pypi-data](https://github.com/sethmlarson/pypi-data) - Mostly up-to-date data about almost every package on PyPI
 - [writehat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python.  Free yourself from Microsoft Word.
@@ -10545,6 +10546,7 @@
 
 ## Rust 
 
+- [todo_r](https://github.com/lavifb/todo_r) - Find all your TODO notes with one command!
 - [morse2sound](https://github.com/irevenko/morse2sound) - 📜🔁🎶 A CLI which converts morse code into sound
 - [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI client for steamcmd
 - [innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
