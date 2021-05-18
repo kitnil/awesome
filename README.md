@@ -2157,6 +2157,7 @@
 
 ## Emacs Lisp 
 
+- [open-conf](https://github.com/enisozgen/open-conf) - Open files via M-x buffer
 - [sway.el](https://github.com/thblt/sway.el) - Emacs ❤️ Sway
 - [baff](https://github.com/dave-f/baff) - Create a header containing a byte array generated from a file
 - [sound-wav](https://github.com/emacsorphanage/sound-wav) - Play wav file
@@ -2656,6 +2657,7 @@
 - [org-redmine](https://github.com/gongo/org-redmine) - Redmine tools using Emacs OrgMode
 - [ts.el](https://github.com/alphapapa/ts.el) - Emacs timestamp and date-time library
 - [smudge](https://github.com/danielfm/smudge) - Control the Spotify app from within Emacs.
+- [robe](https://github.com/dgutov/robe) - Code navigation, documentation lookup and completion for Ruby
 - [emacs-format-all-the-code](https://github.com/lassik/emacs-format-all-the-code) - Auto-format source code in many languages with one command
 - [elscreen](https://github.com/knu/elscreen) - elscreen patched to work with recent Emacs
 - [hl-todo](https://github.com/tarsius/hl-todo) - Highlight TODO keywords
@@ -4030,7 +4032,7 @@
 - [mtorrent](https://github.com/nektro/mtorrent) - A totally configurable terminal torrent client.
 - [hakcron](https://github.com/hakluke/hakcron) - Easily schedule commands to run multiple times at set intervals (like a cronjob, but with one command)
 - [kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
-- [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload
+- [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [sql-jobber](https://github.com/knadh/sql-jobber) - A highly opinionated, distributed job-queue built specifically for queuing and executing heavy SQL read jobs asynchronously. Supports MySQL and Postgres.
 - [koanf](https://github.com/knadh/koanf) - Light weight, extensible configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [email-verifier](https://github.com/AfterShip/email-verifier) - :white_check_mark: A Go library for email verification without sending any emails.
@@ -5287,7 +5289,6 @@
 - [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
 - [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
-- [awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
 - [awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [git-history-editor](https://github.com/bokub/git-history-editor) - :pencil2: Online commit editor, intuitive and easy to use
@@ -7746,6 +7747,7 @@
 - [awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
 - [awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅
 - [learning-oop-in-php](https://github.com/marcelgsantos/learning-oop-in-php) - A collection of resources to learn object-oriented programming and related concepts for PHP developers.
+- [awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
 - [awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
@@ -7956,7 +7958,7 @@
 - [everydaylearn](https://github.com/zhongshendoushuizhao/everydaylearn) - i`m a cat ~ find fish
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
-- [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) - 2019 年成為 Web 開發人員的路線圖
+- [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) - 2021 年成為 Web 開發人員的路線圖 台灣正體中文版
 - [awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources) - A curated list of everything anime.
 - [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
@@ -10251,7 +10253,7 @@
 - [tidyexplain](https://github.com/gadenbuie/tidyexplain) - 🤹‍♀ Animations of tidyverse verbs using R, the tidyverse, and gganimate
 - [renv](https://github.com/rstudio/renv) - renv: Project environments for R.
 - [dplyr-cli](https://github.com/coolbutuseless/dplyr-cli) - Manipulate CSV files on the command line using dplyr
-- [trackmd](https://github.com/ropenscilabs/trackmd) - Tools for tracking changes in Markdown format within RStudio
+- [trackmd](https://github.com/ropensci-archive/trackmd) - :no_entry: ARCHIVED :no_entry: Tools for tracking changes in Markdown format within RStudio
 - [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R
 - [datapasta](https://github.com/MilesMcBain/datapasta) - On top of spaghetti, all covered in cheese....
 - [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
@@ -10449,7 +10451,6 @@
 - [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [cookbook-elasticsearch](https://github.com/elastic/cookbook-elasticsearch) - Chef cookbook for Elasticsearch
 - [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch) - Ansible playbook for Elasticsearch
-- [robe](https://github.com/dgutov/robe) - Code navigation, documentation lookup and completion for Ruby
 - [sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby
 - [zabbixapi](https://github.com/express42/zabbixapi) - Ruby wrapper to Zabbix API
 - [parallel](https://github.com/grosser/parallel) - Ruby: parallel processing made simple and fast
@@ -11074,7 +11075,7 @@
 - [zem](https://github.com/Jimx-/zem) - Extensible Emacs-like text editor with Guile
 - [scm-bot](https://github.com/NERD-ALMATY/scm-bot) - Telegram bot with Scheme interpreter
 - [bibliography](https://github.com/schemedoc/bibliography) - Bibliography of Scheme research (readscheme.org and beyond)
-- [guix-science](https://github.com/guix-science/guix-science) - Free scientific packages for GNU guix that cannot be upstreamed.
+- [guix-science](https://github.com/guix-science/guix-science) - Free scientific packages for GNU Guix.
 - [international-scheme](https://github.com/metaphorm/international-scheme) - Translating the Scheme programming language to every human language.
 - [metabash](https://github.com/artyom-poptsov/metabash) - M#!  Distributed shell pipelines with GNU Guile.
 - [srfi-test](https://github.com/srfi-explorations/srfi-test) - Collecting up-to-date test suites for SRFIs
