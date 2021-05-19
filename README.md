@@ -154,6 +154,7 @@
 
 ## Assembly 
 
+- [os-series](https://github.com/davidcallanan/os-series) - 
 - [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [micro-coreutils](https://github.com/mystor/micro-coreutils) - An implementation of the unix commands yes, cat, and echo in as few bytes of executable as possible
 - [asmlib](https://github.com/Number571/asmlib) - Little library for assembly language (fasm, x86-64, linux).
@@ -382,7 +383,6 @@
 - [lede](https://github.com/coolsnowwolf/lede) - Lean's OpenWrt source
 - [ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more
 - [StarRuler2-Source](https://github.com/BlindMindStudios/StarRuler2-Source) - 4X Space Strategy game Star Ruler 2's open source distribution.
-- [SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
 - [yodaos](https://github.com/yodaos-project/yodaos) - Yet another Linux distribution for voice-enabled IoT and embrace Web standards
 - [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -1180,6 +1180,7 @@
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
 - [retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [AnyQ](https://github.com/baidu/AnyQ) - FAQ-based Question Answering System
+- [SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
 - [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
 - [zetasql](https://github.com/google/zetasql) - ZetaSQL - Analyzer Framework for SQL
 - [quinesnake](https://github.com/taylorconor/quinesnake) - A quine that plays snake over its own source!
@@ -2098,6 +2099,7 @@
 - [docker-nginx-simple](https://github.com/mko-x/docker-nginx-simple) - Simple nginx serving static content in just a few lines of code.
 - [xubuntu-vnc](https://github.com/accetto/xubuntu-vnc) - Retired! Please use the newer G3 repositories. Headless Ubuntu/Xfce containers with VNC and various applications (Generation 2)
 - [xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc) - Headless Ubuntu/Xfce containers with VNC/noVNC and various applications (Generation 2)
+- [serverless-libreoffice](https://github.com/vladgolubev/serverless-libreoffice) - Run LibreOffice in AWS Lambda to create PDFs & convert documents
 - [docker-pxe](https://github.com/ferrarimarco/docker-pxe) - A virtualized implementation of PXE supported by DNSMasq
 - [docker-nix](https://github.com/nix-community/docker-nix) - Docker image for nix [maintainer=@zimbatm] [status=deprecated]
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
@@ -5315,7 +5317,7 @@
 - [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [list-packages](https://github.com/xuchunyang/list-packages) - 
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
-- [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
+- [intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [Cookbook](https://github.com/DevDungeon/Cookbook) - Code snippets for various programming languages and libraries
 - [webperl](https://github.com/haukex/webperl) - Run Perl in the browser with WebPerl!
 - [computefreely](https://github.com/snwh/computefreely) - The source of Compute Freely website
@@ -6204,7 +6206,6 @@
 - [lessmd](https://github.com/linuxenko/lessmd) - A small markdown viewer/converter for unix terminal.
 - [serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [legit](https://github.com/captainsafia/legit) - Add licenses to projects at the command line
-- [serverless-libreoffice](https://github.com/vladgolubev/serverless-libreoffice) - Run LibreOffice in AWS Lambda to create PDFs & convert documents
 - [shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
@@ -6568,7 +6569,7 @@
 - [webpack-howto](https://github.com/petehunt/webpack-howto) - 
 - [dojo](https://github.com/dojo/dojo) - Dojo 1 - the Dojo 1 toolkit core library.
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-- [JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript Code Quality Tool
+- [jslint](https://github.com/douglascrockford/jslint) - The JavaScript Code Quality Tool
 - [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [babel-standalone](https://github.com/babel/babel-standalone) - :video_game: Now located in the Babel repo! Standalone build of Babel for use in non-Node.js environments, including browsers.
 - [react-essential-course](https://github.com/krambertech/react-essential-course) - ITVDN - React Essential course materials
@@ -6863,6 +6864,8 @@
 
 ## Kotlin 
 
+- [gradle2nix](https://github.com/tadfisher/gradle2nix) - Generate Nix expressions which build Gradle-based projects.
+- [kscript](https://github.com/holgerbrandl/kscript) - Scripting enhancements for Kotlin
 - [stackzy](https://github.com/theapache64/stackzy) - 💻 A cross-platform desktop application to identify libraries used inside an android application. Made possible by Compose Desktop ⚡
 - [SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
 - [tgto](https://github.com/Heapy/tgto) - Telegram to RSS bot.
@@ -8878,7 +8881,7 @@
 - [gilot](https://github.com/hirokidaichi/gilot) - a tool to analyze and visualize git logs.
 - [pathfinder.vim](https://github.com/danth/pathfinder.vim) - Vim plugin to suggest better movements
 - [hardcodes](https://github.com/s0md3v/hardcodes) - find hardcoded strings from source code
-- [isomorphic-copy](https://github.com/ms-jpq/isomorphic-copy) - Cross platform clipboard | networkless! remote copy
+- [isomorphic_copy](https://github.com/ms-jpq/isomorphic_copy) - Cross platform clipboard | networkless! remote copy
 - [unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface and Library to remove silent parts of a media file 🔈
 - [hotreload](https://github.com/say4n/hotreload) - hot reload your python code!
 - [smuggler](https://github.com/defparam/smuggler) - Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
@@ -12067,7 +12070,7 @@
 - [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [SnowFS](https://github.com/Snowtrack/SnowFS) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [react-gtk](https://github.com/clayrisser/react-gtk) - *React Native bridge for gtk desktop applications
-- [nx](https://github.com/nrwl/nx) - Powerful, Extensible Dev Tools
+- [nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
 - [habitica-tracker](https://github.com/ddycai/habitica-tracker) - Tool that displays a history of your Habits, Dailies and completed Todos in Habitica like habit tracker. Check out the Github page to try it out.
 - [uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
 - [alive](https://github.com/nobody-famous/alive) - Common Lisp Extension for VSCode
