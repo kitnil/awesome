@@ -231,7 +231,6 @@
 - [CPU-X](https://github.com/X0rg/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
 - [tuna](https://github.com/Gusaroo/tuna) - A mobile UI for xfce
 - [obs-vkcapture](https://github.com/nowrep/obs-vkcapture) - OBS Linux Vulkan/OpenGL game capture
-- [bm](https://github.com/tsoding/bm) - Stack-Based Language with Meta-Programming
 - [wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
 - [direwolf](https://github.com/wb2osz/direwolf) - Dire Wolf is a software "soundcard" AX.25 packet modem/TNC and APRS encoder/decoder. It can be used stand-alone to observe APRS traffic, as a tracker, digipeater, APRStt gateway, or Internet Gateway (IGate).   For more information, look at the bottom 1/4 of this page and in https://github.com/wb2osz/direwolf/blob/dev/doc/README.md
 - [libbpfgo-beginners](https://github.com/lizrice/libbpfgo-beginners) - Basic eBPF examples in Golang using libbpfgo
@@ -339,6 +338,7 @@
 - [yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [xtmon](https://github.com/vimist/xtmon) - An EWMH compliant X window title monitoring tool.
 - [mustardwatch](https://github.com/shachaf/mustardwatch) - Detect what files a program uses and rerun it when they change
+- [askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [emacs-libyaml](https://github.com/syohex/emacs-libyaml) - libyaml binding of Emacs Lisp
 - [proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
@@ -4343,7 +4343,6 @@
 - [memplot](https://github.com/0x0f0f0f/memplot) - Generate image plots of processes' memory usage very quickly, within a single binary.
 - [sql2slack](https://github.com/alash3al/sql2slack) - send sql results periodically to slack
 - [obs-wormhole](https://github.com/pion/obs-wormhole) - Supercharge OBS with WebRTC. Remote WebRTC Sources and Serverless Broadcasting
-- [askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [read-mongo-logs](https://github.com/kevinburke/read-mongo-logs) - Tail Mongo database logs
 - [terradb](https://github.com/camptocamp/terradb) - A unified database for Terraform data
 - [fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
@@ -5399,7 +5398,6 @@
 - [pykwiki](https://github.com/nullism/pykwiki) - PyKwiki, a static file Python MarkDown wiki rendered by Jinja2
 - [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
 - [pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
-- [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 - [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
@@ -6569,7 +6567,7 @@
 - [webpack-howto](https://github.com/petehunt/webpack-howto) - 
 - [dojo](https://github.com/dojo/dojo) - Dojo 1 - the Dojo 1 toolkit core library.
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-- [jslint](https://github.com/douglascrockford/jslint) - The JavaScript Code Quality Tool
+- [jslint](https://github.com/jslint-org/jslint) - The JavaScript Code Quality Tool
 - [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [babel-standalone](https://github.com/babel/babel-standalone) - :video_game: Now located in the Babel repo! Standalone build of Babel for use in non-Node.js environments, including browsers.
 - [react-essential-course](https://github.com/krambertech/react-essential-course) - ITVDN - React Essential course materials
@@ -6771,6 +6769,7 @@
 - [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
+- [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
 
 ## Jsonnet 
 
@@ -9358,7 +9357,7 @@
 - [tools](https://github.com/githubmaidou/tools) - Python渗透漏洞工具
 - [slingshot](https://github.com/ryanakca/slingshot) - Simple 2D shooting strategy game set in space, with gravity
 - [LiSE](https://github.com/LogicalDash/LiSE) - Rules-based engine for life sims
-- [ERNIE](https://github.com/PaddlePaddle/ERNIE) - An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)
+- [ERNIE](https://github.com/PaddlePaddle/ERNIE) - Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.
 - [json2xml](https://github.com/vinitkumar/json2xml) - json to xml converter in python3
 - [xml2json](https://github.com/hay/xml2json) - Python script converts XML to JSON or the other way around
 - [sublert](https://github.com/yassineaboukir/sublert) - Sublert is a security and reconnaissance tool which leverages certificate transparency to automatically monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate.
@@ -12224,7 +12223,7 @@
 - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [academic-bloggers-toolkit](https://github.com/dsifford/academic-bloggers-toolkit) - WordPress plugin providing an all-in-one solution for effective academic blogging.
-- [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [staticsitegenerators-website](https://github.com/bevry/staticsitegenerators-website) - Website containing the complete listing of static site generators
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
