@@ -554,7 +554,7 @@
 - [xbps](https://github.com/void-linux/xbps) - The X Binary Package System
 - [gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
-- [PackageKit](https://github.com/hughsie/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
+- [PackageKit](https://github.com/PackageKit/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
 - [esos](https://github.com/quantum/esos) - An open source, high performance, block-level storage platform.
 - [rappel](https://github.com/yrp604/rappel) - A linux-based assembly REPL for x86, amd64, armv7, and armv8
 - [rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
@@ -5759,7 +5759,6 @@
 - [PiracyChecker](https://github.com/javiersantos/PiracyChecker) - An Android library that prevents your app from being pirated / cracked using Google Play Licensing (LVL), APK signature protection and more. API 14+ required.
 - [WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development
-- [che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
 - [piggymetrics](https://github.com/sqshq/piggymetrics) - Microservice Architecture with Spring Boot, Spring Cloud and Docker
 - [build-failure-analyzer-plugin](https://github.com/jenkinsci/build-failure-analyzer-plugin) - 
 - [jenkins-build-monitor-plugin](https://github.com/jan-molak/jenkins-build-monitor-plugin) - Jenkins CI Build Monitor Plugin
@@ -5959,7 +5958,7 @@
 - [next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是使用Golang和React开发的一款HTML5的远程桌面网关，具有小巧、易安装、易使用、资源占用小的特点，支持RDP、SSH、VNC和Telnet协议的连接和管理。
 - [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
-- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [papers-with-video](https://github.com/amitness/papers-with-video) - A browser extension that adds video explanations to research papers on arxiv.org
 - [github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
@@ -6907,7 +6906,7 @@
 - [StfalconImageViewer](https://github.com/stfalcon-studio/StfalconImageViewer) - A simple and customizable Android full-screen image viewer with shared image transition support, "pinch to zoom" and "swipe to dismiss" gestures
 - [chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device) - More Chucker than Chuck
 - [adb-event-mirror](https://github.com/JakeWharton/adb-event-mirror) - Mirror the touch/key/button events of one device onto one or more other devices in real-time
-- [Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+- [Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 - [awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources) - 👓 A curated list of awesome android learning resources for android app developers.
 - [awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - 👓 A curated list of awesome android kotlin apps by open-source contributors.
 - [awesome-kotlin-android](https://github.com/adisonhuang/awesome-kotlin-android) - 🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源
@@ -7611,7 +7610,7 @@
 - [awesome-standalones](https://github.com/davatron5000/awesome-standalones) - A curated list of awesome framework-agnostic standalone web components
 - [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)
 - [awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
-- [crawlergo](https://github.com/0Kee-Team/crawlergo) - A powerful dynamic crawler for web vulnerability scanners
+- [crawlergo](https://github.com/0Kee-Team/crawlergo) - A powerful browser crawler for web vulnerability scanners
 - [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
 - [awesome-burp-suite](https://github.com/alphaSeclab/awesome-burp-suite) - Awesome Burp Suite Resources. 400+ open source Burp plugins, 400+ posts and videos.
 - [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) - A collection of the best resources for programming, web development, computer science and more.
@@ -9790,7 +9789,7 @@
 - [gtk-pomodoro-indicator](https://github.com/abo-abo/gtk-pomodoro-indicator) - A simple pomodoro indicator for Unity/GTK tray
 - [eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
 - [awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
-- [Theano](https://github.com/Theano/Theano) - Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+- [Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as aesara: www.github.com/pymc-devs/aesara
 - [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [onelinerizer](https://github.com/csvoss/onelinerizer) - Convert any Python 2 file into a single line of code
@@ -10210,7 +10209,7 @@
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 - [django-ajax](https://github.com/joestump/django-ajax) - A simple framework for creating AJAX endpoints in Django.
 - [django-ajax](https://github.com/yceruto/django-ajax) - Fast and easy AJAX libraries for django applications. Contains ajax decorator, ajax middleware, shortcuts and more.
-- [dj-static](https://github.com/heroku-python/dj-static) - Serve production static files with Django.
+- [dj-static](https://github.com/heroku-python/dj-static) - DEPRECATED - use WhiteNoise instead!
 - [python-livereload](https://github.com/lepture/python-livereload) - livereload server in python (MAINTAINERS NEEDED)
 - [django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
@@ -10884,7 +10883,7 @@
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline.
+- [vector](https://github.com/timberio/vector) - High-performance observability data pipelines.
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -12147,6 +12146,7 @@
 - [spectro](https://github.com/calebj0seph/spectro) - 🎶 Real-time audio spectrogram generator for the web
 - [outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
 - [nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
+- [che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
 - [grafana-image-renderer](https://github.com/grafana/grafana-image-renderer) - A Grafana backend plugin that handles rendering of panels & dashboards to PNGs using headless browser (Chromium/Chrome)
 - [jcasc-vscode-extension](https://github.com/jenkinsci/jcasc-vscode-extension) - A VSCode Plugin for Jenkins Integration
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
