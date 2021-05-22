@@ -3990,7 +3990,7 @@
 - [sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
 - [koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
 - [jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 [WIP] Feature-rich interactive Jira command-line.
-- [triangula](https://github.com/RH12503/triangula) - Generate high-quality triangulated art from images.
+- [triangula](https://github.com/RH12503/triangula) - Generate high-quality triangulated and polygonal art from images.
 - [terraform-provider-bash](https://github.com/apparentlymart/terraform-provider-bash) - Terraform utility provider for constructing bash scripts that use data from a Terraform module
 - [docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
 - [turbolift](https://github.com/Skyscanner/turbolift) - A simple tool to help apply changes across many GitHub repositories simultaneously
@@ -4104,7 +4104,7 @@
 - [cert-checker](https://github.com/mogensen/cert-checker) - Certificate monitoring utility for watching tls certificates and reporting the result as metrics.
 - [notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
-- [slick](https://github.com/ExaScience/slick) - The Slick programming language is an s-expression surface syntax for Go.
+- [slick](https://github.com/pcostanza/slick) - The Slick programming language is an s-expression surface syntax for Go.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [wprecon](https://github.com/blackbinn/wprecon) - WPrecon (WordPress Recon), is a vulnerability recognition tool in CMS Wordpress, developed in Go and with scripts in Lua.
 - [mosdns](https://github.com/IrineSistiana/mosdns) - 插件化 DNS 路由/转发器。
@@ -4124,7 +4124,7 @@
 - [journalist](https://github.com/mrusme/journalist) - Journalist. An RSS aggregator.
 - [vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
 - [valast](https://github.com/hexops/valast) - Convert Go values to their AST
-- [gistfs](https://github.com/jhchabran/gistfs) - A Go io/fs filesystem implementation for reading files in a Github gists.
+- [gistfs](https://github.com/jhchabran/gistfs) - A Go io/fs filesystem implementation for reading files in Github gists.
 - [local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
 - [what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
 - [uroboros](https://github.com/evilsocket/uroboros) - A GNU/Linux monitoring and profiling tool focused on single processes.
@@ -6981,7 +6981,7 @@
 - [VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 - [mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
 - [material-awesome](https://github.com/material-shell/material-awesome) - Material and Mouse driven config for AwesomeWM 4.3
-- [BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting made using Lua and LÖVE.
+- [BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [tmux-filetree](https://github.com/PhilipRoman/tmux-filetree) - Simple, non-intrusive dynamic file tree which always tracks your active Tmux pane
 - [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
@@ -7169,7 +7169,7 @@
 - [static-haskell-nix](https://github.com/nh2/static-haskell-nix) - easily build most Haskell programs into fully static Linux executables
 - [devos](https://github.com/divnix/devos) - NixOS Framework
 - [reflex-platform](https://github.com/reflex-frp/reflex-platform) - A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.
-- [mobile-nixos](https://github.com/NixOS/mobile-nixos) - Questions? #nixos-aarch64 (or #nixos) on Freenode!
+- [mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
 - [nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
 - [nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
@@ -9775,7 +9775,6 @@
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
-- [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [leo-editor](https://github.com/leo-editor/leo-editor) - Leo is an Outliner, Editor, IDE and PIM written in 100% Python.
 - [KomodoEdit](https://github.com/Komodo/KomodoEdit) - Komodo Edit is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
 - [github-snooze-button](https://github.com/tdsmith/github-snooze-button) - Lets you add labels to Github issues that auto-clear on new activity.
@@ -10857,6 +10856,7 @@
 - [ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
 - [rash](https://github.com/rash-sh/rash) - Declarative shell scripting container oriented
 - [i3-bindings](https://github.com/tupini07/i3-bindings) - Simple tool that reads the i3 config files and shows a table with the bindings defined therein
+- [i3-bindings](https://github.com/tupini07/i3-bindings) - Simple tool that reads the i3 config files and shows a table with the bindings defined therein
 - [learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
 - [autopilot-deno](https://github.com/littledivy/autopilot-deno) - :rocket: Cross-platform desktop automation library for Deno.
 - [glsp](https://github.com/fleabitdev/glsp) - The GameLisp scripting language
@@ -11853,6 +11853,7 @@
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
+- [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [ubuntu-configuration](https://github.com/goq/ubuntu-configuration) - Configuration of Debian based OS, such as: Ubuntu, Mint, and Elementary OS
 - [asp](https://github.com/archlinux/asp) - Arch Build Source Management Tool
