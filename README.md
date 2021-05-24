@@ -194,6 +194,10 @@
 
 ## C 
 
+- [wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
+- [nginx-link-function](https://github.com/Taymindis/nginx-link-function) - It is a NGINX module that provides dynamic linking to your application in server context and call the function of your application in location directive
+- [ngx_http_untar_module](https://github.com/ajax16384/ngx_http_untar_module) - Nginx HTTP Untar Module
+- [nginx-haskell-module](https://github.com/lyokha/nginx-haskell-module) - Nginx module for binding Haskell code in configuration files for great good!
 - [mousemic](https://github.com/ortegaalfredo/mousemic) - Simple tool to visualize and amplify mouse movements
 - [RemotePotato0](https://github.com/antonioCoco/RemotePotato0) - Just another "Won't Fix" Windows Privilege Escalation from User to Domain Admin.
 - [sqlean](https://github.com/nalgeon/sqlean) - All the missing SQLite functions
@@ -636,7 +640,7 @@
 - [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 - [bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
-- [libexpat](https://github.com/libexpat/libexpat) - :herb: Expat library: Fast streaming XML parser written in C; in the process of migrating from SourceForge to GitHub
+- [libexpat](https://github.com/libexpat/libexpat) - :herb: Expat library: Fast streaming XML parser written in C99; in the process of migrating from SourceForge to GitHub
 - [rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge) - Hardware backdoors in some x86 CPUs
 - [keybinder](https://github.com/kupferlauncher/keybinder) - ``keybinder`` is a library for registering global key bindings, for gtk-based applications in X11. With gir bindings.
 - [vkQuake](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm
@@ -1061,7 +1065,6 @@
 
 - [sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
-- [bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 - [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
@@ -3294,7 +3297,7 @@
 - [circadian.el](https://github.com/guidoschmidt/circadian.el) - Theme-switching for Emacs based on daytime
 - [emacs-pug-mode](https://github.com/hlissner/emacs-pug-mode) - Pug support for Emacs, based on slim-mode.
 - [danneskjold-theme](https://github.com/rails-to-cosmos/danneskjold-theme) - Beautiful high-contrast emacs theme
-- [.emacs.d](https://github.com/junjiemars/.emacs.d) - More Reasonable Emacs on MacOS, Windows and Linux
+- [.emacs.d](https://github.com/junjiemars/.emacs.d) - Nore Emacs on MacOS, Windows and Linux
 - [go-playground](https://github.com/grafov/go-playground) - GNU/Emacs mode that setup local Go playground for code snippets like play.golang.org or even better :)
 - [helm-describe-modes](https://github.com/emacs-helm/helm-describe-modes) - Major and minor mode info with Helm
 - [eros](https://github.com/xiongtx/eros) - Evaluation Result OverlayS for Emacs Lisp.
@@ -4035,6 +4038,7 @@
 - [hakcron](https://github.com/hakluke/hakcron) - Easily schedule commands to run multiple times at set intervals (like a cronjob, but with one command)
 - [kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
 - [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
+- [simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
 - [sql-jobber](https://github.com/knadh/sql-jobber) - A highly opinionated, distributed job-queue built specifically for queuing and executing heavy SQL read jobs asynchronously. Supports MySQL and Postgres.
 - [koanf](https://github.com/knadh/koanf) - Light weight, extensible configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [email-verifier](https://github.com/AfterShip/email-verifier) - :white_check_mark: A Go library for email verification without sending any emails.
@@ -4086,7 +4090,7 @@
 - [generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 - [UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
-- [Hilbish](https://github.com/Hilbis/Hilbish) - 🎀 a nice lil shell for lua people made with go and lua
+- [Hilbish](https://github.com/Mewyuna/Hilbish) - 🎀 a nice lil shell for lua people made with go and lua
 - [dsf](https://github.com/nanmu42/dsf) - DSF - Dead Simple Fileserver / 极简HTTP文件服务
 - [accelerated-container-image](https://github.com/alibaba/accelerated-container-image) - accelerated-container-image
 - [netz](https://github.com/SpectralOps/netz) - Discover internet-wide misconfigurations while drinking coffee
@@ -4106,7 +4110,7 @@
 - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [slick](https://github.com/pcostanza/slick) - The Slick programming language is an s-expression surface syntax for Go.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
-- [wprecon](https://github.com/blackbinn/wprecon) - WPrecon (WordPress Recon), is a vulnerability recognition tool in CMS Wordpress, developed in Go and with scripts in Lua.
+- [wprecon](https://github.com/blackbinn/wprecon) - The official wprecon repository
 - [mosdns](https://github.com/IrineSistiana/mosdns) - 插件化 DNS 路由/转发器。
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
@@ -5574,7 +5578,7 @@
 - [small-lisp](https://github.com/luizperes/small-lisp) - Small Lisp REPL written in Haskell
 - [zero-bullshit-haskell](https://github.com/alpacaaa/zero-bullshit-haskell) - Learn Haskell, without the bullshit.
 - [dynamic](https://github.com/chrisdone/dynamic) - Dynamic typing in Haskell
-- [kit](https://github.com/kitlang/kit) - Kit: a magical, high performance programming language, designed for game development. Pre-alpha!
+- [kit](https://github.com/kitlang/kit) - (INACTIVE) Kit: a magical, high performance programming language, designed for game development. Pre-alpha!
 - [Ane-Language](https://github.com/caotic123/Ane-Language) - A tool for analyze lambda calculus terms
 - [givegif](https://github.com/passy/givegif) - GIFs on the command line
 - [unused](https://github.com/joshuaclayton/unused) - Deprecated; see https://github.com/unused-code/unused
@@ -6463,7 +6467,7 @@
 - [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
 - [lispyscript](https://github.com/santoshrajan/lispyscript) - A javascript with Lispy syntax and macros
 - [dokieli](https://github.com/linkeddata/dokieli) - :bulb: dokieli is a clientside editor for decentralised article publishing, annotations and social interactions
-- [sockethub](https://github.com/sockethub/sockethub) - A protocol gateway for the Web.
+- [sockethub](https://github.com/sockethub/sockethub) - A protocol gateway for the Web
 - [luminous](https://github.com/gbaptista/luminous) - Identify, analyze and block code execution and event collection through JavaScript in your browser with code interception.
 - [passwords-webextension](https://github.com/marius-wieschollek/passwords-webextension) - The official browser extension for the Passwords app for Nextcloud.
 - [runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
@@ -8596,6 +8600,7 @@
 
 ## PowerShell 
 
+- [bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
 - [tunic](https://github.com/mikeslattery/tunic) - Install Linux from a running Windows system, without need for a live USB.
 - [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
@@ -8666,7 +8671,6 @@
 - [sillynium](https://github.com/con-dog/sillynium) - Automate the creation of Python Selenium Scripts by drawing coloured boxes on webpage elements
 - [soda-sql](https://github.com/sodadata/soda-sql) - Data testing and monitoring for SQL accessible data
 - [whaler](https://github.com/treebeardtech/whaler) - Visual disk-usage analyser for docker images
-- [simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
 - [colorpedia](https://github.com/joowani/colorpedia) - Command-line tool for looking up colors and palettes.
 - [magnus](https://github.com/stuartlangridge/magnus) - A very simple screen magnifier for Ubuntu
@@ -10615,7 +10619,7 @@
 - [baru](https://github.com/doums/baru) - A system monitor written in Rust and C
 - [dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust with extensive plugin support
 - [rusty-editor](https://github.com/rg3dengine/rusty-editor) - Scene editor for rg3d engine
-- [Graphite](https://github.com/GraphiteEditor/Graphite) - Powerful 2D vector and raster editing, made procedural and nondestructive (Photoshop + Illustrator + Houdini = Graphite)
+- [Graphite](https://github.com/GraphiteEditor/Graphite) - Powerful 2D vector and raster editing: procedural and nondestructive. (Photoshop + Illustrator + Houdini = Graphite)
 - [tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
 - [grout](https://github.com/tarkah/grout) - Simple tiling window manager for Windows
 - [sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
@@ -10855,7 +10859,6 @@
 - [dmux](https://github.com/zdcthomas/dmux) - A tmux workspace manager
 - [ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
 - [rash](https://github.com/rash-sh/rash) - Declarative shell scripting container oriented
-- [i3-bindings](https://github.com/tupini07/i3-bindings) - Simple tool that reads the i3 config files and shows a table with the bindings defined therein
 - [i3-bindings](https://github.com/tupini07/i3-bindings) - Simple tool that reads the i3 config files and shows a table with the bindings defined therein
 - [learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
 - [autopilot-deno](https://github.com/littledivy/autopilot-deno) - :rocket: Cross-platform desktop automation library for Deno.
