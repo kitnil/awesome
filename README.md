@@ -542,6 +542,7 @@
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [icat](https://github.com/atextor/icat) - icat (Image cat) outputs images in 256-color capable terminals.
 - [COS](https://github.com/CObjectSystem/COS) - C Object System: a framework that brings C to the level of other high level programming languages and beyond
+- [memory-profiler](https://github.com/koute/memory-profiler) - 
 - [phoenixfs](https://github.com/artagnon/phoenixfs) - 🔥 a versioning filesystem inspired by git
 - [flow9](https://github.com/area9innovation/flow9) - Platform for safe, easy and productive programming of complex, multi-platform apps with a modern user interface
 - [http-parser](https://github.com/nodejs/http-parser) - http request/response parser for c
@@ -7268,7 +7269,7 @@
 
 - [frontend-developer-resources](https://github.com/mrcodedev/frontend-developer-resources) - Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos
 - [awesome-job-list](https://github.com/randallkanna/awesome-job-list) - 
-- [awesome-repos](https://github.com/pawelbr/awesome-repos) - A curated list of awesome repositories full of free resources.
+- [awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of awesome repositories full of free resources.
 - [Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
 - [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [hacking-resources](https://github.com/Lifka/hacking-resources) - Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.
@@ -10949,7 +10950,6 @@
 - [lorri](https://github.com/target/lorri) - Your project's nix-env
 - [rusty-tags](https://github.com/dan-t/rusty-tags) - Create ctags/etags for a cargo project
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
-- [memory-profiler](https://github.com/koute/memory-profiler) - 
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2021
 - [rusti](https://github.com/murarth/rusti) - REPL for the Rust programming language
