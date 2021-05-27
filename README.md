@@ -813,7 +813,7 @@
 - [rpm](https://github.com/rpm-software-management/rpm) - 
 - [xash3d](https://github.com/FWGS/xash3d) - DEPRECATED in favor of https://github.com/FWGS/xash3d-fwgs. Only bugfixes are accepted.
 - [dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
-- [neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net
+- [neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [source](https://github.com/lede-project/source) - Mirror of https://git.lede-project.org/?p=source.git Please send your PRs against this tree. They will be merged via staging trees and appear in this tree once the staging trees get merged back into source.git
@@ -1712,6 +1712,7 @@
 
 ## Clojure 
 
+- [rewrite-clj](https://github.com/clj-commons/rewrite-clj) - Rewrite Clojure Code and EDN!
 - [zprint](https://github.com/kkinnear/zprint) - Executables, uberjar, and library to beautifully format Clojure and Clojurescript source code and s-expressions.
 - [tempura](https://github.com/ptaoussanis/tempura) - Pure Clojure/Script i18n translations library
 - [clojure-spring](https://github.com/jakubriegel/clojure-spring) - Demo of using Spring in Clojure with some Java integration
@@ -3988,6 +3989,7 @@
 
 ## Go 
 
+- [bee](https://github.com/ethersphere/bee) - Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; censorship-resistant and self-sustaining network for storing your (application) data.
 - [go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [jsonc](https://github.com/tidwall/jsonc) - Parse json with comments and trailing commas.
 - [oauth2l](https://github.com/google/oauth2l) - oauth2l ("oauth tool") is a simple CLI for interacting with Google API authentication.
@@ -4426,7 +4428,7 @@
 - [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 - [docker-image-resource](https://github.com/concourse/docker-image-resource) - a resource for docker images
 - [json-patch](https://github.com/evanphx/json-patch) - A Go library to apply RFC6902 patches and create and apply RFC7386 patches
-- [oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
+- [ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted vulnerability scanning based on templates offering massive extensibility and ease of use.
 - [shotizam](https://github.com/bradfitz/shotizam) - Shotizam analyzes the size of Go binaries
 - [terraform-provider-gpg](https://github.com/invidian/terraform-provider-gpg) - GPG Terraform provider
@@ -5262,7 +5264,7 @@
 - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
 - [nofussbm](https://github.com/mapio/nofussbm) - No Fuss Bookmarks
 - [nsedit](https://github.com/tuxis-ie/nsedit) - DNS Editor working with PowerDNS's new API
-- [disaster-radio](https://github.com/sudomesh/disaster-radio) - A work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
+- [disaster-radio](https://github.com/sudomesh/disaster-radio) - A (paused) work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
 - [cert-expiry-date](https://github.com/xuchunyang/cert-expiry-date) - A website to check cert expir date
 - [imap2maildir](https://github.com/rtucker/imap2maildir) - Backs up an IMAP mailbox to a maildir.  Useful for backing up mail stored on free webmail providers, etc.
 - [sicp-kindle](https://github.com/twcamper/sicp-kindle) - Structure and Interpretation of Computer Programs, 2nd Edition, by  Harold Abelson and Gerald Jay Sussman with Julie Sussman, The MIT Press.formatted and built for mobi/kindle
@@ -5286,6 +5288,7 @@
 - [shrface](https://github.com/chenyanming/shrface) - Extend eww/nov with org-mode features, archive web pages to org files with shr.
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [photo-stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
 - [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
@@ -5960,7 +5963,7 @@
 - [screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [estimator.dev](https://github.com/GoogleChromeLabs/estimator.dev) - 🧮 Calculate the size and performance impact of switching to modern JavaScript syntax.
-- [next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是使用Golang和React开发的一款HTML5的远程桌面网关，具有小巧、易安装、易使用、资源占用小的特点，支持RDP、SSH、VNC和Telnet协议的连接和管理。
+- [next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是面向中小企业设计的轻量级堡垒机系统，易安装，易使用，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 - [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
@@ -7330,7 +7333,7 @@
 - [awesome-mutation-testing](https://github.com/theofidry/awesome-mutation-testing) - Mutation testing resources: how to make better code by introducing bugs
 - [awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [awesome-ripple](https://github.com/vhpoet/awesome-ripple) - A curated list of Ripple resources
-- [bookmarks](https://github.com/BookmarksDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.bookmarks.dev
+- [bookmarks](https://github.com/CodeverLand/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.bookmarks.dev
 - [awesome-web-you-should-know](https://github.com/leinov/awesome-web-you-should-know) - 🌎awesome web you should know
 - [awesome-pycharm](https://github.com/JetBrains/awesome-pycharm) - A curated list of resources for learning and using PyCharm, a Python IDE from JetBrains
 - [CS-Books](https://github.com/AB1908/CS-Books) - A list of textbooks for a Computer Science curriculum.
@@ -8716,7 +8719,6 @@
 - [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [ace-attorney-reddit-bot](https://github.com/micah5/ace-attorney-reddit-bot) - 👨🏼‍⚖️ reddit bot that turns comment chains into ace attorney scenes
-- [Arbitrium-RAT](https://github.com/BenChaliah/Arbitrium-RAT) - Arbitrium is a cross-platform, fully undetectable remote access trojan, to control Android, Windows and Linux and doesn't require any firewall exceptions or port forwarding rules
 - [best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [nanovna-saver](https://github.com/NanoVNA-Saver/nanovna-saver) - A tool for reading, displaying and saving data from the NanoVNA
@@ -9408,7 +9410,7 @@
 - [rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
 - [gandi.cli](https://github.com/Gandi/gandi.cli) - command line interface to Gandi.net products using the public API
 - [cleo](https://github.com/sdispater/cleo) - Cleo allows you to create beautiful and testable command-line interfaces.
-- [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
+- [pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [hues](https://github.com/prashnts/hues) - Colored terminal text made easy for Python and happiness.
 - [whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
 - [topydo](https://github.com/topydo/topydo) - A powerful todo list application for the console, using the todo.txt format.
@@ -10390,7 +10392,6 @@
 - [sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [pleaserun](https://github.com/jordansissel/pleaserun) - An attempt to abstract this "init" script madness.
 - [transmuter](https://github.com/kalbasit/transmuter) - The Alien device to convert Markdown and Textile files to HTML or PDF
-- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
