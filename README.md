@@ -4043,7 +4043,7 @@
 - [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
 - [sql-jobber](https://github.com/knadh/sql-jobber) - A highly opinionated, distributed job-queue built specifically for queuing and executing heavy SQL read jobs asynchronously. Supports MySQL and Postgres.
-- [koanf](https://github.com/knadh/koanf) - Light weight, extensible configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
+- [koanf](https://github.com/knadh/koanf) - Light weight, extensible, configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [email-verifier](https://github.com/AfterShip/email-verifier) - :white_check_mark: A Go library for email verification without sending any emails.
 - [ctree](https://github.com/Matt-Gleich/ctree) - 🎄 A Christmas tree right from your terminal!
 - [kubetower](https://github.com/mstrYoda/kubetower) - Multi cluster kubernetes dashboard with batteries included. Build by developers, for developers.
@@ -5674,6 +5674,7 @@
 
 ## Java 
 
+- [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [Houseclub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse
 - [groovy-language-server](https://github.com/prominic/groovy-language-server) - A language server for Groovy
 - [microcraft](https://github.com/jdah/microcraft) - A minicraft remake
@@ -5958,7 +5959,7 @@
 - [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor
 - [visual-basm](https://github.com/kolumb/visual-basm) - Visual tool for basm language
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take up to 100 days, follow your own pace.
+- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take more than 100 days, follow your own pace.
 - [Mark-Mind](https://github.com/MarkMindLtd/Mark-Mind) - MarkMind — a mind map and outliner editor  for Windows, Mac, Linux, andriod and ios ,it support markdown in node.
 - [screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -10710,7 +10711,7 @@
 - [rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [ajour](https://github.com/ajour/ajour) - A World of Warcraft addon manager written in Rust.
 - [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-- [rustdesk](https://github.com/rustdesk/rustdesk) - The best open source remote desktop client software
+- [rustdesk](https://github.com/rustdesk/rustdesk) - An open source remote desktop client software
 - [spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
@@ -12067,7 +12068,7 @@
 - [flowchart-fun](https://github.com/tone-row/flowchart-fun) - A small app for making quick flowcharts from text ⿻
 - [git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 - [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Public Beta 🎉)
+- [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [vscoq](https://github.com/coq-community/vscoq) - A Visual Studio Code extension for Coq [maintainers=@maximedenes,@fakusb]
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
