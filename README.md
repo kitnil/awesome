@@ -6389,7 +6389,7 @@
 - [project-explorer](https://github.com/sdras/project-explorer) - 🎋A CLI tool to create an annotated tree visualization of any project
 - [ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow
 - [life-commit](https://github.com/ByronHsu/life-commit) - 🏃📆  Life as a git. Commit on your life.
-- [clean-mark](https://github.com/croqaz/clean-mark) - Convert an article into a clean text
+- [clean-mark](https://github.com/croqaz/clean-mark) - Convert an article into clean text
 - [node-html-to-text](https://github.com/html-to-text/node-html-to-text) - Advanced html to text converter
 - [baffle](https://github.com/camwiegert/baffle) - A tiny javascript library for obfuscating and revealing text in DOM elements. :astonished:
 - [coinmon](https://github.com/bichenkk/coinmon) - 💰  The cryptocurrency price tool on CLI. 🖥
@@ -6777,7 +6777,7 @@
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [arch-wiki-md-repo](https://github.com/greg-js/arch-wiki-md-repo) - All arch-wiki articles in markdown format, updated every week
 
 ## Jinja 
@@ -6951,7 +6951,7 @@
 - [kotcity](https://github.com/kotcity/kotcity) - KotCity, an open source city simulator
 - [AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
 - [Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
-- [mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ freenode
+- [mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
 - [westford](https://github.com/udevbe/westford) - Westford Wayland Compositor
 - [replete-android](https://github.com/replete-repl/replete-android) - ClojureScript REPL Android app
 - [VDM](https://github.com/ingbyr/VDM) - GUI for command-line video downloader (youtube-dl annie)
