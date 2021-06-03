@@ -187,6 +187,7 @@
 
 ## Batchfile 
 
+- [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library and rendering framework
 - [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## Brainfuck 
@@ -195,6 +196,8 @@
 
 ## C 
 
+- [wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
+- [gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
 - [swaykbdd](https://github.com/artemsen/swaykbdd) - KBDD replacement for Sway
 - [kbdd](https://github.com/qnikst/kbdd) - keyboard library for per-window keyboard layout
 - [wtype](https://github.com/atx/wtype) - xdotool type for wayland
@@ -609,6 +612,7 @@
 - [janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [tcpdump](https://github.com/the-tcpdump-group/tcpdump) - the TCPdump network dissector
 - [guacamole-server](https://github.com/glyptodon/guacamole-server) - The Guacamole project is now Apache Guacamole (http://guacamole.apache.org/). This repository has been repurposed as the base for the Apache Guacamole packages built for Glyptodon Enterprise.
+- [klipper](https://github.com/KevinOConnor/klipper) - Klipper is a 3d-printer firmware
 - [ministrace](https://github.com/nelhage/ministrace) - A minimal toy implementation of strace(1)
 - [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [bitlbee-discord](https://github.com/sm00th/bitlbee-discord) - Bitlbee plugin for Discord (http://discordapp.com)
@@ -1350,7 +1354,6 @@
 - [ouzel](https://github.com/elnormous/ouzel) - C++ game engine for Windows, macOS, Linux, iOS, tvOS, Android, and web browsers
 - [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) - AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more
 - [ArxLibertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game
-- [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library and rendering framework
 - [olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [tinyraycaster](https://github.com/ssloy/tinyraycaster) - 486 lines of C++: old-school FPS in a weekend
 - [ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine
@@ -1362,7 +1365,6 @@
 - [Vangers](https://github.com/KranX/Vangers) - The video game that combines elements of the racing and role-playing genres.
 - [immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++ — value semantics at scale
 - [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-- [klipper](https://github.com/KevinOConnor/klipper) - Klipper is a 3d-printer firmware
 - [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [freeminer](https://github.com/freeminer/freeminer) - Freeminer is an open source sandbox game inspired by Minecraft.
 - [NoahGameFrame](https://github.com/ketoo/NoahGameFrame) - A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.
@@ -1453,7 +1455,6 @@
 - [CuraEngine](https://github.com/Ultimaker/CuraEngine) - Powerful, fast and robust engine for converting 3D models into g-code instructions for 3D printers. It is part of the larger open source project Cura.
 - [mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
-- [domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [ProceduralMapGenerator](https://github.com/marukrap/ProceduralMapGenerator) - A procedural map generator for roguelike games
 - [Daemon](https://github.com/DaemonEngine/Daemon) - The Dæmon game engine. With some bits of ioq3 and XreaL.
 - [AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine) - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
@@ -4013,7 +4014,7 @@
 - [turbolift](https://github.com/Skyscanner/turbolift) - A simple tool to help apply changes across many GitHub repositories simultaneously
 - [GodSpeed](https://github.com/redcode-labs/GodSpeed) - Fast and intuitive manager for multiple reverse shells
 - [bofied](https://github.com/pojntfx/bofied) - Modern network boot server.
-- [datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! The CLI integration provides a policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io
+- [datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
 - [go-fsimpl](https://github.com/hairyhenderson/go-fsimpl) - Go filesystem implementations for various URL schemes
 - [kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to create a cluster of PostgreSql instances and manage databases replication, failover and backup.
 - [censor-shell](https://github.com/iann0036/censor-shell) - Censors or hides shell / Bash / console output based on defined patterns - great for hiding secrets in demos!
@@ -4023,7 +4024,7 @@
 - [pint](https://github.com/cloudflare/pint) - Prometheus rule linter
 - [sqlapi](https://github.com/ciceksepetitech/sqlapi) - SQL API is designed to be able to run queries on databases without any configuration by simple HTTP call.
 - [rtty](https://github.com/skanehira/rtty) - Terminal on browser via websocket
-- [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Supports JPEG, PNG, BMP, WEBP and TIFF image formats. Available on snap.
+- [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert and save images into ascii art and print them on the console. Supports JPEG, PNG, BMP, WEBP and TIFF image formats. Available on snap.
 - [weebsay](https://github.com/irevenko/weebsay) - 🎭👄 Like cowsay but it's random anime quote
 - [mangadesk](https://github.com/darylhjd/mangadesk) - Terminal client for MangaDex 📖
 - [cmd-runner](https://github.com/mxssl/cmd-runner) - Execute commands on remote hosts asynchronously over ssh
@@ -5810,7 +5811,6 @@
 - [ssh-slaves-plugin](https://github.com/jenkinsci/ssh-slaves-plugin) - SSH Build Agents Plugin for Jenkins
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [loyalty-card-locker](https://github.com/brarcher/loyalty-card-locker) - Stores your barcode-based store/loyalty cards on your phone
-- [SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
 - [phpinspectionsea](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP (a PhpStorm/Idea Plugin)
 - [spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 - [pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
@@ -6511,6 +6511,7 @@
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
+- [domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [shelltile](https://github.com/emasab/shelltile) - A tiling window extension for GNOME Shell
 - [engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
 - [awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
@@ -7286,6 +7287,7 @@
 
 ## Others 
 
+- [awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [dl-visuals](https://github.com/dvgodoy/dl-visuals) - Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers.
 - [CogView](https://github.com/THUDM/CogView) - Text-to-Image generation
 - [alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
@@ -8316,6 +8318,7 @@
 
 ## PHP 
 
+- [PHP-Parallel-Lint](https://github.com/JakubOnderka/PHP-Parallel-Lint) - This tool check syntax of PHP files faster than serial check with fancier output.
 - [pretty-routes](https://github.com/Wulfheart/pretty-routes) - Display your Laravel routes in the console, but make it pretty. 😎
 - [cli.fyi](https://github.com/daveearley/cli.fyi) - A Potentially Useful Command Line Query Tool
 - [vesta](https://github.com/serghey-rodin/vesta) - VESTA Control Panel
@@ -10912,7 +10915,7 @@
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [vector](https://github.com/timberio/vector) - High-performance observability data pipelines.
+- [vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline.
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -11579,7 +11582,7 @@
 - [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 - [kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
-- [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [docker2singularity](https://github.com/singularityhub/docker2singularity) - A docker image for converting docker images to singularity images.
 - [bspwm_border_color](https://github.com/Kody-Quintana/bspwm_border_color) - VIM mode indicator for bspwm
 - [docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
@@ -12187,6 +12190,7 @@
 - [firefox-container-proxy](https://github.com/bekh6ex/firefox-container-proxy) - [Firefox extension] Assign a proxy to a Firefox container
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [forget-me-not](https://github.com/Lusito/forget-me-not) - Make the browser forget website data, except for the data you want to keep.
+- [SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
 - [codelyzer](https://github.com/mgechev/codelyzer) - Static analysis for Angular projects.
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
