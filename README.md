@@ -643,7 +643,7 @@
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [Interplanetary-Postal-Service](https://github.com/s-macke/Interplanetary-Postal-Service) - Lunar lander type game with computational fluid dynamics
-- [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
+- [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [M2-Planet](https://github.com/oriansj/M2-Planet) - The PLAtform NEutral Transpiler
 - [ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
 - [litetree](https://github.com/aergoio/litetree) - SQLite with Branches
@@ -4057,7 +4057,7 @@
 - [sql-jobber](https://github.com/knadh/sql-jobber) - A highly opinionated, distributed job-queue built specifically for queuing and executing heavy SQL read jobs asynchronously. Supports MySQL and Postgres.
 - [koanf](https://github.com/knadh/koanf) - Light weight, extensible, configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [email-verifier](https://github.com/AfterShip/email-verifier) - :white_check_mark: A Go library for email verification without sending any emails.
-- [ctree](https://github.com/Matt-Gleich/ctree) - 🎄 A Christmas tree right from your terminal!
+- [ctree](https://github.com/gleich/ctree) - 🎄 A Christmas tree right from your terminal!
 - [kubetower](https://github.com/mstrYoda/kubetower) - Multi cluster kubernetes dashboard with batteries included. Build by developers, for developers.
 - [grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync
 - [tt](https://github.com/lemnos/tt) - A terminal based typing test.
@@ -4105,7 +4105,7 @@
 - [generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 - [UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
-- [Hilbish](https://github.com/Mewyuna/Hilbish) - 🎀 a nice lil shell for lua people made with go and lua
+- [Hilbish](https://github.com/Rosettea/Hilbish) - 🎀 a nice lil shell for lua people made with go and lua
 - [dsf](https://github.com/nanmu42/dsf) - DSF - Dead Simple Fileserver / 极简HTTP文件服务
 - [accelerated-container-image](https://github.com/alibaba/accelerated-container-image) - accelerated-container-image
 - [netz](https://github.com/SpectralOps/netz) - Discover internet-wide misconfigurations while drinking coffee
@@ -5332,7 +5332,6 @@
 - [phpinfo-compare](https://github.com/brettalton/phpinfo-compare) - Compare two phpinfo files across the internet (or localhost)
 - [Org-mode-all-the-thingz](https://github.com/nickanderson/Org-mode-all-the-thingz) - 
 - [uix](https://github.com/roman01la/uix) - Idiomatic ClojureScript interface to modern React.js
-- [favioli](https://github.com/ivebencrazy/favioli) - Emoji Favicons for the web. 👊🤯
 - [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
 - [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
@@ -6029,7 +6028,6 @@
 - [Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020) - :octocat: Welcome to Open-source! Simply add your details to contributors | Repo for Hacktoberfest 2020 ✅
 - [awesome](https://github.com/Level/awesome) - An open list of awesome Level modules and resources.
 - [awesome-moleculer](https://github.com/moleculerjs/awesome-moleculer) - :rocket: A list of awesome things related to Moleculer microservices framework
-- [warezz](https://github.com/xuac/warezz) - It's illegal cuz they can't tax you!
 - [eCommWar](https://github.com/eCommWar/eCommWar) - A leaderboard of the top open-source e-commerce platforms. Promoting the bests for building reliable stores.
 - [awesome-js-posts](https://github.com/palashmon/awesome-js-posts) - A curated list of latest posts, blogs and repositories related to JavaScript.
 - [awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
@@ -6324,7 +6322,6 @@
 - [awesome-berlin](https://github.com/marlonbernardes/awesome-berlin) - 🇩🇪 A guide aiming to help newcomers to have a successful start in Berlin!
 - [flightplan](https://github.com/pstadler/flightplan) - Run sequences of shell commands against local and remote hosts.
 - [community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Golang + EmberJS
-- [Hygieia](https://github.com/hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [gitlab-ci-monitor](https://github.com/globocom/gitlab-ci-monitor) - A simple dashboard for monitoring GitLab CI builds. Alpha version.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
@@ -6647,7 +6644,6 @@
 - [gnome-shell-extension-sensors](https://github.com/xtranophilist/gnome-shell-extension-sensors) - Gnome shell extension: Shows CPU temperature, HDD temperature, voltage and fan RPM
 - [gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon) - Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
 - [movim](https://github.com/movim/movim) - Movim - Decentralized social platform
-- [startbootstrap-agency](https://github.com/StartBootstrap/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
 - [bitcannon](https://github.com/stephen304/bitcannon) - A torrent index archiving, browsing, and backup tool
 - [TrackMeNot](https://github.com/vtoubiana/TrackMeNot) - An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile(s) and registers your discontent with surreptitious tracking.
 - [rebase-editor](https://github.com/sjurba/rebase-editor) - Simple terminal based sequence editor for git interactive rebase.
@@ -7136,7 +7132,7 @@
 - [nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
 - [gesetze](https://github.com/kmein/gesetze) - German laws from https://www.gesetze-im-internet.de/ in plain text format (updated daily)
 - [dns.nix](https://github.com/kirelagin/dns.nix) - A Nix DSL for DNS zone files
-- [nixrc](https://github.com/bqv/nixrc) - Structured flake-based NixOS configuration
+- [rc](https://github.com/bqv/rc) - Structured system configuration (I moved from NixOS to GuixSD)
 - [nix-container-images](https://github.com/cloudwatt/nix-container-images) - Write container images as NixOS machines
 - [nix-haskell-monorepo](https://github.com/fghibellini/nix-haskell-monorepo) - Pragmatic tutorial on how to use nix with a haskell monorepo
 - [robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
@@ -7355,7 +7351,7 @@
 - [awesome-mutation-testing](https://github.com/theofidry/awesome-mutation-testing) - Mutation testing resources: how to make better code by introducing bugs
 - [awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [awesome-ripple](https://github.com/vhpoet/awesome-ripple) - A curated list of Ripple resources
-- [bookmarks](https://github.com/CodeverLand/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
+- [bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
 - [awesome-web-you-should-know](https://github.com/leinov/awesome-web-you-should-know) - 🌎awesome web you should know
 - [awesome-pycharm](https://github.com/JetBrains/awesome-pycharm) - A curated list of resources for learning and using PyCharm, a Python IDE from JetBrains
 - [CS-Books](https://github.com/AB1908/CS-Books) - A list of textbooks for a Computer Science curriculum.
@@ -7688,7 +7684,7 @@
 - [awesome-legal](https://github.com/ankane/awesome-legal) - Awesome free legal documents for companies
 - [awesome-ecommerce-stack](https://github.com/nparsons08/awesome-ecommerce-stack) - 💰 Popular marketing tools and add-ons used by 10,000+ of the top e-commerce stores.
 - [awesome-lisp-languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages
-- [awesome-c](https://github.com/Bfgeshka/awesome-c) - A curated list of awesome C resources
+- [awesome-c](https://github.com/Bfgeshka/awesome-c) - New changes are here: https://notabug.org/bfgeshka/awesome-c
 - [ProjectSoundtracks](https://github.com/sarthology/ProjectSoundtracks) - 🎧 List of best Soundtracks to boost your Productivity and Focus
 - [awesome-list](https://github.com/component-driven/awesome-list) - Curated list of links on component-driven development and design systems
 - [awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions) - 🐝 Awesome R packages that offer extended UI or server components for the R web framework Shiny
@@ -8655,6 +8651,8 @@
 ## Pug 
 
 - [quassel-webserver](https://github.com/magne4000/quassel-webserver) - A web server/client for Quassel
+- [favioli](https://github.com/ivebencrazy/favioli) - Emoji Favicons for the web. 👊🤯
+- [startbootstrap-agency](https://github.com/StartBootstrap/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
 
 ## Puppet 
 
@@ -9949,7 +9947,7 @@
 - [waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [Soundcloud-Downloader](https://github.com/linnit/Soundcloud-Downloader) - Download songs from SoundCloud, even if the song is not available for download
 - [READYT](https://github.com/lbarchive/READYT) - A CLI lover wants you to READYT
-- [sphinxcontrib-disqus](https://github.com/Robpol86/sphinxcontrib-disqus) - Sphinx extension that embeds Disqus comments in documents.
+- [sphinx-disqus](https://github.com/Robpol86/sphinx-disqus) - Sphinx extension that embeds Disqus comments in documents.
 - [sphinx-eldomain](https://github.com/millejoh/sphinx-eldomain) - Emacs Lisp domain -- Sphinx extension for Emacs Lisp
 - [sphinx-eldomain](https://github.com/tkf/sphinx-eldomain) - Emacs Lisp domain -- Sphinx extension for Emacs Lisp
 - [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
@@ -11189,6 +11187,7 @@
 
 ## Shell 
 
+- [hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
 - [Garud](https://github.com/R0X4R/Garud) - An automation tool that scans sub-domains, sub-domain takeover, then filters out XSS, SSTI, SSRF, and more injection point parameters and scans for some low hanging vulnerabilities automatically.
 - [Pinaak](https://github.com/R0X4R/Pinaak) - A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan
 - [debuerreotype](https://github.com/debuerreotype/debuerreotype) - reproducible, snapshot-based Debian rootfs builder
@@ -12216,6 +12215,7 @@
 - [hastic-grafana-app](https://github.com/hastic/hastic-grafana-app) - Hastic data management server for labeling patterns and anomalies in Grafana
 - [PipelineDashboard](https://github.com/DashboardHub/PipelineDashboard) - Dashboard for your Deployment pipeline https://dashboardhub.io/
 - [tessera](https://github.com/tessera-metrics/tessera) - A dashboard front-end for graphite.
+- [hygieia](https://github.com/hygieia/hygieia) - CapitalOne  DevOps Dashboard
 - [utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
