@@ -84,7 +84,6 @@
   - [PLpgSQL](#plpgsql)
   - [Pascal](#pascal)
   - [Perl](#perl)
-  - [Perl 6](#perl-6)
   - [PicoLisp](#picolisp)
   - [Pony](#pony)
   - [PostScript](#postscript)
@@ -98,6 +97,7 @@
   - [QML](#qml)
   - [R](#r)
   - [Racket](#racket)
+  - [Raku](#raku)
   - [Rascal](#rascal)
   - [Reason](#reason)
   - [Ren'Py](#ren'py)
@@ -1099,6 +1099,7 @@
 
 ## C++ 
 
+- [BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds.
 - [ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [FractalSoundExplorer](https://github.com/HackerPoet/FractalSoundExplorer) - Explore fractals in an audio-visual sandbox
 - [ebpfsnitch](https://github.com/harporoeder/ebpfsnitch) - Linux Application Level Firewall based on eBPF and NFQUEUE.
@@ -1156,7 +1157,7 @@
 - [qterminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator
 - [Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
 - [sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
-- [fheroes2](https://github.com/ihhub/fheroes2) - Free implementation of Heroes of Might and Magic II game engine
+- [fheroes2](https://github.com/ihhub/fheroes2) - Free remake of Heroes of Might and Magic II game engine
 - [passenger](https://github.com/phusion/passenger) - A fast and robust web server and application server for Ruby, Python and Node.js
 - [Logstalgia](https://github.com/acaudwell/Logstalgia) - replay or stream website access logs as a retro arcade game
 - [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.
@@ -4054,7 +4055,7 @@
 - [kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
 - [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
-- [sql-jobber](https://github.com/knadh/sql-jobber) - A highly opinionated, distributed job-queue built specifically for queuing and executing heavy SQL read jobs asynchronously. Supports MySQL and Postgres.
+- [sql-jobber](https://github.com/knadh/sql-jobber) - A highly opinionated, distributed job-queue built specifically for queuing and executing heavy SQL read jobs asynchronously. Supports MySQL, Postgres, ClickHouse.
 - [koanf](https://github.com/knadh/koanf) - Light weight, extensible, configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [email-verifier](https://github.com/AfterShip/email-verifier) - :white_check_mark: A Go library for email verification without sending any emails.
 - [ctree](https://github.com/gleich/ctree) - 🎄 A Christmas tree right from your terminal!
@@ -5686,7 +5687,6 @@
 
 ## Java 
 
-- [BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds.
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [Houseclub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse
 - [groovy-language-server](https://github.com/prominic/groovy-language-server) - A language server for Groovy
@@ -5871,7 +5871,7 @@
 - [gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [slack-plugin](https://github.com/jenkinsci/slack-plugin) - A Jenkins plugin for posting notifications to a Slack channel
 - [gitea-plugin](https://github.com/jenkinsci/gitea-plugin) - 
-- [revolution-irc](https://github.com/MCMrARM/revolution-irc) - A modern Android IRC client. #revolutionirc on Freenode.
+- [revolution-irc](https://github.com/MCMrARM/revolution-irc) - A modern Android IRC client. #revolutionirc on Libera.chat
 - [engine](https://github.com/droidefense/engine) - Droidefense: Advance Android Malware Analysis Framework
 - [SkyTube](https://github.com/SkyTubeTeam/SkyTube) - An open-source YouTube app for Android.
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -5958,7 +5958,6 @@
 - [jscoq](https://github.com/jscoq/jscoq) - A port of Coq to Javascript -- Run Coq in your Browser
 - [game](https://github.com/delaford/game) - ⚔️ An online JavaScript 2D Medieval RPG.
 - [rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!
-- [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 - [HTMLang](https://github.com/tsoding/HTMLang) - HTML as a Programming Language. Finally all of your dreams came true.
 - [integrapptor](https://github.com/mickael-kerjean/integrapptor) - A browser integrating all your apps in one place
@@ -6081,7 +6080,7 @@
 - [check-it-out](https://github.com/jwu910/check-it-out) - A command line interface for Git Checkout. See branches available for checkout.
 - [cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
 - [Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
-- [block-options](https://github.com/phpbits/block-options) - EditorsKit — a toolkit for the Gutenberg block editor.
+- [block-options](https://github.com/extendify/block-options) - EditorsKit — a toolkit for the Gutenberg block editor.
 - [like-on-github](https://github.com/Idnan/like-on-github) - Chrome extension - Link a repository with the extension and automatically save the links to content you like
 - [webcatalog-app](https://github.com/webcatalog/webcatalog-app) - Official WebCatalog app.
 - [Sandman](https://github.com/alexanderepstein/Sandman) - An Application Built With Late Night Developers In Mind
@@ -6982,6 +6981,7 @@
 - [trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
 - [rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
+- [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
 - [gifine](https://github.com/leafo/gifine) - Quickly record and edit gifs and videos of your desktop
 - [awesome-wm-nice](https://github.com/mut-ex/awesome-wm-nice) - An Awesome WM module that add MacOS-like window decorations, with seamless titlebars, double click to maximize, and window shade feature
@@ -8604,10 +8604,6 @@
 - [inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 
-## Perl 6 
-
-- [joomscan](https://github.com/OWASP/joomscan) - OWASP Joomla Vulnerability Scanner Project
-
 ## PicoLisp 
 
 - [picolisp](https://github.com/picolisp/picolisp) - PicoLisp is an open source Lisp dialect. It runs on Linux and other POSIX-compliant systems. Its most prominent features are simplicity and minimalism.
@@ -9638,7 +9634,7 @@
 - [twitchy](https://github.com/BasioMeusPuga/twitchy) - CLI streamlink wrapper for twitch.tv
 - [termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [polymorphable](https://github.com/makrohn/polymorphable) - A total conversion, orthographic game based on Clint Bellanger's FLARE
-- [vidcutter](https://github.com/ozmartian/vidcutter) - Been busy guys, will be reviewing and integrating pull requests shortly. Thanks to all contributors!               LATEST RELEASE: 6.0.0 - flatpak @ https://flathub.org/apps/details/com.ozmartians.VidCutter - snap @ https://snapcraft.io/vidcutter - see https://github.com/ozmartian/vidcutter/releases for more details...
+- [vidcutter](https://github.com/ozmartian/vidcutter) - LATEST RELEASE: 6.0.5 - flatpak @ https://flathub.org/apps/details/com.ozmartians.VidCutter - snap @ https://snapcraft.io/vidcutter
 - [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 - [ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
@@ -9947,7 +9943,7 @@
 - [waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [Soundcloud-Downloader](https://github.com/linnit/Soundcloud-Downloader) - Download songs from SoundCloud, even if the song is not available for download
 - [READYT](https://github.com/lbarchive/READYT) - A CLI lover wants you to READYT
-- [sphinx-disqus](https://github.com/Robpol86/sphinx-disqus) - Sphinx extension that embeds Disqus comments in documents.
+- [sphinx-disqus](https://github.com/Robpol86/sphinx-disqus) - Embed Disqus comments in Sphinx documents/pages.
 - [sphinx-eldomain](https://github.com/millejoh/sphinx-eldomain) - Emacs Lisp domain -- Sphinx extension for Emacs Lisp
 - [sphinx-eldomain](https://github.com/tkf/sphinx-eldomain) - Emacs Lisp domain -- Sphinx extension for Emacs Lisp
 - [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
@@ -10358,6 +10354,10 @@
 - [pollen](https://github.com/mbutterick/pollen) - book-publishing system in Racket
 - [SICP-guile](https://github.com/zv/SICP-guile) - SICP in Guile & Emacs Lisp
 
+## Raku 
+
+- [joomscan](https://github.com/OWASP/joomscan) - OWASP Joomla Vulnerability Scanner Project
+
 ## Rascal 
 
 - [hosts](https://github.com/kelthuzadx/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
@@ -10592,7 +10592,7 @@
 - [rust-browser-game-but-uefi](https://github.com/bit9tream/rust-browser-game-but-uefi) - The Bloat-Free Browser Game in Rust but in C and in UEFI
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
-- [orion](https://github.com/orion-lang/orion) - Orion is a high level, purely functional programming language with a LISP based syntax.
+- [orion](https://github.com/Wafelack/orion) - Orion is a high level, purely functional programming language with a LISP based syntax.
 - [vml](https://github.com/Obirvalger/vml) - Tool for easily and transparently work with qemu virtual machines
 - [bracket-lib](https://github.com/amethyst/bracket-lib) - The Roguelike Toolkit (RLTK), implemented for Rust.
 - [kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
@@ -12093,7 +12093,7 @@
 - [angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 11, Nx Workspace, ngrx, TailwindCSS and ng-zorro
 - [remotion](https://github.com/JonnyBurger/remotion) - 🎥      Create videos programmatically in React
 - [git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
-- [flowchart-fun](https://github.com/tone-row/flowchart-fun) - A small app for making quick flowcharts from text ⿻
+- [flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 - [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
