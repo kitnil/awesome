@@ -5465,7 +5465,7 @@
 - [call-haskell-from-anything](https://github.com/nh2/call-haskell-from-anything) - Call Haskell functions from any programming language via serialization and dynamic libraries
 - [tasty](https://github.com/UnkindPartition/tasty) - Modern and extensible testing framework for Haskell
 - [cgrep](https://github.com/awgn/cgrep) - Cgrep: a context-aware grep for source codes
-- [hslua](https://github.com/hslua/hslua) - Lua interpreter interface for Haskell
+- [hslua](https://github.com/hslua/hslua) - Haskell bindings to Lua, an embeddable scripting language.
 - [erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
 - [ghc-vis](https://github.com/def-/ghc-vis) - Visualize live Haskell data structures in GHCi
 - [nix-script](https://github.com/bennofs/nix-script) - A shebang for running scripts inside nix-shell with defined dependencies
@@ -5979,7 +5979,7 @@
 - [next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是面向中小企业设计的轻量级堡垒机系统，易安装，易使用，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 - [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
-- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +800 social media \ websites (Detections are updated regularly)
 - [papers-with-video](https://github.com/amitness/papers-with-video) - A browser extension that adds video explanations to research papers on arxiv.org
 - [github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
@@ -11210,7 +11210,7 @@
 - [android_hid](https://github.com/androidmalware/android_hid) - Use Android as Rubber Ducky against another Android device
 - [BashScan](https://github.com/astryzia/BashScan) - BashScan is a port scanner built to utilize /dev/tcp for network and service discovery on systems that have limitations or are otherwise unable to use alternative scanning solutions such as nmap.
 - [org-popup](https://github.com/Parveshdhull/org-popup) - Take notes for emacs org-mode using pop-ups
-- [evilFTP](https://github.com/vp777/evilFTP) - SSRF to TCP Port Scanning, Banner and Private IP Disclosure by abusing the FTP protocol/clients
+- [surferFTP](https://github.com/vp777/surferFTP) - SSRF to TCP Port Scanning, Banner and Private IP Disclosure by abusing the FTP protocol/clients
 - [valheim-server-docker](https://github.com/lloesche/valheim-server-docker) - Valheim dedicated gameserver with automatic update, World backup, BepInEx and ValheimPlus mod support
 - [ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [DHTP](https://github.com/KuriKai/DHTP) - DOOM High Resolution Texture Project
