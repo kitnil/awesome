@@ -601,6 +601,7 @@
 - [antons_opengl_tutorials_book](https://github.com/capnramses/antons_opengl_tutorials_book) - Anton's OpenGL 4 Tutorials book - Demo Code
 - [Bulllord-Engine](https://github.com/MarilynDafa/Bulllord-Engine) - lightspeed lightweight elegant  game engine in pure c
 - [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
+- [engine](https://github.com/g3n/engine) - Go 3D Game Engine
 - [Remotery](https://github.com/Celtoys/Remotery) - Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
 - [herebedragons](https://github.com/kosua20/herebedragons) - A basic 3D scene implemented with various engines, frameworks or APIs.
 - [VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
@@ -2095,7 +2096,7 @@
 - [onionize-docker](https://github.com/torservers/onionize-docker) - Tor v3 onion services (hidden services) for Docker containers
 - [docker-tor-simple](https://github.com/osminogin/docker-tor-simple) - Simplest minimal container for Tor anonymity software
 - [elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics. Up with a Single Command.
-- [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx 1.19.5 (mainline) with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli, NJS support, and 10 MB size. All built on the bleeding edge for max performance. Built on the edge, for the edge.
+- [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx 1.16.1 with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli, NJS support, and 10 MB size. All built on the bleeding edge for max performance. Built on the edge, for the edge.
 - [localdots](https://github.com/luisfarzati/localdots) - HTTPS domains for localhost. 🏠
 - [dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
@@ -2173,6 +2174,7 @@
 
 ## Emacs Lisp 
 
+- [power-mode.el](https://github.com/elizagamedev/power-mode.el) - Imbue Emacs with power!
 - [svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [open-conf](https://github.com/enisozgen/open-conf) - Open files via M-x buffer
 - [sway.el](https://github.com/thblt/sway.el) - Emacs ❤️ Sway
@@ -3550,7 +3552,7 @@
 - [mandoku](https://github.com/mandoku/mandoku) - A framework for premodern Chinese texts
 - [clojure-snippets](https://github.com/mpenet/clojure-snippets) - yasnippet 0.7.0+ snippets for clojure
 - [groovy-emacs-modes](https://github.com/Groovy-Emacs-Modes/groovy-emacs-modes) - A groovy major mode, grails minor mode, and a groovy inferior mode.
-- [kubernetes-el](https://github.com/chrisbarrett/kubernetes-el) - Emacs porcelain for Kubernetes.
+- [kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Emacs porcelain for Kubernetes.
 - [boon](https://github.com/jyp/boon) - Ergonomic Command Mode for Emacs
 - [guix.el](https://github.com/alezost/guix.el) - Emacs interface for GNU Guix package manager
 - [tuareg](https://github.com/ocaml/tuareg) - Emacs OCaml mode
@@ -3999,6 +4001,8 @@
 
 ## Go 
 
+- [easegress](https://github.com/megaease/easegress) - An all-rounder traffic orchestration system
+- [page-fetch](https://github.com/detectify/page-fetch) - Fetch web pages using headless Chrome, storing all fetched resources including JavaScript files. Run arbitrary JavaScript on many web pages and see the returned values
 - [sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
@@ -5026,7 +5030,6 @@
 - [conways-gol](https://github.com/KyleBanks/conways-gol) - Conway's Game of Life implemented with Go and OpenGL.
 - [glhf](https://github.com/faiface/glhf) - openGL Have Fun - A Go package that makes life with OpenGL enjoyable.
 - [fauxgl](https://github.com/fogleman/fauxgl) - Software-only 3D renderer written in Go.
-- [engine](https://github.com/g3n/engine) - Go 3D Game Engine
 - [gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
 - [external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
@@ -5687,6 +5690,7 @@
 
 ## Java 
 
+- [maptool](https://github.com/RPTools/maptool) - Virtual Tabletop for playing roleplaying games with remote players or face to face.
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [Houseclub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse
 - [groovy-language-server](https://github.com/prominic/groovy-language-server) - A language server for Groovy
@@ -5949,6 +5953,7 @@
 
 ## JavaScript 
 
+- [racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [bunken](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
 - [htmleditor](https://github.com/mrdoob/htmleditor) - Simple editor for messing around.
 - [glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
@@ -9634,7 +9639,7 @@
 - [twitchy](https://github.com/BasioMeusPuga/twitchy) - CLI streamlink wrapper for twitch.tv
 - [termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [polymorphable](https://github.com/makrohn/polymorphable) - A total conversion, orthographic game based on Clint Bellanger's FLARE
-- [vidcutter](https://github.com/ozmartian/vidcutter) - LATEST RELEASE: 6.0.5 - flatpak @ https://flathub.org/apps/details/com.ozmartians.VidCutter - snap @ https://snapcraft.io/vidcutter
+- [vidcutter](https://github.com/ozmartian/vidcutter) - LATEST RELEASE: 6.0.5 - flatpak @ https://flathub.org/apps/details/com.ozmartians.VidCutter - Ubuntu PPA @ ppa:ozmartian/apps
 - [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 - [ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
@@ -10581,6 +10586,7 @@
 
 ## Rust 
 
+- [rustcat](https://github.com/robiot/rustcat) - ⚙️ Netcat Alternative
 - [awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [todo_r](https://github.com/lavifb/todo_r) - Find all your TODO notes with one command!
 - [morse2sound](https://github.com/irevenko/morse2sound) - 📜🔁🎶 A CLI which converts morse code into sound
@@ -11187,6 +11193,7 @@
 
 ## Shell 
 
+- [styli.sh](https://github.com/thevinter/styli.sh) - A CLI tool for easy wallpaper management and image fetching
 - [hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
 - [Garud](https://github.com/R0X4R/Garud) - An automation tool that scans sub-domains, sub-domain takeover, then filters out XSS, SSTI, SSRF, and more injection point parameters and scans for some low hanging vulnerabilities automatically.
 - [Pinaak](https://github.com/R0X4R/Pinaak) - A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan
@@ -12089,6 +12096,8 @@
 
 ## TypeScript 
 
+- [million](https://github.com/millionjs/million) - 🌈 &lt;1kb virtual DOM - it's fast!
+- [astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
 - [angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 11, Nx Workspace, ngrx, TailwindCSS and ng-zorro
 - [remotion](https://github.com/JonnyBurger/remotion) - 🎥      Create videos programmatically in React
