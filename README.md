@@ -382,6 +382,7 @@
 - [pacwall](https://github.com/Kharacternyk/pacwall) - A live wallpaper that shows the dependency graph and status of installed packages.
 - [libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
 - [earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
+- [MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [ff-proxy](https://github.com/TimeToogo/ff-proxy) - A UDP to TCP proxy server for sending HTTP requests with zero roundtrips
 - [picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
@@ -1100,7 +1101,7 @@
 
 ## C++ 
 
-- [BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds.
+- [BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 - [ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [FractalSoundExplorer](https://github.com/HackerPoet/FractalSoundExplorer) - Explore fractals in an audio-visual sandbox
 - [ebpfsnitch](https://github.com/harporoeder/ebpfsnitch) - Linux Application Level Firewall based on eBPF and NFQUEUE.
@@ -1188,7 +1189,6 @@
 - [inspircd](https://github.com/inspircd/inspircd) - A modular C++ IRC server (ircd).
 - [hrktorrent](https://github.com/hrkfdn/hrktorrent) - hrktorrent is a light console torrent client written in C++, using rasterbar's libtorrent.
 - [multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
-- [MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
@@ -6892,7 +6892,7 @@
 - [gradle-recipes](https://github.com/android/gradle-recipes) - Ready-to-use recipes for common build customizations that showcase the Android Gradle plugin's public APIs and DSL.
 - [kotlin-shell](https://github.com/jakubriegel/kotlin-shell) - Tool for performing shell-like programing in Kotlin
 - [zircon](https://github.com/Hexworks/zircon) - Zircon is an extensible and user-friendly, multiplatform tile engine.
-- [kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Intelligent Kotlin support for any editor/IDE using the Language Server Protocol
+- [kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol
 - [VancedManager](https://github.com/YTVanced/VancedManager) - Vanced Installer
 - [archwiki-viewer](https://github.com/kevinhinterlong/archwiki-viewer) - A simple Android specific viewer for the Arch Linux Wiki.
 - [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Most popular open source Android Alarm Clock App
@@ -8444,7 +8444,7 @@
 - [dotplant2](https://github.com/DevGroup-ru/dotplant2) - E-Commerce CMS - Yii Framework 2 (yii2, shop)
 - [yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
 - [Legacy-planetary](https://github.com/MathHubInfo/Legacy-planetary) - Legacy: Planetary System is a math-enabled Web 3.0 information portal.
-- [humhub](https://github.com/humhub/humhub) - HumHub - Open Source Social Network
+- [humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
 
 ## PLpgSQL 
 
@@ -9639,7 +9639,7 @@
 - [twitchy](https://github.com/BasioMeusPuga/twitchy) - CLI streamlink wrapper for twitch.tv
 - [termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [polymorphable](https://github.com/makrohn/polymorphable) - A total conversion, orthographic game based on Clint Bellanger's FLARE
-- [vidcutter](https://github.com/ozmartian/vidcutter) - LATEST RELEASE: 6.0.5 - flatpak @ https://flathub.org/apps/details/com.ozmartians.VidCutter - Ubuntu PPA @ ppa:ozmartian/apps
+- [vidcutter](https://github.com/ozmartian/vidcutter) - A modern, simple to use, constantly evolving and hella fast media cutter + joiner with frame-accurate SmartCut technology.
 - [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 - [ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
