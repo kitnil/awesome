@@ -219,7 +219,7 @@
 - [plan9](https://github.com/plan9foundation/plan9) - Plan 9 History, from 1992-09-21 to 2015-01-10.
 - [logtop](https://github.com/JulienPalard/logtop) - Display real time statistics of whatever you want.
 - [pgvector](https://github.com/ankane/pgvector) - Open-source vector similarity search for Postgres
-- [sc-im](https://github.com/andmarti1424/sc-im) - SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
+- [sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [xdo](https://github.com/baskerville/xdo) - Small X utility to perform elementary actions on windows
 - [andvaranaut](https://github.com/glouw/andvaranaut) - A dungeon crawler
 - [tetris-os](https://github.com/jdah/tetris-os) - An operating system, but it only plays Tetris.
@@ -518,7 +518,6 @@
 - [mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
 - [flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
 - [2bwm](https://github.com/venam/2bwm) - A fast floating WM written over the XCB library and derived from mcwm.
-- [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - Thin wrapper over Nuklear for Common Lisp
 - [zabbix-module-systemd](https://github.com/cavaliercoder/zabbix-module-systemd) - Native systemd monitoring for Zabbix
 - [Clight](https://github.com/FedeDP/Clight) - A C daemon that turns your webcam into a light sensor. It will adjust screen backlight based on ambient brightness.
 - [gnumaku](https://github.com/davexunit/gnumaku) - Lispy bullet hell engine written in Guile and C
@@ -864,6 +863,7 @@
 - [cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
 - [emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
 - [wget2](https://github.com/rockdaboot/wget2) - The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍
+- [goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 - [librep](https://github.com/SawfishWM/librep) - fast, lightweight, versatile lisp environment
 - [core](https://github.com/dovecot/core) - Dovecot mail server
 - [qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
@@ -929,6 +929,7 @@
 - [FastestWebsiteEver](https://github.com/diracdeltas/FastestWebsiteEver) - ultrafast single TCP packet audio/visual experience
 - [f-stack](https://github.com/F-Stack/f-stack) - F-Stack is an user space  network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
 - [ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
+- [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [vim.js](https://github.com/coolwanglu/vim.js) - JavaScript port of Vim
 - [rtl8192eu-linux-driver](https://github.com/Mange/rtl8192eu-linux-driver) - Drivers for the rtl8192eu chipset for wireless adapters (D-Link DWA-131 rev E1 included!)
 - [fsarchiver](https://github.com/fdupoux/fsarchiver) - file system archiver for linux
@@ -1112,7 +1113,7 @@
 - [rlutil](https://github.com/tapio/rlutil) - C and C++ utilities for cross-platform console roguelike game creation.
 - [DungeonTemplateLibrary](https://github.com/AsPJT/DungeonTemplateLibrary) - 🌏: Dungeon free resources (terrain & roguelike generation)
 - [ddcui](https://github.com/rockowitz/ddcui) - Graphical user interface for ddcutil - control monitor settings
-- [arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
+- [arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 - [ZombieV](https://github.com/johnBuffer/ZombieV) - Top down Zombie shooter game in C++ using SFML as graphics library
 - [AntSimulator](https://github.com/johnBuffer/AntSimulator) - Simple Ants simulator
 - [whatsapp-for-linux](https://github.com/eneshecan/whatsapp-for-linux) - An unofficial WhatsApp desktop application for Linux.
@@ -1510,7 +1511,6 @@
 - [musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [TwinklebearDev-Lessons](https://github.com/Twinklebear/TwinklebearDev-Lessons) - Source code and assets for the TwinklebearDev Tutorials
-- [goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 - [astroid](https://github.com/astroidmail/astroid) - A graphical threads-with-tags style, lightweight and fast, e-mail client for Notmuch
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
@@ -1895,6 +1895,7 @@
 - [april](https://github.com/phantomics/april) - The APL programming language (a subset thereof) compiling to Common Lisp.
 - [daft](https://github.com/cbaggers/daft) - A little 2d engine
 - [lisp](https://github.com/informatimago/lisp) - Clone of https://gitlab.com/com-informatimago/com-informatimago   Informatimago Common Lisp Library  Documentation at http://www.informatimago.com/develop/lisp/doc/
+- [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - Thin wrapper over Nuklear for Common Lisp
 - [paras](https://github.com/pokepay/paras) - Embedded trivial Lisp-dialect.
 - [cl-rabbit](https://github.com/lokedhs/cl-rabbit) - RabbitMQ interface to Common Lisp
 - [mastodon](https://github.com/lokedhs/mastodon) - Common Lisp interface to mastodon
@@ -2962,8 +2963,8 @@
 - [company-plsense](https://github.com/CeleritasCelery/company-plsense) - company backend for plsense
 - [org-rich-yank](https://github.com/unhammer/org-rich-yank) - 📋 Rich text clipboard for org-mode: Paste into a #+BEGIN_SRC block of correct mode, with link to where it came from
 - [elisp-json-rpc](https://github.com/skeeto/elisp-json-rpc) - JSON-RPC library for Emacs Lisp
-- [dictcc.el](https://github.com/cqql/dictcc.el) - Lookup and insert translations from dict.cc without leaving emacs
-- [xresources-theme](https://github.com/cqql/xresources-theme) - Use your .Xresources as your emacs theme
+- [dictcc.el](https://github.com/martenlienen/dictcc.el) - Lookup and insert translations from dict.cc without leaving emacs
+- [xresources-theme](https://github.com/martenlienen/xresources-theme) - Use your .Xresources as your emacs theme
 - [multi-run](https://github.com/sagarjha/multi-run) - Run same command in multiple emacs eshell terminals
 - [pipenv.el](https://github.com/pwalsh/pipenv.el) - A Pipenv porcelain inside Emacs.
 - [posframe](https://github.com/tumashu/posframe) - Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!
@@ -4012,7 +4013,7 @@
 - [oauth2l](https://github.com/google/oauth2l) - oauth2l ("oauth tool") is a simple CLI for interacting with Google API authentication.
 - [sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
 - [koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
-- [jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 [WIP] Feature-rich interactive Jira command-line.
+- [jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 [WIP] Feature-rich interactive Jira command line.
 - [triangula](https://github.com/RH12503/triangula) - Generate high-quality triangulated and polygonal art from images.
 - [terraform-provider-bash](https://github.com/apparentlymart/terraform-provider-bash) - Terraform utility provider for constructing bash scripts that use data from a Terraform module
 - [docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
@@ -4029,7 +4030,7 @@
 - [pint](https://github.com/cloudflare/pint) - Prometheus rule linter
 - [sqlapi](https://github.com/ciceksepetitech/sqlapi) - SQL API is designed to be able to run queries on databases without any configuration by simple HTTP call.
 - [rtty](https://github.com/skanehira/rtty) - Terminal on browser via websocket
-- [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert and save images into ascii art and print them on the console. Supports JPEG, PNG, BMP, WEBP and TIFF image formats. Available on snap.
+- [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Supports JPEG, PNG, BMP, WEBP and TIFF image formats. Available on snap.
 - [weebsay](https://github.com/irevenko/weebsay) - 🎭👄 Like cowsay but it's random anime quote
 - [mangadesk](https://github.com/darylhjd/mangadesk) - Terminal client for MangaDex 📖
 - [cmd-runner](https://github.com/mxssl/cmd-runner) - Execute commands on remote hosts asynchronously over ssh
@@ -4314,7 +4315,6 @@
 - [shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [tracesite](https://github.com/kalbhor/tracesite) - Go implementation of the traceroute tool
 - [go-fileserver](https://github.com/prdpx7/go-fileserver) - A simple HTTP Server to share files over WiFi via Qr Code
-- [gitsee](https://github.com/g14a/gitsee) - The backend service for a Github Visualization tool made for fun, but can be used to get an overview of a candidate during a hiring process.
 - [nschecker](https://github.com/ichikaway/nschecker) - DNS record changing detection tool with slack notification.
 - [glab](https://github.com/profclems/glab) - An open-source GitLab command line tool bringing GitLab's cool features to your command line
 - [slacksh](https://github.com/dwisiswant0/slacksh) - Interactivity with *nix shell system flexibly via Slack slash commands.
@@ -5087,7 +5087,7 @@
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow
-- [writefreely](https://github.com/writefreely/writefreely) - Simple blogging platform made just for writers. Write together, and build a community.
+- [writefreely](https://github.com/writefreely/writefreely) - A clean, minimalist publishing platform made for writers. Write together, and build a community.
 - [discord-cli](https://github.com/RickvanLoo/discord-cli) - Minimalistic Command-Line Interface for Discord
 - [gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
 - [mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
@@ -5149,7 +5149,7 @@
 - [flint](https://github.com/pengwynn/flint) - Check your project for common sources of contributor friction.
 - [linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [find-lf](https://github.com/schollz/find-lf) - Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND
-- [fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
+- [fsql](https://github.com/kashav/fsql) - Find files with SQL
 - [poule](https://github.com/icecrime/poule) - :chicken: A framework for GitHub automation
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
@@ -6054,6 +6054,7 @@
 - [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [mogollar](https://github.com/dashersw/mogollar) - A MongoDB UI built with Electron
 - [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
+- [gitsee](https://github.com/g14a/gitsee) - The backend service for a Github Visualization tool made for fun, but can be used to get an overview of a candidate during a hiring process.
 - [beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [habitica-cli](https://github.com/charlespwd/habitica-cli) - An immersive command line interface for Habitica :zap::fire:
 - [arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
@@ -6214,7 +6215,7 @@
 - [learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [web-console](https://github.com/nickola/web-console) - Simple web-based shell, remote shell in your browser
-- [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - JavaScript library for creating web based terminals with custom commands
+- [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - JavaScript library for creating web-based terminals with custom commands
 - [clear-browsing-data](https://github.com/dessant/clear-browsing-data) - Browser extension for clearing browsing data
 - [search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Edge, Chrome and Firefox
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
@@ -6794,6 +6795,7 @@
 
 ## Jsonnet 
 
+- [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 
 ## Julia 
@@ -7063,7 +7065,7 @@
 
 ## M4 
 
-- [docker-xubuntu](https://github.com/hectorm/docker-xubuntu) - A Docker image with Xfce desktop environment, VirtualGL, XRDP and XRDP PulseAudio module.
+- [docker-xubuntu](https://github.com/hectorm/docker-xubuntu) - A Docker image with the Xfce desktop environment, VirtualGL, XRDP and XRDP PulseAudio module.
 - [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
 
 ## MATLAB 
@@ -7426,7 +7428,7 @@
 - [For-Data-Science-Beginners](https://github.com/amrrs/For-Data-Science-Beginners) - Set of 📝 with 🔗 to help those who are Data Science beginners 🤖
 - [awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [awesome-vue-composition-api](https://github.com/kefranabg/awesome-vue-composition-api) - 🚀 A curated list of awesome things related to vue composition api
-- [awesome-product-management](https://github.com/dend/awesome-product-management) - A curated list of awesome resources for product/program managers to learn and grow.
+- [awesome-product-management](https://github.com/dend/awesome-product-management) - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 - [awesome-ue4](https://github.com/terrehbyte/awesome-ue4) - A curated list of resources for working with Unreal Engine 4. (Awesome Unreal Engine 4)
 - [awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
 - [awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
@@ -7991,7 +7993,7 @@
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) - 2021 年成為 Web 開發人員的路線圖 台灣正體中文版
-- [awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources) - A curated list of everything anime.
+- [awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources) - A curated list of everything related to anime.
 - [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [books-pdf](https://github.com/huyubing/books-pdf) - books pdf
@@ -8162,7 +8164,7 @@
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
-- [awesome-design](https://github.com/gztchan/awesome-design) - 🌟Curated design resources
+- [awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
@@ -8699,7 +8701,7 @@
 - [sillynium](https://github.com/con-dog/sillynium) - Automate the creation of Python Selenium Scripts by drawing coloured boxes on webpage elements
 - [soda-sql](https://github.com/sodadata/soda-sql) - Data testing and monitoring for SQL accessible data
 - [whaler](https://github.com/treebeardtech/whaler) - Visual disk-usage analyser for docker images
-- [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
+- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
 - [colorpedia](https://github.com/joowani/colorpedia) - Command-line tool for looking up colors and palettes.
 - [magnus](https://github.com/stuartlangridge/magnus) - A very simple screen magnifier for Ubuntu
 - [hushboard](https://github.com/stuartlangridge/hushboard) - Mute your mic while you're typing. An app for Ubuntu.
@@ -11892,7 +11894,6 @@
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
-- [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [ubuntu-configuration](https://github.com/goq/ubuntu-configuration) - Configuration of Debian based OS, such as: Ubuntu, Mint, and Elementary OS
 - [asp](https://github.com/archlinux/asp) - Arch Build Source Management Tool
@@ -12100,7 +12101,7 @@
 - [astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
 - [angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 11, Nx Workspace, ngrx, TailwindCSS and ng-zorro
-- [remotion](https://github.com/JonnyBurger/remotion) - 🎥      Create videos programmatically in React
+- [remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
