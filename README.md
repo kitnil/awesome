@@ -1398,6 +1398,7 @@
 - [xkblayout-state](https://github.com/nonpop/xkblayout-state) - A small command-line program to get/set the current keyboard layout.
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
+- [DomTerm](https://github.com/PerBothner/DomTerm) - DOM/JavaScript-based terminal-emulator/console
 - [atomspace](https://github.com/opencog/atomspace) - The OpenCog (hyper-)graph database and graph rewriting system
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [xray-162](https://github.com/Im-dex/xray-162) - XRay engine 1.6.2 (S.T.A.L.K.E.R: Call of Pripyat) evolution
@@ -4745,6 +4746,7 @@
 - [travis-wait-enhanced](https://github.com/crazy-max/travis-wait-enhanced) - Prevent Travis CI from thinking a long-running process has stalled
 - [regresql](https://github.com/dimitri/regresql) - Regression Testing your SQL queries
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system.
+- [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [dingo](https://github.com/pforemski/dingo) - A DNS client in Go that supports Google DNS over HTTPS
 - [terraform-provider-template](https://github.com/hashicorp/terraform-provider-template) - Terraform template provider
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
@@ -5953,7 +5955,6 @@
 
 ## JavaScript 
 
-- [racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [bunken](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
 - [htmleditor](https://github.com/mrdoob/htmleditor) - Simple editor for messing around.
 - [glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
@@ -6483,7 +6484,6 @@
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [js-injector](https://github.com/shahverd/js-injector) - Using this extension you will be able to inject Javascript codes into webpages, in order to customize your most visiting websites, to have a more comfortable web browsing.
-- [DomTerm](https://github.com/PerBothner/DomTerm) - DOM/JavaScript-based terminal-emulator/console
 - [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
 - [lispyscript](https://github.com/santoshrajan/lispyscript) - A javascript with Lispy syntax and macros
 - [dokieli](https://github.com/linkeddata/dokieli) - :bulb: dokieli is a clientside editor for decentralised article publishing, annotations and social interactions
@@ -6920,7 +6920,7 @@
 - [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) - Google launcher-style implementation of switch (enable/disable) icon
 - [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 - [intellij-rainbow-fart](https://github.com/izhangzhihao/intellij-rainbow-fart) - 🌈一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。Inspired by vscode-rainbow-fart
-- [intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 🌈Rainbow Brackets / Rainbow Parentheses for IntelliJ based IDEs/Android Studio
+- [intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio
 - [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin
 - [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
@@ -8394,6 +8394,7 @@
 - [cli-menu](https://github.com/php-school/cli-menu) - 🖥  Build beautiful PHP CLI menus. Simple yet Powerful. Expressive DSL.
 - [drush](https://github.com/drush-ops/drush) - Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.
 - [console](https://github.com/symfony/console) - The Console component eases the creation of beautiful and testable command line interfaces.
+- [pandorabox.io](https://github.com/pandorabox-io/pandorabox.io) - Pandorabox infrastructure code
 - [oneye](https://github.com/oneye/oneye) - 
 - [alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
 - [MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
@@ -8699,7 +8700,7 @@
 - [splinter](https://github.com/cobrateam/splinter) - splinter - python test framework for web applications
 - [selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
 - [sillynium](https://github.com/con-dog/sillynium) - Automate the creation of Python Selenium Scripts by drawing coloured boxes on webpage elements
-- [soda-sql](https://github.com/sodadata/soda-sql) - Data testing and monitoring for SQL accessible data
+- [soda-sql](https://github.com/sodadata/soda-sql) - Data profiling, testing, and monitoring for SQL accessible data.
 - [whaler](https://github.com/treebeardtech/whaler) - Visual disk-usage analyser for docker images
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
 - [colorpedia](https://github.com/joowani/colorpedia) - Command-line tool for looking up colors and palettes.
@@ -9214,7 +9215,6 @@
 - [orgparse](https://github.com/karlicoss/orgparse) - Python module for reading Emacs org-mode files
 - [docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
-- [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [ansible-runner-service](https://github.com/ansible/ansible-runner-service) - 
 - [ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [fabulous](https://github.com/jart/fabulous) - Print images, colors, and stylish text to the terminal with Python
@@ -9744,7 +9744,7 @@
 - [OSCP](https://github.com/johneiser/OSCP) - Scripts I developed to help complete the OSCP certification.
 - [stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [font-awesome-to-png](https://github.com/Pythonity/font-awesome-to-png) - Exports Font Awesome icons as PNG images
-- [netbox](https://github.com/netbox-community/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+- [netbox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [pupil](https://github.com/pupil-labs/pupil) - Open source eye tracking
 - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
@@ -10704,7 +10704,7 @@
 - [himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
 - [rsraft](https://github.com/laurocaetano/rsraft) - Raft implementation in Rust
 - [StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
-- [rust_sqlite](https://github.com/joaoh82/rust_sqlite) - Simple embedded database modeled off SQLite in Rust
+- [rust_sqlite](https://github.com/joaoh82/rust_sqlite) - SQLRite - Simple embedded database modeled off SQLite in Rust
 - [rhit](https://github.com/Canop/rhit) - A nginx log explorer
 - [learn-rust](https://github.com/higker/learn-rust) - https://getrust.tech
 - [valheim-docker](https://github.com/mbround18/valheim-docker) - Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interface.
@@ -11231,7 +11231,6 @@
 - [gopro_as_webcam_on_linux](https://github.com/jschmid1/gopro_as_webcam_on_linux) - Allows to use your GoPro camera as a webcam on linux
 - [toggle-monitor-grayscale](https://github.com/bubbleguuum/toggle-monitor-grayscale) - Toggle Xorg monitors between color and grayscale mode
 - [notify-ssh-login](https://github.com/T-TutoRapide/notify-ssh-login) - Notification des connexions SSH sur discord
-- [GrafanaTranslator](https://github.com/DmitrySidorow/GrafanaTranslator) - Simple translator | translation for Grafana, developed for Unix-like systems
 - [vfio-single-amdgpu-passthrough](https://github.com/cosminmocan/vfio-single-amdgpu-passthrough) - This repo is a tutorial for single amd gpu passthrough to various qemu VMs
 - [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux.
 - [dockerfile-shebang](https://github.com/JakeWharton/dockerfile-shebang) - Treat your Dockerfiles as self-contained, editable scripts
@@ -11768,7 +11767,6 @@
 - [Envisaged](https://github.com/utensils/Envisaged) - Envisaged - Effortless Gource Visualizations with Docker
 - [examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [run_scaled](https://github.com/kaueraal/run_scaled) - Run an X application scaled via xpra. Useful on hidpi screens.
-- [pandorabox.io](https://github.com/pandorabox-io/pandorabox.io) - Pandorabox infrastructure code
 - [bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.
 - [ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
@@ -12098,6 +12096,7 @@
 ## TypeScript 
 
 - [million](https://github.com/millionjs/million) - 🌈 &lt;1kb virtual DOM - it's fast!
+- [racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
 - [angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 11, Nx Workspace, ngrx, TailwindCSS and ng-zorro
