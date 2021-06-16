@@ -1050,7 +1050,6 @@
 - [micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [m576](https://github.com/meizuosc/m576) - Official Linux kernel for Meizu Pro 5 smartphone.
 - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
-- [dvisvgm](https://github.com/mgieseki/dvisvgm) - A fast DVI, EPS, and PDF to SVG converter
 - [audacity](https://github.com/audacity/audacity) - Audio Editor
 - [toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [transmission](https://github.com/derekstavis/transmission) - A GNOME 3.14 HIG-compliant Transmission
@@ -1606,6 +1605,7 @@
 - [WineWizard](https://github.com/LLIAKAJL/WineWizard) - Modern Wine GUI
 - [scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - [scribus-plugin-export-epub](https://github.com/aoloe/scribus-plugin-export-epub) - epub export plugin for scribu
+- [dvisvgm](https://github.com/mgieseki/dvisvgm) - A fast DVI, EPS, and PDF to SVG converter
 - [kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5
 - [qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 - [Yakuake](https://github.com/panzi/Yakuake) - This is a git mirror of Yakuake, the Quake like shell for KDE. It also contains some little improvements over the original (hopefully they will be merged).
@@ -5343,7 +5343,6 @@
 - [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [list-packages](https://github.com/xuchunyang/list-packages) - 
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
-- [intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [Cookbook](https://github.com/DevDungeon/Cookbook) - Code snippets for various programming languages and libraries
 - [webperl](https://github.com/haukex/webperl) - Run Perl in the browser with WebPerl!
 - [computefreely](https://github.com/snwh/computefreely) - The source of Compute Freely website
@@ -6326,6 +6325,7 @@
 - [pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon
 - [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [awesome-berlin](https://github.com/marlonbernardes/awesome-berlin) - 🇩🇪 A guide aiming to help newcomers to have a successful start in Berlin!
+- [intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [flightplan](https://github.com/pstadler/flightplan) - Run sequences of shell commands against local and remote hosts.
 - [community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Golang + EmberJS
 - [gitlab-ci-monitor](https://github.com/globocom/gitlab-ci-monitor) - A simple dashboard for monitoring GitLab CI builds. Alpha version.
@@ -6346,6 +6346,7 @@
 - [youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions) - This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 - [elastalert-kibana-plugin](https://github.com/bitsensor/elastalert-kibana-plugin) - ElastAlert Kibana Plugin
 - [terminal-discord](https://github.com/xynxynxyn/terminal-discord) - NOT MAINTAINED Simple terminal client for discord with a minimal look and UI
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [hogwatch](https://github.com/akshaykmr/hogwatch) - find out what's hogging your internet connection.
@@ -7292,7 +7293,6 @@
 
 - [awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [dl-visuals](https://github.com/dvgodoy/dl-visuals) - Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers.
-- [CogView](https://github.com/THUDM/CogView) - Text-to-Image generation
 - [alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
 - [frontend-developer-resources](https://github.com/mrcodedev/frontend-developer-resources) - Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos
 - [awesome-job-list](https://github.com/randallkanna/awesome-job-list) - 
@@ -8671,6 +8671,7 @@
 
 ## Python 
 
+- [CogView](https://github.com/THUDM/CogView) - Text-to-Image generation
 - [Reddit-User-Media-Downloader-Public](https://github.com/MonkeyMaster64/Reddit-User-Media-Downloader-Public) - 
 - [videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
@@ -11998,7 +11999,7 @@
 - [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora
 - [git-recent](https://github.com/paulirish/git-recent) - See your latest local git branches, formatted real fancy
 - [Wallhaven-Downloader](https://github.com/macearl/Wallhaven-Downloader) - A simple download Script for Wallhaven.cc
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [infinality-ultimate-fedora](https://github.com/danielrenninghoff/infinality-ultimate-fedora) - Fedora packages for infinality-ultimate-bundle by bohoomil
 - [bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 - [rename-xfce-workspace](https://github.com/ngeiswei/rename-xfce-workspace) - Rename the current workspace in Xfce at lightening speed
@@ -12349,7 +12350,6 @@
 - [reply.vim](https://github.com/rhysd/reply.vim) - REPLs play nicely with :terminal on Vim and Neovim
 - [neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [vim-glsl](https://github.com/tikhomirov/vim-glsl) - Vim runtime files for OpenGL Shading Language
 - [vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
