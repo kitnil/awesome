@@ -330,7 +330,6 @@
 - [kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [Linux-NetSpeed](https://github.com/chiakge/Linux-NetSpeed) - 将Linux现常用的网络加速集成在一起
-- [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
 - [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
 - [hvmi](https://github.com/hvmi/hvmi) - Hypervisor Memory Introspection Core Library
@@ -1168,6 +1167,7 @@
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
+- [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
 - [hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
 - [httpflow](https://github.com/six-ddc/httpflow) - A command line utility helps to capture and dump HTTP stream
@@ -1358,7 +1358,7 @@
 - [ArxLibertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game
 - [olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [tinyraycaster](https://github.com/ssloy/tinyraycaster) - 486 lines of C++: old-school FPS in a weekend
-- [ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine
+- [ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine (Python, C#, Java)
 - [bsf](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications
 - [apitrace](https://github.com/apitrace/apitrace) - Tools for tracing OpenGL, Direct3D, and other graphics APIs
 - [openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
@@ -7209,7 +7209,7 @@
 - [nix-docker](https://github.com/LnL7/nix-docker) - Docker images for the Nix package manager
 - [wordpress-nginx-nix](https://github.com/grafted-in/wordpress-nginx-nix) - One-stop shop for defining, testing, and deploying a WordPress CMS site using Nginx with Nix, NixOps, and NixOS
 - [kubenix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using nix
-- [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. (project on-hold until flakes gains technical leadership)
+- [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainer=@colemickens]
 - [nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [nixpkgs-channels](https://github.com/NixOS/nixpkgs-channels) - DEPRECATED! Use NixOS/nixpkgs repository instead.
 - [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
@@ -9341,7 +9341,7 @@
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [Pinku](https://github.com/mosegontar/Pinku) - A Pinboard-to-buku importation utility
-- [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
+- [buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
 - [gitlab-tools](https://github.com/Salamek/gitlab-tools) - Web application providing tools not avaiable in GitLab CE (Gitlab push/pull mirror and more)
@@ -10744,7 +10744,7 @@
 - [rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [ajour](https://github.com/ajour/ajour) - A World of Warcraft addon manager written in Rust.
 - [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-- [rustdesk](https://github.com/rustdesk/rustdesk) - An open source remote desktop client software
+- [rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
