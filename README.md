@@ -5691,7 +5691,7 @@
 - [maptool](https://github.com/RPTools/maptool) - Virtual Tabletop for playing roleplaying games with remote players or face to face.
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [Houseclub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse
-- [groovy-language-server](https://github.com/prominic/groovy-language-server) - A language server for Groovy
+- [groovy-language-server](https://github.com/GroovyLanguageServer/groovy-language-server) - A language server for Groovy
 - [microcraft](https://github.com/jdah/microcraft) - A minicraft remake
 - [remixed-dungeon](https://github.com/NYRDS/remixed-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface - Remixed Pixel Dungeon
 - [ircbot](https://github.com/jenkins-infra/ircbot) - Jenkins IRCbot
@@ -8841,7 +8841,7 @@
 - [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
-- [mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender (mirror only, please post your issues and merge requests at https://gitlab.com/ubisoft-animation-studio/mixer)
+- [mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
 - [tomatych](https://github.com/dmi3/tomatych) - Simple Hackable Pomodoro Timer with Slack and Habitica integrations
 - [AnkiHabitica](https://github.com/eshapard/AnkiHabitica) - Anki 2.0/2.1 add-on for use with HabitRPG. Automatically scores habits when you reach the end of your Anki timebox and when you review all cards in a deck.
 - [habitica-github](https://github.com/niteshpatel/habitica-github) - Score a Habitica Task when GitHub commits are pushed
@@ -9389,7 +9389,7 @@
 - [paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
 - [tools](https://github.com/githubmaidou/tools) - Python渗透漏洞工具
 - [slingshot](https://github.com/ryanakca/slingshot) - Simple 2D shooting strategy game set in space, with gravity
-- [LiSE](https://github.com/LogicalDash/LiSE) - Rules-based engine for life sims
+- [LiSE](https://github.com/Tactical-Metaphysics/LiSE) - Rules-based engine for life sims
 - [ERNIE](https://github.com/PaddlePaddle/ERNIE) - Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.
 - [json2xml](https://github.com/vinitkumar/json2xml) - json to xml converter in python3
 - [xml2json](https://github.com/hay/xml2json) - Python script converts XML to JSON or the other way around
@@ -9642,7 +9642,7 @@
 - [twitchy](https://github.com/BasioMeusPuga/twitchy) - CLI streamlink wrapper for twitch.tv
 - [termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [polymorphable](https://github.com/makrohn/polymorphable) - A total conversion, orthographic game based on Clint Bellanger's FLARE
-- [vidcutter](https://github.com/ozmartian/vidcutter) - A simple multi-platform media cutter and joiner.
+- [vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform media cutter and joiner.
 - [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 - [ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
