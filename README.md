@@ -425,7 +425,7 @@
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Terminal based bit manipulator in ncurses
-- [bcal](https://github.com/jarun/bcal) - :1234: Storage and general-purpose calculator
+- [bcal](https://github.com/jarun/bcal) - :1234: Storage expression and general-purpose calculator
 - [ipdecap](https://github.com/lpefferkorn/ipdecap) - Decapsulate traffic encapsulated within GRE, IPIP, 6in4, ESP (ipsec) protocols, can also remove IEEE 802.1Q (virtual lan) header. Works with pcap files.
 - [wrk2](https://github.com/yicwang/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [solaris-userland](https://github.com/oracle/solaris-userland) - Open Source software in Solaris using gmake based build system to drive building various software components.
@@ -2281,7 +2281,7 @@
 - [goto-line-preview](https://github.com/jcs-elpa/goto-line-preview) - Preview line when executing `goto-line` command.
 - [helm-file-preview](https://github.com/jcs-elpa/helm-file-preview) - Preview the current helm file selection.
 - [company-quickhelp-terminal](https://github.com/jcs-elpa/company-quickhelp-terminal) - Terminal support for `company-quickhelp'.
-- [line-reminder](https://github.com/jcs-elpa/line-reminder) - Line annotation for changed and saved lines.
+- [line-reminder](https://github.com/emacs-vs/line-reminder) - Line annotation for changed and saved lines
 - [transwin](https://github.com/jcs-elpa/transwin) - Make window/frame transparent.
 - [emacs-udev-mode](https://github.com/benley/emacs-udev-mode) - Emacs major mode for editing udev rules files
 - [company-manually](https://github.com/yanghaoxie/company-manually) - 
@@ -6014,7 +6014,7 @@
 - [chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [express-rate-limit](https://github.com/nfriedly/express-rate-limit) - Basic rate-limiting middleware for express
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects and FAQ for my Complete JavaScript course
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects, and FAQ for my Complete JavaScript course
 - [wizzy](https://github.com/grafana-wizzy/wizzy) - Manage & automate Grafana with easy wizzy
 - [drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
@@ -6617,7 +6617,6 @@
 - [Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
 - [gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
-- [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [crossfire-chrome](https://github.com/mallowlabs/crossfire-chrome) - CrossFire for Chrome allows you to move to the next link with a keyboard.
 - [Check-My-Links](https://github.com/PageModifiedOfficial/Check-My-Links) - A Google Chrome extension which allows you to check webpages for broken links (Response Code 404 etc)
@@ -7135,7 +7134,7 @@
 ## Nix 
 
 - [lime](https://github.com/fuwn/lime) - 🧶 no bs url shortening
-- [high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - 
+- [high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
 - [nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
 - [gesetze](https://github.com/kmein/gesetze) - German laws from https://www.gesetze-im-internet.de/ in plain text format (updated daily)
 - [dns.nix](https://github.com/kirelagin/dns.nix) - A Nix DSL for DNS zone files
@@ -12276,6 +12275,7 @@
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [color-links](https://github.com/therynamo/color-links) - 🔗 Help Individuals With Color Blindness See Visited Links
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
