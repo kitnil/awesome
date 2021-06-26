@@ -564,7 +564,7 @@
 - [shc](https://github.com/neurobin/shc) - Shell script compiler
 - [xCrash](https://github.com/iqiyi/xCrash) - 🔥 xCrash provides the Android app with the ability to capture java crash, native crash and ANR. No root permission or any system permissions are required.
 - [cl-renderdoc](https://github.com/djeis97/cl-renderdoc) - Wrappers for the renderdoc in application api
-- [xbps](https://github.com/void-linux/xbps) - The X Binary Package System
+- [xbps](https://github.com/void-linux/xbps) - The X Binary Package System (XBPS)
 - [gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
 - [PackageKit](https://github.com/PackageKit/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
@@ -5313,7 +5313,7 @@
 - [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
 - [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
-- [Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more
+- [Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is easy to use and well design admin dashboard template based on Bootstrap 5 for web apps, websites, services and more
 - [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
 - [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
@@ -5991,7 +5991,7 @@
 - [Starhub](https://github.com/Github-Web-Apps/Starhub) - :octocat: All about your Github account, public and private activity, watch stars, followers and much more.
 - [sentinl](https://github.com/sentinl/sentinl) - Kibana Alert & Report App for Elasticsearch
 - [umlet](https://github.com/umlet/umlet) - Free UML Tool for Fast UML Diagrams
-- [monkeytype](https://github.com/Miodec/monkeytype) - A minimalistic typing test
+- [monkeytype](https://github.com/Miodec/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [ttv-ublock](https://github.com/odensc/ttv-ublock) - Blocking ads on that certain streaming website
 - [vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
 - [squareup](https://github.com/manilarome/squareup) - A sleek and modern startpage
@@ -12383,7 +12383,7 @@
 ## VimL 
 
 - [8cc.vim](https://github.com/rhysd/8cc.vim) - C Compiler written in Vim script
-- [dotfiles](https://github.com/bookercodes/dotfiles) - :wrench: .files
+- [dotfiles](https://github.com/bookercodes/dotfiles) - 🎚 Configuration files for macOS and Linux
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 
 ## Vue 
