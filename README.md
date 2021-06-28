@@ -167,7 +167,6 @@
 - [arpilisp](https://github.com/marcpaq/arpilisp) - A Lisp interpreter for Raspberry Pi implemented in a single ARM assembly file
 - [mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
-- [cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 
 ## AutoHotkey 
 
@@ -196,6 +195,7 @@
 
 ## C 
 
+- [winscp](https://github.com/winscp/winscp) - WinSCP is a popular free SFTP and FTP client for Windows, a powerful file manager that will improve your productivity. It supports also Amazon S3, FTPS, SCP and WebDAV protocols. Power users can automate WinSCP using .NET assembly.
 - [wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
 - [gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
 - [swaykbdd](https://github.com/artemsen/swaykbdd) - KBDD replacement for Sway
@@ -265,7 +265,7 @@
 - [emacs-webkit](https://github.com/akirakyle/emacs-webkit) - An Emacs Dynamic Module for WebKit, aka a fully fledged browser inside emacs
 - [xqp](https://github.com/baskerville/xqp) - X Query pointer
 - [xtitle](https://github.com/baskerville/xtitle) - Outputs X window titles
-- [libhv](https://github.com/ithewei/libhv) - 🔥 比libevent、libuv更易用的国产网络库。A network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
+- [libhv](https://github.com/ithewei/libhv) - 🔥 比libevent、libuv更易用的国产网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
 - [pam-gnupg](https://github.com/cruegge/pam-gnupg) - Unlock GnuPG keys on login
 - [long-shebang](https://github.com/shlevy/long-shebang) - A tool for #! scripts with more than one argument
 - [bgpdump](https://github.com/RIPE-NCC/bgpdump) - Utility and C Library for parsing MRT files
@@ -349,7 +349,7 @@
 - [yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [xtmon](https://github.com/vimist/xtmon) - An EWMH compliant X window title monitoring tool.
 - [mustardwatch](https://github.com/shachaf/mustardwatch) - Detect what files a program uses and rerun it when they change
-- [askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [emacs-libyaml](https://github.com/syohex/emacs-libyaml) - libyaml binding of Emacs Lisp
 - [proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
@@ -960,6 +960,7 @@
 - [Bumblebee](https://github.com/Bumblebee-Project/Bumblebee) - Bumblebee daemon and client rewritten in C
 - [nautilus](https://github.com/GNOME/nautilus) - Read-only mirror of https://gitlab.gnome.org/GNOME/nautilus
 - [tlf](https://github.com/Tlf/tlf) - TLF - a console based ham radio contest logger
+- [cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [fwupd](https://github.com/fwupd/fwupd) - A simple daemon to allow session software to update firmware
 - [hawkey](https://github.com/rpm-software-management/hawkey) - This is hawkey, library providing simplified C and Python API to libsolv. Hawkey project is obsoleted.
@@ -1408,7 +1409,7 @@
 - [flare-engine](https://github.com/flareteam/flare-engine) - Free/Libre Action Roleplaying Engine (engine only)
 - [TinyRogue](https://github.com/marukrap/TinyRogue) - Yet another Rogue clone based on Rogue 5.4
 - [pamixer](https://github.com/cdemoulins/pamixer) - Pulseaudio command line mixer
-- [pulseeffects](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications
+- [pulseeffects](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for PipeWire applications
 - [cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [M.A.R.S.](https://github.com/thelaui/M.A.R.S.) - M.A.R.S. - a ridiculous shooter
 - [hyperrogue](https://github.com/zenorogue/hyperrogue) - A SDL roguelike in a non-euclidean world
@@ -2023,6 +2024,7 @@
 
 ## Coq 
 
+- [monae](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasonig in Coq
 - [InteractionTrees](https://github.com/DeepSpec/InteractionTrees) - A Library for Representing Recursive and Impure Programs in Coq
 - [CompCert](https://github.com/AbsInt/CompCert) - The CompCert formally-verified C compiler
 - [hs-to-coq](https://github.com/antalsz/hs-to-coq) - Convert Haskell source code to Coq source code
@@ -5088,7 +5090,7 @@
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow
-- [writefreely](https://github.com/writefreely/writefreely) - A clean, minimalist publishing platform made for writers. Write together, and build a community.
+- [writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
 - [discord-cli](https://github.com/RickvanLoo/discord-cli) - Minimalistic Command-Line Interface for Discord
 - [gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
 - [mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
@@ -5817,7 +5819,7 @@
 - [pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
 - [NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [RxShell](https://github.com/d4rken/RxShell) - Easy shell access for Android apps using RxJava.
-- [AndroidShell](https://github.com/jaredrummler/AndroidShell) - Execute shell commands on Android.
+- [KtSh](https://github.com/jaredrummler/KtSh) - Execute shell commands on Android or the JVM
 - [libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [dashboard-view-plugin](https://github.com/jenkinsci/dashboard-view-plugin) - Jenkins dashboard-view plugin
@@ -6073,7 +6075,7 @@
 - [standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [time-to-leave](https://github.com/thamara/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live.
-- [moodle-downloader](https://github.com/harsilspatel/moodle-downloader) - A chrome extension for batch downloading Moodle resources 💾
+- [moodle-downloader](https://github.com/harsilspatel/moodle-downloader) - A 4.9 stars rated chrome extension for batch downloading Moodle resources 💾
 - [hubnav](https://github.com/cheshire137/hubnav) - A Chrome extension for navigating github.com via keyboard shortcuts. Quickly access issues for multiple repos, as well as your org's pages.
 - [vertical-tabs-chrome-extension](https://github.com/lxieyang/vertical-tabs-chrome-extension) - A chrome extension that presents your tabs vertically. Problem solved.
 - [ducky](https://github.com/RameshAditya/ducky) - Chrome extension to overlay a (super adorable) rubber duck, as a virtual companion during rubber duck debugging.
@@ -6926,7 +6928,7 @@
 - [fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android
 - [press](https://github.com/saket/press) - Cross-platform markdown editor written in Kotlin Multiplatform (work in progress)
 - [StfalconImageViewer](https://github.com/stfalcon-studio/StfalconImageViewer) - A simple and customizable Android full-screen image viewer with shared image transition support, "pinch to zoom" and "swipe to dismiss" gestures
-- [chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device) - More Chucker than Chuck
+- [chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 - [adb-event-mirror](https://github.com/JakeWharton/adb-event-mirror) - Mirror the touch/key/button events of one device onto one or more other devices in real-time
 - [Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 - [awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources) - 👓 A curated list of awesome android learning resources for android app developers.
@@ -8309,7 +8311,7 @@
 - [evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
 - [gits](https://github.com/Dineshs91/gits) - Get out of apocalypse
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
-- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -8676,7 +8678,7 @@
 - [jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [textflint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing
 - [nanodet](https://github.com/RangiLyu/nanodet) - ⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥
-- [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - The next best thing after Bloomberg Terminal
+- [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - A FOSS alternative to Bloomberg Terminal.
 - [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
 - [mongita](https://github.com/scottrogowski/mongita) - "Mongita is to MongoDB as SQLite is to SQL"
@@ -10624,7 +10626,7 @@
 - [autoadb](https://github.com/rom1v/autoadb) - Execute a command whenever a device is adb-connected
 - [docuum](https://github.com/stepchowfun/docuum) - Docuum performs least recently used (LRU) eviction of Docker images. 🗑️
 - [copypasta](https://github.com/alacritty/copypasta) - Cross-platform Rust system clipboard library
-- [macroquad](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
+- [macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 - [grammers](https://github.com/Lonami/grammers) - (tele)gramme.rs - use Telegram's API from Rust
 - [steven](https://github.com/Thinkofname/steven) - Rust Minecraft Client
 - [UniverCity](https://github.com/Thinkofname/UniverCity) - Source code of the game Univercity: https://store.steampowered.com/app/808160/UniverCity/
@@ -12095,7 +12097,7 @@
 
 ## TypeScript 
 
-- [million](https://github.com/millionjs/million) - 🌈 &lt;1kb virtual DOM - it's fast!
+- [million](https://github.com/aidenybai/million) - 🌈 &lt;1kb virtual DOM - it's fast!
 - [racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
@@ -12302,7 +12304,7 @@
 - [core](https://github.com/midori-browser/core) - Midori Web Browser - a lightweight, fast and free web browser using WebKit and GTK+
 - [xi-gtk](https://github.com/eyelash/xi-gtk) - a GTK front-end for the Xi editor
 - [dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK+/Vala
-- [vala-language-server-protocol](https://github.com/chances/vala-language-server-protocol) - Language Server Protocol in Vala
+- [lsp-glib](https://github.com/chances/lsp-glib) - Language Server Protocol SDK for GLib
 - [wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound) - Wingpanel Sound Indicator
 - [connections](https://github.com/GNOME/connections) - Read-only mirror of https://gitlab.gnome.org/GNOME/connections
 - [Sherlock](https://github.com/sergius02/Sherlock) - Sherlock helps you to find information of public IP address, elementary! 🕵️
