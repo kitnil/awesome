@@ -5739,7 +5739,7 @@
 - [config](https://github.com/lightbend/config) - configuration library for JVM languages using HOCON files
 - [org-java](https://github.com/orgzly/org-java) - Org mode files Java parser
 - [umlbot](https://github.com/taichi/umlbot) - uml generator bot for slack
-- [halo](https://github.com/halo-dev/halo) - ✍  An excellent open source blog publishing application. | 一个优秀的开源博客发布应用。
+- [halo](https://github.com/halo-dev/halo) - ✍ 一款优秀的开源博客发布应用。
 - [gitblit](https://github.com/gitblit/gitblit) - pure java git solution
 - [chibe](https://github.com/raatmarien/chibe) - An Android application that reminds you of the time
 - [mindful-android-launcher](https://github.com/maysax/mindful-android-launcher) - Siempo Android Launcher - Smartphone interface for mental health and wellbeing
