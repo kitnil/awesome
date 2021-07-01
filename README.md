@@ -1358,7 +1358,7 @@
 - [ArxLibertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game
 - [olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [tinyraycaster](https://github.com/ssloy/tinyraycaster) - 486 lines of C++: old-school FPS in a weekend
-- [ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine (Python, C#, Java)
+- [ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine (C++, Python, C#, Java)
 - [bsf](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications
 - [apitrace](https://github.com/apitrace/apitrace) - Tools for tracing OpenGL, Direct3D, and other graphics APIs
 - [openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
@@ -5363,7 +5363,6 @@
 - [python-goose](https://github.com/grangier/python-goose) - Html Content / Article Extractor, web scrapping lib in Python
 - [railsgirls.github.io](https://github.com/railsgirls/railsgirls.github.io) - Rails Girls Guides
 - [ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
-- [ansible-role-postgresql](https://github.com/geerlingguy/ansible-role-postgresql) - Ansible Role - PostgreSQL
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [EverOrg](https://github.com/aladine/EverOrg) - Evernote to Org mode migration tool
 - [jsonpath-online-evaluator](https://github.com/ashphy/jsonpath-online-evaluator) - JSONPath Online Evaluator
@@ -5543,7 +5542,7 @@
 - [asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
 - [ormolu](https://github.com/tweag/ormolu) - A formatter for Haskell source code
 - [ghcide](https://github.com/haskell/ghcide) - A library for building Haskell IDE tooling
-- [irc-core](https://github.com/glguy/irc-core) - Haskell IRC library and console client - Join us on Freenode #haskell-irc
+- [irc-core](https://github.com/glguy/irc-core) - Haskell IRC library and console client - Join us on libera.chat #glirc
 - [eta](https://github.com/typelead/eta) - The Eta Programming Language, a dialect of Haskell on the JVM
 - [gitlib](https://github.com/jwiegley/gitlib) - 
 - [FuncShell](https://github.com/iostreamer-X/FuncShell) - Improve your shell by making it functional through Haskell! (An update to Awkward)
@@ -6787,6 +6786,7 @@
 - [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
+- [ansible-role-postgresql](https://github.com/geerlingguy/ansible-role-postgresql) - Ansible Role - PostgreSQL
 - [ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [fedora-ansible](https://github.com/fabaff/fedora-ansible) - Ansible playbooks for Fedora
 - [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
@@ -9210,7 +9210,6 @@
 - [google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported. The goal is to provide a stable and consistent interface abstraction to Ansible.
-- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92]
 - [ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
 - [orgparse](https://github.com/karlicoss/orgparse) - Python module for reading Emacs org-mode files
@@ -9910,7 +9909,7 @@
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [tsoding-tools](https://github.com/tsoding/tsoding-tools) - Just a bunch of scripts I use for my streams
 - [meson](https://github.com/mesonbuild/meson) - The Meson Build System
-- [picard](https://github.com/metabrainz/picard) - MusicBrainz Picard
+- [picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [mopidy-youtube](https://github.com/natumbri/mopidy-youtube) - Mopidy extension for playing music from YouTube
 - [fedmsg-notify](https://github.com/fedora-infra/fedmsg-notify) - Fedmsg Desktop Notifications
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
@@ -10786,7 +10785,7 @@
 - [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
 - [quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds
 - [nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
 - [diff-grep](https://github.com/keith/diff-grep) - Filter matching hunks in diffs
@@ -11779,7 +11778,7 @@
 - [Sn1per](https://github.com/1N3/Sn1per) - Discover the attack surface and prioritize risks with our continuous Attack Surface Management (ASM) platform - Sn1per Professional #pentest #redteam #bugbounty
 - [rofi-pass](https://github.com/carnager/rofi-pass) - rofi frontend for pass
 - [clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
-- [docker-selenium](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support. Also check: Zalenium
+- [docker-selenium](https://github.com/elgalu/docker-selenium) - [NOT MAINTAINED] Please use &lt;https://github.com/SeleniumHQ/docker-selenium&gt;
 - [zabbix](https://github.com/oscm/zabbix) - Zabbix Plugin
 - [zabbix-extensions](https://github.com/lesovsky/zabbix-extensions) - Zabbix additional monitoring modules
 - [nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
@@ -12215,6 +12214,7 @@
 - [zero](https://github.com/sinclairzx81/zero) - A 3D renderer written in JavaScript and rendered to the terminal.
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
+- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
 - [SOSML](https://github.com/SOSML/SOSML) - The Online Interpreter for Standard ML, written in TypeScript.
 - [discord-term](https://github.com/atlx/discord-term) - Extensible Discord terminal client
