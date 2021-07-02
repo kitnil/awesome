@@ -5420,7 +5420,6 @@
 - [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
 - [pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
-- [ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 
 ## Haml 
 
@@ -6790,6 +6789,7 @@
 - [ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [fedora-ansible](https://github.com/fabaff/fedora-ansible) - Ansible playbooks for Fedora
 - [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
+- [ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 
 ## Jsonnet 
 
@@ -7194,7 +7194,7 @@
 - [nix-syntax-for-mcedit](https://github.com/svanderburg/nix-syntax-for-mcedit) - Nix expression syntax highlighter for mcedit
 - [php-sbeditor](https://github.com/svanderburg/php-sbeditor) - Simple embeddable HTML editor
 - [static-haskell-nix](https://github.com/nh2/static-haskell-nix) - easily build most Haskell programs into fully static Linux executables
-- [devos](https://github.com/divnix/devos) - NixOS Framework
+- [devos](https://github.com/divnix/devos) - NixOS Template
 - [reflex-platform](https://github.com/reflex-frp/reflex-platform) - A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.
 - [mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
 - [nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
@@ -9276,7 +9276,7 @@
 - [ProtonDB-Tags](https://github.com/CorruptComputer/ProtonDB-Tags) - Pull ratings from ProtonDB and import them into your Steam library as tags.
 - [pyramid](https://github.com/Pylons/pyramid) - Pyramid - A Python web framework
 - [LaunchCold](https://github.com/earvingad/LaunchCold) - FullScreen App Launcher for Openbox.
-- [kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check) - A tool for checking the hardening options in the Linux kernel config
+- [kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check) - A tool for checking the security hardening options of the Linux kernel
 - [Discurses](https://github.com/topisani/Discurses) - A Python discord CLI focused on usability
 - [wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Automate Scrubbing your Facebook Presence
@@ -9530,7 +9530,7 @@
 - [Nagstamon](https://github.com/HenriWahl/Nagstamon) - Nagios status monitor for your desktop.
 - [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11
 - [ansible-zabbix-web](https://github.com/dj-wasabi/ansible-zabbix-web) - Installing and maintaining zabbix-web for RedHat/Debian/Ubuntu.
-- [ivre](https://github.com/cea-sec/ivre) - Network recon framework.
+- [ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR
 - [zabbix-mongodb](https://github.com/omni-lchen/zabbix-mongodb) - 
 - [alignak](https://github.com/Alignak-monitoring/alignak) - Monitoring tool, highly flexible and new standard oriented
 - [radian](https://github.com/randy3k/radian) - A 21 century R console
@@ -9641,7 +9641,7 @@
 - [twitchy](https://github.com/BasioMeusPuga/twitchy) - CLI streamlink wrapper for twitch.tv
 - [termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [polymorphable](https://github.com/makrohn/polymorphable) - A total conversion, orthographic game based on Clint Bellanger's FLARE
-- [vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform media cutter and joiner.
+- [vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform video cutter and joiner.
 - [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 - [ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
@@ -11382,7 +11382,7 @@
 - [dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
 - [HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
-- [PenTestKit](https://github.com/maldevel/PenTestKit) - Useful tools and scripts during Penetration Testing engagements
+- [PenTestKit](https://github.com/maldevel/PenTestKit) - Tools, scripts and tips useful during Penetration Testing engagements.
 - [terraform-makefile](https://github.com/paulRbr/terraform-makefile) - Makefile to use as a simple interface for Terraform
 - [maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
 - [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
@@ -11489,7 +11489,7 @@
 - [JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash
 - [git-issue](https://github.com/dspinellis/git-issue) - Git-based decentralized issue management
-- [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +4.3K awesome resources for geeks and software crafters :beer:
+- [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5.8K awesome resources for geeks and software crafters :beer:
 - [gherkin](https://github.com/alandipert/gherkin) - a functional programming language and interpreter written in GNU Bash 4
 - [flk](https://github.com/chr15m/flk) - A LISP that runs wherever Bash is
 - [awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
@@ -12096,7 +12096,7 @@
 
 ## TypeScript 
 
-- [million](https://github.com/aidenybai/million) - 🌈 &lt;1kb virtual DOM - it's fast!
+- [million](https://github.com/aidenybai/million) - 🌈  &lt;1kb virtual DOM - it's fast!
 - [racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
@@ -12213,7 +12213,7 @@
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [zero](https://github.com/sinclairzx81/zero) - A 3D renderer written in JavaScript and rendered to the terminal.
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
-- [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
+- [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
 - [SOSML](https://github.com/SOSML/SOSML) - The Online Interpreter for Standard ML, written in TypeScript.
