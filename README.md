@@ -3214,7 +3214,6 @@
 - [dotfiles](https://github.com/dvc94ch/dotfiles) - My dotfiles
 - [emacs-scala-mode](https://github.com/hvesalai/emacs-scala-mode) - The definitive scala-mode for emacs
 - [helm-cmd-t](https://github.com/emacs-helm/helm-cmd-t) - Helm functions to package directories (SCM controlled or not) as sources.
-- [ido-ubiquitous](https://github.com/technomancy/ido-ubiquitous) - Fancy completion all over Emacs, not just for buffers and files.
 - [wolfram-mode](https://github.com/kawabata/wolfram-mode) - Emacs editing mode for Mathematica and inferior shell.
 - [malinka](https://github.com/LefterisJP/malinka) - A C/C++ project configuration package for Emacs
 - [minimap](https://github.com/dengste/minimap) - Sidebar showing a "mini-map" of a buffer
@@ -7134,6 +7133,7 @@
 
 ## Nix 
 
+- [agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
 - [lime](https://github.com/fuwn/lime) - 🧶 no bs url shortening
 - [high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
 - [nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
@@ -11247,7 +11247,7 @@
 - [ssb](https://github.com/kitabisa/ssb) - Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
 - [parallel-bash](https://github.com/Akianonymus/parallel-bash) - Parallel processing of commands in pure bash along with the support of functions.
 - [fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
-- [AllVideoPocsFromHackerOne](https://github.com/bminossi/AllVideoPocsFromHackerOne) - This script grab public report from hacker one and make some folders with poc videos
+- [AllVideoPocsFromHackerOne](https://github.com/zeroc00I/AllVideoPocsFromHackerOne) - This script grab public report from hacker one and make some folders with poc videos
 - [safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.
 - [theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
@@ -11489,7 +11489,7 @@
 - [JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash
 - [git-issue](https://github.com/dspinellis/git-issue) - Git-based decentralized issue management
-- [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5.8K awesome resources for geeks and software crafters :beer:
+- [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +4.4K awesome resources for geeks and software crafters :beer:
 - [gherkin](https://github.com/alandipert/gherkin) - a functional programming language and interpreter written in GNU Bash 4
 - [flk](https://github.com/chr15m/flk) - A LISP that runs wherever Bash is
 - [awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
