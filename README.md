@@ -12,6 +12,7 @@
   - [Arc](#arc)
   - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
+  - [AutoIt](#autoit)
   - [Awk](#awk)
   - [Batchfile](#batchfile)
   - [Brainfuck](#brainfuck)
@@ -172,6 +173,10 @@
 
 - [ewow](https://github.com/zk-phi/ewow) - Use Emacs command (almost) everywhere
 - [dual](https://github.com/lydell/dual) - Dual is an AutoHotkey script that lets you define dual-role modifier keys easily.
+
+## AutoIt 
+
+- [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC isn't Windows 11  Release Ready
 
 ## Awk 
 
@@ -1100,6 +1105,7 @@
 
 ## C++ 
 
+- [palanteer](https://github.com/dfeneyrou/palanteer) - High performance visual profiler, debugger, tests enabler  for C++ and Python
 - [BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 - [ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [FractalSoundExplorer](https://github.com/HackerPoet/FractalSoundExplorer) - Explore fractals in an audio-visual sandbox
@@ -1312,7 +1318,7 @@
 - [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) - Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings. You can use it for characters in computer games, in animated cartoons, or in any other project that requires animating mouths based on existing recordings.
 - [clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
 - [argh](https://github.com/adishavit/argh) - Argh! A minimalist argument handler.
-- [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Commandline Task Management
+- [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [fltrdr](https://github.com/octobanana/fltrdr) - A TUI text reader for the terminal.
 - [TextBoxes](https://github.com/MhLiao/TextBoxes) - TextBoxes: A Fast Text Detector with a Single Deep Neural Network
 - [stepmania](https://github.com/stepmania/stepmania) - Advanced rhythm game for Windows, Linux and OS X. Designed for both home and arcade use.
@@ -2176,6 +2182,7 @@
 
 ## Emacs Lisp 
 
+- [ac-php](https://github.com/xcwen/ac-php) - emacs auto-complete  & company-mode  for php
 - [power-mode.el](https://github.com/elizagamedev/power-mode.el) - Imbue Emacs with power!
 - [svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [open-conf](https://github.com/enisozgen/open-conf) - Open files via M-x buffer
@@ -3389,7 +3396,6 @@
 - [monroe](https://github.com/sanel/monroe) - Clojure nREPL client for Emacs
 - [monky](https://github.com/ananthakumaran/monky) - Magit for Hg
 - [es-mode](https://github.com/dakrone/es-mode) - An Emacs major mode for interacting with Elasticsearch
-- [ac-php](https://github.com/xcwen/ac-php) - emacs auto-complete  & company-mode  for php
 - [fountain-mode](https://github.com/rnkn/fountain-mode) - Emacs major mode for screenwriting in Fountain plain-text markup
 - [emacs-theme-gruvbox](https://github.com/greduan/emacs-theme-gruvbox) - Gruvbox is a retro groove color scheme for Emacs. Port of the Vim version.
 - [jdee](https://github.com/jdee-emacs/jdee) - The JDEE is an add-on software package that turns Emacs into a comprehensive system for creating, editing, debugging, and documenting Java applications.
@@ -4002,6 +4008,8 @@
 
 ## Go 
 
+- [naml](https://github.com/kris-nova/naml) - Not another markup language. Framework for replacing Kubernetes YAML with Go.
+- [plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
 - [page-fetch](https://github.com/detectify/page-fetch) - Fetch web pages using headless Chrome, storing all fetched resources including JavaScript files. Run arbitrary JavaScript on many web pages and see the returned values
 - [sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
@@ -5112,7 +5120,7 @@
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [router7](https://github.com/rtr7/router7) - a small home internet router completely written in Go
-- [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
+- [annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [pgdiff](https://github.com/joncrlsn/pgdiff) - Compares the PostgreSQL schema between two databases and generates SQL statements that can be run manually against the second database to make their schemas match.
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -5261,6 +5269,7 @@
 - [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows, MacOS, and Linux.
 - [Java-JDK10](https://github.com/umair-akb/Java-JDK10) - Java version 1.1 + JDK 1.0 and very early Java applets, developed 1995 to 1996.
 - [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
+- [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - A FOSS alternative to Bloomberg Terminal.
 - [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 - [ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
 - [big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
@@ -5971,7 +5980,7 @@
 - [visual-basm](https://github.com/kolumb/visual-basm) - Visual tool for basm language
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take more than 100 days, follow your own pace.
-- [Mark-Mind](https://github.com/MarkMindLtd/Mark-Mind) - MarkMind — a mind map and outliner editor  for Windows, Mac, Linux, andriod and ios ,it support markdown in node.
+- [Mark-Mind](https://github.com/MarkMindCkm/Mark-Mind) - MarkMind — a mind map and outliner editor  for Windows, Mac, Linux, andriod and ios ,it support markdown in node.
 - [screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [estimator.dev](https://github.com/GoogleChromeLabs/estimator.dev) - 🧮 Calculate the size and performance impact of switching to modern JavaScript syntax.
@@ -7133,6 +7142,12 @@
 
 ## Nix 
 
+- [nix-babahska-static-bin-pkg](https://github.com/djwhitt/nix-babahska-static-bin-pkg) - 
+- [lisp-overlay](https://github.com/SuperSandro2000/lisp-overlay) - Mirror of
+- [nixos-guix](https://github.com/ethancedwards8/nixos-guix) - 
+- [makes](https://github.com/fluidattacks/makes) - A SecDevOps framework powered by Nix
+- [NixNG](https://github.com/MagicRB/NixNG) - 
+- [s7-flake](https://github.com/patternspandemic/s7-flake) - Nix Flake for s7 Scheme
 - [agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
 - [lime](https://github.com/fuwn/lime) - 🧶 no bs url shortening
 - [high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
@@ -7290,6 +7305,12 @@
 
 ## Others 
 
+- [ML_Resources](https://github.com/tunguz/ML_Resources) - GitHub Repo with various ML/AI/DS resources that I find useful
+- [yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
+- [go-recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects
+- [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A repository to index and organize the latest machine learning courses found on YouTube.
+- [software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
+- [awesome-golang-workshops](https://github.com/amit-davidson/awesome-golang-workshops) - A curated list of awesome golang workshops.
 - [awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [dl-visuals](https://github.com/dvgodoy/dl-visuals) - Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers.
 - [alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
@@ -8678,7 +8699,6 @@
 - [jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [textflint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing
 - [nanodet](https://github.com/RangiLyu/nanodet) - ⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥
-- [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - A FOSS alternative to Bloomberg Terminal.
 - [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
 - [mongita](https://github.com/scottrogowski/mongita) - "Mongita is to MongoDB as SQLite is to SQL"
@@ -9104,7 +9124,7 @@
 - [voluptuous](https://github.com/alecthomas/voluptuous) - CONTRIBUTIONS ONLY: Voluptuous, despite the name, is a Python data validation library.
 - [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 - [qtconsole](https://github.com/jupyter/qtconsole) - Jupyter Qt Console
-- [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks
+- [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build beautiful, publication-quality books and documents from computational content.
 - [jupyter_console](https://github.com/jupyter/jupyter_console) - Jupyter Terminal Console
 - [repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
@@ -10589,6 +10609,7 @@
 
 ## Rust 
 
+- [rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [rustcat](https://github.com/robiot/rustcat) - ⚙️ Netcat Alternative
 - [awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [todo_r](https://github.com/lavifb/todo_r) - Find all your TODO notes with one command!
@@ -11197,6 +11218,7 @@
 
 ## Shell 
 
+- [ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [styli.sh](https://github.com/thevinter/styli.sh) - A CLI tool for easy wallpaper management and image fetching
 - [hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
 - [Garud](https://github.com/R0X4R/Garud) - An automation tool that scans sub-domains, sub-domain takeover, then filters out XSS, SSTI, SSRF, and more injection point parameters and scans for some low hanging vulnerabilities automatically.
@@ -12096,11 +12118,12 @@
 
 ## TypeScript 
 
+- [CollegeCompendium](https://github.com/GoldinGuy/CollegeCompendium) - 📓 A curated collection of free Computer Science classes from top colleges across America
 - [million](https://github.com/aidenybai/million) - 🏳️‍🌈 &lt;1kb virtual DOM - it's fast!
 - [racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
-- [angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 11, Nx Workspace, ngrx, TailwindCSS and ng-zorro
+- [angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 12, Nx Workspace, ngrx, TailwindCSS and ng-zorro
 - [remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
