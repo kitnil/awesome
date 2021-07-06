@@ -200,6 +200,8 @@
 
 ## C 
 
+- [DarkLoadLibrary](https://github.com/bats3c/DarkLoadLibrary) - LoadLibrary for offensive operations
+- [fatelf](https://github.com/icculus/fatelf) - Universal binaries for Linux.
 - [winscp](https://github.com/winscp/winscp) - WinSCP is a popular free SFTP and FTP client for Windows, a powerful file manager that will improve your productivity. It supports also Amazon S3, FTPS, SCP and WebDAV protocols. Power users can automate WinSCP using .NET assembly.
 - [wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
 - [gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
@@ -1500,7 +1502,7 @@
 - [colobot](https://github.com/colobot/colobot) - Source code of open-source Colobot: Gold Edition project developed by Epsitec and TerranovaTeam
 - [freeserf](https://github.com/freeserf/freeserf) - Settlers 1 (Serf City) clone.
 - [vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
-- [OpenDungeons](https://github.com/OpenDungeons/OpenDungeons) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous...
+- [OpenDungeons](https://github.com/OpenDungeons/OpenDungeons) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous... | *Not actively developed anymore*
 - [uncrustify](https://github.com/uncrustify/uncrustify) - Code beautifier
 - [rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [firesheep](https://github.com/codebutler/firesheep) - A Firefox extension that demonstrates HTTP session hijacking attacks.
@@ -1727,6 +1729,7 @@
 
 ## Clojure 
 
+- [jme-clj](https://github.com/ertugrulcetin/jme-clj) - A Clojure 3D Game Engine (Wrapper), Powered by jMonkeyEngine
 - [rewrite-clj](https://github.com/clj-commons/rewrite-clj) - Rewrite Clojure Code and EDN!
 - [zprint](https://github.com/kkinnear/zprint) - Executables, uberjar, and library to beautifully format Clojure and Clojurescript source code and s-expressions.
 - [tempura](https://github.com/ptaoussanis/tempura) - Pure Clojure/Script i18n translations library
@@ -5224,7 +5227,6 @@
 - [jenkins-configuration](https://github.com/edx/jenkins-configuration) - A collection of utilities for configuring a Jenkins instance and its plugins
 - [jenkins-dsl](https://github.com/jessfraz/jenkins-dsl) - Jenkins DSLs for my Jenkins instance, keeps forks up to date, mirrors repositories to private git, builds all Dockerfiles and more.
 - [fabric8-jenkinsfile-library](https://github.com/fabric8io/fabric8-jenkinsfile-library) - This repository contains a library of reusable Jenkinsfiles that you can use on your projects. Its reused by the fabric8 console to associate Jenkinsfiles to projects
-- [jenkins-course](https://github.com/wardviaene/jenkins-course) - This is the repository with all the resources for the Jenkins training on Udemy
 - [JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit) - Framework for unit testing Jenkins pipelines
 - [jenny](https://github.com/bmustiata/jenny) - Command line Jenkinsfile runner written in groovy. Does not need a Jenkins installation to run the Jenkinsfile.
 - [jenkinsfile-examples](https://github.com/hoto/jenkinsfile-examples) - Executable examples of Jenkinsfiles.
@@ -5427,6 +5429,7 @@
 - [pykwiki](https://github.com/nullism/pykwiki) - PyKwiki, a static file Python MarkDown wiki rendered by Jinja2
 - [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
 - [pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
+- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 
 ## Haml 
@@ -5439,6 +5442,7 @@
 
 ## Haskell 
 
+- [pandoc-server](https://github.com/jgm/pandoc-server) - Simple server app for pandoc conversions.
 - [haskell-dangerous-functions](https://github.com/NorfairKing/haskell-dangerous-functions) - Documentation about Haskell's dangerous functions and a hlint config file to warn about them
 - [nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
 - [orgself](https://github.com/srid/orgself) - Exploring calendar outlining
@@ -8369,7 +8373,7 @@
 - [psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 - [phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code
 - [phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics
-- [larastan](https://github.com/nunomaduro/larastan) - ⚗️ Adds static analysis to Laravel improving developer productivity and code quality
+- [larastan](https://github.com/nunomaduro/larastan) - ⚗️ Adds static analysis to Laravel improving developer productivity and code quality.
 - [phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [Caesar](https://github.com/0blio/Caesar) - An HTTP based RAT (Remote Administration Tool) that allows you to remotely control devices from your browser
 - [yii2-webshell](https://github.com/samdark/yii2-webshell) - Web shell allows to run yii console commands using a browser
@@ -11088,7 +11092,6 @@
 - [documentation](https://github.com/tootsuite/documentation) - Full documentation repository for Mastodon
 - [docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
-- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
 ## Sass 
 
@@ -11126,6 +11129,7 @@
 
 ## Scheme 
 
+- [guix-installer](https://github.com/SystemCrafters/guix-installer) - A GNU Guix installer image with the full Linux kernel!
 - [guile-raw-strings](https://github.com/lloda/guile-raw-strings) - A Guile reader extension for ‘raw strings’
 - [scheme-to-llvm](https://github.com/akeep/scheme-to-llvm) - A compiler to compile a simple subset of scheme to LLVM 10
 - [guile-telegram](https://github.com/artyom-poptsov/guile-telegram) - Telegram bot API for GNU Guile
@@ -11218,6 +11222,9 @@
 
 ## Shell 
 
+- [adb-download-all](https://github.com/sickcodes/adb-download-all) - ADB Download All Files - A dirty shell script to adb pull all readable files using adb pull & base64
+- [minecraft-wayland](https://github.com/Admicos/minecraft-wayland) - A better way of running Minecraft Without XWayland. Because I REALLY had nothing better to do with my life.
+- [dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [styli.sh](https://github.com/thevinter/styli.sh) - A CLI tool for easy wallpaper management and image fetching
 - [hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
@@ -11298,6 +11305,7 @@
 - [sbang](https://github.com/spack/sbang) - Run scripts with very long shebang (#!) lines
 - [Docker-Compose-Backup](https://github.com/danmed/Docker-Compose-Backup) - Create compose files from running containers
 - [farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
+- [jenkins-course](https://github.com/wardviaene/jenkins-course) - This is the repository with all the resources for the Jenkins training on Udemy
 - [rtmp-social-multicast](https://github.com/HorusGoul/rtmp-social-multicast) - Want to stream to Twitch, YouTube, Facebook, and/or Periscope at the same time? That's what this project allows you to do!
 - [userreconOG](https://github.com/Graey/userreconOG) - A script to find usernames across over 75 social networks.
 - [ad-honeypot-autodeploy](https://github.com/tothi/ad-honeypot-autodeploy) - Deploy a small, intentionally insecure, vulnerable Windows Domain for RDP Honeypot fully automatically.
@@ -11650,7 +11658,7 @@
 - [FFcast](https://github.com/lolilolicon/FFcast) - Run command on rectangular screen regions
 - [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
-- [pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like wrapper for many package managers
+- [pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like 56KB shell wrapper for many package managers.
 - [nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB and Fastboot on Linux, macOS, and Chrome OS
 - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
