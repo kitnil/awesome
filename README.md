@@ -1107,7 +1107,7 @@
 
 ## C++ 
 
-- [palanteer](https://github.com/dfeneyrou/palanteer) - High performance visual profiler, debugger, tests enabler  for C++ and Python
+- [palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ profiler, debugger, tests enabler - high performance
 - [BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 - [ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [FractalSoundExplorer](https://github.com/HackerPoet/FractalSoundExplorer) - Explore fractals in an audio-visual sandbox
@@ -2080,6 +2080,7 @@
 
 ## Dockerfile 
 
+- [dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 - [vulnerable-nginx](https://github.com/detectify/vulnerable-nginx) - An intentionally vulnerable NGINX setup
 - [docker_using_ansible](https://github.com/nihaldivyam/docker_using_ansible) - Script to Deploy docker and container using ansible
@@ -2181,6 +2182,7 @@
 
 ## Elm 
 
+- [docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
 - [elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app
 
 ## Emacs Lisp 
@@ -4564,7 +4566,7 @@
 - [dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
 - [Gaea](https://github.com/XiaoMi/Gaea) - Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team.
-- [kruise](https://github.com/openkruise/kruise) - Automate application management on Kubernetes
+- [kruise](https://github.com/openkruise/kruise) - Automate application management on Kubernetes (project under CNCF)
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [ent](https://github.com/ent/ent) - An entity framework for Go
 - [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
@@ -5394,7 +5396,6 @@
 - [nixos-weekly](https://github.com/NixOS/nixos-weekly) - NixOS Weekly Newsletter
 - [pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
-- [infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [ruby-hacking-guide.github.com](https://github.com/ruby-hacking-guide/ruby-hacking-guide.github.com) - Ruby Hacking Guide Translation
 - [ProgrammingLanguage-Series](https://github.com/wx-chevalier/ProgrammingLanguage-Series) - :books: 编程语言语法基础与工程实践，JavaScript | Java | Python | Go | Rust | CPP | Swift
 - [craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
@@ -5442,6 +5443,9 @@
 
 ## Haskell 
 
+- [time.gif](https://github.com/def-/time.gif) - GIF that always shows the current time in UTC
+- [neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
+- [quad-ci](https://github.com/alpacaaa/quad-ci) - A CI server written in Simple Haskell.
 - [pandoc-server](https://github.com/jgm/pandoc-server) - Simple server app for pandoc conversions.
 - [haskell-dangerous-functions](https://github.com/NorfairKing/haskell-dangerous-functions) - Documentation about Haskell's dangerous functions and a hlint config file to warn about them
 - [nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
@@ -7285,6 +7289,7 @@
 - [wanderers](https://github.com/a-nikolaev/wanderers) - An open world adventure and dungeon crawling game
 - [qtest](https://github.com/vincent-hugot/qtest) - Inline (Unit) Tests for OCaml
 - [ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
+- [infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
 - [js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [batteries-included](https://github.com/ocaml-batteries-team/batteries-included) - Batteries Included project
@@ -8667,6 +8672,7 @@
 
 ## Prolog 
 
+- [terminusdb](https://github.com/terminusdb/terminusdb) - Open source graph database and document store. Designed for collaboratively building data-intensive applications and knowledge graphs.
 - [prolog-for-dummies](https://github.com/Vulwsztyn/prolog-for-dummies) - 
 - [elpi](https://github.com/LPCIC/elpi) - Embeddable Lambda Prolog Interpreter
 - [the-constitution-of-japan](https://github.com/bitlaw-jp/the-constitution-of-japan) - 
@@ -9682,7 +9688,7 @@
 - [pynt](https://github.com/ebanner/pynt) - Bridging the gap between jupyter notebooks and text editors/IDEs.
 - [key-mon](https://github.com/scottkirkwood/key-mon) - Automatically exported from code.google.com/p/key-mon
 - [key-mon](https://github.com/critiqjo/key-mon) - Automatically exported from code.google.com/p/key-mon
-- [oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language and runtime.
+- [oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [notifico](https://github.com/TkTech/notifico) - My personal http://cia.vc replacement. Now used by over 3000 projects.
 - [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
@@ -11223,7 +11229,6 @@
 
 - [adb-download-all](https://github.com/sickcodes/adb-download-all) - ADB Download All Files - A dirty shell script to adb pull all readable files using adb pull & base64
 - [minecraft-wayland](https://github.com/Admicos/minecraft-wayland) - A better way of running Minecraft Without XWayland. Because I REALLY had nothing better to do with my life.
-- [dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [styli.sh](https://github.com/thevinter/styli.sh) - A CLI tool for easy wallpaper management and image fetching
 - [hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
@@ -11235,7 +11240,7 @@
 - [loffice-365](https://github.com/Fmstrat/loffice-365) - An electron wrapped Office 365 application integrated into your file manager as if it was a native application.
 - [termv](https://github.com/Roshan-R/termv) - A terminal iptv player written in bash
 - [ssh-tools](https://github.com/vaporup/ssh-tools) - ssh-tools
-- [lfcs](https://github.com/giulianop/lfcs) - Personal notes to prepare for the Linux Foundation Certified System Administrator (LFCS) exam
+- [lfcs](https://github.com/giulianopz/lfcs) - Personal notes to prepare for the Linux Foundation Certified System Administrator (LFCS) exam
 - [acme](https://github.com/evbogdanov/acme) - My collection of Acme notes and scripts
 - [graphpath](https://github.com/ocochard/graphpath) - Graphpath generates an ASCII network diagram from the route table of a Unix/Linux
 - [desec-certbot-hook](https://github.com/desec-io/desec-certbot-hook) - Use deSEC to obtain certificates with certbot DNS ownership verification.
@@ -11657,7 +11662,7 @@
 - [FFcast](https://github.com/lolilolicon/FFcast) - Run command on rectangular screen regions
 - [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
-- [pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like 56KB shell wrapper for many package managers.
+- [pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 - [nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB and Fastboot on Linux, macOS, and Chrome OS
 - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
