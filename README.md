@@ -1416,7 +1416,7 @@
 - [flare-engine](https://github.com/flareteam/flare-engine) - Free/Libre Action Roleplaying Engine (engine only)
 - [TinyRogue](https://github.com/marukrap/TinyRogue) - Yet another Rogue clone based on Rogue 5.4
 - [pamixer](https://github.com/cdemoulins/pamixer) - Pulseaudio command line mixer
-- [easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, concolver, equalizer and auto volume and many other plugins for PipeWire applications
+- [easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [M.A.R.S.](https://github.com/thelaui/M.A.R.S.) - M.A.R.S. - a ridiculous shooter
 - [hyperrogue](https://github.com/zenorogue/hyperrogue) - A SDL roguelike in a non-euclidean world
@@ -4384,7 +4384,7 @@
 - [read-mongo-logs](https://github.com/kevinburke/read-mongo-logs) - Tail Mongo database logs
 - [terradb](https://github.com/camptocamp/terradb) - A unified database for Terraform data
 - [fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
-- [infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉
+- [infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 - [govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
 - [gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code. (deprecated)
@@ -6044,7 +6044,7 @@
 - [awesome](https://github.com/Level/awesome) - An open list of awesome Level modules and resources.
 - [awesome-moleculer](https://github.com/moleculerjs/awesome-moleculer) - :rocket: A list of awesome things related to Moleculer microservices framework
 - [eCommWar](https://github.com/eCommWar/eCommWar) - A leaderboard of the top open-source e-commerce platforms. Promoting the bests for building reliable stores.
-- [awesome-js-posts](https://github.com/palashmon/awesome-js-posts) - A curated list of latest posts, blogs and repositories related to JavaScript.
+- [awesome-js-posts](https://github.com/palashmon/awesome-js-posts) - A curated list of the latest posts, blogs and repositories related to JavaScript.
 - [awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
 - [awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
 - [emoji](https://github.com/Wscats/emoji) - ⭕〽️❗Awesome Omi 创意坊 - 如果你愿意，我希望未来是你和Omi~
@@ -7150,6 +7150,7 @@
 
 ## Nix 
 
+- [mailmap-linter](https://github.com/kamadorueda/mailmap-linter) - Small, easy to use, easy to install tool to lint your git mailmap
 - [nix-babahska-static-bin-pkg](https://github.com/djwhitt/nix-babahska-static-bin-pkg) - 
 - [lisp-overlay](https://github.com/SuperSandro2000/lisp-overlay) - Mirror of
 - [nixos-guix](https://github.com/ethancedwards8/nixos-guix) - 
@@ -10618,6 +10619,7 @@
 
 ## Rust 
 
+- [difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff
 - [rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [rustcat](https://github.com/robiot/rustcat) - ⚙️ Netcat Alternative
 - [awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
@@ -11663,7 +11665,7 @@
 - [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
 - [pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
-- [nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB and Fastboot on Linux, macOS, and Chrome OS
+- [nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
 - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
