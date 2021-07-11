@@ -205,6 +205,7 @@
 - [winscp](https://github.com/winscp/winscp) - WinSCP is a popular free SFTP and FTP client for Windows, a powerful file manager that will improve your productivity. It supports also Amazon S3, FTPS, SCP and WebDAV protocols. Power users can automate WinSCP using .NET assembly.
 - [wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
 - [gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
+- [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows, MacOS, and Linux.
 - [swaykbdd](https://github.com/artemsen/swaykbdd) - KBDD replacement for Sway
 - [kbdd](https://github.com/qnikst/kbdd) - keyboard library for per-window keyboard layout
 - [wtype](https://github.com/atx/wtype) - xdotool type for wayland
@@ -412,6 +413,7 @@
 - [gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
 - [libleakmydata](https://github.com/DavidBuchanan314/libleakmydata) - A simple LD_PRELOAD library to disable SSL certificate verification. Inspired by libeatmydata.
 - [thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
+- [basque](https://github.com/ryanpcmcquen/basque) - A top-down 2d game engine, written from scratch in under 1000 lines of C. Development of the game based on this engine is streamed on Twitch: https://www.twitch.tv/ryanpcmcquen
 - [quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
 - [quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable adaptive merge sort which is faster than quicksort.
 - [DungeonRush](https://github.com/Rapiz1/DungeonRush) - 👾🐍 A opensource game inspired by Snake, written in pure C with SDL
@@ -1825,6 +1827,9 @@
 
 ## Common Lisp 
 
+- [nyxt-init](https://github.com/franburstall/nyxt-init) - My init files for the nyxt browser
+- [LISP](https://github.com/OpenProgger/LISP) - Minimal LISP Compiler for x86_64
+- [drgn.nyxt](https://github.com/ericdrgn/drgn.nyxt) - Base configuration for nyxt browser with opinionated theme(s) and organization.
 - [buildapp](https://github.com/xach/buildapp) - Buildapp makes it easy to build application executables with SBCL
 - [Cluster](https://github.com/robert-strandh/Cluster) - Assembler with input in the form of standard instances
 - [editor](https://github.com/silasfox/editor) - A simple text editor in Common Lisp, using McClim
@@ -2187,6 +2192,8 @@
 
 ## Emacs Lisp 
 
+- [seriestracker](https://github.com/MaximeWack/seriestracker) - A series tracker for emacs
+- [eshell-info-banner.el](https://github.com/Phundrak/eshell-info-banner.el) - Display some system information when launching Eshell
 - [ac-php](https://github.com/xcwen/ac-php) - emacs auto-complete  & company-mode  for php
 - [power-mode.el](https://github.com/elizagamedev/power-mode.el) - Imbue Emacs with power!
 - [svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
@@ -4013,6 +4020,7 @@
 
 ## Go 
 
+- [gochess](https://github.com/qnkhuat/gochess) - Play chess with your friend on terminal
 - [naml](https://github.com/kris-nova/naml) - Not another markup language. Framework for replacing Kubernetes YAML with Go.
 - [plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
@@ -4174,7 +4182,6 @@
 - [gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [httpcode](https://github.com/thealamu/httpcode) - Get info about http status codes right at your terminal
-- [box](https://github.com/prologic/box) - 📦 A command-line utility (non-daemon) written in Go for creating Linux containers and sandboxing processes.
 - [smithy](https://github.com/honza/smithy) - A tiny git forge written in Go
 - [urlhunter](https://github.com/utkusen/urlhunter) - a recon tool that allows searching on URLs that are exposed via shortener services
 - [DevSecOps](https://github.com/hahwul/DevSecOps) - 🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎
@@ -4542,7 +4549,7 @@
 - [makisu](https://github.com/uber-archive/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [kubectl-debug](https://github.com/aylei/kubectl-debug) - Debug your pod by a new container with every troubleshooting tools pre-installed
-- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
+- [inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel
 - [Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
 - [cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
 - [lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
@@ -5209,6 +5216,7 @@
 
 ## Groovy 
 
+- [nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 - [pipeline-library](https://github.com/jenkins-infra/pipeline-library) - Collection of custom steps and variables for our Jenkins instance(s)
 - [geb](https://github.com/geb/geb) - Very Groovy Browser Automation
 - [betamax](https://github.com/betamaxteam/betamax) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests. The project was inspired by the VCR library for Ruby.
@@ -5270,7 +5278,6 @@
 ## HTML 
 
 - [wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-- [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows, MacOS, and Linux.
 - [Java-JDK10](https://github.com/umair-akb/Java-JDK10) - Java version 1.1 + JDK 1.0 and very early Java applets, developed 1995 to 1996.
 - [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - A FOSS alternative to Bloomberg Terminal.
@@ -7150,6 +7157,7 @@
 
 ## Nix 
 
+- [miniguest](https://github.com/lourkeur/miniguest) - lightweight, declarative guest operating systems
 - [mailmap-linter](https://github.com/kamadorueda/mailmap-linter) - Small, easy to use, easy to install tool to lint your git mailmap
 - [nix-babahska-static-bin-pkg](https://github.com/djwhitt/nix-babahska-static-bin-pkg) - 
 - [lisp-overlay](https://github.com/SuperSandro2000/lisp-overlay) - Mirror of
@@ -7300,7 +7308,6 @@
 
 ## Objective-C 
 
-- [basque](https://github.com/ryanpcmcquen/basque) - A top-down 2d game engine, written from scratch in under 1000 lines of C. Development of the game based on this engine is streamed on Twitch: https://www.twitch.tv/ryanpcmcquen
 - [adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
 - [nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
 - [LiveReload](https://github.com/livereload/LiveReload) - LiveReload.app for Mac and Windows. See “develop” branch for the latest Windows release and LiveReload 3 progress. (NOTE: renamed from LiveReload2.)
@@ -10619,6 +10626,8 @@
 
 ## Rust 
 
+- [polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
+- [hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff
 - [rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [rustcat](https://github.com/robiot/rustcat) - ⚙️ Netcat Alternative
@@ -11153,7 +11162,6 @@
 - [srfi-test](https://github.com/srfi-explorations/srfi-test) - Collecting up-to-date test suites for SRFIs
 - [scheme-lib](https://github.com/evilbinary/scheme-lib) - 鸭库 duck lib scheme for gui gles gl slib openal socket web mongodb box2d game glfw mysql libevent  libuv uv json http client  server android osx linux chezscheme scheme-lib
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
-- [torrent](https://github.com/o-nly/torrent) - 
 - [texmacs-converter-tm2md](https://github.com/PikachuHy/texmacs-converter-tm2md) - a converter to markdown format for TeXmacs.
 - [guile-daemon](https://github.com/alezost/guile-daemon) - Evaluate code in a running Guile process
 - [guile-web-driver](https://github.com/her01n/guile-web-driver) - web driver (selenium) client for guile
@@ -11229,6 +11237,7 @@
 
 ## Shell 
 
+- [wireguard-initramfs](https://github.com/r-pufky/wireguard-initramfs) - Use dropbear over wireguard.
 - [adb-download-all](https://github.com/sickcodes/adb-download-all) - ADB Download All Files - A dirty shell script to adb pull all readable files using adb pull & base64
 - [minecraft-wayland](https://github.com/Admicos/minecraft-wayland) - A better way of running Minecraft Without XWayland. Because I REALLY had nothing better to do with my life.
 - [ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
@@ -12086,6 +12095,7 @@
 
 ## TeX 
 
+- [systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) - Cheat sheet for x86-64 Unix systems programming
 - [coursebook](https://github.com/illinois-cs241/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois
 - [Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [gnu-apl-refcard](https://github.com/jpellegrini/gnu-apl-refcard) - A reference card for GNU APL
@@ -12133,7 +12143,7 @@
 ## TypeScript 
 
 - [CollegeCompendium](https://github.com/GoldinGuy/CollegeCompendium) - 📓 A curated collection of free Computer Science classes from top colleges across America
-- [million](https://github.com/aidenybai/million) - 🏳️‍🌈 &lt;1kb virtual DOM - it's fast!
+- [million](https://github.com/aidenybai/million) - 🤑 &lt;1kb virtual DOM - it's fast!
 - [racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
@@ -12148,7 +12158,7 @@
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [SnowFS](https://github.com/Snowtrack/SnowFS) - SnowFS - a fast, scalable version control file storage for graphic files :art:
-- [react-gtk](https://github.com/clayrisser/react-gtk) - *React Native bridge for gtk desktop applications
+- [react-gtk](https://github.com/silicon-hills/react-gtk) - *React Native bridge for gtk desktop applications
 - [nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
 - [habitica-tracker](https://github.com/ddycai/habitica-tracker) - Tool that displays a history of your Habits, Dailies and completed Todos in Habitica like habit tracker. Check out the Github page to try it out.
 - [uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
