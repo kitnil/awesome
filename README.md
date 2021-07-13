@@ -3581,7 +3581,7 @@
 - [psc-ide-emacs](https://github.com/purescript-emacs/psc-ide-emacs) - Emacs integration for PureScript's psc-ide tool.
 - [chruby.el](https://github.com/plexus/chruby.el) - Emacs support for the Chruby version switcher for Ruby
 - [gscholar-bibtex](https://github.com/cute-jumper/gscholar-bibtex) - Retrieve BibTeX entries from Google Scholar, ACM Digital Library, IEEE Xplore and DBLP
-- [circe](https://github.com/jorgenschaefer/circe) - Circe, a Client for IRC in Emacs
+- [circe](https://github.com/emacs-circe/circe) - Circe, a Client for IRC in Emacs
 - [monte](https://github.com/monte-language/monte) - A dynamic language inspired by Python and E.
 - [Nameless](https://github.com/Malabarba/Nameless) - Less is more. Hide package namespace in your emacs-lisp code
 - [mocha.el](https://github.com/scottaj/mocha.el) - Emacs mode for running mocha tests
@@ -4554,7 +4554,7 @@
 - [lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
-- [tfsec](https://github.com/aquasecurity/tfsec) - 🔒🌍 Security scanner for your Terraform code
+- [tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
 - [crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [red](https://github.com/antonmedv/red) - Terminal log analysis tools
@@ -5734,6 +5734,7 @@
 - [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [crewmate](https://github.com/crewmate-srv/crewmate) - An open-source implementation of the Among Us server in Java.
+- [dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) - A Gradle plugin to report the number of method references in your APK on every build.
 - [DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
 - [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具，支持系统信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量，进程等监控，API接口，大屏展示，拓扑图，端口监控，docker监控，日志文件监控，数据可视化，webSSH工具，堡垒机(跳板机)
 - [liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
@@ -6366,6 +6367,7 @@
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [hogwatch](https://github.com/akshaykmr/hogwatch) - find out what's hogging your internet connection.
+- [archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
 - [falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [sqltabs](https://github.com/sasha-alias/sqltabs) - Rich SQL client for Postgresql, MySQL, MS SQL, Amazon Redshift, Google Firebase (Firestore)
 - [lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
@@ -6720,7 +6722,7 @@
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [disable-webrtc-firefox](https://github.com/ChrisAntaki/disable-webrtc-firefox) - :lock: WebRTC leaks your actual IP addresses from behind your VPN, by default.
-- [searchlinkfix](https://github.com/palant/searchlinkfix) - Browser extension that prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks.
+- [searchlinkfix](https://github.com/palant/searchlinkfix) - DISCONTINUED: Browser extension that prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks.
 - [sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [wheat](https://github.com/creationix/wheat) - Wheat is a blog engine for coders written in node.JS
@@ -6858,7 +6860,7 @@
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
-- [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
+- [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - This is a publish-only repository. All pull requests are ignored. Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
 - [docs](https://github.com/tensorflow/docs) - TensorFlow documentation
 - [examples](https://github.com/tensorflow/examples) - TensorFlow examples
 - [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
@@ -6933,7 +6935,6 @@
 - [adb-idea](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
 - [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book
 - [qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
-- [dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) - A Gradle plugin to report the number of method references in your APK on every build.
 - [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
@@ -9414,7 +9415,6 @@
 - [automl-gs](https://github.com/minimaxir/automl-gs) - Provide an input CSV and a target field to predict, generate a model + code to run it.
 - [wafw00f](https://github.com/EnableSecurity/wafw00f) - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
 - [zbx_template_pack](https://github.com/v-zhuravlev/zbx_template_pack) - Sandbox style repository for all templates that may eventually end up in Zabbix. Includes network switches, routers, hardware servers, OS, applications. Created by template generator
-- [archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
 - [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch) - The author's officially unofficial PyTorch BigGAN implementation.
 - [SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
 - [paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
@@ -9885,7 +9885,7 @@
 - [plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents
 - [live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
-- [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [todoman](https://github.com/pimutils/todoman) - ✅ A simple, standards-based, cli todo (aka: task) manager.
 - [pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
