@@ -1731,6 +1731,7 @@
 
 ## Clojure 
 
+- [matcher-combinators](https://github.com/nubank/matcher-combinators) - Library for creating matcher combinator to compare nested data structures
 - [jme-clj](https://github.com/ertugrulcetin/jme-clj) - A Clojure 3D Game Engine (Wrapper), Powered by jMonkeyEngine
 - [rewrite-clj](https://github.com/clj-commons/rewrite-clj) - Rewrite Clojure Code and EDN!
 - [zprint](https://github.com/kkinnear/zprint) - Executables, uberjar, and library to beautifully format Clojure and Clojurescript source code and s-expressions.
@@ -2925,7 +2926,7 @@
 - [reverse-im.el](https://github.com/a13/reverse-im.el) - 
 - [distel](https://github.com/massemanet/distel) - emacs - erlang IDE
 - [auto-org-md](https://github.com/jamcha-aa/auto-org-md) - export a markdown file automatically when you save an org-mode file
-- [syslog-mode](https://github.com/vapniks/syslog-mode) - Emacs major-mode for viewing log files
+- [syslog-mode](https://github.com/vapniks/syslog-mode) - Emacs major-mode for viewing log files & strace output
 - [hide-lines](https://github.com/vapniks/hide-lines) - Commands for hiding lines based on a regexp
 - [emacs-company-dict](https://github.com/hlissner/emacs-company-dict) - A port of ac-source-dictionary to company-mode, plus annotation and documentation support.
 - [replique.el](https://github.com/EwenG/replique.el) - 
@@ -4550,7 +4551,7 @@
 - [kubectl-debug](https://github.com/aylei/kubectl-debug) - Debug your pod by a new container with every troubleshooting tools pre-installed
 - [inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel
 - [Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
-- [cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
+- [cue](https://github.com/cuelang/cue) - CUE has moved to https://github.com/cue-lang/cue
 - [lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -7007,6 +7008,7 @@
 
 ## Lua 
 
+- [LunarVim](https://github.com/ChristianChiarulli/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
@@ -7158,6 +7160,7 @@
 
 ## Nix 
 
+- [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [miniguest](https://github.com/lourkeur/miniguest) - lightweight, declarative guest operating systems
 - [mailmap-linter](https://github.com/kamadorueda/mailmap-linter) - Small, easy to use, easy to install tool to lint your git mailmap
 - [nix-babahska-static-bin-pkg](https://github.com/djwhitt/nix-babahska-static-bin-pkg) - 
@@ -12277,7 +12280,7 @@
 - [utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
-- [quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
+- [quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool
 - [pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
