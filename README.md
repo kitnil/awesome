@@ -7218,7 +7218,7 @@
 - [shabka](https://github.com/kalbasit/shabka) - Shabka. Declaritive description of my network, workstations and servers.
 - [crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
 - [simple-twitter](https://github.com/Gabriel439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
-- [naersk](https://github.com/nmattia/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly.
+- [naersk](https://github.com/nix-community/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly. [maintainer: @nmattia]
 - [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [hello](https://github.com/jwiegley/hello) - Hello world project templates for getting started quickly with Nix
 - [nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
@@ -9048,7 +9048,7 @@
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [sketch-code](https://github.com/ashnkumar/sketch-code) - Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.
 - [diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
-- [15-minute-apps](https://github.com/learnpyqt/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
+- [15-minute-apps](https://github.com/pythonguis/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
 - [gnomecast](https://github.com/keredson/gnomecast) - Chromecast local files from Linux - supports MKV, subtitles, 5.1 sound and 4K!
 - [EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 - [Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
@@ -11276,7 +11276,7 @@
 - [tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [wp-install-from-cli](https://github.com/juanmacivico87/wp-install-from-cli) - This repository contains a script for install WordPress with WordPress Commands Line Interface
 - [menu-searx](https://github.com/MossyMossMoss/menu-searx) - 
-- [RadareEye](https://github.com/souravbaghz/RadareEye) - A tool made for specially scanning nearby devices[BLE, Bluetooth & Wifi] and execute our given command on our system when the target device comes in-between range.
+- [RadareEye](https://github.com/souravbaghz/RadareEye) - Tool for especially scanning nearby devices and execute a given command on its own system while the target device comes in range.
 - [gopro_as_webcam_on_linux](https://github.com/jschmid1/gopro_as_webcam_on_linux) - Allows to use your GoPro camera as a webcam on linux
 - [toggle-monitor-grayscale](https://github.com/bubbleguuum/toggle-monitor-grayscale) - Toggle Xorg monitors between color and grayscale mode
 - [notify-ssh-login](https://github.com/T-TutoRapide/notify-ssh-login) - Notification des connexions SSH sur discord
