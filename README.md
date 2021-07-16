@@ -730,7 +730,7 @@
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [restful-doom](https://github.com/jeff-1amstudios/restful-doom) - HTTP+JSON API hosted inside the 1993 DOOM engine!
 - [terminology](https://github.com/borisfaure/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
-- [OS67](https://github.com/SilverRainZ/OS67) - An unix-like toy kernel
+- [OS67](https://github.com/SilverRainZ/OS67) - A unix-like toy kernel
 - [lxcfs](https://github.com/lxc/lxcfs) - FUSE filesystem for LXC
 - [bitlbee-facebook](https://github.com/bitlbee/bitlbee-facebook) - Facebook protocol plugin for BitlBee
 - [gwsocket](https://github.com/allinurl/gwsocket) - fast, standalone, language-agnostic WebSocket server RFC6455 compliant
@@ -5717,7 +5717,7 @@
 - [remixed-dungeon](https://github.com/NYRDS/remixed-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface - Remixed Pixel Dungeon
 - [ircbot](https://github.com/jenkins-infra/ircbot) - Jenkins IRCbot
 - [closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
-- [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Better YouTube experience on Android TV
+- [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [AndroidCamera](https://github.com/aserbao/AndroidCamera) - 🔥🔥🔥自定义Android相机(仿抖音 TikTok)，其中功能包括视频人脸识别贴纸，分段录制，视频裁剪，视频帧处理，获取视频关键帧，视频旋转，添加滤镜，添加水印，合成Gif到视频，文字转视频，图片转视频，音视频合成，音频变声处理，SoundTouch，Fmod音频处理。 Android camera(imitation Tik Tok), which includes video editor,audio editor,video face recognition stickers, segment recording,video cropping, video frame processing, get the first video frame, key frame, video rotation, add filter Mirror ,add watermark ,add gif to video, add text to video, picture to video, audio and video synthesis, audio change processing, SoundTouch, Fmod audio processing.
 - [scan-gradle-plugin](https://github.com/sonatype-nexus-community/scan-gradle-plugin) - Gradle plugin that scans the dependencies of a Gradle project using Sonatype platforms: OSS Index and Nexus IQ Server.
 - [plantuml-server](https://github.com/plantuml/plantuml-server) - PlantUML Online Server
@@ -6861,7 +6861,7 @@
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
-- [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - This is a publish-only repository. All pull requests are ignored. Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
+- [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
 - [docs](https://github.com/tensorflow/docs) - TensorFlow documentation
 - [examples](https://github.com/tensorflow/examples) - TensorFlow examples
 - [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
@@ -9427,7 +9427,6 @@
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL Client
 - [gpodder](https://github.com/gpodder/gpodder) - The gPodder podcast client.
 - [paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
-- [tools](https://github.com/githubmaidou/tools) - Python渗透漏洞工具
 - [slingshot](https://github.com/ryanakca/slingshot) - Simple 2D shooting strategy game set in space, with gravity
 - [LiSE](https://github.com/Tactical-Metaphysics/LiSE) - Rules-based engine for life sims
 - [ERNIE](https://github.com/PaddlePaddle/ERNIE) - Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.
@@ -10511,6 +10510,7 @@
 - [iruby](https://github.com/SciRuby/iruby) - Official gem repository: Ruby kernel for Jupyter/IPython Notebook
 - [wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
 - [ssh_scan](https://github.com/mozilla/ssh_scan) - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
+- [tools](https://github.com/githubmaidou/tools) - Python渗透漏洞工具
 - [goby](https://github.com/nskins/goby) - Command-line role-playing game framework
 - [reveal-ck](https://github.com/jedcn/reveal-ck) - Create slides with ruby (and usually in markdown)
 - [tty-markdown](https://github.com/piotrmurach/tty-markdown) - Convert a markdown document or text into a terminal friendly output.
