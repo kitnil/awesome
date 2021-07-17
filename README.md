@@ -200,6 +200,7 @@
 
 ## C 
 
+- [xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
 - [DarkLoadLibrary](https://github.com/bats3c/DarkLoadLibrary) - LoadLibrary for offensive operations
 - [fatelf](https://github.com/icculus/fatelf) - Universal binaries for Linux.
 - [winscp](https://github.com/winscp/winscp) - WinSCP is a popular free SFTP and FTP client for Windows, a powerful file manager that will improve your productivity. It supports also Amazon S3, FTPS, SCP and WebDAV protocols. Power users can automate WinSCP using .NET assembly.
@@ -1090,7 +1091,7 @@
 - [superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [Gambador](https://github.com/MaximeGammaitoni/Gambador) - 
-- [privilege-escalation-awesome-scripts-suite](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+- [PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [schemy](https://github.com/microsoft/schemy) - A lightweight embeddable Scheme-like interpreter for configuration
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -1311,7 +1312,7 @@
 - [gnethogs](https://github.com/mbfoss/gnethogs) - GUI for nethogs using GKT
 - [nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [firebird](https://github.com/FirebirdSQL/firebird) - Firebird server, client and tools
-- [drogon](https://github.com/an-tao/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
+- [drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [openclonk](https://github.com/openclonk/openclonk) - A free multiplayer action game where you control small and nimble humanoids
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
 - [JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.
@@ -5280,7 +5281,6 @@
 - [wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [Java-JDK10](https://github.com/umair-akb/Java-JDK10) - Java version 1.1 + JDK 1.0 and very early Java applets, developed 1995 to 1996.
 - [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
-- [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - A FOSS alternative to Bloomberg Terminal.
 - [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 - [ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
 - [big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
@@ -7160,13 +7160,14 @@
 
 ## Nix 
 
+- [jedi-language-server-env](https://github.com/dmvianna/jedi-language-server-env) - a nix shell with a functioning jedi-language-server
 - [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [miniguest](https://github.com/lourkeur/miniguest) - lightweight, declarative guest operating systems
 - [mailmap-linter](https://github.com/kamadorueda/mailmap-linter) - Small, easy to use, easy to install tool to lint your git mailmap
 - [nix-babahska-static-bin-pkg](https://github.com/djwhitt/nix-babahska-static-bin-pkg) - 
 - [lisp-overlay](https://github.com/SuperSandro2000/lisp-overlay) - Mirror of
 - [nixos-guix](https://github.com/ethancedwards8/nixos-guix) - 
-- [makes](https://github.com/fluidattacks/makes) - A SecDevOps framework powered by Nix.
+- [makes](https://github.com/fluidattacks/makes) - A DevSecOps framework powered by Nix.
 - [NixNG](https://github.com/MagicRB/NixNG) - 
 - [s7-flake](https://github.com/patternspandemic/s7-flake) - Nix Flake for s7 Scheme
 - [agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
@@ -7675,7 +7676,7 @@
 - [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
 - [how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
-- [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！⭐++
+- [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [kubernetes-production-best-practices](https://github.com/learnk8s/kubernetes-production-best-practices) - A checklist of Kubernetes best practices to help you release to production
 - [awesome-webpack-perf](https://github.com/iamakulov/awesome-webpack-perf) - A curated list of webpack tools for web performance
 - [README-template.md](https://github.com/scottydocs/README-template.md) - A README template for anyone to copy and use.
@@ -8362,6 +8363,7 @@
 
 ## PHP 
 
+- [pndp](https://github.com/svanderburg/pndp) - PNDP: An internal DSL for Nix in PHP
 - [filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
 - [PHP-Parallel-Lint](https://github.com/JakubOnderka/PHP-Parallel-Lint) - This tool check syntax of PHP files faster than serial check with fancier output.
 - [pretty-routes](https://github.com/Wulfheart/pretty-routes) - Display your Laravel routes in the console, but make it pretty. 😎
@@ -8403,7 +8405,7 @@
 - [webshell](https://github.com/tennc/webshell) - This is a webshell open source project
 - [secDevLabs](https://github.com/globocom/secDevLabs) - A laboratory for learning secure web and mobile development in a practical manner.
 - [CORS-vulnerable-Lab](https://github.com/incredibleindishell/CORS-vulnerable-Lab) - Sample vulnerable code and its exploit code
-- [speed-demon](https://github.com/littlebizzy/speed-demon) - A powerful bundle of lightweight tweaks that drastically improve the loading speed of WordPress by reducing bloat and improving overall efficiency.
+- [speed-demon](https://github.com/littlebizzy/speed-demon) - Performance hacks for WordPress
 - [WebShell](https://github.com/xl7dev/WebShell) - Webshell && Backdoor Collection
 - [social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
@@ -8714,12 +8716,14 @@
 
 ## Python 
 
+- [Keylogger](https://github.com/aydinnyunus/Keylogger) - Get Keyboard,Mouse,ScreenShot,Microphone Inputs from Target Computer and Send to your Mail.
 - [CogView](https://github.com/THUDM/CogView) - Text-to-Image generation
 - [Reddit-User-Media-Downloader-Public](https://github.com/MonkeyMaster64/Reddit-User-Media-Downloader-Public) - 
 - [videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [textflint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing
 - [nanodet](https://github.com/RangiLyu/nanodet) - ⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥
+- [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - A FOSS alternative to Bloomberg Terminal.
 - [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
 - [mongita](https://github.com/scottrogowski/mongita) - "Mongita is to MongoDB as SQLite is to SQL"
@@ -11240,6 +11244,8 @@
 
 ## Shell 
 
+- [selenium.sh](https://github.com/sudharsan-selvaraj/selenium.sh) - Selenium web driver bindings for the shell script 🐚. Browser automation made possible with bash now 💯
+- [VNCBruteForce](https://github.com/aydinnyunus/VNCBruteForce) - VNCBruteForce - Brute Force attacks VNC with Hydra.
 - [wireguard-initramfs](https://github.com/r-pufky/wireguard-initramfs) - Use dropbear over wireguard.
 - [adb-download-all](https://github.com/sickcodes/adb-download-all) - ADB Download All Files - A dirty shell script to adb pull all readable files using adb pull & base64
 - [minecraft-wayland](https://github.com/Admicos/minecraft-wayland) - A better way of running Minecraft Without XWayland. Because I REALLY had nothing better to do with my life.
