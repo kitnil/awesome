@@ -8800,6 +8800,7 @@
 - [pypi-data](https://github.com/sethmlarson/pypi-data) - Mostly up-to-date data about almost every package on PyPI
 - [writehat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python.  Free yourself from Microsoft Word.
 - [therepl](https://github.com/40ants/therepl) - An extension for IPython to switch between modules and evaluate the code from Emacs like we do in Common Lisp.
+- [byp4xx](https://github.com/lobuhi/byp4xx) - Pyhton script for HTTP 40X responses bypassing. Features: Verb tampering, headers, #bugbountytips tricks and 2454 User-Agents.
 - [pwk](https://github.com/umlet/pwk) - Python With Kurly braces
 - [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
 - [passive-ssh](https://github.com/D4-project/passive-ssh) - A Passive SSH back-end and scanner.
@@ -11315,7 +11316,6 @@
 - [TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
 - [git-repo-watcher](https://github.com/kolbasa/git-repo-watcher) - A simple bash script to watch a git repository and pull upstream changes if needed.
-- [byp4xx](https://github.com/lobuhi/byp4xx) - Simple bash script to bypass "403 Forbidden" messages with well-known methods discussed in #bugbountytips
 - [howtodebuntu](https://github.com/themagicalmammal/howtodebuntu) - Tweaks for Debian/Ubuntu Distro's
 - [bmks](https://github.com/obyyx/bmks) - unix bookmark management that sucks less
 - [DAC](https://github.com/baibhavanand/DAC) - DAC - Domain Availability Checker is a tool written in bash to help people find available domains from the comfort of their terminal. People can choose to pass one domain or wordlist to scan the availability from. People can also choose to store the output (List of available domains) in a different text file.
@@ -11351,7 +11351,7 @@
 - [bashttpd](https://github.com/avleen/bashttpd) - A web server written in bash
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 - [polyglot](https://github.com/agkozak/polyglot) - Color, ASCII-only Git prompt for zsh, bash, ksh93, mksh, pdksh, dash, and busybox ash
-- [xdg-xmenu](https://github.com/OliverLew/xdg-xmenu) - A shell script to generate menu for xmenu, I actually want to do a python version
+- [xdg-xmenu](https://github.com/OliverLew/xdg-xmenu) - A shell script to generate menu for xmenu
 - [projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 - [dmenufm](https://github.com/huijunchen9260/dmenufm) - A simple file manager using dmenu
 - [cloudmacs](https://github.com/karlicoss/cloudmacs) - Selfhost your Emacs and access it in browser
