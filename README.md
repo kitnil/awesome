@@ -4531,7 +4531,7 @@
 - [Data-Structures-and-Algorithms](https://github.com/floyernick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
 - [subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
-- [kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management
+- [kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management ⎈ 🖥 ☁️
 - [google-ctf](https://github.com/google/google-ctf) - Google CTF
 - [gojay](https://github.com/francoispqt/gojay) - fastest JSON encoder/decoder with powerful stream API for Golang
 - [gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data
@@ -7684,7 +7684,7 @@
 - [awesome-standalones](https://github.com/davatron5000/awesome-standalones) - A curated list of awesome framework-agnostic standalone web components
 - [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)
 - [awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
-- [crawlergo](https://github.com/0Kee-Team/crawlergo) - A powerful browser crawler for web vulnerability scanners
+- [crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
 - [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
 - [awesome-burp-suite](https://github.com/alphaSeclab/awesome-burp-suite) - Awesome Burp Suite Resources. 400+ open source Burp plugins, 400+ posts and videos.
 - [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) - A collection of the best resources for programming, web development, computer science and more.
@@ -8749,7 +8749,7 @@
 - [sillynium](https://github.com/con-dog/sillynium) - Automate the creation of Python Selenium Scripts by drawing coloured boxes on webpage elements
 - [soda-sql](https://github.com/sodadata/soda-sql) - Data profiling, testing, and monitoring for SQL accessible data.
 - [whaler](https://github.com/treebeardtech/whaler) - Visual disk-usage analyser for docker images
-- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
+- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary translation services.
 - [colorpedia](https://github.com/joowani/colorpedia) - Command-line tool for looking up colors and palettes.
 - [magnus](https://github.com/stuartlangridge/magnus) - A very simple screen magnifier for Ubuntu
 - [hushboard](https://github.com/stuartlangridge/hushboard) - Mute your mic while you're typing. An app for Ubuntu.
@@ -10636,6 +10636,8 @@
 
 ## Rust 
 
+- [xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
+- [csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
 - [polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
 - [hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff
@@ -11323,7 +11325,7 @@
 - [kubectl-build](https://github.com/kvaps/kubectl-build) - Build dockerfiles directly in your Kubernetes cluster.
 - [git-paging](https://github.com/hutusi/git-paging) - Treat git log as a book, exec `git next` or `git prev` to checkout the next or the previous commit.
 - [org-noweb](https://github.com/ngirard/org-noweb) - Easier Literate Programming using Org mode
-- [procrustes](https://github.com/vp777/procrustes) - A bash script that automates the exfiltration of data over dns in case we have a blind command execution on a server where all outbound connections except DNS are blocked.
+- [procrustes](https://github.com/vp777/procrustes) - A bash script that automates the exfiltration of data over dns in case we have blind command execution on a server with egress filtering
 - [pulseaudio-virtualmic](https://github.com/MatthiasCoppens/pulseaudio-virtualmic) - Use any offline or online media file or stream as a PulseAudio source
 - [etherify](https://github.com/sq5bpf/etherify) - Etherify - bringing the ether back to ethernet
 - [winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
