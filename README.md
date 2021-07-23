@@ -4531,7 +4531,7 @@
 - [Data-Structures-and-Algorithms](https://github.com/floyernick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
 - [subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
-- [kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management ⎈ 🖥 ☁️
+- [kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [google-ctf](https://github.com/google/google-ctf) - Google CTF
 - [gojay](https://github.com/francoispqt/gojay) - fastest JSON encoder/decoder with powerful stream API for Golang
 - [gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data
@@ -10671,7 +10671,7 @@
 - [rustybgp](https://github.com/osrg/rustybgp) - BGP implemented in the Rust Programming Language
 - [thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
-- [krustlet](https://github.com/deislabs/krustlet) - Kubernetes Rust Kubelet
+- [krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [flexo](https://github.com/nroi/flexo) - a central pacman cache
 - [keyberon-f4](https://github.com/TeXitoi/keyberon-f4) - A handwired unsplitted ergo keyboard
 - [autoadb](https://github.com/rom1v/autoadb) - Execute a command whenever a device is adb-connected
