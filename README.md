@@ -1111,7 +1111,7 @@
 
 ## C++ 
 
-- [palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ profiler, debugger, tests enabler - high performance
+- [palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ profiler, tests enabler - High performance
 - [BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 - [ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [FractalSoundExplorer](https://github.com/HackerPoet/FractalSoundExplorer) - Explore fractals in an audio-visual sandbox
@@ -4344,7 +4344,7 @@
 - [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 - [periscope](https://github.com/anishathalye/periscope) - Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭
-- [todocheck](https://github.com/preslavmihaylov/todocheck) - A static code analyzer for annotated TODO comments
+- [todocheck](https://github.com/preslavmihaylov/todocheck) - A static code analyser for annotated TODO comments
 - [dbus](https://github.com/godbus/dbus) - Native Go bindings for D-Bus
 - [go-querystring](https://github.com/google/go-querystring) - go-querystring is Go library for encoding structs into URL query strings.
 - [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
@@ -5450,6 +5450,7 @@
 
 ## Haskell 
 
+- [Heath](https://github.com/TFKls/Heath) - A simple scheme-like language.
 - [time.gif](https://github.com/def-/time.gif) - GIF that always shows the current time in UTC
 - [neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
 - [quad-ci](https://github.com/alpacaaa/quad-ci) - A CI server written in Simple Haskell.
@@ -5709,6 +5710,8 @@
 
 ## Java 
 
+- [swarm-plugin](https://github.com/jenkinsci/swarm-plugin) - Jenkins swarm plugin
+- [text-finder-plugin](https://github.com/jenkinsci/text-finder-plugin) - Jenkins text-finder plugin
 - [maptool](https://github.com/RPTools/maptool) - Virtual Tabletop for playing roleplaying games with remote players or face to face.
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [Houseclub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse
@@ -7329,6 +7332,7 @@
 
 ## Others 
 
+- [clojure-deps-edn](https://github.com/practicalli/clojure-deps-edn) - User level aliases and Clojure CLI configuration for deps.edn based projects
 - [ML_Resources](https://github.com/tunguz/ML_Resources) - GitHub Repo with various ML/AI/DS resources that I find useful
 - [yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
 - [go-recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects
