@@ -832,7 +832,7 @@
 - [rpm](https://github.com/rpm-software-management/rpm) - 
 - [xash3d](https://github.com/FWGS/xash3d) - DEPRECATED in favor of https://github.com/FWGS/xash3d-fwgs. Only bugfixes are accepted.
 - [dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
-- [neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
+- [neomutt](https://github.com/neomutt/neomutt) - :envelope: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [source](https://github.com/lede-project/source) - Mirror of https://git.lede-project.org/?p=source.git Please send your PRs against this tree. They will be merged via staging trees and appear in this tree once the staging trees get merged back into source.git
@@ -4467,7 +4467,7 @@
 - [docker-image-resource](https://github.com/concourse/docker-image-resource) - a resource for docker images
 - [json-patch](https://github.com/evanphx/json-patch) - A Go library to apply RFC6902 patches and create and apply RFC7386 patches
 - [ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
-- [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted vulnerability scanning based on templates offering massive extensibility and ease of use.
+- [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, template based vulnerability scanner focusing on extensive configurability, massive extensibility and ease of use.
 - [shotizam](https://github.com/bradfitz/shotizam) - Shotizam analyzes the size of Go binaries
 - [terraform-provider-gpg](https://github.com/invidian/terraform-provider-gpg) - GPG Terraform provider
 - [etrace](https://github.com/canonical/etrace) - Utility for tracing execution of apps
@@ -4488,7 +4488,7 @@
 - [packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
 - [brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
 - [gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
-- [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
+- [goreporter](https://github.com/qax-os/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [Go-SCP](https://github.com/OWASP/Go-SCP) - Go programming language secure coding practices guide
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
@@ -5121,7 +5121,6 @@
 - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
 - [vfsgen](https://github.com/shurcooL/vfsgen) - Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it.
 - [gx](https://github.com/whyrusleeping/gx) - A package management tool
 - [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
@@ -6483,6 +6482,7 @@
 - [profiler](https://github.com/firefox-devtools/profiler) - Firefox Profiler — Web app for Firefox performance analysis
 - [addons-linter](https://github.com/mozilla/addons-linter) - 🔍 Firefox Add-ons linter, written in JavaScript. 👁
 - [GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+- [rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
 - [react-proto](https://github.com/React-Proto/react-proto) - :art: React application prototyping tool for developers and designers :building_construction:
 - [reloadmatic](https://github.com/pylorak/reloadmatic) - Browser tab reload automation and utilities as a WebExtension
 - [foxygestures](https://github.com/marklieberman/foxygestures) - Mouse gestures for Firefox
@@ -7819,7 +7819,7 @@
 - [books](https://github.com/learn-anything/books) - Awesome Books
 - [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
-- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins, & resources for Fish. 🐚
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection
 - [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
 - [awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
@@ -8499,6 +8499,7 @@
 
 ## PLpgSQL 
 
+- [zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 
 ## Pascal 
@@ -10790,7 +10791,6 @@
 - [magog](https://github.com/rsaarelm/magog) - A roguelike game in Rust
 - [updns](https://github.com/wyhaya/updns) - DNS proxy tool
 - [asm-cli-rust](https://github.com/cch123/asm-cli-rust) - interative assembly shell written in rust
-- [zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
@@ -10855,7 +10855,7 @@
 - [taizen](https://github.com/NerdyPepper/taizen) - curses based mediawiki browser
 - [xcursorlocate](https://github.com/NerdyPepper/xcursorlocate) - cursor location indicator for x11
 - [code-minimap](https://github.com/wfxr/code-minimap) - 🛰  A high performance code minimap render.
-- [neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust
+- [neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -11437,7 +11437,7 @@
 - [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release. As seen on YouTube 📺
 - [txt2regex](https://github.com/aureliojargas/txt2regex) - Regex wizard for the terminal, written in Bash
 - [clitest](https://github.com/aureliojargas/clitest) - Command Line Tester
-- [aviary.sh](https://github.com/team-video/aviary.sh) - Minimal distributed configuration management in bash
+- [aviary.sh](https://github.com/frameable/aviary.sh) - Minimal distributed configuration management in bash
 - [drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
 - [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager
@@ -12159,7 +12159,7 @@
 ## TypeScript 
 
 - [CollegeCompendium](https://github.com/GoldinGuy/CollegeCompendium) - 📓 A curated collection of free Computer Science classes from top colleges across America
-- [million](https://github.com/aidenybai/million) - 🤑 &lt;1kb virtual DOM - it's fast!
+- [million](https://github.com/aidenybai/million) - 🌱 &lt;1kb compiler-focused virtual DOM. It's fast!
 - [racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
@@ -12294,6 +12294,7 @@
 - [polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
 - [quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
@@ -12415,7 +12416,6 @@
 - [reply.vim](https://github.com/rhysd/reply.vim) - REPLs play nicely with :terminal on Vim and Neovim
 - [neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [vim-glsl](https://github.com/tikhomirov/vim-glsl) - Vim runtime files for OpenGL Shading Language
 - [vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
