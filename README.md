@@ -732,7 +732,7 @@
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [restful-doom](https://github.com/jeff-1amstudios/restful-doom) - HTTP+JSON API hosted inside the 1993 DOOM engine!
 - [terminology](https://github.com/borisfaure/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
-- [OS67](https://github.com/SilverRainZ/OS67) - A unix-like toy kernel
+- [OS67](https://github.com/SilverRainZ/OS67) - An unix-like toy kernel
 - [lxcfs](https://github.com/lxc/lxcfs) - FUSE filesystem for LXC
 - [bitlbee-facebook](https://github.com/bitlbee/bitlbee-facebook) - Facebook protocol plugin for BitlBee
 - [gwsocket](https://github.com/allinurl/gwsocket) - fast, standalone, language-agnostic WebSocket server RFC6455 compliant
@@ -4467,7 +4467,7 @@
 - [docker-image-resource](https://github.com/concourse/docker-image-resource) - a resource for docker images
 - [json-patch](https://github.com/evanphx/json-patch) - A Go library to apply RFC6902 patches and create and apply RFC7386 patches
 - [ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
-- [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, template based vulnerability scanner focusing on extensive configurability, massive extensibility and ease of use.
+- [nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [shotizam](https://github.com/bradfitz/shotizam) - Shotizam analyzes the size of Go binaries
 - [terraform-provider-gpg](https://github.com/invidian/terraform-provider-gpg) - GPG Terraform provider
 - [etrace](https://github.com/canonical/etrace) - Utility for tracing execution of apps
@@ -5346,7 +5346,7 @@
 - [awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
 - [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
 - [the-federation.info](https://github.com/thefederationinfo/the-federation.info) - Statistics hub for the Fediverse
-- [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
+- [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [fuzzdata](https://github.com/MozillaSecurity/fuzzdata) - Fuzzing resources for feeding various fuzzers with input. 🔧
 - [badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [docs](https://github.com/dapr/docs) - Dapr user documentation, used to build docs.dapr.io
@@ -10767,7 +10767,7 @@
 - [rhit](https://github.com/Canop/rhit) - A nginx log explorer
 - [learn-rust](https://github.com/higker/learn-rust) - https://getrust.tech
 - [valheim-docker](https://github.com/mbround18/valheim-docker) - Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interface.
-- [telegrand](https://github.com/melix99/telegrand) - A GTK Telegram client built to be well integrated with the GNOME desktop environment
+- [telegrand](https://github.com/melix99/telegrand) - A Telegram client optimized for the GNOME desktop
 - [glitter](https://github.com/Milo123459/glitter) - 🌌⭐ Git tooling of the future.
 - [yatta](https://github.com/LGUG2Z/yatta) - A tiling window manager for Windows 10 based on binary space partitioning
 - [CalcuLaTeX](https://github.com/mkhan45/CalcuLaTeX) - A pretty printing calculator language with support for units. Makes calculations easier and more presentable with real time LaTeX output, along with support for units, variables, and mathematical functions.
@@ -12158,6 +12158,7 @@
 
 ## TypeScript 
 
+- [gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [CollegeCompendium](https://github.com/GoldinGuy/CollegeCompendium) - 📓 A curated collection of free Computer Science classes from top colleges across America
 - [million](https://github.com/aidenybai/million) - 🌱 &lt;1kb compiler-focused virtual DOM. It's fast!
 - [racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
