@@ -4784,7 +4784,7 @@
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
 - [pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language
-- [gore](https://github.com/motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
+- [gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [cronsun](https://github.com/shunfei/cronsun) - A Distributed, Fault-Tolerant Cron-Style Job System.
 - [hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -10590,7 +10590,7 @@
 - [capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
 - [dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
-- [postal](https://github.com/postalhq/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postal](https://github.com/postalserver/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [streamio-ffmpeg](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful ruby ffmpeg wrapper for reading metadata and transcoding movies
 - [dentaku](https://github.com/rubysolo/dentaku) - math and logic formula parser and evaluator
 - [feed2imap](https://github.com/feed2imap/feed2imap) - feed aggregator (RSS/Atom) which puts items on a IMAP mail server
