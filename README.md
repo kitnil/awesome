@@ -5216,6 +5216,7 @@
 
 ## Groovy 
 
+- [CodeNarc](https://github.com/CodeNarc/CodeNarc) - CodeNarc source
 - [nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 - [pipeline-library](https://github.com/jenkins-infra/pipeline-library) - Collection of custom steps and variables for our Jenkins instance(s)
 - [geb](https://github.com/geb/geb) - Very Groovy Browser Automation
@@ -9273,7 +9274,7 @@
 - [elisp-decompile](https://github.com/rocky/elisp-decompile) - Emacs Lisp Decompiler
 - [ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter
 - [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
-- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
 - [junit2html](https://github.com/inorton/junit2html) - Turn Junit XML reports into self contained HTML reports
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [PySixel](https://github.com/saitoha/PySixel) - View full-pixel color graphics on SIXEL-supported terminals(xterm/mlterm/DECterm/Reflection/kermit/RLogin/tanasinn/yaft)
@@ -10590,7 +10591,7 @@
 - [capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
 - [dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
-- [postal](https://github.com/postalserver/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [streamio-ffmpeg](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful ruby ffmpeg wrapper for reading metadata and transcoding movies
 - [dentaku](https://github.com/rubysolo/dentaku) - math and logic formula parser and evaluator
 - [feed2imap](https://github.com/feed2imap/feed2imap) - feed aggregator (RSS/Atom) which puts items on a IMAP mail server
@@ -10954,7 +10955,7 @@
 - [rash](https://github.com/rash-sh/rash) - Declarative shell scripting container oriented
 - [i3-bindings](https://github.com/tupini07/i3-bindings) - Simple tool that reads the i3 config files and shows a table with the bindings defined therein
 - [learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
-- [autopilot-deno](https://github.com/littledivy/autopilot-deno) - :rocket: Cross-platform desktop automation library for Deno.
+- [autopilot-deno](https://github.com/littledivy/autopilot-deno) - :rocket: Cross-platform desktop automation module for Deno.
 - [glsp](https://github.com/fleabitdev/glsp) - The GameLisp scripting language
 - [topngx](https://github.com/gsquire/topngx) - top for NGINX
 - [dyn-wall-rs](https://github.com/RAR27/dyn-wall-rs) - Helps user set a dynamic wallpaper and more.
