@@ -1829,6 +1829,8 @@
 
 ## Common Lisp 
 
+- [djula](https://github.com/mmontone/djula) - Common Lisp port of the Django templating language
+- [lisp-system-browser](https://github.com/mmontone/lisp-system-browser) - Smalltalk-like system browser for Common Lisp.
 - [nyxt-init](https://github.com/franburstall/nyxt-init) - My init files for the nyxt browser
 - [LISP](https://github.com/OpenProgger/LISP) - Minimal LISP Compiler for x86_64
 - [drgn.nyxt](https://github.com/ericdrgn/drgn.nyxt) - Base configuration for nyxt browser with opinionated theme(s) and organization.
@@ -2194,6 +2196,7 @@
 
 ## Emacs Lisp 
 
+- [slime-doc-contribs](https://github.com/mmontone/slime-doc-contribs) - Documentation contribs for SLIME (the Superior Lisp Interaction Mode for Emacs)
 - [seriestracker](https://github.com/MaximeWack/seriestracker) - A series tracker for emacs
 - [eshell-info-banner.el](https://github.com/Phundrak/eshell-info-banner.el) - Display some system information when launching Eshell
 - [ac-php](https://github.com/xcwen/ac-php) - emacs auto-complete  & company-mode  for php
@@ -4022,6 +4025,29 @@
 
 ## Go 
 
+- [fpdf](https://github.com/go-pdf/fpdf) - A PDF document generator with high level support for text, drawing and images
+- [fleex](https://github.com/sw33tLie/fleex) - Fleex allows you to create multiple VPS on cloud providers and use them to distribute your workload.
+- [mebeats](https://github.com/wuhan005/mebeats) - 💓 小米手环实时心率数据采集 - Your Soul, Your Beats!
+- [bssh](https://github.com/FurkanTheHuman/bssh) - Bucket-ssh. A fuzzy ssh manager for managing and categorizing ssh connections.
+- [hanime](https://github.com/IchBinLeoon/hanime) - 📥 Command-line tool to download videos from hanime.tv
+- [markut](https://github.com/tsoding/markut) - Autocut the Twitch VODs based on Marker
+- [gotator](https://github.com/Josue87/gotator) - Gotator is a tool to generate DNS wordlists through permutations.
+- [redisql](https://github.com/DGKSK8LIFE/redisql) - MySQL to Redis caching made easy
+- [tstream](https://github.com/qnkhuat/tstream) - Live streaming from your terminal
+- [rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
+- [nocolor](https://github.com/VKCOM/nocolor) - Validate the architecture of your PHP project based on the concept of function colors
+- [steampipe-plugin-virustotal](https://github.com/turbot/steampipe-plugin-virustotal) - Use SQL to instantly query file, domain, URL and IP scanning results from VirusTotal.
+- [nuke](https://github.com/gleich/nuke) - ☢️ Force quit all applications with one terminal command in macOS and Linux
+- [fgh](https://github.com/gleich/fgh) - 📁 Automate the lifecycle and organization of your cloned GitHub repositories
+- [solar](https://github.com/gleich/solar) - 🛰️ Clone all your starred GitHub repos
+- [adbtuifm](https://github.com/darkhz/adbtuifm) - A TUI File Manager for ADB
+- [sci-hub-p2p](https://github.com/Trim21/sci-hub-p2p) - fetch and serve papers in p2p network
+- [reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
+- [discordo](https://github.com/rigormorrtiss/discordo) - Lightweight Discord terminal client
+- [damon](https://github.com/hashicorp/damon) - A terminal UI (TUI) for HashiCorp Nomad
+- [gophers](https://github.com/nlepage/gophers) - Some gophers 🐻
+- [apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
+- [ligolo-ng](https://github.com/tnpitsecurity/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 - [gochess](https://github.com/qnkhuat/gochess) - Play chess with your friend on terminal
 - [naml](https://github.com/kris-nova/naml) - Not another markup language. Framework for replacing Kubernetes YAML with Go.
 - [plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
@@ -4607,7 +4633,7 @@
 - [neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project directories
-- [the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) - 
+- [the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) - The Evolution of a Go Programmer
 - [simdjson-go](https://github.com/minio/simdjson-go) - Golang port of simdjson: parsing gigabytes of JSON per second
 - [shox](https://github.com/liamg/shox) - 🍫 A customisable, universally compatible terminal status bar
 - [wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
@@ -5099,7 +5125,7 @@
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [gormigrate](https://github.com/go-gormigrate/gormigrate) - Minimalistic database migration helper for Gorm ORM
-- [aminal](https://github.com/liamg/aminal) - A modern cross-platform terminal emulator in Go
+- [darktile](https://github.com/liamg/darktile) - Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [godoctor](https://github.com/godoctor/godoctor) - Go Doctor - The Golang Refactoring Engine
 - [evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
@@ -5278,6 +5304,7 @@
 
 ## HTML 
 
+- [htmlisp](https://github.com/jawadcode/htmlisp) - Compiles lisp style html into normal html
 - [wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [Java-JDK10](https://github.com/umair-akb/Java-JDK10) - Java version 1.1 + JDK 1.0 and very early Java applets, developed 1995 to 1996.
 - [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
@@ -5710,6 +5737,7 @@
 
 ## Java 
 
+- [reproducible-build-maven-plugin](https://github.com/Zlika/reproducible-build-maven-plugin) - A simple Maven plugin to make your build byte-for-byte reproducible
 - [swarm-plugin](https://github.com/jenkinsci/swarm-plugin) - Jenkins swarm plugin
 - [text-finder-plugin](https://github.com/jenkinsci/text-finder-plugin) - Jenkins text-finder plugin
 - [maptool](https://github.com/RPTools/maptool) - Virtual Tabletop for playing roleplaying games with remote players or face to face.
@@ -6143,7 +6171,6 @@
 - [eat](https://github.com/antonmedv/eat) - Eat everything 🧀
 - [chrome-jenkins-relative-links](https://github.com/danybony/chrome-jenkins-relative-links) - Display web-accessible links in Jenkins jobs console
 - [jenkins-status-tab](https://github.com/christianvuerings/jenkins-status-tab) - Chrome extension to show the status of a Jenkins build in the tab title
-- [jenkins-helper](https://github.com/liying2008/jenkins-helper) - 监控 Jenkins 构建状态和节点状态，同时也提供一些便利功能。Monitor Jenkins build state and node state, and provide some convenient services.
 - [titanic](https://github.com/icons8/titanic) - A set of animated icons + code to insert them into the webpages
 - [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -7167,6 +7194,7 @@
 
 ## Nix 
 
+- [nixos-snaphook](https://github.com/mikroskeem/nixos-snaphook) - Take system snapshot before rebuilding & switching NixOS installation to a new configuration
 - [jedi-language-server-env](https://github.com/dmvianna/jedi-language-server-env) - a nix shell with a functioning jedi-language-server
 - [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [miniguest](https://github.com/lourkeur/miniguest) - lightweight, declarative guest operating systems
@@ -7334,6 +7362,7 @@
 
 ## Others 
 
+- [MicrosoftWontFixList](https://github.com/cfalta/MicrosoftWontFixList) - A list of vulnerabilities or design flaws Microsoft does not intend to fix. Since the number is growing, I decided to make a list.
 - [clojure-deps-edn](https://github.com/practicalli/clojure-deps-edn) - User level aliases and Clojure CLI configuration for deps.edn based projects
 - [ML_Resources](https://github.com/tunguz/ML_Resources) - GitHub Repo with various ML/AI/DS resources that I find useful
 - [yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
@@ -7383,7 +7412,6 @@
 - [awesome-ctf-cheatsheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet) - CTF Cheatsheet
 - [awesome-computer-graphics](https://github.com/luisnts/awesome-computer-graphics) - :small_red_triangle::sunglasses: A curated list of awesome stuff to learn computer graphics
 - [awesome-apollo-graphql](https://github.com/ooade/awesome-apollo-graphql) - A curated list of amazingly awesome things regarding Apollo GraphQL ecosystem :star2:
-- [Graph-Adversarial-Learning](https://github.com/gitgiter/Graph-Adversarial-Learning) - A curated collection of adversarial attack and defense on graph data.
 - [awesome-couchdb](https://github.com/quangv/awesome-couchdb) - CouchDB - curated meta resources & best practices list
 - [awesome-erlang-cn](https://github.com/hstcscolor/awesome-erlang-cn) - Erlang资源大全中文版
 - [awesome-stylelint](https://github.com/stylelint/awesome-stylelint) - A list of awesome stylelint plugins, configs, etc.
@@ -8851,6 +8879,7 @@
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
 - [zabbix-dnscheck](https://github.com/nobodysu/zabbix-dnscheck) - External check for monitoring host's dns entries without access to the server. Supports A, AAAA, PTR, MX and TXT records. With LLD and bulk data sending.
+- [Graph-Adversarial-Learning](https://github.com/gitgiter/Graph-Adversarial-Learning) - A curated collection of adversarial attack and defense on graph data.
 - [awesome-italy-events](https://github.com/ildoc/awesome-italy-events) - Curated list of tech related events in Italy
 - [awesome-scoop](https://github.com/tapannallan/awesome-scoop) - A collection of awesome resources for the scoop package manager for windows
 - [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research) - A curated list of Multimodal Related Research.
@@ -10642,6 +10671,12 @@
 
 ## Rust 
 
+- [git-grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
+- [inside-vm](https://github.com/PicoJr/inside-vm) - Detect if code is running inside a virtual machine (x86 and x86-64 only).
+- [paper](https://github.com/snakedye/paper) - A wallpaper daemon for Wayland compositors
+- [hosts-rs](https://github.com/zu1k/hosts-rs) - hosts file parsing, modification library, and some derivatives.
+- [StarWM](https://github.com/StarWM/StarWM) - A basic window manager written in Rust.
+- [profile_stack](https://github.com/gleich/profile_stack) - 🚀 Display your tech stack on your GitHub profile's README
 - [xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
 - [csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
 - [polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
@@ -12161,7 +12196,7 @@
 
 - [gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [CollegeCompendium](https://github.com/GoldinGuy/CollegeCompendium) - 📓 A curated collection of free Computer Science classes from top colleges across America
-- [million](https://github.com/aidenybai/million) - 🌱 &lt;1kb compiler-focused virtual DOM. It's fast!
+- [million](https://github.com/aidenybai/million) - 🦁 &lt;1kb compiler-focused virtual DOM. It's fast!
 - [racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
@@ -12466,6 +12501,7 @@
 - [devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [kiwiirc](https://github.com/kiwiirc/kiwiirc) - 🥝 Next generation of the Kiwi IRC web client
+- [jenkins-helper](https://github.com/liying2008/jenkins-helper) - 监控 Jenkins 构建状态和节点状态，同时也提供一些便利功能。Monitor Jenkins build state and node state, and provide some convenient services.
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
