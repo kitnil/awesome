@@ -156,6 +156,7 @@
 
 ## Assembly 
 
+- [wide-snes](https://github.com/VitorVilela7/wide-snes) - Super Mario World (SNES) Widescreen Project
 - [sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [os-series](https://github.com/davidcallanan/os-series) - 
 - [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
@@ -201,6 +202,7 @@
 
 ## C 
 
+- [refterm](https://github.com/cmuratori/refterm) - Reference monospace terminal renderer
 - [xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
 - [DarkLoadLibrary](https://github.com/bats3c/DarkLoadLibrary) - LoadLibrary for offensive operations
 - [fatelf](https://github.com/icculus/fatelf) - Universal binaries for Linux.
@@ -521,6 +523,7 @@
 - [libsixel](https://github.com/saitoha/libsixel) - A SIXEL encoder/decoder implementation derived from kmiya's sixel (https://github.com/saitoha/sixel).
 - [bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [ngrep](https://github.com/jpr5/ngrep) - ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop.
+- [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
 - [littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
@@ -1111,6 +1114,8 @@
 
 ## C++ 
 
+- [termbench](https://github.com/cmuratori/termbench) - Simple benchmark for terminal output
+- [RegExp](https://github.com/zodiacon/RegExp) - Registry Explorer - enhanced Registry editor/viewer
 - [palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ profiler, tests enabler - High performance
 - [BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 - [ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
@@ -4041,7 +4046,7 @@
 - [fgh](https://github.com/gleich/fgh) - 📁 Automate the lifecycle and organization of your cloned GitHub repositories
 - [solar](https://github.com/gleich/solar) - 🛰️ Clone all your starred GitHub repos
 - [adbtuifm](https://github.com/darkhz/adbtuifm) - A TUI File Manager for ADB
-- [sci-hub-p2p](https://github.com/Trim21/sci-hub-p2p) - fetch and serve papers in p2p network
+- [sci-hub-p2p](https://github.com/sci-hub-p2p/sci-hub-p2p) - fetch and serve papers in p2p network
 - [reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
 - [discordo](https://github.com/rigormorrtiss/discordo) - Lightweight Discord terminal client
 - [damon](https://github.com/hashicorp/damon) - A terminal UI (TUI) for HashiCorp Nomad
@@ -4078,7 +4083,7 @@
 - [pint](https://github.com/cloudflare/pint) - Prometheus rule linter
 - [sqlapi](https://github.com/ciceksepetitech/sqlapi) - SQL API is designed to be able to run queries on databases without any configuration by simple HTTP call.
 - [rtty](https://github.com/skanehira/rtty) - Terminal on browser via websocket
-- [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Supports JPEG, PNG, BMP, WEBP, TIFF and GIF image formats.
+- [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Supports JPEG, PNG, BMP, WEBP, TIFF and GIF formats.
 - [weebsay](https://github.com/irevenko/weebsay) - 🎭👄 Like cowsay but it's random anime quote
 - [mangadesk](https://github.com/darylhjd/mangadesk) - Terminal client for MangaDex 📖
 - [cmd-runner](https://github.com/mxssl/cmd-runner) - Execute commands on remote hosts asynchronously over ssh
@@ -4803,7 +4808,6 @@
 - [slipscheme](https://github.com/coryb/slipscheme) - Json Schema to Go Struct conversion tool
 - [echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-- [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [go-getter](https://github.com/hashicorp/go-getter) - Package for downloading things from a string URL using a variety of protocols.
@@ -5737,6 +5741,7 @@
 
 ## Java 
 
+- [mvn2nix](https://github.com/fzakaria/mvn2nix) - Easily package your Maven Java application with the Nix package manager.
 - [reproducible-build-maven-plugin](https://github.com/Zlika/reproducible-build-maven-plugin) - A simple Maven plugin to make your build byte-for-byte reproducible
 - [swarm-plugin](https://github.com/jenkinsci/swarm-plugin) - Jenkins swarm plugin
 - [text-finder-plugin](https://github.com/jenkinsci/text-finder-plugin) - Jenkins text-finder plugin
@@ -6004,6 +6009,8 @@
 
 ## JavaScript 
 
+- [vmd](https://github.com/yoshuawuyts/vmd) - :pray: preview markdown files
+- [nebulus](https://github.com/skogard/nebulus) - Virtual IPFS
 - [bunken](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
 - [htmleditor](https://github.com/mrdoob/htmleditor) - Simple editor for messing around.
 - [glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
@@ -7042,6 +7049,7 @@
 
 ## Lua 
 
+- [github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, and Alacritty written in Lua
 - [LunarVim](https://github.com/ChristianChiarulli/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
@@ -7362,6 +7370,7 @@
 
 ## Others 
 
+- [awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [MicrosoftWontFixList](https://github.com/cfalta/MicrosoftWontFixList) - A list of vulnerabilities or design flaws Microsoft does not intend to fix. Since the number is growing, I decided to make a list.
 - [clojure-deps-edn](https://github.com/practicalli/clojure-deps-edn) - User level aliases and Clojure CLI configuration for deps.edn based projects
 - [ML_Resources](https://github.com/tunguz/ML_Resources) - GitHub Repo with various ML/AI/DS resources that I find useful
@@ -8392,7 +8401,7 @@
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [systemd-user-units](https://github.com/pablox-cl/systemd-user-units) - A collection of systemd units
 - [base16](https://github.com/chriskempson/base16) - An architecture for building themes
-- [HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document
+- [HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 
 ## PHP 
 
@@ -8750,6 +8759,8 @@
 
 ## Python 
 
+- [alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
+- [mvt](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices
 - [Keylogger](https://github.com/aydinnyunus/Keylogger) - Get Keyboard,Mouse,ScreenShot,Microphone Inputs from Target Computer and Send to your Mail.
 - [CogView](https://github.com/THUDM/CogView) - Text-to-Image generation
 - [Reddit-User-Media-Downloader-Public](https://github.com/MonkeyMaster64/Reddit-User-Media-Downloader-Public) - 
@@ -10671,6 +10682,7 @@
 
 ## Rust 
 
+- [nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
 - [git-grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
 - [inside-vm](https://github.com/PicoJr/inside-vm) - Detect if code is running inside a virtual machine (x86 and x86-64 only).
 - [paper](https://github.com/snakedye/paper) - A wallpaper daemon for Wayland compositors
