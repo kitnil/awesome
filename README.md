@@ -1114,6 +1114,10 @@
 
 ## C++ 
 
+- [libnixstore-c](https://github.com/andir/libnixstore-c) - a brutal attempt at making C bindings for Nix
+- [hydra-eval-jobs](https://github.com/Mic92/hydra-eval-jobs) - Eval nix expressions from flakes (extracted from hydra)
+- [pythonix](https://github.com/Mic92/pythonix) - Eval nix code from python
+- [HiveNightmare](https://github.com/GossiTheDog/HiveNightmare) - Exploit allowing you to read registry hives as non-admin on Windows 10 and 11
 - [termbench](https://github.com/cmuratori/termbench) - Simple benchmark for terminal output
 - [RegExp](https://github.com/zodiacon/RegExp) - Registry Explorer - enhanced Registry editor/viewer
 - [palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ profiler, tests enabler - High performance
@@ -2201,6 +2205,8 @@
 
 ## Emacs Lisp 
 
+- [Fundamental-Haskell](https://github.com/Anton-Latukha/Fundamental-Haskell) - Fundamental Haskell book, to the point terse statements on Haskell, Category theory, and related fields. Encyclopedic pocketbook of meaning. Zen kōan-like meditations of understanding. For quick or memory curve spaced repetition learning.
+- [logms](https://github.com/jcs-elpa/logms) - Log message with clickable links to context
 - [slime-doc-contribs](https://github.com/mmontone/slime-doc-contribs) - Documentation contribs for SLIME (the Superior Lisp Interaction Mode for Emacs)
 - [seriestracker](https://github.com/MaximeWack/seriestracker) - A series tracker for emacs
 - [eshell-info-banner.el](https://github.com/Phundrak/eshell-info-banner.el) - Display some system information when launching Eshell
@@ -4030,6 +4036,9 @@
 
 ## Go 
 
+- [nix-build-uncached](https://github.com/Mic92/nix-build-uncached) - A CI friendly wrapper around nix-build.
+- [gomod2nix](https://github.com/tweag/gomod2nix) - Convert applications using Go modules to Nix expressions
+- [sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [fpdf](https://github.com/go-pdf/fpdf) - A PDF document generator with high level support for text, drawing and images
 - [fleex](https://github.com/sw33tLie/fleex) - Fleex allows you to create multiple VPS on cloud providers and use them to distribute your workload.
 - [mebeats](https://github.com/wuhan005/mebeats) - 💓 小米手环实时心率数据采集 - Your Soul, Your Beats!
@@ -4823,7 +4832,6 @@
 - [binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go
 - [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [git-octopus](https://github.com/lesfurets/git-octopus) - The continuous merge workflow
 - [poussetaches](https://github.com/tsileo/poussetaches) - Lightweight asynchronous task execution service
 - [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
@@ -5481,6 +5489,9 @@
 
 ## Haskell 
 
+- [haven](https://github.com/obsidiansystems/haven) - Use haskell to produce a nix set of maven dependencies!
+- [wasp](https://github.com/wasp-lang/wasp) - A programming language that understands what a web app is.
+- [update-nix-fetchgit](https://github.com/expipiplus1/update-nix-fetchgit) - A program to automatically update fetchgit values in Nix expressions
 - [Heath](https://github.com/TFKls/Heath) - A simple scheme-like language.
 - [time.gif](https://github.com/def-/time.gif) - GIF that always shows the current time in UTC
 - [neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
@@ -5741,6 +5752,8 @@
 
 ## Java 
 
+- [mybatis-dynamic-sql](https://github.com/mybatis/mybatis-dynamic-sql) - SQL DSL (Domain Specific Language) for Kotlin and Java. Supports rendering for MyBatis or Spring JDBC Templates
+- [rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services
 - [mvn2nix](https://github.com/fzakaria/mvn2nix) - Easily package your Maven Java application with the Nix package manager.
 - [reproducible-build-maven-plugin](https://github.com/Zlika/reproducible-build-maven-plugin) - A simple Maven plugin to make your build byte-for-byte reproducible
 - [swarm-plugin](https://github.com/jenkinsci/swarm-plugin) - Jenkins swarm plugin
@@ -6009,6 +6022,8 @@
 
 ## JavaScript 
 
+- [nijs](https://github.com/svanderburg/nijs) - NiJS: An internal DSL for Nix in JavaScript
+- [discord-voice-recorder](https://github.com/chebro/discord-voice-recorder) - A nifty script that can pipe out audio from a discord voice channel to your local storage. A discord voice recorder!
 - [vmd](https://github.com/yoshuawuyts/vmd) - :pray: preview markdown files
 - [nebulus](https://github.com/skogard/nebulus) - Virtual IPFS
 - [bunken](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
@@ -6230,7 +6245,6 @@
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
-- [trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [wssh](https://github.com/aluzzardi/wssh) - SSH to WebSockets Bridge
 - [luna](https://github.com/jumpserver/luna) - Angular4 project for web terminal
 - [youtube-timestamps-to-playlist](https://github.com/hagabaka/youtube-timestamps-to-playlist) - Chrome and Firefox extension which creates a playlist from time tags on a YouTube page
@@ -6878,6 +6892,7 @@
 
 ## Jupyter Notebook 
 
+- [The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Python, and Java.
 - [DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
 - [awesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab) - A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
@@ -6951,6 +6966,11 @@
 
 ## Kotlin 
 
+- [eskotlin](https://github.com/mbuhot/eskotlin) - Elasticsearch Query DSL for Kotlin
+- [kotlin-android-template](https://github.com/cortinico/kotlin-android-template) - Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️
+- [kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Samples builds using the Gradle Kotlin DSL
+- [kotlinx.html](https://github.com/Kotlin/kotlinx.html) - Kotlin DSL for HTML
+- [florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [gradle2nix](https://github.com/tadfisher/gradle2nix) - Generate Nix expressions which build Gradle-based projects.
 - [kscript](https://github.com/holgerbrandl/kscript) - Scripting enhancements for Kotlin
 - [stackzy](https://github.com/theapache64/stackzy) - 💻 A cross-platform desktop application to identify libraries used inside an android application. Made possible by Compose Desktop ⚡
@@ -7202,6 +7222,10 @@
 
 ## Nix 
 
+- [nix-on-droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
+- [arewehackersyet](https://github.com/JJJollyjim/arewehackersyet) - Tracking the availability of Kali Linux packages in NixOS
+- [nix-straight.el](https://github.com/vlaci/nix-straight.el) - 
+- [nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [nixos-snaphook](https://github.com/mikroskeem/nixos-snaphook) - Take system snapshot before rebuilding & switching NixOS installation to a new configuration
 - [jedi-language-server-env](https://github.com/dmvianna/jedi-language-server-env) - a nix shell with a functioning jedi-language-server
 - [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
@@ -7312,6 +7336,7 @@
 
 ## OCaml 
 
+- [opam-coq-archive](https://github.com/coq/opam-coq-archive) - Archive for all Coq related OPAM packages organized in various repositories
 - [MariOCaml](https://github.com/mahsu/MariOCaml) - HTML 5 canvas implementation of Mario written in Ocaml
 - [coq-serapi](https://github.com/ejgallego/coq-serapi) - Coq Protocol Playground with Se(xp)rialization of Internal Structures.
 - [cmdliner-cheatsheet](https://github.com/mjambon/cmdliner-cheatsheet) - Cheatsheet for adding command-line options to an OCaml program using cmdliner
@@ -7370,6 +7395,7 @@
 
 ## Others 
 
+- [linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
 - [awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [MicrosoftWontFixList](https://github.com/cfalta/MicrosoftWontFixList) - A list of vulnerabilities or design flaws Microsoft does not intend to fix. Since the number is growing, I decided to make a list.
 - [clojure-deps-edn](https://github.com/practicalli/clojure-deps-edn) - User level aliases and Clojure CLI configuration for deps.edn based projects
@@ -8759,6 +8785,9 @@
 
 ## Python 
 
+- [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
+- [pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
+- [lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [mvt](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices
 - [Keylogger](https://github.com/aydinnyunus/Keylogger) - Get Keyboard,Mouse,ScreenShot,Microphone Inputs from Target Computer and Send to your Mail.
@@ -10486,6 +10515,7 @@
 
 ## Ruby 
 
+- [nginx](https://github.com/sous-chefs/nginx) - Development repository for the nginx cookbook
 - [kredis](https://github.com/rails/kredis) - Higher-level data structures built on Redis
 - [mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 - [rubyspeed](https://github.com/agrafix/rubyspeed) - Compile ruby functions to C
@@ -10682,6 +10712,9 @@
 
 ## Rust 
 
+- [vmsh](https://github.com/Mic92/vmsh) - Spawn debug shells in virtual machines
+- [cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE
+- [envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
 - [nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
 - [git-grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
 - [inside-vm](https://github.com/PicoJr/inside-vm) - Detect if code is running inside a virtual machine (x86 and x86-64 only).
@@ -11179,6 +11212,7 @@
 
 ## Scala 
 
+- [roguelike-tutorial](https://github.com/davesmith00000/roguelike-tutorial) - Following http://rogueliketutorials.com/ ...but with Scala and Indigo.
 - [llambda](https://github.com/etaoins/llambda) - Scheme R7RS frontend for LLVM
 - [tofu](https://github.com/tofu-tf/tofu) - Functional programming toolbox
 - [kukulcan](https://github.com/mmolimar/kukulcan) - A REPL for Apache Kafka
@@ -11301,6 +11335,8 @@
 
 ## Shell 
 
+- [kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
+- [calendar-notification](https://github.com/chebro/calendar-notification) - calendar notification for linux desktops using dunst
 - [selenium.sh](https://github.com/sudharsan-selvaraj/selenium.sh) - Selenium web driver bindings for the shell script 🐚. Browser automation made possible with bash now 💯
 - [VNCBruteForce](https://github.com/aydinnyunus/VNCBruteForce) - VNCBruteForce - Brute Force attacks VNC with Hydra.
 - [wireguard-initramfs](https://github.com/r-pufky/wireguard-initramfs) - Use dropbear over wireguard.
@@ -11612,6 +11648,7 @@
 - [android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [cleanreg](https://github.com/hcguersoy/cleanreg) - A small tool to clean up Docker Registries (v2).
 - [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
+- [trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [git-splits](https://github.com/ajdruff/git-splits) - Extracts multiple directories of a git repo into a new branch
 - [godaddy-ddns](https://github.com/gu1ll0me/godaddy-ddns) - 
 - [history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
@@ -12520,6 +12557,7 @@
 - [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [shortkeys](https://github.com/mikecrittenden/shortkeys) - A browser extension for custom keyboard shortcuts
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
