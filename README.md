@@ -202,6 +202,8 @@
 
 ## C 
 
+- [mod_python](https://github.com/grisha/mod_python) - mod_python
+- [UltraVNC](https://github.com/ultravnc/UltraVNC) - UltraVNC Server and UltraVNC Viewer
 - [refterm](https://github.com/cmuratori/refterm) - Reference monospace terminal renderer
 - [xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
 - [DarkLoadLibrary](https://github.com/bats3c/DarkLoadLibrary) - LoadLibrary for offensive operations
@@ -975,7 +977,7 @@
 - [tlf](https://github.com/Tlf/tlf) - TLF - a console based ham radio contest logger
 - [cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
-- [fwupd](https://github.com/fwupd/fwupd) - A simple daemon to allow session software to update firmware
+- [fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [hawkey](https://github.com/rpm-software-management/hawkey) - This is hawkey, library providing simplified C and Python API to libsolv. Hawkey project is obsoleted.
 - [caps2esc](https://github.com/oblitum/caps2esc) - Transforming the most useless key ever in the most useful one
 - [xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
@@ -1275,6 +1277,7 @@
 - [xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World.
 - [stressapptest](https://github.com/stressapptest/stressapptest) - Stressful Application Test - userspace memory and IO test
 - [oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
+- [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [fmit](https://github.com/gillesdegottex/fmit) - Free Music Instrument Tuner (FMIT)
 - [open_spiel](https://github.com/deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 - [pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs
@@ -4818,7 +4821,6 @@
 - [echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [go-getter](https://github.com/hashicorp/go-getter) - Package for downloading things from a string URL using a variety of protocols.
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
@@ -5254,6 +5256,7 @@
 
 ## Groovy 
 
+- [jenkins-json-build](https://github.com/sunweisheng/jenkins-json-build) - This project relies on the Jenkins Shared Libraries mechanism and uses JSON configuration files to drive the build process, so that developers do not have to write a large number of Jenkins build scripts and abstract and reuse the execution process of Jenkins build scripts in many projects. The class library is very suitable for managing the large number of construction projects and the construction of various work scenarios. It can rely on one or several construction templates to cooperate with the json construction configuration file in each project to realize a unified management and flexible software project construction management plan .
 - [CodeNarc](https://github.com/CodeNarc/CodeNarc) - CodeNarc source
 - [nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 - [pipeline-library](https://github.com/jenkins-infra/pipeline-library) - Collection of custom steps and variables for our Jenkins instance(s)
@@ -5489,6 +5492,7 @@
 
 ## Haskell 
 
+- [jenkinsPlugins2nix](https://github.com/Fuuzetsu/jenkinsPlugins2nix) - 
 - [haven](https://github.com/obsidiansystems/haven) - Use haskell to produce a nix set of maven dependencies!
 - [wasp](https://github.com/wasp-lang/wasp) - A programming language that understands what a web app is.
 - [update-nix-fetchgit](https://github.com/expipiplus1/update-nix-fetchgit) - A program to automatically update fetchgit values in Nix expressions
@@ -5594,7 +5598,7 @@
 - [summoner](https://github.com/kowainik/summoner) - 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects
 - [nixpkgs-update](https://github.com/ryantm/nixpkgs-update) - Updating nixpkgs packages since 2018
 - [obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
-- [haskell-language-server](https://github.com/haskell/haskell-language-server) - Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
+- [haskell-language-server](https://github.com/haskell/haskell-language-server) - Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
 - [hnix-store](https://github.com/haskell-nix/hnix-store) - Haskell implementation of the nix store API
 - [duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 - [toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODOs in your codebase
@@ -5752,6 +5756,13 @@
 
 ## Java 
 
+- [gitlab-branch-source-plugin](https://github.com/jenkinsci/gitlab-branch-source-plugin) - A Jenkins Plugin for GitLab Multibranch Pipeline jobs and Folder Organization
+- [hashicorp-vault-plugin](https://github.com/jenkinsci/hashicorp-vault-plugin) - Jenkins plugin to populate environment variables from secrets stored in HashiCorp's Vault.
+- [NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
+- [FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
+- [OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
+- [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)
+- [openboard](https://github.com/dslul/openboard) - 100% FOSS keyboard, based on AOSP
 - [mybatis-dynamic-sql](https://github.com/mybatis/mybatis-dynamic-sql) - SQL DSL (Domain Specific Language) for Kotlin and Java. Supports rendering for MyBatis or Spring JDBC Templates
 - [rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services
 - [mvn2nix](https://github.com/fzakaria/mvn2nix) - Easily package your Maven Java application with the Nix package manager.
@@ -6022,6 +6033,7 @@
 
 ## JavaScript 
 
+- [org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [nijs](https://github.com/svanderburg/nijs) - NiJS: An internal DSL for Nix in JavaScript
 - [discord-voice-recorder](https://github.com/chebro/discord-voice-recorder) - A nifty script that can pipe out audio from a discord voice channel to your local storage. A discord voice recorder!
 - [vmd](https://github.com/yoshuawuyts/vmd) - :pray: preview markdown files
@@ -7395,9 +7407,11 @@
 
 ## Others 
 
+- [awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+- [awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
 - [awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
-- [MicrosoftWontFixList](https://github.com/cfalta/MicrosoftWontFixList) - A list of vulnerabilities or design flaws Microsoft does not intend to fix. Since the number is growing, I decided to make a list.
+- [MicrosoftWontFixList](https://github.com/cfalta/MicrosoftWontFixList) - A list of vulnerabilities or design flaws that Microsoft does not intend to fix. Since the number is growing, I decided to make a list. This list covers only vulnerabilities that came up in July 2021 (and SpoolSample ;-))
 - [clojure-deps-edn](https://github.com/practicalli/clojure-deps-edn) - User level aliases and Clojure CLI configuration for deps.edn based projects
 - [ML_Resources](https://github.com/tunguz/ML_Resources) - GitHub Repo with various ML/AI/DS resources that I find useful
 - [yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
@@ -9343,7 +9357,7 @@
 - [elisp-decompile](https://github.com/rocky/elisp-decompile) - Emacs Lisp Decompiler
 - [ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter
 - [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
-- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
+- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [junit2html](https://github.com/inorton/junit2html) - Turn Junit XML reports into self contained HTML reports
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [PySixel](https://github.com/saitoha/PySixel) - View full-pixel color graphics on SIXEL-supported terminals(xterm/mlterm/DECterm/Reflection/kermit/RLogin/tanasinn/yaft)
@@ -12243,6 +12257,7 @@
 
 ## TypeScript 
 
+- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [CollegeCompendium](https://github.com/GoldinGuy/CollegeCompendium) - 📓 A curated collection of free Computer Science classes from top colleges across America
 - [million](https://github.com/aidenybai/million) - 🦁 &lt;1kb compiler-focused virtual DOM. It's fast!
