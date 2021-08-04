@@ -38,6 +38,7 @@
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
+  - [Fennel](#fennel)
   - [Forth](#forth)
   - [FreeMarker](#freemarker)
   - [GAP](#gap)
@@ -202,6 +203,8 @@
 
 ## C 
 
+- [shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
+- [pipelinedb](https://github.com/pipelinedb/pipelinedb) - High-performance time-series aggregation for PostgreSQL
 - [mod_python](https://github.com/grisha/mod_python) - mod_python
 - [UltraVNC](https://github.com/ultravnc/UltraVNC) - UltraVNC Server and UltraVNC Viewer
 - [refterm](https://github.com/cmuratori/refterm) - Reference monospace terminal renderer
@@ -2815,6 +2818,7 @@
 - [go-mode.el](https://github.com/dominikh/go-mode.el) - Emacs mode for the Go programming language
 - [use-ttf](https://github.com/jcs-elpa/use-ttf) - Keep font consistency across different OSs.
 - [sesman](https://github.com/vspinu/sesman) - Session manager for Emacs based IDEs.
+- [emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) - Emacs application framework
 - [bicycle](https://github.com/tarsius/bicycle) - Cycle outline and code visibility
 - [org-listcruncher](https://github.com/dfeich/org-listcruncher) - Parse emacs org list contents into table
 - [imgbb.el](https://github.com/ecraven/imgbb.el) - Simple image upload client for imgbb.com
@@ -4000,6 +4004,10 @@
 - [wings](https://github.com/bjorng/wings) - Wings3D is an advanced sub-division 3D modeller.
 - [ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
 
+## Fennel 
+
+- [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, Nix, i3, Kitty, Fish, Neovim and more
+
 ## Forth 
 
 - [forth-rogue](https://github.com/lagdotcom/forth-rogue) - It's a roguelike! In Forth!
@@ -4834,6 +4842,7 @@
 - [binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go
 - [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
+- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [git-octopus](https://github.com/lesfurets/git-octopus) - The continuous merge workflow
 - [poussetaches](https://github.com/tsileo/poussetaches) - Lightweight asynchronous task execution service
 - [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
@@ -5748,7 +5757,6 @@
 - [j2do](https://github.com/Pebaz/j2do) - Use Jinja2 templates from the command line!
 - [HyREPL](https://github.com/allison-casey/HyREPL) - NREPL for Hy
 - [hydiomatic](https://github.com/hylang/hydiomatic) - The Hy Transformer
-- [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 
 ## Inno Setup 
 
@@ -6124,7 +6132,6 @@
 - [emoji](https://github.com/Wscats/emoji) - ⭕〽️❗Awesome Omi 创意坊 - 如果你愿意，我希望未来是你和Omi~
 - [GitStart](https://github.com/rishabh-bansal/GitStart) - Make a Pull Request
 - [awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database) - :clock7: A curated list of awesome time series databases, benchmarks and papers
-- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
 - [yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [docable-notebooks](https://github.com/ottomatica/docable-notebooks) - :ledger: Next-Generation Interactive Notebooks
 - [Hello-Goodbye](https://github.com/bcye/Hello-Goodbye) - Available for Chrome, Firefox and Safari and as a blocklist to integrate into existing blockers.
@@ -8638,7 +8645,7 @@
 - [straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** A lightweight YouTube client for Linux, using the API of invidio.us
 - [iperl](https://github.com/LvMalware/iperl) - Run Perl interactively
 - [ddclient-curl](https://github.com/astlinux-project/ddclient-curl) - Fork of ddclient using curl for network IO
-- [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
+- [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [apt-mirror](https://github.com/apt-mirror/apt-mirror) - Official apt-mirror source.
 - [urxvt-font-size](https://github.com/majutsushi/urxvt-font-size) - Change the urxvt font size on the fly
 - [pixload](https://github.com/chinarulezzz/pixload) - Image Payload Creating/Injecting tools
@@ -9325,7 +9332,7 @@
 - [pretty-yaml](https://github.com/mk-fg/pretty-yaml) - PyYAML-based module to produce pretty and readable YAML-serialized data
 - [pykwalify](https://github.com/Grokzen/pykwalify) - Python YAML/JSON schema validation library
 - [PcapXray](https://github.com/Srinivas11789/PcapXray) - :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
-- [PcapViz](https://github.com/mateuszk87/PcapViz) - Visualize network topologies and collect graph statistics based on pcap files
+- [PcapViz](https://github.com/1ultimat3/PcapViz) - Visualize network topologies and collect graph statistics based on pcap files
 - [shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [pandocfilters](https://github.com/jgm/pandocfilters) - A python module for writing pandoc filters, with a collection of examples
 - [ansible-live-output-demo](https://github.com/lucasbasquerotto/ansible-live-output-demo) - Running an ansible playbook and seeing output in real time (Demo)
@@ -9755,7 +9762,6 @@
 - [repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
-- [emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) - Emacs application framework
 - [gif-for-cli](https://github.com/google/gif-for-cli) - 
 - [udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
@@ -9876,6 +9882,7 @@
 - [geekbook](https://github.com/mmagnus/geekbook) - G33KB00K3 - fun to read & fun to write -- 🤓 eXtreme eXtendable note taking system for nerds/geeks (including scientists!) docs: http://geekbook.rtfd.io = beautiful html generator of your markdown-based notes
 - [org-toggl-py](https://github.com/mattduck/org-toggl-py) - Create Toggl entries from Emacs org-mode CLOCK entries
 - [OSCP](https://github.com/johneiser/OSCP) - Scripts I developed to help complete the OSCP certification.
+- [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [font-awesome-to-png](https://github.com/Pythonity/font-awesome-to-png) - Exports Font Awesome icons as PNG images
 - [netbox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
@@ -12035,7 +12042,6 @@
 - [.dot-org-files](https://github.com/ivoarch/.dot-org-files) - Dotfiles, Emacs + Org-mode with babel and Literate programming.
 - [portacle](https://github.com/portacle/portacle) - A portable common lisp development environment
 - [dotfiles](https://github.com/hrs/dotfiles) - Let's be honest: mostly Emacs.
-- [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, Nix, i3, Kitty, Fish, Neovim and more
 - [pentestpackage](https://github.com/leonteale/pentestpackage) - a package of Pentest scripts I have made or  commonly use
 - [Meterpreter_Paranoid_Mode-SSL](https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL) - Meterpreter Paranoid Mode - SSL/TLS connections
 - [opam-repository](https://github.com/ocaml/opam-repository) - Main public package repository for opam, the source package manager of OCaml.
@@ -12299,6 +12305,7 @@
 - [awesome-travel](https://github.com/unseen1980/awesome-travel) - Do you want to build a travel app?
 - [piral](https://github.com/smapiot/piral) - Framework for next generation web apps using microfrontends. :rocket:
 - [awesome-typescript-projects](https://github.com/brookshi/awesome-typescript-projects) - awesome typescript open source projects, includes IDE, Framework, Library, Tool
+- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
 - [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
@@ -12565,14 +12572,13 @@
 - [devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [kiwiirc](https://github.com/kiwiirc/kiwiirc) - 🥝 Next generation of the Kiwi IRC web client
-- [jenkins-helper](https://github.com/liying2008/jenkins-helper) - 监控 Jenkins 构建状态和节点状态，同时也提供一些便利功能。Monitor Jenkins build state and node state, and provide some convenient services.
+- [jenkins-helper](https://github.com/liying2008/jenkins-helper) - 监控 Jenkins 构建状态和节点状态，同时也提供一些便利功能。Monitoring Jenkins build state and node state and helping Ops use Jenkins.
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
-- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [shortkeys](https://github.com/mikecrittenden/shortkeys) - A browser extension for custom keyboard shortcuts
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
