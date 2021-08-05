@@ -1845,7 +1845,6 @@
 ## Common Lisp 
 
 - [djula](https://github.com/mmontone/djula) - Common Lisp port of the Django templating language
-- [lisp-system-browser](https://github.com/mmontone/lisp-system-browser) - Smalltalk-like system browser for Common Lisp.
 - [nyxt-init](https://github.com/franburstall/nyxt-init) - My init files for the nyxt browser
 - [LISP](https://github.com/OpenProgger/LISP) - Minimal LISP Compiler for x86_64
 - [drgn.nyxt](https://github.com/ericdrgn/drgn.nyxt) - Base configuration for nyxt browser with opinionated theme(s) and organization.
@@ -2214,6 +2213,7 @@
 - [Fundamental-Haskell](https://github.com/Anton-Latukha/Fundamental-Haskell) - Fundamental Haskell book, to the point terse statements on Haskell, Category theory, and related fields. Encyclopedic pocketbook of meaning. Zen kōan-like meditations of understanding. For quick or memory curve spaced repetition learning.
 - [logms](https://github.com/jcs-elpa/logms) - Log message with clickable links to context
 - [slime-doc-contribs](https://github.com/mmontone/slime-doc-contribs) - Documentation contribs for SLIME (the Superior Lisp Interaction Mode for Emacs)
+- [lisp-system-browser](https://github.com/mmontone/lisp-system-browser) - Smalltalk-like system browser for Common Lisp.
 - [seriestracker](https://github.com/MaximeWack/seriestracker) - A series tracker for emacs
 - [eshell-info-banner.el](https://github.com/Phundrak/eshell-info-banner.el) - Display some system information when launching Eshell
 - [ac-php](https://github.com/xcwen/ac-php) - emacs auto-complete  & company-mode  for php
@@ -4047,6 +4047,8 @@
 
 ## Go 
 
+- [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+- [wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for Postgres
 - [nix-build-uncached](https://github.com/Mic92/nix-build-uncached) - A CI friendly wrapper around nix-build.
 - [gomod2nix](https://github.com/tweag/gomod2nix) - Convert applications using Go modules to Nix expressions
 - [sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
@@ -4149,7 +4151,7 @@
 - [yap](https://github.com/chenjiandongx/yap) - 🚥 Yet another pinger: A high-performance ICMP ping implementation build on top of BPF technology.
 - [chk](https://github.com/Ripolak/chk) - A small CLI tool to check connection from a local machine to a remote target in various protocols.
 - [gitls](https://github.com/hahwul/gitls) - 🖇 Enumerate git repository URL from list of URL / User / Org. Friendly to pipeline
-- [traitor](https://github.com/liamg/traitor) - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket :arrow_up: :skull_and_crossbones:
+- [traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket
 - [gocket](https://github.com/Phantas0s/gocket) - 💼 CLI / TUI for Pocket
 - [Pi-CLI](https://github.com/Reeceeboii/Pi-CLI) - Pi-Hole data right from your terminal. Live updating view, query history extraction and more!
 - [tabssh](https://github.com/osnr/tabssh) - 📡 ssh into browser tab.
@@ -5148,7 +5150,7 @@
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [gormigrate](https://github.com/go-gormigrate/gormigrate) - Minimalistic database migration helper for Gorm ORM
-- [darktile](https://github.com/liamg/darktile) - Darktile is a GPU rendered terminal emulator designed for tiling window managers.
+- [darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [godoctor](https://github.com/godoctor/godoctor) - Go Doctor - The Golang Refactoring Engine
 - [evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
@@ -7089,7 +7091,7 @@
 ## Lua 
 
 - [github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, and Alacritty written in Lua
-- [LunarVim](https://github.com/ChristianChiarulli/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
+- [LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
@@ -7649,7 +7651,7 @@
 - [golang-tls](https://github.com/denji/golang-tls) - Simple Golang HTTPS/TLS Examples
 - [awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes) - Everything Deepfakes
 - [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms) - An index of algorithms for learning causality with data
-- [inspire](https://github.com/noahbuscher/inspire) - :bulb: Collection of web design & dev links
+- [inspire](https://github.com/noahbuscher/inspire) - Collection of web design & development links :bulb:
 - [awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [awesome-mad-science](https://github.com/feross/awesome-mad-science) - Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
@@ -8179,7 +8181,7 @@
 - [awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 - [awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - Curated list of ad-free alternatives to popular services on the web
-- [awesome-product-design](https://github.com/matttga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+- [awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 - [You-Dont-Know-X](https://github.com/ythecombinator/You-Dont-Know-X) - 🙈 curated list of inspiring resources which show you don't know that much about something you thought you knew.
 - [awesome-testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources
 - [awesome](https://github.com/craftcms/awesome) - A collection of awesome Craft CMS plugins, articles, resources and shiny things.
