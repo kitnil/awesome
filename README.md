@@ -568,7 +568,7 @@
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [icat](https://github.com/atextor/icat) - icat (Image cat) outputs images in 256-color capable terminals.
 - [COS](https://github.com/CObjectSystem/COS) - C Object System: a framework that brings C to the level of other high level programming languages and beyond
-- [memory-profiler](https://github.com/koute/memory-profiler) - 
+- [memory-profiler](https://github.com/koute/memory-profiler) - A memory profiler for Linux.
 - [phoenixfs](https://github.com/artagnon/phoenixfs) - 🔥 a versioning filesystem inspired by git
 - [flow9](https://github.com/area9innovation/flow9) - Platform for safe, easy and productive programming of complex, multi-platform apps with a modern user interface
 - [http-parser](https://github.com/nodejs/http-parser) - http request/response parser for c
@@ -2145,6 +2145,7 @@
 - [webdav](https://github.com/tadly/webdav) - Docker: A alpine linux based webdav server.
 - [syncthing-srv](https://github.com/tadly/syncthing-srv) - Docker: A alpine linux based syncthing relay and discovery server.
 - [guix](https://github.com/metacall/guix) - Docker image for using Guix in a CI/CD environment.
+- [docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [docker-tor](https://github.com/mko-x/docker-tor) - Setup a Tor relay Server/Service easily. Support Tor!!
 - [docker-nginx-simple](https://github.com/mko-x/docker-nginx-simple) - Simple nginx serving static content in just a few lines of code.
 - [xubuntu-vnc](https://github.com/accetto/xubuntu-vnc) - Retired! Please use the newer G3 repositories. Headless Ubuntu/Xfce containers with VNC and various applications (Generation 2)
@@ -4307,7 +4308,7 @@
 - [open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [bingo](https://github.com/saibing/bingo) - Bingo is a Go language server that speaks Language Server Protocol.
-- [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | https://golang.design/under-the-hood
+- [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [image2ascii](https://github.com/qeesung/image2ascii) - :foggy: Convert image to ASCII
 - [awesome-golang-algorithm](https://github.com/kylesliu/awesome-golang-algorithm) - :memo: LeetCode of algorithms with golang solution(updating).
@@ -6043,7 +6044,6 @@
 
 ## JavaScript 
 
-- [org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [nijs](https://github.com/svanderburg/nijs) - NiJS: An internal DSL for Nix in JavaScript
 - [discord-voice-recorder](https://github.com/chebro/discord-voice-recorder) - A nifty script that can pipe out audio from a discord voice channel to your local storage. A discord voice recorder!
 - [vmd](https://github.com/yoshuawuyts/vmd) - :pray: preview markdown files
@@ -7270,7 +7270,7 @@
 - [robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [bitte](https://github.com/input-output-hk/bitte) - Nix Ops for Terraform, Consul, Vault, Nomad
 - [dconf2nix](https://github.com/gvolpe/dconf2nix) - :feet: Convert Dconf files (Gnome Shell) to Nix, as expected by Home Manager.
-- [rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay for binary distributed rust toolchains
+- [rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [easy-hls-nix](https://github.com/jkachmar/easy-hls-nix) - Easy Haskell Language Server tooling with Nix!
 - [nixpkgs-terraform](https://github.com/numtide/nixpkgs-terraform) - terraform-related packages with Nix
 - [simple-vms](https://github.com/MarcoPolo/simple-vms) - Simple VMs in NixOS
@@ -8797,6 +8797,7 @@
 
 ## Puppet 
 
+- [puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet.
 - [stun-vm](https://github.com/mozilla/stun-vm) - Tools for creating and managing STUN servers
 - [puppet-bimsb-guix](https://github.com/BIMSBbioinfo/puppet-bimsb-guix) - Puppet module for deploying Guix
 
@@ -10639,7 +10640,6 @@
 - [zabbixapi](https://github.com/express42/zabbixapi) - Ruby wrapper to Zabbix API
 - [parallel](https://github.com/grosser/parallel) - Ruby: parallel processing made simple and fast
 - [zbx2git](https://github.com/syepes/zbx2git) - Zabbix Configuration Versioning Manager
-- [puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet.
 - [net-telnet](https://github.com/ruby/net-telnet) - Provides telnet client functionality.
 - [Zabbix](https://github.com/jjmartres/Zabbix) - A great collection of Zabbix scripts and templates
 - [coltrane](https://github.com/pedrozath/coltrane) - 🎹🎸A music theory library with a command-line interface
@@ -11763,7 +11763,6 @@
 - [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [docker2singularity](https://github.com/singularityhub/docker2singularity) - A docker image for converting docker images to singularity images.
 - [bspwm_border_color](https://github.com/Kody-Quintana/bspwm_border_color) - VIM mode indicator for bspwm
-- [docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [docker-clamav](https://github.com/mko-x/docker-clamav) - Multi-arch dockerized open source antivirus for use with file sharing containers, REST API or TCP.
 - [shoreman](https://github.com/chrismytton/shoreman) - :shell: foreman in shell
 - [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
@@ -12265,6 +12264,7 @@
 
 ## TypeScript 
 
+- [org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [CollegeCompendium](https://github.com/GoldinGuy/CollegeCompendium) - 📓 A curated collection of free Computer Science classes from top colleges across America
