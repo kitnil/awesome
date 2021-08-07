@@ -1119,6 +1119,8 @@
 
 ## C++ 
 
+- [Twini-Golf](https://github.com/PolyMarsDev/Twini-Golf) - A (broken) SDL2 game made in 48 hours
+- [orbiter](https://github.com/orbitersim/orbiter) - Open-source repository of Orbiter Space Flight Simulator
 - [libnixstore-c](https://github.com/andir/libnixstore-c) - a brutal attempt at making C bindings for Nix
 - [hydra-eval-jobs](https://github.com/Mic92/hydra-eval-jobs) - Eval nix expressions from flakes (extracted from hydra)
 - [pythonix](https://github.com/Mic92/pythonix) - Eval nix code from python
@@ -2183,6 +2185,12 @@
 
 ## Elixir 
 
+- [vreri](https://github.com/q60/vreri) - Random quote fetching console utility.
+- [glimesh.tv](https://github.com/Glimesh/glimesh.tv) - Glimesh is a next generation live streaming platform built by the community, for the community.
+- [elixir-debian](https://github.com/norbusan/elixir-debian) - Debian packaging of Elixir
+- [realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
+- [tictac](https://github.com/fly-apps/tictac) - Demonstration of building a clustered, distributed, multi-player, turn-based game server written in Elixir.
+- [keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool.
 - [teex](https://github.com/doawoo/teex) - Use Elixir like a scripting language, across your system
 - [asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
 - [redis](https://github.com/artemeff/redis) - Redis commands for Elixir
@@ -2573,7 +2581,7 @@
 - [plantuml-mode](https://github.com/skuro/plantuml-mode) - A major mode for editing PlantUML sources in Emacs
 - [flymake-quickdef](https://github.com/karlotness/flymake-quickdef) - Quickly define a new Flymake backend
 - [magit-circleci](https://github.com/abrochard/magit-circleci) - Emacs Magit extension for CircleCI
-- [emacs-tree-sitter](https://github.com/ubolonton/emacs-tree-sitter) - Tree-sitter in Emacs
+- [elisp-tree-sitter](https://github.com/emacs-tree-sitter/elisp-tree-sitter) - Tree-sitter bindings for Emacs Lisp
 - [org-thesis](https://github.com/dangom/org-thesis) - Writing a Ph.D. thesis with Org Mode
 - [nnreddit](https://github.com/dickmao/nnreddit) - A Gnus backend for Reddit
 - [orgmine](https://github.com/kametoku/orgmine) - Emacs minor mode for org-mode with redmine integration
@@ -3992,6 +4000,7 @@
 
 ## Erlang 
 
+- [rralle](https://github.com/q60/rralle) - Random quote fetching console utility.
 - [erlscripten](https://github.com/erlscripten/erlscripten) - Erlang to PureScript transpiler. Run Erlang in the browser!
 - [type_mapper](https://github.com/flussonic/type_mapper) - Erlang type mapping tool that allows to convert json to structured data according to type specs
 - [alpaca](https://github.com/alpaca-lang/alpaca) - Functional programming inspired by ML for the Erlang VM
@@ -4048,6 +4057,8 @@
 
 ## Go 
 
+- [plain](https://github.com/cblgh/plain) - network .md into .html with plaintext files
+- [Git-Secret](https://github.com/daffainfo/Git-Secret) - Go scripts for finding an API key / some keywords in repository
 - [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
 - [wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for Postgres
 - [nix-build-uncached](https://github.com/Mic92/nix-build-uncached) - A CI friendly wrapper around nix-build.
@@ -5268,6 +5279,7 @@
 
 ## Groovy 
 
+- [pipeline-model-definition-plugin](https://github.com/jenkinsci/pipeline-model-definition-plugin) - 
 - [jenkins-json-build](https://github.com/sunweisheng/jenkins-json-build) - This project relies on the Jenkins Shared Libraries mechanism and uses JSON configuration files to drive the build process, so that developers do not have to write a large number of Jenkins build scripts and abstract and reuse the execution process of Jenkins build scripts in many projects. The class library is very suitable for managing the large number of construction projects and the construction of various work scenarios. It can rely on one or several construction templates to cooperate with the json construction configuration file in each project to realize a unified management and flexible software project construction management plan .
 - [CodeNarc](https://github.com/CodeNarc/CodeNarc) - CodeNarc source
 - [nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
@@ -5767,6 +5779,30 @@
 
 ## Java 
 
+- [rabbitmq-consumer-plugin](https://github.com/jenkinsci/rabbitmq-consumer-plugin) - This is Jenkins plugin to connect RabbitMQ then consume messages in queue.
+- [inodes-monitor-plugin](https://github.com/jenkinsci/inodes-monitor-plugin) - 
+- [notify-events-plugin](https://github.com/jenkinsci/notify-events-plugin) - This plugin allows you to send messages from Jenkins jobs to Telegram, Viber, Skype, SMS, Voice Call and many others.
+- [autocomplete-parameter-plugin](https://github.com/jenkinsci/autocomplete-parameter-plugin) - A jenkins plugin that introduces parameters with autocomplete capabilities
+- [convert-to-pipeline-plugin](https://github.com/jenkinsci/convert-to-pipeline-plugin) - This plugin converts freestyle jobs to Pipeline jobs.
+- [docker-slaves-plugin](https://github.com/jenkinsci/docker-slaves-plugin) - A Jenkins plugin to run builds inside Docker containers
+- [libvirt-slave-plugin](https://github.com/jenkinsci/libvirt-slave-plugin) - Jenkins Libvirt Agents plugin
+- [junit-realtime-test-reporter-plugin](https://github.com/jenkinsci/junit-realtime-test-reporter-plugin) - Report JUnit test results in real time
+- [git-changelog-plugin](https://github.com/jenkinsci/git-changelog-plugin) - Creates a changelog, or release notes, based on Git commits between 2 revisions.
+- [github-checks-plugin](https://github.com/jenkinsci/github-checks-plugin) - Jenkins Plugin for GitHub Checks API
+- [log-cli-plugin](https://github.com/jenkinsci/log-cli-plugin) - Adds a CLI command to tail a Jenkins logger.
+- [github-api-plugin](https://github.com/jenkinsci/github-api-plugin) - This plugin packages stock github-api library
+- [role-strategy-plugin](https://github.com/jenkinsci/role-strategy-plugin) - Jenkins Role-Strategy plugin
+- [command-launcher-plugin](https://github.com/jenkinsci/command-launcher-plugin) - Allows agents to be launched using a specified command.
+- [buildtriggerbadge-plugin](https://github.com/jenkinsci/buildtriggerbadge-plugin) - Jenkins' plugin to display an icon representing the trigger cause of a build.
+- [collapsing-console-sections-plugin](https://github.com/jenkinsci/collapsing-console-sections-plugin) - Jenkins collapsing-console-sections plugin
+- [blueocean-display-url-plugin](https://github.com/jenkinsci/blueocean-display-url-plugin) - Provides a display url implementation
+- [violation-comments-to-gitlab-plugin](https://github.com/jenkinsci/violation-comments-to-gitlab-plugin) - Comments GitLab merge requests with static code analyzer findings.
+- [mq-notifier-plugin](https://github.com/jenkinsci/mq-notifier-plugin) - A Jenkins plugin that sends messages to an MQ, e.g. RabbitMQ whenever a build is started and finished.
+- [compact-columns-plugin](https://github.com/jenkinsci/compact-columns-plugin) - Jenkins compact-columns plugin
+- [blueocean-autofavorite-plugin](https://github.com/jenkinsci/blueocean-autofavorite-plugin) - 
+- [logstash-plugin](https://github.com/jenkinsci/logstash-plugin) - Jenkins plugin to ship the console log off to Logstash
+- [rest-list-parameter-plugin](https://github.com/jenkinsci/rest-list-parameter-plugin) - A simple Jenkins parameter plugin that offers a list of values based on a REST call response.
+- [autograding-plugin](https://github.com/jenkinsci/autograding-plugin) - Jenkins plugin that autogrades projects based on a configurable set of metrics.
 - [gitlab-branch-source-plugin](https://github.com/jenkinsci/gitlab-branch-source-plugin) - A Jenkins Plugin for GitLab Multibranch Pipeline jobs and Folder Organization
 - [hashicorp-vault-plugin](https://github.com/jenkinsci/hashicorp-vault-plugin) - Jenkins plugin to populate environment variables from secrets stored in HashiCorp's Vault.
 - [NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
@@ -6044,6 +6080,7 @@
 
 ## JavaScript 
 
+- [mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [nijs](https://github.com/svanderburg/nijs) - NiJS: An internal DSL for Nix in JavaScript
 - [discord-voice-recorder](https://github.com/chebro/discord-voice-recorder) - A nifty script that can pipe out audio from a discord voice channel to your local storage. A discord voice recorder!
 - [vmd](https://github.com/yoshuawuyts/vmd) - :pray: preview markdown files
@@ -6621,7 +6658,7 @@
 - [Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) - 🌈  A Curated List of Checklists ✔︎✔︎
 - [awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
 - [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs) - The Vulkan API Specification and related tools
 - [mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
 - [Moeditor](https://github.com/Moeditor/Moeditor) - (discontinued) Your all-purpose markdown editor.
@@ -6900,6 +6937,7 @@
 
 ## Julia 
 
+- [BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) - Concise and beautiful algorithms written in Julia
 - [18S191](https://github.com/mitmath/18S191) - Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:
 - [PyCall.jl](https://github.com/JuliaPy/PyCall.jl) - Package to call Python functions from the Julia language
 - [Julia.jl](https://github.com/svaksha/Julia.jl) - Curated decibans of Julia programming language.
@@ -6987,6 +7025,7 @@
 
 ## Kotlin 
 
+- [android-apk-size-watcher-plugin](https://github.com/jenkinsci/android-apk-size-watcher-plugin) - 
 - [eskotlin](https://github.com/mbuhot/eskotlin) - Elasticsearch Query DSL for Kotlin
 - [kotlin-android-template](https://github.com/cortinico/kotlin-android-template) - Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️
 - [kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Samples builds using the Gradle Kotlin DSL
@@ -7243,6 +7282,8 @@
 
 ## Nix 
 
+- [template-nixos](https://github.com/gitpod-io/template-nixos) - The NixOS template, configured for Gitpod (www.gitpod.io) to give you pre-built, nix based ephemeral development environments in the cloud.
+- [vs-ext](https://github.com/divnix/vs-ext) - A kick ass library to dominate your Visual Studio Extensions (with DevOS)
 - [nix-on-droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
 - [arewehackersyet](https://github.com/JJJollyjim/arewehackersyet) - Tracking the availability of Kali Linux packages in NixOS
 - [nix-straight.el](https://github.com/vlaci/nix-straight.el) - 
@@ -7357,6 +7398,7 @@
 
 ## OCaml 
 
+- [nixos-up](https://github.com/samuela/nixos-up) - The fastest NixOS install there is! 🏎️🏁
 - [opam-coq-archive](https://github.com/coq/opam-coq-archive) - Archive for all Coq related OPAM packages organized in various repositories
 - [MariOCaml](https://github.com/mahsu/MariOCaml) - HTML 5 canvas implementation of Mario written in Ocaml
 - [coq-serapi](https://github.com/ejgallego/coq-serapi) - Coq Protocol Playground with Se(xp)rialization of Internal Structures.
@@ -7416,6 +7458,8 @@
 
 ## Others 
 
+- [awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
+- [Awesome-Hacking-Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools) - Awesome Hacking Tools
 - [awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
@@ -8809,6 +8853,7 @@
 
 ## Python 
 
+- [azote](https://github.com/nwg-piotr/azote) - Wallpaper and colour manager for Sway, i3 and some other WMs
 - [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
 - [pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
@@ -10105,7 +10150,7 @@
 - [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
 - [python-info](https://github.com/politza/python-info) - 
 - [viewvc](https://github.com/viewvc/viewvc) - ViewVC is a browser interface for CVS and Subversion version control repositories.
-- [PyOrgMode](https://github.com/bjonnh/PyOrgMode) - A python class for reading and writing orgmode files
+- [PyOrgMode](https://github.com/bjonnh/PyOrgMode) - A python module for reading and writing orgmode files
 - [Memacs](https://github.com/novoid/Memacs) - What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 - [filetags](https://github.com/novoid/filetags) - Management of simple tags within file names
 - [CommonRegex](https://github.com/madisonmay/CommonRegex) - A collection of common regular expressions bundled with an easy to use interface.
@@ -10539,6 +10584,7 @@
 
 ## Ruby 
 
+- [fisk](https://github.com/tenderlove/fisk) - A pure Ruby assembler
 - [nginx](https://github.com/sous-chefs/nginx) - Development repository for the nginx cookbook
 - [kredis](https://github.com/rails/kredis) - Higher-level data structures built on Redis
 - [mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
@@ -10735,6 +10781,12 @@
 
 ## Rust 
 
+- [ztop](https://github.com/asomers/ztop) - Display ZFS datasets' I/O in real time
+- [clpy](https://github.com/PiyushSuthar/clpy) - Save image from your clipboard 📋 as an image file directly from your command line! 🔥
+- [komorebi](https://github.com/LGUG2Z/komorebi) - Another tiling window manager for Windows 10 based on binary space partitioning
+- [nixbom](https://github.com/mlieberman85/nixbom) - 
+- [aeneid](https://github.com/nikhiljha/aeneid) - use your GitHub SSH keys to authenticate to sshd
+- [Voila](https://github.com/Alonely0/Voila) - Voila is a domain-specific language launched through CLI tool for operating with files and directories in massive amounts in a fast & reliable way.
 - [vmsh](https://github.com/Mic92/vmsh) - Spawn debug shells in virtual machines
 - [cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE
 - [envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
@@ -10751,7 +10803,7 @@
 - [hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff
 - [rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
-- [rustcat](https://github.com/robiot/rustcat) - ⚙️ Netcat Alternative
+- [rustcat](https://github.com/robiot/rustcat) - ⚙️ Modern Netcat Alternative
 - [awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [todo_r](https://github.com/lavifb/todo_r) - Find all your TODO notes with one command!
 - [morse2sound](https://github.com/irevenko/morse2sound) - 📜🔁🎶 A CLI which converts morse code into sound
@@ -11358,6 +11410,7 @@
 
 ## Shell 
 
+- [pdfcrack](https://github.com/machine1337/pdfcrack) - An Advanced tool to Crack Any Password Protected PDF file. A very user friendly script especially for noob hackers.
 - [kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
 - [calendar-notification](https://github.com/chebro/calendar-notification) - calendar notification for linux desktops using dunst
 - [selenium.sh](https://github.com/sudharsan-selvaraj/selenium.sh) - Selenium web driver bindings for the shell script 🐚. Browser automation made possible with bash now 💯
@@ -11380,7 +11433,6 @@
 - [acme](https://github.com/evbogdanov/acme) - My collection of Acme notes and scripts
 - [graphpath](https://github.com/ocochard/graphpath) - Graphpath generates an ASCII network diagram from the route table of a Unix/Linux
 - [desec-certbot-hook](https://github.com/desec-io/desec-certbot-hook) - Use deSEC to obtain certificates with certbot DNS ownership verification.
-- [sqliscan](https://github.com/meicookies/sqliscan) - Sqli scanner
 - [elasticsearch-in-action](https://github.com/dakrone/elasticsearch-in-action) - Offical code repository for the Elasticsearch in Action book from Manning
 - [rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
 - [yaml-editor](https://github.com/yaml/yaml-editor) - Edit YAML and see it processed by various processors
