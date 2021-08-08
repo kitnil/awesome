@@ -467,7 +467,7 @@
 - [luaposix](https://github.com/luaposix/luaposix) - Lua bindings for POSIX APIs
 - [swupdate](https://github.com/sbabic/swupdate) - Software Update for Embedded Systems
 - [UnicornConsole](https://github.com/Gigoteur/UnicornConsole) - Unicorn Console: create quick game !
-- [crown](https://github.com/dbartolini/crown) - The flexible game engine.
+- [crown](https://github.com/crownengine/crown) - The flexible game engine.
 - [sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [rtty](https://github.com/zhaojh329/rtty) - Access your terminal from anywhere via the web.
 - [headmore](https://github.com/HouzuoGuo/headmore) - Top geek’s VNC client that runs in Linux terminal (Linux VT console, xterm, and more)
@@ -1529,7 +1529,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.0.5.38556, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.0.39653, 3.3.5 = 3.3.5a.12340)
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
@@ -4016,6 +4016,7 @@
 
 ## Fennel 
 
+- [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, Nix, i3, Kitty, Fish, Neovim and more
 
 ## Forth 
@@ -4219,7 +4220,7 @@
 - [slick](https://github.com/pcostanza/slick) - The Slick programming language is an s-expression surface syntax for Go.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [wprecon](https://github.com/blackbinn/wprecon) - The official wprecon repository
-- [mosdns](https://github.com/IrineSistiana/mosdns) - DNS 路由/过滤/转发器。
+- [mosdns](https://github.com/IrineSistiana/mosdns) - 可编程 DNS 路由/过滤/转发器。
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
@@ -5102,7 +5103,7 @@
 - [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 - [promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
-- [httplab](https://github.com/gchaincl/httplab) - The interactive web server
+- [httplab](https://github.com/qustavo/httplab) - The interactive web server
 - [bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
@@ -6187,6 +6188,7 @@
 - [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [gitsee](https://github.com/g14a/gitsee) - The backend service for a Github Visualization tool made for fun, but can be used to get an overview of a candidate during a hiring process.
 - [beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
+- [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [habitica-cli](https://github.com/charlespwd/habitica-cli) - An immersive command line interface for Habitica :zap::fire:
 - [arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -6235,7 +6237,7 @@
 - [play-with](https://github.com/grmat/play-with) - WebExtension to open a video stream on a web page with an external player.
 - [torrent-mount](https://github.com/mafintosh/torrent-mount) - Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse. AKA MAD SCIENCE!
 - [variety](https://github.com/variety/variety) - A schema analyzer for MongoDB
-- [WALC](https://github.com/cstayyab/WALC) - An unofficial WhatsApp Desktop client for linux systems.
+- [WALC](https://github.com/WAClient/WALC) - An unofficial WhatsApp Desktop client for linux systems.
 - [sci-hub-now](https://github.com/0x01h/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅
 - [xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
 - [CursedChrome](https://github.com/mandatoryprogrammer/CursedChrome) - Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.
@@ -6671,7 +6673,7 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [chrome-zeroclickinfo](https://github.com/duckduckgo/chrome-zeroclickinfo) - Chrome Extension using the DuckDuckGo Zero-click Info API
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2021)
 - [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [showthedocs](https://github.com/idank/showthedocs) - 
 - [RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -7180,7 +7182,6 @@
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 - [lua-lsp](https://github.com/Alloyed/lua-lsp) - A Lua language server
-- [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [ObAddon](https://github.com/caligari87/ObAddon) - A repository of community-built prefabs and other enhancements for Oblige 7.70
 - [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
@@ -9132,7 +9133,6 @@
 - [gsutil](https://github.com/GoogleCloudPlatform/gsutil) - A command line tool for interacting with cloud storage services.
 - [bpython](https://github.com/bpython/bpython) - bpython - A fancy curses interface to the Python interactive interpreter
 - [profiling](https://github.com/what-studio/profiling) - Was an interactive continuous Python profiler.
-- [oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials
 - [Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 - [zipfly](https://github.com/BuzonIO/zipfly) - Writing large ZIP archives without memory inflation
@@ -12364,7 +12364,6 @@
 - [1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
-- [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
 - [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
 - [tabToWindow](https://github.com/acarabott/tabToWindow) - Chrome extension to move the current tab to a new window using the command API
@@ -12384,6 +12383,7 @@
 - [rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 - [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
+- [oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [orgajs](https://github.com/orgapp/orgajs) - parse org-mode content into AST
 - [kibana-object-format](https://github.com/istresearch/kibana-object-format) - A Kibana plugin for displaying objects and arrays of objects.
 - [codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
