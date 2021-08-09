@@ -1186,7 +1186,7 @@
 - [qterminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator
 - [Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
 - [sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
-- [fheroes2](https://github.com/ihhub/fheroes2) - Free remake of Heroes of Might and Magic II game engine
+- [fheroes2](https://github.com/ihhub/fheroes2) - Free Heroes of Might and Magic II (fheroes2) is a recreation of HoMM2 game engine.
 - [passenger](https://github.com/phusion/passenger) - A fast and robust web server and application server for Ruby, Python and Node.js
 - [Logstalgia](https://github.com/acaudwell/Logstalgia) - replay or stream website access logs as a retro arcade game
 - [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.
@@ -11455,7 +11455,7 @@
 - [toggle-monitor-grayscale](https://github.com/bubbleguuum/toggle-monitor-grayscale) - Toggle Xorg monitors between color and grayscale mode
 - [notify-ssh-login](https://github.com/T-TutoRapide/notify-ssh-login) - Notification des connexions SSH sur discord
 - [vfio-single-amdgpu-passthrough](https://github.com/cosminmocan/vfio-single-amdgpu-passthrough) - This repo is a tutorial for single amd gpu passthrough to various qemu VMs
-- [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux.
+- [cfetch](https://github.com/notclint/cfetch) - A simple system information tool for Linux.
 - [dockerfile-shebang](https://github.com/JakeWharton/dockerfile-shebang) - Treat your Dockerfiles as self-contained, editable scripts
 - [2D-block-texture-pack](https://github.com/ThePotatoKing55/2D-block-texture-pack) - Replaces 3D models with flat textures in the Minecraft GUI.
 - [dns-here](https://github.com/no-gravity/dns-here) - Run a temporary DNS server that resolves a given hostname to the current IP
