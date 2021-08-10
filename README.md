@@ -1307,7 +1307,7 @@
 - [wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [risc-666](https://github.com/lcq2/risc-666) - RISC-V user-mode emulator that runs DooM
 - [URXVTConfig](https://github.com/daedreth/URXVTConfig) - A graphical user interface tool for configuration of the rxvt-unicode terminal emulator.
-- [gsshvnc](https://github.com/zrax/gsshvnc) - A simple VNC client with built-in SSH forwarding
+- [gsshvnc](https://github.com/zrax/gsshvnc) - A simple VNC client with built-in SSH tunneling
 - [multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform Multicast-enabled VNC viewer using wxWidgets and libvncclient . It runs on Unix, Mac OS X and Windows. Features include support for most encodings, ZeroConf service discovery and a seamless edge control mode á la x2vnc. There also is a mobile (Android) version with a different feature set available.
 - [ghost](https://github.com/AHXR/ghost) - :ghost: RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware
 - [rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
@@ -2160,7 +2160,7 @@
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [docker-loop](https://github.com/crazy-max/docker-loop) - Simple loop for dummy services
 - [docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image based on Alpine Linux
-- [docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features
+- [docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx
 - [docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image based on Python Alpine Linux
 - [docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image based on Alpine Linux
 - [dockerfiles](https://github.com/justinribeiro/dockerfiles) - Various dockerfiles including chrome-headless, lighthouse and other tooling.
@@ -4058,6 +4058,7 @@
 
 ## Go 
 
+- [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [plain](https://github.com/cblgh/plain) - network .md into .html with plaintext files
 - [Git-Secret](https://github.com/daffainfo/Git-Secret) - Go scripts for finding an API key / some keywords in repository
 - [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
@@ -4083,7 +4084,7 @@
 - [adbtuifm](https://github.com/darkhz/adbtuifm) - A TUI File Manager for ADB
 - [sci-hub-p2p](https://github.com/sci-hub-p2p/sci-hub-p2p) - fetch and serve papers in p2p network
 - [reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
-- [discordo](https://github.com/rigormorrtiss/discordo) - Lightweight Discord terminal client
+- [discordo](https://github.com/rigormorrtiss/discordo) - A lightweight and feature-rich terminal-based Discord client
 - [damon](https://github.com/hashicorp/damon) - A terminal UI (TUI) for HashiCorp Nomad
 - [gophers](https://github.com/nlepage/gophers) - Some gophers 🐻
 - [apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
@@ -10783,7 +10784,7 @@
 
 - [ztop](https://github.com/asomers/ztop) - Display ZFS datasets' I/O in real time
 - [clpy](https://github.com/PiyushSuthar/clpy) - Save image from your clipboard 📋 as an image file directly from your command line! 🔥
-- [komorebi](https://github.com/LGUG2Z/komorebi) - Another tiling window manager for Windows 10 based on binary space partitioning
+- [komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
 - [nixbom](https://github.com/mlieberman85/nixbom) - 
 - [aeneid](https://github.com/nikhiljha/aeneid) - use your GitHub SSH keys to authenticate to sshd
 - [Voila](https://github.com/Alonely0/Voila) - Voila is a domain-specific language launched through CLI tool for operating with files and directories in massive amounts in a fast & reliable way.
