@@ -1198,6 +1198,7 @@
 - [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
 - [hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
+- [conecto](https://github.com/hannesschulze/conecto) - Integrate your Android-phone with your PC - a GTK client for KDEConnect.
 - [httpflow](https://github.com/six-ddc/httpflow) - A command line utility helps to capture and dump HTTP stream
 - [Heimer](https://github.com/juzzlin/Heimer) - Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
 - [Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
@@ -1858,7 +1859,7 @@
 - [clog](https://github.com/rabbibotton/clog) - CLOG - The Common Lisp Omnificent GUI
 - [multiposter](https://github.com/Shinmera/multiposter) - Small application to post to multiple services simultaneously
 - [make-hash](https://github.com/genovese/make-hash) - A Common Lisp package for hash table creation with flexible, extensible initializers.
-- [common-lisp-by-example](https://github.com/ashok-khanna/common-lisp-by-example) - Repo for Common Lisp by Example
+- [lisp-notes](https://github.com/ashok-khanna/lisp-notes) - Repo for Common Lisp by Example
 - [github-webhook](https://github.com/fukamachi/github-webhook) - Docker container to listen for GitHub webhook events
 - [LISP-Machine](https://github.com/jrm-code-project/LISP-Machine) - Archive of LISP Machine, Inc.
 - [cmd](https://github.com/ruricolist/cmd) - Utility for running external programs
@@ -2827,7 +2828,6 @@
 - [go-mode.el](https://github.com/dominikh/go-mode.el) - Emacs mode for the Go programming language
 - [use-ttf](https://github.com/jcs-elpa/use-ttf) - Keep font consistency across different OSs.
 - [sesman](https://github.com/vspinu/sesman) - Session manager for Emacs based IDEs.
-- [emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) - Emacs application framework
 - [bicycle](https://github.com/tarsius/bicycle) - Cycle outline and code visibility
 - [org-listcruncher](https://github.com/dfeich/org-listcruncher) - Parse emacs org list contents into table
 - [imgbb.el](https://github.com/ecraven/imgbb.el) - Simple image upload client for imgbb.com
@@ -7744,7 +7744,7 @@
 - [ui-ux-hackfest-2020](https://github.com/jenkinsci/ui-ux-hackfest-2020) - Jenkins UI/UX Hackfest (May 25-29, 2020)
 - [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
-- [ABigSurvey](https://github.com/NiuTrans/ABigSurvey) - A collection of 500+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
+- [ABigSurvey](https://github.com/NiuTrans/ABigSurvey) - A collection of 700+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
 - [awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
 - [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
@@ -9811,6 +9811,7 @@
 - [repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
+- [emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, a customizable and extensible GUI framework that revolutionizes Emacs graphical capabilities
 - [gif-for-cli](https://github.com/google/gif-for-cli) - 
 - [udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
@@ -10922,7 +10923,7 @@
 - [StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
 - [rust_sqlite](https://github.com/joaoh82/rust_sqlite) - SQLRite - Simple embedded database modeled off SQLite in Rust
 - [rhit](https://github.com/Canop/rhit) - A nginx log explorer
-- [learn-rust](https://github.com/higker/learn-rust) - https://getrust.tech
+- [learn-rust](https://github.com/auula/learn-rust) - https://getrust.tech
 - [valheim-docker](https://github.com/mbround18/valheim-docker) - Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interface.
 - [telegrand](https://github.com/melix99/telegrand) - A Telegram client optimized for the GNOME desktop
 - [glitter](https://github.com/Milo123459/glitter) - 🌌⭐ Git tooling of the future.
@@ -12542,7 +12543,6 @@
 - [GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
 - [avizo](https://github.com/misterdanb/avizo) - A neat notification daemon
 - [taxi](https://github.com/Alecaddd/taxi) - The FTP Client that drives you anywhere
-- [conecto](https://github.com/hannesschulze/conecto) - Integrate your Android-phone with your PC - a GTK client for KDEConnect.
 - [planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 🚀
 - [vala-language-server-alpha](https://github.com/philippejer/vala-language-server-alpha) - Basic Vala Language Server
 - [giti](https://github.com/LinArcX/giti) - Permanent observer of your git directories
