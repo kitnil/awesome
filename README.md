@@ -1256,7 +1256,7 @@
 - [dg](https://github.com/mchalupa/dg) - [LLVM Static Slicer] Various program analyses, construction of dependence graphs and program slicing of LLVM bitcode.
 - [SVF](https://github.com/SVF-tools/SVF) - Static Value-Flow Analysis Framework for Source Code
 - [TscanCode](https://github.com/Tencent/TscanCode) - A static code analyzer for C++, C#, Lua
-- [WickedEngine](https://github.com/turanszkij/WickedEngine) - C++ game engine focusing on modern rendering techniques and performance.
+- [WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine focusing on modern rendering techniques and performance.
 - [q5Go](https://github.com/bernds/q5Go) - A tool for Go players: SGF editor, analysis tool, game database and pattern search tool, IGS client
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
@@ -2828,6 +2828,7 @@
 - [go-mode.el](https://github.com/dominikh/go-mode.el) - Emacs mode for the Go programming language
 - [use-ttf](https://github.com/jcs-elpa/use-ttf) - Keep font consistency across different OSs.
 - [sesman](https://github.com/vspinu/sesman) - Session manager for Emacs based IDEs.
+- [emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, a customizable and extensible GUI framework that revolutionizes Emacs graphical capabilities
 - [bicycle](https://github.com/tarsius/bicycle) - Cycle outline and code visibility
 - [org-listcruncher](https://github.com/dfeich/org-listcruncher) - Parse emacs org list contents into table
 - [imgbb.el](https://github.com/ecraven/imgbb.el) - Simple image upload client for imgbb.com
@@ -6082,6 +6083,7 @@
 
 ## JavaScript 
 
+- [vaultPass](https://github.com/mulbc/vaultPass) - A Chrome extension to leverage Hashicorp Vault as Credential Storage for teams
 - [mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [nijs](https://github.com/svanderburg/nijs) - NiJS: An internal DSL for Nix in JavaScript
 - [discord-voice-recorder](https://github.com/chebro/discord-voice-recorder) - A nifty script that can pipe out audio from a discord voice channel to your local storage. A discord voice recorder!
@@ -7484,7 +7486,7 @@
 - [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [hacking-resources](https://github.com/Lifka/hacking-resources) - Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.
 - [internet-monitoring](https://github.com/geerlingguy/internet-monitoring) - Monitor your network and internet speed with Docker & Prometheus
-- [qemu_blog](https://github.com/airbus-seclab/qemu_blog) - A series of posts about QEMU internals
+- [qemu_blog](https://github.com/airbus-seclab/qemu_blog) - A series of posts about QEMU internals:
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
@@ -8921,7 +8923,7 @@
 - [pychess](https://github.com/pychess/pychess) - PyChess - a chess client for Linux/Windows
 - [quicktile](https://github.com/ssokolow/quicktile) - Adds window-tiling hotkeys to any X11 desktop. (An analogue to WinSplit Revolution for people who don't want to use Compiz Grid)
 - [cozy](https://github.com/geigi/cozy) - A modern audio book player for Linux using GTK+ 3
-- [pyglossary](https://github.com/ilius/pyglossary) - A tool for converting dictionary files aka glossaries. The primary purpose is to be able to use our offline glossaries in any Open Source dictionary we like on any OS/device.
+- [pyglossary](https://github.com/ilius/pyglossary) - A tool for converting dictionary files aka glossaries. Mainly to help use our offline glossaries in any Open Source dictionary we like on any modern operating system / device.
 - [wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
 - [chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes.
 - [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
@@ -9811,7 +9813,6 @@
 - [repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
-- [emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, a customizable and extensible GUI framework that revolutionizes Emacs graphical capabilities
 - [gif-for-cli](https://github.com/google/gif-for-cli) - 
 - [udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
@@ -12445,7 +12446,7 @@
 - [setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
 - [SOSML](https://github.com/SOSML/SOSML) - The Online Interpreter for Standard ML, written in TypeScript.
 - [discord-term](https://github.com/atlx/discord-term) - Extensible Discord terminal client
-- [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
+- [ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
