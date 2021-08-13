@@ -203,6 +203,7 @@
 
 ## C 
 
+- [pllua](https://github.com/pllua/pllua) - Re-implementation of pllua, embedded Lua for postgresql
 - [shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
 - [pipelinedb](https://github.com/pipelinedb/pipelinedb) - High-performance time-series aggregation for PostgreSQL
 - [mod_python](https://github.com/grisha/mod_python) - mod_python
@@ -1157,7 +1158,6 @@
 - [wisp](https://github.com/adam-mcdaniel/wisp) - A light lisp written in C++
 - [tiny_link](https://github.com/NoelFB/tiny_link) - tiny game made in ~15 hours on stream
 - [poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
-- [pdftotext](https://github.com/jalan/pdftotext) - Simple PDF text extraction
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
@@ -1301,7 +1301,7 @@
 - [serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [blend2d](https://github.com/blend2d/blend2d) - 2D Vector Graphics Engine Powered by a JIT Compiler
-- [wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor
+- [wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [xbmc](https://github.com/yol/xbmc) - Kodi fork for GSoC 2017: Wayland Support
 - [gtkplatform](https://github.com/CrimsonAS/gtkplatform) - Run Qt applications using gtk+ as a windowing system.
 - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -1859,7 +1859,6 @@
 - [clog](https://github.com/rabbibotton/clog) - CLOG - The Common Lisp Omnificent GUI
 - [multiposter](https://github.com/Shinmera/multiposter) - Small application to post to multiple services simultaneously
 - [make-hash](https://github.com/genovese/make-hash) - A Common Lisp package for hash table creation with flexible, extensible initializers.
-- [lisp-notes](https://github.com/ashok-khanna/lisp-notes) - Repo for Common Lisp by Example
 - [github-webhook](https://github.com/fukamachi/github-webhook) - Docker container to listen for GitHub webhook events
 - [LISP-Machine](https://github.com/jrm-code-project/LISP-Machine) - Archive of LISP Machine, Inc.
 - [cmd](https://github.com/ruricolist/cmd) - Utility for running external programs
@@ -2000,7 +1999,7 @@
 - [sucle](https://github.com/gregcman/sucle) - Common Lisp Voxel Game Engine
 - [cl-sdl2](https://github.com/lispgames/cl-sdl2) - Common Lisp bindings for SDL2 using C2FFI.
 - [cells](https://github.com/kennytilton/cells) - A Common Lisp implementation of the dataflow programming paradigm
-- [cl-sdl2-tutorial](https://github.com/TatriX/cl-sdl2-tutorial) - 
+- [cl-sdl2-tutorial](https://github.com/TatriX/cl-sdl2-tutorial) - SDL2 examples in Common Lisp based on Lazy Foo tutorials.
 - [on-lisp](https://github.com/DalekBaldwin/on-lisp) - A modernized and annotated code companion to Paul Graham's "On Lisp".
 - [lisp-magick-wand](https://github.com/ruricolist/lisp-magick-wand) - ImageMagick bindings (fork)
 - [cl21](https://github.com/cl21/cl21) - Common Lisp in the 21st Century.
@@ -2828,7 +2827,7 @@
 - [go-mode.el](https://github.com/dominikh/go-mode.el) - Emacs mode for the Go programming language
 - [use-ttf](https://github.com/jcs-elpa/use-ttf) - Keep font consistency across different OSs.
 - [sesman](https://github.com/vspinu/sesman) - Session manager for Emacs based IDEs.
-- [emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, a customizable and extensible GUI framework that revolutionizes Emacs graphical capabilities
+- [emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, a customizable and extensible framework that revolutionizes Emacs graphical capabilities
 - [bicycle](https://github.com/tarsius/bicycle) - Cycle outline and code visibility
 - [org-listcruncher](https://github.com/dfeich/org-listcruncher) - Parse emacs org list contents into table
 - [imgbb.el](https://github.com/ecraven/imgbb.el) - Simple image upload client for imgbb.com
@@ -4059,6 +4058,8 @@
 
 ## Go 
 
+- [slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
+- [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [plain](https://github.com/cblgh/plain) - network .md into .html with plaintext files
 - [Git-Secret](https://github.com/daffainfo/Git-Secret) - Go scripts for finding an API key / some keywords in repository
@@ -4255,7 +4256,7 @@
 - [urlhunter](https://github.com/utkusen/urlhunter) - a recon tool that allows searching on URLs that are exposed via shortener services
 - [DevSecOps](https://github.com/hahwul/DevSecOps) - 🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎
 - [statsview](https://github.com/go-echarts/statsview) - 🚀 A real-time Golang runtime stats visualization profiler
-- [dsnet](https://github.com/naggie/dsnet) - Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
+- [dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [lazyssh](https://github.com/stephank/lazyssh) - A jump-host SSH server that starts machines on-demand
 - [grafana-export](https://github.com/Thunderbottom/grafana-export) - A small utility to download all dashboards from Grafana and backup to S3
@@ -5351,6 +5352,7 @@
 - [Java-JDK10](https://github.com/umair-akb/Java-JDK10) - Java version 1.1 + JDK 1.0 and very early Java applets, developed 1995 to 1996.
 - [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
+- [lisp-notes](https://github.com/ashok-khanna/lisp-notes) - Repo for Common Lisp by Example
 - [ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
 - [big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
 - [Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
@@ -7134,7 +7136,7 @@
 
 ## Lua 
 
-- [github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, and Alacritty written in Lua
+- [github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, tmux, kitty, iTerm, Konsole, and Alacritty written in Lua
 - [LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
@@ -7286,7 +7288,7 @@
 
 ## Nix 
 
-- [template-nixos](https://github.com/gitpod-io/template-nixos) - The NixOS template, configured for Gitpod (www.gitpod.io) to give you pre-built, nix based ephemeral development environments in the cloud.
+- [template-nixos](https://github.com/gitpod-io/template-nixos) - The NixOS template, configured for Gitpod (www.gitpod.io) to give you pre-built, nix based ephemeral operating system environments in the cloud.
 - [vs-ext](https://github.com/divnix/vs-ext) - A kick ass library to dominate your Visual Studio Extensions (with DevOS)
 - [nix-on-droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
 - [arewehackersyet](https://github.com/JJJollyjim/arewehackersyet) - Tracking the availability of Kali Linux packages in NixOS
@@ -7462,6 +7464,7 @@
 
 ## Others 
 
+- [onelinerhub](https://github.com/nonunicorn/onelinerhub) - Lib with nearly 800 (and counting) minimalistic code pieces with clear explanation @ onelinerhub.com
 - [awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 - [Awesome-Hacking-Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools) - Awesome Hacking Tools
 - [awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
@@ -8943,6 +8946,7 @@
 - [best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [nanovna-saver](https://github.com/NanoVNA-Saver/nanovna-saver) - A tool for reading, displaying and saving data from the NanoVNA
+- [pdftotext](https://github.com/jalan/pdftotext) - Simple PDF text extraction
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [pypi-data](https://github.com/sethmlarson/pypi-data) - Mostly up-to-date data about almost every package on PyPI
 - [writehat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python.  Free yourself from Microsoft Word.
@@ -8971,7 +8975,7 @@
 - [autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts)
 - [designate](https://github.com/openstack/designate) - OpenStack DNS As A Service (Designate). Mirror of code maintained at opendev.org.
-- [timezones-cli](https://github.com/yankeexe/timezones-cli) - CLI Tool to store and glance date time from multiple time zones.
+- [timezones-cli](https://github.com/yankeexe/timezones-cli) - CLI to store and glance date-time from multiple time zones.
 - [jsonresume-fake](https://github.com/jsonresume/jsonresume-fake) - Fully generated fake resumes using machine learning models trained off ~6000 JSON resumes.
 - [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
 - [kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
@@ -9150,7 +9154,7 @@
 - [dockselpy](https://github.com/dimmg/dockselpy) - Dockerized Selenium and Python with support for Chrome, Firefox and PhantomJS
 - [scihub-downloader](https://github.com/brunneis/scihub-downloader) - Sci-Hub PDF downloader through Tor Network (Docker image)
 - [dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
-- [FairMOT](https://github.com/ifzhang/FairMOT) - A simple baseline for one-shot multi-object tracking
+- [FairMOT](https://github.com/ifzhang/FairMOT) - [IJCV-2021] FairMOT: On the Fairness of Detection and Re-Identification in Multi-Object Tracking
 - [ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining parameters from dark corners of Web Archives
 - [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
 - [speedometer](https://github.com/wardi/speedometer) - Chart network TX/RX and file download rates on the console
@@ -11321,6 +11325,7 @@
 
 ## Scheme 
 
+- [guile-png](https://github.com/artyom-poptsov/guile-png) - 
 - [guix-installer](https://github.com/SystemCrafters/guix-installer) - A GNU Guix installer image with the full Linux kernel!
 - [guile-raw-strings](https://github.com/lloda/guile-raw-strings) - A Guile reader extension for ‘raw strings’
 - [scheme-to-llvm](https://github.com/akeep/scheme-to-llvm) - A compiler to compile a simple subset of scheme to LLVM 10
@@ -11962,7 +11967,7 @@
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [samba](https://github.com/dperson/samba) - Samba docker container
 - [StayAlive](https://github.com/mwitmer/StayAlive) - A roguelike game written in Guile Scheme
-- [prowler](https://github.com/toniblyx/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains all CIS controls listed here https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf and more than 100 additional checks that help on GDPR, HIPAA and other security requirements.
+- [prowler](https://github.com/toniblyx/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains all CIS controls and many more additional checks that help on GDPR, HIPAA and other security frameworks.
 - [nix-in-termux](https://github.com/t184256/nix-in-termux) - A script to install Nix package manager inside a Termux installation (on Android, aarch64)
 - [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
 - [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A curated list of the most common and most interesting robots.txt disallowed directories.
