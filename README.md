@@ -4058,6 +4058,7 @@
 
 ## Go 
 
+- [exporter_exporter](https://github.com/QubitProducts/exporter_exporter) - A reverse proxy designed for Prometheus exporters
 - [slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
@@ -4223,7 +4224,7 @@
 - [slick](https://github.com/pcostanza/slick) - The Slick programming language is an s-expression surface syntax for Go.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [wprecon](https://github.com/blackbinn/wprecon) - The official wprecon repository
-- [mosdns](https://github.com/IrineSistiana/mosdns) - 可编程 DNS 路由/过滤/转发器。
+- [mosdns](https://github.com/IrineSistiana/mosdns) - DNS 路由/过滤/转发器。
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
@@ -7288,6 +7289,7 @@
 
 ## Nix 
 
+- [vault-secrets](https://github.com/serokell/vault-secrets) - 
 - [template-nixos](https://github.com/gitpod-io/template-nixos) - The NixOS template, configured for Gitpod (www.gitpod.io) to give you pre-built, nix based ephemeral operating system environments in the cloud.
 - [vs-ext](https://github.com/divnix/vs-ext) - A kick ass library to dominate your Visual Studio Extensions (with DevOS)
 - [nix-on-droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
@@ -8195,7 +8197,7 @@
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
 - [mailaprop](https://github.com/kfogel/mailaprop) - Please see https://code.librehq.com/kfogel/mailaprop for the latest version of this package.  It is no longer hosted on GitHub.
-- [Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox 💧 source code repository
+- [Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository
 - [donate](https://github.com/joshtronic/donate) - Just a list of Free Software, Open Source Software and other technology-related things you can contribute money to.
 - [awesome-free-services](https://github.com/hql287/awesome-free-services) - Awesome free online services for startups and freelancers!
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
@@ -10291,7 +10293,7 @@
 - [pypi2deb](https://github.com/p1otr/pypi2deb) - PyPI to Debian converter
 - [gitfs](https://github.com/presslabs/gitfs) - Version controlled file system
 - [jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
-- [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
+- [onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [logster](https://github.com/etsy/logster) - Parse log files, generate metrics for Graphite and Ganglia
 - [pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [lektor](https://github.com/lektor/lektor) - The lektor static file content management system
@@ -11006,7 +11008,7 @@
 - [parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
 - [quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
-- [engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds
+- [engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud provider in just a few seconds
 - [nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
 - [diff-grep](https://github.com/keith/diff-grep) - Filter matching hunks in diffs
 - [rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
