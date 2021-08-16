@@ -2097,6 +2097,7 @@
 
 ## Dhall 
 
+- [dhall-terraform](https://github.com/mujx/dhall-terraform) - Generate dhall records from terraform resouces, data_sources & providers
 - [github-actions-dhall](https://github.com/regadas/github-actions-dhall) - Typecheck, template and modularize your Github Action definitions with Dhall
 - [dhall-nethack](https://github.com/dhall-lang/dhall-nethack) - Generate NetHack configurations using Dhall
 - [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Dhall
@@ -4059,6 +4060,8 @@
 
 ## Go 
 
+- [vaultfs](https://github.com/asteris-llc/vaultfs) - Vault filesystem (and Docker volume plugin)
+- [vault-auth-file](https://github.com/gites/vault-auth-file) - HashiCorp Vault authentication plugin for authenticating via Unix password like file
 - [ipmi_exporter](https://github.com/soundcloud/ipmi_exporter) - Remote IPMI exporter for Prometheus
 - [exporter_exporter](https://github.com/QubitProducts/exporter_exporter) - A reverse proxy designed for Prometheus exporters
 - [slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -6283,7 +6286,7 @@
 - [FunctionScript](https://github.com/acode/FunctionScript) - An API gateway and framework for turning functions into web services
 - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - OBSOLETE - Interactively select the quality and format for youtube-dl
 - [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2021)
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
 - [diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers
 - [Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [jsonbox](https://github.com/vasanthv/jsonbox) - HTTP-based JSON storage.
@@ -7468,6 +7471,7 @@
 
 ## Others 
 
+- [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [onelinerhub](https://github.com/nonunicorn/onelinerhub) - Lib with nearly 800 (and counting) minimalistic code pieces with clear explanation @ onelinerhub.com
 - [awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 - [Awesome-Hacking-Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools) - Awesome Hacking Tools
@@ -8877,7 +8881,7 @@
 - [jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [textflint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing
 - [nanodet](https://github.com/RangiLyu/nanodet) - ⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥
-- [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - A FOSS alternative to Bloomberg Terminal.
+- [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research for Everyone.
 - [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
 - [mongita](https://github.com/scottrogowski/mongita) - "Mongita is to MongoDB as SQLite is to SQL"
@@ -10792,6 +10796,7 @@
 
 ## Rust 
 
+- [dhall-mock](https://github.com/dhall-mock/dhall-mock) - Modern HTTP mock server for your daily project based on Dhall configuration
 - [ztop](https://github.com/asomers/ztop) - Display ZFS datasets' I/O in real time
 - [clpy](https://github.com/PiyushSuthar/clpy) - Save image from your clipboard 📋 as an image file directly from your command line! 🔥
 - [komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
@@ -10806,7 +10811,7 @@
 - [inside-vm](https://github.com/PicoJr/inside-vm) - Detect if code is running inside a virtual machine (x86 and x86-64 only).
 - [paper](https://github.com/snakedye/paper) - A wallpaper daemon for Wayland compositors
 - [hosts-rs](https://github.com/zu1k/hosts-rs) - hosts file parsing, modification library, and some derivatives.
-- [StarWM](https://github.com/StarWM/StarWM) - A basic window manager written in Rust.
+- [StarWM](https://github.com/StarWM/StarWM) - StarWM is an extensible, floating and tiling, X window manager for Linux-based operating systems written in Rust.
 - [profile_stack](https://github.com/gleich/profile_stack) - 🚀 Display your tech stack on your GitHub profile's README
 - [xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
 - [csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
@@ -11567,7 +11572,7 @@
 - [wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - 🌐 Guide and tools to run a full offline mirror of Wikipedia.org with three different approaches: Nginx caching proxy, Kiwix + ZIM dump, and MediaWiki/XOWA + XML dump
 - [easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC+musl for static executables
-- [nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more in a single portable script.
+- [nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
 - [jinx](https://github.com/pretzelhands/jinx) - ✨jinx - a magical nginx wrapper
 - [prm](https://github.com/EivindArvesen/prm) - A minimal project manager for the terminal.
