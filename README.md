@@ -2221,6 +2221,7 @@
 
 ## Emacs Lisp 
 
+- [dogears.el](https://github.com/alphapapa/dogears.el) - Never lose your place in Emacs again
 - [Fundamental-Haskell](https://github.com/Anton-Latukha/Fundamental-Haskell) - Fundamental Haskell book, to the point terse statements on Haskell, Category theory, and related fields. Encyclopedic pocketbook of meaning. Zen kōan-like meditations of understanding. For quick or memory curve spaced repetition learning.
 - [logms](https://github.com/jcs-elpa/logms) - Log message with clickable links to context
 - [slime-doc-contribs](https://github.com/mmontone/slime-doc-contribs) - Documentation contribs for SLIME (the Superior Lisp Interaction Mode for Emacs)
@@ -2829,7 +2830,7 @@
 - [go-mode.el](https://github.com/dominikh/go-mode.el) - Emacs mode for the Go programming language
 - [use-ttf](https://github.com/jcs-elpa/use-ttf) - Keep font consistency across different OSs.
 - [sesman](https://github.com/vspinu/sesman) - Session manager for Emacs based IDEs.
-- [emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, a customizable and extensible framework that revolutionizes Emacs graphical capabilities
+- [emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [bicycle](https://github.com/tarsius/bicycle) - Cycle outline and code visibility
 - [org-listcruncher](https://github.com/dfeich/org-listcruncher) - Parse emacs org list contents into table
 - [imgbb.el](https://github.com/ecraven/imgbb.el) - Simple image upload client for imgbb.com
@@ -4046,7 +4047,6 @@
 
 ## GLSL 
 
-- [Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders.
 
 ## Gherkin 
@@ -6992,6 +6992,7 @@
 - [docs](https://github.com/tensorflow/docs) - TensorFlow documentation
 - [examples](https://github.com/tensorflow/examples) - TensorFlow examples
 - [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
+- [Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [ml-class](https://github.com/lukas/ml-class) - Machine learning lessons and teaching projects designed for engineers
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [dashboards](https://github.com/jupyter-attic/dashboards) - [RETIRED] See Voilà as a supported replacement
@@ -10034,7 +10035,7 @@
 - [Pymacs](https://github.com/pinard/Pymacs) - Emacs to Python interface
 - [ropemacs](https://github.com/python-rope/ropemacs) - emacs mode that uses rope library to provide features like python refactorings and code-assists
 - [FormalSystems](https://github.com/alexprengere/FormalSystems) - A Python implementation of Douglas Hofstadter formal systems, from his book "Gödel, Escher, Bach"
-- [scipy](https://github.com/scipy/scipy) - Scipy library main repository
+- [scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [pynamical](https://github.com/gboeing/pynamical) - Pynamical is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.
 - [PyGeoIpMap](https://github.com/pieqq/PyGeoIpMap) - Little Python script to show where IP addresses are coming from by plotting them on a World map
 - [chartpy](https://github.com/cuemacro/chartpy) - Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more
@@ -11334,7 +11335,7 @@
 
 ## Scheme 
 
-- [guile-png](https://github.com/artyom-poptsov/guile-png) - 
+- [guile-png](https://github.com/artyom-poptsov/guile-png) - Portable Network Graphics (PNG) format parser for GNU Guile.
 - [guix-installer](https://github.com/SystemCrafters/guix-installer) - A GNU Guix installer image with the full Linux kernel!
 - [guile-raw-strings](https://github.com/lloda/guile-raw-strings) - A Guile reader extension for ‘raw strings’
 - [scheme-to-llvm](https://github.com/akeep/scheme-to-llvm) - A compiler to compile a simple subset of scheme to LLVM 10
