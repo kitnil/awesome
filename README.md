@@ -570,7 +570,7 @@
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [icat](https://github.com/atextor/icat) - icat (Image cat) outputs images in 256-color capable terminals.
 - [COS](https://github.com/CObjectSystem/COS) - C Object System: a framework that brings C to the level of other high level programming languages and beyond
-- [memory-profiler](https://github.com/koute/memory-profiler) - A memory profiler for Linux.
+- [bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
 - [phoenixfs](https://github.com/artagnon/phoenixfs) - 🔥 a versioning filesystem inspired by git
 - [flow9](https://github.com/area9innovation/flow9) - Platform for safe, easy and productive programming of complex, multi-platform apps with a modern user interface
 - [http-parser](https://github.com/nodejs/http-parser) - http request/response parser for c
@@ -784,7 +784,7 @@
 - [picotcp](https://github.com/tass-belgium/picotcp) - PicoTCP is a free TCP/IP stack implementation
 - [oniguruma](https://github.com/kkos/oniguruma) - regular expression library
 - [micro-lisp](https://github.com/carld/micro-lisp) - 🎄A very small Lisp programming language 😀that used to be under 200 lines of C🎄
-- [owntone-server](https://github.com/owntone/owntone-server) - OwnTone is forked-daapd's new name! Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
+- [owntone-server](https://github.com/owntone/owntone-server) - OwnTone is forked-daapd's new name. Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
 - [uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [likwid](https://github.com/RRZE-HPC/likwid) - Performance monitoring and benchmarking suite
 - [rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
@@ -2494,6 +2494,7 @@
 - [emamux-ghci](https://github.com/jfeltz/emamux-ghci) - tmux GHCI controller for Emacs
 - [haskell-desktop](https://github.com/capital-match/haskell-desktop) - Docker image with Haskell, emacs, vim, SSH server and a desktop environment through X2Go
 - [lsp-docker](https://github.com/emacs-lsp/lsp-docker) - Scripts and configurations to leverage lsp-mode in docker environment
+- [plz.el](https://github.com/alphapapa/plz.el) - An HTTP library for Emacs
 - [playonline.el](https://github.com/twlz0ne/playonline.el) - Play code with online playgrounds
 - [elpa-deploy](https://github.com/oitofelix/elpa-deploy) - ELPA deployment library
 - [info-rename-buffer](https://github.com/oitofelix/info-rename-buffer) - Rename Info buffers to match manuals
@@ -5181,7 +5182,7 @@
 - [systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
-- [photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow
+- [photoprism](https://github.com/photoprism/photoprism) - Privately browse, organize, and share your photo collection. Free & Open Source. 🌈
 - [writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
 - [discord-cli](https://github.com/RickvanLoo/discord-cli) - Minimalistic Command-Line Interface for Discord
 - [gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
@@ -5789,6 +5790,7 @@
 
 ## Java 
 
+- [prometheus-plugin](https://github.com/jenkinsci/prometheus-plugin) - Jenkins Prometheus Plugin
 - [rabbitmq-consumer-plugin](https://github.com/jenkinsci/rabbitmq-consumer-plugin) - This is Jenkins plugin to connect RabbitMQ then consume messages in queue.
 - [inodes-monitor-plugin](https://github.com/jenkinsci/inodes-monitor-plugin) - 
 - [notify-events-plugin](https://github.com/jenkinsci/notify-events-plugin) - This plugin allows you to send messages from Jenkins jobs to Telegram, Viber, Skype, SMS, Voice Call and many others.
@@ -11882,7 +11884,6 @@
 - [dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you to keep the whole tree of password encrypted inside a tomb.
-- [plz.el](https://github.com/alphapapa/plz.el) - An HTTP library for Emacs
 - [bash-dev-tcp](https://github.com/fijimunkii/bash-dev-tcp) - collection of scripts using /dev/tcp
 - [ngincat](https://github.com/jaburns/ngincat) - Tiny bash HTTP server using netcat
 - [httpstat](https://github.com/b4b4r07/httpstat) - It's like curl -v, with graphs and colors
