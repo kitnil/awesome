@@ -203,6 +203,7 @@
 
 ## C 
 
+- [rederr](https://github.com/poettering/rederr) - Colour your stderr red
 - [labwc](https://github.com/johanmalm/labwc) - A Wayland stacking compositor
 - [pllua](https://github.com/pllua/pllua) - Re-implementation of pllua, embedded Lua for postgresql
 - [shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
@@ -309,7 +310,7 @@
 - [devour](https://github.com/salman-abedin/devour) - X11 window swallower
 - [io](https://github.com/IoLanguage/io) - Io programming language. Inspired by Self, Smalltalk and LISP.
 - [amqp-client](https://github.com/galtet/amqp-client) - A wrapper for the amqp rabbitmqlib in lua
-- [doslinux](https://github.com/haileysome/doslinux) - Run Linux programs on DOS
+- [doslinux](https://github.com/haileys/doslinux) - Run Linux programs on DOS
 - [minigolf](https://github.com/mgerdes/minigolf) - A minigolf game written without a game engine in C
 - [fio](https://github.com/axboe/fio) - Flexible I/O Tester
 - [ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
@@ -964,7 +965,7 @@
 - [UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
-- [GNUSim8085](https://github.com/GNUSim8085/GNUSim8085) - A graphical simulator, assembler and debugger for the Intel 8085 microprocessor
+- [GNUSim8085](https://github.com/srid/GNUSim8085) - A graphical simulator, assembler and debugger for the Intel 8085 microprocessor
 - [pigeonhole](https://github.com/dovecot/pigeonhole) - Pigeonhole project: Sieve support for Dovecot.
 - [MakiseGUI](https://github.com/SL-RU/MakiseGUI) - Graphics and GUI library for embed systems.
 - [stress-ng](https://github.com/ColinIanKing/stress-ng) - This is a mirror of the upstream project at https://kernel.ubuntu.com/git/cking/stress-ng.git/   -   stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces.
@@ -1032,7 +1033,6 @@
 - [projectm](https://github.com/projectM-visualizer/projectm) - projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
 - [xdg-desktop-portal-gtk](https://github.com/flatpak/xdg-desktop-portal-gtk) - Gtk implementation of xdg-desktop-portal
 - [xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) - Desktop integration portal
-- [notmuch](https://github.com/notmuch/notmuch) - mirror of the http://git.notmuchmail.org/git/notmuch repository
 - [imapfilter](https://github.com/lefcha/imapfilter) - IMAP mail filtering utility
 - [pacutils](https://github.com/andrewgregory/pacutils) - Helper library for libalpm based programs.
 - [zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
@@ -1161,7 +1161,7 @@
 - [poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
-- [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+- [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders - all for free! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
 - [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
@@ -1531,7 +1531,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.0.39653, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.0.39804, 3.3.5 = 3.3.5a.12340)
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
@@ -1667,6 +1667,7 @@
 
 ## CSS 
 
+- [groovy-and-graalvm](https://github.com/wololock/groovy-and-graalvm) - 
 - [GPU-Viewer](https://github.com/arunsivaramanneo/GPU-Viewer) - A front-end to glxinfo, vulkaninfo, clinfo and es2_info - Linux
 - [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
@@ -1873,7 +1874,7 @@
 - [with-c-syntax](https://github.com/y2q-actionman/with-c-syntax) - C language syntax in Common Lisp
 - [fuzzy-match](https://github.com/vindarel/fuzzy-match) - Fuzzy match candidates from an input string.
 - [trivial-snake](https://github.com/ryukinix/trivial-snake) - A trivial snake game written in Common Lisp built on top of trivial-gamekit
-- [Concrete-Syntax-Tree](https://github.com/s-expressionists/Concrete-Syntax-Tree) - 
+- [Concrete-Syntax-Tree](https://github.com/s-expressionists/Concrete-Syntax-Tree) - Concrete Syntax Trees represent s-expressions with source information
 - [Github-API-CL](https://github.com/ccqpein/Github-API-CL) - Common Lisp Github API Client
 - [imap](https://github.com/franzinc/imap) - POP, IMAP and SMTP client support for Common Lisp
 - [cl-redis](https://github.com/vseloved/cl-redis) - Redis client for Common Lisp
@@ -2115,7 +2116,6 @@
 - [Zabbix-workshop](https://github.com/Olivier-HA/Zabbix-workshop) - 
 - [awesome-threat-modelling](https://github.com/hysnsec/awesome-threat-modelling) - A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.
 - [docker-clion-dev](https://github.com/shuhaoliu/docker-clion-dev) - Debugging C++ in a Docker Container with CLion IDE
-- [cocalc-docker](https://github.com/sagemathinc/cocalc-docker) - Docker setup for running CoCalc as downloadable software on your own computer
 - [microscanner](https://github.com/aquasecurity/microscanner) - Scan your container images for package vulnerabilities with Aqua Security
 - [docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
 - [jenkinsfile-runner-github-actions](https://github.com/jenkinsci/jenkinsfile-runner-github-actions) - Jenkins single-shot master GitHub Action POC
@@ -4386,7 +4386,7 @@
 - [unew](https://github.com/dwisiswant0/unew) - A tool for append URLs, skipping duplicates/paths & combine parameters.
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [sqlbench](https://github.com/felixge/sqlbench) - sqlbench measures and compares the execution time of one or more SQL queries.
-- [sshocker](https://github.com/AkihiroSuda/sshocker) - ssh + reverse sshfs + port forwarder, in Docker-like CLI
+- [sshocker](https://github.com/lima-vm/sshocker) - ssh + reverse sshfs + port forwarder, in Docker-like CLI (predecessor of Lima)
 - [takuan](https://github.com/evilsocket/takuan) - Takuan is a system service that parses logs and detects noisy attackers in order to build a blacklist database of known cyber offenders.
 - [bashhub-server](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub https://github.com/rcaloras/bashhub-client
 - [selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
@@ -9051,6 +9051,7 @@
 - [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
+- [cocalc-docker](https://github.com/sagemathinc/cocalc-docker) - Docker setup for running CoCalc as downloadable software on your own computer
 - [mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
 - [tomatych](https://github.com/dmi3/tomatych) - Simple Hackable Pomodoro Timer with Slack and Habitica integrations
 - [AnkiHabitica](https://github.com/eshapard/AnkiHabitica) - Anki 2.0/2.1 add-on for use with HabitRPG. Automatically scores habits when you reach the end of your Anki timebox and when you review all cards in a deck.
@@ -10598,7 +10599,6 @@
 - [docker_monitoring_logging_alerting](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting.
 - [hr](https://github.com/LuRsT/hr) - A horizontal :straight_ruler: for your terminal
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - 🎷  Downloads Music From The Web
-- [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
 
@@ -10991,7 +10991,7 @@
 - [rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainer=@aaronjanse]
 - [gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
-- [eww](https://github.com/elkowar/eww) - ElKowar's wacky widgets
+- [eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [arret](https://github.com/etaoins/arret) - Pure functional Lisp implemented in Rust
 - [cm](https://github.com/tsoding/cm) - Emacs' compilation-mode-like TUI application
 - [scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
@@ -12181,6 +12181,7 @@
 - [docker-brew-mageia](https://github.com/juanluisbaptiste/docker-brew-mageia) - Scripts and files to create Mageia official docker base images.
 - [rst-cheatsheet](https://github.com/ralsina/rst-cheatsheet) - A two-page cheatsheet for restructured text
 - [google-group-crawler](https://github.com/icy/google-group-crawler) - Get (almost) original messages from google group archives. Your data is yours.
+- [notmuch](https://github.com/notmuch/notmuch) - mirror of the http://git.notmuchmail.org/git/notmuch repository
 - [dotaliases](https://github.com/algotech/dotaliases) - Helpful bash aliases for true professionals.
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [shell-ci-build](https://github.com/caarlos0-graveyard/shell-ci-build) - A submodule to lint your shell projects with shellcheck in travis.ci builds
@@ -12237,6 +12238,7 @@
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora
 - [git-recent](https://github.com/paulirish/git-recent) - See your latest local git branches, formatted real fancy
+- [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [Wallhaven-Downloader](https://github.com/macearl/Wallhaven-Downloader) - A simple download Script for Wallhaven.cc
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [infinality-ultimate-fedora](https://github.com/danielrenninghoff/infinality-ultimate-fedora) - Fedora packages for infinality-ultimate-bundle by bohoomil
