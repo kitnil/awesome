@@ -2090,6 +2090,7 @@
 
 ## Dart 
 
+- [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend games and applications.
 - [open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) - :iphone: List of open source Flutter applications :octocat:
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -2220,6 +2221,7 @@
 
 ## Emacs Lisp 
 
+- [amethyst](https://github.com/ashton314/amethyst) - An elegant Emacs setup optimized for non-technical writers
 - [dogears.el](https://github.com/alphapapa/dogears.el) - Never lose your place in Emacs again
 - [Fundamental-Haskell](https://github.com/Anton-Latukha/Fundamental-Haskell) - Fundamental Haskell book, to the point terse statements on Haskell, Category theory, and related fields. Encyclopedic pocketbook of meaning. Zen kōan-like meditations of understanding. For quick or memory curve spaced repetition learning.
 - [logms](https://github.com/jcs-elpa/logms) - Log message with clickable links to context
@@ -4060,6 +4062,11 @@
 
 ## Go 
 
+- [kit](https://github.com/go-kit/kit) - A standard library for microservices.
+- [unixtransport](https://github.com/peterbourgon/unixtransport) - Support for Unix domain sockets in Go HTTP clients
+- [pqssh](https://github.com/mattn/pqssh) - 
+- [viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc.
+- [gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
 - [vaultfs](https://github.com/asteris-llc/vaultfs) - Vault filesystem (and Docker volume plugin)
 - [vault-auth-file](https://github.com/gites/vault-auth-file) - HashiCorp Vault authentication plugin for authenticating via Unix password like file
 - [ipmi_exporter](https://github.com/soundcloud/ipmi_exporter) - Remote IPMI exporter for Prometheus
@@ -7297,6 +7304,8 @@
 
 ## Nix 
 
+- [ssh-participation](https://github.com/tweag/ssh-participation) - An ssh server that creates new users on-the-fly, great for letting users participate in a demo
+- [nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [vault-secrets](https://github.com/serokell/vault-secrets) - 
 - [template-nixos](https://github.com/gitpod-io/template-nixos) - The NixOS template, configured for Gitpod (www.gitpod.io) to give you pre-built, nix based ephemeral operating system environments in the cloud.
 - [vs-ext](https://github.com/divnix/vs-ext) - A kick ass library to dominate your Visual Studio Extensions (with DevOS)
@@ -7477,7 +7486,6 @@
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [onelinerhub](https://github.com/nonunicorn/onelinerhub) - Lib with nearly 800 (and counting) minimalistic code pieces with clear explanation @ onelinerhub.com
 - [awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
-- [Awesome-Hacking-Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools) - Awesome Hacking Tools
 - [awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
@@ -9525,7 +9533,7 @@
 - [ansible-ssh-config](https://github.com/gaqzi/ansible-ssh-config) - Letting Ansible manage ssh config
 - [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 - [storm](https://github.com/emre/storm) - Manage your SSH like a boss.
-- [adminset](https://github.com/guhongze/adminset) - 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理
+- [adminset](https://github.com/guohongze/adminset) - 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理
 - [faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
 - [ansible-meta-dynamic-inventory](https://github.com/iautom8things/ansible-meta-dynamic-inventory) - Naming is hard.  This wrapper script allows you to use set notation with dynamic host groups.
 - [automatron](https://github.com/madflojo/automatron) - Infrastructure monitoring framework turning DevOps runbooks into automated actions
@@ -10800,6 +10808,14 @@
 
 ## Rust 
 
+- [jiu](https://github.com/Xetera/jiu) - 🕵️ Detect new images and video on social media feeds and dispatch webhooks on updates
+- [request_smuggler](https://github.com/Sh1Yo/request_smuggler) - Http request smuggling vulnerability scanner
+- [git-stack](https://github.com/epage/git-stack) - Stacked branch management for Git
+- [trackie](https://github.com/beatbrot/trackie) - ⏳ trackie is a private, daemon-less time tracker for your CLI.
+- [unfuck](https://github.com/landaire/unfuck) - Python 2.7 bytecode d̶e̶o̶b̶f̶u̶s̶c̶a̶t̶o̶r unfucker
+- [cloneit](https://github.com/alok8bb/cloneit) - A cli tool to download specific GitHub directories or files
+- [audiovis](https://github.com/BrunoWallner/audiovis) - this tool visualizes audio input
+- [cxx2flow](https://github.com/Enter-tainer/cxx2flow) - 将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart
 - [dhall-mock](https://github.com/dhall-mock/dhall-mock) - Modern HTTP mock server for your daily project based on Dhall configuration
 - [ztop](https://github.com/asomers/ztop) - Display ZFS datasets' I/O in real time
 - [clpy](https://github.com/PiyushSuthar/clpy) - Save image from your clipboard 📋 as an image file directly from your command line! 🔥
