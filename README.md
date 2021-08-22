@@ -203,6 +203,7 @@
 
 ## C 
 
+- [CoD4x_Server](https://github.com/callofduty4x/CoD4x_Server) - Extended Call of Duty 4 server
 - [rederr](https://github.com/poettering/rederr) - Colour your stderr red
 - [labwc](https://github.com/johanmalm/labwc) - A Wayland stacking compositor
 - [pllua](https://github.com/pllua/pllua) - Re-implementation of pllua, embedded Lua for postgresql
@@ -445,7 +446,7 @@
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Terminal based bit manipulator in ncurses
-- [bcal](https://github.com/jarun/bcal) - :1234: Storage expression and general-purpose calculator
+- [bcal](https://github.com/jarun/bcal) - :1234: A calculator for bits, bytes and addresses
 - [ipdecap](https://github.com/lpefferkorn/ipdecap) - Decapsulate traffic encapsulated within GRE, IPIP, 6in4, ESP (ipsec) protocols, can also remove IEEE 802.1Q (virtual lan) header. Works with pcap files.
 - [wrk2](https://github.com/yicwang/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [solaris-userland](https://github.com/oracle/solaris-userland) - Open Source software in Solaris using gmake based build system to drive building various software components.
@@ -3376,7 +3377,7 @@
 - [yard-mode.el](https://github.com/pd/yard-mode.el) - Emacs minor mode for editing YARD tags
 - [assess](https://github.com/phillord/assess) - Test support functions for Emacs
 - [phpunit.el](https://github.com/nlamirault/phpunit.el) - Emacs mode to phpunit and test command line tool
-- [orgpress](https://github.com/jcouyang/orgpress) - modern emacs static blog generator https://hub.docker.com/r/jcouyang/orgpress
+- [orgpress](https://github.com/jcouyang/orgpress) - modern emacs static blog generator https://ghcr.io/jcouyang/orgpress
 - [basic-theme.el](https://github.com/fgeller/basic-theme.el) - Minimal color theme for Emacs using base16 colors.
 - [emacs-helm-tramp](https://github.com/masasam/emacs-helm-tramp) - Tramp helm interface for ssh and docker and ‎vagrant
 - [drupal-mode](https://github.com/arnested/drupal-mode) - Advanced Emacs minor mode for Drupal development
@@ -4314,7 +4315,7 @@
 - [beeep](https://github.com/gen2brain/beeep) - Go cross-platform library for sending desktop notifications, alerts and beeps
 - [cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
 - [pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
-- [gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
+- [gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
 - [glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
 - [goscan](https://github.com/marco-lancini/goscan) - Interactive Network Scanner
 - [go-structure-examples](https://github.com/katzien/go-structure-examples) - Examples for my talk on structuring go apps
@@ -5188,7 +5189,7 @@
 - [systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
-- [photoprism](https://github.com/photoprism/photoprism) - Privately hosted app for browsing, organizing, and sharing your photo collection. Say goodbye to uploading your visual memories to the cloud! 🌈
+- [photoprism](https://github.com/photoprism/photoprism) - Browse, organize, and share your photo collection. Privacy-friendly, simple to use & open-source! 🌈
 - [writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
 - [discord-cli](https://github.com/RickvanLoo/discord-cli) - Minimalistic Command-Line Interface for Discord
 - [gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
@@ -7152,6 +7153,7 @@
 
 ## Lua 
 
+- [monitoring](https://github.com/minetest-monitoring/monitoring) - Monitoring mod for minetest server owners
 - [github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, tmux, kitty, iTerm, Konsole, and Alacritty written in Lua
 - [LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
@@ -8821,7 +8823,7 @@
 ## PicoLisp 
 
 - [picolisp](https://github.com/picolisp/picolisp) - PicoLisp is an open source Lisp dialect. It runs on Linux and other POSIX-compliant systems. Its most prominent features are simplicity and minimalism.
-- [particle](https://github.com/Seteeri/particle) - PicoLisp env/userland
+- [particle](https://github.com/Seteeri/particle) - PicoLisp userland
 
 ## Pony 
 
@@ -8838,7 +8840,7 @@
 - [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
 - [tunic](https://github.com/mikeslattery/tunic) - Install Linux from a running Windows system, without need for a live USB.
 - [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
-- [packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Win10, Server 2016, 1709, 1803, 1809, 2019, 1903, 1909, 2004, Insider with Docker
+- [packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Windows 10, Windows Server 2022, 2016, 1709, 1803, 1809, 2019, 1903, 1909, 2004, Insider with Docker
 - [windows-docker-machine](https://github.com/StefanScherer/windows-docker-machine) - Work with Windows containers and LCOW on Mac/Linux/Windows
 - [ConPtyShell](https://github.com/antonioCoco/ConPtyShell) - ConPtyShell - Fully Interactive Reverse Shell for Windows
 - [Internal-Pentest-Playbook](https://github.com/sdcampbell/Internal-Pentest-Playbook) - Internal Network Penetration Test Playbook
@@ -8879,6 +8881,14 @@
 
 ## Python 
 
+- [mac-on-linux-with-qemu](https://github.com/arindas/mac-on-linux-with-qemu) - Runs macOS on linux with qemu.
+- [vscode-ext](https://github.com/CodeWithSwastik/vscode-ext) - Create VSCode Extensions with python
+- [cmdpxl](https://github.com/knosmos/cmdpxl) - totally practical command-line image editor
+- [SpotiByeAds](https://github.com/daspartho/SpotiByeAds) - Skip spotify ads by automatically restarting application when ad comes
+- [GANSketching](https://github.com/PeterWang512/GANSketching) - Sketch Your Own GAN: Customizing a GAN model with hand-drawn sketches.
+- [sqlite-s3-query](https://github.com/michalc/sqlite-s3-query) - Python function to query SQLite files stored on S3
+- [malicious-pdf](https://github.com/jonaslejon/malicious-pdf) - Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator
+- [Simple-Functional-Programming](https://github.com/KikyTokamuro/Simple-Functional-Programming) - Функциональное программирование простым языком + примеры
 - [node-exporter-textfile-collector-scripts](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts) - Scripts for node-exporter's textfile collector
 - [azote](https://github.com/nwg-piotr/azote) - Wallpaper and colour manager for Sway, i3 and some other WMs
 - [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
@@ -10611,6 +10621,7 @@
 
 ## Ruby 
 
+- [nakischema](https://github.com/Nakilon/nakischema) - The most compact yet powerful arbitrary nested objects validator. Especially handy to validate JSONs.
 - [fisk](https://github.com/tenderlove/fisk) - A pure Ruby assembler
 - [nginx](https://github.com/sous-chefs/nginx) - Development repository for the nginx cookbook
 - [kredis](https://github.com/rails/kredis) - Higher-level data structures built on Redis
@@ -11354,6 +11365,7 @@
 
 ## Scheme 
 
+- [fetch.scm](https://github.com/KikyTokamuro/fetch.scm) - System information fetcher written in GNU Guile Scheme
 - [guile-png](https://github.com/artyom-poptsov/guile-png) - Portable Network Graphics (PNG) format parser for GNU Guile.
 - [guix-installer](https://github.com/SystemCrafters/guix-installer) - A GNU Guix installer image with the full Linux kernel!
 - [guile-raw-strings](https://github.com/lloda/guile-raw-strings) - A Guile reader extension for ‘raw strings’
