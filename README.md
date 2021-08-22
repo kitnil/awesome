@@ -4315,7 +4315,7 @@
 - [beeep](https://github.com/gen2brain/beeep) - Go cross-platform library for sending desktop notifications, alerts and beeps
 - [cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
 - [pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
-- [gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
+- [gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
 - [glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
 - [goscan](https://github.com/marco-lancini/goscan) - Interactive Network Scanner
 - [go-structure-examples](https://github.com/katzien/go-structure-examples) - Examples for my talk on structuring go apps
@@ -7049,6 +7049,7 @@
 
 ## Kotlin 
 
+- [ruler](https://github.com/spotify/ruler) - Gradle plugin which helps you analyze the size of your Android apps.
 - [android-apk-size-watcher-plugin](https://github.com/jenkinsci/android-apk-size-watcher-plugin) - 
 - [eskotlin](https://github.com/mbuhot/eskotlin) - Elasticsearch Query DSL for Kotlin
 - [kotlin-android-template](https://github.com/cortinico/kotlin-android-template) - Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️
@@ -7153,6 +7154,7 @@
 
 ## Lua 
 
+- [Game-Server-Configs](https://github.com/GameServerManagers/Game-Server-Configs) - A repo of game server configuration files used by LinuxGSM
 - [monitoring](https://github.com/minetest-monitoring/monitoring) - Monitoring mod for minetest server owners
 - [github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, tmux, kitty, iTerm, Konsole, and Alacritty written in Lua
 - [LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
@@ -8960,7 +8962,7 @@
 - [wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
 - [chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes.
 - [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
-- [drawing](https://github.com/maoschanz/drawing) - Simple image editor for the Linux desktop(s)
+- [drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
 - [khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
 - [Reddit-Stock-Trends](https://github.com/iam-abbas/Reddit-Stock-Trends) - Fetch currently trending stocks on Reddit
 - [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
