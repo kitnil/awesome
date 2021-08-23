@@ -446,7 +446,7 @@
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Terminal based bit manipulator in ncurses
-- [bcal](https://github.com/jarun/bcal) - :1234: A calculator for bits, bytes and addresses
+- [bcal](https://github.com/jarun/bcal) - :1234: Bits, bytes and address calculator
 - [ipdecap](https://github.com/lpefferkorn/ipdecap) - Decapsulate traffic encapsulated within GRE, IPIP, 6in4, ESP (ipsec) protocols, can also remove IEEE 802.1Q (virtual lan) header. Works with pcap files.
 - [wrk2](https://github.com/yicwang/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [solaris-userland](https://github.com/oracle/solaris-userland) - Open Source software in Solaris using gmake based build system to drive building various software components.
@@ -1122,6 +1122,8 @@
 
 ## C++ 
 
+- [azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
+- [cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [Twini-Golf](https://github.com/PolyMarsDev/Twini-Golf) - A (broken) SDL2 game made in 48 hours
 - [orbiter](https://github.com/orbitersim/orbiter) - Open-source repository of Orbiter Space Flight Simulator
 - [libnixstore-c](https://github.com/andir/libnixstore-c) - a brutal attempt at making C bindings for Nix
@@ -4063,6 +4065,7 @@
 
 ## Go 
 
+- [agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [unixtransport](https://github.com/peterbourgon/unixtransport) - Support for Unix domain sockets in Go HTTP clients
 - [pqssh](https://github.com/mattn/pqssh) - 
@@ -4100,7 +4103,7 @@
 - [adbtuifm](https://github.com/darkhz/adbtuifm) - A TUI File Manager for ADB
 - [sci-hub-p2p](https://github.com/sci-hub-p2p/sci-hub-p2p) - fetch and serve papers in p2p network
 - [reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
-- [discordo](https://github.com/rigormorrtiss/discordo) - A lightweight and feature-rich terminal-based Discord client
+- [discordo](https://github.com/rigormorrtiss/discordo) - Discordo is a lightweight, secure, and feature-rich Discord terminal client.
 - [damon](https://github.com/hashicorp/damon) - A terminal UI (TUI) for HashiCorp Nomad
 - [gophers](https://github.com/nlepage/gophers) - Some gophers 🐻
 - [apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
@@ -5109,7 +5112,7 @@
 - [dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
 - [slackcat](https://github.com/bcicen/slackcat) - CLI utility to post files and command output to slack
 - [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
-- [survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive prompts with full support for windows and posix terminals.
+- [survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 - [cli](https://github.com/docker/cli) - The Docker CLI
 - [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines
@@ -6100,6 +6103,7 @@
 
 ## JavaScript 
 
+- [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
 - [vaultPass](https://github.com/mulbc/vaultPass) - A Chrome extension to leverage Hashicorp Vault as Credential Storage for teams
 - [mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [nijs](https://github.com/svanderburg/nijs) - NiJS: An internal DSL for Nix in JavaScript
@@ -6326,7 +6330,7 @@
 - [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
 - [wssh](https://github.com/aluzzardi/wssh) - SSH to WebSockets Bridge
-- [luna](https://github.com/jumpserver/luna) - Angular4 project for web terminal
+- [luna](https://github.com/jumpserver/luna) - Luna 是 JumpServer Web Terminal 前端项目
 - [youtube-timestamps-to-playlist](https://github.com/hagabaka/youtube-timestamps-to-playlist) - Chrome and Firefox extension which creates a playlist from time tags on a YouTube page
 - [ContainersExportImport](https://github.com/BillDietrich/ContainersExportImport) - Firefox Containers settings export and import
 - [sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
@@ -11755,7 +11759,7 @@
 - [mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [org-el-cache](https://github.com/l3kn/org-el-cache) - Persistent cache for data derived from org-elements
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
-- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Author @ken-reitz]
+- [autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments. [Author @ken-reitz]
 - [monkeysphere](https://github.com/dkg/monkeysphere) - use the OpenPGP web of trust to verify ssh connections
 - [JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash
