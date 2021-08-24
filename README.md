@@ -429,7 +429,7 @@
 - [basque](https://github.com/ryanpcmcquen/basque) - A top-down 2d game engine, written from scratch in under 1000 lines of C. Development of the game based on this engine is streamed on Twitch: https://www.twitch.tv/ryanpcmcquen
 - [quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
 - [quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable adaptive merge sort which is faster than quicksort.
-- [DungeonRush](https://github.com/Rapiz1/DungeonRush) - 👾🐍 A opensource game inspired by Snake, written in pure C with SDL
+- [DungeonRush](https://github.com/rapiz1/DungeonRush) - 👾🐍 A opensource game inspired by Snake, written in pure C with SDL
 - [pelagia](https://github.com/surparallel/pelagia) - Automatic parallelization (lock-free multithreading thread) tool developed by Surparallel Open Source.Pelagia is embedded key value database that implements a small, fast, high-reliability on ANSI C.
 - [hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
 - [loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
@@ -4103,7 +4103,7 @@
 - [adbtuifm](https://github.com/darkhz/adbtuifm) - A TUI File Manager for ADB
 - [sci-hub-p2p](https://github.com/sci-hub-p2p/sci-hub-p2p) - fetch and serve papers in p2p network
 - [reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
-- [discordo](https://github.com/rigormorrtiss/discordo) - Discordo is a lightweight, secure, and feature-rich Discord terminal client.
+- [discordo](https://github.com/rigormorrtiss/discordo) - [Work-In-Progress] Discordo is a lightweight, secure, and feature-rich Discord terminal client.
 - [damon](https://github.com/hashicorp/damon) - A terminal UI (TUI) for HashiCorp Nomad
 - [gophers](https://github.com/nlepage/gophers) - Some gophers 🐻
 - [apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
@@ -4240,7 +4240,7 @@
 - [slick](https://github.com/pcostanza/slick) - The Slick programming language is an s-expression surface syntax for Go.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [wprecon](https://github.com/blackbinn/wprecon) - The official wprecon repository
-- [mosdns](https://github.com/IrineSistiana/mosdns) - DNS 路由/过滤/转发器。
+- [mosdns](https://github.com/IrineSistiana/mosdns) - DNS 转发器。
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
@@ -5453,7 +5453,6 @@
 - [Cookbook](https://github.com/DevDungeon/Cookbook) - Code snippets for various programming languages and libraries
 - [webperl](https://github.com/haukex/webperl) - Run Perl in the browser with WebPerl!
 - [computefreely](https://github.com/snwh/computefreely) - The source of Compute Freely website
-- [ansible-role-kibana](https://github.com/geerlingguy/ansible-role-kibana) - Ansible Role - Kibana
 - [modular-admin-html](https://github.com/modularcode/modular-admin-html) - ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version
 - [html](https://github.com/whatwg/html) - HTML Standard
 - [nginx-rate-limit-sandbox](https://github.com/sportebois/nginx-rate-limit-sandbox) - Docker image with various NGINX rate limit settings to play with burst and nodelay settings
@@ -5470,7 +5469,6 @@
 - [renpyweb](https://github.com/renpy/renpyweb) - Ren'Py in your HTML5 web browser
 - [python-goose](https://github.com/grangier/python-goose) - Html Content / Article Extractor, web scrapping lib in Python
 - [railsgirls.github.io](https://github.com/railsgirls/railsgirls.github.io) - Rails Girls Guides
-- [ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [EverOrg](https://github.com/aladine/EverOrg) - Evernote to Org mode migration tool
 - [jsonpath-online-evaluator](https://github.com/ashphy/jsonpath-online-evaluator) - JSONPath Online Evaluator
@@ -5801,6 +5799,7 @@
 
 ## Java 
 
+- [sonar-scanner-jenkins](https://github.com/SonarSource/sonar-scanner-jenkins) - SonarQube Scanner for Jenkins
 - [prometheus-plugin](https://github.com/jenkinsci/prometheus-plugin) - Jenkins Prometheus Plugin
 - [rabbitmq-consumer-plugin](https://github.com/jenkinsci/rabbitmq-consumer-plugin) - This is Jenkins plugin to connect RabbitMQ then consume messages in queue.
 - [inodes-monitor-plugin](https://github.com/jenkinsci/inodes-monitor-plugin) - 
@@ -6946,10 +6945,12 @@
 - [ansible-role-hardening](https://github.com/konstruktoid/ansible-role-hardening) - Ansible role to apply a security baseline. Systemd edition.
 - [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+- [ansible-role-kibana](https://github.com/geerlingguy/ansible-role-kibana) - Ansible Role - Kibana
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
+- [ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [ansible-role-postgresql](https://github.com/geerlingguy/ansible-role-postgresql) - Ansible Role - PostgreSQL
 - [ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [fedora-ansible](https://github.com/fabaff/fedora-ansible) - Ansible playbooks for Fedora
@@ -7189,6 +7190,7 @@
 - [tmux-filetree](https://github.com/PhilipRoman/tmux-filetree) - Simple, non-intrusive dynamic file tree which always tracks your active Tmux pane
 - [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [mpv-notify-send](https://github.com/emilazy/mpv-notify-send) - A Lua script for mpv to send notifications with notify-send(1).
+- [simple-mpv-webui](https://github.com/open-dynaMIX/simple-mpv-webui) - A web based user interface with controls for the mpv mediaplayer.
 - [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
 - [nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
@@ -8415,7 +8417,7 @@
 - [Cheatsheets](https://github.com/slyth11907/Cheatsheets) - Helped during my OSCP lab days.
 - [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [awesome-aws-alternatives](https://github.com/ro31337/awesome-aws-alternatives) - Awesome AWS alternatives/replacements
-- [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) - Block lists to prevent JavaScript miners
 - [elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
@@ -9169,7 +9171,6 @@
 - [next_word_prediction](https://github.com/renatoviolin/next_word_prediction) - Using transformers to predict next word and predict &lt;mask&gt; word
 - [detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
 - [sexpdata](https://github.com/jd-boyd/sexpdata) - S-expression parser for Python
-- [simple-mpv-webui](https://github.com/open-dynaMIX/simple-mpv-webui) - A web based user interface with controls for the mpv mediaplayer.
 - [interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
 - [napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
 - [steam](https://github.com/ValvePython/steam) - ☁️ Python package for interacting with Steam
@@ -9838,7 +9839,7 @@
 - [ratpoison_scripts](https://github.com/jbaber/ratpoison_scripts) - A (the) collection of scripts for the Ratpoison window manager.
 - [emacs-keys-everywhere](https://github.com/rahiel/emacs-keys-everywhere) - Enable Emacs key bindings on the desktop.
 - [xkeysnail](https://github.com/mooz/xkeysnail) - Yet another keyboard remapping tool for X environment
-- [Limnoria](https://github.com/ProgVal/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
+- [Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
 - [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python
 - [ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
 - [autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
@@ -10856,7 +10857,7 @@
 - [hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff
 - [rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
-- [rustcat](https://github.com/robiot/rustcat) - ⚙️ Modern Netcat Alternative
+- [rustcat](https://github.com/robiot/rustcat) - ⚙️ Modern Port Listener  & Reverse Shell
 - [awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [todo_r](https://github.com/lavifb/todo_r) - Find all your TODO notes with one command!
 - [morse2sound](https://github.com/irevenko/morse2sound) - 📜🔁🎶 A CLI which converts morse code into sound
