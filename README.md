@@ -1127,7 +1127,7 @@
 - [Twini-Golf](https://github.com/PolyMarsDev/Twini-Golf) - A (broken) SDL2 game made in 48 hours
 - [orbiter](https://github.com/orbitersim/orbiter) - Open-source repository of Orbiter Space Flight Simulator
 - [libnixstore-c](https://github.com/andir/libnixstore-c) - a brutal attempt at making C bindings for Nix
-- [hydra-eval-jobs](https://github.com/Mic92/hydra-eval-jobs) - Eval nix expressions from flakes (extracted from hydra)
+- [nix-eval-jobs](https://github.com/nix-community/nix-eval-jobs) - Eval nix expressions from flakes (extracted from hydra) [maintainers @Mic92, @adisbladis]
 - [pythonix](https://github.com/Mic92/pythonix) - Eval nix code from python
 - [HiveNightmare](https://github.com/GossiTheDog/HiveNightmare) - Exploit allowing you to read registry hives as non-admin on Windows 10 and 11
 - [termbench](https://github.com/cmuratori/termbench) - Simple benchmark for terminal output
@@ -1726,7 +1726,6 @@
 - [emacs-bootstrap](https://github.com/editor-bootstrap/emacs-bootstrap) - Your on-the-fly Emacs development environment.
 - [literate-programming-examples](https://github.com/limist/literate-programming-examples) - A collection of literate programming examples using Emacs Org mode; these examples are directly usable (copy and start hacking), and/or can serve as educational literate programs.  Clojure will be the preferred language.
 - [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme now lives on at https://github.com/chriskempson/base16
-- [gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 - [flymd](https://github.com/mola-T/flymd) - flymd - Emacs on the fly markdown preview
 - [planet.emacsen.org](https://github.com/hober/planet.emacsen.org) - Planet Emacsen: People living with the extensible, self-documenting text editor.
 - [arc-firefox-theme](https://github.com/horst3180/arc-firefox-theme) - Arc Firefox Theme
@@ -3946,7 +3945,7 @@
 - [org-reveal](https://github.com/yjwen/org-reveal) - Exports Org-mode contents to Reveal.js HTML presentation.
 - [ox-gfm](https://github.com/larstvei/ox-gfm) - Github Flavored Markdown Back-End for Org Export Engine
 - [ox-twbs](https://github.com/marsmining/ox-twbs) - Export org-mode docs as HTML compatible with Twitter Bootstrap.
-- [org-preview-html](https://github.com/lujun9972/org-preview-html) - automatically use eww to preview current org-file when save
+- [org-preview-html](https://github.com/jakebox/org-preview-html) - automatically use eww to preview current org-file when save
 - [omnisharp-emacs](https://github.com/OmniSharp/omnisharp-emacs) - Troll coworkers - use Emacs at work for csharp!
 - [emamux](https://github.com/emacsorphanage/emamux) - tmux manipulation from Emacs
 - [emacs-gitlab](https://github.com/nlamirault/emacs-gitlab) - A Gitlab client for Emacs
@@ -5799,6 +5798,7 @@
 
 ## Java 
 
+- [EnvFile](https://github.com/ashald/EnvFile) - EnvFile 3.0 is a plugin for JetBrains IDEs that allows you to set environment variables for your run configurations from one or multiple files.
 - [sonar-scanner-jenkins](https://github.com/SonarSource/sonar-scanner-jenkins) - SonarQube Scanner for Jenkins
 - [prometheus-plugin](https://github.com/jenkinsci/prometheus-plugin) - Jenkins Prometheus Plugin
 - [rabbitmq-consumer-plugin](https://github.com/jenkinsci/rabbitmq-consumer-plugin) - This is Jenkins plugin to connect RabbitMQ then consume messages in queue.
@@ -7151,6 +7151,7 @@
 - [docs.influxdata.com-ARCHIVE](https://github.com/influxdata/docs.influxdata.com-ARCHIVE) - ARCHIVE - 1.x docs for InfluxData
 - [nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com) - haxeflixel.com docpad source
+- [gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 
 ## LiveScript 
 
@@ -8413,7 +8414,7 @@
 - [emacsism](https://github.com/ChillarAnand/emacsism) - A glimpse of divine editing experience with emacs!
 - [org-mode-workshop](https://github.com/novoid/org-mode-workshop) - Workshop for Org-mode with focus on todo-, project- and workflow-management
 - [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor) - The convertor/conversion of deep learning models for different deep learning frameworks/softwares.
-- [pwk-cheatsheet](https://github.com/appsechero/pwk-cheatsheet) - Penetration Testing with Kali Linux (PWK) course and Offensive Security Certified Professional (OSCP) Cheat Sheet
+- [pwk-cheatsheet](https://github.com/sergey-pronin/pwk-cheatsheet) - Penetration Testing with Kali Linux (PWK) course and Offensive Security Certified Professional (OSCP) Cheat Sheet
 - [Cheatsheets](https://github.com/slyth11907/Cheatsheets) - Helped during my OSCP lab days.
 - [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [awesome-aws-alternatives](https://github.com/ro31337/awesome-aws-alternatives) - Awesome AWS alternatives/replacements
@@ -8889,6 +8890,7 @@
 
 ## Python 
 
+- [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [mac-on-linux-with-qemu](https://github.com/arindas/mac-on-linux-with-qemu) - Runs macOS on linux with qemu.
 - [vscode-ext](https://github.com/CodeWithSwastik/vscode-ext) - Create VSCode Extensions with python
 - [cmdpxl](https://github.com/knosmos/cmdpxl) - totally practical command-line image editor
@@ -10688,7 +10690,7 @@
 - [nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@zimbatm]
 - [redcmd](https://github.com/textgoeshere/redcmd) - Command line control over Redmine issue tracking system
 - [terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
-- [json-schema](https://github.com/ruby-json-schema/json-schema) - Ruby JSON Schema Validator
+- [json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator
 - [redmine-cli](https://github.com/diasjorge/redmine-cli) - Redmine Command Line Interface
 - [redmine-slack](https://github.com/sciyoshi/redmine-slack) - Slack notification plugin for Redmine
 - [fake-s3](https://github.com/jubos/fake-s3) - A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies
@@ -11359,6 +11361,7 @@
 - [coursier](https://github.com/coursier/coursier) - Pure Scala Artifact Fetching
 - [diffy](https://github.com/opendiffy/diffy) - 
 - [intellij-haskell](https://github.com/rikvdkleij/intellij-haskell) - IntelliJ plugin for Haskell
+- [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [metals](https://github.com/scalameta/metals) - Scala language server with rich IDE features 🚀
 - [enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [abandon](https://github.com/hrj/abandon) - :relieved: Simple and Robust Accounting
@@ -11466,6 +11469,7 @@
 
 ## Shell 
 
+- [vault-guides](https://github.com/hashicorp/vault-guides) - Example usage of HashiCorp Vault secrets management
 - [pdfcrack](https://github.com/machine1337/pdfcrack) - An Advanced tool to Crack Any Password Protected PDF file. A very user friendly script especially for noob hackers.
 - [kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
 - [calendar-notification](https://github.com/chebro/calendar-notification) - calendar notification for linux desktops using dunst
@@ -12489,7 +12493,6 @@
 - [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from "terraform plan" and converting it to JSON.
 - [deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
-- [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for Yaml Files
 - [dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
