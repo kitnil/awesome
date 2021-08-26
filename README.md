@@ -5191,7 +5191,7 @@
 - [systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
-- [photoprism](https://github.com/photoprism/photoprism) - Browse, organize, and share your photo collection. Privacy-friendly, simple to use & open-source! 🌈
+- [photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management. Powered by Go and Google TensorFlow! 🌈
 - [writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
 - [discord-cli](https://github.com/RickvanLoo/discord-cli) - Minimalistic Command-Line Interface for Discord
 - [gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
@@ -5798,6 +5798,7 @@
 
 ## Java 
 
+- [junit-plugin](https://github.com/jenkinsci/junit-plugin) - Allows JUnit-format test results to be published
 - [EnvFile](https://github.com/ashald/EnvFile) - EnvFile 3.0 is a plugin for JetBrains IDEs that allows you to set environment variables for your run configurations from one or multiple files.
 - [sonar-scanner-jenkins](https://github.com/SonarSource/sonar-scanner-jenkins) - SonarQube Scanner for Jenkins
 - [prometheus-plugin](https://github.com/jenkinsci/prometheus-plugin) - Jenkins Prometheus Plugin
@@ -6169,7 +6170,6 @@
 - [Git-User-Switch](https://github.com/geongeorge/Git-User-Switch) - Switch git user and email at ease
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [funnel-graph-js](https://github.com/greghub/funnel-graph-js) - SVG Funnel Graph Javascript Library
-- [chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [express-rate-limit](https://github.com/nfriedly/express-rate-limit) - Basic rate-limiting middleware for express
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects, and FAQ for my Complete JavaScript course
@@ -6416,7 +6416,7 @@
 - [pickr](https://github.com/Simonwep/pickr) - 🎨 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!
 - [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
 - [nnnotifier](https://github.com/Rob--W/nnnotifier) - Firefox addon that disables native desktop notifications in favor of XUL-based notifications.
-- [Twitch-Streams-Extension](https://github.com/nir94/Twitch-Streams-Extension) - Firefox extension to show active twitch streams using new api (WebExtensions)
+- [Twitch-Streams-Extension](https://github.com/blueport8/Twitch-Streams-Extension) - Firefox extension to show active twitch streams using new api (WebExtensions)
 - [yet-another-jenkins-notifier](https://github.com/ggirou/yet-another-jenkins-notifier) - This extension monitors Jenkins jobs and notifies you of build results.
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
@@ -6723,7 +6723,7 @@
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket :iphone:
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [https-everywhere](https://github.com/EFForg/https-everywhere) - A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
 - [badgeyay](https://github.com/fossasia/badgeyay) - Attendee Badge Generator for Conferences http://badgeyay.com Backend: http://badgeyay-dev.herokuapp.com
 - [livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
@@ -12407,6 +12407,7 @@
 - [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [Dockter](https://github.com/oslabs-beta/Dockter) - A low-overhead, open-source Docker log management tool
+- [chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
@@ -12586,7 +12587,7 @@
 
 - [cawbird](https://github.com/IBBoard/cawbird) - A fork of the Corebird GTK Twitter client that continues to work with Twitter
 - [switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad) - Switchboard Mouse & Touchpad Plug
-- [gala](https://github.com/elementary/gala) - Gala Window Manager
+- [gala](https://github.com/elementary/gala) - Gala Window Manager for elementary OS and Pantheon
 - [core](https://github.com/midori-browser/core) - Midori Web Browser - a lightweight, fast and free web browser using WebKit and GTK+
 - [xi-gtk](https://github.com/eyelash/xi-gtk) - a GTK front-end for the Xi editor
 - [dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK+/Vala
