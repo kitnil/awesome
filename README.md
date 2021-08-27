@@ -1122,6 +1122,7 @@
 
 ## C++ 
 
+- [spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
 - [azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [Twini-Golf](https://github.com/PolyMarsDev/Twini-Golf) - A (broken) SDL2 game made in 48 hours
@@ -1755,6 +1756,7 @@
 
 ## Clojure 
 
+- [nbb](https://github.com/borkdude/nbb) - Ad-hoc CLJS scripting on Node.js.
 - [matcher-combinators](https://github.com/nubank/matcher-combinators) - Library for creating matcher combinator to compare nested data structures
 - [jme-clj](https://github.com/ertugrulcetin/jme-clj) - A Clojure 3D Game Engine (Wrapper), Powered by jMonkeyEngine
 - [rewrite-clj](https://github.com/clj-commons/rewrite-clj) - Rewrite Clojure Code and EDN!
@@ -1850,6 +1852,8 @@
 
 ## Common Lisp 
 
+- [jzon](https://github.com/Zulu-Inuoe/jzon) - A correct and safe JSON parser.
+- [screenshotbot-oss](https://github.com/screenshotbot/screenshotbot-oss) - Screenshotbot is a Screenshot Testing service. This code powers https://screenshotbot.io
 - [djula](https://github.com/mmontone/djula) - Common Lisp port of the Django templating language
 - [nyxt-init](https://github.com/franburstall/nyxt-init) - My init files for the nyxt browser
 - [LISP](https://github.com/OpenProgger/LISP) - Minimal LISP Compiler for x86_64
@@ -2100,6 +2104,7 @@
 
 ## Dhall 
 
+- [package-sets](https://github.com/purescript/package-sets) - PureScript packages for Spago and Psc-Package
 - [dhall-terraform](https://github.com/mujx/dhall-terraform) - Generate dhall records from terraform resouces, data_sources & providers
 - [github-actions-dhall](https://github.com/regadas/github-actions-dhall) - Typecheck, template and modularize your Github Action definitions with Dhall
 - [dhall-nethack](https://github.com/dhall-lang/dhall-nethack) - Generate NetHack configurations using Dhall
@@ -2223,6 +2228,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-inspector](https://github.com/mmontone/emacs-inspector) - Inspection tool for Emacs Lisp objects.
 - [amethyst](https://github.com/ashton314/amethyst) - An elegant Emacs setup optimized for non-technical writers
 - [dogears.el](https://github.com/alphapapa/dogears.el) - Never lose your place in Emacs again
 - [Fundamental-Haskell](https://github.com/Anton-Latukha/Fundamental-Haskell) - Fundamental Haskell book, to the point terse statements on Haskell, Category theory, and related fields. Encyclopedic pocketbook of meaning. Zen kōan-like meditations of understanding. For quick or memory curve spaced repetition learning.
@@ -4093,7 +4099,6 @@
 - [gotator](https://github.com/Josue87/gotator) - Gotator is a tool to generate DNS wordlists through permutations.
 - [redisql](https://github.com/DGKSK8LIFE/redisql) - MySQL to Redis caching made easy
 - [tstream](https://github.com/qnkhuat/tstream) - Live streaming from your terminal
-- [rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [nocolor](https://github.com/VKCOM/nocolor) - Validate the architecture of your PHP project based on the concept of function colors
 - [steampipe-plugin-virustotal](https://github.com/turbot/steampipe-plugin-virustotal) - Use SQL to instantly query file, domain, URL and IP scanning results from VirusTotal.
 - [nuke](https://github.com/gleich/nuke) - ☢️ Force quit all applications with one terminal command in macOS and Linux
@@ -5798,6 +5803,7 @@
 
 ## Java 
 
+- [plugin-installation-manager-tool](https://github.com/jenkinsci/plugin-installation-manager-tool) - Plugin Manager CLI tool for Jenkins
 - [junit-plugin](https://github.com/jenkinsci/junit-plugin) - Allows JUnit-format test results to be published
 - [EnvFile](https://github.com/ashald/EnvFile) - EnvFile 3.0 is a plugin for JetBrains IDEs that allows you to set environment variables for your run configurations from one or multiple files.
 - [sonar-scanner-jenkins](https://github.com/SonarSource/sonar-scanner-jenkins) - SonarQube Scanner for Jenkins
@@ -6109,7 +6115,7 @@
 - [nijs](https://github.com/svanderburg/nijs) - NiJS: An internal DSL for Nix in JavaScript
 - [discord-voice-recorder](https://github.com/chebro/discord-voice-recorder) - A nifty script that can pipe out audio from a discord voice channel to your local storage. A discord voice recorder!
 - [vmd](https://github.com/yoshuawuyts/vmd) - :pray: preview markdown files
-- [nebulus](https://github.com/skogard/nebulus) - Virtual IPFS
+- [nebulus](https://github.com/rarepress/nebulus) - Virtual IPFS
 - [bunken](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
 - [htmleditor](https://github.com/mrdoob/htmleditor) - Simple editor for messing around.
 - [glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
@@ -6140,7 +6146,7 @@
 - [next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个轻量级堡垒机系统，易安装，易使用，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 - [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
-- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +900 social media \ websites (Detections are updated regularly)
 - [papers-with-video](https://github.com/amitness/papers-with-video) - A browser extension that adds video explanations to research papers on arxiv.org
 - [github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
@@ -6409,7 +6415,7 @@
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
-- [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
 - [fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
@@ -6815,7 +6821,7 @@
 - [gnome-shell-extension-stealmyfocus](https://github.com/v-dimitrov/gnome-shell-extension-stealmyfocus) - Shell Extension that let window that demand attention to steal focus
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
 - [gnome-shell-extension-redshift](https://github.com/benzea/gnome-shell-extension-redshift) - DO NOT USE; GNOME NOW INCLUDES THE FEATURE ALREADY! – A redshift extension for gnome-shell – Obsolete with GNOME 3.26! Use the buildin nightlight feature instead!
-- [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
+- [Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Youtube 字幕下载，Download Youtube Subtitles (Work best on Chrome + Tampermonkey)  2020-10-7 更新：支持中英双语字幕下载，请在页面底部提供的另一个链接进行安装
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
@@ -8905,7 +8911,7 @@
 - [pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
-- [mvt](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices
+- [mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [Keylogger](https://github.com/aydinnyunus/Keylogger) - Get Keyboard,Mouse,ScreenShot,Microphone Inputs from Target Computer and Send to your Mail.
 - [CogView](https://github.com/THUDM/CogView) - Text-to-Image generation
 - [Reddit-User-Media-Downloader-Public](https://github.com/MonkeyMaster64/Reddit-User-Media-Downloader-Public) - 
@@ -8917,7 +8923,6 @@
 - [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
 - [mongita](https://github.com/scottrogowski/mongita) - "Mongita is to MongoDB as SQLite is to SQL"
-- [Profil3r](https://github.com/Rog3rSm1th/Profil3r) - OSINT tool that allows you to find a person's accounts and emails + breached emails 🕵️
 - [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration.
 - [tfquery](https://github.com/mazen160/tfquery) - tfquery: Run SQL queries on your Terraform infrastructure.  Query resources and analyze its configuration using a SQL-powered framework.
 - [zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
@@ -9500,7 +9505,7 @@
 - [porthole-python-client](https://github.com/jcaw/porthole-python-client) - 🔭 Python client for Emacs Porthole. An easy way to make RPC calls to Emacs.
 - [slack-cli](https://github.com/regisb/slack-cli) - Slack CLI for productive developers
 - [graphviz](https://github.com/xflr6/graphviz) - Simple Python interface for Graphviz
-- [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations. Python Infrastructure as Code (IaC) for Cisco IOS (and other vendors).
+- [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
 - [json-graph-specification](https://github.com/jsongraph/json-graph-specification) - A proposal for representing graph structure (nodes / edges) in JSON.
 - [py-amqp](https://github.com/celery/py-amqp) - amqplib fork
 - [cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
@@ -10828,6 +10833,7 @@
 
 ## Rust 
 
+- [flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
 - [jiu](https://github.com/Xetera/jiu) - 🕵️ Detect new images and video on social media feeds and dispatch webhooks on updates
 - [request_smuggler](https://github.com/Sh1Yo/request_smuggler) - Http request smuggling vulnerability scanner
 - [git-stack](https://github.com/epage/git-stack) - Stacked branch management for Git
@@ -11375,6 +11381,7 @@
 
 ## Scheme 
 
+- [lispy](https://github.com/fluentpython/lispy) - Learning with Peter Norvig's lis.py interpreter
 - [fetch.scm](https://github.com/KikyTokamuro/fetch.scm) - System information fetcher written in GNU Guile Scheme
 - [guile-png](https://github.com/artyom-poptsov/guile-png) - Portable Network Graphics (PNG) format parser for GNU Guile.
 - [guix-installer](https://github.com/SystemCrafters/guix-installer) - A GNU Guix installer image with the full Linux kernel!
@@ -12675,6 +12682,7 @@
 
 ## Vue 
 
+- [rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io) - 📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 - [ultrawidify](https://github.com/tamius-han/ultrawidify) - Firefox extension that allows you to work around some people's inability to properly encode 21:9 videos.
