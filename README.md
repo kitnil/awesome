@@ -3293,6 +3293,7 @@
 - [ert-runner.el](https://github.com/rejeep/ert-runner.el) - Opinionated Ert testing workflow
 - [nodejs-repl.el](https://github.com/abicky/nodejs-repl.el) - Run Node.js REPL and communicate with the process
 - [omni-kill.el](https://github.com/AdrieanKhisbe/omni-kill.el) - ⚔️ M-x kill-all-the-thing ☠️
+- [omni-kill.el](https://github.com/AdrieanKhisbe/omni-kill.el) - ⚔️ M-x kill-all-the-thing ☠️
 - [magit-svn](https://github.com/emacsorphanage/magit-svn) - Git-Svn extension for Magit
 - [clj-refactor.el](https://github.com/clojure-emacs/clj-refactor.el) - A collection of Clojure refactoring functions for Emacs
 - [clippy.el](https://github.com/Fuco1/clippy.el) - Show tooltip with function documentation at point
@@ -4070,6 +4071,8 @@
 
 ## Go 
 
+- [gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
+- [git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs
 - [agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [unixtransport](https://github.com/peterbourgon/unixtransport) - Support for Unix domain sockets in Go HTTP clients
@@ -4244,7 +4247,7 @@
 - [slick](https://github.com/pcostanza/slick) - The Slick programming language is an s-expression surface syntax for Go.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [wprecon](https://github.com/blackbinn/wprecon) - The official wprecon repository
-- [mosdns](https://github.com/IrineSistiana/mosdns) - DNS 转发器。
+- [mosdns](https://github.com/IrineSistiana/mosdns) - 一个可高度自定义的 DNS 转发器。
 - [fortiscan](https://github.com/anasbousselham/fortiscan) - A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
 - [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
@@ -4861,7 +4864,7 @@
 - [terraform-provider-template](https://github.com/hashicorp/terraform-provider-template) - Terraform template provider
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
-- [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
+- [nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager
 - [terraform-provider-null](https://github.com/hashicorp/terraform-provider-null) - Provides constructs that intentionally do nothing, useful in various situations to help orchestrate tricky behavior or work around limitations. This provider is maintained by the HashiCorp Terraform Team.
 - [go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert go test output to junit xml
 - [slipscheme](https://github.com/coryb/slipscheme) - Json Schema to Go Struct conversion tool
@@ -6953,7 +6956,7 @@
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [ansible-role-kibana](https://github.com/geerlingguy/ansible-role-kibana) - Ansible Role - Kibana
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
-- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
+- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
 - [ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
@@ -7166,6 +7169,16 @@
 
 ## Lua 
 
+- [UnityMMO](https://github.com/liuhaopen/UnityMMO) - an unity mmo demo, base on ecs(game play), xlua(ui)
+- [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserialization Using Components with Known Vulnerabilities Insufficient Logging & Monitoring Drupal WordPress Joomla Flash Magento PHP Plone WHMCS Atlassian Products malicious traffic Adult video script avs KVS Kernel Video Sharing Clip Bucket Tube sites Content Management Systems Social networks scripts backends proxy proxies PHP Python Porn sites xxx adult gaming networks servers sites forums vbulletin phpbb mybb smf simple machines forum xenforo web hosting video streaming buffering ldap upstream downstream download upload rtmp vod video over dl hls dash hds mss livestream drm mp4 mp3 swf css js html php python sex m3u zip rar archive compressed mitigation code source sourcecode chan 4chan 4chan.org 8chan.net 8ch 8ch.net infinite chan 8kun 8kun.net anonymous anon tor services .onion torproject.org nginx.org nginx.com openresty.org darknet dark net deepweb deep web darkweb dark web mirror vpn reddit reddit.com adobe flash hackthissite.org dreamhack hack hacked hacking hacker hackers hackerz hackz hacks code coding script scripting scripter source leaks leaked leaking cve vulnerability great firewall china america japan russia .gov government http1 http2 http3 quic q3 litespeedtech litespeed apache torrents torrent torrenting webtorrent bittorrent bitorrent bit-torrent cyberlocker cyberlockers cyber locker cyberbunker warez keygen key generator free irc internet relay chat peer-to-peer p2p cryptocurrency crypto bitcoin miner browser xmr monero coinhive coin hive coin-hive litecoin ethereum cpu cycles popads pop-ads advert advertisement networks banner ads protect ovh blazingfast.io amazon steampowered valve store.steampowered.com steamcommunity thepiratebay lulzsec antisec xhamster pornhub porn.com pornhub.com xhamster.com xvideos xvdideos.com xnxx xnxx.com popads popcash cpm ppc
+- [conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
+- [apioak](https://github.com/apioak/apioak) - Full Lifecycle Management API Gateway.
+- [PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) - Offline build planner for Path of Exile.
+- [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
+- [SNKRX](https://github.com/a327ex/SNKRX) - A replayable arcade shooter where you control a snake of heroes.
+- [packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
+- [neorg](https://github.com/vhyrro/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
+- [NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
 - [Game-Server-Configs](https://github.com/GameServerManagers/Game-Server-Configs) - A repo of game server configuration files used by LinuxGSM
 - [monitoring](https://github.com/minetest-monitoring/monitoring) - Monitoring mod for minetest server owners
 - [github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, tmux, kitty, iTerm, Konsole, and Alacritty written in Lua
@@ -7333,7 +7346,7 @@
 - [nixos-snaphook](https://github.com/mikroskeem/nixos-snaphook) - Take system snapshot before rebuilding & switching NixOS installation to a new configuration
 - [jedi-language-server-env](https://github.com/dmvianna/jedi-language-server-env) - a nix shell with a functioning jedi-language-server
 - [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
-- [miniguest](https://github.com/lourkeur/miniguest) - lightweight, declarative guest operating systems
+- [miniguest](https://github.com/lourkeur/miniguest) - lightweight NixOS images
 - [mailmap-linter](https://github.com/kamadorueda/mailmap-linter) - Small, easy to use, easy to install tool to lint your git mailmap
 - [nix-babahska-static-bin-pkg](https://github.com/djwhitt/nix-babahska-static-bin-pkg) - 
 - [lisp-overlay](https://github.com/SuperSandro2000/lisp-overlay) - Mirror of
@@ -7440,6 +7453,7 @@
 
 ## OCaml 
 
+- [feather](https://github.com/charlesetc/feather) - A shell library for OCaml
 - [nixos-up](https://github.com/samuela/nixos-up) - The fastest NixOS install there is! 🏎️🏁
 - [opam-coq-archive](https://github.com/coq/opam-coq-archive) - Archive for all Coq related OPAM packages organized in various repositories
 - [MariOCaml](https://github.com/mahsu/MariOCaml) - HTML 5 canvas implementation of Mario written in Ocaml
@@ -7970,6 +7984,7 @@
 - [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science (multiple languages)
 - [awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit) - awesome list of browser exploitation tutorials
 - [awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer
+- [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software.
 - [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software.
 - [awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
 - [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
@@ -8541,6 +8556,8 @@
 
 ## PHP 
 
+- [domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data.
+- [firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [plugin-php](https://github.com/prettier/plugin-php) - Prettier PHP Plugin
 - [pndp](https://github.com/svanderburg/pndp) - PNDP: An internal DSL for Nix in PHP
 - [filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
@@ -8688,6 +8705,7 @@
 
 ## Perl 
 
+- [thinkpad-bios-software-flashing-guide](https://github.com/gch1p/thinkpad-bios-software-flashing-guide) - flashing coreboot on thinkpads without external programmer
 - [debian-graph](https://github.com/norbusan/debian-graph) - Representing Debian UDD in a graph database
 - [Perl-LanguageServer](https://github.com/richterger/Perl-LanguageServer) - Language Server for Perl
 - [mysql_monitor](https://github.com/hcymysql/mysql_monitor) - MySQL Monitor面向研发人员图形可视化监控工具
@@ -8896,6 +8914,7 @@
 
 ## Python 
 
+- [paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [mac-on-linux-with-qemu](https://github.com/arindas/mac-on-linux-with-qemu) - Runs macOS on linux with qemu.
 - [vscode-ext](https://github.com/CodeWithSwastik/vscode-ext) - Create VSCode Extensions with python
@@ -9145,6 +9164,7 @@
 - [Inspect-Shell](https://github.com/amoffat/Inspect-Shell) - Inspect Shell lets you easily use a shell to inspect a process as it's running
 - [pykeylogger](https://github.com/amoffat/pykeylogger) - A pure python keylogger for linux
 - [sh](https://github.com/amoffat/sh) - Python process launching
+- [grap](https://github.com/QuoSecGmbH/grap) - grap: define and match graph patterns within binaries
 - [grap](https://github.com/QuoSecGmbH/grap) - grap: define and match graph patterns within binaries
 - [nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the nginx configurations files without cli.
 - [maya](https://github.com/timofurrer/maya) - Datetimes for Humans™
@@ -11238,6 +11258,7 @@
 - [sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [fcat](https://github.com/mre/fcat) - A 3x faster implementation of cat, using splice
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
+- [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [LambdaCore](https://github.com/Pebaz/LambdaCore) - An interpreted language written in Rust inspired by the Lisp family of languages.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -12682,6 +12703,7 @@
 
 ## Vue 
 
+- [dashy](https://github.com/Lissy93/dashy) - 🚀 A dashboard for your homelab
 - [rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io) - 📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
