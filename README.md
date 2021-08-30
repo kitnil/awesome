@@ -2115,6 +2115,7 @@
 
 ## Dockerfile 
 
+- [docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
 - [dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 - [vulnerable-nginx](https://github.com/detectify/vulnerable-nginx) - An intentionally vulnerable NGINX setup
@@ -2228,6 +2229,24 @@
 
 ## Emacs Lisp 
 
+- [hideshowvis](https://github.com/sheijk/hideshowvis) - Add little +/- icons in the Emacs fringe for regions which hideshow.el can hide.
+- [org-menu](https://github.com/sheijk/org-menu) - A discoverable menu for Emacs org-mode using transient
+- [emacs-crossword](https://github.com/Boruch-Baum/emacs-crossword) - Play/Download crossword puzzles in Emacs
+- [math-hydras](https://github.com/ashok-khanna/math-hydras) - A curated set of Emacs keybindings for math symbols
+- [pair-tree.el](https://github.com/zainab-ali/pair-tree.el) - An Emacs Lisp cons cell explorer
+- [inheritenv](https://github.com/purcell/inheritenv) - Make emacs temp buffers inherit buffer-local environment variables
+- [iscroll](https://github.com/casouri/iscroll) - Smooth scrolling over images in Emacs
+- [emacs-attacks](https://github.com/skeezix/emacs-attacks) - Simple top-down wargame for Emacs
+- [preview-org-html-mode](https://github.com/jakebox/preview-org-html-mode) - Emacs minor mode for an (optionally) live preview of Org exports to HTML using Xwidgets.
+- [chemtable](https://github.com/sergiruiztrepat/chemtable) - Periodic table of the elements
+- [quicklisp-systems](https://github.com/mmontone/quicklisp-systems) - Search, browse and load Quicklisp systems from Emacs.
+- [package-loading-notifier](https://github.com/tttuuu888/package-loading-notifier) - Notify when packages are loaded
+- [unity.el](https://github.com/elizagamedev/unity.el) - Emacs package for integration with Unity game engine
+- [company-org-block](https://github.com/xenodium/company-org-block) - 
+- [dired-gitignore.el](https://github.com/johannes-mueller/dired-gitignore.el) - dired minor mode to ignore files that are to be ignored by git
+- [sketch-mode](https://github.com/dalanicolai/sketch-mode) - Quickly create/draw/paint SVG sketches with keyboard and mouse
+- [filenotify-recursive](https://github.com/jethrokuan/filenotify-recursive) - Recursive watchers for Emacs
+- [consult](https://github.com/minad/consult) - consult.el - Consulting completing-read
 - [emacs-inspector](https://github.com/mmontone/emacs-inspector) - Inspection tool for Emacs Lisp objects.
 - [amethyst](https://github.com/ashton314/amethyst) - An elegant Emacs setup optimized for non-technical writers
 - [dogears.el](https://github.com/alphapapa/dogears.el) - Never lose your place in Emacs again
@@ -3293,7 +3312,6 @@
 - [ert-runner.el](https://github.com/rejeep/ert-runner.el) - Opinionated Ert testing workflow
 - [nodejs-repl.el](https://github.com/abicky/nodejs-repl.el) - Run Node.js REPL and communicate with the process
 - [omni-kill.el](https://github.com/AdrieanKhisbe/omni-kill.el) - ⚔️ M-x kill-all-the-thing ☠️
-- [omni-kill.el](https://github.com/AdrieanKhisbe/omni-kill.el) - ⚔️ M-x kill-all-the-thing ☠️
 - [magit-svn](https://github.com/emacsorphanage/magit-svn) - Git-Svn extension for Magit
 - [clj-refactor.el](https://github.com/clojure-emacs/clj-refactor.el) - A collection of Clojure refactoring functions for Emacs
 - [clippy.el](https://github.com/Fuco1/clippy.el) - Show tooltip with function documentation at point
@@ -4071,6 +4089,7 @@
 
 ## Go 
 
+- [git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs
 - [agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
@@ -5806,6 +5825,7 @@
 
 ## Java 
 
+- [commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader.
 - [plugin-installation-manager-tool](https://github.com/jenkinsci/plugin-installation-manager-tool) - Plugin Manager CLI tool for Jenkins
 - [junit-plugin](https://github.com/jenkinsci/junit-plugin) - Allows JUnit-format test results to be published
 - [EnvFile](https://github.com/ashald/EnvFile) - EnvFile 3.0 is a plugin for JetBrains IDEs that allows you to set environment variables for your run configurations from one or multiple files.
@@ -6112,6 +6132,8 @@
 
 ## JavaScript 
 
+- [eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
+- [online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
 - [vaultPass](https://github.com/mulbc/vaultPass) - A Chrome extension to leverage Hashicorp Vault as Credential Storage for teams
 - [mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
@@ -7169,6 +7191,32 @@
 
 ## Lua 
 
+- [nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
+- [tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
+- [busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
+- [vlsub](https://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org
+- [serpent](https://github.com/pkulchenko/serpent) - Lua serializer and pretty printer.
+- [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Windows, macOS, and Linux
+- [LuaMinify](https://github.com/stravant/LuaMinify) - Lua source code minifier.
+- [lovetoys](https://github.com/lovetoys/lovetoys) - :banana: a full-featured Entity-Component-System framework for making games with lua
+- [mrrescue](https://github.com/SimonLarsen/mrrescue) - Arcade-style fire fighting game
+- [debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .c)
+- [courseplay](https://github.com/Courseplay/courseplay) - Courseplay for Farming Simulator 2019
+- [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference
+- [lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) - Health Checker for Nginx Upstream Servers in Pure Lua
+- [fblualib](https://github.com/facebookarchive/fblualib) - Facebook libraries and utilities for Lua
+- [slardar](https://github.com/upyun/slardar) - Updating your upstream list and run lua scripts without reloading Nginx.
+- [lua-resty-template](https://github.com/bungle/lua-resty-template) - Templating Engine (HTML) for Lua and OpenResty.
+- [sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
+- [cimgui](https://github.com/cimgui/cimgui) - c-api for imgui (https://github.com/ocornut/imgui)    Look at: https://github.com/cimgui for other widgets
+- [defold-games](https://github.com/benjames-171/defold-games) - Collection of simple games made with Defold
+- [MoonGen](https://github.com/emmericp/MoonGen) - MoonGen is a fully scriptable high-speed packet generator built on DPDK and LuaJIT. It can saturate a 10 Gbit/s connection with 64 byte packets on a single CPU core while executing user-provided Lua scripts for each packet. Multi-core support allows for even higher rates. It also features precise and accurate timestamping and rate control.
+- [Questie](https://github.com/Questie/Questie) - Questie: the vanilla quest helper
+- [lua-nginx-redis](https://github.com/Tinywan/lua-nginx-redis) - :hibiscus: Redis、Lua、Nginx、OpenResty 笔记和资料
+- [Anycomplete](https://github.com/nathancahill/Anycomplete) - The magic of Google Autocomplete while you're typing. Anywhere.
+- [lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
+- [factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases.
+- [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - MPV-EASY Player - A modern video player based on mpv
 - [UnityMMO](https://github.com/liuhaopen/UnityMMO) - an unity mmo demo, base on ecs(game play), xlua(ui)
 - [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserialization Using Components with Known Vulnerabilities Insufficient Logging & Monitoring Drupal WordPress Joomla Flash Magento PHP Plone WHMCS Atlassian Products malicious traffic Adult video script avs KVS Kernel Video Sharing Clip Bucket Tube sites Content Management Systems Social networks scripts backends proxy proxies PHP Python Porn sites xxx adult gaming networks servers sites forums vbulletin phpbb mybb smf simple machines forum xenforo web hosting video streaming buffering ldap upstream downstream download upload rtmp vod video over dl hls dash hds mss livestream drm mp4 mp3 swf css js html php python sex m3u zip rar archive compressed mitigation code source sourcecode chan 4chan 4chan.org 8chan.net 8ch 8ch.net infinite chan 8kun 8kun.net anonymous anon tor services .onion torproject.org nginx.org nginx.com openresty.org darknet dark net deepweb deep web darkweb dark web mirror vpn reddit reddit.com adobe flash hackthissite.org dreamhack hack hacked hacking hacker hackers hackerz hackz hacks code coding script scripting scripter source leaks leaked leaking cve vulnerability great firewall china america japan russia .gov government http1 http2 http3 quic q3 litespeedtech litespeed apache torrents torrent torrenting webtorrent bittorrent bitorrent bit-torrent cyberlocker cyberlockers cyber locker cyberbunker warez keygen key generator free irc internet relay chat peer-to-peer p2p cryptocurrency crypto bitcoin miner browser xmr monero coinhive coin hive coin-hive litecoin ethereum cpu cycles popads pop-ads advert advertisement networks banner ads protect ovh blazingfast.io amazon steampowered valve store.steampowered.com steamcommunity thepiratebay lulzsec antisec xhamster pornhub porn.com pornhub.com xhamster.com xvideos xvdideos.com xnxx xnxx.com popads popcash cpm ppc
 - [conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
@@ -7376,7 +7424,7 @@
 - [nixwrt](https://github.com/telent/nixwrt) - Build images for embedded MIPS  SoCs using NixPkgs (experimental)
 - [nixus](https://github.com/Infinisil/nixus) - 
 - [declarative-cachix](https://github.com/jonascarpay/declarative-cachix) - Add cachix caches declaratively
-- [nix-haskell-hls](https://github.com/shajra/nix-haskell-hls) - Nix builds of Haskell Language Server
+- [haskell-hls-nix](https://github.com/shajra/haskell-hls-nix) - Nix builds of Haskell Language Server
 - [nix-mikrotik](https://github.com/Plommonsorbet/nix-mikrotik) - 
 - [flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
 - [node_modules.nix](https://github.com/VanCoding/node_modules.nix) - A nix library to turn your package-lock.json into a fully populated node_modules directory
@@ -7514,6 +7562,8 @@
 
 ## Others 
 
+- [awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
+- [awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [onelinerhub](https://github.com/nonunicorn/onelinerhub) - Lib with nearly 800 (and counting) minimalistic code pieces with clear explanation @ onelinerhub.com
 - [awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
@@ -7985,7 +8035,6 @@
 - [awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit) - awesome list of browser exploitation tutorials
 - [awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer
 - [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software.
-- [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software.
 - [awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
 - [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
 - [awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
@@ -8142,7 +8191,7 @@
 - [hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 - [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
-- [TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
+- [TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
 - [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [kubernetes-the-easy-way](https://github.com/jamesward/kubernetes-the-easy-way) - Bootstrap Kubernetes the easy way on Google Cloud Platform. No scripts.
 - [js-dev-reads](https://github.com/twhite96/js-dev-reads) - A list of books 📚and articles 📝 for the discerning web developer to read.
@@ -8914,6 +8963,7 @@
 
 ## Python 
 
+- [vue-flask](https://github.com/JulienBalestra/vue-flask) - Quick web Dasboard / REST API with Prometheus exporter
 - [paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [mac-on-linux-with-qemu](https://github.com/arindas/mac-on-linux-with-qemu) - Runs macOS on linux with qemu.
@@ -9164,7 +9214,6 @@
 - [Inspect-Shell](https://github.com/amoffat/Inspect-Shell) - Inspect Shell lets you easily use a shell to inspect a process as it's running
 - [pykeylogger](https://github.com/amoffat/pykeylogger) - A pure python keylogger for linux
 - [sh](https://github.com/amoffat/sh) - Python process launching
-- [grap](https://github.com/QuoSecGmbH/grap) - grap: define and match graph patterns within binaries
 - [grap](https://github.com/QuoSecGmbH/grap) - grap: define and match graph patterns within binaries
 - [nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the nginx configurations files without cli.
 - [maya](https://github.com/timofurrer/maya) - Datetimes for Humans™
@@ -10853,6 +10902,7 @@
 
 ## Rust 
 
+- [emacs-module-rs](https://github.com/ubolonton/emacs-module-rs) - Rust binding and tools for Emacs's dynamic modules
 - [flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
 - [jiu](https://github.com/Xetera/jiu) - 🕵️ Detect new images and video on social media feeds and dispatch webhooks on updates
 - [request_smuggler](https://github.com/Sh1Yo/request_smuggler) - Http request smuggling vulnerability scanner
@@ -11258,7 +11308,6 @@
 - [sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [fcat](https://github.com/mre/fcat) - A 3x faster implementation of cat, using splice
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
-- [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [LambdaCore](https://github.com/Pebaz/LambdaCore) - An interpreted language written in Rust inspired by the Lisp family of languages.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -11543,7 +11592,7 @@
 - [toggle-monitor-grayscale](https://github.com/bubbleguuum/toggle-monitor-grayscale) - Toggle Xorg monitors between color and grayscale mode
 - [notify-ssh-login](https://github.com/T-TutoRapide/notify-ssh-login) - Notification des connexions SSH sur discord
 - [vfio-single-amdgpu-passthrough](https://github.com/cosminmocan/vfio-single-amdgpu-passthrough) - This repo is a tutorial for single amd gpu passthrough to various qemu VMs
-- [cfetch](https://github.com/notclint/cfetch) - A simple system information tool for Linux.
+- [cfetch](https://github.com/windybroth/cfetch) - A simple system information tool for Linux.
 - [dockerfile-shebang](https://github.com/JakeWharton/dockerfile-shebang) - Treat your Dockerfiles as self-contained, editable scripts
 - [2D-block-texture-pack](https://github.com/ThePotatoKing55/2D-block-texture-pack) - Replaces 3D models with flat textures in the Minecraft GUI.
 - [dns-here](https://github.com/no-gravity/dns-here) - Run a temporary DNS server that resolves a given hostname to the current IP
@@ -12405,6 +12454,8 @@
 
 ## TypeScript 
 
+- [karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
+- [viscal](https://github.com/rcarriga/viscal) - A visual representation of the lambda calculus and animation of beta reduction.
 - [org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
@@ -12703,6 +12754,7 @@
 
 ## Vue 
 
+- [pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [dashy](https://github.com/Lissy93/dashy) - 🚀 A dashboard for your homelab
 - [rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io) - 📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面
