@@ -3326,7 +3326,7 @@
 - [simple-call-tree](https://github.com/vapniks/simple-call-tree) - Extension to simple-call-tree.el - emacs lisp code for displaying a simple call tree.
 - [buffer-move](https://github.com/lukhas/buffer-move) - 
 - [mmm-mode](https://github.com/purcell/mmm-mode) - New official home for mmm-mode, fixed for Emacs &gt;= 23
-- [helm-ls-git](https://github.com/emacs-helm/helm-ls-git) - Yet another helm to list git file.
+- [helm-ls-git](https://github.com/emacs-helm/helm-ls-git) - Yet another helm to list git files.
 - [pacmacs.el](https://github.com/codingteam/pacmacs.el) - Pacman for Emacs
 - [emacs-eclim](https://github.com/emacs-eclim/emacs-eclim) - This project brings some of the great eclipse features to emacs developers. It is based on the eclim project, which provides eclipse features for vim. Development from senny/emacs-eclim has moved here.
 - [rg.el](https://github.com/dajva/rg.el) - Emacs search tool based on ripgrep
@@ -9562,7 +9562,6 @@
 - [fabricio](https://github.com/renskiy/fabricio) - Docker deploy automation tool
 - [anki-addons](https://github.com/ankitects/anki-addons) - Source code for some Anki add-ons
 - [anki](https://github.com/ankitects/anki) - Anki for desktop computers
-- [BillCipher](https://github.com/GitHackTools/BillCipher) - Information Gathering tool for a Website or IP address
 - [yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [docker-label-inspector](https://github.com/garethr/docker-label-inspector) - Docker Label Inspector is a tool to help ensure you're providing your Docker images with the metadata they will need out in the wilds of the internet.
 - [conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
@@ -9828,7 +9827,6 @@
 - [wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker written with Django
 - [jsonpyes](https://github.com/xros/jsonpyes) - The tool which imports raw JSON to ElasticSearch in one line of commands
 - [sotoki](https://github.com/openzim/sotoki) - Create a ZIM of StackExchange websites
-- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [pyftpdlib](https://github.com/giampaolo/pyftpdlib) - Extremely fast and scalable Python FTP server library
@@ -11361,6 +11359,7 @@
 - [wasp](https://github.com/wasplang/wasp) - a web assembly programming language
 - [rust-belt](https://github.com/johnthagen/rust-belt) - :rocket: Asteroids-like arcade game implemented in Rust ✨
 - [galacritty](https://github.com/unrelentingtech/galacritty) - WIP GTK terminal emulator based on Alacritty
+- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [recover-youtube-videos](https://github.com/cjbassi/recover-youtube-videos) - A cli app that helps you recover privated and deleted videos from your YouTube playlists
 - [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
@@ -11592,7 +11591,7 @@
 - [toggle-monitor-grayscale](https://github.com/bubbleguuum/toggle-monitor-grayscale) - Toggle Xorg monitors between color and grayscale mode
 - [notify-ssh-login](https://github.com/T-TutoRapide/notify-ssh-login) - Notification des connexions SSH sur discord
 - [vfio-single-amdgpu-passthrough](https://github.com/cosminmocan/vfio-single-amdgpu-passthrough) - This repo is a tutorial for single amd gpu passthrough to various qemu VMs
-- [cfetch](https://github.com/windybroth/cfetch) - A simple system information tool for Linux.
+- [cfetch](https://github.com/noqqlint/cfetch) - A simple system information tool for Linux.
 - [dockerfile-shebang](https://github.com/JakeWharton/dockerfile-shebang) - Treat your Dockerfiles as self-contained, editable scripts
 - [2D-block-texture-pack](https://github.com/ThePotatoKing55/2D-block-texture-pack) - Replaces 3D models with flat textures in the Minecraft GUI.
 - [dns-here](https://github.com/no-gravity/dns-here) - Run a temporary DNS server that resolves a given hostname to the current IP
@@ -12626,7 +12625,7 @@
 - [PaWebControl](https://github.com/Siot/PaWebControl) - PulseAudio Web Volume Control
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
-- [boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management for Turn-Based Games
+- [boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
 - [chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
 - [hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
