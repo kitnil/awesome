@@ -1689,7 +1689,6 @@
 - [rofi-themes](https://github.com/davatorium/rofi-themes) - Themes for Rofi
 - [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 - [missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
-- [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
 - [gShort](https://github.com/someone-stole-my-name/gShort) - URL Shortener without all the crap
 - [wide-github](https://github.com/fabiocchetti/wide-github) - Wide GitHub is a simple add-on that makes the GitHub layout wide on Mozilla Firefox.
@@ -5451,6 +5450,7 @@
 - [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
 - [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
+- [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [git-history-editor](https://github.com/bokub/git-history-editor) - :pencil2: Online commit editor, intuitive and easy to use
@@ -6819,7 +6819,7 @@
 - [GraphvizOnline](https://github.com/dreampuf/GraphvizOnline) - Let's Graphviz it Online
 - [lbry-desktop](https://github.com/lbryio/lbry-desktop) - A browser and wallet for LBRY, the decentralized, user-controlled content marketplace.
 - [emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
-- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
+- [insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system
 - [codebox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
 - [overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
@@ -9276,7 +9276,7 @@
 - [Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 - [jqed](https://github.com/Wazzaps/jqed) - json interactive stream editor (jq + up) - for Linux and MacOS
 - [python-twitch](https://github.com/ingwinlu/python-twitch) - python-twitch is an python module for simple interaction with twitch.
-- [Tweet-Locator](https://github.com/JuanBenitezDev/Tweet-Locator) - Tweet locator using Python, Flask and Twitter API
+- [Tweet-Locator](https://github.com/juanbenitezdev/Tweet-Locator) - Tweet locator using Python, Flask and Twitter API
 - [jittor](https://github.com/Jittor/jittor) - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
 - [superimposer](https://github.com/jonhoo/superimposer) - 
 - [pyptex](https://github.com/sloisel/pyptex) - Python Preprocessor for LaTeX
