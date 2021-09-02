@@ -203,6 +203,8 @@
 
 ## C 
 
+- [pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets
+- [dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [CoD4x_Server](https://github.com/callofduty4x/CoD4x_Server) - Extended Call of Duty 4 server
 - [rederr](https://github.com/poettering/rederr) - Colour your stderr red
 - [labwc](https://github.com/johanmalm/labwc) - A Wayland stacking compositor
@@ -1535,7 +1537,7 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.0.39804, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.0.40000, 3.3.5 = 3.3.5a.12340)
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
@@ -1595,7 +1597,7 @@
 - [ryzom](https://github.com/osgcc/ryzom) - Nevrax's MMORPG, The Saga of Ryzom. Mirror of their official mercury repository. Graphical resources are CC available on the website below.
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
-- [avogadro](https://github.com/cryos/avogadro) - Development of Avogadro 2 is being done at https://github.com/openchemistry/avogadrolibs. Avogadro is an advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
+- [avogadro](https://github.com/cryos/avogadro) - Avogadro 1 is not under active development, the repository was archived in September 2021. Development of Avogadro 2 is being done at https://github.com/openchemistry/avogadrolibs. Avogadro is an advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 - [boomaga](https://github.com/Boomaga/boomaga) - Boomaga provides a virtual printer for CUPS. This can be used for print preview or for print booklets.
 - [WinCDEmu](https://github.com/sysprogs/WinCDEmu) - 
 - [colorgrab](https://github.com/nielssp/colorgrab) - A cross-platform color picker
@@ -4370,7 +4372,7 @@
 - [image2ascii](https://github.com/qeesung/image2ascii) - :foggy: Convert image to ASCII
 - [awesome-golang-algorithm](https://github.com/kylesliu/awesome-golang-algorithm) - :memo: LeetCode of algorithms with golang solution(updating).
 - [txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
-- [dstask](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task
+- [dstask](https://github.com/naggie/dstask) - Single binary terminal-based todo manager with git-based sync + markdown notes per task
 - [gmailfilters](https://github.com/jessfraz/gmailfilters) - A tool to sync Gmail filters from a config file to your account.
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
@@ -6440,7 +6442,7 @@
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
-- [BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
@@ -7565,7 +7567,7 @@
 - [awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
-- [onelinerhub](https://github.com/nonunicorn/onelinerhub) - Lib with nearly 800 (and counting) minimalistic code pieces with clear explanation @ onelinerhub.com
+- [onelinerhub](https://github.com/nonunicorn/onelinerhub) - Lib with 800+ (and counting) minimalistic code pieces with clear explanation @ onelinerhub.com
 - [awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 - [awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -7864,7 +7866,7 @@
 - [tcpip-study](https://github.com/chenshuo/tcpip-study) - Shuo's learning notes on Linux TCP/IP stack
 - [fetch-all-the-things](https://github.com/domsson/fetch-all-the-things) - A list of *nix fetch utilities
 - [dockerbomb](https://github.com/amoffat/dockerbomb) - Similar to a fork bomb, but for Docker.  A simple experiment in recursive docker images.
-- [software-engineer-interview-questions](https://github.com/bmarvinb/software-engineer-interview-questions) - A lot of questions and links to prepare yourself for an interview.
+- [software-engineer-interview-questions](https://github.com/bmarvinb/software-engineer-interview-questions) - A lot of questions and links to prepare yourself for your next dream job interview
 - [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) - A curated list of Google Earth Engine resources
@@ -8594,6 +8596,7 @@
 - [csharp_for_beginners](https://github.com/wapmorgan/csharp_for_beginners) - 
 - [evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
 - [gits](https://github.com/Dineshs91/gits) - Get out of apocalypse
+- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
@@ -8963,6 +8966,10 @@
 
 ## Python 
 
+- [anchore-engine](https://github.com/anchore/anchore-engine) - A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification
+- [arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver) - Web interface for browsing, search and filtering recent arxiv submissions
+- [textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [prelockd](https://github.com/hakavlad/prelockd) - Lock executables and shared libraries  in memory to improve system responsiveness under low-memory conditions
 - [vue-flask](https://github.com/JulienBalestra/vue-flask) - Quick web Dasboard / REST API with Prometheus exporter
 - [paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
@@ -9254,6 +9261,7 @@
 - [gsutil](https://github.com/GoogleCloudPlatform/gsutil) - A command line tool for interacting with cloud storage services.
 - [bpython](https://github.com/bpython/bpython) - bpython - A fancy curses interface to the Python interactive interpreter
 - [profiling](https://github.com/what-studio/profiling) - Was an interactive continuous Python profiler.
+- [oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials
 - [Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 - [zipfly](https://github.com/BuzonIO/zipfly) - Writing large ZIP archives without memory inflation
@@ -10900,6 +10908,7 @@
 
 ## Rust 
 
+- [tv](https://github.com/uzimaru0000/tv) - CLI tool for displaying table
 - [emacs-module-rs](https://github.com/ubolonton/emacs-module-rs) - Rust binding and tools for Emacs's dynamic modules
 - [flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
 - [jiu](https://github.com/Xetera/jiu) - 🕵️ Detect new images and video on social media feeds and dispatch webhooks on updates
@@ -10995,7 +11004,7 @@
 - [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [neolink](https://github.com/thirtythreeforty/neolink) - An RTSP bridge to Reolink IP cameras
 - [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
-- [milcheck](https://github.com/doums/milcheck) - A small binary that displays the status of your pacman mirrorlist in your terminal
+- [milcheck](https://github.com/doums/milcheck) - Display the status of your pacman mirrorlist and the Arch Linux lastest news right in your terminal
 - [baru](https://github.com/doums/baru) - A system monitor written in Rust and C
 - [dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust with extensive plugin support
 - [rusty-editor](https://github.com/rg3dengine/rusty-editor) - Scene editor for rg3d engine
@@ -12334,7 +12343,6 @@
 - [tmux-powerline](https://github.com/erikw/tmux-powerline) - Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments.
 - [ansible-tuto-rus](https://github.com/freetonik/ansible-tuto-rus) - Ansible tutorial (Russian)
 - [dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
-- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
@@ -12523,7 +12531,6 @@
 - [rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 - [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
-- [oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [orgajs](https://github.com/orgapp/orgajs) - parse org-mode content into AST
 - [kibana-object-format](https://github.com/istresearch/kibana-object-format) - A Kibana plugin for displaying objects and arrays of objects.
 - [codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
