@@ -4165,7 +4165,7 @@
 - [pint](https://github.com/cloudflare/pint) - Prometheus rule linter
 - [sqlapi](https://github.com/ciceksepetitech/sqlapi) - SQL API is designed to be able to run queries on databases without any configuration by simple HTTP call.
 - [rtty](https://github.com/skanehira/rtty) - Terminal on browser via websocket
-- [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Supports JPEG, PNG, BMP, WEBP, TIFF and GIF formats.
+- [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [weebsay](https://github.com/irevenko/weebsay) - 🎭👄 Like cowsay but it's random anime quote
 - [mangadesk](https://github.com/darylhjd/mangadesk) - Terminal client for MangaDex 📖
 - [cmd-runner](https://github.com/mxssl/cmd-runner) - Execute commands on remote hosts asynchronously over ssh
@@ -5264,7 +5264,7 @@
 - [experiments](https://github.com/bigwhite/experiments) - Personal code, scripts and config files for experiments
 - [c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
-- [sshtron](https://github.com/zachlatta/sshtron) - Play Tron over SSH
+- [sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron.zachlatta.com
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [httpdump](https://github.com/hsiafan/httpdump) - Capture and parse http traffics
@@ -5797,6 +5797,7 @@
 - [Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [free-graphs](https://github.com/puffnfresh/free-graphs) - Generate GraphViz graphs by interpretting free monads.
 - [glance](https://github.com/rgleichman/glance) - A visual Haskell
+- [awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
 - [hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 - [Functional-Programming](https://github.com/caiorss/Functional-Programming) - Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python
@@ -6171,7 +6172,6 @@
 - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [estimator.dev](https://github.com/GoogleChromeLabs/estimator.dev) - 🧮 Calculate the size and performance impact of switching to modern JavaScript syntax.
 - [next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个轻量级堡垒机系统，易安装，易使用，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
-- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +900 social media \ websites (Detections are updated regularly)
 - [papers-with-video](https://github.com/amitness/papers-with-video) - A browser extension that adds video explanations to research papers on arxiv.org
@@ -7384,6 +7384,7 @@
 
 ## Nix 
 
+- [systemd-nix](https://github.com/serokell/systemd-nix) - Generate systemd units from NixOS-style descriptions
 - [ssh-participation](https://github.com/tweag/ssh-participation) - An ssh server that creates new users on-the-fly, great for letting users participate in a demo
 - [nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [vault-secrets](https://github.com/serokell/vault-secrets) - 
@@ -8966,6 +8967,7 @@
 
 ## Python 
 
+- [lupa](https://github.com/scoder/lupa) - Lua in Python
 - [anchore-engine](https://github.com/anchore/anchore-engine) - A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification
 - [arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver) - Web interface for browsing, search and filtering recent arxiv submissions
 - [textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
@@ -10164,7 +10166,6 @@
 - [plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents
 - [live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
-- [awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [todoman](https://github.com/pimutils/todoman) - ✅ A simple, standards-based, cli todo (aka: task) manager.
 - [pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
@@ -12484,6 +12485,7 @@
 - [SnowFS](https://github.com/Snowtrack/SnowFS) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [react-gtk](https://github.com/silicon-hills/react-gtk) - *React Native bridge for gtk desktop applications
 - [nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
+- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [habitica-tracker](https://github.com/ddycai/habitica-tracker) - Tool that displays a history of your Habits, Dailies and completed Todos in Habitica like habit tracker. Check out the Github page to try it out.
 - [uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
 - [alive](https://github.com/nobody-famous/alive) - Common Lisp Extension for VSCode
