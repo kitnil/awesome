@@ -157,6 +157,7 @@
 
 ## Assembly 
 
+- [stage0](https://github.com/oriansj/stage0) - A set of minimal dependency bootstrap binaries
 - [wide-snes](https://github.com/VitorVilela7/wide-snes) - Super Mario World (SNES) Widescreen Project
 - [sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [os-series](https://github.com/davidcallanan/os-series) - 
@@ -624,7 +625,6 @@
 - [antons_opengl_tutorials_book](https://github.com/capnramses/antons_opengl_tutorials_book) - Anton's OpenGL 4 Tutorials book - Demo Code
 - [Bulllord-Engine](https://github.com/MarilynDafa/Bulllord-Engine) - lightspeed lightweight elegant  game engine in pure c
 - [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
-- [engine](https://github.com/g3n/engine) - Go 3D Game Engine (http://g3n.rocks)
 - [Remotery](https://github.com/Celtoys/Remotery) - Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
 - [herebedragons](https://github.com/kosua20/herebedragons) - A basic 3D scene implemented with various engines, frameworks or APIs.
 - [VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
@@ -2101,6 +2101,7 @@
 - [nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend games and applications.
 - [open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) - :iphone: List of open source Flutter applications :octocat:
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+- [nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
 - [chromedeveditor](https://github.com/googlearchive/chromedeveditor) - Chrome Dev Editor is a developer tool for building apps on the Chrome platform - Chrome Apps and Web Apps, in JavaScript or Dart. (NO LONGER IN ACTIVE DEVELOPMENT)
 
 ## Dhall 
@@ -4090,6 +4091,10 @@
 
 ## Go 
 
+- [script_exporter](https://github.com/adhocteam/script_exporter) - Shell script prometheus exporter
+- [ssh_exporter](https://github.com/Nordstrom/ssh_exporter) - A Prometheus exporter for running SSH commands on a remote host and collecting statistics on those outputs
+- [procfs](https://github.com/prometheus/procfs) - procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.
+- [apache_exporter](https://github.com/Lusitaniae/apache_exporter) - Prometheus exporter for Apache.
 - [git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs
@@ -4490,7 +4495,7 @@
 - [GoSH](https://github.com/redcode-labs/GoSH) - Golang reverse/bind shell generator
 - [manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
 - [ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files
-- [ini](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go.
+- [ini](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go
 - [chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [xtermcolor](https://github.com/tomnomnom/xtermcolor) - Golang package and command to convert color.Colour to the nearest xterm/bash/shell color
 - [comb](https://github.com/tomnomnom/comb) - Combine the lines from two files in every combination
@@ -5163,6 +5168,7 @@
 - [conways-gol](https://github.com/KyleBanks/conways-gol) - Conway's Game of Life implemented with Go and OpenGL.
 - [glhf](https://github.com/faiface/glhf) - openGL Have Fun - A Go package that makes life with OpenGL enjoyable.
 - [fauxgl](https://github.com/fogleman/fauxgl) - Software-only 3D renderer written in Go.
+- [engine](https://github.com/g3n/engine) - Go 3D Game Engine (http://g3n.rocks)
 - [gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
 - [external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
@@ -6135,6 +6141,7 @@
 
 ## JavaScript 
 
+- [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
 - [eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 - [online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
@@ -6537,7 +6544,6 @@
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [hogwatch](https://github.com/akshaykmr/hogwatch) - find out what's hogging your internet connection.
-- [archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
 - [falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [sqltabs](https://github.com/sasha-alias/sqltabs) - Rich SQL client for Postgresql, MySQL, MS SQL, Amazon Redshift, Google Firebase (Firestore)
 - [lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
@@ -9697,6 +9703,7 @@
 - [automl-gs](https://github.com/minimaxir/automl-gs) - Provide an input CSV and a target field to predict, generate a model + code to run it.
 - [wafw00f](https://github.com/EnableSecurity/wafw00f) - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
 - [zbx_template_pack](https://github.com/v-zhuravlev/zbx_template_pack) - Sandbox style repository for all templates that may eventually end up in Zabbix. Includes network switches, routers, hardware servers, OS, applications. Created by template generator
+- [archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
 - [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch) - The author's officially unofficial PyTorch BigGAN implementation.
 - [SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
 - [paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
@@ -11995,7 +12002,6 @@
 - [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
 - [pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
-- [nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
 - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
@@ -12361,7 +12367,7 @@
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
-- [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora
+- [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [git-recent](https://github.com/paulirish/git-recent) - See your latest local git branches, formatted real fancy
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [Wallhaven-Downloader](https://github.com/macearl/Wallhaven-Downloader) - A simple download Script for Wallhaven.cc
