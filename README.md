@@ -204,6 +204,7 @@
 
 ## C 
 
+- [wacom-settings](https://github.com/avargas05/wacom-settings) - GUI for calibrating the wacom tablet to a screen or window
 - [pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets
 - [dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [CoD4x_Server](https://github.com/callofduty4x/CoD4x_Server) - Extended Call of Duty 4 server
@@ -742,7 +743,7 @@
 - [lightnet](https://github.com/explosion/lightnet) - 🌓 Bringing pjreddie's DarkNet out of the shadows #yolo
 - [inadyn](https://github.com/troglobit/inadyn) - Dynamic DNS client with SSL/TLS support
 - [Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64)
-- [keylogger](https://github.com/caseyscarborough/keylogger) - A no-frills keylogger for Mac OS X.
+- [keylogger](https://github.com/caseyscarborough/keylogger) - A no-frills keylogger for macOS.
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [restful-doom](https://github.com/jeff-1amstudios/restful-doom) - HTTP+JSON API hosted inside the 1993 DOOM engine!
 - [terminology](https://github.com/borisfaure/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
@@ -2097,6 +2098,7 @@
 
 ## Dart 
 
+- [awesome-flutter-desktop](https://github.com/leanflutter/awesome-flutter-desktop) - A curated list of awesome things related to Flutter desktop.
 - [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend games and applications.
 - [open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) - :iphone: List of open source Flutter applications :octocat:
@@ -2231,6 +2233,7 @@
 
 ## Emacs Lisp 
 
+- [nano-sidebar](https://github.com/rougier/nano-sidebar) - Emacs package to have configurable sidebars on a per frame basis.
 - [hideshowvis](https://github.com/sheijk/hideshowvis) - Add little +/- icons in the Emacs fringe for regions which hideshow.el can hide.
 - [org-menu](https://github.com/sheijk/org-menu) - A discoverable menu for Emacs org-mode using transient
 - [emacs-crossword](https://github.com/Boruch-Baum/emacs-crossword) - Play/Download crossword puzzles in Emacs
@@ -4091,6 +4094,12 @@
 
 ## Go 
 
+- [restic-robot](https://github.com/Southclaws/restic-robot) - Backups done right... by robots! Restic backup but the robot friendly version.
+- [kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
+- [regit-go](https://github.com/WithGJR/regit-go) - ReGit: A Tiny Git-Compatible Git Implementation
+- [dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover
+- [exatorrent](https://github.com/varbhat/exatorrent) - Self-hostable , easy-to-use , lightweight and feature-rich torrent client written in Go . It comes with beautiful Web UI and Optional Multi-User Support . Run Locally or Host in Server . Open/Download/Stream Torrents in Browser Right Away!
+- [termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and (eventually) editing database files. Only support for SQLite currently. MySQL support will be added soon.
 - [script_exporter](https://github.com/adhocteam/script_exporter) - Shell script prometheus exporter
 - [ssh_exporter](https://github.com/Nordstrom/ssh_exporter) - A Prometheus exporter for running SSH commands on a remote host and collecting statistics on those outputs
 - [procfs](https://github.com/prometheus/procfs) - procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.
@@ -4153,7 +4162,7 @@
 - [oauth2l](https://github.com/google/oauth2l) - oauth2l ("oauth tool") is a simple CLI for interacting with Google API authentication.
 - [sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
 - [koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
-- [jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 [WIP] Feature-rich interactive Jira command line.
+- [jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command-line.
 - [triangula](https://github.com/RH12503/triangula) - Generate high-quality triangulated and polygonal art from images.
 - [terraform-provider-bash](https://github.com/apparentlymart/terraform-provider-bash) - Terraform utility provider for constructing bash scripts that use data from a Terraform module
 - [docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
@@ -5397,6 +5406,7 @@
 
 ## HTML 
 
+- [focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [htmlisp](https://github.com/jawadcode/htmlisp) - Compiles lisp style html into normal html
 - [wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [Java-JDK10](https://github.com/umair-akb/Java-JDK10) - Java version 1.1 + JDK 1.0 and very early Java applets, developed 1995 to 1996.
@@ -5834,6 +5844,7 @@
 
 ## Java 
 
+- [CodeLocator](https://github.com/bytedance/CodeLocator) - 
 - [commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader.
 - [plugin-installation-manager-tool](https://github.com/jenkinsci/plugin-installation-manager-tool) - Plugin Manager CLI tool for Jenkins
 - [junit-plugin](https://github.com/jenkinsci/junit-plugin) - Allows JUnit-format test results to be published
@@ -6141,6 +6152,7 @@
 
 ## JavaScript 
 
+- [zx](https://github.com/google/zx) - A tool for writing better scripts
 - [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
 - [eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 - [online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
@@ -7093,6 +7105,7 @@
 
 ## Kotlin 
 
+- [MovieCompose](https://github.com/skydoves/MovieCompose) - 🎞 A demo movie app using Jetpack Compose and Hilt based on modern Android tech stacks.
 - [ruler](https://github.com/spotify/ruler) - Gradle plugin which helps you analyze the size of your Android apps.
 - [android-apk-size-watcher-plugin](https://github.com/jenkinsci/android-apk-size-watcher-plugin) - 
 - [eskotlin](https://github.com/mbuhot/eskotlin) - Elasticsearch Query DSL for Kotlin
@@ -7199,6 +7212,7 @@
 
 ## Lua 
 
+- [impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
@@ -7571,6 +7585,10 @@
 
 ## Others 
 
+- [awesome-rfid-talks](https://github.com/doegox/awesome-rfid-talks) - 
+- [awesome-interactive-math](https://github.com/ubavic/awesome-interactive-math) - A curated list of tools that can be used for creating interactive mathematical  explorables.
+- [modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [free](https://github.com/wrfree/free) - 翻墙、免费翻墙 -- free proxy node configuration, let programmers from China freely access the global network. Regular updates every 4 hours.
 - [awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
@@ -7578,7 +7596,6 @@
 - [awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 - [awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-- [linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
 - [awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [MicrosoftWontFixList](https://github.com/cfalta/MicrosoftWontFixList) - A list of vulnerabilities or design flaws that Microsoft does not intend to fix. Since the number is growing, I decided to make a list. This list covers only vulnerabilities that came up in July 2021 (and SpoolSample ;-))
 - [clojure-deps-edn](https://github.com/practicalli/clojure-deps-edn) - User level aliases and Clojure CLI configuration for deps.edn based projects
@@ -7834,7 +7851,6 @@
 - [awesome-layers](https://github.com/mthenw/awesome-layers) - λ A curated list of awesome AWS Lambda Layers.
 - [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) - A curated list of MQTT related stuff. :sparkles:
 - [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
-- [Awesome-AutoDL](https://github.com/D-X-Y/Awesome-AutoDL) - A curated list of automated deep learning (including neural architecture search and hyper-parameter optimization) resources.
 - [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab) - A curated list of awesome JupyterLab extensions and resources
 - [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 - [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
@@ -8973,6 +8989,7 @@
 
 ## Python 
 
+- [sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [lupa](https://github.com/scoder/lupa) - Lua in Python
 - [anchore-engine](https://github.com/anchore/anchore-engine) - A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification
 - [arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver) - Web interface for browsing, search and filtering recent arxiv submissions
@@ -9134,6 +9151,7 @@
 - [awesome-fast-attention](https://github.com/Separius/awesome-fast-attention) - list of efficient attention modules
 - [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
+- [Awesome-AutoDL](https://github.com/D-X-Y/Awesome-AutoDL) - A curated list of automated deep learning (including neural architecture search and hyper-parameter optimization) resources.
 - [uwsgitop](https://github.com/xrmx/uwsgitop) - top-like app for monitoring uWSGI instances
 - [ptmv](https://github.com/kal39/ptmv) - An utf-8/truecolor image and video viewer for the terminal
 - [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
@@ -10916,7 +10934,8 @@
 
 ## Rust 
 
-- [tv](https://github.com/uzimaru0000/tv) - CLI tool for displaying table
+- [nix-netboot-serve](https://github.com/DeterminateSystems/nix-netboot-serve) - Make any NixOS system netbootable with 10s cycle times.
+- [tv](https://github.com/uzimaru0000/tv) - Format json into table view
 - [emacs-module-rs](https://github.com/ubolonton/emacs-module-rs) - Rust binding and tools for Emacs's dynamic modules
 - [flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
 - [jiu](https://github.com/Xetera/jiu) - 🕵️ Detect new images and video on social media feeds and dispatch webhooks on updates
@@ -11566,6 +11585,7 @@
 - [pdfcrack](https://github.com/machine1337/pdfcrack) - An Advanced tool to Crack Any Password Protected PDF file. A very user friendly script especially for noob hackers.
 - [kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
 - [calendar-notification](https://github.com/chebro/calendar-notification) - calendar notification for linux desktops using dunst
+- [linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
 - [selenium.sh](https://github.com/sudharsan-selvaraj/selenium.sh) - Selenium web driver bindings for the shell script 🐚. Browser automation made possible with bash now 💯
 - [VNCBruteForce](https://github.com/aydinnyunus/VNCBruteForce) - VNCBruteForce - Brute Force attacks VNC with Hydra.
 - [wireguard-initramfs](https://github.com/r-pufky/wireguard-initramfs) - Use dropbear over wireguard.
