@@ -149,6 +149,7 @@
 
 ## Agda 
 
+- [agda2hs](https://github.com/agda/agda2hs) - Compiling Agda code to readable Haskell
 - [cedille](https://github.com/cedille/cedille) - Cedille, a dependently typed programming languages based on the Calculus of Dependent Lambda Eliminations
 
 ## Arc 
@@ -1165,6 +1166,7 @@
 - [Tendis](https://github.com/Tencent/Tendis) - Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.
 - [wisp](https://github.com/adam-mcdaniel/wisp) - A light lisp written in C++
 - [tiny_link](https://github.com/NoelFB/tiny_link) - tiny game made in ~15 hours on stream
+- [safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.
 - [poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
@@ -1408,7 +1410,7 @@
 - [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [freeminer](https://github.com/freeminer/freeminer) - Freeminer is an open source sandbox game inspired by Minecraft.
 - [NoahGameFrame](https://github.com/ketoo/NoahGameFrame) - A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.
-- [EpicSurvivalGameSeries](https://github.com/tomlooman/EpicSurvivalGameSeries) - Third-person Survival Game for Unreal Engine 4 (Sample Project)
+- [EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGame) - Third-person Survival Game for Unreal Engine 4 (Sample Project)
 - [tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 - [easystroke](https://github.com/thjaeger/easystroke) - X11 gesture recognition application
 - [DGEngine](https://github.com/dgcor/DGEngine) - An implementation of the Diablo 1 game engine
@@ -2065,6 +2067,8 @@
 
 ## Coq 
 
+- [coq-to-ocaml-to-js](https://github.com/smorimoto/coq-to-ocaml-to-js) - Proof of concept to generate safe and fast JavaScript
+- [hs-to-coq](https://github.com/plclub/hs-to-coq) - Convert Haskell source code to Coq source code.
 - [monae](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasonig in Coq
 - [InteractionTrees](https://github.com/DeepSpec/InteractionTrees) - A Library for Representing Recursive and Impure Programs in Coq
 - [CompCert](https://github.com/AbsInt/CompCert) - The CompCert formally-verified C compiler
@@ -3975,7 +3979,7 @@
 - [org-reveal](https://github.com/yjwen/org-reveal) - Exports Org-mode contents to Reveal.js HTML presentation.
 - [ox-gfm](https://github.com/larstvei/ox-gfm) - Github Flavored Markdown Back-End for Org Export Engine
 - [ox-twbs](https://github.com/marsmining/ox-twbs) - Export org-mode docs as HTML compatible with Twitter Bootstrap.
-- [org-preview-html](https://github.com/jakebox/org-preview-html) - automatically use eww to preview current org-file when save
+- [org-preview-html](https://github.com/jakebox/org-preview-html) - Automatically preview org-exported HTML files within Emacs.
 - [omnisharp-emacs](https://github.com/OmniSharp/omnisharp-emacs) - Troll coworkers - use Emacs at work for csharp!
 - [emamux](https://github.com/emacsorphanage/emamux) - tmux manipulation from Emacs
 - [emacs-gitlab](https://github.com/nlamirault/emacs-gitlab) - A Gitlab client for Emacs
@@ -4094,6 +4098,8 @@
 
 ## Go 
 
+- [stdin2rabbitmq](https://github.com/hipages/stdin2rabbitmq) - 
+- [php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM.
 - [restic-robot](https://github.com/Southclaws/restic-robot) - Backups done right... by robots! Restic backup but the robot friendly version.
 - [kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
 - [regit-go](https://github.com/WithGJR/regit-go) - ReGit: A Tiny Git-Compatible Git Implementation
@@ -4111,7 +4117,7 @@
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [unixtransport](https://github.com/peterbourgon/unixtransport) - Support for Unix domain sockets in Go HTTP clients
 - [pqssh](https://github.com/mattn/pqssh) - 
-- [viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc.
+- [viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
 - [vaultfs](https://github.com/asteris-llc/vaultfs) - Vault filesystem (and Docker volume plugin)
 - [vault-auth-file](https://github.com/gites/vault-auth-file) - HashiCorp Vault authentication plugin for authenticating via Unix password like file
@@ -7588,7 +7594,7 @@
 - [awesome-rfid-talks](https://github.com/doegox/awesome-rfid-talks) - 
 - [awesome-interactive-math](https://github.com/ubavic/awesome-interactive-math) - A curated list of tools that can be used for creating interactive mathematical  explorables.
 - [modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [free](https://github.com/wrfree/free) - 翻墙、免费翻墙 -- free proxy node configuration, let programmers from China freely access the global network. Regular updates every 4 hours.
+- [free](https://github.com/wrfree/free) - freefq账号已恢复！翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 -- free proxy node configuration, let programmers from China freely access the global network. Regular updates every 4 hours.
 - [awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
@@ -9121,7 +9127,7 @@
 - [autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts)
 - [designate](https://github.com/openstack/designate) - OpenStack DNS As A Service (Designate). Mirror of code maintained at opendev.org.
-- [timezones-cli](https://github.com/yankeexe/timezones-cli) - CLI to store and glance date-time from multiple time zones.
+- [timezones-cli](https://github.com/yankeexe/timezones-cli) - Get local datetime from multiple timezones.
 - [jsonresume-fake](https://github.com/jsonresume/jsonresume-fake) - Fully generated fake resumes using machine learning models trained off ~6000 JSON resumes.
 - [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
 - [kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
@@ -10736,6 +10742,7 @@
 
 ## Ruby 
 
+- [jenkins-infra](https://github.com/jenkins-infra/jenkins-infra) - Jenkins main control repo for R10k and our Puppet Enterprise managed infrastructure
 - [nakischema](https://github.com/Nakilon/nakischema) - The most compact yet powerful arbitrary nested objects validator. Especially handy to validate JSONs.
 - [fisk](https://github.com/tenderlove/fisk) - A pure Ruby assembler
 - [nginx](https://github.com/sous-chefs/nginx) - Development repository for the nginx cookbook
@@ -10921,7 +10928,7 @@
 - [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [mailman](https://github.com/mailman/mailman) - An incoming mail processing microframework in Ruby
 - [diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
-- [rails_panel](https://github.com/dejan/rails_panel) - Chrome/Firefox extension for Rails development
+- [rails_panel](https://github.com/dejan/rails_panel) - Chrome extension for Rails development
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager
@@ -10934,6 +10941,7 @@
 
 ## Rust 
 
+- [below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 - [nix-netboot-serve](https://github.com/DeterminateSystems/nix-netboot-serve) - Make any NixOS system netbootable with 10s cycle times.
 - [tv](https://github.com/uzimaru0000/tv) - Format json into table view
 - [emacs-module-rs](https://github.com/ubolonton/emacs-module-rs) - Rust binding and tools for Emacs's dynamic modules
@@ -10969,7 +10977,7 @@
 - [hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff
 - [rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
-- [rustcat](https://github.com/robiot/rustcat) - ⚙️ Modern Port Listener  & Reverse Shell
+- [rustcat](https://github.com/robiot/rustcat) - ⚙️ The Modern Port Listener & Reverse Shell
 - [awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [todo_r](https://github.com/lavifb/todo_r) - Find all your TODO notes with one command!
 - [morse2sound](https://github.com/irevenko/morse2sound) - 📜🔁🎶 A CLI which converts morse code into sound
@@ -11094,7 +11102,7 @@
 - [yatta](https://github.com/LGUG2Z/yatta) - A tiling window manager for Windows 10 based on binary space partitioning
 - [CalcuLaTeX](https://github.com/mkhan45/CalcuLaTeX) - A pretty printing calculator language with support for units. Makes calculations easier and more presentable with real time LaTeX output, along with support for units, variables, and mathematical functions.
 - [ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
-- [tai](https://github.com/MustafaSalih1993/tai) - tai (Terminal Ascii Image) tool to convert images to ascii written in Rust
+- [tai](https://github.com/MustafaSalih1993/tai) - tai (Terminal Ascii Images) tool to convert images to text written in Rust
 - [byztimed](https://github.com/akamai-contrib/byztimed) - Byzantine-fault-tolerant time synchronization
 - [cproxy](https://github.com/NOBLES5E/cproxy) - Easy per application transparent proxy built on cgroup.
 - [Myxer](https://github.com/VixenUtils/Myxer) - A modern Volume Mixer for PulseAudio.
@@ -11642,7 +11650,6 @@
 - [parallel-bash](https://github.com/Akianonymus/parallel-bash) - Parallel processing of commands in pure bash along with the support of functions.
 - [fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [AllVideoPocsFromHackerOne](https://github.com/zeroc00I/AllVideoPocsFromHackerOne) - This script grab public report from hacker one and make some folders with poc videos
-- [safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.
 - [theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [bash-http-monitoring](https://github.com/RaymiiOrg/bash-http-monitoring) - HTTP(s) monitoring webpage via shell script
