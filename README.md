@@ -4043,6 +4043,7 @@
 
 - [rralle](https://github.com/q60/rralle) - Random quote fetching console utility.
 - [erlscripten](https://github.com/erlscripten/erlscripten) - Erlang to PureScript transpiler. Run Erlang in the browser!
+- [ultron](https://github.com/ivanceras/ultron) - Web base text editor written in rust
 - [type_mapper](https://github.com/flussonic/type_mapper) - Erlang type mapping tool that allows to convert json to structured data according to type specs
 - [alpaca](https://github.com/alpaca-lang/alpaca) - Functional programming inspired by ML for the Erlang VM
 - [erlang_ls](https://github.com/erlang-ls/erlang_ls) - The Erlang Language Server
@@ -4098,6 +4099,7 @@
 
 ## Go 
 
+- [mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics
 - [stdin2rabbitmq](https://github.com/hipages/stdin2rabbitmq) - 
 - [php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM.
 - [restic-robot](https://github.com/Southclaws/restic-robot) - Backups done right... by robots! Restic backup but the robot friendly version.
@@ -7410,6 +7412,7 @@
 
 ## Nix 
 
+- [digga](https://github.com/divnix/digga) - A a flake utility library to craft shell-, home-, and hosts- environments.
 - [systemd-nix](https://github.com/serokell/systemd-nix) - Generate systemd units from NixOS-style descriptions
 - [ssh-participation](https://github.com/tweag/ssh-participation) - An ssh server that creates new users on-the-fly, great for letting users participate in a demo
 - [nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
@@ -10742,6 +10745,7 @@
 
 ## Ruby 
 
+- [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [jenkins-infra](https://github.com/jenkins-infra/jenkins-infra) - Jenkins main control repo for R10k and our Puppet Enterprise managed infrastructure
 - [nakischema](https://github.com/Nakilon/nakischema) - The most compact yet powerful arbitrary nested objects validator. Especially handy to validate JSONs.
 - [fisk](https://github.com/tenderlove/fisk) - A pure Ruby assembler
@@ -11043,7 +11047,7 @@
 - [baru](https://github.com/doums/baru) - A system monitor written in Rust and C
 - [dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust with extensive plugin support
 - [rusty-editor](https://github.com/rg3dengine/rusty-editor) - Scene editor for rg3d engine
-- [Graphite](https://github.com/GraphiteEditor/Graphite) - Powerful 2D vector and raster editing: procedural and nondestructive. (Photoshop + Illustrator + Houdini = Graphite)
+- [Graphite](https://github.com/GraphiteEditor/Graphite) - Powerful 2D vector and raster editing. Procedural and nondestructive.
 - [tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
 - [grout](https://github.com/tarkah/grout) - Simple tiling window manager for Windows
 - [sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
@@ -11152,7 +11156,6 @@
 - [scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [complexity](https://github.com/thoughtbot/complexity) - A command line tool to identify complex code
 - [lazycli](https://github.com/jesseduffield/lazycli) - Turn static CLI commands into TUIs with ease
-- [ultron](https://github.com/ivanceras/ultron) - Web base text editor written in rust
 - [atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off
 - [discord-channel-archiver](https://github.com/Sciencentistguy/discord-channel-archiver) - A small discord bot to archive the messages in a discord text channel.
 - [similar](https://github.com/mitsuhiko/similar) - A high level diffing library for rust based on diffs
