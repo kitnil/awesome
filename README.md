@@ -620,7 +620,7 @@
 - [yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [raylib-lua](https://github.com/raysan5/raylib-lua) - A simple and easy-to-use Lua library to enjoy videogames programming
 - [openswe1r](https://github.com/OpenSWE1R/openswe1r) - An Open-Source port of the 1999 Game "Star Wars Episode 1: Racer"
-- [exengine](https://github.com/exezin/exengine) - A C99 3D game engine
+- [exengine](https://github.com/eg-z/exengine) - A C99 3D game engine
 - [qfusion](https://github.com/Qfusion/qfusion) - Source code for cross-platform OpenGL gaming engine
 - [simple2d](https://github.com/simple2d/simple2d) - :video_game: Simple, open-source 2D graphics for everyone
 - [glslcookbook](https://github.com/daw42/glslcookbook) - Example code for the OpenGL Shading Language Cookbook - 2nd Edition (3rd Edition now available)
@@ -4659,7 +4659,7 @@
 - [v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [fireworq](https://github.com/fireworq/fireworq) - Fireworq is a lightweight, high-performance, language-independent job queue system.
 - [fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
-- [roadrunner](https://github.com/spiral/roadrunner) - High-performance PHP application server, load-balancer and process manager written in Golang
+- [roadrunner](https://github.com/spiral/roadrunner) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
 - [git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
 - [kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
@@ -5398,6 +5398,7 @@
 
 ## HCL 
 
+- [json2hcl](https://github.com/kvz/json2hcl) - Convert JSON to HCL, and vice versa. We don't use json2hcl anymore ourselves, so we can't invest time into it. However, we're still welcoming PRs.
 - [terraform-aws-elastic-beanstalk-environment](https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment) - Terraform module to provision an AWS Elastic Beanstalk Environment
 - [terraform-with-circleci-example](https://github.com/fedekau/terraform-with-circleci-example) - This is an example of automatic deployments of your infrastructure using terraform and CircleCI 2.0 workflows
 - [terraform-aws-jenkins](https://github.com/cloudposse/terraform-aws-jenkins) - Terraform module to build Docker image with Jenkins, save it to an ECR repo, and deploy to Elastic Beanstalk running Docker stack
@@ -5415,7 +5416,6 @@
 ## HTML 
 
 - [focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [htmlisp](https://github.com/jawadcode/htmlisp) - Compiles lisp style html into normal html
 - [wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [Java-JDK10](https://github.com/umair-akb/Java-JDK10) - Java version 1.1 + JDK 1.0 and very early Java applets, developed 1995 to 1996.
 - [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
@@ -5924,7 +5924,7 @@
 - [crewmate](https://github.com/crewmate-srv/crewmate) - An open-source implementation of the Among Us server in Java.
 - [dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) - A Gradle plugin to report the number of method references in your APK on every build.
 - [DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
-- [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具，支持系统信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量，进程等监控，API接口，大屏展示，拓扑图，端口监控，docker监控，日志文件监控，数据可视化，webSSH工具，堡垒机(跳板机)
+- [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具，支持系统信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量，进程等监控，API接口，大屏展示，拓扑图，端口监控，docker监控，日志文件监控，数据可视化，web ssh，堡垒机，指令下发执行，linux面板
 - [liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [MusicDNA](https://github.com/harjot-oberai/MusicDNA) - A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.
@@ -7191,7 +7191,7 @@
 - [mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
 - [westford](https://github.com/udevbe/westford) - Westford Wayland Compositor
 - [replete-android](https://github.com/replete-repl/replete-android) - ClojureScript REPL Android app
-- [VDM](https://github.com/ingbyr/VDM) - GUI for command-line video downloader (youtube-dl annie)
+- [vdm](https://github.com/ingbyr/vdm) - GUI for command-line video downloader (youtube-dl annie)
 - [Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [awesome-conferences-database](https://github.com/matteocrippa/awesome-conferences-database) - 📲 A collaborative list of Conferences
 - [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - A lightweight Android browser with modern navigation
@@ -7255,7 +7255,7 @@
 - [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
 - [SNKRX](https://github.com/a327ex/SNKRX) - A replayable arcade shooter where you control a snake of heroes.
 - [packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
-- [neorg](https://github.com/vhyrro/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
+- [neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
 - [Game-Server-Configs](https://github.com/GameServerManagers/Game-Server-Configs) - A repo of game server configuration files used by LinuxGSM
 - [monitoring](https://github.com/minetest-monitoring/monitoring) - Monitoring mod for minetest server owners
@@ -10945,6 +10945,8 @@
 
 ## Rust 
 
+- [ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
+- [agenix-cli](https://github.com/cole-h/agenix-cli) - Companion tool to https://github.com/ryantm/agenix
 - [below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 - [nix-netboot-serve](https://github.com/DeterminateSystems/nix-netboot-serve) - Make any NixOS system netbootable with 10s cycle times.
 - [tv](https://github.com/uzimaru0000/tv) - Format json into table view
@@ -10973,6 +10975,7 @@
 - [inside-vm](https://github.com/PicoJr/inside-vm) - Detect if code is running inside a virtual machine (x86 and x86-64 only).
 - [paper](https://github.com/snakedye/paper) - A wallpaper daemon for Wayland compositors
 - [hosts-rs](https://github.com/zu1k/hosts-rs) - hosts file parsing, modification library, and some derivatives.
+- [htmlisp](https://github.com/jawadcode/htmlisp) - Compiles lisp style html into normal html
 - [StarWM](https://github.com/StarWM/StarWM) - StarWM is an extensible, floating and tiling, X window manager for Linux-based operating systems written in Rust.
 - [profile_stack](https://github.com/gleich/profile_stack) - 🚀 Display your tech stack on your GitHub profile's README
 - [xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
@@ -12110,7 +12113,7 @@
 - [Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [docker-statsd-influxdb-grafana](https://github.com/samuelebistoletti/docker-statsd-influxdb-grafana) - Docker Image with Telegraf (StatsD), InfluxDB and Grafana
 - [grafana-dashboards](https://github.com/mlabouardy/grafana-dashboards) - List of Grafana Dashboards 📺
-- [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
+- [jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
 - [docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [st2-docker](https://github.com/StackStorm/st2-docker) - StackStorm docker-compose deployment
 - [docker-cups](https://github.com/thbe/docker-cups) - Creates an Alpine Linux CUPS server
