@@ -4099,6 +4099,12 @@
 
 ## Go 
 
+- [gitlab-merger](https://github.com/mvisonneau/gitlab-merger) - Automated merge request creation for GitLab projects
+- [slack-git-compare](https://github.com/mvisonneau/slack-git-compare) - Compare git references within Slack
+- [strongbox](https://github.com/mvisonneau/strongbox) - Securely store secrets at rest using Hashicorp Vault
+- [gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
+- [github-exporter](https://github.com/infinityworks/github-exporter) - :octocat: Prometheus exporter for github metrics
+- [whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics
 - [stdin2rabbitmq](https://github.com/hipages/stdin2rabbitmq) - 
 - [php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM.
@@ -4107,7 +4113,7 @@
 - [regit-go](https://github.com/WithGJR/regit-go) - ReGit: A Tiny Git-Compatible Git Implementation
 - [dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover
 - [exatorrent](https://github.com/varbhat/exatorrent) - Self-hostable , easy-to-use , lightweight and feature-rich torrent client written in Go . It comes with beautiful Web UI and Optional Multi-User Support . Run Locally or Host in Server . Open/Download/Stream Torrents in Browser Right Away!
-- [termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and (eventually) editing database files. Only support for SQLite currently. MySQL support will be added soon.
+- [termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [script_exporter](https://github.com/adhocteam/script_exporter) - Shell script prometheus exporter
 - [ssh_exporter](https://github.com/Nordstrom/ssh_exporter) - A Prometheus exporter for running SSH commands on a remote host and collecting statistics on those outputs
 - [procfs](https://github.com/prometheus/procfs) - procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.
@@ -4580,7 +4586,7 @@
 - [gtkcord3](https://github.com/diamondburned/gtkcord3) - A Gtk3 Discord client in Golang
 - [go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively
 - [goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
-- [earthly](https://github.com/earthly/earthly) - Build automation for the container era
+- [earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [podcast-cli](https://github.com/goulinkh/podcast-cli) - Podcast CLI player
 - [rssfs](https://github.com/dertuxmalwieder/rssfs) - The RSS file system (Git mirror)
 - [apkurlgrep](https://github.com/ndelphit/apkurlgrep) - Extract endpoints from APK files
@@ -7412,6 +7418,7 @@
 
 ## Nix 
 
+- [nixos-guix-vm](https://github.com/guilhermehas/nixos-guix-vm) - VM of Guix on NixOS
 - [digga](https://github.com/divnix/digga) - A a flake utility library to craft shell-, home-, and hosts- environments.
 - [systemd-nix](https://github.com/serokell/systemd-nix) - Generate systemd units from NixOS-style descriptions
 - [ssh-participation](https://github.com/tweag/ssh-participation) - An ssh server that creates new users on-the-fly, great for letting users participate in a demo
@@ -10027,7 +10034,7 @@
 - [notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [twitterscraper](https://github.com/taspinar/twitterscraper) - Scrape Twitter for Tweets
 - [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
-- [erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
+- [erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions
 - [SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
 - [cocos](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language on PC-like hardware
@@ -11500,6 +11507,8 @@
 
 ## Scheme 
 
+- [guile-libyaml](https://github.com/mwette/guile-libyaml) - simple yaml module using ffi-helper from www.nongnu.org/nyacc
+- [scheme-solutions](https://github.com/nuclearmeltd0wn101/scheme-solutions) - My scheme tasks solutions at 1st grade maths + bonus: linear equations solver
 - [lispy](https://github.com/fluentpython/lispy) - Learning with Peter Norvig's lis.py interpreter
 - [fetch.scm](https://github.com/KikyTokamuro/fetch.scm) - System information fetcher written in GNU Guile Scheme
 - [guile-png](https://github.com/artyom-poptsov/guile-png) - Portable Network Graphics (PNG) format parser for GNU Guile.
